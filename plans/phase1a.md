@@ -12,8 +12,8 @@
    cp "/media/andy/DATA/Projects/The Friday Rock Show Registry/FRSEpisodeDetailExtractor/output/1980/"*.json data/episodes/1980/
    ```
 - [X] 2. **(Manual)** Add `.venv/` and `logs/` to `.gitignore` (create it if it doesn't exist in `AskTV/`)
-- [ ] 3. **(Manual)** Commit the raw JSONs as a baseline — this gives a clean git diff showing exactly what the transcription step adds to each file
-- [ ] 4. **(Manual)** Create and activate venv:
+- [X] 3. **(Manual)** Commit the raw JSONs as a baseline — this gives a clean git diff showing exactly what the transcription step adds to each file
+- [X] 4. **(Manual)** Create and activate venv:
    ```
    python3 -m venv .venv
    source .venv/bin/activate
