@@ -28,14 +28,14 @@ The foundation of the 1980 archive has been established.
 ## 3. Phase 1: The Local Processing Factory (Next Steps)
 The following steps must be executed locally to enrich the existing JSON files with audio-derived data.
 
-### Step C: The Transcription Engine
+### Step A: The Transcription Engine
 * **Objective**: Convert spoken word to timestamped text to capture Tommy Vance's introductions and commentary.
 * **Input**: `FRS YYYY-MM-DD_128kps.mp3`.
 * **Tool**: `faster-whisper` (Model: `large-v3`, Quantization: `int8`).
 * **Requirement**: Iterate through the 1980 audio folder, matching each MP3 to its corresponding JSON file.
 * **Output**: Append a `transcript` array to the JSON file with objects containing `start`, `end`, and `text`.
 
-### Step D: The Music Indexer (Validation Pass)
+### Step B: The Music Indexer (Validation Pass)
 * **Objective**: Use audio fingerprinting to verify and timestamp the "Track Listing" found in the scraped JSON.
 * **Input**: `FRS YYYY-MM-DD_128kps.mp3`.
 * **Tool**: `ShazamIO`.
