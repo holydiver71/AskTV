@@ -1,0 +1,80 @@
+{
+  "title": "FRS 1980-10-03",
+  "url": "https://fridayrockshow.fandom.com/wiki/03_October_1980",
+  "show": {
+    "date": "1980-10-03",
+    "comments": []
+  },
+  "sessions": [
+    {
+      "artist": "Magnum",
+      "details": "live at Reading Festival, 24th August 1980"
+    },
+    {
+      "artist": "Krokus",
+      "details": "live at Reading Festival, 22nd August 1980"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Rainbow",
+      "track": "Stargazer",
+      "details": "LP-VA Monsters Of Rock - Donnington 1980"
+    },
+    {
+      "artist": "Molly Hatchet",
+      "track": "Double Talker",
+      "details": "LP-Beatin' The Odds"
+    },
+    {
+      "artist": "Slade",
+      "track": "Born To Be Wild",
+      "details": "7” Single – 4 track Reading 1980 EP"
+    },
+    {
+      "artist": "Gamma",
+      "track": "Something In The AIr",
+      "details": "7\" Single"
+    },
+    {
+      "artist": "Saxon",
+      "track": "Strong Arm Of The Law",
+      "details": "7\" Single"
+    },
+    {
+      "artist": "Poco",
+      "track": "Down To The Wire",
+      "details": "LP-Under The Gun"
+    },
+    {
+      "artist": "Magnum",
+      "track": "live at Reading Festival, 24th August 1980",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Krokus",
+      "track": "live at Reading Festival, 22nd August 1980",
+      "details": null
+    },
+    {
+      "artist": "Uriah Heep",
+      "track": "Return To Fantasy",
+      "details": "LP-Return To Fantasy"
+    },
+    {
+      "artist": "Money",
+      "track": "Leo The Jester",
+      "details": "LP-VA - Metal Explosion"
+    },
+    {
+      "artist": "Touch",
+      "track": "'Don't You Know What Love Is'",
+      "details": "LP-Monsters Of Rock"
+    }
+  ]
+}

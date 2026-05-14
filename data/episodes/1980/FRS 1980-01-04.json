@@ -1,0 +1,129 @@
+{
+  "title": "FRS 1980-01-04",
+  "url": "https://fridayrockshow.fandom.com/wiki/04_January_1980",
+  "show": {
+    "date": "1980-01-04",
+    "comments": []
+  },
+  "sessions": [
+    {
+      "artist": "AC/DC",
+      "details": "recorded 1976-06-03 for John Peel. First TX 1976-06-21"
+    },
+    {
+      "artist": "Syd Barrett",
+      "details": "recorded 1970-02-24 for Top Gear. First TX 1970-03-14"
+    },
+    {
+      "artist": "Praying Mantis",
+      "details": "recorded 1979-10-31 for Friday Rock Show. First TX 09 November 1979."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Bad Company",
+      "track": "Rock Steady",
+      "details": "LP-Bad Company; Island"
+    },
+    {
+      "artist": "Praying Mantis",
+      "track": "Captured City",
+      "details": "FRS Session 1979-10-31"
+    },
+    {
+      "artist": "AC/DC",
+      "track": "Can I Sit Next To You?",
+      "details": "Peel session 1976-06-03"
+    },
+    {
+      "artist": "AC/DC",
+      "track": "Live Wire",
+      "details": "Peel session 1976-06-03"
+    },
+    {
+      "artist": "Frank Zappa",
+      "track": "Keep It Greasy",
+      "details": "LP-Joe's Garage Acts 2 & 3"
+    },
+    {
+      "artist": "Syd Barrett",
+      "track": "Baby Lemonade",
+      "details": "Top Gear session 1970-02-24"
+    },
+    {
+      "artist": "Syd Barrett",
+      "track": "Terrapin",
+      "details": "Top Gear session 1970-02-24"
+    },
+    {
+      "artist": "Wishbone Ash",
+      "track": "Haunting Me",
+      "details": "LP-Just Testing"
+    },
+    {
+      "artist": "Wishbone Ash",
+      "track": "Lifeline",
+      "details": "LP-Just Testing"
+    },
+    {
+      "artist": "Praying Mantis",
+      "track": "Johnny Cool",
+      "details": "FRS session 1979-10-31"
+    },
+    {
+      "artist": "Motorhead",
+      "track": "Motorhead",
+      "details": "LP-Motorhead"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "AC/DC",
+      "track": "Little Lover",
+      "details": "Peel session 1976-06-03"
+    },
+    {
+      "artist": "AC/DC",
+      "track": "High Voltage",
+      "details": "Peel session 1976-06-03"
+    },
+    {
+      "artist": "Pretenders",
+      "track": "Lovers Of Today",
+      "details": "LP-Pretenders"
+    },
+    {
+      "artist": "Praying Mantis",
+      "track": "Lovers To The Grave",
+      "details": "FRS session 1979-10-31"
+    },
+    {
+      "artist": "Syd Barrett",
+      "track": "Gigolo Aunt",
+      "details": "Top Gear session 1970-02-24"
+    },
+    {
+      "artist": "Syd Barrett",
+      "track": "Two Of A Kind",
+      "details": "Top Gear session 1970-02-24"
+    },
+    {
+      "artist": "Syd Barrett",
+      "track": "Effervescing Elephant",
+      "details": "Top Gear session 1970-02-24"
+    },
+    {
+      "artist": "Ted Nugent",
+      "track": "Yank Me Crank Me",
+      "details": "2xLP-Double Live Gonzo"
+    },
+    {
+      "artist": "Todd Rundgren",
+      "track": "Just One Victory",
+      "details": "LP-A Wizard A True Star"
+    }
+  ]
+}

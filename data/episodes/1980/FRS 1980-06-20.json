@@ -1,0 +1,88 @@
+{
+  "title": "FRS 1980-06-20",
+  "url": "https://fridayrockshow.fandom.com/wiki/20_June_1980",
+  "show": {
+    "date": "1980-06-20",
+    "comments": [
+      "Tommy's wrap up at the end of the show is missing but, between this and the missing Steve Hackett live set, which is a repeat, we have pretty much the whole thing."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Steve Hackett",
+      "details": "recorded live at Reading Festival 25th August 1979. Repeat TX from 07 September 1979. Although it's the same set, Tommy announces one less track ('Octagon') compared with the original broadcast."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Girlschool",
+      "track": "Demolition Boys",
+      "details": "LP-Demolition"
+    },
+    {
+      "artist": "Deep Purple",
+      "track": "Space Truckin’",
+      "details": "LP-Machine Head"
+    },
+    {
+      "artist": "Ray Gomez",
+      "track": "U.S.A.",
+      "details": "LP-Volume"
+    },
+    {
+      "artist": "Shakin' Street",
+      "track": "Solid as a Rock",
+      "details": "single"
+    },
+    {
+      "artist": "Emerson, Lake & Palmer",
+      "track": "Brain Salad Surgery",
+      "details": "LP-Works Volume 2"
+    },
+    {
+      "artist": "Sniff 'n' the Tears",
+      "track": "Five & Zero",
+      "details": "LP-The Game's Up"
+    },
+    {
+      "artist": "Samson",
+      "track": "Take It Like a Man",
+      "details": "LP-Head On"
+    },
+    {
+      "artist": "Bob Dylan",
+      "track": "Solid Rock",
+      "details": "LP-Saved"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "The Rolling Stones",
+      "track": "Down in the Hole",
+      "details": "LP-Emotional Rescue"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "track": "Emotional Rescue",
+      "details": "LP-Emotional Rescue"
+    },
+    {
+      "artist": "Broken Home",
+      "track": "Shooting All the Lights Out",
+      "details": "LP-Broken Home"
+    },
+    {
+      "artist": "UFO",
+      "track": "Doctor Doctor",
+      "details": "LP-Strangers in the Night"
+    },
+    {
+      "artist": null,
+      "track": "Steve Hackett live at Reading Festival 1979",
+      "details": null
+    }
+  ]
+}

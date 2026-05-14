@@ -1,0 +1,63 @@
+{
+  "title": "FRS 1980-02-22",
+  "url": "https://fridayrockshow.fandom.com/wiki/22_February_1980",
+  "show": {
+    "date": "1980-02-22",
+    "comments": [
+      "Incomplete audio"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Money",
+      "details": "1. Recorded: 1980-02-06"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Money",
+      "track": "Leo The Jester",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "track": "No Quarter (LP- Houses Of The Holy) Atlantic",
+      "details": null
+    },
+    {
+      "artist": "AC/DC",
+      "track": "Rock 'N' Roll Damnation",
+      "details": "Live"
+    },
+    {
+      "artist": "AC/DC",
+      "track": "High Voltage",
+      "details": "Live"
+    },
+    {
+      "artist": null,
+      "track": "TV pays tribute to AC/DC singer, Bon Scott who died during the week",
+      "details": null
+    },
+    {
+      "artist": "Styx",
+      "track": "Castle Walls (LP - The Grand Illusion) A&M",
+      "details": null
+    },
+    {
+      "artist": "Eagles",
+      "track": "King Of Hollywood (LP - The Long Run) Asylum",
+      "details": null
+    },
+    {
+      "artist": "April Wine",
+      "track": "I Like To Rock (LP - Harder.....Faster) Aquarius",
+      "details": null
+    },
+    {
+      "artist": "Money",
+      "track": "Another Case Of Suicide",
+      "details": "FRS session"
+    }
+  ]
+}

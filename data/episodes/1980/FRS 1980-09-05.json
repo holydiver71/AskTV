@@ -1,0 +1,80 @@
+{
+  "title": "FRS 1980-09-05",
+  "url": "https://fridayrockshow.fandom.com/wiki/05_September_1980",
+  "show": {
+    "date": "1980-09-05",
+    "comments": []
+  },
+  "sessions": [
+    {
+      "artist": "Samson",
+      "details": "live at Reading Festival 23rd August 1980"
+    },
+    {
+      "artist": "Slade",
+      "details": "live at Reading Festival 24th August 1980"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "AC DC",
+      "track": "Walk All Over You",
+      "details": "LP-Highway To Hell"
+    },
+    {
+      "artist": "Kiss",
+      "track": "What Makes The World Go Round",
+      "details": "7\" Single"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "track": "Dreams",
+      "details": "LP-Rumours"
+    },
+    {
+      "artist": "Jethro Tull",
+      "track": "Living In The Past",
+      "details": "LP-Best Of"
+    },
+    {
+      "artist": "Whitesnake",
+      "track": "'Ain't No Love In The Heart Of The City'",
+      "details": "LP-Snakebite"
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "Empty Spaces",
+      "details": "LP-The Wall"
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "Young Lust",
+      "details": "LP-The Wall"
+    },
+    {
+      "artist": "Samson",
+      "track": "Reading Festival, 23rd August 1980",
+      "details": null
+    },
+    {
+      "artist": "More",
+      "track": "Soldier",
+      "details": "LP-VA - Metal Explosion"
+    },
+    {
+      "artist": "Taurus",
+      "track": "Paper Chaser",
+      "details": "LP-VA - Metal Explosion"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Slade",
+      "track": "Reading Festival, 24th August 1980",
+      "details": null
+    }
+  ]
+}

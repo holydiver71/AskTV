@@ -1,0 +1,77 @@
+{
+  "title": "FRS 1980-09-19",
+  "url": "https://fridayrockshow.fandom.com/wiki/19_September_1980",
+  "show": {
+    "date": "1980-09-19",
+    "comments": [
+      "Tony Wilson \"Metal Explosion!\""
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Iron Maiden",
+      "details": "live at Reading Festival 23rd August 1980"
+    },
+    {
+      "artist": "Budgie",
+      "details": "live at Reading Festival 24th August 1980"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Deep Purple",
+      "track": "Highway Star",
+      "details": "LP-Machine Head"
+    },
+    {
+      "artist": "Gillan",
+      "track": "Trouble",
+      "details": "single"
+    },
+    {
+      "artist": "Supertramp",
+      "track": "Bloody Well Right",
+      "details": "LP-Paris"
+    },
+    {
+      "artist": "Joni Mitchell",
+      "track": "Coyote",
+      "details": "LP-Shadows and Light"
+    },
+    {
+      "artist": "Cryer",
+      "track": "The Single",
+      "details": "single"
+    },
+    {
+      "artist": "White Spirit",
+      "track": "High Upon High",
+      "details": "LP-White Spirit"
+    },
+    {
+      "artist": "Iron Maiden",
+      "track": "Reading Festival, 23rd August 1980",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Budgie",
+      "track": "Reading Festival, 24th August 1980",
+      "details": null
+    },
+    {
+      "artist": "Ozzy Osbourne",
+      "track": "Steal Away",
+      "details": "The Night; LP-Blizzard of Ozz"
+    },
+    {
+      "artist": "The Jimi Hendrix Experience",
+      "track": "Burning of the Midnight Lamp",
+      "details": "LP-Smash Hits"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "title": "FRS 1980-08-01",
+  "url": "https://fridayrockshow.fandom.com/wiki/01_August_1980",
+  "show": {
+    "date": "1980-08-01",
+    "comments": [
+      "Next weeks session from Taurus and from the archives The Yardbirds.",
+      "TV plugs the BBC LP 'Metal Explosion' a collection of session tracks.",
+      "TV exposes the secret backwards message on side 2 of Pink Floyd's The Wall."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Girlschool",
+      "details": "First session, first transmission."
+    },
+    {
+      "artist": "Trespass",
+      "details": "Repeat."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "AC DC",
+      "track": "Shoot To Thrill",
+      "details": "LP-Back In Black"
+    },
+    {
+      "artist": "Scorpions",
+      "track": "Loving You Sunday Morning",
+      "details": "LP-Lovedrive"
+    },
+    {
+      "artist": "Hawkwind",
+      "track": "Motorway City",
+      "details": "LP-Live 1979"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Nothing To Lose",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Trespass",
+      "track": "Visionary",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Gillan",
+      "track": "Are You Sure",
+      "details": "LP-Glory Road"
+    },
+    {
+      "artist": "Gillan",
+      "track": "If You Believe Me",
+      "details": "LP-Glory Road"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Breakdown",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Peter Hamill",
+      "track": "Losing Faith In Words",
+      "details": "LP-A Black Box"
+    },
+    {
+      "artist": "Holocaust",
+      "track": "Heavy Metal Mania",
+      "details": "12\" single"
+    },
+    {
+      "artist": "Blue Oyster Cult",
+      "track": "Monsters",
+      "details": "LP-Cultosaurus Erectus"
+    },
+    {
+      "artist": "Trespass",
+      "track": "One Of These Days",
+      "details": "FRS Session"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Demolition Boys",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "The Eagles",
+      "track": "Outlaw Man",
+      "details": "LP-Desperado"
+    },
+    {
+      "artist": "Trespass",
+      "track": "Stormchild",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Gillan",
+      "track": "Unchain Your Brain",
+      "details": "LP-Glory Road"
+    },
+    {
+      "artist": "Gillan",
+      "track": "Trying To Get To You",
+      "details": "LP-Glory Road (For Gillan Fans Only"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Take It All Away",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Rolling Stones",
+      "track": "Dancing With Mr. D.",
+      "details": "LP-Goats Head Soup"
+    },
+    {
+      "artist": "Trespass",
+      "track": "Live It Up",
+      "details": "FRS Session"
+    }
+  ]
+}

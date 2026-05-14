@@ -1,0 +1,123 @@
+{
+  "title": "FRS 1980-10-17",
+  "url": "https://fridayrockshow.fandom.com/wiki/17_October_1980",
+  "show": {
+    "date": "1980-10-17",
+    "comments": [
+      "TV says he is playing four tracks by Girlschool but only plays three, 'Take It All Away' not played.",
+      "Tony Wilson \"A special goodnight to all teddy bears who fell asleep last week.\""
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Girlschool",
+      "details": "first session repeat TX, recorded May 1980."
+    },
+    {
+      "artist": "Colosseum II",
+      "details": "recorded 1977."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "UFO",
+      "track": "Hot ’n’ Ready",
+      "details": "LP-Couldn’t Get It Right single"
+    },
+    {
+      "artist": "Lynyrd Skynyrd",
+      "track": "Sweet Home Alabama",
+      "details": "LP-One More from the Road"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Nothing to Lose",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Robin Trower",
+      "track": "I’m Out to Get You",
+      "details": "LP-Caravan to Midnight"
+    },
+    {
+      "artist": "Iron Maiden",
+      "track": "Women in Uniform",
+      "details": "single"
+    },
+    {
+      "artist": "Colosseum II",
+      "track": "Put It This Way",
+      "details": "archive session"
+    },
+    {
+      "artist": "Kansas",
+      "track": "Relentless",
+      "details": "LP-Audio-Visions"
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "Money",
+      "details": "LP-The Dark Side of the Moon"
+    },
+    {
+      "artist": "Straight Eight",
+      "track": "On the Rebound",
+      "details": "LP-Shuffle ’n’ Cut"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Breakdown",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Colosseum II",
+      "track": "Intergalactic Strut",
+      "details": "archive session"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Blackfoot",
+      "track": "Gimme, Gimme, Gimme",
+      "details": "not available - live Jacksonville, Florida"
+    },
+    {
+      "artist": "Blackfoot",
+      "track": "On the Run",
+      "details": "not available"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Demolition Boys",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Status Quo",
+      "track": "Don’t Drive My Car",
+      "details": "LP-Just Supposin’"
+    },
+    {
+      "artist": "Colosseum II",
+      "track": "Lament",
+      "details": "archive session"
+    },
+    {
+      "artist": "The Alvin Lee Band",
+      "track": "One Lonely Hour",
+      "details": "LP-Free Fall"
+    },
+    {
+      "artist": "Wishbone Ash",
+      "track": "Runaway",
+      "details": "LP-Live Dates Volume Two"
+    },
+    {
+      "artist": "Neil Young",
+      "track": "Cortez the Killer",
+      "details": "LP-Zuma"
+    }
+  ]
+}

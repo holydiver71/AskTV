@@ -1,0 +1,70 @@
+{
+  "title": "FRS 1980-09-12",
+  "url": "https://fridayrockshow.fandom.com/wiki/12_September_1980",
+  "show": {
+    "date": "1980-09-12",
+    "comments": []
+  },
+  "sessions": [
+    {
+      "artist": "Def Leppard",
+      "details": "live at Reading Festival 24th August 1980"
+    },
+    {
+      "artist": "Gillan",
+      "details": "live at Reading Festival 22nd August 1980"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Gamma",
+      "track": "Mean Streak",
+      "details": "LP-Gamma 2"
+    },
+    {
+      "artist": "Peter Gabriel",
+      "track": "'Here Comes The Flood' (LP-Peter Gabriel 1 (Car))",
+      "details": null
+    },
+    {
+      "artist": "Vardis",
+      "track": "'Let's Go'",
+      "details": "7\" Single"
+    },
+    {
+      "artist": "Samson",
+      "track": "Take It Like A Man",
+      "details": "LP-VA - Metal Explosion"
+    },
+    {
+      "artist": "David Bowie",
+      "track": "Teenage Wild Life",
+      "details": "LP-Scary Monsters"
+    },
+    {
+      "artist": "Gregg Allman",
+      "track": "Midnight Rider",
+      "details": "LP-Laid Back"
+    },
+    {
+      "artist": "Def Leppard",
+      "track": "Reading Festival, 24th August 1980",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Gillan",
+      "track": "Reading Festival, 22nd August 1980",
+      "details": null
+    },
+    {
+      "artist": "Scorpions",
+      "track": "The Zoo",
+      "details": "7\" Single"
+    }
+  ]
+}

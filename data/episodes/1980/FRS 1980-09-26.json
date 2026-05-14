@@ -1,0 +1,68 @@
+{
+  "title": "FRS 1980-09-26",
+  "url": "https://fridayrockshow.fandom.com/wiki/26_September_1980",
+  "show": {
+    "date": "1980-09-26",
+    "comments": [
+      "The concert is played as a tribute to John Bonham, who had been found dead the previous day."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Led Zeppelin",
+      "details": "live at Paris Theatre, London 1st April 1971"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Tygers Of Pan Tang",
+      "track": "Euthanasia",
+      "details": "7\" Single"
+    },
+    {
+      "artist": "Yes",
+      "track": "Into The Lens",
+      "details": "LP-Drama"
+    },
+    {
+      "artist": "Utopia",
+      "track": "Road To Utopia",
+      "details": "LP-Adventures In Utopia"
+    },
+    {
+      "artist": "Teaze",
+      "track": "Boys Night Out",
+      "details": "LP-Body Shots"
+    },
+    {
+      "artist": "Gentle Giant",
+      "track": "For Nobody",
+      "details": "LP-Missing Piece"
+    },
+    {
+      "artist": "Jethro Tull",
+      "track": "Fylingdale Flyer",
+      "details": "LP-A"
+    },
+    {
+      "artist": "Montrose",
+      "track": "Music Man",
+      "details": "LP-Jump On It"
+    },
+    {
+      "artist": "Gamma",
+      "track": "Mayday",
+      "details": "LP-Gamma 2"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Led Zeppelin",
+      "track": "Paris Theatre, London 1st April 1971",
+      "details": null
+    }
+  ]
+}
