@@ -105,6 +105,21 @@ Enrichment steps will add:
 
 Purpose and recommended running order for the repository scripts (basic examples below). Run these from the workspace root after activating the project Python environment (`source .venv/bin/activate` or your preferred virtualenv).
 
+0. Convert to 128kbps (scripts/convert.py)
+- Purpose: Convert source audio into 128kbps MP3 files used by the rest of the pipeline.
+- When to run: Run this before transcription if your source audio is not already encoded as 128kbps MP3s. The repository expects files in `FRSAudio/128kbps/` for phase-1 ingestion.
+- Requirements: `ffmpeg` must be installed and available on your PATH.
+- Example: `python scripts/convert.py --input ../FRSAudio/Source --output ../FRSAudio/128kbps --recursive`
+ - Default behavior: the script will skip existing output files by default to avoid accidental overwrites. To force overwrite, pass `--overwrite` (or `-f`).
+ - Output filenames: the converter appends a bitrate label to the source basename. For example, `FRS 1980-01-04.mp3` becomes `FRS 1980-01-04_128kps.mp3` when using the default `--bitrate 128k`.
+ - Preserves relative directories: the converter keeps the same subdirectory layout under the output directory (for example `1980/FRS 1980-01-04_128kps.mp3`).
+
+Example mapping:
+```
+Source: ../FRSAudio/Source/1980/FRS 1980-01-04.mp3
+Output: ../FRSAudio/128kbps/1980/FRS 1980-01-04_128kps.mp3
+```
+
 1. Transcription
 - Purpose: Run Whisper to produce raw, timestamped transcript JSON for each episode audio file.
 - Example: `python scripts/transcribe_1980.py --year 1980`
@@ -118,7 +133,7 @@ Purpose and recommended running order for the repository scripts (basic examples
 - Example: `python scripts/clean_transcripts.py --year 1980`
 
 Notes:
-- Run the steps in the above order for best results: transcription → fingerprinting → cleaning.
+- Run the steps in the above order for best results: conversion (if needed) → transcription → fingerprinting → cleaning.
 - Use `--year` (or the script-specific flags) to scope runs to a single year or set of files where supported.
 - Logs are written to the `logs/` directory (this is ignored by Git).
 
