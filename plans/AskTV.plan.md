@@ -33,8 +33,7 @@ The following steps must be executed locally to enrich the existing JSON files w
 * **Input**: `FRS YYYY-MM-DD_128kps.mp3`.
 * **Tool**: `faster-whisper` (Model: `large-v3`, Quantization: `int8`).
 * **Requirement**: Iterate through the 1980 audio folder, matching each MP3 to its corresponding JSON file.
-* **Output**: Append a `transcript` array to the JSON file with objects containing `start`, `end`, and `text`.
-
+* **Output**: Append a `transcript` array to the JSON file with objects containing `start`, `end`, and `text`.    * **Next**: Immediately after this step completes, run **Phase 1** of `plans/transcribe-clean-plan.md` (ellipsis/silence stripping — no dependencies).
 ### Step B: The Music Indexer (Validation Pass)
 * **Objective**: Use audio fingerprinting to verify and timestamp the "Track Listing" found in the scraped JSON.
 * **Input**: `FRS YYYY-MM-DD_128kps.mp3`.
@@ -43,6 +42,7 @@ The following steps must be executed locally to enrich the existing JSON files w
     1. Sample 15-second probes every 180 seconds.
     2. Cross-reference Shazam results against the `official_tracklist` in the JSON.
     3. If a match is found, update the JSON with the precise `verified_timestamp`.
+    * **Next**: Once `verified_timestamp` fields are written, run **Phase 2** of `plans/transcribe-clean-plan.md` (lyrical muzzling — requires Shazam timestamps).
 
 ---
 

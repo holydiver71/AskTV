@@ -24,7 +24,7 @@
 
 ## Phase 1: Write `scripts/transcribe_1980.py`
 
-- [ ] 5. Create `AskTV/scripts/transcribe_1980.py`:
+- [X] 5. Create `AskTV/scripts/transcribe_1980.py`:
    - **Constants**: `AUDIO_DIR` pointing to `FRSAudio/128kbps/1980/` (MP3s stay where they are — too large for git), `JSON_DIR` pointing to `AskTV/data/episodes/1980/`, `LOG_FILE` pointing to `AskTV/logs/transcription_errors.log`
    - **Model loading**: `WhisperModel("large-v3", device="cpu", compute_type="int8")` — loaded once before the loop
    - **File discovery**: Glob `AUDIO_DIR` for `*.mp3`, extract date with `re.search(r'\d{4}-\d{2}-\d{2}', filename)`
@@ -36,25 +36,47 @@
    - **Error handling**: `try/except` per file — log timestamped failures to `logs/transcription_errors.log`, `continue` to next file
    - **Progress**: Print `[N/49] Processing YYYY-MM-DD...` per file
 
+- [ ] 6. Create `AskTV/scripts/clean_transcripts.py` (see `plans/transcribe-clean-plan.md`):
+   - **Phase 1 — Ellipsis Stripper** (runs now, no dependencies):
+     - Iterate all JSONs in `data/episodes/1980/`
+     - Drop any `transcript` segment where `text.strip()` matches `^\.+$` (pure dots) or is empty
+     - Atomic write-back (`.tmp` → `os.replace()`) — same pattern as `transcribe_1980.py`
+     - Log count of removed segments per file to `logs/clean_transcripts.log`
+     - Idempotent — safe to re-run
+   - **Phase 2 — Lyrical Muzzler** (self-gated — only activates when `verified_timestamp` present on `track_listing` entries, wired in after Shazam step):
+     - For each track with `verified_timestamp`, compute `[song_start, song_end]` window
+     - Remove all `transcript` segments fully inside the window
+     - Insert single placeholder: `{"start": song_start, "end": song_end, "text": "[Music: Artist - Track Title]", "type": "music"}`
+     - Log muzzled segment counts per track to `logs/clean_transcripts.log`
+
 ---
 
-## Phase 2: Run the Script
+## Phase 2: Run the Scripts
 
-- [ ] 6. **(Manual)** Run in a terminal session. Press Ctrl+C at any time to stop cleanly after the current file finishes:
+- [X] 7. **(Manual)** Run transcription. Press Ctrl+C at any time to stop cleanly after the current file finishes:
    ```
    source .venv/bin/activate
    python scripts/transcribe_1980.py
    ```
    Re-run the same command to resume — already-transcribed files are skipped automatically.
 
+- [X] 8. **(Manual)** Once transcription is complete (or after each session), run Phase 1 cleanup:
+   ```
+   python scripts/clean_transcripts.py
+   ```
+   Safe to re-run at any time. Phase 2 activates automatically once Shazam `verified_timestamp` fields are present.
+
 ---
 
 ## Verification
 
-- [ ] 1. After first file completes, inspect its JSON — confirm `transcript` array is present with `start`, `end`, `text` fields
-- [ ] 2. Use `git diff data/episodes/1980/FRS\ 1980-01-04.json` to see exactly what was added
-- [ ] 3. After full run: `python -c "import json,glob; fs=glob.glob('data/episodes/1980/*.json'); print(sum(1 for f in fs if 'transcript' in json.load(open(f))), '/ 49')"` should print `49 / 49`
-- [ ] 4. Review `logs/transcription_errors.log` for any failures
+- [X] 1. After first file completes, inspect its JSON — confirm `transcript` array is present with `start`, `end`, `text` fields
+- [X] 2. Use `git diff data/episodes/1980/FRS\ 1980-01-04.json` to see exactly what was added
+- [X] 3. After full run: `python -c "import json,glob; fs=glob.glob('data/episodes/1980/*.json'); print(sum(1 for f in fs if 'transcript' in json.load(open(f))), '/ 49')"` should print `49 / 49`
+- [X] 4. Review `logs/transcription_errors.log` for any failures
+- [X] 5. After running `clean_transcripts.py`: confirm ellipsis segments are gone — `python -c "import json; d=json.load(open('data/episodes/1980/FRS 1980-01-04.json')); print(sum(1 for s in d['transcript'] if s['text'].strip()=='...'))"`  → must print `0`
+- [X] 6. Review `logs/clean_transcripts.log` — confirm expected removal counts per file
+- [X] 7. `git diff data/episodes/1980/FRS\ 1980-01-04.json` after cleanup — confirm only junk segments removed, Tommy Vance speech intact
 
 ---
 
@@ -64,6 +86,7 @@
 |---|---|
 | `AskTV/data/episodes/1980/FRS YYYY-MM-DD.json` × 49 | **Copy in + version-control**, then augmented by script |
 | `AskTV/scripts/transcribe_1980.py` | **Create** — main automation script |
+| `AskTV/scripts/clean_transcripts.py` | **Create** — ellipsis stripper (Phase 1 now) + lyrical muzzler (Phase 2, self-gated on Shazam data) |
 | `AskTV/.gitignore` | **Create/update** — exclude `.venv/`, `logs/` |
 | `AskTV/logs/transcription_errors.log` | Created at runtime |
 
