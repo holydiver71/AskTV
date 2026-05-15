@@ -52,8 +52,46 @@ def find_date_in_name(name: str) -> str | None:
     return m.group(1) if m else None
 
 
+# Initial prompt primes Whisper with show-specific proper nouns so it
+# transcribes band names, Tommy's sign-off phrases, and BBC terminology
+# correctly instead of guessing phonetic equivalents.
+_INITIAL_PROMPT = (
+    "BBC Radio 1. The Friday Rock Show with Tommy Vance. "
+    "Featuring sessions and tracks from artists including "
+    "AC/DC, Motörhead, Syd Barrett, Wishbone Ash, Praying Mantis, "
+    "Ted Nugent, Frank Zappa, Bad Company, Pretenders, Todd Rundgren. "
+    "This is Tommy Vance on Radio 1."
+)
+
+# VAD parameters tuned for radio: music beds mean we need a slightly longer
+# minimum silence window before declaring a speech boundary.
+_VAD_PARAMETERS = {
+    "threshold": 0.35,           # lower = catch quieter speech over music
+    "min_speech_duration_ms": 250,
+    "min_silence_duration_ms": 600,
+    "speech_pad_ms": 400,        # extra padding around speech windows
+}
+
+
 def transcribe_file(model: WhisperModel, mp3_path: Path) -> list[dict]:
-    segments_gen, info = model.transcribe(str(mp3_path), language="en", beam_size=5)
+    segments_gen, info = model.transcribe(
+        str(mp3_path),
+        language="en",
+        beam_size=5,
+        initial_prompt=_INITIAL_PROMPT,
+        # Prevent the previous segment's text being fed back as a prompt —
+        # this is the root cause of the "thomas vance" 30-second loop.
+        condition_on_previous_text=False,
+        # Silero VAD: skip pure-music windows, focus computation on speech.
+        vad_filter=True,
+        vad_parameters=_VAD_PARAMETERS,
+        # More permissive silence threshold so short interjections over
+        # music aren't silently discarded (default is 0.6).
+        no_speech_threshold=0.4,
+        # Temperature fallback: if greedy (0) produces low-confidence output
+        # Whisper retries at 0.2 then 0.4 before giving up.
+        temperature=[0, 0.2, 0.4],
+    )
     duration = info.duration
     out: list[dict] = []
     last_pct = -1
@@ -82,6 +120,11 @@ def main() -> int:
 
     parser = argparse.ArgumentParser(description="Transcribe 1980 MP3s and append transcript to JSON files.")
     parser.add_argument("mp3", nargs="?", help="Optional path or filename of a single MP3 to process")
+    parser.add_argument(
+        "--retranscribe",
+        action="store_true",
+        help="Re-transcribe files that already have a transcript (overwrites existing transcript)",
+    )
     args = parser.parse_args()
 
     AUDIO_DIR = Path("FRSAudio/128kbps/1980/")
@@ -159,10 +202,12 @@ def main() -> int:
             errors += 1
             continue
 
-        if "transcript" in data:
+        if "transcript" in data and not args.retranscribe:
             print(f"  Skipped  — already transcribed ({len(data['transcript'])} segments)")
             skipped += 1
             continue
+        elif "transcript" in data and args.retranscribe:
+            print(f"  Re-transcribing (had {len(data['transcript'])} segments)...")
 
         try:
             t_file = time.perf_counter()
@@ -189,7 +234,7 @@ def main() -> int:
     print(f"\n{'─' * 52}")
     print(f"Run complete  [{total_time}]")
     print(f"  Processed : {processed}")
-    print(f"  Skipped   : {skipped}  (already had transcript)")
+    print(f"  Skipped   : {skipped}  (already had transcript — use --retranscribe to overwrite)")
     print(f"  Errors    : {errors}")
     if errors:
         print(f"  Log       : {LOG_FILE}")

@@ -43,7 +43,9 @@ The following steps must be executed locally to enrich the existing JSON files w
     2. Cross-reference Shazam results against the `official_tracklist` in the JSON.
     3. If a match is found, update the JSON with the precise `verified_timestamp`.
     * **Next**: Once `verified_timestamp` fields are written, run **Phase 2** of `plans/transcribe-clean-plan.md` (lyrical muzzling — requires Shazam timestamps).
-
+### Step C: The privacy pass
+* **Objective**: Tommy often reads out peoples names and addresses, while this was ok in the 1980s, it's not a good idea for them to be in the transcripts. Keep peoples names, but redact any addresses in the transcript apart from BBC Studio address.
+* **Logic**: Create a plan document for this logic and replace this section with that plan
 ---
 
 ## 4. Phase 2: The Knowledge Base (Supabase)

@@ -23,10 +23,23 @@ Extend the same `clean_transcripts.py` script. Gated: only activates when `verif
 - [x] 6. For each `track_listing` entry with a `verified_timestamp`:
   - Compute `song_start = verified_timestamp` (seconds float)
   - Compute `song_end` = next track's `verified_timestamp - 5s` (overlap buffer), or use audio duration for the last track
-- [ ] 7. Remove all `transcript` segments fully enclosed in `[song_start, song_end]`
-- [ ] 8. Insert a single placeholder segment: `{"start": song_start, "end": song_end, "text": "[Music: Artist - Track Title]", "type": "music"}`
-- [ ] 9. Segments outside verified track windows are untouched — Tommy's speech, station IDs, FNC segments preserved
-- [ ] 10. Log: `[YYYY-MM-DD] Muzzled N lyric segments for 'Artist - Track'`
+- [x] 7. Remove all `transcript` segments fully enclosed in `[song_start, song_end]`
+- [x] 8. Insert a single placeholder segment: `{"start": song_start, "end": song_end, "text": "[Music: Artist - Track Title]", "type": "music"}`
+- [x] 9. Segments outside verified track windows are untouched — Tommy's speech, station IDs, FNC segments preserved
+- [x] 10. Log: `[YYYY-MM-DD] Muzzled N lyric segments for 'Artist - Track'`
+
+---
+
+---
+
+## Phase 1b — Hallucination Stripper
+
+Added to `clean_transcripts.py`. Catches two Whisper hallucination patterns:
+
+- [x] A. **Run repetition**: ≥ 3 consecutive segments with identical normalised text → entire run removed.
+- [x] B. **Long-segment placeholder**: single segment ≥ 25 s duration with ≤ 6 words (the "thomas vance" 30-second music-bed pattern) → removed.
+- [x] C. Music placeholder segments (`"type": "music"`) are always preserved.
+- [x] D. Gaps left by removed hallucinations are logged; speech lost in those windows is a known unknown and may need manual re-transcription or targeted Whisper re-run.
 
 ---
 

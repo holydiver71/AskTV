@@ -28,6 +28,14 @@ LOG_FILE = LOG_DIR / "clean_transcripts.log"
 
 _ELLIPSIS_RE = re.compile(r"^[.\s]*$")  # empty, whitespace-only, or pure dots
 
+# Whisper hallucination detection
+# A run of 3+ consecutive segments with identical (normalised) text, OR a
+# segment whose duration is ≥ 25 s and whose text is ≤ 6 words, is treated
+# as a hallucination (the classic 30-second music-bed repetition pattern).
+_HALLUCINATION_MIN_RUN = 3
+_HALLUCINATION_LONG_SEG_SECS = 25.0
+_HALLUCINATION_LONG_SEG_MAX_WORDS = 6
+
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -57,6 +65,8 @@ def _is_ellipsis(text: str) -> bool:
 # ---------------------------------------------------------------------------
 # Phase 1 — Ellipsis stripper (steps 1-5)
 # ---------------------------------------------------------------------------
+# Phase 1b — Hallucination stripper
+# ---------------------------------------------------------------------------
 
 
 def strip_ellipsis(data: dict) -> tuple[dict, int]:
@@ -70,6 +80,65 @@ def strip_ellipsis(data: dict) -> tuple[dict, int]:
     removed = len(transcript) - len(cleaned)
     data["transcript"] = cleaned
     return data, removed
+
+
+def _normalise(text: str) -> str:
+    """Lowercase, collapse whitespace — used for hallucination comparison."""
+    return " ".join(text.lower().split())
+
+
+def strip_hallucinations(data: dict) -> tuple[dict, int]:
+    """Detect and remove Whisper hallucination runs.
+
+    Two patterns are caught:
+    1. **Run repetition**: a consecutive run of ≥ _HALLUCINATION_MIN_RUN
+       segments whose normalised text is identical.  The entire run is dropped.
+    2. **Long-segment placeholder**: a single segment whose duration is
+       ≥ _HALLUCINATION_LONG_SEG_SECS and whose text contains at most
+       _HALLUCINATION_LONG_SEG_MAX_WORDS words (e.g. "thomas vance" for 30 s).
+       These are dropped individually.
+
+    Music placeholder segments (``"type": "music"``) are always preserved.
+    """
+    transcript = data.get("transcript")
+    if not transcript:
+        return data, 0
+
+    # Step 1: mark run-repetition candidates
+    hallucination_indices: set[int] = set()
+
+    i = 0
+    while i < len(transcript):
+        seg = transcript[i]
+        if seg.get("type") == "music":
+            i += 1
+            continue
+        norm = _normalise(seg.get("text", ""))
+        # find run
+        j = i + 1
+        while j < len(transcript) and transcript[j].get("type") != "music" and _normalise(transcript[j].get("text", "")) == norm:
+            j += 1
+        run_len = j - i
+        if run_len >= _HALLUCINATION_MIN_RUN:
+            for k in range(i, j):
+                hallucination_indices.add(k)
+        i = j if run_len > 1 else i + 1
+
+    # Step 2: mark long-segment hallucinations
+    for idx, seg in enumerate(transcript):
+        if seg.get("type") == "music":
+            continue
+        duration = float(seg.get("end", 0)) - float(seg.get("start", 0))
+        word_count = len(seg.get("text", "").split())
+        if duration >= _HALLUCINATION_LONG_SEG_SECS and word_count <= _HALLUCINATION_LONG_SEG_MAX_WORDS:
+            hallucination_indices.add(idx)
+
+    if not hallucination_indices:
+        return data, 0
+
+    cleaned = [s for i, s in enumerate(transcript) if i not in hallucination_indices]
+    data["transcript"] = cleaned
+    return data, len(hallucination_indices)
 
 
 # ---------------------------------------------------------------------------
@@ -152,6 +221,12 @@ def process_file(json_path: Path) -> bool:
         _log(f"[{date}] Removed {ellipsis_count} ellipsis segment(s)")
         modified = True
 
+    # ── Phase 1b: strip hallucination runs ──────────────────────────────────
+    data, hallucination_count = strip_hallucinations(data)
+    if hallucination_count:
+        _log(f"[{date}] Removed {hallucination_count} hallucination segment(s)")
+        modified = True
+
     # ── Phase 2: compute music windows (step 6) ─────────────────────────────
     track_listing = data.get("track_listing") or []
     transcript = data.get("transcript") or []
@@ -163,12 +238,55 @@ def process_file(json_path: Path) -> bool:
         _log(
             f"[{date}] Phase 2 active — {len(windows)} verified track window(s) computed"
         )
+
+        # Steps 7-10: replace lyric segments with a single music placeholder
+        new_transcript: list[dict] = []
+        total_muzzled = 0
+
         for w in windows:
-            _log(
-                f"         {w['artist']} – {w['track']}: "
-                f"{w['start']:.1f}s → {w['end']:.1f}s"
+            w_start = w["start"]
+            w_end = w["end"]
+            label = f"[Music: {w['artist']} – {w['track']}]" if w["artist"] else f"[Music: {w['track']}]"
+
+            # Count segments fully enclosed in this window
+            muzzled = sum(
+                1 for s in transcript
+                if s["start"] >= w_start and s["end"] <= w_end
             )
-        # Steps 7-10 (segment removal and placeholder insertion) go here.
+            total_muzzled += muzzled
+            if muzzled:
+                _log(f"[{date}] Muzzled {muzzled} segment(s) for '{w['artist']} – {w['track']}'")
+
+        # Rebuild transcript: keep segments outside all windows, insert placeholders
+        used_windows: set[int] = set()
+        for seg in transcript:
+            enclosed_in = None
+            for i, w in enumerate(windows):
+                if seg["start"] >= w["start"] and seg["end"] <= w["end"]:
+                    enclosed_in = i
+                    break
+            if enclosed_in is None:
+                new_transcript.append(seg)
+            else:
+                if enclosed_in not in used_windows:
+                    used_windows.add(enclosed_in)
+                    w = windows[enclosed_in]
+                    label = (
+                        f"[Music: {w['artist']} – {w['track']}]"
+                        if w["artist"]
+                        else f"[Music: {w['track']}]"
+                    )
+                    new_transcript.append({
+                        "start": w["start"],
+                        "end": w["end"],
+                        "text": label,
+                        "type": "music",
+                    })
+
+        if total_muzzled:
+            data["transcript"] = new_transcript
+            modified = True
+            _log(f"[{date}] Total muzzled: {total_muzzled} segment(s) → {len(used_windows)} placeholder(s) inserted")
 
     if modified:
         _atomic_write(json_path, data)
