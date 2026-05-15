@@ -186,12 +186,6 @@
       "text": "Also, the Friday Night Connection later, but right now you're not in bad company."
     },
     {
-      "start": 180.0,
-      "end": 661.23,
-      "text": "[Music]",
-      "type": "music"
-    },
-    {
       "start": 666.23,
       "end": 668.37,
       "text": "That's the first of three by Praying Mantis tonight."
@@ -278,14 +272,8 @@
     },
     {
       "start": 715.98,
-      "end": 720.18,
-      "text": "couple of tracks out of the archives"
-    },
-    {
-      "start": 720.18,
       "end": 1313.02,
-      "text": "[Music]",
-      "type": "music"
+      "text": "couple of tracks out of the archives"
     },
     {
       "start": 1313.02,
@@ -369,14 +357,8 @@
     },
     {
       "start": 1345.58,
-      "end": 1353.38,
+      "end": 1832.11,
       "text": "From Joe's Garage X 2 and 3, the track called Keep It Greasy."
-    },
-    {
-      "start": 1440.0,
-      "end": 1832.51,
-      "text": "[Music]",
-      "type": "music"
     },
     {
       "start": 1832.51,
@@ -460,14 +442,8 @@
     },
     {
       "start": 1883.2,
-      "end": 1888.0,
+      "end": 2225.0,
       "text": "...of the archives from way back in 1970."
-    },
-    {
-      "start": 1888.0,
-      "end": 2225.16,
-      "text": "[Music]",
-      "type": "music"
     },
     {
       "start": 2225.16,
@@ -551,14 +527,8 @@
     },
     {
       "start": 2257.84,
-      "end": 2263.24,
+      "end": 2923.32,
       "text": "haunting me. A couple of tracks from an album"
-    },
-    {
-      "start": 2263.24,
-      "end": 2922.6,
-      "text": "[Music]",
-      "type": "music"
     },
     {
       "start": 2923.32,
@@ -644,18 +614,6 @@
       "start": 2978.59,
       "end": 2980.73,
       "text": "The Friday Rock Show, here's Praying Mantis."
-    },
-    {
-      "start": 2980.73,
-      "end": 3415.0,
-      "text": "[Music]",
-      "type": "music"
-    },
-    {
-      "start": 3420.0,
-      "end": 3542.2,
-      "text": "[Music]",
-      "type": "music"
     },
     {
       "start": 3542.2,
@@ -779,14 +737,8 @@
     },
     {
       "start": 3642.41,
-      "end": 3649.61,
-      "text": "friday night connection for tonight put together by simon tom of number"
-    },
-    {
-      "start": 3649.61,
       "end": 4632.47,
-      "text": "[Music]",
-      "type": "music"
+      "text": "friday night connection for tonight put together by simon tom of number"
     },
     {
       "start": 4632.47,
@@ -1130,14 +1082,8 @@
     },
     {
       "start": 5486.41,
-      "end": 5489.41,
-      "text": "that was Praying Mantis"
-    },
-    {
-      "start": 5580.0,
       "end": 6120.79,
-      "text": "[Music]",
-      "type": "music"
+      "text": "that was Praying Mantis"
     },
     {
       "start": 6120.79,
@@ -1216,20 +1162,108 @@
     },
     {
       "start": 6155.71,
-      "end": 6425.62,
-      "text": "[Music]",
-      "type": "music"
+      "end": 6182.17,
+      "text": "On trail, down to the beach"
+    },
+    {
+      "start": 6182.17,
+      "end": 6184.35,
+      "text": "To see the blue and the grey"
+    },
+    {
+      "start": 6184.35,
+      "end": 6430.62,
+      "text": "It's a beautiful night"
     },
     {
       "start": 6430.62,
+      "end": 6431.4,
+      "text": "Protesting"
+    },
+    {
+      "start": 6431.4,
+      "end": 6542.62,
+      "text": "Investing elephant with tiny eyes"
+    },
+    {
+      "start": 6542.62,
+      "end": 6543.5,
+      "text": "And great big trunk"
+    },
+    {
+      "start": 6543.5,
+      "end": 6545.34,
+      "text": "On whisper to the tiny ear"
+    },
+    {
+      "start": 6545.34,
+      "end": 6546.96,
+      "text": "The ear of one inferior"
+    },
+    {
+      "start": 6546.96,
+      "end": 6548.62,
+      "text": "The bionic's unitary"
+    },
+    {
+      "start": 6548.62,
+      "end": 6551.44,
+      "text": "Oh yeah, because the tiger would roam"
+    },
+    {
+      "start": 6551.44,
+      "end": 6552.68,
+      "text": "The little one said"
+    },
+    {
+      "start": 6552.68,
+      "end": 6554.86,
+      "text": "Oh my goodness, I must head home"
+    },
+    {
+      "start": 6554.86,
+      "end": 6556.82,
+      "text": "And every time I hear a growl"
+    },
+    {
+      "start": 6556.82,
+      "end": 6558.7,
+      "text": "I know the tiger's on the prowl"
+    },
+    {
+      "start": 6558.7,
+      "end": 6560.48,
+      "text": "But I'll be really safe, you know"
+    },
+    {
+      "start": 6560.48,
+      "end": 6567.98,
+      "text": "the elephant he told me so everyone was nervy oh yeah and the message was spread to zebra mongoose"
+    },
+    {
+      "start": 6567.98,
+      "end": 6574.04,
+      "text": "and the dirty hippopotamus who wallowed in the mud and chewed his spicy hippoplankton food and"
+    },
+    {
+      "start": 6574.04,
+      "end": 6580.76,
+      "text": "tended to ignore the word preferring to survey a herd of stupid water bison oh yeah and all the"
+    },
+    {
+      "start": 6580.76,
+      "end": 6587.06,
+      "text": "jungle took fright and ran around for all the day and the night but all in vain because you see the"
+    },
+    {
+      "start": 6587.06,
       "end": 6592.7,
-      "text": "[Music]",
-      "type": "music"
+      "text": "tiger came and said who me you know i wouldn't hurt not one of you i much prefer something to"
     },
     {
       "start": 6592.7,
       "end": 6599.76,
-      "text": "isn't that beautiful effervescing"
+      "text": "do and you're all too scant oh yeah he ate the elephant isn't that beautiful effervescing"
     },
     {
       "start": 6599.76,
@@ -1373,14 +1407,8 @@
     },
     {
       "start": 6694.66,
-      "end": 6698.26,
-      "text": "Todd Rundgren and Just One Victory"
-    },
-    {
-      "start": 6698.26,
       "end": 7298.79,
-      "text": "[Music]",
-      "type": "music"
+      "text": "Todd Rundgren and Just One Victory"
     },
     {
       "start": 7298.79,
