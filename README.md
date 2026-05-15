@@ -101,6 +101,30 @@ Enrichment steps will add:
 
 ---
 
+## Scripts
+
+Purpose and recommended running order for the repository scripts (basic examples below). Run these from the workspace root after activating the project Python environment (`source .venv/bin/activate` or your preferred virtualenv).
+
+1. Transcription
+- Purpose: Run Whisper to produce raw, timestamped transcript JSON for each episode audio file.
+- Example: `python scripts/transcribe_1980.py --year 1980`
+
+2. Fingerprinting (Shazam)
+- Purpose: Probe audio (short samples) to detect tracks and write `verified_timestamp` entries into episode JSON files.
+- Example: `python scripts/shazam_1980.py --year 1980`
+
+3. Cleaning / Post-processing
+- Purpose: Run the multi-phase cleaner that strips hallucinations, trims extreme-duration segments, and inserts `[Music]` placeholders where appropriate. This produces the final cleaned `transcript` arrays in the episode JSON files.
+- Example: `python scripts/clean_transcripts.py --year 1980`
+
+Notes:
+- Run the steps in the above order for best results: transcription → fingerprinting → cleaning.
+- Use `--year` (or the script-specific flags) to scope runs to a single year or set of files where supported.
+- Logs are written to the `logs/` directory (this is ignored by Git).
+
+---
+---
+
 ## Licence
 
 Research and archival project. No audio is hosted or distributed.
