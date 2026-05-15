@@ -23,12 +23,14 @@
     {
       "artist": "Bad Company",
       "track": "Rock Steady",
-      "details": "LP-Bad Company; Island"
+      "details": "LP-Bad Company; Island",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Praying Mantis",
       "track": "Captured City",
-      "details": "FRS Session 1979-10-31"
+      "details": "FRS Session 1979-10-31",
+      "verified_timestamp": 666.23
     },
     {
       "artist": "AC/DC",
@@ -43,12 +45,14 @@
     {
       "artist": "Frank Zappa",
       "track": "Keep It Greasy",
-      "details": "LP-Joe's Garage Acts 2 & 3"
+      "details": "LP-Joe's Garage Acts 2 & 3",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Syd Barrett",
       "track": "Baby Lemonade",
-      "details": "Top Gear session 1970-02-24"
+      "details": "Top Gear session 1970-02-24",
+      "verified_timestamp": 1880.6
     },
     {
       "artist": "Syd Barrett",
@@ -58,12 +62,14 @@
     {
       "artist": "Wishbone Ash",
       "track": "Haunting Me",
-      "details": "LP-Just Testing"
+      "details": "LP-Just Testing",
+      "verified_timestamp": 2257.84
     },
     {
       "artist": "Wishbone Ash",
       "track": "Lifeline",
-      "details": "LP-Just Testing"
+      "details": "LP-Just Testing",
+      "verified_timestamp": 2927.6
     },
     {
       "artist": "Praying Mantis",
@@ -73,12 +79,14 @@
     {
       "artist": "Motorhead",
       "track": "Motorhead",
-      "details": "LP-Motorhead"
+      "details": "LP-Motorhead",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3575.14
     },
     {
       "artist": "AC/DC",
@@ -93,7 +101,8 @@
     {
       "artist": "Pretenders",
       "track": "Lovers Of Today",
-      "details": "LP-Pretenders"
+      "details": "LP-Pretenders",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Praying Mantis",
@@ -103,7 +112,8 @@
     {
       "artist": "Syd Barrett",
       "track": "Gigolo Aunt",
-      "details": "Top Gear session 1970-02-24"
+      "details": "Top Gear session 1970-02-24",
+      "verified_timestamp": 6155.71
     },
     {
       "artist": "Syd Barrett",
@@ -113,17 +123,20 @@
     {
       "artist": "Syd Barrett",
       "track": "Effervescing Elephant",
-      "details": "Top Gear session 1970-02-24"
+      "details": "Top Gear session 1970-02-24",
+      "verified_timestamp": 6430.62
     },
     {
       "artist": "Ted Nugent",
       "track": "Yank Me Crank Me",
-      "details": "2xLP-Double Live Gonzo"
+      "details": "2xLP-Double Live Gonzo",
+      "verified_timestamp": 7305.89
     },
     {
       "artist": "Todd Rundgren",
       "track": "Just One Victory",
-      "details": "LP-A Wizard A True Star"
+      "details": "LP-A Wizard A True Star",
+      "verified_timestamp": 6694.66
     }
   ],
   "transcript": [
