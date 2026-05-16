@@ -216,8 +216,20 @@
     },
     {
       "start": 103.92,
-      "end": 582.66,
+      "end": 107.52,
       "text": "That's a track by Cheap Trick."
+    },
+    {
+      "start": 107.52,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 582.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 582.74,
@@ -341,8 +353,20 @@
     },
     {
       "start": 640.83,
-      "end": 1084.82,
+      "end": 643.83,
       "text": "And that was Iron Maiden."
+    },
+    {
+      "start": 643.83,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1085.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1085.22,
@@ -475,24 +499,27 @@
       "text": "Talking Heads, The Damned, and I'm sure you'll recognize the third"
     },
     {
-      "start": 1151.26,
-      "end": 1186.48,
-      "text": "You may find yourself in a beautiful house"
-    },
-    {
-      "start": 1186.48,
-      "end": 1188.02,
-      "text": "With a beautiful wife"
-    },
-    {
-      "start": 1188.02,
-      "end": 1190.15,
-      "text": "Ask yourself"
-    },
-    {
       "start": 1190.15,
-      "end": 2100.15,
+      "end": 1193.15,
       "text": "A sensational Alex Harvey band"
+    },
+    {
+      "start": 1193.15,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1260.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 2100.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2100.15,
@@ -800,9 +827,10 @@
       "text": "taking Curtain Call Part 1 with The Damned."
     },
     {
-      "start": 2798.21,
+      "start": 2707.87,
       "end": 3352.44,
-      "text": "...being one of the greatest works ever."
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3352.44,
@@ -936,7 +964,7 @@
     },
     {
       "start": 3446.99,
-      "end": 4126.16,
+      "end": 3458.99,
       "text": "theme contained therein listen can't you hear me say can't you hear me say 10 past 11 and that was"
     },
     {
@@ -971,7 +999,7 @@
     },
     {
       "start": 4177.42,
-      "end": 4852.82,
+      "end": 4188.22,
       "text": "head are living on borrowed time rock and roll and noise pollution it's not often that we play"
     },
     {
@@ -1016,8 +1044,14 @@
     },
     {
       "start": 4890.1,
-      "end": 5579.66,
+      "end": 4899.7,
       "text": "recognize but you might not know this version. The album's called Stage Fright, the band are"
+    },
+    {
+      "start": 5040.0,
+      "end": 5579.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5579.66,
@@ -1176,43 +1210,14 @@
     },
     {
       "start": 5672.96,
-      "end": 6010.63,
+      "end": 5677.16,
       "text": "Bit of a classic, Black Sabbath, Paranoid"
     },
     {
-      "start": 6010.63,
-      "end": 6014.27,
-      "text": "For loads of people, as always, because we get so many requests for Black Sabbath"
-    },
-    {
-      "start": 6014.27,
-      "end": 6015.37,
-      "text": "I'll just read a few out"
-    },
-    {
-      "start": 6015.37,
-      "end": 6018.31,
-      "text": "Stuart Grantham's got a 19th birthday on the 15th of November"
-    },
-    {
-      "start": 6018.31,
-      "end": 6020.49,
-      "text": "Happy birthday from Mum, Dad and Maureen"
-    },
-    {
-      "start": 6020.49,
-      "end": 6022.15,
-      "text": "All living in Middle Barton in Oxfordshire"
-    },
-    {
-      "start": 6022.15,
-      "end": 6024.13,
-      "text": "Know it well, lovely part of the world"
-    },
-    {
-      "start": 6024.13,
+      "start": 5940.0,
       "end": 6030.13,
-      "text": "Licky Knox wanted me to play that for everybody in the fifth year at Smith Hills Moore Grammar School."
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6030.13,
@@ -1241,7 +1246,7 @@
     },
     {
       "start": 6050.81,
-      "end": 6781.36,
+      "end": 6059.81,
       "text": "What a rockin' band they are, that's Quartz from their album Stand Up and Fight."
     },
     {
@@ -1301,8 +1306,14 @@
     },
     {
       "start": 6826.58,
-      "end": 7137.74,
+      "end": 6839.18,
       "text": "of black ice about on the roads if you're in the fast lane slow down and take it easy yours from"
+    },
+    {
+      "start": 6840.0,
+      "end": 7137.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7137.74,

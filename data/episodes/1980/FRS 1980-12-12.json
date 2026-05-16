@@ -198,8 +198,14 @@
     },
     {
       "start": 101.93,
-      "end": 658.34,
+      "end": 107.93,
       "text": "Do you remember when that came out as a single?"
+    },
+    {
+      "start": 107.93,
+      "end": 655.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 658.34,
@@ -327,14 +333,32 @@
       "text": "ACDC, still the best."
     },
     {
+      "start": 718.61,
+      "end": 718.79,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 723.79,
       "end": 726.01,
       "text": "10.14 is the first of four by Chevy."
     },
     {
       "start": 726.01,
-      "end": 1216.21,
+      "end": 732.61,
       "text": "That was Def Leppard from their album On Through the Night"
+    },
+    {
+      "start": 732.61,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1216.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1216.21,
@@ -483,7 +507,7 @@
     },
     {
       "start": 1316.25,
-      "end": 1777.58,
+      "end": 1321.65,
       "text": "They really were such an amazing band, weren't they?"
     },
     {
@@ -533,78 +557,14 @@
     },
     {
       "start": 1800.48,
-      "end": 2208.92,
+      "end": 1806.48,
       "text": "Down in history as one of my all-time favorite tracks,"
     },
     {
-      "start": 2208.92,
-      "end": 2213.2,
-      "text": "It was recorded a long, long time ago by a band who didn't exist for too long."
-    },
-    {
-      "start": 2213.3,
-      "end": 2214.28,
-      "text": "They were called Juicy Lucy."
-    },
-    {
-      "start": 2214.52,
-      "end": 2217.34,
-      "text": "The track was an old Bo Diddley number entitled Who Do You Love?"
-    },
-    {
-      "start": 2218.35,
-      "end": 2221.31,
-      "text": "And I wonder what ever happened to the young guitarist who was featured on that track,"
-    },
-    {
-      "start": 2221.35,
-      "end": 2222.99,
-      "text": "a gentleman by the name of Glenn Campbell."
-    },
-    {
-      "start": 2223.09,
-      "end": 2225.59,
-      "text": "Not THE Glenn Campbell, if you like, of Wichita Lineman,"
-    },
-    {
-      "start": 2225.67,
-      "end": 2227.29,
-      "text": "but another American young gentleman."
-    },
-    {
-      "start": 2231.98,
-      "end": 2235.1,
-      "text": "Played that specially for Badger Bolton of Tree Thomas in Gwent,"
-    },
-    {
-      "start": 2235.42,
-      "end": 2236.9,
-      "text": "with a message to Ian and Christine,"
-    },
-    {
-      "start": 2237.44,
-      "end": 2240.42,
-      "text": "who live in South Wales, in a place that I won't even try to pronounce."
-    },
-    {
-      "start": 2240.42,
-      "end": 2243.42,
-      "text": "The message from Badger Bolton to Ian and Christine is,"
-    },
-    {
-      "start": 2243.42,
-      "end": 2245.42,
-      "text": "isn't it about time he got hitched?"
-    },
-    {
-      "start": 2245.42,
-      "end": 2249.05,
-      "text": "Only time will tell."
-    },
-    {
-      "start": 2249.05,
+      "start": 2160.0,
       "end": 2252.27,
-      "text": "Prior to that something by Molly Hatchet from the album called Beating the Odds,"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2252.27,
@@ -698,8 +658,14 @@
     },
     {
       "start": 2332.22,
-      "end": 2491.02,
+      "end": 2343.62,
       "text": "tracks george is just coming up here with a letter in his hand you're looking very serious about it"
+    },
+    {
+      "start": 2343.62,
+      "end": 2491.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2491.02,
@@ -778,7 +744,7 @@
     },
     {
       "start": 2663.97,
-      "end": 3223.36,
+      "end": 2668.77,
       "text": "The Alan Parsons Project from their latest album,"
     },
     {
@@ -973,7 +939,7 @@
     },
     {
       "start": 3398.64,
-      "end": 4230.05,
+      "end": 3403.44,
       "text": "In Dykes of Western Supermare, you've got taste."
     },
     {
@@ -1088,7 +1054,7 @@
     },
     {
       "start": 4303.83,
-      "end": 4801.71,
+      "end": 4307.43,
       "text": "Just listening to that track again,"
     },
     {
@@ -1243,7 +1209,7 @@
     },
     {
       "start": 4865.04,
-      "end": 5420.29,
+      "end": 4870.44,
       "text": "Classic track, Blue Oyster Cult from Agents of Fortune,"
     },
     {
@@ -1373,18 +1339,14 @@
     },
     {
       "start": 5485.63,
-      "end": 5962.7,
+      "end": 5491.03,
       "text": "And that was Yes, as if you didn't know."
     },
     {
-      "start": 5962.7,
-      "end": 5968.68,
-      "text": "couple of tracks then and that was preceded by sweet dreams recorded in the bbc studios in"
-    },
-    {
-      "start": 5968.68,
+      "start": 5491.03,
       "end": 5979.35,
-      "text": "january 1970. i'd like to know that next week we have a new band for you by the name of sweet"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5979.35,
@@ -1413,8 +1375,14 @@
     },
     {
       "start": 6010.58,
-      "end": 6554.94,
+      "end": 6020.78,
       "text": "and this disc jockey is a moron. Best single I've ever made. That's Girl School. Their current"
+    },
+    {
+      "start": 6020.78,
+      "end": 6549.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6554.94,
@@ -1457,44 +1425,10 @@
       "text": "I was to say to get much higher"
     },
     {
-      "start": 6611.66,
-      "end": 6628.55,
-      "text": "The time to hesitate is through"
-    },
-    {
-      "start": 6628.55,
-      "end": 6632.66,
-      "text": "The time to wallow in the mire"
-    },
-    {
-      "start": 6632.66,
-      "end": 6636.36,
-      "text": "Try now we can only live"
-    },
-    {
-      "start": 6636.36,
-      "end": 6640.34,
-      "text": "And our love become a funeral pyre"
-    },
-    {
-      "start": 6640.34,
-      "end": 6645.15,
-      "text": "Come on baby, light my fire"
-    },
-    {
-      "start": 6645.15,
-      "end": 6648.86,
-      "text": "Come on baby, light my fire"
-    },
-    {
-      "start": 6648.86,
-      "end": 6651.92,
-      "text": "Try to set the night on fire"
-    },
-    {
-      "start": 6651.92,
-      "end": 7012.22,
-      "text": "Real classic, Light My Fire by The Doors."
+      "start": 6660.0,
+      "end": 7012.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7012.36,

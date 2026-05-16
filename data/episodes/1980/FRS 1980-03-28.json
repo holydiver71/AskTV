@@ -145,8 +145,26 @@
     },
     {
       "start": 73.46,
-      "end": 636.91,
+      "end": 83.06,
       "text": "It's a track from the new Van Halen album, which is called Women and Children First."
+    },
+    {
+      "start": 83.06,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 636.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 636.97,
@@ -235,8 +253,14 @@
     },
     {
       "start": 686.46,
-      "end": 1270.68,
+      "end": 694.86,
       "text": "That's a piece of music that I never ever get fed up with it."
+    },
+    {
+      "start": 720.0,
+      "end": 1270.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1270.96,
@@ -315,8 +339,20 @@
     },
     {
       "start": 1328.64,
-      "end": 1963.25,
+      "end": 1332.24,
       "text": "Here's Genesis, man of our times."
+    },
+    {
+      "start": 1440.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1963.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1963.25,
@@ -370,8 +406,20 @@
     },
     {
       "start": 1997.63,
-      "end": 2624.01,
+      "end": 2004.83,
       "text": "It's from the album Metal for Mothers and the track called Bootleggers,"
+    },
+    {
+      "start": 2004.83,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2624.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2624.01,
@@ -570,7 +618,7 @@
     },
     {
       "start": 2730.51,
-      "end": 2963.74,
+      "end": 2733.51,
       "text": "Poster on the wall."
     },
     {
@@ -760,7 +808,7 @@
     },
     {
       "start": 3118.48,
-      "end": 3483.42,
+      "end": 3124.48,
       "text": "And that was the Friday Night Connection of Tony Dehaney,"
     },
     {
@@ -860,8 +908,14 @@
     },
     {
       "start": 3535.0,
-      "end": 3910.88,
+      "end": 3541.6,
       "text": "The Stranglers and their new single which is called Bear Cage"
+    },
+    {
+      "start": 3541.6,
+      "end": 3910.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3910.88,
@@ -910,7 +964,7 @@
     },
     {
       "start": 3948.26,
-      "end": 4195.4,
+      "end": 3953.66,
       "text": "This is the title track. It's called Mr Universe."
     },
     {
@@ -1219,9 +1273,10 @@
       "text": "It's called If You Believe Me."
     },
     {
-      "start": 6484.04,
-      "end": 6978.0,
-      "text": "Colin Townes, Bernie Torme, John McCoy, Mick Underwood and Ian Gillan."
+      "start": 6439.98,
+      "end": 6978.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6978.1,
@@ -1310,7 +1365,7 @@
     },
     {
       "start": 7016.08,
-      "end": 7220.49,
+      "end": 7019.08,
       "text": "ACDC from the album"
     },
     {

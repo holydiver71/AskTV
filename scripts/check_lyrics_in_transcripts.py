@@ -3,7 +3,7 @@
 
 Usage:
   GENIUS_API_TOKEN must be set in the environment.
-  python scripts/check_lyrics_in_transcripts.py --episode data/episodes/1980/FRS\ 1980-01-04.json
+  python scripts/check_lyrics_in_transcripts.py --episode data/episodes/1980/FRS/1980-01-04.json
 
 The script writes a JSON report to `logs/lyrics_flags.json` by default.
 """
@@ -22,6 +22,34 @@ from difflib import SequenceMatcher
 
 GENIUS_SEARCH_URL = "https://api.genius.com/search"
 GENIUS_BASE = "https://genius.com"
+
+# Auto-load .env if present. Prefer python-dotenv when available, otherwise
+# fall back to a minimal parser that sets missing environment variables.
+try:
+    from dotenv import load_dotenv
+
+    load_dotenv()
+except Exception:
+    dotenv_path = Path(".env")
+    if dotenv_path.exists():
+        try:
+            with dotenv_path.open("r", encoding="utf-8") as fh:
+                for raw in fh:
+                    line = raw.strip()
+                    if not line or line.startswith("#"):
+                        continue
+                    if "=" not in line:
+                        continue
+                    k, v = line.split("=", 1)
+                    k = k.strip()
+                    v = v.strip()
+                    if (v.startswith('"') and v.endswith('"')) or (v.startswith("'") and v.endswith("'")):
+                        v = v[1:-1]
+                    if k and k not in os.environ:
+                        os.environ[k] = v
+        except Exception:
+            # don't fail if .env parsing fails; script will later check for token
+            pass
 
 
 def normalize(text: str) -> str:
@@ -42,13 +70,28 @@ def genius_search(song_title: str, artist: Optional[str], token: str) -> Optiona
     hits = data.get("response", {}).get("hits", [])
     if not hits:
         return None
-    # Prefer exact title match if possible
+    norm_title = normalize(song_title)
+    norm_artist = normalize(artist or "")
+    # Pass 1: exact title + artist match
     for h in hits:
         result = h.get("result", {})
-        if normalize(result.get("title", "")) == normalize(song_title):
+        primary = normalize(result.get("primary_artist", {}).get("name", ""))
+        if normalize(result.get("title", "")) == norm_title and primary == norm_artist:
             return result.get("url")
-    # otherwise return first hit url
-    return hits[0].get("result", {}).get("url")
+    # Pass 2: exact title match only
+    for h in hits:
+        result = h.get("result", {})
+        if normalize(result.get("title", "")) == norm_title:
+            return result.get("url")
+    # Pass 3: artist matches and title is a substring — avoid totally unrelated hits
+    if norm_artist:
+        for h in hits:
+            result = h.get("result", {})
+            primary = normalize(result.get("primary_artist", {}).get("name", ""))
+            if primary == norm_artist:
+                return result.get("url")
+    # No confident match found
+    return None
 
 
 def fetch_lyrics_from_genius_url(url: str) -> Optional[str]:
@@ -68,8 +111,15 @@ def fetch_lyrics_from_genius_url(url: str) -> Optional[str]:
             return "\n".join(p.get_text(separator=" ") for p in parts).strip()
         # last resort: meta description
         meta = soup.find("meta", attrs={"name": "description"})
-        if meta and meta.get("content"):
-            return meta["content"]
+        if meta:
+            content = meta.get("content")
+            if content is None:
+                return None
+            # BeautifulSoup may return a list for some attribute values;
+            # coerce to string for callers and for type-checkers.
+            if isinstance(content, (list, tuple)):
+                return " ".join(str(x) for x in content)
+            return str(content)
     except Exception:
         return None
     return None
@@ -108,7 +158,7 @@ def any_lyrics_snippet_in_transcript(lyrics: str, transcript_segments: List[Dict
     return None
 
 
-def process_episode_file(path: Path, token: str, write_back: bool = False) -> List[Dict[str, Any]]:
+def process_episode_file(path: Path, token: str, write_back: bool = False, verbose: bool = False) -> List[Dict[str, Any]]:
     out_flags = []
     with path.open("r", encoding="utf-8") as fh:
         ep = json.load(fh)
@@ -116,20 +166,34 @@ def process_episode_file(path: Path, token: str, write_back: bool = False) -> Li
     transcript_segments = ep.get("transcript") or []
 
     track_listing = ep.get("track_listing") or []
+    if verbose:
+        print(f"Processing episode {path.as_posix()} — {len(track_listing)} track(s)", flush=True)
     for idx, t in enumerate(track_listing):
         artist = t.get("artist")
         title = t.get("track") or t.get("title") or t.get("song")
-        if not title:
+        if not title or not artist:
             continue
+        if verbose:
+            print(f"  Track {idx}: {artist} — {title}", flush=True)
         time.sleep(0.5)
         url = genius_search(title, artist, token)
+        if verbose:
+            print(f"    Genius URL: {url}", flush=True)
         lyrics = None
         if url:
             lyrics = fetch_lyrics_from_genius_url(url)
         # if no lyrics, skip
         if not lyrics:
+            if verbose:
+                print("    No lyrics found, skipping", flush=True)
             continue
+        if verbose:
+            print("    fetched lyrics (len=%d)" % (len(lyrics),), flush=True)
         match = any_lyrics_snippet_in_transcript(lyrics, transcript_segments)
+        if match and normalize(match.get("match", "")) == normalize(title):
+            if verbose:
+                print("    Match is just the track title — ignoring", flush=True)
+            match = None
         if match:
             flag = {
                 "episode": path.as_posix(),
@@ -141,6 +205,8 @@ def process_episode_file(path: Path, token: str, write_back: bool = False) -> Li
                 "match_type": match.get("type"),
                 "transcript_start": match.get("transcript_start"),
             }
+            if verbose:
+                print(f"    MATCH: {match.get('match')} @ {match.get('transcript_start')}", flush=True)
             out_flags.append(flag)
             if write_back:
                 t["lyrics_flag"] = True
@@ -159,6 +225,7 @@ def main():
     p.add_argument("--episodes-dir", help="Directory of episode JSON files", default="data/episodes")
     p.add_argument("--output", help="Output JSON report file", default="logs/lyrics_flags.json")
     p.add_argument("--write", help="Write flags back into episode JSON files", action="store_true")
+    p.add_argument("--verbose", "-v", help="Verbose output", action="store_true")
     args = p.parse_args()
 
     token = os.environ.get("GENIUS_API_TOKEN")
@@ -172,11 +239,20 @@ def main():
         if not path.exists():
             print(f"Episode not found: {path}")
             raise SystemExit(2)
-        out.extend(process_episode_file(path, token, write_back=args.write))
+        out.extend(process_episode_file(path, token, write_back=args.write, verbose=args.verbose))
     else:
         base = Path(args.episodes_dir)
+        out_path = Path(args.output)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        # Process episode-by-episode and write incremental output when verbose
         for fn in sorted(base.rglob("*.json")):
-            out.extend(process_episode_file(fn, token, write_back=args.write))
+            episode_flags = process_episode_file(fn, token, write_back=args.write, verbose=args.verbose)
+            out.extend(episode_flags)
+            if args.verbose:
+                # write incremental report so user sees progress
+                with out_path.open("w", encoding="utf-8") as fh:
+                    json.dump(out, fh, ensure_ascii=False, indent=2)
+                print(f"Wrote incremental report ({len(out)} flags) to {out_path}", flush=True)
 
     out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)

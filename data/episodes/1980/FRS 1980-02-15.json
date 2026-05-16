@@ -188,8 +188,20 @@
     },
     {
       "start": 74.36,
-      "end": 642.31,
+      "end": 88.76,
       "text": "Their new single, which is called 2000 Man, an old song written by Jagger and Richards of the Rolling Stones years and years ago."
+    },
+    {
+      "start": 88.76,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 642.31,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 642.31,
@@ -295,6 +307,18 @@
       "start": 687.18,
       "end": 688.14,
       "text": "and here's Lone Star."
+    },
+    {
+      "start": 688.14,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 1281.07,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1281.07,
@@ -428,8 +452,14 @@
     },
     {
       "start": 1363.67,
-      "end": 1727.55,
+      "end": 1372.07,
       "text": "Way back in March 1968, they had Alvin Lee on the guitar and vocals,"
+    },
+    {
+      "start": 1372.07,
+      "end": 1727.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1727.71,
@@ -473,8 +503,14 @@
     },
     {
       "start": 1765.86,
-      "end": 2610.95,
+      "end": 1776.06,
       "text": "The solo album he's got out at the moment on Charisma, the album's called Small Creeps Day,"
+    },
+    {
+      "start": 1800.0,
+      "end": 2606.07,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2611.07,
@@ -582,9 +618,21 @@
       "text": "And now here's Saxon."
     },
     {
+      "start": 2671.37,
+      "end": 2984.85,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2989.85,
-      "end": 3245.87,
+      "end": 2996.45,
       "text": "It's Whitesnake from Love Hunter, the track of the same name,"
+    },
+    {
+      "start": 2996.45,
+      "end": 3245.87,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3245.87,
@@ -663,7 +711,7 @@
     },
     {
       "start": 3329.73,
-      "end": 3956.54,
+      "end": 3339.93,
       "text": "beautiful that's the song that made him famous recorded in the bbc studios between 67 and 68"
     },
     {
@@ -833,7 +881,7 @@
     },
     {
       "start": 4060.1,
-      "end": 4467.79,
+      "end": 4067.3,
       "text": "Track from a great album. The album is just out on Mercury."
     },
     {
@@ -972,9 +1020,10 @@
       "text": "It was Tony Wilson's fault, not mine."
     },
     {
-      "start": 4627.96,
-      "end": 5240.12,
-      "text": "Friday Night Connection tonight."
+      "start": 4558.69,
+      "end": 5240.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5240.24,
@@ -1018,8 +1067,14 @@
     },
     {
       "start": 5287.19,
-      "end": 6059.94,
+      "end": 5299.79,
       "text": "a listen to the words on this it's a great new song by saxon of course with thin lizzy from live"
+    },
+    {
+      "start": 5580.0,
+      "end": 6059.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6059.94,
@@ -1112,106 +1167,6 @@
       "text": "More from ten years after."
     },
     {
-      "start": 6133.88,
-      "end": 6380.27,
-      "text": "I was in my life"
-    },
-    {
-      "start": 6380.27,
-      "end": 6383.51,
-      "text": "Gotta be, but you'll never be my wife"
-    },
-    {
-      "start": 6383.51,
-      "end": 6392.42,
-      "text": "When they got you"
-    },
-    {
-      "start": 6392.42,
-      "end": 6394.3,
-      "text": "Man, you'll never let go"
-    },
-    {
-      "start": 6394.3,
-      "end": 6400.0,
-      "text": "In the street with sparkling eyes"
-    },
-    {
-      "start": 6400.0,
-      "end": 6402.5,
-      "text": "Don't forget that you know"
-    },
-    {
-      "start": 6402.5,
-      "end": 6403.32,
-      "text": "Sad to crack"
-    },
-    {
-      "start": 6403.32,
-      "end": 6412.17,
-      "text": "When they got you"
-    },
-    {
-      "start": 6412.17,
-      "end": 6414.17,
-      "text": "Man, you'll never let them go"
-    },
-    {
-      "start": 6414.17,
-      "end": 6419.7,
-      "text": "Have to never fight"
-    },
-    {
-      "start": 6419.7,
-      "end": 6425.47,
-      "text": "I know I'm gonna treat this"
-    },
-    {
-      "start": 6425.47,
-      "end": 6426.11,
-      "text": "I know"
-    },
-    {
-      "start": 6426.11,
-      "end": 6429.57,
-      "text": "There's a time when women have got to go"
-    },
-    {
-      "start": 6429.57,
-      "end": 6432.87,
-      "text": "Woman trouble always in my mind"
-    },
-    {
-      "start": 6432.87,
-      "end": 6436.03,
-      "text": "My kind of woman I'll never find"
-    },
-    {
-      "start": 6436.03,
-      "end": 6436.91,
-      "text": "You know"
-    },
-    {
-      "start": 6436.91,
-      "end": 6440.28,
-      "text": "Yes, I know"
-    },
-    {
-      "start": 6440.28,
-      "end": 6444.58,
-      "text": "When they got you"
-    },
-    {
-      "start": 6444.58,
-      "end": 6446.64,
-      "text": "Man, you'll never let them go"
-    },
-    {
-      "start": 6446.64,
-      "end": 6528.77,
-      "text": "Alvin Lee and Ten Years After"
-    },
-    {
       "start": 6528.77,
       "end": 6531.09,
       "text": "in a session they recorded in December 1968"
@@ -1267,24 +1222,15 @@
       "text": "Tell no lies that you gave."
     },
     {
-      "start": 6751.54,
-      "end": 6753.26,
-      "text": "It's a fact that I live with."
-    },
-    {
-      "start": 6754.12,
-      "end": 6756.34,
-      "text": "It's a fact that I live with."
-    },
-    {
-      "start": 6757.18,
-      "end": 6759.24,
-      "text": "It's a fact that I live with."
-    },
-    {
       "start": 6759.9,
-      "end": 7067.82,
+      "end": 6770.1,
       "text": "One of them 12 dreams of Dr. Sardonicus in the track was called When I Touch You."
+    },
+    {
+      "start": 6840.0,
+      "end": 7067.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7067.82,

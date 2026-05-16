@@ -125,8 +125,26 @@
     },
     {
       "start": 75.3,
-      "end": 634.62,
+      "end": 83.7,
       "text": "Looking forward to seeing that band on Monday night when they perform in London."
+    },
+    {
+      "start": 83.7,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 634.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 634.74,
@@ -219,54 +237,16 @@
       "text": "And now, here's something quite old."
     },
     {
-      "start": 1080.96,
-      "end": 1146.95,
-      "text": "A couple of classics there."
+      "start": 720.0,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
-      "start": 1147.07,
-      "end": 1151.39,
-      "text": "That, of course, is Jethro Tull from The Best of Jethro Tull and Living in the Past."
-    },
-    {
-      "start": 1151.39,
-      "end": 1153.88,
-      "text": "20 minutes after 10 on the Friday"
-    },
-    {
-      "start": 1153.88,
-      "end": 1155.82,
-      "text": "Rod Show, that was specially for Mike Burns"
-    },
-    {
-      "start": 1155.82,
-      "end": 1157.92,
-      "text": "who lives in Dalmalley up on the"
-    },
-    {
-      "start": 1157.92,
-      "end": 1158.76,
-      "text": "west coast of Scotland"
-    },
-    {
-      "start": 1158.76,
-      "end": 1161.86,
-      "text": "happy birthday from Joy"
-    },
-    {
-      "start": 1161.86,
-      "end": 1166.88,
-      "text": "also a nice little letter from Pete Shaw"
-    },
-    {
-      "start": 1166.88,
-      "end": 1168.6,
-      "text": "here who lives in Brentford and Middlesex"
-    },
-    {
-      "start": 1168.6,
+      "start": 1080.0,
       "end": 1170.68,
-      "text": "who says dear Tom could you please give a mention to"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1170.68,
@@ -335,8 +315,14 @@
     },
     {
       "start": 1216.12,
-      "end": 1797.58,
+      "end": 1228.12,
       "text": "birthday for what two days ago what are you likes the pink floyd in our country that of course is"
+    },
+    {
+      "start": 1620.0,
+      "end": 1792.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1797.58,
@@ -442,6 +428,12 @@
       "start": 1877.3,
       "end": 1880.84,
       "text": "that was recorded at Reading by a band called Samson."
+    },
+    {
+      "start": 1880.84,
+      "end": 3350.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3350.25,
@@ -550,8 +542,14 @@
     },
     {
       "start": 3422.99,
-      "end": 4086.19,
+      "end": 3430.79,
       "text": "A couple of tracks that are going to be released on an album,"
+    },
+    {
+      "start": 3430.79,
+      "end": 4082.65,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4086.35,
@@ -685,8 +683,14 @@
     },
     {
       "start": 4194.71,
-      "end": 4907.82,
+      "end": 4204.31,
       "text": "to think about it it's in there somewhere but that's my friday night connection said especially"
+    },
+    {
+      "start": 4204.31,
+      "end": 4907.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4907.82,
@@ -735,7 +739,7 @@
     },
     {
       "start": 4954.03,
-      "end": 7158.63,
+      "end": 4966.03,
       "text": "the stage they were received warmly as you will hear right here and that for me was one of the"
     },
     {

@@ -283,8 +283,14 @@
     },
     {
       "start": 482.09,
-      "end": 602.36,
+      "end": 485.09,
       "text": "I'm a space cowboy"
+    },
+    {
+      "start": 485.09,
+      "end": 602.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 602.36,
@@ -382,9 +388,10 @@
       "text": "And here now is an archive session from 69 by Free."
     },
     {
-      "start": 719.99,
-      "end": 815.8,
-      "text": "Come on, Paul, and tell us all about your first number."
+      "start": 679.55,
+      "end": 815.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 815.88,
@@ -423,7 +430,7 @@
     },
     {
       "start": 1065.61,
-      "end": 1221.73,
+      "end": 1072.81,
       "text": "And that's a band who were given their name by Alexis Corner,"
     },
     {
@@ -473,118 +480,8 @@
     },
     {
       "start": 1244.11,
-      "end": 1695.42,
+      "end": 1247.11,
       "text": "It's like old saxophone joke"
-    },
-    {
-      "start": 1695.42,
-      "end": 1697.8,
-      "text": "When he's got the hog's head up on his toes"
-    },
-    {
-      "start": 1697.8,
-      "end": 1701.77,
-      "text": "Oh, my, I love that country pie"
-    },
-    {
-      "start": 1701.77,
-      "end": 1704.76,
-      "text": "Listen to the fiddler play"
-    },
-    {
-      "start": 1704.76,
-      "end": 1707.42,
-      "text": "When it's payin' till the break of day"
-    },
-    {
-      "start": 1707.42,
-      "end": 1709.24,
-      "text": "Oh, me, oh, my"
-    },
-    {
-      "start": 1709.24,
-      "end": 1711.45,
-      "text": "Love that country pie"
-    },
-    {
-      "start": 1711.45,
-      "end": 1714.88,
-      "text": "That's best strawberry, lemon, and lime"
-    },
-    {
-      "start": 1714.88,
-      "end": 1716.74,
-      "text": "Where do I care?"
-    },
-    {
-      "start": 1718.01,
-      "end": 1720.01,
-      "text": "Blueberry, apple, cherry, pumpkin, and plum"
-    },
-    {
-      "start": 1720.01,
-      "end": 1722.01,
-      "text": "Call me for dinner, honey, I'll be there"
-    },
-    {
-      "start": 1722.01,
-      "end": 1724.65,
-      "text": "Saddle me up my big white boots"
-    },
-    {
-      "start": 1724.65,
-      "end": 1726.85,
-      "text": "Tie me on her and turn her loose"
-    },
-    {
-      "start": 1726.85,
-      "end": 1728.93,
-      "text": "Oh, me, oh, my"
-    },
-    {
-      "start": 1728.93,
-      "end": 1731.13,
-      "text": "Love that country pie"
-    },
-    {
-      "start": 1731.13,
-      "end": 1744.48,
-      "text": "Eatin' much, that ain't no lie"
-    },
-    {
-      "start": 1744.48,
-      "end": 1746.28,
-      "text": "Runnin' any race"
-    },
-    {
-      "start": 1746.28,
-      "end": 1748.97,
-      "text": "To me, my country pie"
-    },
-    {
-      "start": 1748.97,
-      "end": 1751.6,
-      "text": "I won't throw it up in anybody's face"
-    },
-    {
-      "start": 1751.6,
-      "end": 1753.9,
-      "text": "Shake me up that old beach street"
-    },
-    {
-      "start": 1753.9,
-      "end": 1756.42,
-      "text": "Little Jack Horner got nothing on me"
-    },
-    {
-      "start": 1756.42,
-      "end": 1758.22,
-      "text": "Oh, me, oh, my"
-    },
-    {
-      "start": 1758.22,
-      "end": 1760.46,
-      "text": "Love that country pie"
     },
     {
       "start": 1760.46,
@@ -722,49 +619,27 @@
       "text": "And here's another real classic."
     },
     {
-      "start": 1843.37,
-      "end": 1846.37,
-      "text": "Ground control to Major Tom"
-    },
-    {
-      "start": 1846.37,
-      "end": 1853.49,
-      "text": "Ground control to Major Tom"
-    },
-    {
-      "start": 1853.49,
-      "end": 1862.64,
-      "text": "Take your protein pills and put your helmet on"
-    },
-    {
-      "start": 1862.64,
-      "end": 1867.48,
-      "text": "Ground control to Major Tom"
-    },
-    {
-      "start": 1867.48,
-      "end": 1875.06,
-      "text": "Fencing countdown, engines on"
-    },
-    {
-      "start": 1875.06,
-      "end": 1885.07,
-      "text": "Check ignition and may God's love be with you"
-    },
-    {
-      "start": 1885.07,
-      "end": 1924.41,
-      "text": "Major Tom, either caps, this is neck control"
-    },
-    {
-      "start": 1924.41,
-      "end": 1927.98,
-      "text": "Stepping through the door"
-    },
-    {
       "start": 1927.98,
-      "end": 2335.8,
+      "end": 1937.58,
       "text": "A lineup of Genesis, Gabriel Banks, Anthony Phillips, Mike Rutherford and John Mayhew on the drums"
+    },
+    {
+      "start": 1937.58,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2335.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2335.8,
@@ -907,9 +782,10 @@
       "text": "Nick Simper and Rod Evans, and here they are."
     },
     {
-      "start": 2663.84,
-      "end": 2942.27,
-      "text": "The original line-up of Deep Purple,"
+      "start": 2409.0,
+      "end": 2942.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2942.49,
@@ -958,8 +834,14 @@
     },
     {
       "start": 2985.43,
-      "end": 3393.6,
+      "end": 2992.03,
       "text": "The man who plays the most abrasive guitar in the world."
+    },
+    {
+      "start": 3060.0,
+      "end": 3393.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3393.74,
@@ -1078,8 +960,20 @@
     },
     {
       "start": 3453.58,
-      "end": 3972.78,
+      "end": 3457.18,
       "text": "The album that produced the anthem,"
+    },
+    {
+      "start": 3457.18,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 3972.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3972.88,
@@ -1183,8 +1077,14 @@
     },
     {
       "start": 4019.06,
-      "end": 4744.3,
+      "end": 4025.66,
       "text": "The very first session that Yes ever recorded for the BBC,"
+    },
+    {
+      "start": 4025.66,
+      "end": 4744.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4744.68,
@@ -1373,7 +1273,7 @@
     },
     {
       "start": 4912.88,
-      "end": 5438.39,
+      "end": 4919.48,
       "text": "...as they performed at Woodstock from the album called Woodstock One."
     },
     {
@@ -1432,74 +1332,27 @@
       "text": "and also his name on the air."
     },
     {
-      "start": 5463.37,
-      "end": 5467.23,
-      "text": "Whenever I get to feel this way"
-    },
-    {
-      "start": 5467.23,
-      "end": 5471.61,
-      "text": "I try to find new words to say"
-    },
-    {
-      "start": 5471.61,
-      "end": 5475.95,
-      "text": "I think about the bad old days"
-    },
-    {
-      "start": 5475.95,
-      "end": 5479.48,
-      "text": "Used to know"
-    },
-    {
-      "start": 5479.48,
-      "end": 5484.83,
-      "text": "Nights of winter turn me cold"
-    },
-    {
-      "start": 5484.83,
-      "end": 5489.3,
-      "text": "Fears of dying, getting old"
-    },
-    {
-      "start": 5489.3,
-      "end": 5493.5,
-      "text": "We ran the race, the race was won"
-    },
-    {
-      "start": 5493.5,
-      "end": 5500.08,
-      "text": "Slowly, could be soon"
-    },
-    {
-      "start": 5500.08,
-      "end": 5501.94,
-      "text": "We'll cease to sound"
-    },
-    {
-      "start": 5501.94,
-      "end": 5506.62,
-      "text": "Slowly upstairs, faster down"
-    },
-    {
-      "start": 5506.62,
-      "end": 5510.91,
-      "text": "Then to revisit stony grounds"
-    },
-    {
-      "start": 5510.91,
-      "end": 5514.47,
-      "text": "We used to know"
-    },
-    {
-      "start": 5514.47,
-      "end": 5519.85,
-      "text": "Remembering morning's chilly spend"
-    },
-    {
       "start": 5519.85,
-      "end": 5866.03,
+      "end": 5530.65,
       "text": "Better known by Santana, but that's the original version being sung there by the man who wrote it,"
+    },
+    {
+      "start": 5530.65,
+      "end": 5575.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5580.0,
+      "end": 5755.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5760.0,
+      "end": 5866.03,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5866.03,
@@ -1668,13 +1521,14 @@
     },
     {
       "start": 6606.86,
-      "end": 7132.82,
+      "end": 6614.06,
       "text": "I grow glad, I'm glad, I'm so glad, I'm glad, I'm glad."
     },
     {
-      "start": 7133.22,
+      "start": 6614.06,
       "end": 7150.95,
-      "text": "And that was Cream from the album Goodbye"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7150.95,

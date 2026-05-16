@@ -174,6 +174,12 @@
       "text": "And this evening we start with Crocus."
     },
     {
+      "start": 73.02,
+      "end": 793.05,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 798.05,
       "end": 802.53,
       "text": "That's Neil Young and Crazy Horse from the album Live Rust, and the track was called Like a Hurricane."
@@ -275,8 +281,14 @@
     },
     {
       "start": 868.71,
-      "end": 1391.14,
+      "end": 871.71,
       "text": "Very good band."
+    },
+    {
+      "start": 871.71,
+      "end": 1389.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1391.32,
@@ -335,8 +347,20 @@
     },
     {
       "start": 1428.58,
-      "end": 1975.52,
+      "end": 1438.18,
       "text": "a 1975 classic called kings of speed just remember that it has been known to kill"
+    },
+    {
+      "start": 1438.18,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1975.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1975.52,
@@ -495,7 +519,7 @@
     },
     {
       "start": 2084.15,
-      "end": 2618.34,
+      "end": 2094.95,
       "text": "and just another case of suicide had a letter from john stanhope who lives in peckham in london"
     },
     {
@@ -540,8 +564,20 @@
     },
     {
       "start": 2658.28,
-      "end": 3176.47,
+      "end": 2668.48,
       "text": "palace road london from their album narita of course we're on tour with sammy hager and we"
+    },
+    {
+      "start": 2700.0,
+      "end": 3055.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3060.0,
+      "end": 3176.47,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3176.47,
@@ -645,7 +681,7 @@
     },
     {
       "start": 3264.14,
-      "end": 4045.35,
+      "end": 3270.14,
       "text": "Genesis classic from 76 from the album Wind and Wuthering"
     },
     {
@@ -865,8 +901,14 @@
     },
     {
       "start": 4906.4,
-      "end": 5552.3,
+      "end": 4914.2,
       "text": "It's the voice of a lady who's been around a long, long time"
+    },
+    {
+      "start": 5400.0,
+      "end": 5552.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5552.3,
@@ -930,8 +972,20 @@
     },
     {
       "start": 5610.65,
-      "end": 6333.16,
+      "end": 5615.45,
       "text": "That was part of Cygnus and the Sphere"
+    },
+    {
+      "start": 5615.45,
+      "end": 5755.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5760.0,
+      "end": 6333.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6333.16,
@@ -1135,8 +1189,14 @@
     },
     {
       "start": 6981.12,
-      "end": 7223.41,
+      "end": 6991.32,
       "text": "money and living in a fast world many thanks to money and trespass tonight two excellent sessions"
+    },
+    {
+      "start": 6991.32,
+      "end": 7223.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7223.41,

@@ -2,6 +2,9 @@
 .venv/
 logs/
 
+# Local environment variables (do not commit secrets)
+.env
+
 # Audio files (large binary assets — not tracked in git)
 FRSAudio/
 FRSAudio

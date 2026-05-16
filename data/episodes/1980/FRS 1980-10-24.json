@@ -186,8 +186,26 @@
     },
     {
       "start": 675.23,
-      "end": 1102.86,
+      "end": 686.03,
       "text": "put together entirely and utterly by you tar this is motorhead kiss from the album destroyer and the"
+    },
+    {
+      "start": 686.03,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1102.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1102.86,
@@ -256,8 +274,14 @@
     },
     {
       "start": 1177.53,
-      "end": 1874.18,
+      "end": 1185.93,
       "text": "Album entitled Everyone is Everybody Else, Barclay James Harvest and Child of the Universe."
+    },
+    {
+      "start": 1620.0,
+      "end": 1874.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1874.44,
@@ -316,8 +340,14 @@
     },
     {
       "start": 1910.85,
-      "end": 2291.45,
+      "end": 1916.25,
       "text": "That's their latest album, and it's out on Epic."
+    },
+    {
+      "start": 1916.25,
+      "end": 2292.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2291.45,
@@ -390,49 +420,16 @@
       "text": "Down a long way, between the lack of urban glory and all."
     },
     {
-      "start": 2386.29,
-      "end": 2388.45,
-      "text": "She had wheels on"
+      "start": 2444.34,
+      "end": 2515.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
-      "start": 2388.45,
-      "end": 2394.08,
-      "text": "The cars do the usual dance"
-    },
-    {
-      "start": 2394.08,
-      "end": 2398.55,
-      "text": "Same old cruise in the curbside crawl"
-    },
-    {
-      "start": 2398.55,
-      "end": 2402.33,
-      "text": "Roller girls, he's taking chances"
-    },
-    {
-      "start": 2402.33,
-      "end": 2406.02,
-      "text": "Love to see her"
-    },
-    {
-      "start": 2406.02,
-      "end": 2407.58,
-      "text": "Take them all"
-    },
-    {
-      "start": 2407.58,
-      "end": 2438.74,
-      "text": "You know she used to have to wait around"
-    },
-    {
-      "start": 2438.74,
-      "end": 2440.74,
-      "text": "She used to be the only one"
-    },
-    {
-      "start": 2440.74,
-      "end": 3024.54,
-      "text": "If he doesn't, there's no justice"
+      "start": 2520.0,
+      "end": 3026.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3024.54,
@@ -545,6 +542,12 @@
       "text": "Ten pound record token has come in your way. Well done."
     },
     {
+      "start": 3078.5,
+      "end": 3078.54,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3078.98,
       "end": 3083.54,
       "text": "And as always, we have asked that the person who wins and everybody that enters"
@@ -563,6 +566,12 @@
       "start": 3089.8,
       "end": 3091.5,
       "text": "And it starts with this."
+    },
+    {
+      "start": 3091.5,
+      "end": 4244.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4244.44,
@@ -626,38 +635,20 @@
     },
     {
       "start": 4302.89,
-      "end": 4751.33,
+      "end": 4309.49,
       "text": "Single by Angel Witch. I suppose you could call it eponymous."
     },
     {
-      "start": 4751.51,
-      "end": 4755.31,
-      "text": "It's just come out on the bronze label, and it's a very tasty version of a good old song."
+      "start": 4320.0,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
-      "start": 4755.81,
-      "end": 4758.35,
-      "text": "And it is old now, when you think about it. It's been around for quite some time."
-    },
-    {
-      "start": 4758.35,
-      "end": 4760.67,
-      "text": "Played especially for Teresa and Russell and Tommy,"
-    },
-    {
-      "start": 4761.07,
-      "end": 4765.11,
-      "text": "with best wishes from Graham King, who lives in Lee, SE 12-9-D-2."
-    },
-    {
-      "start": 4765.87,
-      "end": 4768.77,
-      "text": "And before that, you heard something from the Michael Schenker Group"
-    },
-    {
-      "start": 4768.77,
-      "end": 4770.11,
-      "text": "from their first-ever album."
+      "start": 4680.0,
+      "end": 4770.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4770.21,
@@ -701,7 +692,7 @@
     },
     {
       "start": 4799.29,
-      "end": 5522.12,
+      "end": 4811.29,
       "text": "queen i think it's not possible to play file for a long long time and i'm happy to say that"
     },
     {
@@ -746,7 +737,7 @@
     },
     {
       "start": 5564.96,
-      "end": 6020.48,
+      "end": 5575.76,
       "text": "caravan from their first ever album the album is called the taker like you heard that was called"
     },
     {

@@ -115,6 +115,12 @@
       "text": "This evening we start with G-Force."
     },
     {
+      "start": 71.87,
+      "end": 678.15,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 678.15,
       "end": 680.17,
       "text": "A number 747, Strangers of the Night."
@@ -866,7 +872,7 @@
     },
     {
       "start": 2554.44,
-      "end": 3389.48,
+      "end": 2557.44,
       "text": "Beautiful piece of music"
     },
     {
@@ -1151,7 +1157,7 @@
     },
     {
       "start": 6018.42,
-      "end": 6497.12,
+      "end": 6022.62,
       "text": "at Reading. I must confess we've rather"
     },
     {

@@ -133,8 +133,14 @@
     },
     {
       "start": 80.56,
-      "end": 700.83,
+      "end": 85.36,
       "text": "...from one of his albums called Peter Gabriel."
+    },
+    {
+      "start": 85.36,
+      "end": 698.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 701.01,
@@ -252,6 +258,12 @@
       "text": "And here's Vardis."
     },
     {
+      "start": 767.97,
+      "end": 1179.01,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1179.01,
       "end": 1180.31,
       "text": "Absolute piece of recorded magic"
@@ -290,6 +302,12 @@
       "start": 1196.45,
       "end": 1199.05,
       "text": "Order one coffee now."
+    },
+    {
+      "start": 1199.05,
+      "end": 1199.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1199.65,
@@ -392,9 +410,22 @@
       "text": "10, 23 and a half, and here's David Bowie."
     },
     {
-      "start": 1334.47,
-      "end": 1935.82,
-      "text": "I was actually having a chat with him yesterday,"
+      "start": 1272.99,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1936.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1936.04,
@@ -453,7 +484,7 @@
     },
     {
       "start": 1978.28,
-      "end": 3640.5,
+      "end": 1986.68,
       "text": "That was Def Leppard as they were on stage at the recent Reading Festival."
     },
     {
@@ -548,7 +579,7 @@
     },
     {
       "start": 3713.53,
-      "end": 4445.93,
+      "end": 3719.53,
       "text": "A Friday Night Connection tonight, put together by Stuart Campbell,"
     },
     {
@@ -628,12 +659,12 @@
     },
     {
       "start": 4503.68,
-      "end": 4819.78,
+      "end": 4506.68,
       "text": "A song from last year."
     },
     {
       "start": 4820.4,
-      "end": 6763.52,
+      "end": 4827.0,
       "text": "They'd had the Reading Festival, and the tracks he heard were"
     },
     {
@@ -683,8 +714,14 @@
     },
     {
       "start": 6793.01,
-      "end": 7018.09,
+      "end": 6799.61,
       "text": "The Scorpions and their current single, which is called The Zoo,"
+    },
+    {
+      "start": 6799.61,
+      "end": 7018.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7018.21,

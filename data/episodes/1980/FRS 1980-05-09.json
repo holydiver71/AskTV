@@ -122,13 +122,14 @@
     },
     {
       "start": 74.94,
-      "end": 634.63,
+      "end": 83.34,
       "text": "Looking forward to seeing that band on Monday night when they perform in London."
     },
     {
-      "start": 634.75,
-      "end": 637.61,
-      "text": "That's Kiss and their new single, which is called What Makes the World Go Round."
+      "start": 83.34,
+      "end": 638.05,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 639.03,
@@ -202,8 +203,14 @@
     },
     {
       "start": 693.16,
-      "end": 1149.05,
+      "end": 703.96,
       "text": "something quite old a couple of classics there that of course is jethro tull from the best of"
+    },
+    {
+      "start": 703.96,
+      "end": 1149.05,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1149.05,
@@ -317,7 +324,7 @@
     },
     {
       "start": 1217.64,
-      "end": 1797.85,
+      "end": 1228.44,
       "text": "ago white snake everybody who likes the pink floyd in our country that of course is from the"
     },
     {
@@ -457,7 +464,7 @@
     },
     {
       "start": 1882.62,
-      "end": 3352.68,
+      "end": 1889.22,
       "text": "I love a Samson, recorded up there at the Reading Festival"
     },
     {
@@ -577,7 +584,7 @@
     },
     {
       "start": 3422.99,
-      "end": 4086.2,
+      "end": 3430.79,
       "text": "A couple of tracks that are going to be released on an album,"
     },
     {
@@ -737,8 +744,14 @@
     },
     {
       "start": 4197.43,
-      "end": 4908.21,
+      "end": 4202.83,
       "text": "That's my Friday night connection, set specially for you."
+    },
+    {
+      "start": 4202.83,
+      "end": 4908.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4908.21,
@@ -797,8 +810,14 @@
     },
     {
       "start": 4954.02,
-      "end": 7158.64,
+      "end": 4966.02,
       "text": "the stage they were received warmly as you will hear right here and that for me was one of the"
+    },
+    {
+      "start": 4966.02,
+      "end": 7158.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7158.64,

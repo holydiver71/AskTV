@@ -132,8 +132,26 @@
     },
     {
       "start": 76.21,
-      "end": 522.56,
+      "end": 79.21,
       "text": "And that's a real classic."
+    },
+    {
+      "start": 79.21,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 524.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 524.5,
@@ -237,7 +255,7 @@
     },
     {
       "start": 608.78,
-      "end": 1145.68,
+      "end": 619.58,
       "text": "school we've got a session coming up by them soon which is magnificent be looking forward to seeing"
     },
     {
@@ -304,6 +322,12 @@
       "start": 1206.27,
       "end": 1207.49,
       "text": "1020, ELP."
+    },
+    {
+      "start": 1207.49,
+      "end": 1658.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1658.58,
@@ -422,8 +446,20 @@
     },
     {
       "start": 1723.15,
-      "end": 2187.64,
+      "end": 1727.95,
       "text": "Absolutely amazing recording career that man has had."
+    },
+    {
+      "start": 1727.95,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2187.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2187.64,
@@ -526,9 +562,10 @@
       "text": "And these three, according to Mr. Jones, most certainly do."
     },
     {
-      "start": 2443.81,
-      "end": 3126.97,
-      "text": "That's the Friday Night Connection for tonight,"
+      "start": 2292.72,
+      "end": 3127.05,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3127.05,
@@ -582,8 +619,20 @@
     },
     {
       "start": 3169.85,
-      "end": 3744.38,
+      "end": 3180.65,
       "text": "the private night connection but give it at least two thoughts for the bbc this afternoon and they"
+    },
+    {
+      "start": 3240.0,
+      "end": 3415.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3420.0,
+      "end": 3744.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3744.38,

@@ -240,6 +240,12 @@
       "text": "I'm the God of Hellfire, and I bring you fire."
     },
     {
+      "start": 180.0,
+      "end": 465.64,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 465.64,
       "end": 468.88,
       "text": "Flashback 68, that was Judy Driscoll, Brian Auger, and the Trinity,"
@@ -338,6 +344,18 @@
       "start": 532.69,
       "end": 533.59,
       "text": "And they live in Fife."
+    },
+    {
+      "start": 533.59,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 1031.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1031.79,
@@ -470,126 +488,18 @@
       "text": "heard here with see-through windows, The Family."
     },
     {
-      "start": 1198.42,
-      "end": 1202.42,
-      "text": "like following while the wind keepin' the flow"
+      "start": 1125.2,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
-      "start": 1202.42,
-      "end": 1203.34,
-      "text": "and it's slow"
-    },
-    {
-      "start": 1203.34,
+      "start": 1260.0,
       "end": 1409.4,
-      "text": "I asked for a hand"
+      "text": "[Music]",
+      "type": "music"
     },
-    {
-      "start": 1409.4,
-      "end": 1412.26,
-      "text": "Fetch a golden sword"
-    },
-    {
-      "start": 1412.26,
-      "end": 1414.04,
-      "text": "Red, Virginia, old white"
-    },
-    {
-      "start": 1414.04,
-      "end": 1429.89,
-      "text": "Capture all the joys, the birth of our first son"
-    },
-    {
-      "start": 1429.89,
-      "end": 1434.56,
-      "text": "A massive family made of rubber for the one"
-    },
-    {
-      "start": 1434.56,
-      "end": 1538.16,
-      "text": "My lover's threats cut off when ain't she laid to rest"
-    },
-    {
-      "start": 1538.16,
-      "end": 1543.04,
-      "text": "My sorrow blacking out a space upon a woven crest"
-    },
-    {
-      "start": 1543.04,
-      "end": 1545.7,
-      "text": "A gathering for the last time"
-    },
-    {
-      "start": 1545.7,
-      "end": 1547.86,
-      "text": "As a coffin slowly laid"
-    },
-    {
-      "start": 1547.86,
-      "end": 1550.52,
-      "text": "As two ashes dust to dust"
-    },
-    {
-      "start": 1550.52,
-      "end": 1552.44,
-      "text": "One day we will regain"
-    },
-    {
-      "start": 1552.44,
-      "end": 1554.8,
-      "text": "Does it show the visits"
-    },
-    {
-      "start": 1554.8,
-      "end": 1557.39,
-      "text": "My children on my knee"
-    },
-    {
-      "start": 1557.39,
-      "end": 1559.09,
-      "text": "But only we ring"
-    },
-    {
-      "start": 1559.09,
-      "end": 1560.15,
-      "text": "After we've aged"
-    },
-    {
-      "start": 1560.15,
-      "end": 1580.31,
-      "text": "Two years of loneliness made"
-    },
-    {
-      "start": 1580.31,
-      "end": 1592.31,
-      "text": "Don't you lie"
-    },
-    {
-      "start": 1592.31,
-      "end": 1593.57,
-      "text": "Catch me to this"
-    },
-    {
-      "start": 1593.57,
-      "end": 1607.91,
-      "text": "Last now I can see"
-    },
-    {
-      "start": 1607.91,
-      "end": 1610.33,
-      "text": "The pattern of my life"
-    },
-    {
-      "start": 1610.33,
-      "end": 1610.99,
-      "text": "Gone by"
-    },
-    {
-      "start": 1610.99,
-      "end": 1612.63,
-      "text": "So run your tempest"
-    },
-    {
+    {   
       "start": 1612.63,
       "end": 1643.6,
       "text": "That was Family, as they were in the studios of the BBC on the 3rd of the 9th, way back in 1968."
@@ -631,8 +541,14 @@
     },
     {
       "start": 1679.61,
-      "end": 2166.45,
+      "end": 1683.81,
       "text": "That was a hit in May 1968"
+    },
+    {
+      "start": 1683.81,
+      "end": 2165.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2166.45,
@@ -731,8 +647,20 @@
     },
     {
       "start": 2241.11,
-      "end": 2817.53,
+      "end": 2252.51,
       "text": "and that was deep purple and a track that went top five in the united states of america and"
+    },
+    {
+      "start": 2252.51,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 2817.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2817.53,
@@ -851,8 +779,14 @@
     },
     {
       "start": 2887.37,
-      "end": 3060.02,
+      "end": 2893.37,
       "text": "Like what I say, gonna be so big very soon"
+    },
+    {
+      "start": 2893.37,
+      "end": 3060.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3060.02,
@@ -871,7 +805,7 @@
     },
     {
       "start": 3070.43,
-      "end": 3486.69,
+      "end": 3079.43,
       "text": "Jethro Tull, as recorded in the BBC Studios on the 5th of the 11th, 1968."
     },
     {
@@ -966,8 +900,14 @@
     },
     {
       "start": 3572.1,
-      "end": 4201.97,
+      "end": 3583.5,
       "text": "bits of music that have a 1968 theme in my connection of ken malofny and i hope i'm saying"
+    },
+    {
+      "start": 3583.5,
+      "end": 4201.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4201.97,
@@ -1021,8 +961,14 @@
     },
     {
       "start": 4248.82,
-      "end": 4592.62,
+      "end": 4252.42,
       "text": "Say the joker to the thief"
+    },
+    {
+      "start": 4320.0,
+      "end": 4592.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4592.62,
@@ -1136,8 +1082,14 @@
     },
     {
       "start": 4780.44,
-      "end": 5240.21,
+      "end": 4794.24,
       "text": "The BBC Studios in March 1968, status quo in an archive session, and the last track you heard was Ice in the Sun."
+    },
+    {
+      "start": 4794.24,
+      "end": 5240.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5240.29,
@@ -1166,8 +1118,14 @@
     },
     {
       "start": 5258.15,
-      "end": 5712.11,
+      "end": 5261.75,
       "text": "Again, haven't heard it for years."
+    },
+    {
+      "start": 5400.0,
+      "end": 5711.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5712.55,
@@ -1225,19 +1183,10 @@
       "text": "It's what's known as an air check of a live broadcast that went out in 1968, actually on the 26th of the 8th, 68, featuring Fleetwood Mac."
     },
     {
-      "start": 5763.66,
-      "end": 5811.78,
-      "text": "I need someone's hand to lead me through the night."
-    },
-    {
-      "start": 5814.9,
-      "end": 5822.95,
-      "text": "I need someone's arms to hold and squeeze me tight."
-    },
-    {
-      "start": 5826.94,
-      "end": 5828.24,
-      "text": "The night begins."
+      "start": 5828.24,
+      "end": 5828.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5833.91,
@@ -1351,33 +1300,15 @@
     },
     {
       "start": 5985.05,
-      "end": 6091.27,
-      "text": "turn cherry red"
+      "end": 6475.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
-      "start": 6091.27,
-      "end": 6095.32,
-      "text": "hot woman I'm falling out the bed"
-    },
-    {
-      "start": 6095.32,
-      "end": 6103.6,
-      "text": "I never thought I'd never"
-    },
-    {
-      "start": 6103.6,
-      "end": 6301.73,
-      "text": "Jeremy Spencer, John McVie and Mick Fleetwood"
-    },
-    {
-      "start": 6301.73,
-      "end": 6308.53,
-      "text": "as they were live on the radio 26th 8th 1968 a great old session duff quality but it's a magical"
-    },
-    {
-      "start": 6308.53,
-      "end": 6655.54,
-      "text": "memory buffalo springfield from the album buffalo springfield again it came out in 1968 steven"
+      "start": 6480.0,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6655.54,
@@ -1441,62 +1372,24 @@
     },
     {
       "start": 6686.54,
-      "end": 6939.98,
+      "end": 6689.54,
       "text": "A subscription to the"
     },
     {
-      "start": 6939.98,
+      "start": 6689.54,
+      "end": 6835.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6840.0,
       "end": 6951.0,
-      "text": "resurrect house of"
-    },
-    {
-      "start": 6951.0,
-      "end": 6951.9,
-      "text": "detention."
-    },
-    {
-      "start": 6952.9,
-      "end": 7121.44,
-      "text": "They're getting tired of what they've done"
-    },
-    {
-      "start": 7121.44,
-      "end": 7132.11,
-      "text": "to the earth and plundered"
-    },
-    {
-      "start": 7132.11,
-      "end": 7136.97,
-      "text": "and stuck her with knives"
-    },
-    {
-      "start": 7136.97,
-      "end": 7139.45,
-      "text": "In the side of the dawn"
-    },
-    {
-      "start": 7139.45,
-      "end": 7142.37,
-      "text": "And tied her with fences"
-    },
-    {
-      "start": 7142.37,
-      "end": 7145.87,
-      "text": "And dragged her down"
-    },
-    {
-      "start": 7145.87,
-      "end": 7164.45,
-      "text": "Your ear down to the ground"
-    },
-    {
-      "start": 7164.45,
-      "end": 7171.02,
-      "text": "We want the world and we want it"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7171.02,
-      "end": 7357.98,
+      "end": 7175.22,
       "text": "From 1968 and the Ace track called"
     },
     {

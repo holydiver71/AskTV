@@ -201,6 +201,24 @@
       "text": "This evening, we start with The Motors."
     },
     {
+      "start": 77.29,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 828.8,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 828.8,
       "end": 831.78,
       "text": "And that was a track from the new album by Toto, which is called Hydra."
@@ -259,6 +277,12 @@
       "start": 874.32,
       "end": 875.72,
       "text": "10-14, The Floyd."
+    },
+    {
+      "start": 900.0,
+      "end": 1556.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1557.04,
@@ -357,8 +381,20 @@
     },
     {
       "start": 1656.75,
-      "end": 2300.4,
+      "end": 1669.35,
       "text": "your dad because i'm sure he can and now here's the first of four by girl from 1976 from the album"
+    },
+    {
+      "start": 1669.35,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2300.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2300.4,
@@ -431,9 +467,10 @@
       "text": "for the first of three archive sets from Roy Harper."
     },
     {
-      "start": 2839.52,
-      "end": 2871.08,
-      "text": "Roy Harper has recorded in 1973"
+      "start": 2365.65,
+      "end": 2871.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2871.8,
@@ -447,7 +484,7 @@
     },
     {
       "start": 2878.92,
-      "end": 3398.87,
+      "end": 2887.92,
       "text": "And the song that also is their single, which is called Do You Love Me."
     },
     {
@@ -657,8 +694,14 @@
     },
     {
       "start": 3515.94,
-      "end": 4451.73,
+      "end": 3521.34,
       "text": "The Friday Night Connection put together by Hugh Jones"
+    },
+    {
+      "start": 3521.34,
+      "end": 4451.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4451.73,
@@ -827,7 +870,7 @@
     },
     {
       "start": 4544.84,
-      "end": 4859.73,
+      "end": 4549.64,
       "text": "It's a new single that's just come out."
     },
     {
@@ -891,29 +934,16 @@
       "text": "Back in 74, Roy Harper did this."
     },
     {
-      "start": 5317.66,
-      "end": 5625.31,
-      "text": "The tracks that he recorded on the 5th of the 12th of 1974. 12 hours of sunset, and prior to that, too many movies."
+      "start": 4922.37,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
-      "start": 5626.71,
-      "end": 5634.24,
-      "text": "If you read the life story of Roy Harper, you can actually, I think, understand why he sings the way that he does."
-    },
-    {
-      "start": 5634.24,
-      "end": 5647.12,
-      "text": "He renders me very contemplative. Incredibly intricate man. I don't actually think I yet understand what he's doing at all."
-    },
-    {
-      "start": 5648.54,
-      "end": 5649.64,
-      "text": "It certainly makes you think."
-    },
-    {
-      "start": 5650.42,
-      "end": 6113.36,
-      "text": "The album Back on the Streets, and the track was Back on the Streets,"
+      "start": 5940.0,
+      "end": 6113.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6113.42,
@@ -982,7 +1012,7 @@
     },
     {
       "start": 6163.11,
-      "end": 6333.11,
+      "end": 6169.11,
       "text": "That's the old King's number, called You Really Got Me"
     },
     {
@@ -1077,7 +1107,7 @@
     },
     {
       "start": 6521.03,
-      "end": 6961.34,
+      "end": 6527.03,
       "text": "And Trigger, as recorded on the 10th of June, 1975."
     },
     {
@@ -1187,7 +1217,7 @@
     },
     {
       "start": 7006.08,
-      "end": 7259.99,
+      "end": 7014.48,
       "text": "If you like that sort of heavy music, you'll find that on an album"
     },
     {

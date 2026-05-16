@@ -161,6 +161,18 @@
       "text": "But this evening we start with this."
     },
     {
+      "start": 70.41,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 811.64,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 811.64,
       "end": 813.66,
       "text": "An absolutely magic track by Boston."
@@ -219,6 +231,12 @@
       "start": 880.49,
       "end": 885.71,
       "text": "It's now 10.17. Here's the first of four by a new Belfast band called Sweet Savage."
+    },
+    {
+      "start": 885.71,
+      "end": 1478.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1478.37,
@@ -512,8 +530,14 @@
     },
     {
       "start": 2300.35,
-      "end": 2870.33,
+      "end": 2311.75,
       "text": "from whence those tracks doth come is not called yes songs at all it's called yes shows it's a"
+    },
+    {
+      "start": 2311.75,
+      "end": 2870.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2870.33,
@@ -542,7 +566,7 @@
     },
     {
       "start": 2893.87,
-      "end": 3488.62,
+      "end": 2904.07,
       "text": "that's a track from an album that first came out in 1977 but it's just been reissued"
     },
     {
@@ -822,8 +846,14 @@
     },
     {
       "start": 3699.29,
-      "end": 4552.58,
+      "end": 3704.09,
       "text": "The Friday Night Connection for this over-Christmas period."
+    },
+    {
+      "start": 3704.09,
+      "end": 4552.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4552.7,
@@ -961,6 +991,12 @@
       "text": "It's 11.20. Here's Sweet Savage in the eye of the storm."
     },
     {
+      "start": 4860.0,
+      "end": 5069.9,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5069.9,
       "end": 5071.24,
       "text": "461 Ocean Boulevard."
@@ -1042,148 +1078,9 @@
     },
     {
       "start": 5127.15,
-      "end": 5246.06,
-      "text": "Chase on all the women are always late"
-    },
-    {
-      "start": 5246.06,
-      "end": 5847.24,
-      "text": "The village settles down"
-    },
-    {
-      "start": 5847.24,
-      "end": 5851.36,
-      "text": "Undetected by the stars"
-    },
-    {
-      "start": 5851.36,
-      "end": 5860.24,
-      "text": "And the hangman plays the mandolin before he goes to sleep"
-    },
-    {
-      "start": 5860.24,
-      "end": 5871.56,
-      "text": "And the last thing on his mind is the wild-eyed boy in prison"
-    },
-    {
-      "start": 5871.56,
-      "end": 5880.72,
-      "text": "Neath the covered wooden shaft falls the rope into its bag"
-    },
-    {
-      "start": 5880.72,
-      "end": 5889.97,
-      "text": "Blows his pipe of smoulders, blankets, smoke into the room"
-    },
-    {
-      "start": 5889.97,
-      "end": 5903.44,
-      "text": "As the night begins for one"
-    },
-    {
-      "start": 5903.44,
-      "end": 5922.78,
-      "text": "To solitary sun from a mountain"
-    },
-    {
-      "start": 5922.78,
-      "end": 5927.98,
-      "text": "Called free cloud where the evil dare not fly"
-    },
-    {
-      "start": 5927.98,
-      "end": 5943.12,
-      "text": "Gives no indication for the townsman to decide"
-    },
-    {
-      "start": 5943.12,
       "end": 5951.54,
-      "text": "So the village dreadfully yawns"
-    },
-    {
-      "start": 5951.54,
-      "end": 5954.26,
-      "text": "Pronouncing gross diversion"
-    },
-    {
-      "start": 5954.26,
-      "end": 5957.05,
-      "text": "As the label for the dog"
-    },
-    {
-      "start": 5957.05,
-      "end": 5964.08,
-      "text": "Oh, it's the madness in his eyes"
-    },
-    {
-      "start": 5964.08,
-      "end": 5969.32,
-      "text": "As he breaks the night to cry"
-    },
-    {
-      "start": 5969.32,
-      "end": 5972.32,
-      "text": "It's really me"
-    },
-    {
-      "start": 5972.32,
-      "end": 5997.13,
-      "text": "It's so hard for us to really be"
-    },
-    {
-      "start": 5997.13,
-      "end": 6018.06,
-      "text": "Lose me to the world of real lives"
-    },
-    {
-      "start": 6018.06,
-      "end": 6021.38,
-      "text": "Where the snow would save the place"
-    },
-    {
-      "start": 6021.38,
-      "end": 6030.74,
-      "text": "To the world of village dreadful crime"
-    },
-    {
-      "start": 6030.74,
-      "end": 6034.3,
-      "text": "A salope began to rise"
-    },
-    {
-      "start": 6034.3,
-      "end": 6041.89,
-      "text": "For the smile stayed on the face of a green cloud"
-    },
-    {
-      "start": 6041.89,
-      "end": 6051.52,
-      "text": "A smash down from the mountain"
-    },
-    {
-      "start": 6051.52,
-      "end": 6055.56,
-      "text": "And the magic in the stare of the wild-eyed boy said"
-    },
-    {
-      "start": 6055.56,
-      "end": 6069.9,
-      "text": "It just felt like a flame caught hell"
-    },
-    {
-      "start": 6069.9,
-      "end": 6073.16,
-      "text": "And the tears on the face of the wise boy"
-    },
-    {
-      "start": 6073.16,
-      "end": 6077.37,
-      "text": "Trembling down to the rumbling ground"
-    },
-    {
-      "start": 6077.37,
-      "end": 6084.19,
-      "text": "And the missionary mystic cries"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6084.19,
@@ -1527,8 +1424,14 @@
     },
     {
       "start": 6700.47,
-      "end": 6996.2,
+      "end": 6711.87,
       "text": "we wish you a merry christmas and a happy new year thanks very much see ya deep purple from"
+    },
+    {
+      "start": 6711.87,
+      "end": 6991.2,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6996.2,

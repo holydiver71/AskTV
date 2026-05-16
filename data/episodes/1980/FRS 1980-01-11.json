@@ -202,8 +202,14 @@
     },
     {
       "start": 68.02,
-      "end": 509.5,
+      "end": 76.42,
       "text": "And that, as if you didn't know, is from the album Queen Live Killers."
+    },
+    {
+      "start": 180.0,
+      "end": 504.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 509.5,
@@ -297,8 +303,20 @@
     },
     {
       "start": 559.52,
-      "end": 1164.52,
+      "end": 566.12,
       "text": "That was Deep Purple, the title track from the album Burn"
+    },
+    {
+      "start": 566.12,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1164.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1164.52,
@@ -381,9 +399,10 @@
       "text": "And here comes Traffic with the song which provided their first hit, the fantastic, groovy, Paper Sun."
     },
     {
-      "start": 1626.47,
-      "end": 1665.28,
-      "text": "Studio version of a real classic from way back in 1967."
+      "start": 1237.56,
+      "end": 1666.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1666.28,
@@ -447,8 +466,14 @@
     },
     {
       "start": 1700.42,
-      "end": 2328.39,
+      "end": 1714.22,
       "text": "A couple of tracks there from an album which I believe is going to come out in about a week and a half."
+    },
+    {
+      "start": 2160.0,
+      "end": 2328.57,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2328.57,
@@ -592,7 +617,7 @@
     },
     {
       "start": 2415.11,
-      "end": 2739.34,
+      "end": 2419.91,
       "text": "What a classic that turned out to be."
     },
     {
@@ -687,8 +712,14 @@
     },
     {
       "start": 2805.3,
-      "end": 3479.64,
+      "end": 2815.5,
       "text": "One of the nuttiest tracks I think ever made, Hocus Pocus by Focus, came out in 1972."
+    },
+    {
+      "start": 3240.0,
+      "end": 3480.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3480.34,
@@ -892,8 +923,14 @@
     },
     {
       "start": 3678.27,
-      "end": 3862.65,
+      "end": 3687.27,
       "text": "It's a brand new song, which looks like another hit for Soul Brothers TV Wynwood."
+    },
+    {
+      "start": 3687.27,
+      "end": 3863.05,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3863.05,
@@ -902,7 +939,7 @@
     },
     {
       "start": 3867.67,
-      "end": 4330.73,
+      "end": 3873.07,
       "text": "Archive session by Traffic from way back in 1968."
     },
     {
@@ -987,8 +1024,14 @@
     },
     {
       "start": 4396.28,
-      "end": 5164.55,
+      "end": 4402.88,
       "text": "That live on stage at the venue was absolutely cranium cracking."
+    },
+    {
+      "start": 4402.88,
+      "end": 5165.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5165.42,
@@ -1022,7 +1065,7 @@
     },
     {
       "start": 5196.0,
-      "end": 5659.97,
+      "end": 5206.8,
       "text": "night connection as well it's 11 24 and a fraction and here's pil call careering by public image"
     },
     {
@@ -1042,8 +1085,14 @@
     },
     {
       "start": 5675.45,
-      "end": 5946.36,
+      "end": 5686.85,
       "text": "track by them later but right now here's something by judas priest judas priest to go on tour in"
+    },
+    {
+      "start": 5760.0,
+      "end": 5946.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5946.36,
@@ -1101,63 +1150,8 @@
       "text": "It's 22 and a half minutes before midnight"
     },
     {
-      "start": 5998.58,
-      "end": 6001.1,
-      "text": "And here, from 68, is Traffic"
-    },
-    {
-      "start": 6001.1,
-      "end": 6004.99,
-      "text": "A little song you can all join in with"
-    },
-    {
-      "start": 6004.99,
-      "end": 6006.97,
-      "text": "It's very simple and I hope it's new"
-    },
-    {
-      "start": 6006.97,
-      "end": 6009.83,
-      "text": "Make your own words up if you want to"
-    },
-    {
-      "start": 6009.83,
-      "end": 6012.09,
-      "text": "Any old words that you think will do"
-    },
-    {
-      "start": 6012.09,
-      "end": 6027.42,
-      "text": "Yeah, I just sit here and think"
-    },
-    {
-      "start": 6027.42,
-      "end": 6032.65,
-      "text": "One of these colors ever bother you"
-    },
-    {
-      "start": 6032.65,
-      "end": 6046.83,
-      "text": "You can all join in with"
-    },
-    {
-      "start": 6046.83,
-      "end": 6048.13,
-      "text": "And I hope it's new"
-    },
-    {
-      "start": 6048.13,
-      "end": 6050.99,
-      "text": "Make your own steps up if you want to"
-    },
-    {
-      "start": 6050.99,
-      "end": 6053.23,
-      "text": "Any old steps that you think will do"
-    },
-    {
       "start": 6053.23,
-      "end": 6429.87,
+      "end": 6058.63,
       "text": "All right, perform with Feeling All Right by Traffic."
     },
     {
@@ -1197,7 +1191,7 @@
     },
     {
       "start": 6449.23,
-      "end": 6773.17,
+      "end": 6452.23,
       "text": "Really mesmeric and disturbing."
     },
     {
@@ -1224,6 +1218,18 @@
       "start": 6781.13,
       "end": 6785.85,
       "text": "This is a track from the forthcoming album Short Stories by John and Van Gellis."
+    },
+    {
+      "start": 6840.0,
+      "end": 7195.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 7200.0,
+      "end": 7322.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7322.76,

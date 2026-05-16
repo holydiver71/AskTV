@@ -128,8 +128,20 @@
     },
     {
       "start": 78.45,
-      "end": 569.46,
+      "end": 86.85,
       "text": "And that was Thin Lizzy and a track from their new album called Chinatown."
+    },
+    {
+      "start": 86.85,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 569.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 569.6,
@@ -233,7 +245,7 @@
     },
     {
       "start": 624.94,
-      "end": 1222.84,
+      "end": 630.94,
       "text": "I'm Matt Morrison. It's a track from his new album,"
     },
     {
@@ -413,7 +425,7 @@
     },
     {
       "start": 1309.92,
-      "end": 1665.39,
+      "end": 1318.32,
       "text": "A couple of good singles there by a couple of good British young bands."
     },
     {
@@ -495,6 +507,12 @@
       "start": 1721.93,
       "end": 1723.15,
       "text": "It came out in 1976."
+    },
+    {
+      "start": 1723.15,
+      "end": 2201.43,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2201.43,
@@ -667,6 +685,12 @@
       "text": "I just tell you that it's in there definitely somewhere."
     },
     {
+      "start": 2309.21,
+      "end": 3272.9,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3272.9,
       "end": 3275.62,
       "text": "Friday Night Connection for tonight, if you think you know what the answer is,"
@@ -773,7 +797,7 @@
     },
     {
       "start": 3978.16,
-      "end": 5049.5,
+      "end": 3990.16,
       "text": "ain't gonna cry no more love hunter my good friend bernie marsden on the guitar i think you do know"
     },
     {
@@ -783,7 +807,7 @@
     },
     {
       "start": 5061.9,
-      "end": 6655.33,
+      "end": 5073.9,
       "text": "enjoy it a white snake at running the tracks you heard fool for your loving ain't no love in the"
     },
     {
@@ -835,6 +859,12 @@
       "start": 6681.21,
       "end": 6686.13,
       "text": "Rock on, rock on, radio on."
+    },
+    {
+      "start": 6840.0,
+      "end": 6991.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6991.28,

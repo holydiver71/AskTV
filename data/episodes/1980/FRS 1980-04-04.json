@@ -264,6 +264,24 @@
       "text": "But this evening we start with Whitesnake."
     },
     {
+      "start": 110.8,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 829.51,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 829.51,
       "end": 832.19,
       "text": "And that, of course, was Def Leppard from their album On Through the Night,"
@@ -349,14 +367,26 @@
       "text": "It's Motorcycle Man."
     },
     {
+      "start": 876.02,
+      "end": 878.05,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 879.45,
       "end": 880.77,
       "text": "Well, it will be when he revs up."
     },
     {
       "start": 883.05,
-      "end": 1256.49,
+      "end": 887.85,
       "text": "That was Made in Heaven by Bebop Deluxe,"
+    },
+    {
+      "start": 887.85,
+      "end": 1256.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1256.59,
@@ -435,8 +465,20 @@
     },
     {
       "start": 1308.76,
-      "end": 1979.76,
+      "end": 1313.56,
       "text": "was Black Sabbath with their new lead singer"
+    },
+    {
+      "start": 1440.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1979.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1979.76,
@@ -567,6 +609,12 @@
       "start": 2028.96,
       "end": 2039.21,
       "text": "Nottingham and Saxon."
+    },
+    {
+      "start": 2340.0,
+      "end": 2454.95,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2454.95,
@@ -825,8 +873,14 @@
     },
     {
       "start": 2536.68,
-      "end": 3025.24,
+      "end": 2543.88,
       "text": "And that was Queen, out of the archives in Keep Yourself Alive,"
+    },
+    {
+      "start": 2880.0,
+      "end": 3025.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3025.24,
@@ -865,8 +919,14 @@
     },
     {
       "start": 3049.67,
-      "end": 3551.56,
+      "end": 3056.87,
       "text": "Brand new Van Halen album, which is called Women and Children First."
+    },
+    {
+      "start": 3420.0,
+      "end": 3551.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3551.72,
@@ -1080,7 +1140,7 @@
     },
     {
       "start": 3653.54,
-      "end": 4603.69,
+      "end": 3662.54,
       "text": "you can spot them our easter friday night connection three bits of music they have"
     },
     {
@@ -1135,8 +1195,14 @@
     },
     {
       "start": 4656.49,
-      "end": 4972.64,
+      "end": 4663.09,
       "text": "Tigers of Pantang and their single called Don't Touch Me There."
+    },
+    {
+      "start": 4663.09,
+      "end": 4972.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4972.9,
@@ -1169,34 +1235,21 @@
       "text": "So let's put that one to rights"
     },
     {
-      "start": 4992.24,
-      "end": 5010.98,
-      "text": "As I sit at this anti-cafe"
-    },
-    {
-      "start": 5010.98,
-      "end": 5057.34,
-      "text": "It is my own Notre Dame"
-    },
-    {
-      "start": 5057.34,
-      "end": 5061.62,
-      "text": "Castellon, don't get shy"
-    },
-    {
-      "start": 5061.62,
-      "end": 5074.18,
-      "text": "Now only sorrow, sorrow"
-    },
-    {
-      "start": 5074.18,
-      "end": 5083.5,
-      "text": "Nothing is there to share"
-    },
-    {
       "start": 5083.5,
-      "end": 5692.78,
+      "end": 5087.7,
       "text": "This track is from an import album."
+    },
+    {
+      "start": 5087.7,
+      "end": 5395.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5400.0,
+      "end": 5692.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5692.94,
@@ -1255,13 +1308,14 @@
     },
     {
       "start": 5730.64,
-      "end": 6487.92,
+      "end": 5743.84,
       "text": "queen out of the archives as recorded on the 25th of the 7th way back in 1973 a nice set son and"
     },
     {
-      "start": 6487.92,
-      "end": 7229.9,
-      "text": "daughter and liar next week out of the archives the nice but right now our last from saxon and"
+      "start": 5760.0,
+      "end": 7230.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7229.9,
