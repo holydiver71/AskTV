@@ -18,17 +18,20 @@
     {
       "artist": "Judas Priest",
       "track": "Rapid Fire",
-      "details": "LP-British Steel"
+      "details": "LP-British Steel",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Van Halen",
       "track": "Fools",
-      "details": "LP-Women and Children First"
+      "details": "LP-Women and Children First",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Boston",
       "track": "More Than A Feeling",
-      "details": "LP-Boston"
+      "details": "LP-Boston",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Blue Oyster Cult",
@@ -38,32 +41,38 @@
     {
       "artist": "Genesis",
       "track": "Man Of Our Times",
-      "details": "LP-Duke"
+      "details": "LP-Duke",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Jan Akkerman & Kaz Lux",
       "track": "Guardian Angel",
-      "details": "LP-Eli; Atlantic"
+      "details": "LP-Eli; Atlantic",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Pat Travers Band",
       "track": "Born Under A Bad Sign",
-      "details": "LP-Crash And Burn; Polydor"
+      "details": "LP-Crash And Burn; Polydor",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Nutz",
       "track": "Bootliggers",
-      "details": "LP-Metal For Muthas; EMI"
+      "details": "LP-Metal For Muthas; EMI",
+      "verified_timestamp": 1997.63
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.78
     },
     {
       "artist": "The Stranglers",
       "track": "Bear Cage",
-      "details": "Single"
+      "details": "Single",
+      "verified_timestamp": 3535.0
     },
     {
       "artist": "Ian Gillan Band",
@@ -78,12 +87,1301 @@
     {
       "artist": "Gillan",
       "track": "If You Believe Me",
-      "details": "Played live in Ian's studio"
+      "details": "Played live in Ian's studio",
+      "verified_timestamp": 6437.88
     },
     {
       "artist": "AC/DC",
       "track": "'Rock n Roll Damnation (LP-If You Want Blood You've Got It)' (Atlantic)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 7220.49
+    }
+  ],
+  "transcript": [
+    {
+      "start": 5.84,
+      "end": 12.84,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 12.84,
+      "end": 26.02,
+      "text": "Well, hello there and a good evening to you. This is Thomas the Vance, TV on the radio."
+    },
+    {
+      "start": 26.02,
+      "end": 29.02,
+      "text": "Welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.02,
+      "end": 36.02,
+      "text": "Tonight we feature a repeat of the bouncy Storming set that was recorded for us by the Ian Gillan Band at last year's Reading Festival."
+    },
+    {
+      "start": 36.02,
+      "end": 54.66,
+      "text": "And also following that, I'm going to be chatting to Ian and then the band are going to play a number specially for us."
+    },
+    {
+      "start": 54.66,
+      "end": 58.38,
+      "text": "We've got classic cuts by Blue Oyster Cult, Boston, and ACDC, among others."
+    },
+    {
+      "start": 58.48,
+      "end": 62.62,
+      "text": "We have new stuff by Judas Priest, Van Halen, Genesis, Pat Travers, and The Stranglers."
+    },
+    {
+      "start": 63.78,
+      "end": 68.52,
+      "text": "Not forgetting the Friday Night Connection, that moment when a little bit of titillation comes into your life."
+    },
+    {
+      "start": 69.9,
+      "end": 72.32,
+      "text": "But this evening, we start with Judas Priest."
+    },
+    {
+      "start": 73.46,
+      "end": 636.91,
+      "text": "It's a track from the new Van Halen album, which is called Women and Children First."
+    },
+    {
+      "start": 636.97,
+      "end": 638.73,
+      "text": "And the track that we played, he was called Fools."
+    },
+    {
+      "start": 638.73,
+      "end": 645.19,
+      "text": "And I played that specially for a gentleman who wrote on a little bit of paper for me last night, up at a gig in Braintree."
+    },
+    {
+      "start": 645.19,
+      "end": 647.51,
+      "text": "He actually comes from Chelmsford, and he says,"
+    },
+    {
+      "start": 647.61,
+      "end": 650.65,
+      "text": "Tom, please mention everybody who rides motorcycles."
+    },
+    {
+      "start": 651.03,
+      "end": 653.17,
+      "text": "That's Keith, who rides a Japanese motorcycle,"
+    },
+    {
+      "start": 653.71,
+      "end": 656.07,
+      "text": "and Jude, who drives a Japanese motorcycle,"
+    },
+    {
+      "start": 656.41,
+      "end": 658.53,
+      "text": "and Wally, who drives a Japanese motorcycle."
+    },
+    {
+      "start": 659.13,
+      "end": 661.03,
+      "text": "Looks like we're out of business in this country yet again."
+    },
+    {
+      "start": 661.17,
+      "end": 663.11,
+      "text": "And before that, you heard something by Judas Priest"
+    },
+    {
+      "start": 663.11,
+      "end": 664.81,
+      "text": "from the album British Steel."
+    },
+    {
+      "start": 664.99,
+      "end": 666.65,
+      "text": "The track we played you was Rapid Fire."
+    },
+    {
+      "start": 667.05,
+      "end": 669.35,
+      "text": "And having just spent earlier this evening two hours"
+    },
+    {
+      "start": 669.35,
+      "end": 671.21,
+      "text": "in the company of Rob Halford, the lead singer"
+    },
+    {
+      "start": 671.21,
+      "end": 674.47,
+      "text": "of five-octave fame of Judas Priest,"
+    },
+    {
+      "start": 674.47,
+      "end": 677.73,
+      "text": "may I say that not only are they a great rock and roll band,"
+    },
+    {
+      "start": 678.15,
+      "end": 681.03,
+      "text": "but they're a great rock and roll band made up of great people."
+    },
+    {
+      "start": 685.08,
+      "end": 686.02,
+      "text": "And now here's a classic."
+    },
+    {
+      "start": 686.46,
+      "end": 1270.68,
+      "text": "That's a piece of music that I never ever get fed up with it."
+    },
+    {
+      "start": 1270.96,
+      "end": 1274.2,
+      "text": "It always sounds as fresh as the first day I ever heard it."
+    },
+    {
+      "start": 1274.28,
+      "end": 1276.76,
+      "text": "Blue Oyster Colour from the album Agents of Fortune,"
+    },
+    {
+      "start": 1276.96,
+      "end": 1278.4,
+      "text": "and the track was Don't Fear the Reaper."
+    },
+    {
+      "start": 1279.58,
+      "end": 1281.52,
+      "text": "Played that specially for a lady by the name of Karen,"
+    },
+    {
+      "start": 1281.66,
+      "end": 1282.96,
+      "text": "with lots and lots of love from Ada,"
+    },
+    {
+      "start": 1283.12,
+      "end": 1286.1,
+      "text": "who lives at number five, Gorsy Close Belper in Derbyshire."
+    },
+    {
+      "start": 1286.1,
+      "end": 1291.5,
+      "text": "And also from Bo Wolfe for Nick and Rob and Neil and Wells and Bonk and Pell and Stew"
+    },
+    {
+      "start": 1291.5,
+      "end": 1297.62,
+      "text": "and for Ros and Friends and Brian Friends and also for the editors of Halogens, whatever that may be."
+    },
+    {
+      "start": 1298.46,
+      "end": 1301.1,
+      "text": "And before that, a real classic by Boston from the album Boston."
+    },
+    {
+      "start": 1301.28,
+      "end": 1302.64,
+      "text": "The track was more than a feeling."
+    },
+    {
+      "start": 1303.52,
+      "end": 1309.02,
+      "text": "And that was for Steve and Andy and Henry and also for Jane, Ruth and everybody that happens to be acquainted"
+    },
+    {
+      "start": 1309.02,
+      "end": 1311.74,
+      "text": "with Philip Morgan who lives in Barrow Hill."
+    },
+    {
+      "start": 1311.74,
+      "end": 1321.14,
+      "text": "And Boston was played also for Noel Mayne of Cwmbran in Gwent."
+    },
+    {
+      "start": 1321.14,
+      "end": 1324.98,
+      "text": "Nice to hear that Phil Collins' voice is all right."
+    },
+    {
+      "start": 1324.98,
+      "end": 1328.64,
+      "text": "He was on the stage last night at Hammersworth, probably on the stage right now."
+    },
+    {
+      "start": 1328.64,
+      "end": 1963.25,
+      "text": "Here's Genesis, man of our times."
+    },
+    {
+      "start": 1963.25,
+      "end": 1966.21,
+      "text": "That's a track from an album that came out in 1976."
+    },
+    {
+      "start": 1966.21,
+      "end": 1969.79,
+      "text": "It's one of my all-time favorites, and I was given the opportunity to play it because I"
+    },
+    {
+      "start": 1969.79,
+      "end": 1974.49,
+      "text": "got a card through the post from a lady by the name of Pat, who lives in Poplar in London,"
+    },
+    {
+      "start": 1974.49,
+      "end": 1977.85,
+      "text": "who wanted me to play something by Jan Ackermann and Kaz Luks"
+    },
+    {
+      "start": 1977.85,
+      "end": 1981.23,
+      "text": "for her husband, Bob, who at the moment is away."
+    },
+    {
+      "start": 1982.13,
+      "end": 1983.11,
+      "text": "I hope you enjoyed the track."
+    },
+    {
+      "start": 1983.71,
+      "end": 1987.01,
+      "text": "The album is called Eli, and the track that I played was Guardian Angel."
+    },
+    {
+      "start": 1987.51,
+      "end": 1990.35,
+      "text": "And before that, you heard something by Genesis from their current album,"
+    },
+    {
+      "start": 1990.47,
+      "end": 1994.29,
+      "text": "which, of course, is called Duke, and the track was Man of Our Times."
+    },
+    {
+      "start": 1996.03,
+      "end": 1997.15,
+      "text": "And now here's Pat Travis."
+    },
+    {
+      "start": 1997.63,
+      "end": 2624.01,
+      "text": "It's from the album Metal for Mothers and the track called Bootleggers,"
+    },
+    {
+      "start": 2624.01,
+      "end": 2626.45,
+      "text": "and it was specially for Richard and Nick and Colin"
+    },
+    {
+      "start": 2626.45,
+      "end": 2629.45,
+      "text": "and Chris D and Chris C and Henry"
+    },
+    {
+      "start": 2629.45,
+      "end": 2632.65,
+      "text": "and all the FBs with lots of love from Petal."
+    },
+    {
+      "start": 2633.27,
+      "end": 2635.45,
+      "text": "And before that, you heard something from the Pat Travers Band."
+    },
+    {
+      "start": 2635.61,
+      "end": 2637.55,
+      "text": "Their album is out. It's called Crash and Burn."
+    },
+    {
+      "start": 2637.71,
+      "end": 2640.51,
+      "text": "The track we played was written by Booker T. Jones."
+    },
+    {
+      "start": 2641.17,
+      "end": 2644.31,
+      "text": "Of the old MGs, it was called Born Under a Bad Sign."
+    },
+    {
+      "start": 2649.67,
+      "end": 2653.65,
+      "text": "16 minutes before 11 o'clock here on Radio 1's Friday Rock Show."
+    },
+    {
+      "start": 2653.75,
+      "end": 2656.63,
+      "text": "And it's time once again for the Friday Night Connection."
+    },
+    {
+      "start": 2656.63,
+      "end": 2658.51,
+      "text": "Now, the tracks that we played you last week were"
+    },
+    {
+      "start": 2658.93,
+      "end": 2662.03,
+      "text": "How's Tricks by the Jack Bruce Band from the album How's Tricks."
+    },
+    {
+      "start": 2662.49,
+      "end": 2666.19,
+      "text": "Mad Jack by the Baker Govitz Army from the album Baker Govitz Army."
+    },
+    {
+      "start": 2666.63,
+      "end": 2670.45,
+      "text": "And then we played you Cocaine by Eric Clapton from the LP Slow Hand."
+    },
+    {
+      "start": 2672.0,
+      "end": 2675.64,
+      "text": "And as you should remember, at least I hope you do, last week it was Flashback 68."
+    },
+    {
+      "start": 2676.0,
+      "end": 2677.12,
+      "text": "Or actually the week before."
+    },
+    {
+      "start": 2677.36,
+      "end": 2677.9,
+      "text": "No, hang on."
+    },
+    {
+      "start": 2678.08,
+      "end": 2679.28,
+      "text": "What was it last week?"
+    },
+    {
+      "start": 2679.64,
+      "end": 2680.22,
+      "text": "Just checking."
+    },
+    {
+      "start": 2680.42,
+      "end": 2680.88,
+      "text": "Just checking."
+    },
+    {
+      "start": 2682.11,
+      "end": 2683.43,
+      "text": "Time goes by so fast."
+    },
+    {
+      "start": 2684.47,
+      "end": 2688.21,
+      "text": "So, the answer had to be something to do with 1968."
+    },
+    {
+      "start": 2688.21,
+      "end": 2690.13,
+      "text": "Well, obvious really"
+    },
+    {
+      "start": 2690.13,
+      "end": 2693.63,
+      "text": "Bruce, Baker and Clapton"
+    },
+    {
+      "start": 2693.63,
+      "end": 2696.35,
+      "text": "Cream, 1968"
+    },
+    {
+      "start": 2696.35,
+      "end": 2697.95,
+      "text": "That was the year they broke up"
+    },
+    {
+      "start": 2697.95,
+      "end": 2699.37,
+      "text": "And the correct answer"
+    },
+    {
+      "start": 2699.37,
+      "end": 2700.89,
+      "text": "Well, just about everybody got it right"
+    },
+    {
+      "start": 2700.89,
+      "end": 2702.17,
+      "text": "But the answer that I have in front of me"
+    },
+    {
+      "start": 2702.17,
+      "end": 2703.65,
+      "text": "Came from Tony Dehaney"
+    },
+    {
+      "start": 2703.65,
+      "end": 2706.41,
+      "text": "Of number 40, Yarning Gale Road"
+    },
+    {
+      "start": 2706.41,
+      "end": 2707.77,
+      "text": "Coventry in the West Midlands"
+    },
+    {
+      "start": 2707.77,
+      "end": 2710.61,
+      "text": "Mr. Dehaney, you get yourself a £10 record token"
+    },
+    {
+      "start": 2710.61,
+      "end": 2711.67,
+      "text": "Congratulations"
+    },
+    {
+      "start": 2711.67,
+      "end": 2719.31,
+      "text": "And as always"
+    },
+    {
+      "start": 2719.31,
+      "end": 2722.05,
+      "text": "The man that wins, or lady that wins"
+    },
+    {
+      "start": 2722.05,
+      "end": 2724.27,
+      "text": "has to set a Friday Night Connection of their own."
+    },
+    {
+      "start": 2724.75,
+      "end": 2725.37,
+      "text": "And here it is."
+    },
+    {
+      "start": 2725.45,
+      "end": 2727.23,
+      "text": "This is Mr. Dehaney's Friday Night Connection."
+    },
+    {
+      "start": 2727.39,
+      "end": 2730.11,
+      "text": "Three pieces of music with a definite one."
+    },
+    {
+      "start": 2730.51,
+      "end": 2963.74,
+      "text": "Poster on the wall."
+    },
+    {
+      "start": 2963.96,
+      "end": 2966.25,
+      "text": "You know the happy memory it recalls."
+    },
+    {
+      "start": 2966.37,
+      "end": 2968.47,
+      "text": "It's a photograph of me and my son Ted."
+    },
+    {
+      "start": 2968.79,
+      "end": 2970.73,
+      "text": "That's me cousin with his achy on his head."
+    },
+    {
+      "start": 2971.37,
+      "end": 2973.75,
+      "text": "We booked in at our hotel just after two"
+    },
+    {
+      "start": 2973.75,
+      "end": 2980.21,
+      "text": "and met a family from Bradford that we knew."
+    },
+    {
+      "start": 2980.37,
+      "end": 2982.01,
+      "text": "My lordy, yeah."
+    },
+    {
+      "start": 2985.59,
+      "end": 2986.41,
+      "text": "Drain pipe."
+    },
+    {
+      "start": 2991.95,
+      "end": 2993.47,
+      "text": "Half of the drain pipe."
+    },
+    {
+      "start": 2997.96,
+      "end": 2998.36,
+      "text": "Pony."
+    },
+    {
+      "start": 2998.36,
+      "end": 3003.34,
+      "text": "His bass saxophone solo as promised."
+    },
+    {
+      "start": 3039.8,
+      "end": 3041.84,
+      "text": "I've a sister in Toronto who's a nurse"
+    },
+    {
+      "start": 3041.84,
+      "end": 3044.3,
+      "text": "And I've had a bit of bother laying turf"
+    },
+    {
+      "start": 3044.3,
+      "end": 3047.18,
+      "text": "It's life, not books that taught me all I've learnt"
+    },
+    {
+      "start": 3047.18,
+      "end": 3049.76,
+      "text": "Whoop, in the above and my rice pudding's getting burnt"
+    },
+    {
+      "start": 3049.76,
+      "end": 3051.96,
+      "text": "Here, have you seen the new attachment on me drill?"
+    },
+    {
+      "start": 3052.32,
+      "end": 3054.34,
+      "text": "I must have a cat put down cos he's ill"
+    },
+    {
+      "start": 3054.34,
+      "end": 3056.23,
+      "text": "Hey, neighbour!"
+    },
+    {
+      "start": 3058.94,
+      "end": 3061.48,
+      "text": "My pink half of the terrain pipe"
+    },
+    {
+      "start": 3061.48,
+      "end": 3064.78,
+      "text": "I may paint it blue"
+    },
+    {
+      "start": 3064.78,
+      "end": 3068.7,
+      "text": "My pink half of the terrain pipe"
+    },
+    {
+      "start": 3068.7,
+      "end": 3070.93,
+      "text": "Missed a drop"
+    },
+    {
+      "start": 3070.93,
+      "end": 3077.33,
+      "text": "Wobbly jelly, you're a pink remunge."
+    },
+    {
+      "start": 3077.57,
+      "end": 3079.75,
+      "text": "I'm a sherry trifle, you're a chocolate sponge."
+    },
+    {
+      "start": 3080.09,
+      "end": 3082.15,
+      "text": "Your head wears a paper hat, mine inflates balloons."
+    },
+    {
+      "start": 3082.51,
+      "end": 3082.83,
+      "text": "Whoops!"
+    },
+    {
+      "start": 3083.61,
+      "end": 3084.69,
+      "text": "Here comes the spoon."
+    },
+    {
+      "start": 3086.52,
+      "end": 3088.86,
+      "text": "My pink path on the train pipe"
+    },
+    {
+      "start": 3088.86,
+      "end": 3094.02,
+      "text": "separates me from the incredibly fascinating story of your life"
+    },
+    {
+      "start": 3094.02,
+      "end": 3097.84,
+      "text": "and every day-to-day event in all its minute and tedious attention to detail."
+    },
+    {
+      "start": 3098.02,
+      "end": 3100.08,
+      "text": "And was it a Thursday or a Wednesday or..."
+    },
+    {
+      "start": 3100.08,
+      "end": 3101.68,
+      "text": "Oh, no, it wasn't so. Who cares anyway?"
+    },
+    {
+      "start": 3101.8,
+      "end": 3102.92,
+      "text": "Because I do not so normal."
+    },
+    {
+      "start": 3102.92,
+      "end": 3105.6,
+      "text": "And if you're normal, I intend to be a freak for the rest of my life."
+    },
+    {
+      "start": 3105.94,
+      "end": 3108.98,
+      "text": "And I shall baffle you with cabbages and rhinoceroses in the kitchen"
+    },
+    {
+      "start": 3108.98,
+      "end": 3111.22,
+      "text": "and sets and potations from now we are six"
+    },
+    {
+      "start": 3111.22,
+      "end": 3114.72,
+      "text": "through the mouthpiece of Lord Snoopy's giant poisoned electric head."
+    },
+    {
+      "start": 3115.4,
+      "end": 3115.84,
+      "text": "Sober!"
+    },
+    {
+      "start": 3118.48,
+      "end": 3483.42,
+      "text": "And that was the Friday Night Connection of Tony Dehaney,"
+    },
+    {
+      "start": 3483.64,
+      "end": 3486.94,
+      "text": "who lives at number 40 Yallingale Road, Coventry in West Midlands."
+    },
+    {
+      "start": 3486.94,
+      "end": 3490.66,
+      "text": "Three bits of music with a most definite theme intertwined therein."
+    },
+    {
+      "start": 3491.34,
+      "end": 3493.54,
+      "text": "Could be in the name of the album, name of the artist,"
+    },
+    {
+      "start": 3493.54,
+      "end": 3496.28,
+      "text": "name of the producer, name of the producer's dog"
+    },
+    {
+      "start": 3496.28,
+      "end": 3498.61,
+      "text": "name of the producer's dog's puppies"
+    },
+    {
+      "start": 3498.61,
+      "end": 3500.37,
+      "text": "could be anywhere but it's there"
+    },
+    {
+      "start": 3500.37,
+      "end": 3502.17,
+      "text": "and if you think you know what it is"
+    },
+    {
+      "start": 3502.17,
+      "end": 3504.55,
+      "text": "why don't you jot down the answer on the postcard"
+    },
+    {
+      "start": 3504.55,
+      "end": 3507.07,
+      "text": "or any other form of communication that you'd like"
+    },
+    {
+      "start": 3507.07,
+      "end": 3508.75,
+      "text": "and send it along to"
+    },
+    {
+      "start": 3508.75,
+      "end": 3510.41,
+      "text": "the Friday Night Connection"
+    },
+    {
+      "start": 3510.41,
+      "end": 3511.61,
+      "text": "the Friday Rock Show"
+    },
+    {
+      "start": 3511.61,
+      "end": 3513.51,
+      "text": "BBC Radio 1"
+    },
+    {
+      "start": 3513.51,
+      "end": 3516.39,
+      "text": "London W1A4WW"
+    },
+    {
+      "start": 3516.39,
+      "end": 3518.29,
+      "text": "but don't forget to put together"
+    },
+    {
+      "start": 3518.29,
+      "end": 3520.03,
+      "text": "your own Friday Night Connection as well"
+    },
+    {
+      "start": 3520.03,
+      "end": 3522.14,
+      "text": "and who knows"
+    },
+    {
+      "start": 3522.14,
+      "end": 3525.28,
+      "text": "You might be the recipient of a £10 record token"
+    },
+    {
+      "start": 3525.28,
+      "end": 3535.0,
+      "text": "Here's one for Hugh"
+    },
+    {
+      "start": 3535.0,
+      "end": 3910.88,
+      "text": "The Stranglers and their new single which is called Bear Cage"
+    },
+    {
+      "start": 3910.88,
+      "end": 3913.58,
+      "text": "And tomorrow on Rock on Saturday, 4 o'clock here on Radio 1"
+    },
+    {
+      "start": 3913.58,
+      "end": 3918.06,
+      "text": "Jet Black is going to be on the programme to, well, describe the current circumstances"
+    },
+    {
+      "start": 3918.06,
+      "end": 3919.74,
+      "text": "Now just let me mention a few names"
+    },
+    {
+      "start": 3919.74,
+      "end": 3924.6,
+      "text": "Mick Underwood, John McCoy, Bernie Torme, Colin Townes and Ian Gillan"
+    },
+    {
+      "start": 3924.6,
+      "end": 3928.34,
+      "text": "And here they are, as they were last year at Reading"
+    },
+    {
+      "start": 3928.34,
+      "end": 3929.84,
+      "text": "Listen to this"
+    },
+    {
+      "start": 3932.66,
+      "end": 3933.06,
+      "text": "Hey!"
+    },
+    {
+      "start": 3942.4,
+      "end": 3944.85,
+      "text": "Nice to see you all again. Thank you."
+    },
+    {
+      "start": 3946.24,
+      "end": 3948.08,
+      "text": "This is a new song called Sleeping on the Job."
+    },
+    {
+      "start": 3948.26,
+      "end": 4195.4,
+      "text": "This is the title track. It's called Mr Universe."
+    },
+    {
+      "start": 6278.64,
+      "end": 6281.56,
+      "text": "And that was Gillan, as recorded live last summer at Reading,"
+    },
+    {
+      "start": 6281.72,
+      "end": 6282.96,
+      "text": "a repeat of an amazing set."
+    },
+    {
+      "start": 6283.16,
+      "end": 6284.64,
+      "text": "And now, through the miracle of radio,"
+    },
+    {
+      "start": 6285.22,
+      "end": 6287.88,
+      "text": "I'm in Kingsway Recorders, which is Ian Gillan's own studio,"
+    },
+    {
+      "start": 6288.1,
+      "end": 6288.94,
+      "text": "chatting to Mr Gillan."
+    },
+    {
+      "start": 6290.05,
+      "end": 6291.99,
+      "text": "When you did that set at Reading,"
+    },
+    {
+      "start": 6292.19,
+      "end": 6294.21,
+      "text": "how tight a band were you then?"
+    },
+    {
+      "start": 6295.32,
+      "end": 6297.06,
+      "text": "Because, I mean, it sounds very, very tight."
+    },
+    {
+      "start": 6297.06,
+      "end": 6324.29,
+      "text": "Yeah, I think it was, we'd done about seven shows before Reading, the band as it is now, and it was tight enough, I mean we'd learnt to understand each other, I mean the breaks were, and the turns were sort of understandable to each other, we were anticipating each other, at the same time it was still fresh enough for it all to be alive, and I think that, you know, once or twice a year you've got to change the act very slightly, but at that time everything was new and fresh to everyone,"
+    },
+    {
+      "start": 6324.29,
+      "end": 6327.57,
+      "text": "but also we'd been into the studio and recorded most of the stuff"
+    },
+    {
+      "start": 6327.57,
+      "end": 6328.61,
+      "text": "so it was fairly tight."
+    },
+    {
+      "start": 6328.99,
+      "end": 6331.29,
+      "text": "I saw you recently at the Rainbow"
+    },
+    {
+      "start": 6331.29,
+      "end": 6333.57,
+      "text": "and it was an absolutely storming experience."
+    },
+    {
+      "start": 6334.17,
+      "end": 6336.31,
+      "text": "During that set at the Rainbow,"
+    },
+    {
+      "start": 6336.93,
+      "end": 6339.43,
+      "text": "a lot of familiar numbers, audience all on their feet"
+    },
+    {
+      "start": 6339.43,
+      "end": 6341.43,
+      "text": "but then you came on and you did a blues number"
+    },
+    {
+      "start": 6341.43,
+      "end": 6343.23,
+      "text": "which I personally had never heard before."
+    },
+    {
+      "start": 6343.87,
+      "end": 6345.41,
+      "text": "Not only did I listen to the blues number"
+    },
+    {
+      "start": 6345.41,
+      "end": 6347.53,
+      "text": "but I also watched the reaction of the audience to it."
+    },
+    {
+      "start": 6348.17,
+      "end": 6349.91,
+      "text": "Now, you and I know that it's very difficult"
+    },
+    {
+      "start": 6349.91,
+      "end": 6352.53,
+      "text": "to introduce new material in a stage act"
+    },
+    {
+      "start": 6352.53,
+      "end": 6354.53,
+      "text": "because sometimes audiences can get bored with it"
+    },
+    {
+      "start": 6354.53,
+      "end": 6356.67,
+      "text": "or they don't understand it or they just don't know it"
+    },
+    {
+      "start": 6356.67,
+      "end": 6358.03,
+      "text": "and they feel insecure."
+    },
+    {
+      "start": 6358.55,
+      "end": 6360.75,
+      "text": "In this instance, what I found remarkable"
+    },
+    {
+      "start": 6360.75,
+      "end": 6362.95,
+      "text": "was the fact that the audience didn't feel at all insecure"
+    },
+    {
+      "start": 6362.95,
+      "end": 6365.53,
+      "text": "and they were riveted to what you were doing"
+    },
+    {
+      "start": 6365.53,
+      "end": 6367.33,
+      "text": "along with the rest of the guys on stage."
+    },
+    {
+      "start": 6367.95,
+      "end": 6369.11,
+      "text": "And I just love that number"
+    },
+    {
+      "start": 6369.11,
+      "end": 6372.07,
+      "text": "and I just like to know where's it going to appear."
+    },
+    {
+      "start": 6373.24,
+      "end": 6375.62,
+      "text": "Well, it was very much an experimental thing."
+    },
+    {
+      "start": 6375.62,
+      "end": 6379.48,
+      "text": "It's based on a basically traditional blues construction."
+    },
+    {
+      "start": 6380.34,
+      "end": 6382.28,
+      "text": "And the idea, I think, with a lot of songs like that"
+    },
+    {
+      "start": 6382.28,
+      "end": 6384.02,
+      "text": "is to actually see how the audience get off on it."
+    },
+    {
+      "start": 6384.08,
+      "end": 6386.24,
+      "text": "But because it's a very straightforward,"
+    },
+    {
+      "start": 6386.5,
+      "end": 6387.6,
+      "text": "simple, repeated chorus,"
+    },
+    {
+      "start": 6388.14,
+      "end": 6389.94,
+      "text": "I found anyway that by the second chorus"
+    },
+    {
+      "start": 6389.94,
+      "end": 6391.04,
+      "text": "they're singing along with it anyway."
+    },
+    {
+      "start": 6391.14,
+      "end": 6392.28,
+      "text": "They know exactly what's coming,"
+    },
+    {
+      "start": 6392.84,
+      "end": 6394.1,
+      "text": "which is good in a song, I think."
+    },
+    {
+      "start": 6394.38,
+      "end": 6397.96,
+      "text": "And it's almost certainly going to appear"
+    },
+    {
+      "start": 6397.96,
+      "end": 6399.74,
+      "text": "in some shape or another"
+    },
+    {
+      "start": 6399.74,
+      "end": 6401.78,
+      "text": "because it's changing every time we play it."
+    },
+    {
+      "start": 6401.84,
+      "end": 6402.2,
+      "text": "It's different."
+    },
+    {
+      "start": 6403.02,
+      "end": 6404.62,
+      "text": "It's going to appear in some shape or another"
+    },
+    {
+      "start": 6404.62,
+      "end": 6405.84,
+      "text": "on the next album,"
+    },
+    {
+      "start": 6406.06,
+      "end": 6407.0,
+      "text": "which will be out in August."
+    },
+    {
+      "start": 6407.44,
+      "end": 6409.64,
+      "text": "Prior to a tour, I think,"
+    },
+    {
+      "start": 6409.68,
+      "end": 6410.72,
+      "text": "that you're going to do in the UK."
+    },
+    {
+      "start": 6410.9,
+      "end": 6412.08,
+      "text": "Yeah, that's already booked up."
+    },
+    {
+      "start": 6412.08,
+      "end": 6416.5,
+      "text": "We're doing 27 concerts in the UK starting around about the 22nd of September, I think."
+    },
+    {
+      "start": 6416.98,
+      "end": 6421.1,
+      "text": "One of the other numbers that you did in the set is a number that you have included before"
+    },
+    {
+      "start": 6421.1,
+      "end": 6424.26,
+      "text": "and is coming out as a single which we're going to play tomorrow on Rock on Saturday."
+    },
+    {
+      "start": 6424.46,
+      "end": 6425.42,
+      "text": "That's Sleeping on the Job."
+    },
+    {
+      "start": 6425.66,
+      "end": 6426.02,
+      "text": "Right."
+    },
+    {
+      "start": 6426.3,
+      "end": 6429.12,
+      "text": "But this is the first time in my life I've ever known this."
+    },
+    {
+      "start": 6429.74,
+      "end": 6432.64,
+      "text": "Mr Gillan has actually got the band in the studio to do this blues number"
+    },
+    {
+      "start": 6432.64,
+      "end": 6434.18,
+      "text": "especially for us on the Friday Rock Show."
+    },
+    {
+      "start": 6434.28,
+      "end": 6436.26,
+      "text": "So if you'd like to introduce it, I'd be more than grateful."
+    },
+    {
+      "start": 6436.84,
+      "end": 6437.5,
+      "text": "Well, thanks, Tommy."
+    },
+    {
+      "start": 6437.88,
+      "end": 6439.98,
+      "text": "It's called If You Believe Me."
+    },
+    {
+      "start": 6484.04,
+      "end": 6978.0,
+      "text": "Colin Townes, Bernie Torme, John McCoy, Mick Underwood and Ian Gillan."
+    },
+    {
+      "start": 6978.1,
+      "end": 6981.5,
+      "text": "Specially recorded that for you in the studios here in London."
+    },
+    {
+      "start": 6981.72,
+      "end": 6983.94,
+      "text": "They're studios, which are called Kingsway Recorders."
+    },
+    {
+      "start": 6984.14,
+      "end": 6985.32,
+      "text": "It was called If You Believe In Me."
+    },
+    {
+      "start": 6985.86,
+      "end": 6987.7,
+      "text": "I'd like to just mention my thanks,"
+    },
+    {
+      "start": 6987.9,
+      "end": 6990.38,
+      "text": "particularly to Ian Gillan and the band for being so good to us."
+    },
+    {
+      "start": 6990.58,
+      "end": 6992.28,
+      "text": "A great gentleman of rock and roll."
+    },
+    {
+      "start": 6992.82,
+      "end": 6996.44,
+      "text": "Don't break too many bones at football tomorrow, Mr Gillan, OK?"
+    },
+    {
+      "start": 6997.12,
+      "end": 6999.78,
+      "text": "I'd also like to mention Julius and Smiler and Lee and Pig and the rest"
+    },
+    {
+      "start": 6999.78,
+      "end": 7001.58,
+      "text": "and all the lads at the Hermit Club in Brentwood,"
+    },
+    {
+      "start": 7001.82,
+      "end": 7002.84,
+      "text": "Simon, Simon and Mark,"
+    },
+    {
+      "start": 7002.84,
+      "end": 7004.84,
+      "text": "and also Janet and John McKee"
+    },
+    {
+      "start": 7004.84,
+      "end": 7007.24,
+      "text": "who work at the Essex Barn in Braintree, nice place to go"
+    },
+    {
+      "start": 7007.24,
+      "end": 7008.86,
+      "text": "and everybody who's been to the"
+    },
+    {
+      "start": 7008.86,
+      "end": 7010.5,
+      "text": "Friday night heavy disco"
+    },
+    {
+      "start": 7010.5,
+      "end": 7013.26,
+      "text": "the Lanchester Polly, lots and lots of love"
+    },
+    {
+      "start": 7013.26,
+      "end": 7014.74,
+      "text": "and luck from a gentleman"
+    },
+    {
+      "start": 7014.74,
+      "end": 7016.08,
+      "text": "by the name of John"
+    },
+    {
+      "start": 7016.08,
+      "end": 7220.49,
+      "text": "ACDC from the album"
+    },
+    {
+      "start": 7220.49,
+      "end": 7222.07,
+      "text": "If You Want Blood You've Got It"
+    },
+    {
+      "start": 7222.07,
+      "end": 7224.55,
+      "text": "and the song was Rock and Roll Damnation"
+    },
+    {
+      "start": 7224.55,
+      "end": 7227.34,
+      "text": "and that's it for this edition of the Friday Rock Show"
+    },
+    {
+      "start": 7227.34,
+      "end": 7228.28,
+      "text": "thanks a lot for your company"
+    },
+    {
+      "start": 7228.28,
+      "end": 7229.98,
+      "text": "I hope you've enjoyed the programme"
+    },
+    {
+      "start": 7229.98,
+      "end": 7233.27,
+      "text": "I thought that Gillan set was 8"
+    },
+    {
+      "start": 7233.27,
+      "end": 7234.81,
+      "text": "next week out of the archives"
+    },
+    {
+      "start": 7234.81,
+      "end": 7236.79,
+      "text": "queen that we have. Our engineer"
+    },
+    {
+      "start": 7236.79,
+      "end": 7238.41,
+      "text": "tonight was Steve, and our"
+    },
+    {
+      "start": 7238.41,
+      "end": 7240.87,
+      "text": "producer, sorry, was Colin Pryor, because"
+    },
+    {
+      "start": 7240.87,
+      "end": 7242.17,
+      "text": "Tony Wilson's in France."
+    },
+    {
+      "start": 7245.21,
+      "end": 7246.89,
+      "text": "I'm Tommy Vance, or what's left of it."
+    },
+    {
+      "start": 7247.45,
+      "end": 7249.05,
+      "text": "I'll see you tomorrow for Rock on Saturday."
+    },
+    {
+      "start": 7249.33,
+      "end": 7251.15,
+      "text": "Till then, good night, and God bless."
     }
   ]
 }

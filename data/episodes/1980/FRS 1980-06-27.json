@@ -31,7 +31,8 @@
     {
       "artist": "Toad The Wet Sprocket",
       "track": "Big Deal",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 803.37
     },
     {
       "artist": "Hawkwind",
@@ -46,7 +47,8 @@
     {
       "artist": "Ultravox",
       "track": "My Sex",
-      "details": "Peel session"
+      "details": "Peel session",
+      "verified_timestamp": 2198.45
     },
     {
       "artist": "Stanley Clarke",
@@ -61,7 +63,8 @@
     {
       "artist": "Whitesnake",
       "track": "Ain’t No Love In The Heart Of The City (LP - Live At Hammersmith) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2859.56
     },
     {
       "artist": "Live Wire",
@@ -76,7 +79,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.0
     },
     {
       "artist": "Toad The Wet Sprocket",
@@ -116,7 +120,8 @@
     {
       "artist": "Black Sabbath",
       "track": "Paranoid (LP - Live At Last) Nems",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6490.22
     },
     {
       "artist": "Supertramp",
@@ -127,6 +132,1318 @@
       "artist": "Alice Cooper",
       "track": "School’s Out (LP - The Alice Cooper Show) Warner Bros.",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 5.94,
+      "end": 12.94,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 12.94,
+      "end": 28.83,
+      "text": "Well hello there. Thomas Vance here. TV on the radio with a far from puerile radio program."
+    },
+    {
+      "start": 28.83,
+      "end": 36.83,
+      "text": "This is the Friday Rock Show and this evening we are more than happy to repeat a 1977 and indeed the only session ever recorded by the original Ultravox lineup."
+    },
+    {
+      "start": 36.83,
+      "end": 41.83,
+      "text": "Also we have the first ever session by a band from Luton called Toad the Wet Sprocket."
+    },
+    {
+      "start": 42.41,
+      "end": 60.69,
+      "text": "And we've got some new stuff from Hawkwind, Stanley Clark, Live Wire, Touch, Sammy Hagar, Jeff Beck and Face Dancer."
+    },
+    {
+      "start": 61.76,
+      "end": 65.86,
+      "text": "And some classic cuts by the Rolling Stones, Bad Company and Thin Lizzy, among others."
+    },
+    {
+      "start": 66.0,
+      "end": 70.42,
+      "text": "Not forgetting that time of the week when every brain cell counts, the Friday Night Connection."
+    },
+    {
+      "start": 71.08,
+      "end": 72.92,
+      "text": "And we start with a band called Quartz."
+    },
+    {
+      "start": 73.92,
+      "end": 766.75,
+      "text": "Live at the Madison Square Garden in November 1969, it was of course the Rolling Stones."
+    },
+    {
+      "start": 767.83,
+      "end": 770.71,
+      "text": "On the album Get Your Yaya's Out, the track was Midnight Rambler."
+    },
+    {
+      "start": 770.71,
+      "end": 778.89,
+      "text": "And I played that for Ken and Jackie and Steve and Diane, and also for Mike Harris, who lives at No. 37 Belgrave Road, Belgrave in Tamworth in Staffordshire."
+    },
+    {
+      "start": 780.17,
+      "end": 783.95,
+      "text": "And prior to that, you heard Quartz from a 12-incher, which is out on EMI."
+    },
+    {
+      "start": 784.15,
+      "end": 786.25,
+      "text": "The track that you heard from Quartz was called Back in the Band."
+    },
+    {
+      "start": 786.41,
+      "end": 790.65,
+      "text": "Also on the 12-incher, you'll find Wildfire, White Spirit, and Baby Jane."
+    },
+    {
+      "start": 791.45,
+      "end": 803.37,
+      "text": "It's 10.13, and now here's the first of four from Mick Mustafa, Martin Whitewick, Peter Austin, and Curly on the guitar,"
+    },
+    {
+      "start": 803.37,
+      "end": 805.15,
+      "text": "better known as Toad the Wet Sprocket."
+    },
+    {
+      "start": 805.49,
+      "end": 1372.82,
+      "text": "And that's an amazing new single by Hawkwind."
+    },
+    {
+      "start": 1372.94,
+      "end": 1374.3,
+      "text": "It's just come out on the bronze label"
+    },
+    {
+      "start": 1374.3,
+      "end": 1376.06,
+      "text": "and it's called Shot Down in the Night."
+    },
+    {
+      "start": 1378.58,
+      "end": 1380.46,
+      "text": "Played that specially for a gentleman by the name of Peter"
+    },
+    {
+      "start": 1380.46,
+      "end": 1381.4,
+      "text": "who lives in Stafford."
+    },
+    {
+      "start": 1381.66,
+      "end": 1383.54,
+      "text": "And I have to send lots of love to Peter for me."
+    },
+    {
+      "start": 1384.3,
+      "end": 1385.52,
+      "text": "Lady by the name of Sue,"
+    },
+    {
+      "start": 1385.64,
+      "end": 1387.78,
+      "text": "when she wrote me this card upon which is printed"
+    },
+    {
+      "start": 1387.78,
+      "end": 1389.74,
+      "text": "a photograph of the shambles in York,"
+    },
+    {
+      "start": 1390.28,
+      "end": 1392.66,
+      "text": "she said she was feeling loony and depressed"
+    },
+    {
+      "start": 1392.66,
+      "end": 1394.02,
+      "text": "with exams all in there."
+    },
+    {
+      "start": 1394.1,
+      "end": 1395.8,
+      "text": "Well, I would imagine by now Sue, you've got them all over"
+    },
+    {
+      "start": 1395.8,
+      "end": 1397.12,
+      "text": "and I trust that you passed."
+    },
+    {
+      "start": 1398.1,
+      "end": 1401.1,
+      "text": "Also, the Hawkwind single was for Jill and Mandy and Debbie and Gina"
+    },
+    {
+      "start": 1401.1,
+      "end": 1403.28,
+      "text": "and Sarah and Dino and John and Dennis and Sutton"
+    },
+    {
+      "start": 1403.28,
+      "end": 1405.3,
+      "text": "and Bob the Absent-Minded and K.N."
+    },
+    {
+      "start": 1405.72,
+      "end": 1409.36,
+      "text": "and all the rockers at Cottingham High School in North Humberside"
+    },
+    {
+      "start": 1409.36,
+      "end": 1410.88,
+      "text": "from Mike Cross."
+    },
+    {
+      "start": 1414.6,
+      "end": 1417.96,
+      "text": "1023, and before that you heard Toad the Wet Sprocket and Big Deal."
+    },
+    {
+      "start": 1420.9,
+      "end": 1422.94,
+      "text": "And here's a real classic."
+    },
+    {
+      "start": 2183.39,
+      "end": 2185.35,
+      "text": "There's a man who's endowed with more talent than most,"
+    },
+    {
+      "start": 2185.45,
+      "end": 2186.71,
+      "text": "that of course was Stanley Clark,"
+    },
+    {
+      "start": 2186.87,
+      "end": 2188.79,
+      "text": "and a track from his new album which is out on Epic."
+    },
+    {
+      "start": 2188.79,
+      "end": 2191.43,
+      "text": "The album's called Rocks, Pebbles and Sound,"
+    },
+    {
+      "start": 2191.43,
+      "end": 2193.07,
+      "text": "and the track was Danger Street."
+    },
+    {
+      "start": 2194.39,
+      "end": 2198.17,
+      "text": "And just prior to that, you heard the first of about three we're playing tonight,"
+    },
+    {
+      "start": 2198.45,
+      "end": 2201.07,
+      "text": "My Ultravox, recorded in 1977,"
+    },
+    {
+      "start": 2201.39,
+      "end": 2203.65,
+      "text": "back in the days when John Fox was on the vocals."
+    },
+    {
+      "start": 2204.33,
+      "end": 2205.73,
+      "text": "The track was My Sex."
+    },
+    {
+      "start": 2206.45,
+      "end": 2210.63,
+      "text": "Prior to that, especially for Jackie and all the family and everybody else who knows,"
+    },
+    {
+      "start": 2211.01,
+      "end": 2214.89,
+      "text": "P.J. Timores of Waverly, Wattling Street, Strood in Rochester and Kent,"
+    },
+    {
+      "start": 2215.25,
+      "end": 2217.83,
+      "text": "I played a real classic from the album Straight Shooter,"
+    },
+    {
+      "start": 2218.13,
+      "end": 2220.47,
+      "text": "Bad Company and Feel Like Making Love."
+    },
+    {
+      "start": 2220.47,
+      "end": 2226.66,
+      "text": "Friday Rock Show is 23 minutes now before 11."
+    },
+    {
+      "start": 2226.76,
+      "end": 2228.78,
+      "text": "Here's more from Sprocket Wet the Toad."
+    },
+    {
+      "start": 2229.06,
+      "end": 2856.72,
+      "text": "White Snake at Hammersmith."
+    },
+    {
+      "start": 2856.86,
+      "end": 2858.46,
+      "text": "That, of course, was White Snake."
+    },
+    {
+      "start": 2858.66,
+      "end": 2859.26,
+      "text": "Who? Snake."
+    },
+    {
+      "start": 2859.56,
+      "end": 2861.0,
+      "text": "And ain't no love in the heart of the city."
+    },
+    {
+      "start": 2861.56,
+      "end": 2862.6,
+      "text": "And next week on the program,"
+    },
+    {
+      "start": 2862.76,
+      "end": 2866.12,
+      "text": "we will be repeating their set that was recorded at Reading last year."
+    },
+    {
+      "start": 2867.4,
+      "end": 2867.94,
+      "text": "Want to see them?"
+    },
+    {
+      "start": 2868.42,
+      "end": 2870.58,
+      "text": "This week at the Hammersmith Odeon, Magic."
+    },
+    {
+      "start": 2872.0,
+      "end": 2873.0,
+      "text": "Play that for loads of people."
+    },
+    {
+      "start": 2873.2,
+      "end": 2874.24,
+      "text": "On behalf of Andy Carter,"
+    },
+    {
+      "start": 2874.8,
+      "end": 2877.72,
+      "text": "that's Sue Mutterley and Melinda George and Paul Elsie and Tim and James"
+    },
+    {
+      "start": 2877.72,
+      "end": 2879.78,
+      "text": "and Ian the Super Tonker, whatever that is,"
+    },
+    {
+      "start": 2879.78,
+      "end": 2884.44,
+      "text": "and Sue Henry and Kieron, and Derek and Gong, Blow Wave, it says here,"
+    },
+    {
+      "start": 2884.52,
+      "end": 2888.56,
+      "text": "and also for Alex and Graham Bristlehead and Joe the Hippo and John and Danny and Wombat the Evil,"
+    },
+    {
+      "start": 2889.14,
+      "end": 2891.14,
+      "text": "and everybody from RTC in Southampton."
+    },
+    {
+      "start": 2891.58,
+      "end": 2895.4,
+      "text": "And also for Stephen Knowles, who lives over there in St. Phil Road in Belfast,"
+    },
+    {
+      "start": 2895.92,
+      "end": 2900.05,
+      "text": "and for Dickie and Rob and Ray and Henry and Fossey and Leezy and all the band,"
+    },
+    {
+      "start": 2900.63,
+      "end": 2904.11,
+      "text": "including Biff at No. 18, Bodmin Road in Tildesley."
+    },
+    {
+      "start": 2905.18,
+      "end": 2908.02,
+      "text": "Little communication here that has on the front of it a David Hamilton picture,"
+    },
+    {
+      "start": 2908.02,
+      "end": 2910.48,
+      "text": "not the disc jockey who is now on radio too"
+    },
+    {
+      "start": 2910.48,
+      "end": 2912.36,
+      "text": "but the photographer"
+    },
+    {
+      "start": 2912.36,
+      "end": 2913.9,
+      "text": "the picture is bonnet and bouquet"
+    },
+    {
+      "start": 2913.9,
+      "end": 2915.12,
+      "text": "and I'll read this out to you"
+    },
+    {
+      "start": 2915.12,
+      "end": 2917.78,
+      "text": "notwithstanding that half of the upper fourth, three quarters of the lower fifth"
+    },
+    {
+      "start": 2917.78,
+      "end": 2920.62,
+      "text": "and all of the upper fifth of Sidcott, School, Winscombe and Avon"
+    },
+    {
+      "start": 2920.62,
+      "end": 2922.26,
+      "text": "regularly listen to your excellent programme"
+    },
+    {
+      "start": 2922.26,
+      "end": 2924.64,
+      "text": "on the trannies, tuners and various other machines"
+    },
+    {
+      "start": 2924.64,
+      "end": 2927.08,
+      "text": "under or over the bedclothes, pillows and duvets"
+    },
+    {
+      "start": 2927.08,
+      "end": 2929.16,
+      "text": "and whereas a certain number of the staff"
+    },
+    {
+      "start": 2929.16,
+      "end": 2931.64,
+      "text": "is contracted to tape anything worth listening to"
+    },
+    {
+      "start": 2931.64,
+      "end": 2932.58,
+      "text": "which is most everything"
+    },
+    {
+      "start": 2932.58,
+      "end": 2934.84,
+      "text": "and therefore can't be on patrol around the dorms"
+    },
+    {
+      "start": 2934.84,
+      "end": 2936.24,
+      "text": "to confiscate any of your foreset equipment"
+    },
+    {
+      "start": 2936.24,
+      "end": 2939.98,
+      "text": "We do therefore most earnestly enjoin you to give us a plug on your program"
+    },
+    {
+      "start": 2939.98,
+      "end": 2943.4,
+      "text": "and to dedicate a record to Limey and the Crinoid"
+    },
+    {
+      "start": 2943.4,
+      "end": 2945.46,
+      "text": "with lots and lots of love from all the leavers."
+    },
+    {
+      "start": 2946.72,
+      "end": 2950.22,
+      "text": "And I dedicate to you Toad the Wet Sprocket, which you heard in just another game."
+    },
+    {
+      "start": 2955.36,
+      "end": 2957.14,
+      "text": "And this here is Live Wire."
+    },
+    {
+      "start": 3025.86,
+      "end": 3030.76,
+      "text": "If you want to get out from under the wheel, you better get yourself a heart of steel."
+    },
+    {
+      "start": 3031.24,
+      "end": 3036.69,
+      "text": "Not a love, not a love, not a love made of waste."
+    },
+    {
+      "start": 3141.44,
+      "end": 3144.57,
+      "text": "They're wearing a utility drag."
+    },
+    {
+      "start": 3148.29,
+      "end": 3152.83,
+      "text": "The girls slip identikits from their utility bags."
+    },
+    {
+      "start": 3155.82,
+      "end": 3161.62,
+      "text": "Some refugees from suburbia are laughing, examining each other's gags."
+    },
+    {
+      "start": 3162.04,
+      "end": 3169.7,
+      "text": "It gets late, it begins to sound."
+    },
+    {
+      "start": 3169.7,
+      "end": 3415.5,
+      "text": "This is Billy Curry going bananas on the violin."
+    },
+    {
+      "start": 3415.5,
+      "end": 3420.26,
+      "text": "A track from 1977, an archive session of that year by Ultra Rocks."
+    },
+    {
+      "start": 3420.28,
+      "end": 3421.68,
+      "text": "The track was Artificial Life."
+    },
+    {
+      "start": 3422.36,
+      "end": 3427.08,
+      "text": "And before that, you heard something by Live Wire from their album called No Fright."
+    },
+    {
+      "start": 3427.28,
+      "end": 3428.32,
+      "text": "It's out on A&M."
+    },
+    {
+      "start": 3428.4,
+      "end": 3429.56,
+      "text": "The track was Break of Day."
+    },
+    {
+      "start": 3438.01,
+      "end": 3441.47,
+      "text": "Three minutes to 11 on the Friday Rock Show, and it's time for the Friday Night Connection."
+    },
+    {
+      "start": 3441.55,
+      "end": 3443.35,
+      "text": "The tracks we played you last week were these."
+    },
+    {
+      "start": 3443.65,
+      "end": 3447.91,
+      "text": "Saturday Night Special by Lynyrd Skynyrd from the LP One More for the Road."
+    },
+    {
+      "start": 3448.51,
+      "end": 3453.09,
+      "text": "Saturday Night's Alright for Fighting by Elton John from the album Goodbye, Yellow Brick Road."
+    },
+    {
+      "start": 3453.15,
+      "end": 3459.43,
+      "text": "and touch too much by acdc from the lp highway to hell a lot of people thought the answer was night"
+    },
+    {
+      "start": 3459.43,
+      "end": 3466.46,
+      "text": "wrong the answer was one more for the road goodbye yellow brick road highway to hell"
+    },
+    {
+      "start": 3466.46,
+      "end": 3476.24,
+      "text": "highways roads various things like that he's got the 10 pound record token well i'm not going to"
+    },
+    {
+      "start": 3476.24,
+      "end": 3480.92,
+      "text": "tell you it is a gentleman by the name of michael lifko who lives near stoke-on-trent"
+    },
+    {
+      "start": 3488.29,
+      "end": 3489.25,
+      "text": "Congratulations, Michael."
+    },
+    {
+      "start": 3489.71,
+      "end": 3491.23,
+      "text": "When you get it, spend it wisely."
+    },
+    {
+      "start": 3491.37,
+      "end": 3492.59,
+      "text": "There's a lot of good music about."
+    },
+    {
+      "start": 3493.11,
+      "end": 3496.63,
+      "text": "Part of the deal, as always, is to put together a Friday Night Connection of your own."
+    },
+    {
+      "start": 3496.83,
+      "end": 3498.57,
+      "text": "And Michael's done just that."
+    },
+    {
+      "start": 3498.71,
+      "end": 3500.37,
+      "text": "Three bits of music with a theme."
+    },
+    {
+      "start": 3500.85,
+      "end": 4270.11,
+      "text": "I would think that any self-respecting fan of this program, or indeed rock fan anywhere in the world,"
+    },
+    {
+      "start": 4270.17,
+      "end": 4272.17,
+      "text": "should get that one, because it's easy."
+    },
+    {
+      "start": 4272.75,
+      "end": 4274.22,
+      "text": "Easy."
+    },
+    {
+      "start": 4274.78,
+      "end": 4279.02,
+      "text": "And that's the Friday Night Connection set tonight by Michael Lithgow, who lives in Stoke-on-Trent."
+    },
+    {
+      "start": 4281.38,
+      "end": 4290.28,
+      "text": "If you think you know what the answer is, jot it down on a postcard, in a letter, anywhere or any way you like."
+    },
+    {
+      "start": 4290.82,
+      "end": 4299.16,
+      "text": "And send it to the Friday Night Connection, the Friday Rock Show, BBC Radio 1, Broadcasting House, London W1A 4WW."
+    },
+    {
+      "start": 4299.96,
+      "end": 4304.9,
+      "text": "And if yours is the one that we drag out of the bag, well, you'll get your £10 record token."
+    },
+    {
+      "start": 4305.14,
+      "end": 4308.42,
+      "text": "But don't forget to put together your own Friday Night Connection as well."
+    },
+    {
+      "start": 4309.43,
+      "end": 4312.31,
+      "text": "Congratulations, Mr. Lithgow, 10-pound record token on its way to you."
+    },
+    {
+      "start": 4312.69,
+      "end": 4316.59,
+      "text": "And incidentally, thanks a million to everybody who put on their cards and letters last week,"
+    },
+    {
+      "start": 4316.81,
+      "end": 4320.17,
+      "text": "whether they listened on the Medium Wave Band or on the VHF Band."
+    },
+    {
+      "start": 4320.53,
+      "end": 4321.05,
+      "text": "We thank you."
+    },
+    {
+      "start": 4329.9,
+      "end": 4334.22,
+      "text": "It's 11.12, and here's Toad the Wet Sprocket and one glass of whiskey."
+    },
+    {
+      "start": 4899.71,
+      "end": 4903.25,
+      "text": "That's an American band by the name of Touch, whom I'm told come from somewhere like Cincinnati."
+    },
+    {
+      "start": 4903.69,
+      "end": 4905.69,
+      "text": "Cincinnati, well, that place over there."
+    },
+    {
+      "start": 4906.13,
+      "end": 4909.79,
+      "text": "And the album's called Touch, and it's out on Areola, and that wasn't the track I was supposed to play at all."
+    },
+    {
+      "start": 4910.19,
+      "end": 4911.01,
+      "text": "You heard There's a Light."
+    },
+    {
+      "start": 4911.19,
+      "end": 4912.95,
+      "text": "I was supposed to play Don't You Know What Love Is,"
+    },
+    {
+      "start": 4913.01,
+      "end": 4914.91,
+      "text": "but I figured that this time of night you probably did."
+    },
+    {
+      "start": 4915.41,
+      "end": 4916.97,
+      "text": "Now, before that, you heard Toad the Wet Sprocket"
+    },
+    {
+      "start": 4916.97,
+      "end": 4919.45,
+      "text": "and a track from their first ever radio session done for us"
+    },
+    {
+      "start": 4919.45,
+      "end": 4920.75,
+      "text": "called One Glass of Whiskey."
+    },
+    {
+      "start": 4920.75,
+      "end": 4923.61,
+      "text": "And you can see them tomorrow night in the hometown of Luton"
+    },
+    {
+      "start": 4923.61,
+      "end": 4925.03,
+      "text": "at the King's Way Tavern."
+    },
+    {
+      "start": 4925.29,
+      "end": 4926.37,
+      "text": "And now, Ultravox."
+    },
+    {
+      "start": 4926.37,
+      "end": 4976.6,
+      "text": "sudden ghosts come through a sparklet from my fingertip and i knew it must be you ain't you the"
+    },
+    {
+      "start": 4976.6,
+      "end": 4980.4,
+      "text": "man who dies every day"
+    },
+    {
+      "start": 4982.8,
+      "end": 5426.63,
+      "text": "sammy hagar from his new album danger zone the track was the ice man and prior to that you heard"
+    },
+    {
+      "start": 5426.63,
+      "end": 5432.03,
+      "text": "ultravox and the final one from them tonight from a session recorded in 1977 the track was called"
+    },
+    {
+      "start": 5432.03,
+      "end": 5436.39,
+      "text": "the man who dies every day and it's a really good compilation out of the moment of the original"
+    },
+    {
+      "start": 5436.39,
+      "end": 5442.37,
+      "text": "lineup of john fox and ultravox it's a compilation of the first three lps look it up if you like"
+    },
+    {
+      "start": 5442.37,
+      "end": 5449.72,
+      "text": "ultravox you will not be disappointed 11 30 quick mention here for wolfie and buckley and doco and"
+    },
+    {
+      "start": 5449.72,
+      "end": 5456.48,
+      "text": "balch and simon and guy and slimy dave who are relaxing for a whole week on a canal after having"
+    },
+    {
+      "start": 5456.48,
+      "end": 5462.4,
+      "text": "finished their exams have you got a boat also i'd like to say hello to mr arthur proctor birthday"
+    },
+    {
+      "start": 5462.4,
+      "end": 5468.83,
+      "text": "tomorrow lots and lots of love from sheila who's in leeds and a load of people wrote in from 165"
+    },
+    {
+      "start": 5468.83,
+      "end": 5471.65,
+      "text": "at Queensgate, Bridlington in East Yorkshire, wanting me to say hello."
+    },
+    {
+      "start": 5471.93,
+      "end": 5472.13,
+      "text": "Hello."
+    },
+    {
+      "start": 5473.38,
+      "end": 5476.48,
+      "text": "Jeanette Patterson sends good wishes to Ruth Montgomery."
+    },
+    {
+      "start": 5476.96,
+      "end": 5481.02,
+      "text": "And here's Thin Lizzy."
+    },
+    {
+      "start": 5481.02,
+      "end": 5488.54,
+      "text": "Came the marching in"
+    },
+    {
+      "start": 5488.54,
+      "end": 5492.43,
+      "text": "With their shields and their swords"
+    },
+    {
+      "start": 5492.43,
+      "end": 5497.03,
+      "text": "They believed to the right"
+    },
+    {
+      "start": 5497.03,
+      "end": 5500.44,
+      "text": "Overthrow the overlord"
+    },
+    {
+      "start": 5500.44,
+      "end": 5505.1,
+      "text": "To the towns where there was plenty"
+    },
+    {
+      "start": 5505.1,
+      "end": 5509.18,
+      "text": "They brought plunder, swords and flame"
+    },
+    {
+      "start": 5509.18,
+      "end": 5512.65,
+      "text": "When they left the town was empty"
+    },
+    {
+      "start": 5512.65,
+      "end": 5517.1,
+      "text": "And children would never play again"
+    },
+    {
+      "start": 5517.1,
+      "end": 5567.91,
+      "text": "Couldn't that be me?"
+    },
+    {
+      "start": 5568.09,
+      "end": 6029.46,
+      "text": "Really looking forward to hearing the rest of that album."
+    },
+    {
+      "start": 6029.56,
+      "end": 6030.84,
+      "text": "So far, I've only heard two tracks."
+    },
+    {
+      "start": 6030.96,
+      "end": 6032.32,
+      "text": "It's a new album by Jeff Beck."
+    },
+    {
+      "start": 6032.4,
+      "end": 6033.72,
+      "text": "It's coming out shortly on Epic."
+    },
+    {
+      "start": 6034.22,
+      "end": 6036.1,
+      "text": "The album is called There and Back,"
+    },
+    {
+      "start": 6036.18,
+      "end": 6037.9,
+      "text": "and that track was Star Cycle."
+    },
+    {
+      "start": 6039.32,
+      "end": 6040.1,
+      "text": "20 to Midnight."
+    },
+    {
+      "start": 6040.34,
+      "end": 6042.68,
+      "text": "And the track before that was Thin Lizzy from the album Jailbreak."
+    },
+    {
+      "start": 6042.76,
+      "end": 6044.12,
+      "text": "The track was Emerald."
+    },
+    {
+      "start": 6045.46,
+      "end": 6047.22,
+      "text": "Well, I've been ordered by Noel McGahee"
+    },
+    {
+      "start": 6047.22,
+      "end": 6050.2,
+      "text": "of 473 The Old Parker Road there in Belfast"
+    },
+    {
+      "start": 6050.2,
+      "end": 6054.54,
+      "text": "to say hello to Tucker and Rossi and Donal and I.T. and Joe and Deidre and especially Elaine."
+    },
+    {
+      "start": 6055.64,
+      "end": 6059.56,
+      "text": "Also, hello to everybody who attends the Bankhead Academy,"
+    },
+    {
+      "start": 6059.72,
+      "end": 6062.26,
+      "text": "that bastion of academics up there in Buckburn and Aberdeen."
+    },
+    {
+      "start": 6062.76,
+      "end": 6066.66,
+      "text": "Jill sends her best wishes, particularly to the boy that she stood next to"
+    },
+    {
+      "start": 6066.66,
+      "end": 6069.38,
+      "text": "at the Thin Lizzy concert in Dundee on the 3rd of May,"
+    },
+    {
+      "start": 6069.74,
+      "end": 6073.08,
+      "text": "whose name she doesn't know, but whose image she doesn't seem to forget."
+    },
+    {
+      "start": 6074.7,
+      "end": 6078.36,
+      "text": "And that Lizzy track was also for Janet Skerritt, who lives in Solihull,"
+    },
+    {
+      "start": 6078.36,
+      "end": 6080.92,
+      "text": "The posh part of the West Midlands, I was told once."
+    },
+    {
+      "start": 6081.02,
+      "end": 6081.88,
+      "text": "I hope you're still up, Janet."
+    },
+    {
+      "start": 6088.85,
+      "end": 6091.11,
+      "text": "Rock and roll runner, Toad the Wet Sprocket."
+    },
+    {
+      "start": 6481.58,
+      "end": 6484.34,
+      "text": "Black Sabbath there with Ozzy, Ozzy, Ozzy on the microphone."
+    },
+    {
+      "start": 6484.52,
+      "end": 6486.3,
+      "text": "It's from an album that's just come out on NEMS."
+    },
+    {
+      "start": 6486.38,
+      "end": 6487.5,
+      "text": "It's called Live at Last."
+    },
+    {
+      "start": 6487.66,
+      "end": 6489.36,
+      "text": "What was the name of the track, as if you didn't know?"
+    },
+    {
+      "start": 6490.22,
+      "end": 6490.54,
+      "text": "Paranoid."
+    },
+    {
+      "start": 6490.62,
+      "end": 6492.66,
+      "text": "It's not that good an album, to be absolutely honest."
+    },
+    {
+      "start": 6492.68,
+      "end": 6498.25,
+      "text": "It's not a really good sort of aural representation of what Sabbath were all about when they had Ozzy up the front."
+    },
+    {
+      "start": 6498.31,
+      "end": 6498.79,
+      "text": "But there you go."
+    },
+    {
+      "start": 6498.83,
+      "end": 6499.23,
+      "text": "It's available."
+    },
+    {
+      "start": 6499.37,
+      "end": 6500.87,
+      "text": "It's a good sort of collector's item, I guess."
+    },
+    {
+      "start": 6501.45,
+      "end": 6502.33,
+      "text": "And I played it for Nick Nick."
+    },
+    {
+      "start": 6502.33,
+      "end": 6504.55,
+      "text": "sounds like a Jim Davidson joke, but actually"
+    },
+    {
+      "start": 6504.55,
+      "end": 6506.67,
+      "text": "it's two separate people, and Steve, as well"
+    },
+    {
+      "start": 6506.67,
+      "end": 6508.41,
+      "text": "of the Black Sabbath Appreciation Society"
+    },
+    {
+      "start": 6508.41,
+      "end": 6510.53,
+      "text": "in Beckenham in Kent, and also for Dave"
+    },
+    {
+      "start": 6510.53,
+      "end": 6512.51,
+      "text": "Cottle of the Normandy Barracks, Leckanfield"
+    },
+    {
+      "start": 6512.51,
+      "end": 6514.35,
+      "text": "Beverly, North Humberside"
+    },
+    {
+      "start": 6514.35,
+      "end": 6516.19,
+      "text": "and prior to that you heard our final one tonight"
+    },
+    {
+      "start": 6516.19,
+      "end": 6518.49,
+      "text": "from the first ever radio session by Toad"
+    },
+    {
+      "start": 6518.49,
+      "end": 6519.93,
+      "text": "the Wet Sprocket"
+    },
+    {
+      "start": 6519.93,
+      "end": 6522.45,
+      "text": "the track was Rock and Roll Runner, many thanks to"
+    },
+    {
+      "start": 6522.45,
+      "end": 6524.39,
+      "text": "Mick and Martin, and Peter and Curly"
+    },
+    {
+      "start": 6524.39,
+      "end": 6526.63,
+      "text": "who make up Toad the Wet Sprocket"
+    },
+    {
+      "start": 6526.63,
+      "end": 6528.03,
+      "text": "you can catch them tomorrow night"
+    },
+    {
+      "start": 6528.03,
+      "end": 6530.65,
+      "text": "Saturday at the Kingsway Tavern in Luton"
+    },
+    {
+      "start": 6530.65,
+      "end": 6531.63,
+      "text": "commercial time"
+    },
+    {
+      "start": 6532.33,
+      "end": 6535.41,
+      "text": "This Sunday on Radio 1, part 2 of 25 Years of Rock"
+    },
+    {
+      "start": 6535.41,
+      "end": 6539.03,
+      "text": "focuses in on 1956, the year of Suez and Hungary"
+    },
+    {
+      "start": 6539.03,
+      "end": 6541.59,
+      "text": "and the bizarre disappearance of Commander Crabbe."
+    },
+    {
+      "start": 6541.71,
+      "end": 6543.23,
+      "text": "Appearing most successfully on record,"
+    },
+    {
+      "start": 6543.37,
+      "end": 6545.33,
+      "text": "Chuck Berry, Little Richard and Elvis Presley."
+    },
+    {
+      "start": 6545.67,
+      "end": 6550.03,
+      "text": "That's 1956, part 2 of 25 Years of Rock, Sunday, 7 o'clock."
+    },
+    {
+      "start": 6553.9,
+      "end": 6555.42,
+      "text": "Hello there, this is Roger Daughtry,"
+    },
+    {
+      "start": 6555.84,
+      "end": 6559.42,
+      "text": "and if you like Liquid Gold, Lena Martell, The Smurfs,"
+    },
+    {
+      "start": 6560.18,
+      "end": 6563.98,
+      "text": "Max Bygraves, well, don't bother to tune in on Sunday at 3 o'clock,"
+    },
+    {
+      "start": 6564.44,
+      "end": 6565.56,
+      "text": "because I ain't playing any of them."
+    },
+    {
+      "start": 6565.66,
+      "end": 6570.16,
+      "text": "To find out what I am playing, well, tune in at 3 o'clock."
+    },
+    {
+      "start": 6573.7,
+      "end": 6583.5,
+      "text": "I always love to listen to that programme because it gives you a great representation of what rock artists and various, if you like, all sorts of singers and people in the business like and play in their own houses."
+    },
+    {
+      "start": 6583.66,
+      "end": 6586.44,
+      "text": "And that way you sort of work out what their influences are."
+    },
+    {
+      "start": 6586.6,
+      "end": 6589.36,
+      "text": "And influences, I think, are one of the most interesting things about musicians."
+    },
+    {
+      "start": 6589.94,
+      "end": 6594.62,
+      "text": "The way you can sort of chart how they develop over the years by virtue of what they've heard, things like that."
+    },
+    {
+      "start": 6595.24,
+      "end": 6597.62,
+      "text": "I'm going to play you something now which is gentle and soft"
+    },
+    {
+      "start": 6597.62,
+      "end": 6599.36,
+      "text": "and is super tramp."
+    },
+    {
+      "start": 6599.72,
+      "end": 6980.02,
+      "text": "...prime of the century, came out years ago,"
+    },
+    {
+      "start": 6980.1,
+      "end": 6981.94,
+      "text": "but still sounds absolutely fresh,"
+    },
+    {
+      "start": 6982.04,
+      "end": 6983.48,
+      "text": "and that was specially for Aaron Greenwood,"
+    },
+    {
+      "start": 6983.56,
+      "end": 6985.0,
+      "text": "who lives in Belfast in Northern Ireland."
+    },
+    {
+      "start": 6985.14,
+      "end": 6987.26,
+      "text": "Lots of Belfast requests tonight, I'm happy to say."
+    },
+    {
+      "start": 6987.76,
+      "end": 6989.32,
+      "text": "And also for Chris and for Sue,"
+    },
+    {
+      "start": 6989.42,
+      "end": 6991.46,
+      "text": "whom I'm sure are up to absolutely no good."
+    },
+    {
+      "start": 6991.52,
+      "end": 6992.26,
+      "text": "And here's Alice Cooper."
+    },
+    {
+      "start": 7136.63,
+      "end": 7139.02,
+      "text": "Alice Cooper, in Schools Out."
+    },
+    {
+      "start": 7139.08,
+      "end": 7141.32,
+      "text": "That really is a sort of national anthem at this time of year."
+    },
+    {
+      "start": 7141.78,
+      "end": 7144.12,
+      "text": "And that was for Lemmy Bartlett and Molly Hatchet-Marples"
+    },
+    {
+      "start": 7144.12,
+      "end": 7146.0,
+      "text": "and Des the Axe, Clashby and the Brotherhood,"
+    },
+    {
+      "start": 7146.0,
+      "end": 7149.42,
+      "text": "and everybody else who's just left to Bishop Luffer School in Chichester."
+    },
+    {
+      "start": 7150.04,
+      "end": 7154.94,
+      "text": "And also for a load of people who sign themselves as people who are in a concentration camp somewhere on the Kent coast."
+    },
+    {
+      "start": 7155.3,
+      "end": 7159.76,
+      "text": "And that's Paul and Fran and Chris, and Dude and Friction Phil and Ape Man and Porky Randall,"
+    },
+    {
+      "start": 7160.08,
+      "end": 7163.54,
+      "text": "and last but definitely longest, Sid the Worm."
+    },
+    {
+      "start": 7164.08,
+      "end": 7166.38,
+      "text": "Ask any girl in sandwiches, says he."
+    },
+    {
+      "start": 7166.74,
+      "end": 7170.18,
+      "text": "And as Cheech and Chong once said, you'll never get that on the album cover."
+    },
+    {
+      "start": 7175.57,
+      "end": 7177.57,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7177.65,
+      "end": 7178.95,
+      "text": "I hope you enjoyed Ultra Rocks."
+    },
+    {
+      "start": 7178.95,
+      "end": 7180.47,
+      "text": "Many thanks to Toad the Wet Sprocket."
+    },
+    {
+      "start": 7181.07,
+      "end": 7183.55,
+      "text": "Tomorrow on Rock on Saturday, I'll be talking to Steve Hackett."
+    },
+    {
+      "start": 7184.13,
+      "end": 7185.91,
+      "text": "We'll have Carla Santana, Tom Robertson,"
+    },
+    {
+      "start": 7186.01,
+      "end": 7188.23,
+      "text": "and also Will Burt for the records on the programme as well."
+    },
+    {
+      "start": 7189.05,
+      "end": 7190.49,
+      "text": "Thanks to our engineer tonight,"
+    },
+    {
+      "start": 7190.61,
+      "end": 7193.31,
+      "text": "a technical operator of some mellifluosity,"
+    },
+    {
+      "start": 7193.61,
+      "end": 7194.81,
+      "text": "a gentleman by the name of Colin."
+    },
+    {
+      "start": 7195.41,
+      "end": 7196.39,
+      "text": "Not gentleman at all."
+    },
+    {
+      "start": 7201.91,
+      "end": 7204.19,
+      "text": "Complete with suit, here's Tony Wilson."
+    },
+    {
+      "start": 7204.83,
+      "end": 7206.15,
+      "text": "Never been to sandwich in my life."
+    },
+    {
+      "start": 7206.37,
+      "end": 7206.51,
+      "text": "No?"
+    },
+    {
+      "start": 7212.19,
+      "end": 7213.11,
+      "text": "Ask the girls."
+    },
+    {
+      "start": 7213.11,
+      "end": 7218.28,
+      "text": "this is tommy vance in london wherever you are i trust you have a very pleasant night"
+    },
+    {
+      "start": 7218.28,
+      "end": 7222.36,
+      "text": "and a great weekend i'll see you for rock on saturday tomorrow between 4 and 7 30"
+    },
+    {
+      "start": 7222.36,
+      "end": 7225.52,
+      "text": "for me and all of us on radio one good night and god bless"
     }
   ]
 }

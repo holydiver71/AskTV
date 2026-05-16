@@ -21,7 +21,8 @@
     {
       "artist": "Rush",
       "track": "Xanadu",
-      "details": "LP-A Farewell to Kings"
+      "details": "LP-A Farewell to Kings",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Krokus",
@@ -31,22 +32,26 @@
     {
       "artist": "Foghat",
       "track": "Full Time Lover",
-      "details": "LP-Tight Shoes"
+      "details": "LP-Tight Shoes",
+      "verified_timestamp": 1163.88
     },
     {
       "artist": "Toad The Wet Sprocket",
       "track": "Rock ’n’ Roll Runner",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1167.9
     },
     {
       "artist": "Free",
       "track": "Wishing Well",
-      "details": "LP-Heartbreaker"
+      "details": "LP-Heartbreaker",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Rory Gallagher",
       "track": "Wayward Child",
-      "details": "LP-Stage Struck"
+      "details": "LP-Stage Struck",
+      "verified_timestamp": 2403.32
     },
     {
       "artist": "Judas Priest",
@@ -61,7 +66,8 @@
     {
       "artist": "Gillan",
       "track": "Time and Again",
-      "details": "LP-Glory Road"
+      "details": "LP-Glory Road",
+      "verified_timestamp": 2429.58
     },
     {
       "artist": "Toad The Wet Sprocket",
@@ -71,12 +77,14 @@
     {
       "artist": "Groundhogs",
       "track": "Cherry Red",
-      "details": "LP-Split"
+      "details": "LP-Split",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.84
     },
     {
       "artist": "Krokus",
@@ -86,7 +94,8 @@
     {
       "artist": "The Michael Schenker Group",
       "track": "Lost Horizons",
-      "details": "LP-The Michael Schenker Group"
+      "details": "LP-The Michael Schenker Group",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Toad The Wet Sprocket",
@@ -96,7 +105,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "Since I’ve Been Loving You",
-      "details": "LP-Led Zeppelin III"
+      "details": "LP-Led Zeppelin III",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Krokus",
@@ -106,7 +116,8 @@
     {
       "artist": "Rossington Collins Band",
       "track": "Prime Time",
-      "details": "LP-Anytime, Anyplace, Anywhere"
+      "details": "LP-Anytime, Anyplace, Anywhere",
+      "verified_timestamp": 6488.43
     },
     {
       "artist": "Toad The Wet Sprocket",
@@ -116,7 +127,1050 @@
     {
       "artist": "Barclay James Harvest",
       "track": "Poor Man’s Moody Blues",
-      "details": "LP-Gone to Earth"
+      "details": "LP-Gone to Earth",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 7.38,
+      "end": 23.46,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 23.46,
+      "end": 30.46,
+      "text": "Well, hello there. Thomas the Vance here. TV on the radio. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 30.46,
+      "end": 35.46,
+      "text": "Tonight, a repeat of two recently recorded Friday Rock Show sessions by comparatively new bands."
+    },
+    {
+      "start": 35.46,
+      "end": 42.46,
+      "text": "We have the Swiss bass band Crocus and also the strangely named group who call themselves Toad the Wet Sprocket."
+    },
+    {
+      "start": 42.46,
+      "end": 60.94,
+      "text": "Got classic cuts by Free and Judas Priest, Crown Hogs, Led Zeppelin and Barclay James Harvest, among others."
+    },
+    {
+      "start": 61.22,
+      "end": 66.18,
+      "text": "And new releases by Foghat, Rory Gallagher, Gillan, Michael Schenker and the Rossington Collins Band."
+    },
+    {
+      "start": 66.84,
+      "end": 71.0,
+      "text": "Not forgetting our Friday night connection, that time of the week when titillation approaches."
+    },
+    {
+      "start": 71.58,
+      "end": 74.04,
+      "text": "But this evening, we start with a band called Rush."
+    },
+    {
+      "start": 75.0,
+      "end": 828.2,
+      "text": "That was Crocus from our repeat session by them, a track called Backseat Rock and Roll."
+    },
+    {
+      "start": 830.18,
+      "end": 831.26,
+      "text": "I think we're going to boo you tonight."
+    },
+    {
+      "start": 831.26,
+      "end": 836.34,
+      "text": "That was also preceded by Rush, an album called A Farewell to Kings."
+    },
+    {
+      "start": 836.34,
+      "end": 837.6,
+      "text": "The track was Xanadu."
+    },
+    {
+      "start": 838.06,
+      "end": 841.58,
+      "text": "For loads of people, for Adrian Goulding, who lives in Fullwood in Sheffield."
+    },
+    {
+      "start": 842.02,
+      "end": 844.6,
+      "text": "Also for the 5th and 6th forms at Sutton High in Plymouth."
+    },
+    {
+      "start": 845.16,
+      "end": 850.1,
+      "text": "And for Ali Azjar, I think it is, who lives in 222 Burnley Road, Weir in Lancashire."
+    },
+    {
+      "start": 850.58,
+      "end": 854.24,
+      "text": "And for Martin Durnan, who lives in Raynham, Gillingham in Essex."
+    },
+    {
+      "start": 854.58,
+      "end": 856.85,
+      "text": "And for Mark DeMuth, who lives in Brougham."
+    },
+    {
+      "start": 857.43,
+      "end": 862.91,
+      "text": "Also for the Rush Headbangers, a number 3 shuffle close in Pontlandthraith in Gwent."
+    },
+    {
+      "start": 863.51,
+      "end": 866.84,
+      "text": "And also for Phil Wright, who's a Wimbledon Shore heavy."
+    },
+    {
+      "start": 867.36,
+      "end": 870.8,
+      "text": "And for John Greery, who lives in Glanton in Northumberlandshire."
+    },
+    {
+      "start": 871.3,
+      "end": 873.08,
+      "text": "Brian Hart, who lives in Hove in Essex."
+    },
+    {
+      "start": 873.5,
+      "end": 877.36,
+      "text": "And also for Alan Freebird-Clark, who lives in Saltcoats, Ayrshire in Scotland."
+    },
+    {
+      "start": 877.98,
+      "end": 880.86,
+      "text": "And Jane Hill, who's in Stourbridge in the West Midlands."
+    },
+    {
+      "start": 882.72,
+      "end": 885.7,
+      "text": "And for all the other Rush people around the country."
+    },
+    {
+      "start": 885.96,
+      "end": 887.1,
+      "text": "And now here's Foghat."
+    },
+    {
+      "start": 887.7,
+      "end": 1151.9,
+      "text": "Really have never meant too much in this country."
+    },
+    {
+      "start": 1152.04,
+      "end": 1157.58,
+      "text": "I did a television show with them for the United States of America way back in about 1976, and I thought they were great."
+    },
+    {
+      "start": 1157.76,
+      "end": 1160.16,
+      "text": "They've got a very good new album out, and that's a track from it."
+    },
+    {
+      "start": 1160.6,
+      "end": 1163.8,
+      "text": "It's out on the Bearsville label, and the album is called Tight Shoes."
+    },
+    {
+      "start": 1163.88,
+      "end": 1167.34,
+      "text": "The name of the band is Foghat, and the track you heard there was Full Time Lover."
+    },
+    {
+      "start": 1167.9,
+      "end": 1170.6,
+      "text": "It's 10.19, and here's Toad the Wet Sprocket."
+    },
+    {
+      "start": 1591.45,
+      "end": 1593.69,
+      "text": "And that's a real classic that came out in 1972."
+    },
+    {
+      "start": 1594.01,
+      "end": 1595.13,
+      "text": "Was it really that long ago?"
+    },
+    {
+      "start": 1595.29,
+      "end": 1597.73,
+      "text": "Free from the album Heartbreaker and Wishing Well."
+    },
+    {
+      "start": 1599.36,
+      "end": 1603.64,
+      "text": "And that was for a load of people, including Love, Lust, Passion and Desire."
+    },
+    {
+      "start": 1603.98,
+      "end": 1605.46,
+      "text": "This says here on this bit of paper."
+    },
+    {
+      "start": 1605.96,
+      "end": 1608.74,
+      "text": "Nicky Hyde, and also the good friends of Said Person."
+    },
+    {
+      "start": 1608.74,
+      "end": 1611.62,
+      "text": "all the heavy metal headbangers in Burgess Hill"
+    },
+    {
+      "start": 1611.62,
+      "end": 1613.5,
+      "text": "especially Chris and Bob and Glenn and Robin"
+    },
+    {
+      "start": 1613.5,
+      "end": 1615.54,
+      "text": "and Richard and Helen and Beans and Angus and David"
+    },
+    {
+      "start": 1615.54,
+      "end": 1617.66,
+      "text": "and Mark N and Mark D and Cheeky Chop"
+    },
+    {
+      "start": 1617.66,
+      "end": 1618.24,
+      "text": "Cecil"
+    },
+    {
+      "start": 1618.24,
+      "end": 1621.76,
+      "text": "and also for Sam and Stu and Chaz and Dave"
+    },
+    {
+      "start": 1621.76,
+      "end": 1624.12,
+      "text": "Rock on Tommy, Jane it says here"
+    },
+    {
+      "start": 1624.12,
+      "end": 1626.0,
+      "text": "and Jane lives in Sutton Coalfield"
+    },
+    {
+      "start": 1626.0,
+      "end": 1628.46,
+      "text": "a nice postcard of which I've got in front of me"
+    },
+    {
+      "start": 1628.46,
+      "end": 1630.18,
+      "text": "gotta play something"
+    },
+    {
+      "start": 1630.18,
+      "end": 1632.48,
+      "text": "for everybody who goes to the Ralph Thorsby"
+    },
+    {
+      "start": 1632.48,
+      "end": 1634.58,
+      "text": "sixth form, Cookridge in Leeds"
+    },
+    {
+      "start": 1634.58,
+      "end": 1636.44,
+      "text": "namely Pete and John and Doc and Phil and Wig and"
+    },
+    {
+      "start": 1636.44,
+      "end": 1638.4,
+      "text": "Carl and everybody else, with very best"
+    },
+    {
+      "start": 1638.4,
+      "end": 1643.38,
+      "text": "wishes from everybody who goes to the sixth form at that particular place in leeds ralph thorsby"
+    },
+    {
+      "start": 1643.38,
+      "end": 1649.67,
+      "text": "school mention as well for david and ken and neil and richard and steve and myself myself being john"
+    },
+    {
+      "start": 1649.67,
+      "end": 1656.19,
+      "text": "brinkworth who lives at number one hardy road in wareham in dorset i hope all the exam results were"
+    },
+    {
+      "start": 1656.19,
+      "end": 1662.61,
+      "text": "positive and before free you heard toad the wet sprocket and rock and roll runner and now here's"
+    },
+    {
+      "start": 1662.61,
+      "end": 2346.68,
+      "text": "rory gallagher dispreased as if he didn't know from the three-track ep that was given away"
+    },
+    {
+      "start": 2346.68,
+      "end": 2348.06,
+      "text": "free gratis and from nothing"
+    },
+    {
+      "start": 2348.06,
+      "end": 2350.32,
+      "text": "with the album Unleashed in the East"
+    },
+    {
+      "start": 2350.32,
+      "end": 2352.92,
+      "text": "and a live version of Beyond the Realms of Death."
+    },
+    {
+      "start": 2353.58,
+      "end": 2355.1,
+      "text": "And that was, of course, for loads of people."
+    },
+    {
+      "start": 2355.3,
+      "end": 2356.54,
+      "text": "Paul and Andy and Rick and Kev"
+    },
+    {
+      "start": 2356.54,
+      "end": 2358.2,
+      "text": "and the rest of the Folkestone Heavy Metal crew."
+    },
+    {
+      "start": 2358.64,
+      "end": 2359.8,
+      "text": "That includes Stu and Jackie."
+    },
+    {
+      "start": 2360.04,
+      "end": 2362.76,
+      "text": "And also, fond love to Liz,"
+    },
+    {
+      "start": 2362.9,
+      "end": 2364.78,
+      "text": "the girl I love, says Chris Harris,"
+    },
+    {
+      "start": 2364.92,
+      "end": 2367.32,
+      "text": "who lives in Liminge in Kent."
+    },
+    {
+      "start": 2368.44,
+      "end": 2370.96,
+      "text": "Kathy Sumner wants me to make a couple of people happy,"
+    },
+    {
+      "start": 2371.04,
+      "end": 2372.78,
+      "text": "and I hope I just did with that Judas Priest track."
+    },
+    {
+      "start": 2373.1,
+      "end": 2375.0,
+      "text": "Track, rather, they are Jebo and Ian."
+    },
+    {
+      "start": 2375.54,
+      "end": 2377.64,
+      "text": "And Kathy lives in Southport in Merseyside."
+    },
+    {
+      "start": 2378.04,
+      "end": 2380.4,
+      "text": "Kathy, thank you very much for the perfume on the letter."
+    },
+    {
+      "start": 2380.6,
+      "end": 2381.5,
+      "text": "It's brightened up the studio."
+    },
+    {
+      "start": 2382.58,
+      "end": 2386.36,
+      "text": "Also have to say hello to everybody who is connected with Graham Niblock,"
+    },
+    {
+      "start": 2386.46,
+      "end": 2388.74,
+      "text": "who lives in Whitehead in County Antrim in Northern Ireland."
+    },
+    {
+      "start": 2389.36,
+      "end": 2392.58,
+      "text": "And hello also to Andy Hibbert, who's in Chertsey in Surrey."
+    },
+    {
+      "start": 2393.4,
+      "end": 2395.2,
+      "text": "And the track you heard before that is the new single,"
+    },
+    {
+      "start": 2395.48,
+      "end": 2398.12,
+      "text": "the one that's just been released on Chrysalis, by Rory Gallagher."
+    },
+    {
+      "start": 2398.22,
+      "end": 2401.56,
+      "text": "A track from the album called Stage Struck."
+    },
+    {
+      "start": 2401.84,
+      "end": 2403.32,
+      "text": "Very hard to say that. Stage Struck."
+    },
+    {
+      "start": 2403.32,
+      "end": 2412.42,
+      "text": "The track was, of course, Wayward Child, and I would think at this moment of time, it being 20 minutes now exactly to 11, that Mr. Gallagher is on stage at Reading, and wouldn't it be nice to be there listening to him?"
+    },
+    {
+      "start": 2419.1,
+      "end": 2429.58,
+      "text": "You and I are not there, but we can actually hear what he's been doing on stage tonight via Mr. Tony Wilson and his production crew who are currently recording it, and that's going to be going out shortly on the Friday Rock Show."
+    },
+    {
+      "start": 2429.58,
+      "end": 2904.52,
+      "text": "back now to our session by crocus and time and again and they should at this moment of time"
+    },
+    {
+      "start": 2904.52,
+      "end": 2908.42,
+      "text": "they being mr gillan and the whole of his band be winging their way to the continent of europe"
+    },
+    {
+      "start": 2908.42,
+      "end": 2912.5,
+      "text": "having finished their performance tonight at running because they're doing two further festivals"
+    },
+    {
+      "start": 2912.5,
+      "end": 2917.82,
+      "text": "one tomorrow night and one on sunday and i played gillan for loads of people like i play most of"
+    },
+    {
+      "start": 2917.82,
+      "end": 2921.14,
+      "text": "the things on this program for loads of people haven't got time to mention all the names but"
+    },
+    {
+      "start": 2921.14,
+      "end": 2928.46,
+      "text": "we'll try con middleton of d side in cluid in north wales and also for ian coombs who lives"
+    },
+    {
+      "start": 2928.46,
+      "end": 2930.54,
+      "text": "in Ebervale in Gwent, and for"
+    },
+    {
+      "start": 2930.54,
+      "end": 2932.44,
+      "text": "Ian Walker and all his friends there in"
+    },
+    {
+      "start": 2932.44,
+      "end": 2934.3,
+      "text": "Crawley in Sussex, and also for"
+    },
+    {
+      "start": 2934.3,
+      "end": 2936.24,
+      "text": "Stephen Pickles of 25 Parkview"
+    },
+    {
+      "start": 2936.24,
+      "end": 2938.42,
+      "text": "Crossway Green Chepstow in"
+    },
+    {
+      "start": 2938.42,
+      "end": 2940.78,
+      "text": "Gwent. And before that, you heard"
+    },
+    {
+      "start": 2940.78,
+      "end": 2942.72,
+      "text": "something from that Swiss-based band with a"
+    },
+    {
+      "start": 2942.72,
+      "end": 2944.66,
+      "text": "Maltese lead singer, the band by the name of"
+    },
+    {
+      "start": 2944.66,
+      "end": 2946.88,
+      "text": "Mark Staracci, the band called Crocus"
+    },
+    {
+      "start": 2946.88,
+      "end": 2948.34,
+      "text": "and Lady Double Dealer."
+    },
+    {
+      "start": 2951.25,
+      "end": 2952.81,
+      "text": "This is the Friday Rock Show."
+    },
+    {
+      "start": 2952.95,
+      "end": 2955.15,
+      "text": "It's 11 minutes to 11, and here's"
+    },
+    {
+      "start": 2955.15,
+      "end": 2956.33,
+      "text": "Toad the Wet Sprocket."
+    },
+    {
+      "start": 2956.71,
+      "end": 3617.64,
+      "text": "A clip that came out in 1971, which"
+    },
+    {
+      "start": 3617.64,
+      "end": 3619.66,
+      "text": "incidentally has just been re-released"
+    },
+    {
+      "start": 3619.66,
+      "end": 3622.04,
+      "text": "in this country under the Rock Files series."
+    },
+    {
+      "start": 3623.62,
+      "end": 3626.12,
+      "text": "Playback for Steve Webster, who lives in Hyde in Southampton,"
+    },
+    {
+      "start": 3626.34,
+      "end": 3628.6,
+      "text": "and also for all the good friends of Mark Brockway."
+    },
+    {
+      "start": 3629.0,
+      "end": 3632.32,
+      "text": "That's everybody who attends the Hostel House King's School in Worcester."
+    },
+    {
+      "start": 3633.23,
+      "end": 3635.99,
+      "text": "And for all the good mates of Graham Pomeroy,"
+    },
+    {
+      "start": 3636.11,
+      "end": 3638.59,
+      "text": "who include Brother Steve and Phil and Claire and Jan,"
+    },
+    {
+      "start": 3638.67,
+      "end": 3641.47,
+      "text": "and everybody who was at Kingston Polytechnic during 1973,"
+    },
+    {
+      "start": 3642.17,
+      "end": 3645.43,
+      "text": "and everybody who was a rather frequent The Royal Charter"
+    },
+    {
+      "start": 3645.43,
+      "end": 3646.83,
+      "text": "or The Three Fishes in Kingston,"
+    },
+    {
+      "start": 3646.83,
+      "end": 3649.91,
+      "text": "and also everybody who was at the Croydon Greyhound gigs"
+    },
+    {
+      "start": 3649.91,
+      "end": 3651.33,
+      "text": "back in 70 to 73"
+    },
+    {
+      "start": 3651.33,
+      "end": 3654.53,
+      "text": "when Stray and Budgie and Status Quo were regulars."
+    },
+    {
+      "start": 3654.91,
+      "end": 3657.27,
+      "text": "Let me tell you that Tony Wilson was a regular in those days"
+    },
+    {
+      "start": 3657.27,
+      "end": 3658.41,
+      "text": "and so indeed was I."
+    },
+    {
+      "start": 3662.49,
+      "end": 3664.17,
+      "text": "And before that you heard something from our session"
+    },
+    {
+      "start": 3664.17,
+      "end": 3665.23,
+      "text": "by Toad the Wet Sprocket."
+    },
+    {
+      "start": 3665.37,
+      "end": 3667.21,
+      "text": "The track was One Glass of Whiskey."
+    },
+    {
+      "start": 3669.17,
+      "end": 3670.89,
+      "text": "And now it's time for the Friday Night Connection"
+    },
+    {
+      "start": 3670.89,
+      "end": 3673.01,
+      "text": "at one minute past eleven on the Friday Rock Show."
+    },
+    {
+      "start": 3673.25,
+      "end": 3674.99,
+      "text": "And the tracks I played you last week were these."
+    },
+    {
+      "start": 3675.11,
+      "end": 3676.77,
+      "text": "Bells of Berlin by Lone Star"
+    },
+    {
+      "start": 3676.77,
+      "end": 3678.73,
+      "text": "from the LP Firing on All Six."
+    },
+    {
+      "start": 3679.5,
+      "end": 3681.16,
+      "text": "And Extract or Excerpt"
+    },
+    {
+      "start": 3681.16,
+      "end": 3683.12,
+      "text": "from Tubular Bells by Mike Oldfield."
+    },
+    {
+      "start": 3683.12,
+      "end": 3685.48,
+      "text": "and Whiskey in the Jar by Thin Lizzy."
+    },
+    {
+      "start": 3685.56,
+      "end": 3688.34,
+      "text": "Now, nearly everybody got a sort of right answer."
+    },
+    {
+      "start": 3688.82,
+      "end": 3691.0,
+      "text": "Quite a number of people thought the clue was"
+    },
+    {
+      "start": 3691.0,
+      "end": 3695.24,
+      "text": "Whiskey in the Jar equals a famous name of whiskey made, of course, in Scotland,"
+    },
+    {
+      "start": 3695.48,
+      "end": 3697.4,
+      "text": "but that was not the accurate answer."
+    },
+    {
+      "start": 3698.08,
+      "end": 3700.58,
+      "text": "The answer was obviously Bell, right?"
+    },
+    {
+      "start": 3701.95,
+      "end": 3704.57,
+      "text": "But it really relied on you remembering"
+    },
+    {
+      "start": 3704.57,
+      "end": 3707.39,
+      "text": "that when Whiskey in the Jar was recorded by Thin Lizzy,"
+    },
+    {
+      "start": 3707.91,
+      "end": 3710.19,
+      "text": "Eric Bell was a member of that band."
+    },
+    {
+      "start": 3710.57,
+      "end": 3713.35,
+      "text": "It was not the good old whiskey."
+    },
+    {
+      "start": 3713.63,
+      "end": 3718.6,
+      "text": "And the person who got the correct answer was Andy Elliott."
+    },
+    {
+      "start": 3719.12,
+      "end": 3723.38,
+      "text": "And Andy lives at 20 Sherland Avenue, Sittingbourne in Kent, and gets himself a ten-pound record token."
+    },
+    {
+      "start": 3723.52,
+      "end": 3724.06,
+      "text": "Well done, sir."
+    },
+    {
+      "start": 3728.82,
+      "end": 4553.05,
+      "text": "And also has set up a very pleasant, very clever..."
+    },
+    {
+      "start": 4553.05,
+      "end": 4556.03,
+      "text": "...that was put together by Andy Elliott, who lives in Sittingbourne in Kent."
+    },
+    {
+      "start": 4559.36,
+      "end": 4563.48,
+      "text": "Three bits of music, and somewhere in there is the answer."
+    },
+    {
+      "start": 4565.61,
+      "end": 4568.01,
+      "text": "But that's down to you to find out, or to think about."
+    },
+    {
+      "start": 4568.31,
+      "end": 4575.4,
+      "text": "And if you can, well, why don't you put it on a postcard, or any form of communication you like, for that matter."
+    },
+    {
+      "start": 4575.5,
+      "end": 4576.51,
+      "text": "And send it to me."
+    },
+    {
+      "start": 4576.69,
+      "end": 4577.61,
+      "text": "My name is Tommy Vance."
+    },
+    {
+      "start": 4577.77,
+      "end": 4579.69,
+      "text": "The program is called The Friday Rock Show."
+    },
+    {
+      "start": 4580.13,
+      "end": 4582.07,
+      "text": "But just before that, put the Friday Night Connection."
+    },
+    {
+      "start": 4582.49,
+      "end": 4583.71,
+      "text": "And our address goes like this."
+    },
+    {
+      "start": 4583.83,
+      "end": 4590.05,
+      "text": "BBC Radio 1, Broadcasting House, London, W1A4WW."
+    },
+    {
+      "start": 4590.83,
+      "end": 4595.03,
+      "text": "Don't forget, your side of the deal is to put together the same thing."
+    },
+    {
+      "start": 4595.31,
+      "end": 4596.73,
+      "text": "Three bits of music with a connection."
+    },
+    {
+      "start": 4596.93,
+      "end": 4599.81,
+      "text": "And if you're the card or letter that we pull out of the bag,"
+    },
+    {
+      "start": 4599.81,
+      "end": 4605.63,
+      "text": "or choose as being the most representative of the music that we feel our audience would like,"
+    },
+    {
+      "start": 4606.03,
+      "end": 4607.65,
+      "text": "you get yourself a £10 record token."
+    },
+    {
+      "start": 4616.14,
+      "end": 4616.82,
+      "text": "And croakness."
+    },
+    {
+      "start": 4617.26,
+      "end": 5267.36,
+      "text": "Two albums I'm currently playing at home all the time."
+    },
+    {
+      "start": 5267.48,
+      "end": 5270.52,
+      "text": "One of them is by Diamondhead and the other one is by That Man."
+    },
+    {
+      "start": 5272.08,
+      "end": 5274.08,
+      "text": "And That Man is the Michael Schenker group,"
+    },
+    {
+      "start": 5274.36,
+      "end": 5278.26,
+      "text": "which is a great album, a superlative album, not a duff track on it."
+    },
+    {
+      "start": 5279.16,
+      "end": 5280.76,
+      "text": "The album is called The Michael Schenker Group,"
+    },
+    {
+      "start": 5280.76,
+      "end": 5283.8,
+      "text": "the track you just heard was Lost Horizons and it's out right now on Christmas."
+    },
+    {
+      "start": 5284.32,
+      "end": 5290.1,
+      "text": "And I play that for somebody whose name I really just cannot read,"
+    },
+    {
+      "start": 5290.2,
+      "end": 5291.98,
+      "text": "but I do know they come from Worcester."
+    },
+    {
+      "start": 5292.66,
+      "end": 5296.26,
+      "text": "They wanted me to say hello and goodbye to all the Worcester heavy metal fans"
+    },
+    {
+      "start": 5296.26,
+      "end": 5300.02,
+      "text": "because that particular indecipherable person or undecipherable person"
+    },
+    {
+      "start": 5300.02,
+      "end": 5304.12,
+      "text": "is emigrating to the United States of America on the 27th of this month"
+    },
+    {
+      "start": 5304.12,
+      "end": 5308.5,
+      "text": "and wants me to say good luck to all the people that that particular person"
+    },
+    {
+      "start": 5308.5,
+      "end": 5310.04,
+      "text": "has been associated with for some time."
+    },
+    {
+      "start": 5310.14,
+      "end": 5311.92,
+      "text": "I hope you have a good time in the USA. It's a good country."
+    },
+    {
+      "start": 5311.92,
+      "end": 5320.74,
+      "text": "also got to say hello to everybody who's involved in a british bike rally at corf castle in dorset"
+    },
+    {
+      "start": 5320.74,
+      "end": 5327.44,
+      "text": "at the moment and also has an indecipherable name or undecipherable and is having a 21st"
+    },
+    {
+      "start": 5327.44,
+      "end": 5337.11,
+      "text": "birthday today so to everybody in the t-o-m-c-c good evening and also hi to jeff stell who lives"
+    },
+    {
+      "start": 5337.11,
+      "end": 5342.25,
+      "text": "in winterton in scunthorpe and before the michael shenker group you heard crocus and something from"
+    },
+    {
+      "start": 5342.25,
+      "end": 6033.77,
+      "text": "our repeat session by then it was called mad racket 11 29 toad the wet sprocket a classic or"
+    },
+    {
+      "start": 6033.77,
+      "end": 6039.29,
+      "text": "is that a classic recorded in 1970 led zeppelin 3 was the album the band led zeppelin and since"
+    },
+    {
+      "start": 6039.29,
+      "end": 6044.47,
+      "text": "i've been loving you for all the led zeppelin people around the country particularly for paul"
+    },
+    {
+      "start": 6044.47,
+      "end": 6052.25,
+      "text": "barnard of fairwater in cardiff who sent me a postcard from partizan or whatever it's called"
+    },
+    {
+      "start": 6052.25,
+      "end": 6056.59,
+      "text": "or pronounced in the tyrol wanted me to say hello to stodge and dom and dave and woody and"
+    },
+    {
+      "start": 6056.59,
+      "end": 6060.97,
+      "text": "topper and lock and martin and before that you heard something by toad the wet sprocket it was"
+    },
+    {
+      "start": 6060.97,
+      "end": 6066.69,
+      "text": "called just another game like to say congratulations to thunder child who are up there in air they have"
+    },
+    {
+      "start": 6066.69,
+      "end": 6071.73,
+      "text": "actually got themselves through to the final of a sort of contest a talent contest up there good"
+    },
+    {
+      "start": 6071.73,
+      "end": 6075.91,
+      "text": "luck in the final to peter and to billy and to the rest of the band lots of luck from allison"
+    },
+    {
+      "start": 6075.91,
+      "end": 6467.99,
+      "text": "and linda and also from jackie and from yvonne and now here's our final one from crocus that's"
+    },
+    {
+      "start": 6467.99,
+      "end": 6472.33,
+      "text": "the band that's risen out of the ashes of Leonard Skinner, the unfortunate ashes thereof. I think"
+    },
+    {
+      "start": 6472.33,
+      "end": 6475.43,
+      "text": "they're a good band. They don't seem to have attracted too much attention in this country."
+    },
+    {
+      "start": 6475.59,
+      "end": 6479.97,
+      "text": "I really think they lay it down nicely. Dale Kranz is the lead vocalist there. She's an attractive"
+    },
+    {
+      "start": 6479.97,
+      "end": 6484.59,
+      "text": "lady. He used to back 38 Special. The album that they've got is called Anytime, Anyplace and"
+    },
+    {
+      "start": 6484.59,
+      "end": 6488.43,
+      "text": "Anywhere. The name of the band is the Rossington Collins Band and the track you heard there was"
+    },
+    {
+      "start": 6488.43,
+      "end": 7162.98,
+      "text": "Prime Time. And now here's a big deal from Toad, the sprocket, wet. By loads of people and happily"
+    },
+    {
+      "start": 7162.98,
+      "end": 7167.36,
+      "text": "played by myself for loads of people from the album gone to earth buckley james harvest and"
+    },
+    {
+      "start": 7167.36,
+      "end": 7172.52,
+      "text": "poor man's moody blues and prior to that toad the wet sprocket from our ace session by them"
+    },
+    {
+      "start": 7172.52,
+      "end": 7177.91,
+      "text": "the repeat thereof the track was big deal thanks to our engineers tonight dave and tim thank you"
+    },
+    {
+      "start": 7177.91,
+      "end": 7183.9,
+      "text": "dave and tim no words of wisdom from wilson tonight tw that is who's the producer of this"
+    },
+    {
+      "start": 7183.9,
+      "end": 7188.98,
+      "text": "program because he's on the site at reading recording loads of acts for broadcast here"
+    },
+    {
+      "start": 7188.98,
+      "end": 7190.08,
+      "text": "on the Friday Rock Show."
+    },
+    {
+      "start": 7193.41,
+      "end": 7194.41,
+      "text": "Walk on Saturday tomorrow."
+    },
+    {
+      "start": 7194.59,
+      "end": 7195.25,
+      "text": "Hold out a good start"
+    },
+    {
+      "start": 7195.25,
+      "end": 7197.23,
+      "text": "between 4 and 7.30."
+    },
+    {
+      "start": 7197.67,
+      "end": 7198.91,
+      "text": "Including UFO in concert."
+    },
+    {
+      "start": 7199.03,
+      "end": 7199.57,
+      "text": "If you're going to get"
+    },
+    {
+      "start": 7199.57,
+      "end": 7200.35,
+      "text": "your head down now"
+    },
+    {
+      "start": 7200.35,
+      "end": 7201.51,
+      "text": "at Reading for another day's"
+    },
+    {
+      "start": 7201.51,
+      "end": 7202.49,
+      "text": "fine entertainment tomorrow,"
+    },
+    {
+      "start": 7202.57,
+      "end": 7203.11,
+      "text": "have a good night."
+    },
+    {
+      "start": 7203.45,
+      "end": 7204.23,
+      "text": "Wherever you are,"
+    },
+    {
+      "start": 7204.35,
+      "end": 7205.29,
+      "text": "I'm Tommy Vance in London."
+    },
+    {
+      "start": 7205.59,
+      "end": 7206.79,
+      "text": "God bless and good night."
     }
   ]
 }

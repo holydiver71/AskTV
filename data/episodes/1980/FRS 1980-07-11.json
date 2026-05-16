@@ -19,5 +19,42 @@
       "track": "Genesis live at Lyceum, London 7th May 1980",
       "details": null
     }
+  ],
+  "transcript": [
+    {
+      "start": 1857.9,
+      "end": 1864.3,
+      "text": "You're listening to The Friday Rock Show and the program I hope you're enjoying is Genesis in Concert."
+    },
+    {
+      "start": 1864.3,
+      "end": 3555.94,
+      "text": "Listening to Genesis in Concert from BBC Radio 1."
+    },
+    {
+      "start": 3555.94,
+      "end": 3558.14,
+      "text": "This is The Friday Rock Show."
+    },
+    {
+      "start": 3558.14,
+      "end": 5325.22,
+      "text": "The Friday Rock Show. You're listening to Genesis in Concert."
+    },
+    {
+      "start": 5325.22,
+      "end": 7155.33,
+      "text": "Genesis in Concert as recorded during their recent sellout performances here in London."
+    },
+    {
+      "start": 7155.33,
+      "end": 7164.03,
+      "text": "And if you'd like a list of the tracks as broadcast just send me a stamped address envelope and I'll be more than happy to oblige."
+    },
+    {
+      "start": 7164.03,
+      "end": 7168.93,
+      "text": "Now next week, the Friday Rock Show is going to be introduced by one of rock's finest showmen, Ian Gillum."
+    }
   ]
 }

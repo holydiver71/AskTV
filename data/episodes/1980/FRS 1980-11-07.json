@@ -45,27 +45,32 @@
     {
       "artist": "Saxon",
       "track": "Taking Your Chances",
-      "details": "LP-Strong Arm of the Law"
+      "details": "LP-Strong Arm of the Law",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Hawkwind",
       "track": "Motor Way City",
-      "details": "LP-Levitation"
+      "details": "LP-Levitation",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Hibiscus",
       "track": "White Knight",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1238.48
     },
     {
       "artist": "Rush",
       "track": "The Trees",
-      "details": "LP-Hemispheres"
+      "details": "LP-Hemispheres",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1958.79
     },
     {
       "artist": "Hibiscus",
@@ -75,17 +80,20 @@
     {
       "artist": "Ozzy Osbourne",
       "track": "Mr. Crowley",
-      "details": "live single"
+      "details": "live single",
+      "verified_timestamp": 3739.35
     },
     {
       "artist": "Thin Lizzy",
       "track": "Emerald",
-      "details": "LP-Live and Dangerous"
+      "details": "LP-Live and Dangerous",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Scorpions",
       "track": "He’s a Woman - She’s a Man",
-      "details": "LP-Taken by Force"
+      "details": "LP-Taken by Force",
+      "verified_timestamp": 4239.93
     },
     {
       "artist": "John Mayall & The Bluesbreakers",
@@ -105,12 +113,14 @@
     {
       "artist": "Jon Anderson",
       "track": "For You, For Me",
-      "details": "LP-Song of Seven"
+      "details": "LP-Song of Seven",
+      "verified_timestamp": 5394.2
     },
     {
       "artist": "Eagles",
       "track": "Hotel California",
-      "details": "LP-Eagles Live"
+      "details": "LP-Eagles Live",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Hibiscus",
@@ -121,6 +131,998 @@
       "artist": null,
       "track": "tape ends",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.84,
+      "end": 32.68,
+      "text": "This is Tommy Vance on Radio 1."
+    },
+    {
+      "start": 32.7,
+      "end": 34.5,
+      "text": "Never stopped to wonder why"
+    },
+    {
+      "start": 34.5,
+      "end": 37.99,
+      "text": "Never learned the town"
+    },
+    {
+      "start": 37.99,
+      "end": 40.86,
+      "text": "Didn't wanna be around"
+    },
+    {
+      "start": 40.86,
+      "end": 43.75,
+      "text": "Take me down"
+    },
+    {
+      "start": 43.75,
+      "end": 45.65,
+      "text": "Life is just a slow train"
+    },
+    {
+      "start": 45.65,
+      "end": 46.85,
+      "text": "Crawling up a hill"
+    },
+    {
+      "start": 46.85,
+      "end": 452.52,
+      "text": "For the archives"
+    },
+    {
+      "start": 452.52,
+      "end": 453.56,
+      "text": "put together in the studios"
+    },
+    {
+      "start": 453.56,
+      "end": 455.2,
+      "text": "of the BBC in April 1965,"
+    },
+    {
+      "start": 455.56,
+      "end": 456.48,
+      "text": "that was John Mayall,"
+    },
+    {
+      "start": 456.56,
+      "end": 457.08,
+      "text": "and as I said,"
+    },
+    {
+      "start": 457.12,
+      "end": 458.22,
+      "text": "to the best of our knowledge,"
+    },
+    {
+      "start": 458.38,
+      "end": 460.24,
+      "text": "Mr. Clapton was on the guitar."
+    },
+    {
+      "start": 462.64,
+      "end": 463.34,
+      "text": "Three tracks you heard,"
+    },
+    {
+      "start": 463.42,
+      "end": 463.96,
+      "text": "the first one was"
+    },
+    {
+      "start": 463.96,
+      "end": 464.66,
+      "text": "Crawling Up a Hill,"
+    },
+    {
+      "start": 464.82,
+      "end": 466.14,
+      "text": "the second, Crocodile Walk,"
+    },
+    {
+      "start": 466.2,
+      "end": 467.38,
+      "text": "and then last one"
+    },
+    {
+      "start": 467.38,
+      "end": 468.34,
+      "text": "was Bye Bye Bird,"
+    },
+    {
+      "start": 468.4,
+      "end": 469.18,
+      "text": "and there's a great version"
+    },
+    {
+      "start": 469.18,
+      "end": 469.72,
+      "text": "of that song,"
+    },
+    {
+      "start": 469.72,
+      "end": 472.2,
+      "text": "Bye Bye Bird on the Moody Blues first LP."
+    },
+    {
+      "start": 472.76,
+      "end": 474.66,
+      "text": "Also recorded, I think, around about 1965,"
+    },
+    {
+      "start": 474.92,
+      "end": 477.66,
+      "text": "back in the days when it incorporated Mr. Denny Lane."
+    },
+    {
+      "start": 477.92,
+      "end": 479.42,
+      "text": "More from John Mayall later."
+    },
+    {
+      "start": 482.72,
+      "end": 484.92,
+      "text": "Saxon are going to be on Rock on Saturday tomorrow."
+    },
+    {
+      "start": 485.08,
+      "end": 486.7,
+      "text": "They're also on the Friday Rock Show."
+    },
+    {
+      "start": 1134.46,
+      "end": 1135.86,
+      "text": "And that's something that band could record"
+    },
+    {
+      "start": 1135.86,
+      "end": 1138.8,
+      "text": "the telephone directory of any town or city in the world,"
+    },
+    {
+      "start": 1138.86,
+      "end": 1139.58,
+      "text": "and I'd like it."
+    },
+    {
+      "start": 1139.64,
+      "end": 1140.64,
+      "text": "They're such a good band."
+    },
+    {
+      "start": 1140.7,
+      "end": 1141.72,
+      "text": "Whoever's in the band."
+    },
+    {
+      "start": 1142.48,
+      "end": 1144.4,
+      "text": "Because they change every once in a while, don't they?"
+    },
+    {
+      "start": 1144.68,
+      "end": 1146.88,
+      "text": "Have us hawk wind on a track from their new album."
+    },
+    {
+      "start": 1146.88,
+      "end": 1148.06,
+      "text": "The album's called Levitation."
+    },
+    {
+      "start": 1148.52,
+      "end": 1149.9,
+      "text": "The track was Motorway City."
+    },
+    {
+      "start": 1152.36,
+      "end": 1153.8,
+      "text": "Played a bit of Hawkwind for loads of people,"
+    },
+    {
+      "start": 1153.88,
+      "end": 1157.32,
+      "text": "including Mark and Robin and Tony and Adrian and Ian and Simon and Philip and Joanne"
+    },
+    {
+      "start": 1157.32,
+      "end": 1160.38,
+      "text": "and Kate and Claire and Liz and Jane and everybody else who went to the Isle of Wight camp."
+    },
+    {
+      "start": 1160.96,
+      "end": 1163.92,
+      "text": "Also, Toby, Windy, Pete, Amish, Mobbin."
+    },
+    {
+      "start": 1164.54,
+      "end": 1165.36,
+      "text": "Can't read the next one."
+    },
+    {
+      "start": 1165.42,
+      "end": 1166.68,
+      "text": "It could be Phyllis or Phoebe."
+    },
+    {
+      "start": 1166.68,
+      "end": 1170.98,
+      "text": "And all the other cranium crushers of William Parker, Upper Sixth in Hastings."
+    },
+    {
+      "start": 1171.44,
+      "end": 1174.42,
+      "text": "Thank you, says Gonzo and Rudolph the Red-Nosed Werewolf."
+    },
+    {
+      "start": 1175.24,
+      "end": 1179.1,
+      "text": "Also, Hawkwind was for Baz and Fraz and Arthur."
+    },
+    {
+      "start": 1179.88,
+      "end": 1183.16,
+      "text": "And all the good mates who go to the YF in Cheadle."
+    },
+    {
+      "start": 1183.38,
+      "end": 1187.4,
+      "text": "Good wishes for Nigel Fleming, who lives, what do you believe, in Cheadle?"
+    },
+    {
+      "start": 1188.16,
+      "end": 1192.44,
+      "text": "Hawken was also for a lady by the name of Elizabeth McCall, a good friend of John Cooper."
+    },
+    {
+      "start": 1192.66,
+      "end": 1193.84,
+      "text": "John lives in Glasgow."
+    },
+    {
+      "start": 1195.07,
+      "end": 1198.53,
+      "text": "Hawtwin, too, was for Hugh and for Goyne, or possibly Gwyn and for Phil,"
+    },
+    {
+      "start": 1198.77,
+      "end": 1200.67,
+      "text": "and for Paul and Mark and Ian and Alistair."
+    },
+    {
+      "start": 1201.05,
+      "end": 1202.43,
+      "text": "I sound like a telephone director."
+    },
+    {
+      "start": 1202.95,
+      "end": 1205.89,
+      "text": "And Dave and Wendy and Nick and Moy and Adam from Brecon."
+    },
+    {
+      "start": 1206.61,
+      "end": 1210.15,
+      "text": "And finally, for everybody who goes to Dunsmore School in rugby."
+    },
+    {
+      "start": 1210.73,
+      "end": 1213.63,
+      "text": "And before that, you heard something from the new album by Motor."
+    },
+    {
+      "start": 1213.75,
+      "end": 1214.85,
+      "text": "I beg your pardon, by Saxon."
+    },
+    {
+      "start": 1214.89,
+      "end": 1216.25,
+      "text": "The album's called Strong Arm of the Law."
+    },
+    {
+      "start": 1216.69,
+      "end": 1218.03,
+      "text": "The track was Taking Your Chances,"
+    },
+    {
+      "start": 1218.37,
+      "end": 1220.37,
+      "text": "and that was for all the good friends of Mr David Crook,"
+    },
+    {
+      "start": 1221.01,
+      "end": 1227.74,
+      "text": "whom I'm absolutely sure isn't."
+    },
+    {
+      "start": 1227.86,
+      "end": 1229.78,
+      "text": "It's just about 16 minutes to 11."
+    },
+    {
+      "start": 1229.92,
+      "end": 1232.22,
+      "text": "Here's a new band you've probably never heard of before."
+    },
+    {
+      "start": 1232.68,
+      "end": 1235.14,
+      "text": "They were formed in 1975 in Sunderland."
+    },
+    {
+      "start": 1235.3,
+      "end": 1236.14,
+      "text": "They now live in London."
+    },
+    {
+      "start": 1236.26,
+      "end": 1237.36,
+      "text": "They've been here for three years."
+    },
+    {
+      "start": 1237.8,
+      "end": 1238.38,
+      "text": "Give them a chance."
+    },
+    {
+      "start": 1238.48,
+      "end": 1239.46,
+      "text": "They're called Hibiscus."
+    },
+    {
+      "start": 1240.06,
+      "end": 1916.76,
+      "text": "Bit of a classic by Rush from the album Hemispheres, The Trees."
+    },
+    {
+      "start": 1918.39,
+      "end": 1919.71,
+      "text": "For all the Rush freaks around the country,"
+    },
+    {
+      "start": 1919.87,
+      "end": 1921.35,
+      "text": "and good heavens, aren't there a lot of them,"
+    },
+    {
+      "start": 1921.47,
+      "end": 1924.27,
+      "text": "including Tony Hughes and everybody at the Green Garage in Abertillery."
+    },
+    {
+      "start": 1925.3,
+      "end": 1926.58,
+      "text": "And Abertillery, isn't it?"
+    },
+    {
+      "start": 1926.82,
+      "end": 1928.56,
+      "text": "Well, you know where it is, in Wales."
+    },
+    {
+      "start": 1929.89,
+      "end": 1933.75,
+      "text": "For Dave and Rich and Mark and Ray from Chelmsley Wood."
+    },
+    {
+      "start": 1934.49,
+      "end": 1938.79,
+      "text": "And for Andy and all his friends who live in Scotland."
+    },
+    {
+      "start": 1939.84,
+      "end": 1941.68,
+      "text": "And lots of love to Tracy from Neil Reid."
+    },
+    {
+      "start": 1942.46,
+      "end": 1947.12,
+      "text": "I'll also for Bod and Fletch and Mike and Matty the Welshman and Stakes the Hare, I think it is."
+    },
+    {
+      "start": 1947.24,
+      "end": 1949.22,
+      "text": "They all go to the Kingswood School in Bath."
+    },
+    {
+      "start": 1949.96,
+      "end": 1952.68,
+      "text": "And before that, the first of three from a new band by the name of Hibiscus."
+    },
+    {
+      "start": 1952.86,
+      "end": 1954.86,
+      "text": "The track you heard was called White Night."
+    },
+    {
+      "start": 1958.79,
+      "end": 1961.49,
+      "text": "Four minutes to eleven, it's time for the Friday Night Connection."
+    },
+    {
+      "start": 1961.75,
+      "end": 1963.35,
+      "text": "The last one on the air was a fortnight ago."
+    },
+    {
+      "start": 1963.35,
+      "end": 1967.93,
+      "text": "We played you the Four Horsemen of the Apocalypse track by Aphrodite's Child."
+    },
+    {
+      "start": 1968.05,
+      "end": 1969.81,
+      "text": "Then we played you a track from Quadrophenia."
+    },
+    {
+      "start": 1969.97,
+      "end": 1972.01,
+      "text": "And we played you something from Sab's Volume 4."
+    },
+    {
+      "start": 1972.73,
+      "end": 1974.33,
+      "text": "Just about everybody got the answer right."
+    },
+    {
+      "start": 1974.33,
+      "end": 1978.97,
+      "text": "In fact, I think something like 99.999% recurring."
+    },
+    {
+      "start": 1979.73,
+      "end": 1981.17,
+      "text": "The answer, of course, was four."
+    },
+    {
+      "start": 1981.47,
+      "end": 1984.77,
+      "text": "Four Horsemen, Quadrovina, and Sabs Volume 4."
+    },
+    {
+      "start": 1985.49,
+      "end": 1989.0,
+      "text": "But the person that gets the £10 record token is Mr. Phil Saunders,"
+    },
+    {
+      "start": 1989.12,
+      "end": 1992.9,
+      "text": "who lives at number 19, Woodcombe, St. Giles Estate, Whitchurch in Bristol."
+    },
+    {
+      "start": 1995.75,
+      "end": 1997.63,
+      "text": "So, Phil, you get yourself a £10 record token."
+    },
+    {
+      "start": 1997.71,
+      "end": 2000.41,
+      "text": "That will be in the post just as soon as I can raise the money out of Tony Wilson."
+    },
+    {
+      "start": 2000.49,
+      "end": 2004.51,
+      "text": "You know how hard it is, and it gets progressively more difficult as we stay on the air."
+    },
+    {
+      "start": 2004.51,
+      "end": 2007.73,
+      "text": "and you've put together a really tasty Friday Night Connection yourself."
+    },
+    {
+      "start": 2008.27,
+      "end": 2011.71,
+      "text": "And here it is, three bits of music within which there is a theme."
+    },
+    {
+      "start": 2012.71,
+      "end": 2874.7,
+      "text": "And that's our Friday Night Connection for tonight."
+    },
+    {
+      "start": 2874.7,
+      "end": 2881.25,
+      "text": "It is, of course, three bits of music with a theme or connection contained therein,"
+    },
+    {
+      "start": 2881.43,
+      "end": 2882.63,
+      "text": "intertwined within."
+    },
+    {
+      "start": 2884.04,
+      "end": 2888.72,
+      "text": "Put together by Mr. Phil Saunders of 19 Woodcombe St. Giles Estate Woodchurch in Bristol,"
+    },
+    {
+      "start": 2888.82,
+      "end": 2889.84,
+      "text": "if you think you know what it is."
+    },
+    {
+      "start": 2889.94,
+      "end": 2892.14,
+      "text": "And it's pretty, pretty simple, really."
+    },
+    {
+      "start": 2892.84,
+      "end": 2895.36,
+      "text": "Jot down your answer on a postcard, letter,"
+    },
+    {
+      "start": 2895.54,
+      "end": 2897.58,
+      "text": "any form of communication you like, and send it to"
+    },
+    {
+      "start": 2897.58,
+      "end": 2899.32,
+      "text": "The Friday Night Connection,"
+    },
+    {
+      "start": 2899.8,
+      "end": 2902.46,
+      "text": "The Friday Rock Show, BBC Radio 1,"
+    },
+    {
+      "start": 2902.82,
+      "end": 2905.08,
+      "text": "London, W1A, 4WW."
+    },
+    {
+      "start": 2905.88,
+      "end": 2908.39,
+      "text": "And if yours is the first card we pull out of the bag,"
+    },
+    {
+      "start": 2908.45,
+      "end": 2909.71,
+      "text": "the one that we find most attractive,"
+    },
+    {
+      "start": 2909.83,
+      "end": 2911.01,
+      "text": "with, of course, the correct answer,"
+    },
+    {
+      "start": 2911.61,
+      "end": 2913.47,
+      "text": "then you'll get yourself a £10 record token."
+    },
+    {
+      "start": 2913.89,
+      "end": 2914.91,
+      "text": "The best of luck."
+    },
+    {
+      "start": 2915.29,
+      "end": 2925.46,
+      "text": "The Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 2925.46,
+      "end": 2927.28,
+      "text": "It's 11 minutes after 11."
+    },
+    {
+      "start": 2927.46,
+      "end": 2929.9,
+      "text": "Sorry about the lack of personal mentions tonight"
+    },
+    {
+      "start": 2929.9,
+      "end": 2934.26,
+      "text": "for all the people that I met at the Birmingham football match last Sunday."
+    },
+    {
+      "start": 2934.36,
+      "end": 2937.38,
+      "text": "Unfortunately, I left the bits of paper at home on a shelf,"
+    },
+    {
+      "start": 2937.56,
+      "end": 2939.58,
+      "text": "but I'll dig them out and play them next week."
+    },
+    {
+      "start": 2940.1,
+      "end": 2943.12,
+      "text": "Meanwhile, for all of you, here's Hibiscus and I See the Sun."
+    },
+    {
+      "start": 2943.6,
+      "end": 3739.23,
+      "text": "I'm in Southampton on the 20th, or rather I should say the 2nd of October in this year."
+    },
+    {
+      "start": 3739.35,
+      "end": 3743.89,
+      "text": "That, of course, is the live version of Mr Crowley by Ozzy Osbourne's Blizzard of Ours,"
+    },
+    {
+      "start": 3744.31,
+      "end": 3748.71,
+      "text": "and it was released today, and I played it specially today for a gentleman who had a birthday yesterday."
+    },
+    {
+      "start": 3749.29,
+      "end": 3751.59,
+      "text": "I think he was 20, and he's feeling a bit depressed"
+    },
+    {
+      "start": 3751.59,
+      "end": 3753.13,
+      "text": "because he thinks he's past it all."
+    },
+    {
+      "start": 3753.29,
+      "end": 3754.15,
+      "text": "I doubt it very much."
+    },
+    {
+      "start": 3754.47,
+      "end": 3755.13,
+      "text": "His name is Duncan."
+    },
+    {
+      "start": 3755.57,
+      "end": 3757.21,
+      "text": "Best wishes from his sister."
+    },
+    {
+      "start": 3757.65,
+      "end": 3760.77,
+      "text": "His sister's name is Pauline, and they live in Croydon in Surrey."
+    },
+    {
+      "start": 3760.99,
+      "end": 3762.85,
+      "text": "And prior to that, you heard Hibiscus,"
+    },
+    {
+      "start": 3763.39,
+      "end": 3766.15,
+      "text": "and a track which is called I See the Sun."
+    },
+    {
+      "start": 3766.65,
+      "end": 3766.93,
+      "text": "Where?"
+    },
+    {
+      "start": 3805.66,
+      "end": 4238.37,
+      "text": "...from an album that came out in 1978,"
+    },
+    {
+      "start": 4238.57,
+      "end": 4239.93,
+      "text": "the album called Taken by Force."
+    },
+    {
+      "start": 4239.93,
+      "end": 4242.41,
+      "text": "The track was He's a Woman, She's a Man."
+    },
+    {
+      "start": 4243.37,
+      "end": 4245.47,
+      "text": "And that was for a gentleman by the name of Robin,"
+    },
+    {
+      "start": 4245.59,
+      "end": 4246.81,
+      "text": "Morrison Smith"
+    },
+    {
+      "start": 4246.81,
+      "end": 4248.26,
+      "text": "It seems"
+    },
+    {
+      "start": 4248.26,
+      "end": 4249.12,
+      "text": "It sums him up"
+    },
+    {
+      "start": 4249.12,
+      "end": 4249.8,
+      "text": "Beautifully"
+    },
+    {
+      "start": 4249.8,
+      "end": 4250.82,
+      "text": "But I didn't write that"
+    },
+    {
+      "start": 4250.82,
+      "end": 4251.42,
+      "text": "Somebody else did"
+    },
+    {
+      "start": 4251.42,
+      "end": 4252.2,
+      "text": "It's rather anonymous"
+    },
+    {
+      "start": 4252.2,
+      "end": 4253.3,
+      "text": "But obviously"
+    },
+    {
+      "start": 4253.3,
+      "end": 4254.34,
+      "text": "Somebody who knows him well"
+    },
+    {
+      "start": 4254.34,
+      "end": 4256.32,
+      "text": "Also played the Scorpions"
+    },
+    {
+      "start": 4256.32,
+      "end": 4257.52,
+      "text": "For Mark Jarvis"
+    },
+    {
+      "start": 4257.52,
+      "end": 4258.82,
+      "text": "And all his mates"
+    },
+    {
+      "start": 4258.82,
+      "end": 4259.9,
+      "text": "Who live in Amberley"
+    },
+    {
+      "start": 4259.9,
+      "end": 4260.88,
+      "text": "In Gloucestershire"
+    },
+    {
+      "start": 4260.88,
+      "end": 4262.02,
+      "text": "And prior to that"
+    },
+    {
+      "start": 4262.02,
+      "end": 4262.98,
+      "text": "You heard Thin Lizzy"
+    },
+    {
+      "start": 4262.98,
+      "end": 4264.08,
+      "text": "Live and Dangerous"
+    },
+    {
+      "start": 4264.08,
+      "end": 4264.58,
+      "text": "Was the album"
+    },
+    {
+      "start": 4264.58,
+      "end": 4265.64,
+      "text": "The track was Emerald"
+    },
+    {
+      "start": 4265.64,
+      "end": 4266.82,
+      "text": "And that was for"
+    },
+    {
+      "start": 4266.82,
+      "end": 4267.54,
+      "text": "Stan and Alice"
+    },
+    {
+      "start": 4267.54,
+      "end": 4268.34,
+      "text": "And Coxie and Smithy"
+    },
+    {
+      "start": 4268.34,
+      "end": 4269.3,
+      "text": "And Ian and Gav"
+    },
+    {
+      "start": 4269.3,
+      "end": 4270.28,
+      "text": "And everybody else"
+    },
+    {
+      "start": 4270.28,
+      "end": 4271.8,
+      "text": "Best wishes from G Hilton"
+    },
+    {
+      "start": 4271.8,
+      "end": 4273.3,
+      "text": "Also very best wishes"
+    },
+    {
+      "start": 4273.3,
+      "end": 4274.04,
+      "text": "To a load of people"
+    },
+    {
+      "start": 4274.04,
+      "end": 4275.0,
+      "text": "Who are at the moment"
+    },
+    {
+      "start": 4275.0,
+      "end": 4277.66,
+      "text": "involved in the 36-hour table tennis marathon"
+    },
+    {
+      "start": 4277.66,
+      "end": 4280.3,
+      "text": "in Rishton in Blackburn."
+    },
+    {
+      "start": 4280.82,
+      "end": 4283.16,
+      "text": "They're all members of the Rishton Scout Group."
+    },
+    {
+      "start": 4283.56,
+      "end": 4286.68,
+      "text": "That's Adam and Timmy and Martin and Carl and Michael."
+    },
+    {
+      "start": 4286.9,
+      "end": 4288.26,
+      "text": "Keep on batting that ball."
+    },
+    {
+      "start": 4293.08,
+      "end": 4294.74,
+      "text": "It's 26 and a half minutes to midnight."
+    },
+    {
+      "start": 4294.92,
+      "end": 4295.8,
+      "text": "Back into the archives."
+    },
+    {
+      "start": 4296.02,
+      "end": 4298.58,
+      "text": "Now we go back to 1967 for more John Mayall."
+    },
+    {
+      "start": 4343.32,
+      "end": 4734.34,
+      "text": "According to John Mayall,"
+    },
+    {
+      "start": 4734.4,
+      "end": 4736.22,
+      "text": "if you were listening to the light program"
+    },
+    {
+      "start": 4736.22,
+      "end": 4739.34,
+      "text": "as it was in those days in, what, January 1967,"
+    },
+    {
+      "start": 4739.34,
+      "end": 4741.58,
+      "text": "You would have heard that the first time it went out."
+    },
+    {
+      "start": 4741.68,
+      "end": 4743.04,
+      "text": "Three numbers by John Mayall."
+    },
+    {
+      "start": 4743.34,
+      "end": 4744.92,
+      "text": "Leapin' Christine was the last one."
+    },
+    {
+      "start": 4745.34,
+      "end": 4746.42,
+      "text": "Before that, Sittin' in the Rain."
+    },
+    {
+      "start": 4746.64,
+      "end": 4749.6,
+      "text": "And prior to that, Riding on the L and N."
+    },
+    {
+      "start": 4749.94,
+      "end": 4751.42,
+      "text": "John Anderson's got a new album out."
+    },
+    {
+      "start": 4751.7,
+      "end": 4752.7,
+      "text": "Here's a track from it."
+    },
+    {
+      "start": 5382.5,
+      "end": 5383.44,
+      "text": "Absolute magic."
+    },
+    {
+      "start": 5383.82,
+      "end": 5387.22,
+      "text": "From the new double album that's just come out called Eagles Live, The Eagles There,"
+    },
+    {
+      "start": 5387.4,
+      "end": 5389.34,
+      "text": "and a live version of Hotel California."
+    },
+    {
+      "start": 5389.92,
+      "end": 5392.22,
+      "text": "And before that, something from the brand new album by John Anderson."
+    },
+    {
+      "start": 5392.44,
+      "end": 5393.12,
+      "text": "It's a good one."
+    },
+    {
+      "start": 5393.18,
+      "end": 5394.14,
+      "text": "It's called Song of Seven."
+    },
+    {
+      "start": 5394.2,
+      "end": 5396.12,
+      "text": "The track was For You, For Me."
+    },
+    {
+      "start": 5396.66,
+      "end": 5399.18,
+      "text": "And now we're going to play our last from Bob Corner,"
+    },
+    {
+      "start": 5399.3,
+      "end": 5401.16,
+      "text": "who plays the keyboards, Graham Close on the guitar,"
+    },
+    {
+      "start": 5401.36,
+      "end": 5404.18,
+      "text": "Kevin Moore on the bass, and Pete Saunders on the drums."
+    },
+    {
+      "start": 5404.52,
+      "end": 5408.98,
+      "text": "The four gentlemen who came down from Sunderland some three years ago"
+    },
+    {
+      "start": 5408.98,
+      "end": 5411.5,
+      "text": "down to London, and they're trying to get a recording deal"
+    },
+    {
+      "start": 5411.5,
+      "end": 5412.62,
+      "text": "and also a publishing deal."
+    },
+    {
+      "start": 5412.72,
+      "end": 5415.1,
+      "text": "So if anybody's interested, after they hear this,"
+    },
+    {
+      "start": 5415.26,
+      "end": 5418.02,
+      "text": "well, write to us and we'll let you know where to find Hibiscus."
+    },
+    {
+      "start": 5418.02,
+      "end": 5419.88,
+      "text": "This is called Quilter."
     }
   ]
 }

@@ -18,27 +18,32 @@
     {
       "artist": "Lynyrd Skynyrd",
       "track": "Freebird",
-      "details": "LP-Pronounced 'Lĕh-'nérd 'Skin-'nérd"
+      "details": "LP-Pronounced 'Lĕh-'nérd 'Skin-'nérd",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Phantom Of The Opera",
-      "details": "LP-Iron Maiden"
+      "details": "LP-Iron Maiden",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Magnum",
       "track": "In The Beginning",
-      "details": "LP-Marauder"
+      "details": "LP-Marauder",
+      "verified_timestamp": 1563.22
     },
     {
       "artist": "Brand X",
       "track": "Cambodia",
-      "details": "LP-Do They Hurt?"
+      "details": "LP-Do They Hurt?",
+      "verified_timestamp": 2158.08
     },
     {
       "artist": "Stingray",
       "track": "Lucy",
-      "details": "LP-Stingray"
+      "details": "LP-Stingray",
+      "verified_timestamp": 2152.1
     },
     {
       "artist": "Alice Cooper",
@@ -48,22 +53,26 @@
     {
       "artist": "Motorhead",
       "track": "Leaving Here",
-      "details": "Live EP-The Golden Years"
+      "details": "Live EP-The Golden Years",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.45
     },
     {
       "artist": "Zon",
       "track": "Circus",
-      "details": "LP-Back Down To Earth"
+      "details": "LP-Back Down To Earth",
+      "verified_timestamp": 3808.56
     },
     {
       "artist": "Wild Horses",
       "track": "Dealer",
-      "details": "LP-Wild Horses"
+      "details": "LP-Wild Horses",
+      "verified_timestamp": 3792.48
     },
     {
       "artist": "Climax Blues Band",
@@ -73,17 +82,817 @@
     {
       "artist": "Scorpions",
       "track": "Falling In Love",
-      "details": "LP-Animal Magnetism"
+      "details": "LP-Animal Magnetism",
+      "verified_timestamp": 7139.55
     },
     {
       "artist": "Supertramp",
       "track": "Sister Moonshine",
-      "details": "LP-Crisis? What Crisis?"
+      "details": "LP-Crisis? What Crisis?",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "38 Special",
       "track": "Turn It On",
-      "details": "LP-Rockin' Into The Night"
+      "details": "LP-Rockin' Into The Night",
+      "verified_timestamp": 7133.17
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.03,
+      "end": 12.03,
+      "text": "On 275 and 285, also in studio on VHF, this is National Radio 1."
+    },
+    {
+      "start": 12.03,
+      "end": 29.14,
+      "text": "Oh hello there, Thomas the Vance here, TV on the radio, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.14,
+      "end": 36.14,
+      "text": "Tonight, a repeat of the set that was put out from the stage at Reading last year by the USA-based UK group Climax Blues Band,"
+    },
+    {
+      "start": 36.14,
+      "end": 42.14,
+      "text": "who've been together now for 12 years, but still manage to stay nice and fresh."
+    },
+    {
+      "start": 42.14,
+      "end": 60.19,
+      "text": "we've got new releases by iron maiden brand x stingray motorhead zon wild horses the scorpions"
+    },
+    {
+      "start": 60.19,
+      "end": 66.45,
+      "text": "and 38 special classic cuts by alice cooper and super trying who super tramp thank you among"
+    },
+    {
+      "start": 66.45,
+      "end": 70.93,
+      "text": "others not forgetting our friday night connection and a little titillation comes into your life"
+    },
+    {
+      "start": 70.93,
+      "end": 611.4,
+      "text": "this evening we start with this leonard skinner and freebird especially for all the lads in the"
+    },
+    {
+      "start": 611.4,
+      "end": 615.08,
+      "text": "exeter holiday camp that's stick and dewey and brad and mitch and pete and dick and ivor and"
+    },
+    {
+      "start": 615.08,
+      "end": 616.24,
+      "text": "Ditch and Phil."
+    },
+    {
+      "start": 616.94,
+      "end": 620.12,
+      "text": "And also for John, who lives in Whitehaven in Cumbria."
+    },
+    {
+      "start": 620.8,
+      "end": 623.4,
+      "text": "And for Simon Carr, who lives in Eton in Windsor."
+    },
+    {
+      "start": 625.04,
+      "end": 628.22,
+      "text": "For a couple of people who are on the 1st of May going to go over to Johannesburg,"
+    },
+    {
+      "start": 628.34,
+      "end": 629.82,
+      "text": "good luck to you, John and Linda Rogers."
+    },
+    {
+      "start": 630.28,
+      "end": 633.46,
+      "text": "Not forgetting a gentleman by the name of Adrian Thomas, who lives in Port Talbot."
+    },
+    {
+      "start": 634.27,
+      "end": 636.81,
+      "text": "And Arv and Arnie and Sprin from Telford."
+    },
+    {
+      "start": 637.71,
+      "end": 642.73,
+      "text": "And also Mike and Tom and Annabelle and John, who live in Westfield in Hastings."
+    },
+    {
+      "start": 643.59,
+      "end": 646.29,
+      "text": "And for a lovely lady by the name of Leslie McEwan,"
+    },
+    {
+      "start": 646.45,
+      "end": 649.45,
+      "text": "who lives at the Manor Hospital Nurses' Home in Walsall in Staffordshire,"
+    },
+    {
+      "start": 649.55,
+      "end": 651.41,
+      "text": "wants me to mention Tony and Peter and Tony,"
+    },
+    {
+      "start": 651.81,
+      "end": 654.37,
+      "text": "Ozzy Plant, Kenny, Paul, Paul, Charlie,"
+    },
+    {
+      "start": 654.41,
+      "end": 657.35,
+      "text": "and all the other long-haired, denim-clad rock freaks."
+    },
+    {
+      "start": 657.69,
+      "end": 659.69,
+      "text": "Not forgetting her mum, Maureen."
+    },
+    {
+      "start": 663.11,
+      "end": 664.77,
+      "text": "And here's something new from Iron Maiden."
+    },
+    {
+      "start": 665.09,
+      "end": 1561.06,
+      "text": "That was Magnum off their album Marauder,"
+    },
+    {
+      "start": 1561.16,
+      "end": 1563.22,
+      "text": "which is just about to come out on Jet Records."
+    },
+    {
+      "start": 1563.22,
+      "end": 1565.02,
+      "text": "The track you heard was In The Beginning."
+    },
+    {
+      "start": 1565.46,
+      "end": 1567.44,
+      "text": "And before that, you heard something from Iron Maiden"
+    },
+    {
+      "start": 1567.44,
+      "end": 1568.86,
+      "text": "from their eponymous album,"
+    },
+    {
+      "start": 1569.28,
+      "end": 1572.54,
+      "text": "And the track was Phantom of the Opera, and that's a really tasty album."
+    },
+    {
+      "start": 1572.66,
+      "end": 1573.28,
+      "text": "It's out on EMI."
+    },
+    {
+      "start": 1574.76,
+      "end": 1577.42,
+      "text": "And I'd like to dedicate that to a gentleman by the name of Mark Smith."
+    },
+    {
+      "start": 1577.58,
+      "end": 1580.06,
+      "text": "It's his 17th birthday tomorrow, the 19th of April."
+    },
+    {
+      "start": 1580.18,
+      "end": 1582.56,
+      "text": "He lives at 62 Edgeware Road, Erdington, in Birmingham."
+    },
+    {
+      "start": 1582.86,
+      "end": 1585.34,
+      "text": "And Steve, send your best wishes, Mark."
+    },
+    {
+      "start": 1585.94,
+      "end": 1589.46,
+      "text": "And I'd like to thank you, Steve, for this remarkably beautiful postcard"
+    },
+    {
+      "start": 1589.46,
+      "end": 1592.44,
+      "text": "of that wonderful British site, the Bullring in Birmingham."
+    },
+    {
+      "start": 1593.7,
+      "end": 1596.46,
+      "text": "Also dedicate those couple of tracks to everybody in the fourth year,"
+    },
+    {
+      "start": 1596.46,
+      "end": 1613.66,
+      "text": "all the heavy metal freaks at cleave comprehensive school in gloucestershire 10 27 and here's"
+    },
+    {
+      "start": 1613.66,
+      "end": 2146.9,
+      "text": "something new from brand x thing is reincarnation bring me back with a voice like that either that"
+    },
+    {
+      "start": 2146.9,
+      "end": 2152.1,
+      "text": "or eric clapton's favorite guitar that's a south african band by the name of stingray and a track"
+    },
+    {
+      "start": 2152.1,
+      "end": 2158.08,
+      "text": "from an album that's out on korea called stingray the track was lucy and before that you heard"
+    },
+    {
+      "start": 2158.08,
+      "end": 2163.12,
+      "text": "something from the new brand x album the album's called they hurt the track was cambodia featured"
+    },
+    {
+      "start": 2163.12,
+      "end": 2168.24,
+      "text": "the drum sound of mike clark phil collins only plays drums on a couple of cuts but it's still"
+    },
+    {
+      "start": 2168.24,
+      "end": 2657.32,
+      "text": "a good album avp that's just come out it's called the golden years and the track that we played was"
+    },
+    {
+      "start": 2657.32,
+      "end": 2663.5,
+      "text": "leaving here and it was for pete simon so number 27 i think it's hague road all the shot in hands"
+    },
+    {
+      "start": 2663.5,
+      "end": 2669.0,
+      "text": "from his cousin who is leslie peele sends her very best wishes for your birthday today good luck"
+    },
+    {
+      "start": 2669.0,
+      "end": 2674.5,
+      "text": "and also with sir tigger and sean and john and fag and radish they all live in and around"
+    },
+    {
+      "start": 2674.5,
+      "end": 2676.22,
+      "text": "and Stratford-on-Avon, a nice part of the world."
+    },
+    {
+      "start": 2676.84,
+      "end": 2678.96,
+      "text": "And for Alan Burridge of the Motorhead magazine."
+    },
+    {
+      "start": 2679.76,
+      "end": 2683.18,
+      "text": "And also for Jazz Brock of No. 2 Cobden Road in Edinburgh."
+    },
+    {
+      "start": 2683.78,
+      "end": 2686.77,
+      "text": "And for everybody who lives at No. 8 Brownland Avenue,"
+    },
+    {
+      "start": 2686.95,
+      "end": 2689.29,
+      "text": "Durbin Field, I think it possibly is, in Cheshire."
+    },
+    {
+      "start": 2689.61,
+      "end": 2691.75,
+      "text": "That's Alexander Dashak."
+    },
+    {
+      "start": 2693.23,
+      "end": 2695.43,
+      "text": "And not forgetting Jez and Pete and Mick and Larry and Ev"
+    },
+    {
+      "start": 2695.43,
+      "end": 2698.53,
+      "text": "and Loner and Midge and Dave and Kaz and Tone and Bob and Rat and Kitten."
+    },
+    {
+      "start": 2699.17,
+      "end": 2702.92,
+      "text": "And Mick Lee, who wants me to say hello to everybody at the Hungry Years."
+    },
+    {
+      "start": 2702.92,
+      "end": 2705.52,
+      "text": "A track before that was from the Alice Cooper Show."
+    },
+    {
+      "start": 2705.66,
+      "end": 2706.82,
+      "text": "It's just come out on Warner Brothers."
+    },
+    {
+      "start": 2706.94,
+      "end": 2708.68,
+      "text": "It was Alice Cooper and I'm 18."
+    },
+    {
+      "start": 2709.26,
+      "end": 2712.74,
+      "text": "And that was for everybody at the Warrington Art College, I think it is,"
+    },
+    {
+      "start": 2712.82,
+      "end": 2715.04,
+      "text": "in and around Halewood in Liverpool."
+    },
+    {
+      "start": 2719.21,
+      "end": 2722.41,
+      "text": "It's exactly a quarter to 11 and it's time for the Friday Night Connection."
+    },
+    {
+      "start": 2722.41,
+      "end": 2725.93,
+      "text": "The tracks we played in last work, week, work, week, work, work, week,"
+    },
+    {
+      "start": 2726.33,
+      "end": 2729.87,
+      "text": "were Lay Lady Lay by Bob Dylan from the album Nashville Skyline, Venus,"
+    },
+    {
+      "start": 2730.49,
+      "end": 2731.89,
+      "text": "by television from Marky Moon,"
+    },
+    {
+      "start": 2732.45,
+      "end": 2735.01,
+      "text": "and Tarot Woman from Richie Blackmore's Rainbow."
+    },
+    {
+      "start": 2735.81,
+      "end": 2736.95,
+      "text": "Not a lot of answers."
+    },
+    {
+      "start": 2737.33,
+      "end": 2739.73,
+      "text": "Very, very few right ones, I told you."
+    },
+    {
+      "start": 2739.83,
+      "end": 2741.09,
+      "text": "It was a bit of a catchy one."
+    },
+    {
+      "start": 2742.28,
+      "end": 2748.0,
+      "text": "The right answer comes from John, who lives at 27 Townsend Close, Cranfield in Bedfordshire."
+    },
+    {
+      "start": 2748.0,
+      "end": 2755.74,
+      "text": "And the answer was Nashville Skyline, the Nashville, Marquee Moon, the Marquee, Blackmoor's Rainbow, the Rainbow, all London venues."
+    },
+    {
+      "start": 2756.87,
+      "end": 2757.25,
+      "text": "Gotcha."
+    },
+    {
+      "start": 2760.39,
+      "end": 2763.01,
+      "text": "John in Cranfield, of course, gets a £10 record token."
+    },
+    {
+      "start": 2763.45,
+      "end": 2765.87,
+      "text": "And, of course, has put together a Friday night connection as well."
+    },
+    {
+      "start": 2766.7,
+      "end": 2767.78,
+      "text": "It's quite a tricky one."
+    },
+    {
+      "start": 2767.78,
+      "end": 3198.38,
+      "text": "it's very melodic do not change channels this is not radio three cranfield and bedfordshire"
+    },
+    {
+      "start": 3198.38,
+      "end": 3204.62,
+      "text": "three bits of music with the most definite theme running through them but where is it's up to you"
+    },
+    {
+      "start": 3204.62,
+      "end": 3215.42,
+      "text": "to find it now if you think you know what it is and let me tell you it's pretty straightforward"
+    },
+    {
+      "start": 3215.42,
+      "end": 3221.06,
+      "text": "yet pretty tricky jot the answer down on a postcard a letter any form of communication"
+    },
+    {
+      "start": 3221.06,
+      "end": 3228.52,
+      "text": "you like and send it to tommy vance a friday night connection the friday rock show bbc radio one"
+    },
+    {
+      "start": 3229.04,
+      "end": 3231.54,
+      "text": "London, W1A4WW."
+    },
+    {
+      "start": 3232.24,
+      "end": 3235.36,
+      "text": "Don't forget, though, to put together your own Friday night connection as well."
+    },
+    {
+      "start": 3235.46,
+      "end": 3237.86,
+      "text": "Three bits of music for the theme we're running through."
+    },
+    {
+      "start": 3238.2,
+      "end": 3240.89,
+      "text": "You're lucky, and you win."
+    },
+    {
+      "start": 3241.35,
+      "end": 3243.19,
+      "text": "You get yourself a £10 record token."
+    },
+    {
+      "start": 3250.21,
+      "end": 3251.83,
+      "text": "Right, six minutes to eleven."
+    },
+    {
+      "start": 3252.05,
+      "end": 3253.99,
+      "text": "Here's a band you might not have heard of before."
+    },
+    {
+      "start": 3254.17,
+      "end": 3255.55,
+      "text": "They're called Zon."
+    },
+    {
+      "start": 3256.15,
+      "end": 3792.34,
+      "text": "It's called Wild Horses."
+    },
+    {
+      "start": 3792.48,
+      "end": 3795.04,
+      "text": "It's by Wild Horses, and the track was Dealer."
+    },
+    {
+      "start": 3799.08,
+      "end": 3801.86,
+      "text": "And for that, something by a band called Zon."
+    },
+    {
+      "start": 3802.0,
+      "end": 3802.96,
+      "text": "Z-O-N."
+    },
+    {
+      "start": 3802.96,
+      "end": 3808.56,
+      "text": "they're a five-piece band from canada the album's available on import it's on the epic label the"
+    },
+    {
+      "start": 3808.56,
+      "end": 3814.8,
+      "text": "album's called back down to earth and the track was circus i played that for a load of ladies"
+    },
+    {
+      "start": 3814.8,
+      "end": 3820.68,
+      "text": "who should just about be coming through the door from a disco up there in dundee other ladies who"
+    },
+    {
+      "start": 3820.68,
+      "end": 3824.98,
+      "text": "are probably congregating tonight at number 16 king hern terrace i think it is and that's"
+    },
+    {
+      "start": 3824.98,
+      "end": 3832.04,
+      "text": "kathleen and denise and jillian and leslie and jeanette and allison evening ladies i also played"
+    },
+    {
+      "start": 3832.04,
+      "end": 3836.82,
+      "text": "it for phil and kathy gilbert at number 22a beaumont street emily near huddersfield in west"
+    },
+    {
+      "start": 3836.82,
+      "end": 3842.28,
+      "text": "yorkshire because tonight is their 10th anniversary and as always on a friday night it seems they"
+    },
+    {
+      "start": 3842.28,
+      "end": 3848.35,
+      "text": "dine together in candlelight in their palatial mansion in emily and on this letter it says"
+    },
+    {
+      "start": 3848.35,
+      "end": 3856.24,
+      "text": "from phil p.s could you tell my wife kathy i love her very much no phil i won't you do it right now"
+    },
+    {
+      "start": 3856.24,
+      "end": 3862.12,
+      "text": "That'll be just it."
+    },
+    {
+      "start": 3862.48,
+      "end": 3866.48,
+      "text": "Climax Blues Band, as we recorded them at Reading way back last year."
+    },
+    {
+      "start": 3866.88,
+      "end": 3869.96,
+      "text": "It's about 40 minutes long, and it's good."
+    },
+    {
+      "start": 4496.59,
+      "end": 4825.4,
+      "text": "Get your hands up, night sea, another night time."
+    },
+    {
+      "start": 4825.44,
+      "end": 5140.04,
+      "text": "Everybody clap it."
+    },
+    {
+      "start": 5140.38,
+      "end": 6256.23,
+      "text": "Never Stop Working, formed in and around Stafford in 1968,"
+    },
+    {
+      "start": 6256.95,
+      "end": 6258.71,
+      "text": "and nowadays spend most of their time in America,"
+    },
+    {
+      "start": 6258.87,
+      "end": 6261.63,
+      "text": "but they came over last year to the Reading Festival and knocked everybody out."
+    },
+    {
+      "start": 6261.69,
+      "end": 6263.17,
+      "text": "The Climax Blues Band."
+    },
+    {
+      "start": 6263.81,
+      "end": 6264.97,
+      "text": "Tasty, tasty people."
+    },
+    {
+      "start": 6271.8,
+      "end": 6274.38,
+      "text": "A quick reminder here that next week we have our Eric Clapton special."
+    },
+    {
+      "start": 6274.52,
+      "end": 6276.68,
+      "text": "It's his first radio interview for four and a half years,"
+    },
+    {
+      "start": 6276.76,
+      "end": 6279.24,
+      "text": "and it's an exclusive preview of his double live album"
+    },
+    {
+      "start": 6279.24,
+      "end": 6281.04,
+      "text": "that's coming up soon called Just One Night."
+    },
+    {
+      "start": 6281.12,
+      "end": 6281.74,
+      "text": "That's next week."
+    },
+    {
+      "start": 6282.1,
+      "end": 6828.11,
+      "text": "...track to hear again."
+    },
+    {
+      "start": 6828.19,
+      "end": 6829.73,
+      "text": "Super Tramp from Crisis What Crisis,"
+    },
+    {
+      "start": 6829.95,
+      "end": 6831.55,
+      "text": "and the track, of course, was Sister Moonshine."
+    },
+    {
+      "start": 6831.65,
+      "end": 6833.09,
+      "text": "That was specially for Paul Margartson"
+    },
+    {
+      "start": 6833.09,
+      "end": 6835.77,
+      "text": "at No. 7 Thern Road, lowest off in Suffolk,"
+    },
+    {
+      "start": 6836.13,
+      "end": 6838.97,
+      "text": "and also for Mouse, a very special mouse"
+    },
+    {
+      "start": 6838.97,
+      "end": 6840.77,
+      "text": "with lots and lots of love from Mary."
+    },
+    {
+      "start": 6841.25,
+      "end": 6843.11,
+      "text": "And I got quite a long letter from Dave Telford,"
+    },
+    {
+      "start": 6843.11,
+      "end": 6844.97,
+      "text": "who lives in Bittern in Southampton."
+    },
+    {
+      "start": 6844.97,
+      "end": 6847.51,
+      "text": "mentions loads of people, wants me to say hello to everybody"
+    },
+    {
+      "start": 6847.51,
+      "end": 6849.91,
+      "text": "at the Itchen College Heavy Metal Appreciation Society."
+    },
+    {
+      "start": 6850.29,
+      "end": 6851.53,
+      "text": "Dil Tognat, Dave and Sarah."
+    },
+    {
+      "start": 6851.89,
+      "end": 6854.57,
+      "text": "Dave, Chris, Neil, Derek, Simon and Sarah, who's a mod,"
+    },
+    {
+      "start": 6854.65,
+      "end": 6856.89,
+      "text": "but we're working on her, says Dave."
+    },
+    {
+      "start": 6857.01,
+      "end": 6860.37,
+      "text": "And Dave has a little P.S. on his letter that goes,"
+    },
+    {
+      "start": 6860.49,
+      "end": 6863.07,
+      "text": "P.S., I bet you get some bloody silly letters."
+    },
+    {
+      "start": 6863.75,
+      "end": 6864.31,
+      "text": "Dave, you're right."
+    },
+    {
+      "start": 6864.91,
+      "end": 7130.83,
+      "text": "From an import album called Rocking Into The Night,"
+    },
+    {
+      "start": 7130.83,
+      "end": 7133.07,
+      "text": "it's on A&M Records, it's my 38th special,"
+    },
+    {
+      "start": 7133.17,
+      "end": 7134.25,
+      "text": "and the track was Turn It On."
+    },
+    {
+      "start": 7134.85,
+      "end": 7137.89,
+      "text": "And before Supertramp, I played a track from the new Scorpions album"
+    },
+    {
+      "start": 7137.89,
+      "end": 7139.37,
+      "text": "called Animal Magnetism."
+    },
+    {
+      "start": 7139.55,
+      "end": 7140.83,
+      "text": "The track was Falling In Love."
+    },
+    {
+      "start": 7141.49,
+      "end": 7143.63,
+      "text": "And I'm off on Monday to Paris, believe it or not,"
+    },
+    {
+      "start": 7143.67,
+      "end": 7145.93,
+      "text": "to see that band, and also I'll be chatting to them,"
+    },
+    {
+      "start": 7145.97,
+      "end": 7147.43,
+      "text": "and that will be on Rock On Saturday,"
+    },
+    {
+      "start": 7147.55,
+      "end": 7149.39,
+      "text": "not tomorrow, but the Saturday following."
+    },
+    {
+      "start": 7149.93,
+      "end": 7150.99,
+      "text": "Tomorrow on Rock On Saturday,"
+    },
+    {
+      "start": 7151.15,
+      "end": 7153.73,
+      "text": "B.B. King, ZZ Top, Gary Newman, and Good Music."
+    },
+    {
+      "start": 7154.21,
+      "end": 7155.37,
+      "text": "Four to 7.30."
+    },
+    {
+      "start": 7157.59,
+      "end": 7160.23,
+      "text": "Now, here's the sad news."
+    },
+    {
+      "start": 7161.18,
+      "end": 7163.26,
+      "text": "Unfortunately, Tony Wilson can't talk to you tonight"
+    },
+    {
+      "start": 7163.26,
+      "end": 7165.2,
+      "text": "because he's fractured one ankle"
+    },
+    {
+      "start": 7165.2,
+      "end": 7168.76,
+      "text": "and sprained the other on separate days."
+    },
+    {
+      "start": 7171.16,
+      "end": 7174.36,
+      "text": "So he can't talk, but he can say something, can't you?"
+    },
+    {
+      "start": 7174.5,
+      "end": 7176.72,
+      "text": "Two broken feet, and he still won't give me any time, Ed."
+    },
+    {
+      "start": 7178.52,
+      "end": 7180.42,
+      "text": "On two separate days, I kid you not."
+    },
+    {
+      "start": 7180.6,
+      "end": 7181.38,
+      "text": "What, I'll lie to you?"
+    },
+    {
+      "start": 7182.48,
+      "end": 7183.94,
+      "text": "Wherever you are, take care of yourselves."
+    },
+    {
+      "start": 7184.04,
+      "end": 7186.76,
+      "text": "Thanks to our engineering staff tonight here in Broadcasting House."
+    },
+    {
+      "start": 7186.84,
+      "end": 7188.48,
+      "text": "I'm Tommy Vance. I'll see you at four o'clock."
+    },
+    {
+      "start": 7189.32,
+      "end": 7190.82,
+      "text": "Good night, and God bless."
     }
   ]
 }

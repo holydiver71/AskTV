@@ -19,37 +19,44 @@
     {
       "artist": "Frank Marino And Mahogany Rush",
       "track": "'You've Got Living'",
-      "details": "LP-What's Next"
+      "details": "LP-What's Next",
+      "verified_timestamp": 568.62
     },
     {
       "artist": "Angel Witch",
       "track": "Angel Witch",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 557.16
     },
     {
       "artist": "Peter Gabriel",
       "track": "'I Don't Remember'",
-      "details": "LP-Peter Gabriel"
+      "details": "LP-Peter Gabriel",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Sensational Alex Harvey Band",
       "track": "Faith Healer",
-      "details": "LP-The Sensational Alex Harvey Band"
+      "details": "LP-The Sensational Alex Harvey Band",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "More",
       "track": "Atomic Rock",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 561.28
     },
     {
       "artist": "Whitesnake",
       "track": "Sweet Talker",
-      "details": "LP-Ready An' Willing"
+      "details": "LP-Ready An' Willing",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Tangerine Dream",
       "track": "Tangram Set 2",
-      "details": "LP-Tangram"
+      "details": "LP-Tangram",
+      "verified_timestamp": 2291.56
     },
     {
       "artist": "Angel Witch",
@@ -59,7 +66,8 @@
     {
       "artist": "Blue Oyster Cult",
       "track": "ETI",
-      "details": "LP-Some Enchanted Evening"
+      "details": "LP-Some Enchanted Evening",
+      "verified_timestamp": 4420.24
     },
     {
       "artist": "More",
@@ -69,12 +77,14 @@
     {
       "artist": "Colosseum II",
       "track": "The Inquisition",
-      "details": "LP-War Dance"
+      "details": "LP-War Dance",
+      "verified_timestamp": 3525.53
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.75
     },
     {
       "artist": "More",
@@ -84,22 +94,26 @@
     {
       "artist": "Linton Kwesi Johnson",
       "track": "Inglan Is A Bitch",
-      "details": "LP-Bass Culture"
+      "details": "LP-Bass Culture",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Tygers Of Pan Tang",
       "track": "'Rock 'n' Roll Man'",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 5481.06
     },
     {
       "artist": "Girlschool",
       "track": "Nothing To Lose",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Budgie",
       "track": "Breadfan",
-      "details": "LP-Never Turn Your Back On A Friend"
+      "details": "LP-Never Turn Your Back On A Friend",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Angel Witch",
@@ -114,12 +128,1430 @@
     {
       "artist": "Yes",
       "track": "Awaken",
-      "details": "LP-Going For The One"
+      "details": "LP-Going For The One",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Angel Witch",
       "track": "Angel Of Death",
       "details": "FRS Session"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 4.88,
+      "end": 21.29,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 21.29,
+      "end": 27.29,
+      "text": "Well, hello there. This is Thomas Vance here, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 27.29,
+      "end": 39.93,
+      "text": "Tonight, we repeat our session by Angel Witch, and we broadcast a first-ever session by a band called More, who can hardly afford to gig, have no record contract or management, but they sound absolutely great."
+    },
+    {
+      "start": 39.93,
+      "end": 59.02,
+      "text": "And we got classic cuts by the sensational Alex Harvey Band, Blue Oyster Cult, Colosseum II, Budgie, and Yes."
+    },
+    {
+      "start": 59.97,
+      "end": 64.65,
+      "text": "We have new stuff from Peter Gabriel, Whitesnake, Tangerine Dream, and the Tigers of Pantang, among others."
+    },
+    {
+      "start": 64.75,
+      "end": 67.53,
+      "text": "And the return of the Friday Night Connection, that highlight of the week."
+    },
+    {
+      "start": 68.39,
+      "end": 70.85,
+      "text": "This evening we start with Frank Marino and Mahogany Rush."
+    },
+    {
+      "start": 557.16,
+      "end": 560.16,
+      "text": "And Angel Witch from a session that we first put out during the month of February."
+    },
+    {
+      "start": 561.28,
+      "end": 563.94,
+      "text": "Good session as well, and we'll have more from them later."
+    },
+    {
+      "start": 564.18,
+      "end": 568.62,
+      "text": "Prior to that you heard something by Frank Marino and Mahogany Rush from their brand new album that's just come out."
+    },
+    {
+      "start": 568.62,
+      "end": 573.96,
+      "text": "The album is called What's Next, and the track we played was You Got Livin'."
+    },
+    {
+      "start": 573.96,
+      "end": 577.82,
+      "text": "And it's now nine and a half minutes after ten, and after this, there's something special."
+    },
+    {
+      "start": 580.37,
+      "end": 581.55,
+      "text": "And it's Peter Gabriel."
+    },
+    {
+      "start": 1227.95,
+      "end": 1231.87,
+      "text": "Sensational Alex Harvey Band from an album called The Sensational Alex Harvey Band"
+    },
+    {
+      "start": 1231.87,
+      "end": 1234.17,
+      "text": "in a series of albums called Rock Heavies."
+    },
+    {
+      "start": 1234.49,
+      "end": 1236.91,
+      "text": "One of my favorite tracks by them, it was called Faith Healer."
+    },
+    {
+      "start": 1237.03,
+      "end": 1238.95,
+      "text": "Let me tell you a little bit about the Rock Heavies series."
+    },
+    {
+      "start": 1239.09,
+      "end": 1242.25,
+      "text": "They're all on import from Germany, and it features loads of people like"
+    },
+    {
+      "start": 1242.25,
+      "end": 1245.27,
+      "text": "Backman, Turner, Overdrive, Rod Stewart, The Runaways, Atlantis"
+    },
+    {
+      "start": 1245.27,
+      "end": 1247.87,
+      "text": "Baker's Opera, Lucifer's Friend, Black Sabbath"
+    },
+    {
+      "start": 1247.87,
+      "end": 1251.73,
+      "text": "Baker Govett's Army, featuring Ginger Baker and Van de Graaff, Generator"
+    },
+    {
+      "start": 1251.73,
+      "end": 1255.05,
+      "text": "So they're called Rock Heavies and they're all available on import"
+    },
+    {
+      "start": 1255.05,
+      "end": 1259.01,
+      "text": "And before that, something from the new and long-awaited album by Peter Gabriel"
+    },
+    {
+      "start": 1259.01,
+      "end": 1261.13,
+      "text": "Which, just like the others, is called Peter Gabriel"
+    },
+    {
+      "start": 1261.13,
+      "end": 1262.41,
+      "text": "The track was I Don't Remember"
+    },
+    {
+      "start": 1262.41,
+      "end": 1266.13,
+      "text": "Got a cry from the heart here from a gentleman by the name of Paddy Hobbs"
+    },
+    {
+      "start": 1266.13,
+      "end": 1267.43,
+      "text": "Who lives in Tonbridge in Kent"
+    },
+    {
+      "start": 1267.43,
+      "end": 1270.45,
+      "text": "It seems that he's got a couple of O-levels to take"
+    },
+    {
+      "start": 1270.45,
+      "end": 1273.25,
+      "text": "on the day that he has obtained his rush tickets for."
+    },
+    {
+      "start": 1273.67,
+      "end": 1275.67,
+      "text": "He's got three 450 rush tickets,"
+    },
+    {
+      "start": 1276.07,
+      "end": 1277.45,
+      "text": "which are seats at the front of the circle,"
+    },
+    {
+      "start": 1277.67,
+      "end": 1279.97,
+      "text": "for Wednesday, June the 4th at Hammersmith."
+    },
+    {
+      "start": 1280.11,
+      "end": 1282.73,
+      "text": "He wants to swap them for three tickets"
+    },
+    {
+      "start": 1282.73,
+      "end": 1285.09,
+      "text": "of the same type of denomination and excellent seating"
+    },
+    {
+      "start": 1285.09,
+      "end": 1289.49,
+      "text": "for Friday the 6th or Saturday the 7th or Sunday the 8th."
+    },
+    {
+      "start": 1289.61,
+      "end": 1291.43,
+      "text": "All those gigs, of course, are at the Hammersmith Odeon."
+    },
+    {
+      "start": 1291.81,
+      "end": 1294.03,
+      "text": "So if you can help in that particular cry from the heart,"
+    },
+    {
+      "start": 1294.43,
+      "end": 1296.25,
+      "text": "why don't you write to us with your phone number"
+    },
+    {
+      "start": 1296.25,
+      "end": 1298.29,
+      "text": "and I'll pass it on to Paddy Hobbs. Thank you."
+    },
+    {
+      "start": 1302.02,
+      "end": 1306.74,
+      "text": "It's 10.21, and now we turn to a bunch of people who literally are, if you like, out on a limb."
+    },
+    {
+      "start": 1306.88,
+      "end": 1309.76,
+      "text": "They have no management, no nothing, in fact, except a bit of talent."
+    },
+    {
+      "start": 1310.32,
+      "end": 1314.4,
+      "text": "It's five guys, Kenny Cox, Paul Todd, Brian Day, Frank Darch, and Paul Day,"
+    },
+    {
+      "start": 1314.6,
+      "end": 1318.94,
+      "text": "and they call themselves More, and this is them, for the first time, on radio."
+    },
+    {
+      "start": 1319.72,
+      "end": 1728.15,
+      "text": "And that's a track from an album that I've had for about a week, and I don't take it off the turntable."
+    },
+    {
+      "start": 1728.15,
+      "end": 1731.69,
+      "text": "It's the new album by Whitesnake. The album title is Ready and Willin',"
+    },
+    {
+      "start": 1731.69,
+      "end": 1734.05,
+      "text": "and the track that we played there was called Sweet Talker,"
+    },
+    {
+      "start": 1734.05,
+      "end": 1736.07,
+      "text": "and they tour throughout the month of June the UK."
+    },
+    {
+      "start": 1737.09,
+      "end": 1740.05,
+      "text": "And I played that specially for a gentleman by the name of Mark Phillips,"
+    },
+    {
+      "start": 1740.17,
+      "end": 1741.73,
+      "text": "who knew he was going to be famous one day,"
+    },
+    {
+      "start": 1741.81,
+      "end": 1743.59,
+      "text": "with lots and lots of best wishes from Dickie,"
+    },
+    {
+      "start": 1743.97,
+      "end": 1746.83,
+      "text": "who lives at No. 4 Westwood Road, Allerton, in Liverpool."
+    },
+    {
+      "start": 1748.6,
+      "end": 1750.08,
+      "text": "10.29 on the Friday Rock Show,"
+    },
+    {
+      "start": 1750.2,
+      "end": 1753.34,
+      "text": "and now Claire Kendall wants me to say hello to Brian,"
+    },
+    {
+      "start": 1753.46,
+      "end": 1754.46,
+      "text": "whom she loves very much."
+    },
+    {
+      "start": 1754.54,
+      "end": 1755.32,
+      "text": "They live down in Bristol."
+    },
+    {
+      "start": 1755.98,
+      "end": 1759.36,
+      "text": "And Nick wants me to say, on behalf of all his mates,"
+    },
+    {
+      "start": 1759.36,
+      "end": 1761.78,
+      "text": "that's Ben and Kevin, Doug and Enty Boy and the BCB,"
+    },
+    {
+      "start": 1762.16,
+      "end": 1763.8,
+      "text": "would I please play a record coming up in a minute?"
+    },
+    {
+      "start": 1763.8,
+      "end": 1765.82,
+      "text": "I've got to mention Brian Matthews"
+    },
+    {
+      "start": 1765.82,
+      "end": 1767.4,
+      "text": "because he's after the same track as well"
+    },
+    {
+      "start": 1767.4,
+      "end": 1769.58,
+      "text": "and Sean, I think it's"
+    },
+    {
+      "start": 1769.58,
+      "end": 1771.76,
+      "text": "Weinstein of Highgate in London wants me to"
+    },
+    {
+      "start": 1771.76,
+      "end": 1778.62,
+      "text": "play, well this, which is"
+    },
+    {
+      "start": 1778.62,
+      "end": 1779.44,
+      "text": "Tangerine Dream"
+    },
+    {
+      "start": 1779.44,
+      "end": 2291.56,
+      "text": "...a bunch of German musicians, that's just part of"
+    },
+    {
+      "start": 2291.56,
+      "end": 2293.82,
+      "text": "Tangram Set 2, which is part"
+    },
+    {
+      "start": 2293.82,
+      "end": 2295.94,
+      "text": "of their new album, or one side"
+    },
+    {
+      "start": 2295.94,
+      "end": 2297.28,
+      "text": "of it, which is called Tangram"
+    },
+    {
+      "start": 2297.28,
+      "end": 2299.7,
+      "text": "Tangerine Dream, for all the Tangerine Dream"
+    },
+    {
+      "start": 2299.7,
+      "end": 2301.36,
+      "text": "fans who may be listening tonight"
+    },
+    {
+      "start": 2301.36,
+      "end": 2304.08,
+      "text": "who've requested their new material, and indeed their old material"
+    },
+    {
+      "start": 2304.08,
+      "end": 2305.62,
+      "text": "vociferously"
+    },
+    {
+      "start": 2306.0,
+      "end": 2307.86,
+      "text": "I really hope that they tour again soon in this country."
+    },
+    {
+      "start": 2307.94,
+      "end": 2311.54,
+      "text": "I've never seen them, and I'm just dying to sit in the hall and get involved in that mood."
+    },
+    {
+      "start": 2316.17,
+      "end": 2317.43,
+      "text": "Back to Angel Witch."
+    },
+    {
+      "start": 2317.85,
+      "end": 2857.29,
+      "text": "That was E.T.I. off the album that came out in 1978 by Blue Oyster Cult."
+    },
+    {
+      "start": 2857.39,
+      "end": 2861.03,
+      "text": "The track was called, or rather the album was called, Some Enchanted Evening."
+    },
+    {
+      "start": 2861.07,
+      "end": 2863.57,
+      "text": "And I played it specially for all culties everywhere,"
+    },
+    {
+      "start": 2863.85,
+      "end": 2866.73,
+      "text": "and particularly for Nigel B., who's a mate of Phil Jones,"
+    },
+    {
+      "start": 2866.91,
+      "end": 2870.69,
+      "text": "who lives at 15 Wyndham Street, somewhere in the Rhondda Valley."
+    },
+    {
+      "start": 2870.69,
+      "end": 2874.3,
+      "text": "and Jay of Ross-on-Wye in Heddafordshire"
+    },
+    {
+      "start": 2874.3,
+      "end": 2875.72,
+      "text": "wants me to say hello to all his mates"
+    },
+    {
+      "start": 2875.72,
+      "end": 2877.84,
+      "text": "that he used to go to school with at the Dovai School"
+    },
+    {
+      "start": 2877.84,
+      "end": 2878.9,
+      "text": "I think it's called in Reading"
+    },
+    {
+      "start": 2878.9,
+      "end": 2881.34,
+      "text": "especially Joe and Rabbit and Pig and Tobbs"
+    },
+    {
+      "start": 2881.34,
+      "end": 2882.92,
+      "text": "and Mick the Red and Dobber"
+    },
+    {
+      "start": 2882.92,
+      "end": 2884.94,
+      "text": "and also all the heavy metal freaks"
+    },
+    {
+      "start": 2884.94,
+      "end": 2887.2,
+      "text": "who live in and around Ross-on-Wye"
+    },
+    {
+      "start": 2887.2,
+      "end": 2889.54,
+      "text": "and before that you heard something by Angel Witch"
+    },
+    {
+      "start": 2889.54,
+      "end": 2891.32,
+      "text": "from our session that we're repeating by them"
+    },
+    {
+      "start": 2891.32,
+      "end": 2892.86,
+      "text": "that was recorded in February"
+    },
+    {
+      "start": 2892.86,
+      "end": 2894.62,
+      "text": "the track was Extermination Day"
+    },
+    {
+      "start": 2894.62,
+      "end": 2897.46,
+      "text": "and of course Angel Witch are going to go on a sort of mini tour"
+    },
+    {
+      "start": 2897.46,
+      "end": 2898.98,
+      "text": "along with Crocus and Girls School"
+    },
+    {
+      "start": 2898.98,
+      "end": 2901.02,
+      "text": "they'll be at the Lyceum this coming Sunday"
+    },
+    {
+      "start": 2901.4,
+      "end": 2903.52,
+      "text": "Then they're in Newcastle and Birmingham and Manchester."
+    },
+    {
+      "start": 2904.12,
+      "end": 2907.22,
+      "text": "And just for the record, the other day I dropped into the studios of Maid of Ale"
+    },
+    {
+      "start": 2907.22,
+      "end": 2910.9,
+      "text": "and saw a rather prostrate Mr. Wilson, who is a noted BBC producer,"
+    },
+    {
+      "start": 2911.44,
+      "end": 2914.58,
+      "text": "raving around in between two speakers and recording crocus."
+    },
+    {
+      "start": 2914.76,
+      "end": 2917.08,
+      "text": "And it's a good session. That'll be coming up in the near future."
+    },
+    {
+      "start": 2917.52,
+      "end": 2919.36,
+      "text": "Also, we have recorded..."
+    },
+    {
+      "start": 2919.36,
+      "end": 2922.02,
+      "text": "Well, we haven't recorded, but we're about to record Girl School,"
+    },
+    {
+      "start": 2922.78,
+      "end": 2925.12,
+      "text": "who are very good, and we're going to be playing their single later."
+    },
+    {
+      "start": 2927.23,
+      "end": 2927.85,
+      "text": "Do you want some more?"
+    },
+    {
+      "start": 2928.33,
+      "end": 3525.53,
+      "text": "Take me to music that came out in 1977."
+    },
+    {
+      "start": 3525.53,
+      "end": 3530.13,
+      "text": "It was Coliseum 2 from their album War Dance, and the track was called The Inquisition."
+    },
+    {
+      "start": 3530.65,
+      "end": 3535.41,
+      "text": "And that was specially for Charlie Watts and Andy Wainwright and any other jazz rock freaks around the country"
+    },
+    {
+      "start": 3535.41,
+      "end": 3542.13,
+      "text": "who know a gentleman, well, I assume he is, by the name of Robert Terry of No. 41 Abbey Road in Marlborough in Leicester."
+    },
+    {
+      "start": 3542.67,
+      "end": 3547.67,
+      "text": "And prior to that, you heard something from our session by Moore, and the track was called Way of the World."
+    },
+    {
+      "start": 3549.1,
+      "end": 3552.48,
+      "text": "It's a minute now to 11, and it's time for the revival of the Friday Night Connection."
+    },
+    {
+      "start": 3552.62,
+      "end": 3554.98,
+      "text": "Didn't have one last week because we were doing our flashback."
+    },
+    {
+      "start": 3555.7,
+      "end": 3557.26,
+      "text": "But we're going to do it right now."
+    },
+    {
+      "start": 3557.74,
+      "end": 3560.64,
+      "text": "The tracks that we played for you were, four night ago that is,"
+    },
+    {
+      "start": 3560.84,
+      "end": 3564.36,
+      "text": "Dolly Dagger by Hendrix, Hotel California, and that track by Stray,"
+    },
+    {
+      "start": 3564.48,
+      "end": 3566.38,
+      "text": "the title of which completely eludes me,"
+    },
+    {
+      "start": 3566.74,
+      "end": 3569.2,
+      "text": "as indeed as most everything else that happens in this world."
+    },
+    {
+      "start": 3569.88,
+      "end": 3573.88,
+      "text": "Nonetheless, the geezer that sent in the correct answer,"
+    },
+    {
+      "start": 3574.0,
+      "end": 3576.42,
+      "text": "at least the one that we chose, was Mike Howell,"
+    },
+    {
+      "start": 3576.84,
+      "end": 3579.6,
+      "text": "at number five, Blenheim Close, Wilmslow in Cheshire."
+    },
+    {
+      "start": 3579.94,
+      "end": 3581.72,
+      "text": "And the answer went like this."
+    },
+    {
+      "start": 3581.72,
+      "end": 3586.64,
+      "text": "dear tom this week's connection seems to be something to do with gruesome weapons like"
+    },
+    {
+      "start": 3586.64,
+      "end": 3596.49,
+      "text": "daggers and guns and knives and the man was absolutely accurate mike you get yourself a"
+    },
+    {
+      "start": 3596.49,
+      "end": 3600.83,
+      "text": "10 pound record token congratulations and i'm happy to say that you put together your own friday"
+    },
+    {
+      "start": 3600.83,
+      "end": 3607.72,
+      "text": "night connection as well which is pretty clever but also is darn good music so if you think you"
+    },
+    {
+      "start": 3607.72,
+      "end": 4381.73,
+      "text": "can find out what it is start listening about now 15 minutes after 11 o'clock and that was the"
+    },
+    {
+      "start": 4381.73,
+      "end": 4385.83,
+      "text": "friday night connection that was put together by mike howell who lives up there in wilmslow"
+    },
+    {
+      "start": 4385.83,
+      "end": 4390.82,
+      "text": "in cheshire actually mike the more i look at it the more complex i think it is but if you"
+    },
+    {
+      "start": 4390.82,
+      "end": 4394.58,
+      "text": "study the bits of music that we play there definitely is a friday night connection"
+    },
+    {
+      "start": 4394.58,
+      "end": 4396.74,
+      "text": "or if you like a theme"
+    },
+    {
+      "start": 4396.74,
+      "end": 4399.11,
+      "text": "or a thread running through"
+    },
+    {
+      "start": 4399.11,
+      "end": 4400.27,
+      "text": "all three bits of music."
+    },
+    {
+      "start": 4401.18,
+      "end": 4402.08,
+      "text": "Think you know what it is?"
+    },
+    {
+      "start": 4402.22,
+      "end": 4403.4,
+      "text": "Well, jot it down on a postcard"
+    },
+    {
+      "start": 4403.4,
+      "end": 4405.46,
+      "text": "or any form of communication you like"
+    },
+    {
+      "start": 4405.46,
+      "end": 4406.68,
+      "text": "and send it to me."
+    },
+    {
+      "start": 4406.76,
+      "end": 4407.6,
+      "text": "I'm Tommy Vance"
+    },
+    {
+      "start": 4407.6,
+      "end": 4408.94,
+      "text": "at the Friday Night Connection,"
+    },
+    {
+      "start": 4409.46,
+      "end": 4410.38,
+      "text": "the Friday Rock Show,"
+    },
+    {
+      "start": 4410.86,
+      "end": 4411.94,
+      "text": "BBC Radio 1,"
+    },
+    {
+      "start": 4412.16,
+      "end": 4413.08,
+      "text": "Broadcasting House,"
+    },
+    {
+      "start": 4413.22,
+      "end": 4415.24,
+      "text": "London, W1A4WW."
+    },
+    {
+      "start": 4416.34,
+      "end": 4418.4,
+      "text": "And the first person"
+    },
+    {
+      "start": 4418.4,
+      "end": 4420.24,
+      "text": "that we pull out of the sack"
+    },
+    {
+      "start": 4420.24,
+      "end": 4421.56,
+      "text": "of enormous mail that we get"
+    },
+    {
+      "start": 4421.56,
+      "end": 4423.12,
+      "text": "that we think has really got"
+    },
+    {
+      "start": 4423.12,
+      "end": 4424.08,
+      "text": "the whole thing together properly"
+    },
+    {
+      "start": 4424.08,
+      "end": 4426.4,
+      "text": "will get themselves a £10 record token, OK?"
+    },
+    {
+      "start": 4426.84,
+      "end": 4428.12,
+      "text": "Don't forget, though, please,"
+    },
+    {
+      "start": 4428.18,
+      "end": 4430.6,
+      "text": "to put together your own Friday night connection as well."
+    },
+    {
+      "start": 4436.86,
+      "end": 4439.63,
+      "text": "Back to our session from Moor."
+    },
+    {
+      "start": 4896.6,
+      "end": 4903.6,
+      "text": "Dem have a little factory up in a broccoli Inna this ya factory, all dem do is pack practice"
+    },
+    {
+      "start": 4903.6,
+      "end": 4910.6,
+      "text": "In the last fifteen years, dem get me labour Now after fifteen years, I fall out of favour"
+    },
+    {
+      "start": 4910.6,
+      "end": 4928.1,
+      "text": "England is a bitch, England is a bitch You know seh dem have work, working abundant"
+    },
+    {
+      "start": 4928.1,
+      "end": 4935.1,
+      "text": "Yet still, dem make me redundant Now at fifty-five, me getting quite old"
+    },
+    {
+      "start": 4935.1,
+      "end": 4937.9,
+      "text": "Yet still, they send me for a drag doll."
+    },
+    {
+      "start": 4939.19,
+      "end": 4940.43,
+      "text": "England is a bitch."
+    },
+    {
+      "start": 4942.11,
+      "end": 4946.09,
+      "text": "There's no escaping it."
+    },
+    {
+      "start": 4946.21,
+      "end": 4948.07,
+      "text": "England is a bitch for true."
+    },
+    {
+      "start": 4949.46,
+      "end": 4951.28,
+      "text": "It's where we are going to go to."
+    },
+    {
+      "start": 4951.82,
+      "end": 5058.54,
+      "text": "And that's Linton Kwesi Johnson from his latest album, which is called Bass Culture."
+    },
+    {
+      "start": 5059.04,
+      "end": 5061.26,
+      "text": "And the track was called England is a Bitch."
+    },
+    {
+      "start": 5061.34,
+      "end": 5064.06,
+      "text": "A great bit of dub mixing there by Blackbeard, Dennis Bovell."
+    },
+    {
+      "start": 5064.48,
+      "end": 5068.3,
+      "text": "And before that, you heard something from our session by the first time that they've ever been on the radio."
+    },
+    {
+      "start": 5068.3,
+      "end": 5069.64,
+      "text": "The track we played was Soldier."
+    },
+    {
+      "start": 5070.24,
+      "end": 5072.22,
+      "text": "And I've got a communication here from Moore."
+    },
+    {
+      "start": 5072.48,
+      "end": 5075.26,
+      "text": "And it says, Tommy Vance, here's some more information."
+    },
+    {
+      "start": 5075.38,
+      "end": 5076.2,
+      "text": "Please read as printed."
+    },
+    {
+      "start": 5076.6,
+      "end": 5078.38,
+      "text": "It's psychologic, you know."
+    },
+    {
+      "start": 5079.1,
+      "end": 5081.64,
+      "text": "Moore, the Atomic Rock Band, are a five-piece band"
+    },
+    {
+      "start": 5081.64,
+      "end": 5083.82,
+      "text": "who've been together in the present lineup for roughly eight months."
+    },
+    {
+      "start": 5083.94,
+      "end": 5086.0,
+      "text": "The band are Paul Cuppertee Day on vocals,"
+    },
+    {
+      "start": 5086.54,
+      "end": 5088.7,
+      "text": "Kenny the Mad Axeman, God Cox on guitars,"
+    },
+    {
+      "start": 5089.06,
+      "end": 5091.06,
+      "text": "Frank I Can't Help It Dutch on drums,"
+    },
+    {
+      "start": 5091.06,
+      "end": 5093.06,
+      "text": "and Paul Tilly Todd on guitars,"
+    },
+    {
+      "start": 5093.38,
+      "end": 5096.08,
+      "text": "and Brian Act Normal Day, no relation, on the bass."
+    },
+    {
+      "start": 5096.62,
+      "end": 5098.16,
+      "text": "Anybody who's seen the band live will know"
+    },
+    {
+      "start": 5098.16,
+      "end": 5100.94,
+      "text": "that they are an exhilarating live act out to destroy"
+    },
+    {
+      "start": 5100.94,
+      "end": 5103.56,
+      "text": "with their unique stage show, Catch Em If You Dare."
+    },
+    {
+      "start": 5104.02,
+      "end": 5106.94,
+      "text": "More have no real management, and they'd love a record contract."
+    },
+    {
+      "start": 5107.12,
+      "end": 5108.52,
+      "text": "Are you listening out there, record companies?"
+    },
+    {
+      "start": 5108.98,
+      "end": 5111.1,
+      "text": "They'd like to thank all those people who've helped them,"
+    },
+    {
+      "start": 5111.18,
+      "end": 5114.34,
+      "text": "including Peter Hinton and Saxon for their advice, good band, Saxon."
+    },
+    {
+      "start": 5114.66,
+      "end": 5116.58,
+      "text": "And, of course, Jimmy the Tyrant Norcott,"
+    },
+    {
+      "start": 5116.68,
+      "end": 5118.74,
+      "text": "without whom all this would not have been possible."
+    },
+    {
+      "start": 5119.14,
+      "end": 5120.84,
+      "text": "Not to forget Debbie, the tyrant's wife."
+    },
+    {
+      "start": 5120.84,
+      "end": 5123.72,
+      "text": "Hello to Rita, Lorraine, Alan and Denny for the plug."
+    },
+    {
+      "start": 5124.12,
+      "end": 5126.62,
+      "text": "Watch the future. Heavy metal lives."
+    },
+    {
+      "start": 5126.62,
+      "end": 5136.11,
+      "text": "It's 11.25"
+    },
+    {
+      "start": 5136.11,
+      "end": 5467.4,
+      "text": "Last to mention, they're the finest heavy metal female band in the world"
+    },
+    {
+      "start": 5467.4,
+      "end": 5468.42,
+      "text": "They're called Girl School"
+    },
+    {
+      "start": 5468.42,
+      "end": 5470.24,
+      "text": "And that is their single that's out at the moment"
+    },
+    {
+      "start": 5470.24,
+      "end": 5471.9,
+      "text": "It's just come out on the bronze record label"
+    },
+    {
+      "start": 5471.9,
+      "end": 5473.02,
+      "text": "It's called Nothing to Lose"
+    },
+    {
+      "start": 5473.02,
+      "end": 5475.3,
+      "text": "And they'll be in the Friday Rock Show studios next Wednesday"
+    },
+    {
+      "start": 5475.3,
+      "end": 5476.76,
+      "text": "Doing a session for us"
+    },
+    {
+      "start": 5476.76,
+      "end": 5478.84,
+      "text": "Which will be broadcast in the near future"
+    },
+    {
+      "start": 5478.84,
+      "end": 5481.06,
+      "text": "Before that you heard the Tigers of Pantang"
+    },
+    {
+      "start": 5481.06,
+      "end": 5483.8,
+      "text": "And their new single which is called Rock and Roll Man"
+    },
+    {
+      "start": 5483.8,
+      "end": 5484.84,
+      "text": "It's 11.31"
+    },
+    {
+      "start": 5484.84,
+      "end": 5486.7,
+      "text": "Little letter here from a gentleman"
+    },
+    {
+      "start": 5486.7,
+      "end": 5488.9,
+      "text": "By the name of Andy Gouge"
+    },
+    {
+      "start": 5488.9,
+      "end": 5490.64,
+      "text": "He lives at Pinewood Lodge"
+    },
+    {
+      "start": 5490.64,
+      "end": 5492.4,
+      "text": "97, I think it's"
+    },
+    {
+      "start": 5492.4,
+      "end": 5494.62,
+      "text": "Aldersford Road in Winchester in Hampshire."
+    },
+    {
+      "start": 5495.16,
+      "end": 5496.5,
+      "text": "Dear Tommy, he writes, I recently"
+    },
+    {
+      "start": 5496.5,
+      "end": 5498.46,
+      "text": "attended the Deaf Leopard gig at the Gaumont"
+    },
+    {
+      "start": 5498.46,
+      "end": 5500.64,
+      "text": "in Southampton. That was on Friday the 25th of April."
+    },
+    {
+      "start": 5501.16,
+      "end": 5502.72,
+      "text": "Now when I was there, I met a girl called"
+    },
+    {
+      "start": 5502.72,
+      "end": 5504.62,
+      "text": "Bernadette. Four top"
+    },
+    {
+      "start": 5504.62,
+      "end": 5506.62,
+      "text": "song, isn't it? I failed to ask her where she lived"
+    },
+    {
+      "start": 5506.62,
+      "end": 5508.7,
+      "text": "but now I'm regretting it. I'd very"
+    },
+    {
+      "start": 5508.7,
+      "end": 5510.28,
+      "text": "much like to get in contact with her"
+    },
+    {
+      "start": 5510.28,
+      "end": 5512.64,
+      "text": "again for some good times, really."
+    },
+    {
+      "start": 5512.98,
+      "end": 5514.64,
+      "text": "I'm hoping that she might be a regular listener"
+    },
+    {
+      "start": 5514.64,
+      "end": 5516.6,
+      "text": "to the programme so you might be able to help me. A brief"
+    },
+    {
+      "start": 5516.6,
+      "end": 5518.5,
+      "text": "description of this Bernadette lady"
+    },
+    {
+      "start": 5518.5,
+      "end": 5520.58,
+      "text": "from what I can remember is, she's about"
+    },
+    {
+      "start": 5520.58,
+      "end": 5521.36,
+      "text": "Not five foot too tall."
+    },
+    {
+      "start": 5521.84,
+      "end": 5524.36,
+      "text": "She has medium-length fair hair with a parting in the middle."
+    },
+    {
+      "start": 5524.92,
+      "end": 5525.68,
+      "text": "On the night in question,"
+    },
+    {
+      "start": 5525.8,
+      "end": 5528.66,
+      "text": "she was wearing a cream-coloured V-neck T-shirt and jeans."
+    },
+    {
+      "start": 5529.08,
+      "end": 5530.68,
+      "text": "I was standing with her near the front"
+    },
+    {
+      "start": 5530.68,
+      "end": 5533.82,
+      "text": "throughout the Def Leppard act and their whole repertoire."
+    },
+    {
+      "start": 5534.08,
+      "end": 5537.14,
+      "text": "Yours faithfully, Andy Gouge, who's obviously heartsick."
+    },
+    {
+      "start": 5537.62,
+      "end": 5540.14,
+      "text": "If Bernadette is listening and you'd like to write to us"
+    },
+    {
+      "start": 5540.14,
+      "end": 5541.7,
+      "text": "or maybe you even got his address in time,"
+    },
+    {
+      "start": 5542.18,
+      "end": 5543.64,
+      "text": "well, just write to us, I guess, Bernadette,"
+    },
+    {
+      "start": 5543.68,
+      "end": 5544.88,
+      "text": "and we'll send on your address"
+    },
+    {
+      "start": 5544.88,
+      "end": 5547.48,
+      "text": "and all the other things that are necessary to be sent on"
+    },
+    {
+      "start": 5547.48,
+      "end": 5549.82,
+      "text": "and the whole thing could become together."
+    },
+    {
+      "start": 5550.58,
+      "end": 6103.52,
+      "text": "Thank you. Sorry about jumping in on the end of that."
+    },
+    {
+      "start": 6103.56,
+      "end": 6104.68,
+      "text": "That was my mistake."
+    },
+    {
+      "start": 6104.84,
+      "end": 6106.56,
+      "text": "That was Angel, which, as I said, in Sweet Danger."
+    },
+    {
+      "start": 6107.08,
+      "end": 6108.32,
+      "text": "And before that, you heard Budgie."
+    },
+    {
+      "start": 6108.56,
+      "end": 6110.6,
+      "text": "And we were inspired to play Breadfan,"
+    },
+    {
+      "start": 6110.7,
+      "end": 6112.44,
+      "text": "which, of course, came up on the album"
+    },
+    {
+      "start": 6112.44,
+      "end": 6114.74,
+      "text": "Never Turn You Back in a Friend and then on The Best of Budgie."
+    },
+    {
+      "start": 6115.08,
+      "end": 6117.32,
+      "text": "Because this afternoon, we were going through a compilation"
+    },
+    {
+      "start": 6117.32,
+      "end": 6119.42,
+      "text": "that's out on MCA, which is called Precious Metal."
+    },
+    {
+      "start": 6120.04,
+      "end": 6122.78,
+      "text": "And part of that compilation is the Budgie track Breadfan,"
+    },
+    {
+      "start": 6122.9,
+      "end": 6125.44,
+      "text": "but it fades, all in that slow bit."
+    },
+    {
+      "start": 6125.84,
+      "end": 6127.08,
+      "text": "So we thought, no, we can't play that."
+    },
+    {
+      "start": 6127.34,
+      "end": 6128.62,
+      "text": "We'll play the original version,"
+    },
+    {
+      "start": 6128.76,
+      "end": 6130.26,
+      "text": "which I think is one of the real classics."
+    },
+    {
+      "start": 6130.26,
+      "end": 6133.64,
+      "text": "and we played it also because we were castigated by Bruce Stocken"
+    },
+    {
+      "start": 6133.64,
+      "end": 6136.2,
+      "text": "of 102 Gladstone Road, Broadstairs and Kent"
+    },
+    {
+      "start": 6136.2,
+      "end": 6138.7,
+      "text": "who likes Budgie and he wants his name mentioned on the radio."
+    },
+    {
+      "start": 6139.08,
+      "end": 6140.46,
+      "text": "Bruce Stocken, you have been mentioned."
+    },
+    {
+      "start": 6792.24,
+      "end": 6796.22,
+      "text": "Steve Howe and a Buggle reveal all tomorrow on Rock on Saturday."
+    },
+    {
+      "start": 6796.46,
+      "end": 6799.3,
+      "text": "That was Awaken, it's from Going for the One, it was by Yes."
+    },
+    {
+      "start": 6799.34,
+      "end": 6801.5,
+      "text": "I wouldn't worry about John Anderson with a voice like that,"
+    },
+    {
+      "start": 6801.54,
+      "end": 6803.2,
+      "text": "he'll never ever be out of work."
+    },
+    {
+      "start": 6803.9,
+      "end": 6805.1,
+      "text": "That's a beautiful, beautiful track."
+    },
+    {
+      "start": 6805.1,
+      "end": 6807.92,
+      "text": "Before that we heard the last offering from Moore,"
+    },
+    {
+      "start": 6808.14,
+      "end": 6810.94,
+      "text": "our session band of the evening who are doing their debut on radio"
+    },
+    {
+      "start": 6810.94,
+      "end": 6814.74,
+      "text": "and incidentally they're going to be doing a couple of gigs in and around london they will"
+    },
+    {
+      "start": 6814.74,
+      "end": 6819.44,
+      "text": "be at oscars wherever that is on the 27th of may which is next tuesday and at crackers which is in"
+    },
+    {
+      "start": 6819.44,
+      "end": 6824.4,
+      "text": "wardour street that's on the 28th of may on wednesday and i do hope they get a break through"
+    },
+    {
+      "start": 6824.4,
+      "end": 6828.88,
+      "text": "and via this broadcast that they did tonight because we really believe in them they're"
+    },
+    {
+      "start": 6828.88,
+      "end": 6833.44,
+      "text": "marvelous musicians good entertainers and they really deserve to get a record contract"
+    },
+    {
+      "start": 6833.44,
+      "end": 7148.27,
+      "text": "more we wish you well and now here's angel witch and that was angel witch an angel of death"
+    },
+    {
+      "start": 7148.77,
+      "end": 7151.77,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7152.01,
+      "end": 7153.33,
+      "text": "Can I tell you about tomorrow's programme,"
+    },
+    {
+      "start": 7153.43,
+      "end": 7156.23,
+      "text": "which is called Rock on Saturday between 4 and 7.30 in the afternoon?"
+    },
+    {
+      "start": 7156.67,
+      "end": 7158.55,
+      "text": "We've got Brian Ferry, Peter Gabriel and Quartz"
+    },
+    {
+      "start": 7158.55,
+      "end": 7160.75,
+      "text": "and a load of good music between 4 and 7.30."
+    },
+    {
+      "start": 7161.19,
+      "end": 7163.17,
+      "text": "I'd like to say a very special thank you to Sue Drum,"
+    },
+    {
+      "start": 7163.25,
+      "end": 7166.78,
+      "text": "who is our programme secretary, who works so hard."
+    },
+    {
+      "start": 7169.88,
+      "end": 7171.02,
+      "text": "Our engineer tonight was Nigel."
+    },
+    {
+      "start": 7171.08,
+      "end": 7171.62,
+      "text": "Thank you, Nigel."
+    },
+    {
+      "start": 7171.68,
+      "end": 7172.94,
+      "text": "Next week on the Friday Rock Show,"
+    },
+    {
+      "start": 7173.02,
+      "end": 7176.38,
+      "text": "the repeat of that amazing set put together by the Scorpions at Reading last year."
+    },
+    {
+      "start": 7176.48,
+      "end": 7177.1,
+      "text": "Not to be missed."
+    },
+    {
+      "start": 7177.66,
+      "end": 7178.88,
+      "text": "Speak, oh wise one."
+    },
+    {
+      "start": 7179.36,
+      "end": 7180.52,
+      "text": "I knew you'd enjoy more."
+    },
+    {
+      "start": 7180.8,
+      "end": 7181.98,
+      "text": "They're good, aren't they? They really are."
+    },
+    {
+      "start": 7182.08,
+      "end": 7183.78,
+      "text": "I hope some record company is having an earwig"
+    },
+    {
+      "start": 7183.78,
+      "end": 7184.94,
+      "text": "and they give them a contract."
+    },
+    {
+      "start": 7185.02,
+      "end": 7185.76,
+      "text": "Deserve a contract."
+    },
+    {
+      "start": 7186.6,
+      "end": 7187.66,
+      "text": "I'm Tommy Vance in London,"
+    },
+    {
+      "start": 7187.8,
+      "end": 7188.68,
+      "text": "and wherever you are,"
+    },
+    {
+      "start": 7189.04,
+      "end": 7192.06,
+      "text": "we wish you the very best of luck, really."
+    },
+    {
+      "start": 7192.5,
+      "end": 7193.88,
+      "text": "Good night, and God bless."
     }
   ]
 }

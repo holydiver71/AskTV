@@ -19,7 +19,8 @@
     {
       "artist": "Emerson, Lake and Palmer",
       "track": "Karn Evil 9 (1st Impression Pt. 2)",
-      "details": "LP-The Best Of Emerson, Lake & Palmer; Ariola"
+      "details": "LP-The Best Of Emerson, Lake & Palmer; Ariola",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Cheap Trick",
@@ -29,27 +30,32 @@
     {
       "artist": "Diamond Head",
       "track": "Sweet And Innocent",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 637.59
     },
     {
       "artist": "Iron Maiden",
       "track": "Prowler",
-      "details": "LP-Iron Maiden; EMI"
+      "details": "LP-Iron Maiden; EMI",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Talking Heads",
       "track": "Once In A Lifetime",
-      "details": "LP-Remain In Light; Sire"
+      "details": "LP-Remain In Light; Sire",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Damned",
       "track": "Therapy",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1146.36
     },
     {
       "artist": "Sensational Alex Harvey Band",
       "track": "Faith Healer",
-      "details": "LP-Live; Vertigo"
+      "details": "LP-Live; Vertigo",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Diamond Head",
@@ -59,7 +65,8 @@
     {
       "artist": "Weapon",
       "track": "Set The Stage Alight",
-      "details": "7\"-Mad Mad World"
+      "details": "7\"-Mad Mad World",
+      "verified_timestamp": 2627.24
     },
     {
       "artist": "Damned",
@@ -69,7 +76,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.88
     },
     {
       "artist": "Diamond Head",
@@ -84,7 +92,8 @@
     {
       "artist": "Deep Purple",
       "track": "Highway Star",
-      "details": "2xLP-In Concert; Harvest"
+      "details": "2xLP-In Concert; Harvest",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Witchfynde",
@@ -99,7 +108,8 @@
     {
       "artist": "Black Sabbath",
       "track": "Paranoid",
-      "details": "LP-Paranoid; Vertigo"
+      "details": "LP-Paranoid; Vertigo",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Diamond Head",
@@ -114,7 +124,1295 @@
     {
       "artist": "Eagles",
       "track": "Life In The Fast Lane",
-      "details": "2xLP-Eagles Live; Asylum"
+      "details": "2xLP-Eagles Live; Asylum",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.03,
+      "end": 12.03,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 12.03,
+      "end": 29.66,
+      "text": "Oh, hello there. This is TV on the Radio here, Thomas the Vance, and welcome to a very warming Friday Rock Show."
+    },
+    {
+      "start": 29.66,
+      "end": 34.72,
+      "text": "And tonight on our program we have the first ever session by a young rock band from Worcestershire."
+    },
+    {
+      "start": 34.72,
+      "end": 37.72,
+      "text": "They're all age 20 and they have the name Diamondhead."
+    },
+    {
+      "start": 37.72,
+      "end": 42.72,
+      "text": "Also, we have a recent set by The Damned that might surprise you."
+    },
+    {
+      "start": 42.72,
+      "end": 61.12,
+      "text": "And we've got some classic cuts by Iron Maiden, Alex Harvey, Roger Daughtry, Deep Purple, Black Sabbath, and others."
+    },
+    {
+      "start": 61.28,
+      "end": 65.92,
+      "text": "Some new stuff by Cheap Trade, Talking Heads, Weapon, ACDC, Witchfind, Quartz, and the Eagles."
+    },
+    {
+      "start": 66.88,
+      "end": 70.22,
+      "text": "Not forgetting our Friday Night Connection, the answer to last week's and a new one."
+    },
+    {
+      "start": 73.23,
+      "end": 74.75,
+      "text": "But this evening, we start with this."
+    },
+    {
+      "start": 81.32,
+      "end": 84.88,
+      "text": "Welcome back, my friends, to the show that never ends."
+    },
+    {
+      "start": 84.98,
+      "end": 86.74,
+      "text": "We're so glad you could attend."
+    },
+    {
+      "start": 87.0,
+      "end": 88.88,
+      "text": "Come inside, come inside."
+    },
+    {
+      "start": 89.46,
+      "end": 92.8,
+      "text": "There behind the glass, there's a real blade of grass."
+    },
+    {
+      "start": 92.8,
+      "end": 94.72,
+      "text": "Be careful as you pass"
+    },
+    {
+      "start": 94.72,
+      "end": 96.7,
+      "text": "Move along, move along"
+    },
+    {
+      "start": 96.7,
+      "end": 100.6,
+      "text": "Come inside, the show's about to start"
+    },
+    {
+      "start": 100.6,
+      "end": 103.92,
+      "text": "Guaranteed to blow your head off"
+    },
+    {
+      "start": 103.92,
+      "end": 582.66,
+      "text": "That's a track by Cheap Trick."
+    },
+    {
+      "start": 582.74,
+      "end": 584.5,
+      "text": "It's from their new album, which is called All Shook Up."
+    },
+    {
+      "start": 584.54,
+      "end": 587.08,
+      "text": "And the track I played you was Can't Stop It But I'm Gonna Try."
+    },
+    {
+      "start": 587.18,
+      "end": 589.08,
+      "text": "And before that, something from a new compilation"
+    },
+    {
+      "start": 589.08,
+      "end": 590.9,
+      "text": "that's just come out on Atlantic Records."
+    },
+    {
+      "start": 591.56,
+      "end": 594.02,
+      "text": "It's a compilation featuring the best of Emerson, Lake and Palmer,"
+    },
+    {
+      "start": 594.1,
+      "end": 595.52,
+      "text": "as the compiler sees it."
+    },
+    {
+      "start": 595.52,
+      "end": 598.58,
+      "text": "The track you heard was Carn Evil First Impression Part 2."
+    },
+    {
+      "start": 598.58,
+      "end": 601.1,
+      "text": "It's a good compilation, it's also got a hoedown on it"
+    },
+    {
+      "start": 601.1,
+      "end": 603.06,
+      "text": "Lucky Man, Still You Turn Me On"
+    },
+    {
+      "start": 603.06,
+      "end": 604.6,
+      "text": "Peter Gunn, Jerusalem, Trilogy"
+    },
+    {
+      "start": 604.6,
+      "end": 606.76,
+      "text": "Fanfare for the Common Man, Tiger in a Spotlight"
+    },
+    {
+      "start": 606.76,
+      "end": 608.5,
+      "text": "So if you like all those tracks"
+    },
+    {
+      "start": 608.5,
+      "end": 609.62,
+      "text": "You can get them on that compilation"
+    },
+    {
+      "start": 609.62,
+      "end": 612.32,
+      "text": "And I played that track, Carnival First Impression"
+    },
+    {
+      "start": 612.32,
+      "end": 614.84,
+      "text": "Especially for Muff and Frank and Perky"
+    },
+    {
+      "start": 614.84,
+      "end": 616.48,
+      "text": "And John, I think it is, J-U-N"
+    },
+    {
+      "start": 616.48,
+      "end": 618.44,
+      "text": "John, maybe, John, definitely"
+    },
+    {
+      "start": 618.44,
+      "end": 620.8,
+      "text": "Dab, Mick, Helen, Peace and Love to Everybody"
+    },
+    {
+      "start": 620.8,
+      "end": 622.72,
+      "text": "Including T.S. McPhee, The LCC"
+    },
+    {
+      "start": 622.72,
+      "end": 624.28,
+      "text": "CND, Greenpeace"
+    },
+    {
+      "start": 624.28,
+      "end": 625.72,
+      "text": "And Somebody Called Caroline"
+    },
+    {
+      "start": 625.72,
+      "end": 627.76,
+      "text": "And that card came from Dumbarton"
+    },
+    {
+      "start": 628.06,
+      "end": 632.44,
+      "text": "Also, we played ELP for S. Atkinson, who lives in Sheffield."
+    },
+    {
+      "start": 637.59,
+      "end": 640.25,
+      "text": "Thirteen minutes after ten, here's the first of four by Diamondhead."
+    },
+    {
+      "start": 640.83,
+      "end": 1084.82,
+      "text": "And that was Iron Maiden."
+    },
+    {
+      "start": 1085.22,
+      "end": 1087.78,
+      "text": "And that's a track from their debut album called Iron Maiden."
+    },
+    {
+      "start": 1087.96,
+      "end": 1088.78,
+      "text": "It's been out for quite a while."
+    },
+    {
+      "start": 1088.86,
+      "end": 1089.72,
+      "text": "The track was Prowler."
+    },
+    {
+      "start": 1090.8,
+      "end": 1092.12,
+      "text": "Played that for loads of people."
+    },
+    {
+      "start": 1092.34,
+      "end": 1094.7,
+      "text": "I'll just mention the people who signed on the bottom of the cards and letters."
+    },
+    {
+      "start": 1094.8,
+      "end": 1099.12,
+      "text": "David and Patrick Trigwell, who live in Carnforth in Lancashire."
+    },
+    {
+      "start": 1099.12,
+      "end": 1101.08,
+      "text": "David Leitch, he's in Leamington Spa."
+    },
+    {
+      "start": 1101.68,
+      "end": 1104.62,
+      "text": "Diane Davies, who's in Southampton in Hampshire."
+    },
+    {
+      "start": 1105.12,
+      "end": 1107.91,
+      "text": "Dave and Mark, Chadwell Heath in Essex"
+    },
+    {
+      "start": 1107.91,
+      "end": 1110.45,
+      "text": "Ian Nuttall, who lives in Collingdale"
+    },
+    {
+      "start": 1110.45,
+      "end": 1112.57,
+      "text": "just up the road in London, NWI"
+    },
+    {
+      "start": 1112.57,
+      "end": 1115.13,
+      "text": "Robert Anderson of Bernard Castle School"
+    },
+    {
+      "start": 1115.13,
+      "end": 1116.35,
+      "text": "Bernard Castle in County Durham"
+    },
+    {
+      "start": 1116.35,
+      "end": 1119.13,
+      "text": "Dee, who's a lady who lives in Derby"
+    },
+    {
+      "start": 1119.13,
+      "end": 1121.65,
+      "text": "and also Joy, who's another lady"
+    },
+    {
+      "start": 1121.65,
+      "end": 1123.07,
+      "text": "who lives, would you believe, in Derby"
+    },
+    {
+      "start": 1123.07,
+      "end": 1125.07,
+      "text": "All those people wanted to hear Iron Maiden"
+    },
+    {
+      "start": 1125.07,
+      "end": 1126.39,
+      "text": "and I hope they enjoyed Prowler"
+    },
+    {
+      "start": 1126.39,
+      "end": 1129.09,
+      "text": "Performed at the first of four from our session tonight"
+    },
+    {
+      "start": 1129.09,
+      "end": 1130.75,
+      "text": "the first session they've ever done for the BBC"
+    },
+    {
+      "start": 1130.75,
+      "end": 1132.59,
+      "text": "Diamondhead are the name of the band"
+    },
+    {
+      "start": 1132.59,
+      "end": 1133.91,
+      "text": "The track was Sweet and Innocent"
+    },
+    {
+      "start": 1133.91,
+      "end": 1136.61,
+      "text": "You'll also find that out as their current single"
+    },
+    {
+      "start": 1136.61,
+      "end": 1143.72,
+      "text": "It's 10.21 on the Friday Rock Show"
+    },
+    {
+      "start": 1143.72,
+      "end": 1146.36,
+      "text": "And now I'm going to play you three records in a row"
+    },
+    {
+      "start": 1146.36,
+      "end": 1151.26,
+      "text": "Talking Heads, The Damned, and I'm sure you'll recognize the third"
+    },
+    {
+      "start": 1151.26,
+      "end": 1186.48,
+      "text": "You may find yourself in a beautiful house"
+    },
+    {
+      "start": 1186.48,
+      "end": 1188.02,
+      "text": "With a beautiful wife"
+    },
+    {
+      "start": 1188.02,
+      "end": 1190.15,
+      "text": "Ask yourself"
+    },
+    {
+      "start": 1190.15,
+      "end": 2100.15,
+      "text": "A sensational Alex Harvey band"
+    },
+    {
+      "start": 2100.15,
+      "end": 2102.55,
+      "text": "And a track called Faith Healer"
+    },
+    {
+      "start": 2102.55,
+      "end": 2106.53,
+      "text": "That was for a gentleman by the name of Mike"
+    },
+    {
+      "start": 2106.53,
+      "end": 2108.79,
+      "text": "who lives in Menzies Hill in Dundee in Scotland."
+    },
+    {
+      "start": 2109.01,
+      "end": 2110.73,
+      "text": "I want to mention Thog and Jake and Phil"
+    },
+    {
+      "start": 2110.73,
+      "end": 2112.59,
+      "text": "and all the other bozos from Dundee."
+    },
+    {
+      "start": 2112.73,
+      "end": 2113.93,
+      "text": "That's his word, not mine."
+    },
+    {
+      "start": 2115.61,
+      "end": 2117.53,
+      "text": "Also played there for a gentleman by the name of Peter."
+    },
+    {
+      "start": 2117.63,
+      "end": 2118.53,
+      "text": "Peter Everett, that is."
+    },
+    {
+      "start": 2118.63,
+      "end": 2120.51,
+      "text": "Best wishes, Peter, for this coming Monday,"
+    },
+    {
+      "start": 2120.59,
+      "end": 2121.31,
+      "text": "the 1st of December."
+    },
+    {
+      "start": 2121.43,
+      "end": 2122.47,
+      "text": "You're getting engaged, I'm told,"
+    },
+    {
+      "start": 2122.53,
+      "end": 2124.73,
+      "text": "to your childhood sweetheart, Chrissie Metcalf."
+    },
+    {
+      "start": 2125.01,
+      "end": 2126.65,
+      "text": "Your dad, Mr. NF Everett,"
+    },
+    {
+      "start": 2126.73,
+      "end": 2127.73,
+      "text": "sends his love to you."
+    },
+    {
+      "start": 2127.97,
+      "end": 2128.87,
+      "text": "And very best wishes."
+    },
+    {
+      "start": 2129.43,
+      "end": 2130.29,
+      "text": "Also, I've got to give a mention"
+    },
+    {
+      "start": 2130.29,
+      "end": 2132.56,
+      "text": "to all the friends of Peter"
+    },
+    {
+      "start": 2132.56,
+      "end": 2134.82,
+      "text": "who attended the De La Salle High School."
+    },
+    {
+      "start": 2135.38,
+      "end": 2135.78,
+      "text": "Everett."
+    },
+    {
+      "start": 2135.86,
+      "end": 2137.4,
+      "text": "Now, that's a good Liverpool name."
+    },
+    {
+      "start": 2137.4,
+      "end": 2142.12,
+      "text": "I tell you what, Peter, if you and Chrissy have a boy, you should call him Kenny."
+    },
+    {
+      "start": 2144.65,
+      "end": 2147.75,
+      "text": "Before that, you heard something by our session from the dam,"
+    },
+    {
+      "start": 2147.95,
+      "end": 2153.71,
+      "text": "whom I think are sort of incredible in as much as they work in heavy rock and punk and everything together."
+    },
+    {
+      "start": 2154.25,
+      "end": 2159.41,
+      "text": "The track we played was Therapy, and that was for Filthy Animal Smythe and Fast Paddy and Dirty Darren"
+    },
+    {
+      "start": 2159.41,
+      "end": 2162.97,
+      "text": "and all the other headbangers, the skull-busting freaks of Wallace High School,"
+    },
+    {
+      "start": 2163.29,
+      "end": 2165.77,
+      "text": "Liz Vernon, can't he, over there in Northern Ireland?"
+    },
+    {
+      "start": 2165.93,
+      "end": 2169.13,
+      "text": "I can't remember what county it's in, but I know it well."
+    },
+    {
+      "start": 2169.13,
+      "end": 2171.57,
+      "text": "Prior to that, something from the album by Talking Heads."
+    },
+    {
+      "start": 2171.97,
+      "end": 2174.01,
+      "text": "A good album. It's called Remain in Light."
+    },
+    {
+      "start": 2174.53,
+      "end": 2176.37,
+      "text": "The track we play was called Once in a Lifetime."
+    },
+    {
+      "start": 2177.51,
+      "end": 2180.47,
+      "text": "The time now is 21 and a half minutes to 11."
+    },
+    {
+      "start": 2181.05,
+      "end": 2190.18,
+      "text": "And Diamond Head."
+    },
+    {
+      "start": 2619.54,
+      "end": 2621.38,
+      "text": "That's what I call a tight little record."
+    },
+    {
+      "start": 2621.56,
+      "end": 2622.94,
+      "text": "That is actually a B-side."
+    },
+    {
+      "start": 2623.1,
+      "end": 2625.16,
+      "text": "The B-side of a single by a band called Weapon."
+    },
+    {
+      "start": 2625.32,
+      "end": 2627.24,
+      "text": "On the A-side, it's a mad, mad world."
+    },
+    {
+      "start": 2627.24,
+      "end": 2630.4,
+      "text": "The B-side you just heard was Set the Stage Alight."
+    },
+    {
+      "start": 2631.48,
+      "end": 2635.46,
+      "text": "I was actually given that by a gentleman who purchased it from a record store in Birmingham"
+    },
+    {
+      "start": 2635.46,
+      "end": 2637.54,
+      "text": "when I was up there at Bogart's a few weeks ago."
+    },
+    {
+      "start": 2638.72,
+      "end": 2640.12,
+      "text": "They sound like a really good band."
+    },
+    {
+      "start": 2640.36,
+      "end": 2643.28,
+      "text": "They're on the WEP label, whatever that is,"
+    },
+    {
+      "start": 2643.32,
+      "end": 2644.74,
+      "text": "or where indeed you can find it, I don't know,"
+    },
+    {
+      "start": 2644.78,
+      "end": 2645.74,
+      "text": "but I think it is in the shops."
+    },
+    {
+      "start": 2646.64,
+      "end": 2648.32,
+      "text": "Before that, you heard something by Diamondhead,"
+    },
+    {
+      "start": 2648.4,
+      "end": 2649.74,
+      "text": "our session band tonight."
+    },
+    {
+      "start": 2649.96,
+      "end": 2651.58,
+      "text": "It was Lightning to the Nations,"
+    },
+    {
+      "start": 2651.76,
+      "end": 2653.48,
+      "text": "and they're a darn good band from Worcestershire."
+    },
+    {
+      "start": 2654.59,
+      "end": 2657.02,
+      "text": "Play that little selection for..."
+    },
+    {
+      "start": 2657.02,
+      "end": 2658.02,
+      "text": "I'll read this letter, actually."
+    },
+    {
+      "start": 2658.08,
+      "end": 2660.2,
+      "text": "We of the Dillam Hall Headbanging Society"
+    },
+    {
+      "start": 2660.2,
+      "end": 2662.48,
+      "text": "would like to dedicate a rock record to our housemaster,"
+    },
+    {
+      "start": 2662.48,
+      "end": 2664.84,
+      "text": "whose musical tastes E.G. Beethoven and Mozart"
+    },
+    {
+      "start": 2664.84,
+      "end": 2669.28,
+      "text": "out are in desperate need of reform. As we quiver in ourselves with our radios as our"
+    },
+    {
+      "start": 2669.28,
+      "end": 2672.98,
+      "text": "only contact with the outside world, the playing of a good track would keep us going until"
+    },
+    {
+      "start": 2672.98,
+      "end": 2677.34,
+      "text": "our parole at Christmas. We put our wretched six-form souls in your hands, yours pathetically."
+    },
+    {
+      "start": 2677.94,
+      "end": 2683.88,
+      "text": "Crapper Pope, pardon, Malfunction Millington, Bubonic Bert, Jack Rigamortis Ward, and O"
+    },
+    {
+      "start": 2683.88,
+      "end": 2690.28,
+      "text": "de Tarros, whatever that means. They're all at Love Low in Shropshire. The Diamondhead"
+    },
+    {
+      "start": 2690.28,
+      "end": 2695.54,
+      "text": "track was specially for Jeremy Ashby, who is a very dedicated Diamondhead fan."
+    },
+    {
+      "start": 2698.39,
+      "end": 2702.81,
+      "text": "13 minutes to 11, and I do hope you're wrapped up nice and warm."
+    },
+    {
+      "start": 2703.15,
+      "end": 2704.95,
+      "text": "You can spend the next 10 minutes and 20 seconds"
+    },
+    {
+      "start": 2704.95,
+      "end": 2707.87,
+      "text": "taking Curtain Call Part 1 with The Damned."
+    },
+    {
+      "start": 2798.21,
+      "end": 3352.44,
+      "text": "...being one of the greatest works ever."
+    },
+    {
+      "start": 3352.44,
+      "end": 3358.39,
+      "text": "Amazing piece of music."
+    },
+    {
+      "start": 3358.89,
+      "end": 3360.79,
+      "text": "It's called Curtain Call Part One."
+    },
+    {
+      "start": 3360.93,
+      "end": 3363.47,
+      "text": "It's from a session that was recorded on Monday the 6th of October"
+    },
+    {
+      "start": 3363.47,
+      "end": 3365.33,
+      "text": "in the BBC Studios by The Damned."
+    },
+    {
+      "start": 3365.47,
+      "end": 3367.95,
+      "text": "Dave Vanian, or sometimes, if you like, Vanian on vocals,"
+    },
+    {
+      "start": 3368.49,
+      "end": 3369.51,
+      "text": "Raskavy's on the drums,"
+    },
+    {
+      "start": 3369.61,
+      "end": 3371.43,
+      "text": "Catherine Sensible on the guitar and keyboards,"
+    },
+    {
+      "start": 3371.43,
+      "end": 3372.57,
+      "text": "and Paul Grey on the bass."
+    },
+    {
+      "start": 3372.67,
+      "end": 3373.61,
+      "text": "Produced by Tony Wilson."
+    },
+    {
+      "start": 3374.19,
+      "end": 3375.79,
+      "text": "A magic moment."
+    },
+    {
+      "start": 3379.41,
+      "end": 3380.09,
+      "text": "Two minutes to eleven."
+    },
+    {
+      "start": 3380.25,
+      "end": 3381.21,
+      "text": "This is the Friday Rock Show."
+    },
+    {
+      "start": 3381.29,
+      "end": 3383.25,
+      "text": "It's time for the Friday Night Connection."
+    },
+    {
+      "start": 3383.63,
+      "end": 3384.43,
+      "text": "Who's won it this week?"
+    },
+    {
+      "start": 3384.71,
+      "end": 3385.73,
+      "text": "Well, I'll tell you in just a second,"
+    },
+    {
+      "start": 3385.81,
+      "end": 3388.13,
+      "text": "but first let me remind you of the tracks that I played you last week."
+    },
+    {
+      "start": 3388.13,
+      "end": 3394.33,
+      "text": "we played the red telephone by love from the album forever changes we played young lust by"
+    },
+    {
+      "start": 3394.33,
+      "end": 3400.11,
+      "text": "the pink floyds from the album called the wall then we played filing dale flyer by jethro tarr"
+    },
+    {
+      "start": 3400.11,
+      "end": 3410.18,
+      "text": "the red telephone the telephone call at the end of young lust and filing dale flyer is all about"
+    },
+    {
+      "start": 3410.18,
+      "end": 3415.92,
+      "text": "that place where they watch out for invaders with nuclear bombs within which is of course"
+    },
+    {
+      "start": 3415.92,
+      "end": 3422.2,
+      "text": "a telephone. Consequently, the answer was telephone. The winner is Dave Miller of number"
+    },
+    {
+      "start": 3422.2,
+      "end": 3427.36,
+      "text": "10, Creswell Street, Kings Lynn in Norfolk. Now, older viewers to this program might say,"
+    },
+    {
+      "start": 3427.44,
+      "end": 3432.46,
+      "text": "but he's won before. Yes, he has won before, but he writes in every single week. And I"
+    },
+    {
+      "start": 3432.46,
+      "end": 3438.49,
+      "text": "think his connection and answer are worthy of another ten-pound record token. And I"
+    },
+    {
+      "start": 3438.49,
+      "end": 3442.19,
+      "text": "think you will when you hear the music that he's put together. Dave, congratulations. And"
+    },
+    {
+      "start": 3442.19,
+      "end": 3446.99,
+      "text": "here is Mr. Miller's Friday Night Connection. Three bits of music with a connection or"
+    },
+    {
+      "start": 3446.99,
+      "end": 4126.16,
+      "text": "theme contained therein listen can't you hear me say can't you hear me say 10 past 11 and that was"
+    },
+    {
+      "start": 4126.16,
+      "end": 4133.24,
+      "text": "it the friday night connection put together by dave miller kingsland norfolk three bits of music"
+    },
+    {
+      "start": 4133.24,
+      "end": 4139.76,
+      "text": "somewhere hidden therein there is a theme mr dave miller suggests though i think some of you might"
+    },
+    {
+      "start": 4139.76,
+      "end": 4146.85,
+      "text": "be a little bit foxed then it makes it all the more interesting doesn't it if you think you know"
+    },
+    {
+      "start": 4146.85,
+      "end": 4151.75,
+      "text": "the answer jot it down on a postcard letter anything you like send it to tommy vance the"
+    },
+    {
+      "start": 4151.75,
+      "end": 4161.83,
+      "text": "friday night connection the friday rock show bbc radio one london w1a4ww okay the winner gets a 10"
+    },
+    {
+      "start": 4161.83,
+      "end": 4177.42,
+      "text": "pound record token but don't forget put together your own friday night connection as well diamond"
+    },
+    {
+      "start": 4177.42,
+      "end": 4852.82,
+      "text": "head are living on borrowed time rock and roll and noise pollution it's not often that we play"
+    },
+    {
+      "start": 4852.82,
+      "end": 4857.34,
+      "text": "chart records but that is in the charts it's gone straight in this week at number 23 it's the latest"
+    },
+    {
+      "start": 4857.34,
+      "end": 4861.54,
+      "text": "a single by ACDC, and it features, of course, the amazing voice of Brian Johnson, who was"
+    },
+    {
+      "start": 4861.54,
+      "end": 4866.78,
+      "text": "a guest last week on Rock on Saturday, and what a great Geordie lad he is. Prior to that,"
+    },
+    {
+      "start": 4866.82,
+      "end": 4871.52,
+      "text": "you heard something from our session by Diamondhead. The track was Borrowed Time. Now, Diamondhead"
+    },
+    {
+      "start": 4871.52,
+      "end": 4875.38,
+      "text": "are from Stourbridge in Worcestershire, and they're made up of Brian Tattler on the guitar,"
+    },
+    {
+      "start": 4875.54,
+      "end": 4878.88,
+      "text": "Colin Kimberley on the bass, Duncan Scott on the drums, and Sean Harris on the vocals."
+    },
+    {
+      "start": 4879.28,
+      "end": 4883.58,
+      "text": "And you can find an album of theirs on Media Records, which is a company that's based"
+    },
+    {
+      "start": 4883.58,
+      "end": 4890.1,
+      "text": "in Wolverhampton and for my money they're going to be very big in 1981. Here's something you'll"
+    },
+    {
+      "start": 4890.1,
+      "end": 5579.66,
+      "text": "recognize but you might not know this version. The album's called Stage Fright, the band are"
+    },
+    {
+      "start": 5579.66,
+      "end": 5586.26,
+      "text": "called Witchfind and the track you just heard was Trick. I haven't really gotten into that album yet"
+    },
+    {
+      "start": 5586.26,
+      "end": 5590.04,
+      "text": "but I've just heard it sort of playing in the background a couple of three times. I think it"
+    },
+    {
+      "start": 5590.04,
+      "end": 5596.37,
+      "text": "sounds like a tasty one. I'm going to take it home, play it and listen to it in the cans, stereo"
+    },
+    {
+      "start": 5597.24,
+      "end": 5599.96,
+      "text": "And I think I'll be a satisfied man after I've heard it."
+    },
+    {
+      "start": 5600.38,
+      "end": 5605.31,
+      "text": "Ah, before that, you heard Deep Purple from a new double album,"
+    },
+    {
+      "start": 5605.51,
+      "end": 5607.19,
+      "text": "which has the title Deep Purple in Concert."
+    },
+    {
+      "start": 5607.27,
+      "end": 5608.63,
+      "text": "The track, of course, was Highway Star."
+    },
+    {
+      "start": 5609.27,
+      "end": 5610.49,
+      "text": "Let me tell you something about this album."
+    },
+    {
+      "start": 5610.55,
+      "end": 5612.91,
+      "text": "It's just come out on Harvest Records, right?"
+    },
+    {
+      "start": 5613.13,
+      "end": 5615.45,
+      "text": "And it features two BBC concerts."
+    },
+    {
+      "start": 5615.99,
+      "end": 5618.79,
+      "text": "One recorded in 1970, the other one in 1972."
+    },
+    {
+      "start": 5618.95,
+      "end": 5620.87,
+      "text": "Highway Star was actually recorded in 72."
+    },
+    {
+      "start": 5621.94,
+      "end": 5624.68,
+      "text": "A lot of people have been after this material for a long, long time."
+    },
+    {
+      "start": 5624.78,
+      "end": 5626.3,
+      "text": "It's not been available in this form,"
+    },
+    {
+      "start": 5626.8,
+      "end": 5629.4,
+      "text": "although I think a few people have had it on tape for some time, haven't they?"
+    },
+    {
+      "start": 5630.14,
+      "end": 5631.4,
+      "text": "Nod, nod, wink, wink."
+    },
+    {
+      "start": 5632.0,
+      "end": 5633.02,
+      "text": "And now you can get it on record."
+    },
+    {
+      "start": 5633.2,
+      "end": 5635.26,
+      "text": "It's a double album, and it's out on Harvest,"
+    },
+    {
+      "start": 5635.6,
+      "end": 5637.98,
+      "text": "and it is called Deep Purple in Concert."
+    },
+    {
+      "start": 5638.36,
+      "end": 5639.66,
+      "text": "And looking at the sleeve notes,"
+    },
+    {
+      "start": 5639.66,
+      "end": 5643.28,
+      "text": "I noticed that Tony Wilson, for the 1970 concert,"
+    },
+    {
+      "start": 5643.72,
+      "end": 5645.08,
+      "text": "was actually the engineer."
+    },
+    {
+      "start": 5645.48,
+      "end": 5647.26,
+      "text": "Oh, it's not just a pretty face, you know."
+    },
+    {
+      "start": 5648.4,
+      "end": 5649.74,
+      "text": "A little bit of a beef about the album."
+    },
+    {
+      "start": 5649.86,
+      "end": 5651.02,
+      "text": "It states on the album,"
+    },
+    {
+      "start": 5653.05,
+      "end": 5655.81,
+      "text": "it's a Heck Enterprises original sound recording."
+    },
+    {
+      "start": 5655.81,
+      "end": 5658.86,
+      "text": "That's right, it was recorded at the BBC"
+    },
+    {
+      "start": 5658.86,
+      "end": 5664.84,
+      "text": "I mean, let's face it, credit where credit's due"
+    },
+    {
+      "start": 5664.84,
+      "end": 5667.86,
+      "text": "And a lot of credit was due to a lot of people in the BBC"
+    },
+    {
+      "start": 5667.86,
+      "end": 5669.98,
+      "text": "For putting that bad on the air in that period"
+    },
+    {
+      "start": 5669.98,
+      "end": 5672.96,
+      "text": "It's 25 minutes to midnight, well, I'll be damned"
+    },
+    {
+      "start": 5672.96,
+      "end": 6010.63,
+      "text": "Bit of a classic, Black Sabbath, Paranoid"
+    },
+    {
+      "start": 6010.63,
+      "end": 6014.27,
+      "text": "For loads of people, as always, because we get so many requests for Black Sabbath"
+    },
+    {
+      "start": 6014.27,
+      "end": 6015.37,
+      "text": "I'll just read a few out"
+    },
+    {
+      "start": 6015.37,
+      "end": 6018.31,
+      "text": "Stuart Grantham's got a 19th birthday on the 15th of November"
+    },
+    {
+      "start": 6018.31,
+      "end": 6020.49,
+      "text": "Happy birthday from Mum, Dad and Maureen"
+    },
+    {
+      "start": 6020.49,
+      "end": 6022.15,
+      "text": "All living in Middle Barton in Oxfordshire"
+    },
+    {
+      "start": 6022.15,
+      "end": 6024.13,
+      "text": "Know it well, lovely part of the world"
+    },
+    {
+      "start": 6024.13,
+      "end": 6030.13,
+      "text": "Licky Knox wanted me to play that for everybody in the fifth year at Smith Hills Moore Grammar School."
+    },
+    {
+      "start": 6030.13,
+      "end": 6032.13,
+      "text": "That's in Bolton in Lancashire."
+    },
+    {
+      "start": 6032.13,
+      "end": 6036.13,
+      "text": "I also had to play it for Sandra, from a gentleman who's having a bit of a holiday on the Isle of Wight."
+    },
+    {
+      "start": 6036.13,
+      "end": 6038.13,
+      "text": "And for all other Sabbath fans as well."
+    },
+    {
+      "start": 6038.13,
+      "end": 6043.13,
+      "text": "Before that you heard Hit or Miss from our session by the band, which I hope you enjoy."
+    },
+    {
+      "start": 6043.13,
+      "end": 6050.81,
+      "text": "Nineteen to Midnight, Diamond Head, Don't You Ever Leave Me."
+    },
+    {
+      "start": 6050.81,
+      "end": 6781.36,
+      "text": "What a rockin' band they are, that's Quartz from their album Stand Up and Fight."
+    },
+    {
+      "start": 6781.36,
+      "end": 6783.36,
+      "text": "The track was Can't Say No to You."
+    },
+    {
+      "start": 6783.36,
+      "end": 6784.7,
+      "text": "A good man from Birmingham."
+    },
+    {
+      "start": 6785.0,
+      "end": 6787.26,
+      "text": "Moseley School is in Birmingham, as if you didn't know."
+    },
+    {
+      "start": 6787.78,
+      "end": 6796.14,
+      "text": "And I've been asked to say hello to Andy and the two Daves and Paddy and Chids and Colin and our only girl Jackie, it says here."
+    },
+    {
+      "start": 6796.3,
+      "end": 6799.5,
+      "text": "All the Moseley sixth form rockers."
+    },
+    {
+      "start": 6800.3,
+      "end": 6805.4,
+      "text": "Right, and also it was for a lady by the name of Alison, about whom I know nothing, but I guess somebody out there does."
+    },
+    {
+      "start": 6806.03,
+      "end": 6807.89,
+      "text": "The track you heard before that was Diamond Head."
+    },
+    {
+      "start": 6808.53,
+      "end": 6811.87,
+      "text": "And they did a session for us tonight which I thought was absolutely spectacular."
+    },
+    {
+      "start": 6811.87,
+      "end": 6816.75,
+      "text": "well produced by tony wilson and extremely well played by that young band from worcestershire"
+    },
+    {
+      "start": 6816.75,
+      "end": 6821.86,
+      "text": "that you heard was don't you ever leave me we're gonna leave you with one track that has the title"
+    },
+    {
+      "start": 6821.86,
+      "end": 6826.58,
+      "text": "life in the fast lane but just before i play it i'd like to remind you that tonight there's a lot"
+    },
+    {
+      "start": 6826.58,
+      "end": 7137.74,
+      "text": "of black ice about on the roads if you're in the fast lane slow down and take it easy yours from"
+    },
+    {
+      "start": 7137.74,
+      "end": 7142.78,
+      "text": "the album eagles live a life in the fast lane and that's it for this edition of the friday rock show"
+    },
+    {
+      "start": 7142.78,
+      "end": 7146.1,
+      "text": "Hope you enjoyed Diamond Head and also The Damned"
+    },
+    {
+      "start": 7146.1,
+      "end": 7148.5,
+      "text": "On Rock on Saturday tomorrow between 4 and 7.30"
+    },
+    {
+      "start": 7148.5,
+      "end": 7152.02,
+      "text": "You'll hear John Anderson, P.I.L. and the Climax Blues Band in concert"
+    },
+    {
+      "start": 7152.02,
+      "end": 7152.96,
+      "text": "Which is mighty tasty"
+    },
+    {
+      "start": 7152.96,
+      "end": 7154.94,
+      "text": "My engineer tonight was Keith"
+    },
+    {
+      "start": 7154.94,
+      "end": 7156.26,
+      "text": "Following the time term for midnight"
+    },
+    {
+      "start": 7156.26,
+      "end": 7158.68,
+      "text": "The 275-285 transmitters will be closing down"
+    },
+    {
+      "start": 7158.68,
+      "end": 7159.62,
+      "text": "And now with more airtime"
+    },
+    {
+      "start": 7159.62,
+      "end": 7161.14,
+      "text": "Here's Tony Wilson, the producer of this program"
+    },
+    {
+      "start": 7161.14,
+      "end": 7161.44,
+      "text": "Tony"
+    },
+    {
+      "start": 7161.44,
+      "end": 7164.86,
+      "text": "The Friday Rock Show is produced by us just for you"
+    },
+    {
+      "start": 7164.86,
+      "end": 7167.64,
+      "text": "Oh, this is like an advert"
+    },
+    {
+      "start": 7167.64,
+      "end": 7168.58,
+      "text": "Yeah"
+    },
+    {
+      "start": 7168.58,
+      "end": 7174.02,
+      "text": "The Friday Rock Show is produced by us just for you"
+    },
+    {
+      "start": 7174.02,
+      "end": 7175.14,
+      "text": "And it is."
+    },
+    {
+      "start": 7176.41,
+      "end": 7180.11,
+      "text": "Wherever you are in our rather cold country, take care of yourselves."
+    },
+    {
+      "start": 7180.25,
+      "end": 7182.41,
+      "text": "If you're driving tonight, take extra care."
+    },
+    {
+      "start": 7182.75,
+      "end": 7183.51,
+      "text": "We'd hate to lose you."
+    },
+    {
+      "start": 7183.69,
+      "end": 7184.19,
+      "text": "And I mean that."
+    },
+    {
+      "start": 7184.67,
+      "end": 7186.09,
+      "text": "I'll see you tomorrow at four o'clock."
+    },
+    {
+      "start": 7186.23,
+      "end": 7188.23,
+      "text": "From me, Tommy Vance, good night and God bless."
     }
   ]
 }

@@ -30,32 +30,38 @@
     {
       "artist": "Frank Zappa",
       "track": "Who Needs The Peace Corps",
-      "details": "LP-We're Only In It For The Money"
+      "details": "LP-We're Only In It For The Money",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "The Byrds",
       "track": "Rock & Roll Star",
-      "details": "LP-Younger Than Yesterday"
+      "details": "LP-Younger Than Yesterday",
+      "verified_timestamp": 382.83
     },
     {
       "artist": "The Nice",
       "track": "The Thoughts Of Emerlist Davjack",
-      "details": "LP-The Thoughts Of Emerlist Davjack"
+      "details": "LP-The Thoughts Of Emerlist Davjack",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Electric Prunes",
       "track": "Get Me To The World On Time",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Eric Burdon & The New Animals",
       "track": "Good Times",
-      "details": "LP-Winds Of Change"
+      "details": "LP-Winds Of Change",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Cream",
       "track": "Sweet Wine",
-      "details": "Saturday Club session 1966-11-08"
+      "details": "Saturday Club session 1966-11-08",
+      "verified_timestamp": 981.62
     },
     {
       "artist": "Cream",
@@ -70,22 +76,26 @@
     {
       "artist": "Moody Blues",
       "track": "Tuesday Afternoon",
-      "details": "LP-Days Of Future Past"
+      "details": "LP-Days Of Future Past",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Interstellar Overdrive",
-      "details": "LP-Piper At The Gates Of Dawn"
+      "details": "LP-Piper At The Gates Of Dawn",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Country Joe & The Fish",
       "track": "'Fish Cheer/Feel Like I'm Fixin’ To Die'",
-      "details": "LP- Feel Like I'm Fixin’ To Die"
+      "details": "LP- Feel Like I'm Fixin’ To Die",
+      "verified_timestamp": 2849.86
     },
     {
       "artist": "Jefferson Airplane",
       "track": "White Rabbit",
-      "details": "LP-Surrealistic Pillow"
+      "details": "LP-Surrealistic Pillow",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "The Who",
@@ -95,7 +105,8 @@
     {
       "artist": "The Who",
       "track": "Happy Jack",
-      "details": "Saturday Club session 1967-01-17"
+      "details": "Saturday Club session 1967-01-17",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "The Who",
@@ -105,22 +116,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3335.82
     },
     {
       "artist": "Traffic",
       "track": "Dear Mr Fantasy",
-      "details": "LP-Mr Fantasy"
+      "details": "LP-Mr Fantasy",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "Rolling Stones",
       "track": "Citadel",
-      "details": "LP-Satanic Majesties Request"
+      "details": "LP-Satanic Majesties Request",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Experiencing The Blues",
-      "details": "Top Gear session 1967-10-06"
+      "details": "Top Gear session 1967-10-06",
+      "verified_timestamp": 5019.0
     },
     {
       "artist": "Jimi Hendrix",
@@ -135,17 +150,20 @@
     {
       "artist": "The Doors",
       "track": "Light My Fire",
-      "details": "LP-The Doors"
+      "details": "LP-The Doors",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Captain Beefheart",
       "track": "Sure Enough",
-      "details": "LP-Safe As Milk"
+      "details": "LP-Safe As Milk",
+      "verified_timestamp": 5917.46
     },
     {
       "artist": "Pink Floyd",
       "track": "Scarecrow",
-      "details": "Top Gear session 1967-09-25"
+      "details": "Top Gear session 1967-09-25",
+      "verified_timestamp": 2378.84
     },
     {
       "artist": "Pink Floyd",
@@ -160,7 +178,8 @@
     {
       "artist": "Velvet Underground & Nico",
       "track": "Heroin",
-      "details": "LP- Velvet Underground & Nico"
+      "details": "LP- Velvet Underground & Nico",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Beatles",
@@ -171,6 +190,998 @@
       "artist": "Beatles",
       "track": "A Day In The Life",
       "details": "LP-Sgt Peppers Lonely Hearts Club Band"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 4.69,
+      "end": 11.69,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 11.69,
+      "end": 27.7,
+      "text": "Well, hello there. Thomas the Vance here, TV on the radio, and welcome once again to The Friday Rock Show."
+    },
+    {
+      "start": 27.7,
+      "end": 35.73,
+      "text": "And tonight, welcome to Flashback 67. The whole show is built around the rock stars of that particular point in history."
+    },
+    {
+      "start": 35.73,
+      "end": 55.59,
+      "text": "Now, if you don't remember it, it might be fun for you to listen. If you do, you've got a mile of nostalgia."
+    },
+    {
+      "start": 55.59,
+      "end": 60.55,
+      "text": "we've got sessions by cream the who jimmy hendrix and pink floyd and also your favorite classic"
+    },
+    {
+      "start": 60.55,
+      "end": 65.99,
+      "text": "cuts from that year 67 by the beatles velvet underground doors beefheart traffic stones"
+    },
+    {
+      "start": 65.99,
+      "end": 71.03,
+      "text": "airplane country joe the mice eric burden the electric prunes the birds and others"
+    },
+    {
+      "start": 75.69,
+      "end": 93.75,
+      "text": "but tonight to start off here's frank zapper to tell you what it was really like"
+    },
+    {
+      "start": 252.83,
+      "end": 377.67,
+      "text": "Roger McGuinn, a.k.a. Jim McGuinn and Chris Hillman and David Crosby"
+    },
+    {
+      "start": 377.67,
+      "end": 380.79,
+      "text": "in a track from the only LP that the Byrds had out way back in 1967."
+    },
+    {
+      "start": 381.45,
+      "end": 382.83,
+      "text": "The album was called Younger Than Yesterday"
+    },
+    {
+      "start": 382.83,
+      "end": 385.43,
+      "text": "and the track you heard there was called So You Want To Be A Rock'n'Roll Star."
+    },
+    {
+      "start": 385.93,
+      "end": 387.43,
+      "text": "And we played it specially for Susan Harper"
+    },
+    {
+      "start": 387.43,
+      "end": 390.95,
+      "text": "at No. 284 Thornborough Road in Colville"
+    },
+    {
+      "start": 390.95,
+      "end": 395.09,
+      "text": "with lots and lots of love from Graham Winter of Keswick in Cumbria."
+    },
+    {
+      "start": 395.09,
+      "end": 397.65,
+      "text": "And before that you heard a track called Who Needs The Peace Corps"
+    },
+    {
+      "start": 397.65,
+      "end": 401.39,
+      "text": "from the second album that came out by Frank Zappa and the Mothers of Invention"
+    },
+    {
+      "start": 401.39,
+      "end": 405.07,
+      "text": "who incidentally used to be, before they got that sort of name applied to them,"
+    },
+    {
+      "start": 405.37,
+      "end": 407.09,
+      "text": "used to be known as the Soul Giants."
+    },
+    {
+      "start": 407.21,
+      "end": 409.45,
+      "text": "The track, as I said, was called Who Needs the Police Call."
+    },
+    {
+      "start": 409.65,
+      "end": 411.95,
+      "text": "The album was called We're Only In It For the Money."
+    },
+    {
+      "start": 412.29,
+      "end": 416.31,
+      "text": "Did you know that Frank Zappa did ten days in jail for recording a sex tape?"
+    },
+    {
+      "start": 416.91,
+      "end": 419.01,
+      "text": "Not particularly bad, I suppose, in its own way."
+    },
+    {
+      "start": 419.07,
+      "end": 421.63,
+      "text": "The only trouble is that he sold it to the police department."
+    },
+    {
+      "start": 795.69,
+      "end": 923.62,
+      "text": "The young lad from Walker-on-Tyne up there in and around Newcastle."
+    },
+    {
+      "start": 923.7,
+      "end": 926.88,
+      "text": "The track that came out on the album Winds of Change way back in 1967."
+    },
+    {
+      "start": 926.88,
+      "end": 930.18,
+      "text": "Eric Burden and The New Animals and Good Times."
+    },
+    {
+      "start": 930.24,
+      "end": 933.6,
+      "text": "And that really marked the change in his career from the boozy fella"
+    },
+    {
+      "start": 933.6,
+      "end": 938.5,
+      "text": "to the gentle-minded, or rather mind-expanded flower-power type."
+    },
+    {
+      "start": 938.62,
+      "end": 942.32,
+      "text": "And I played that especially because Rory, the Irish dentist, sent me a nice card."
+    },
+    {
+      "start": 942.86,
+      "end": 943.9,
+      "text": "Wants me to say hello to Sharon."
+    },
+    {
+      "start": 944.32,
+      "end": 948.74,
+      "text": "And also wants to be remembered to all the people that convene in a youth hostel in Corfu."
+    },
+    {
+      "start": 949.0,
+      "end": 954.08,
+      "text": "People from Glasgow and Edinburgh, Newcastle, Bradford, Rochdale, Solihull, London, etc."
+    },
+    {
+      "start": 954.08,
+      "end": 956.92,
+      "text": "And I played that as well for Chris and Paula Cassidy"
+    },
+    {
+      "start": 956.92,
+      "end": 959.06,
+      "text": "36 Wayman Road in Blackpool"
+    },
+    {
+      "start": 959.06,
+      "end": 961.26,
+      "text": "Prior to that you heard Get Me To The World On Time"
+    },
+    {
+      "start": 961.26,
+      "end": 962.24,
+      "text": "It was issued as a single"
+    },
+    {
+      "start": 962.24,
+      "end": 964.6,
+      "text": "It was actually the second single for the Electric Prunes"
+    },
+    {
+      "start": 964.6,
+      "end": 966.46,
+      "text": "It was a track on their first LP"
+    },
+    {
+      "start": 966.46,
+      "end": 969.38,
+      "text": "And it was called, as I said, Get Me To The World On Time"
+    },
+    {
+      "start": 969.38,
+      "end": 973.64,
+      "text": "That was for John Wingfield of 32 Norfolk Drive, St. Leonard's, East Sussex"
+    },
+    {
+      "start": 973.64,
+      "end": 976.14,
+      "text": "And before that, the thoughts of MLS Davjak"
+    },
+    {
+      "start": 976.14,
+      "end": 979.76,
+      "text": "Keith Emerson, Blinky Davison, Lee Jackson and David O'List"
+    },
+    {
+      "start": 979.76,
+      "end": 981.62,
+      "text": "From the album of the same name"
+    },
+    {
+      "start": 981.62,
+      "end": 1450.14,
+      "text": "flashback 67 it's 10:16 here a cream till tomorrow eric clapton ginger baker and mr jack bruce as"
+    },
+    {
+      "start": 1450.14,
+      "end": 1455.56,
+      "text": "they were on actually in 1966 that was recorded right at the end of 1966 three little bits of"
+    },
+    {
+      "start": 1455.56,
+      "end": 1461.44,
+      "text": "music they're stepping out on old memphis slim boogie that was actually recorded on live cream"
+    },
+    {
+      "start": 1461.44,
+      "end": 1466.56,
+      "text": "volume two and then before that you heard wrapping paper that came out as the b-side of a couple of"
+    },
+    {
+      "start": 1466.56,
+      "end": 1472.02,
+      "text": "their singles one of them being cat squirrel and prior to that cream and sweet wine that was on"
+    },
+    {
+      "start": 1472.02,
+      "end": 1478.52,
+      "text": "their album entitled fresh cream cream were formed in 66 broke up in 68 but during that two-year"
+    },
+    {
+      "start": 1478.52,
+      "end": 2378.84,
+      "text": "period made a lot of noise and just imagine the effect that that had on people when it came out"
+    },
+    {
+      "start": 2378.84,
+      "end": 2384.48,
+      "text": "way back in 1967 the pink floyd from their first album called the piper at the gates of dawn and"
+    },
+    {
+      "start": 2384.48,
+      "end": 2389.2,
+      "text": "the track was called interstellar overdrive played that for everybody who wrote in and that was"
+    },
+    {
+      "start": 2389.2,
+      "end": 2390.76,
+      "text": "many, many, many people."
+    },
+    {
+      "start": 2390.92,
+      "end": 2392.44,
+      "text": "I haven't got time to read out everybody's name,"
+    },
+    {
+      "start": 2392.46,
+      "end": 2393.18,
+      "text": "but you know who you are."
+    },
+    {
+      "start": 2393.6,
+      "end": 2394.6,
+      "text": "I'll just read out one card"
+    },
+    {
+      "start": 2394.6,
+      "end": 2396.1,
+      "text": "because it's really nicely put together."
+    },
+    {
+      "start": 2396.44,
+      "end": 2398.02,
+      "text": "It really is beautifully illustrated,"
+    },
+    {
+      "start": 2398.62,
+      "end": 2399.9,
+      "text": "said he in his poshest English."
+    },
+    {
+      "start": 2400.26,
+      "end": 2401.44,
+      "text": "It comes from Mark Hutchinson"
+    },
+    {
+      "start": 2401.44,
+      "end": 2403.38,
+      "text": "of No. 45 Enfield Drive,"
+    },
+    {
+      "start": 2403.86,
+      "end": 2405.28,
+      "text": "Wibsby, I think it is, Bradford."
+    },
+    {
+      "start": 2405.36,
+      "end": 2408.12,
+      "text": "He played for all the Floyd fans around the country"
+    },
+    {
+      "start": 2408.12,
+      "end": 2409.62,
+      "text": "and for everybody in Bradford."
+    },
+    {
+      "start": 2409.7,
+      "end": 2411.28,
+      "text": "I haven't heard that track in years."
+    },
+    {
+      "start": 2411.46,
+      "end": 2413.22,
+      "text": "It's an amazing cacophony, isn't it?"
+    },
+    {
+      "start": 2413.58,
+      "end": 2414.5,
+      "text": "And they're still doing it."
+    },
+    {
+      "start": 2414.58,
+      "end": 2415.16,
+      "text": "Gigs in June."
+    },
+    {
+      "start": 2415.26,
+      "end": 2416.66,
+      "text": "We'll let you know when the tickets go on sale"
+    },
+    {
+      "start": 2416.66,
+      "end": 2418.88,
+      "text": "and the best of luck in trying to get hold of some."
+    },
+    {
+      "start": 2418.88,
+      "end": 2421.68,
+      "text": "Something like five gigs, I think, here in London."
+    },
+    {
+      "start": 2422.1,
+      "end": 2423.54,
+      "text": "And also an open-air concert, possibly."
+    },
+    {
+      "start": 2423.9,
+      "end": 2426.58,
+      "text": "More from the Floyd later, from that particular era of 67,"
+    },
+    {
+      "start": 2426.72,
+      "end": 2430.06,
+      "text": "as indeed you heard Days of Future Past from 1967."
+    },
+    {
+      "start": 2430.72,
+      "end": 2433.9,
+      "text": "Or rather, the track called Tuesday Afternoon from that album of the same name."
+    },
+    {
+      "start": 2433.94,
+      "end": 2436.38,
+      "text": "And that was the album that spawned Nights in White Satin."
+    },
+    {
+      "start": 2436.86,
+      "end": 2438.34,
+      "text": "And of course it was the Moody Blues."
+    },
+    {
+      "start": 2524.59,
+      "end": 2813.96,
+      "text": "Real classic."
+    },
+    {
+      "start": 2814.42,
+      "end": 2816.16,
+      "text": "1967, White Rabbit."
+    },
+    {
+      "start": 2816.56,
+      "end": 2818.78,
+      "text": "And of course it was sung and written by Grace Slick,"
+    },
+    {
+      "start": 2818.94,
+      "end": 2820.26,
+      "text": "done by Jefferson Airplane."
+    },
+    {
+      "start": 2820.26,
+      "end": 2825.2,
+      "text": "It was off the album Surrealistic Pillow, but not the English version of the album,"
+    },
+    {
+      "start": 2825.36,
+      "end": 2827.84,
+      "text": "not the one that came out in Britain, only the American one,"
+    },
+    {
+      "start": 2828.22,
+      "end": 2831.34,
+      "text": "and that is something that we found out today, which quite surprised us, actually."
+    },
+    {
+      "start": 2831.8,
+      "end": 2833.36,
+      "text": "Jefferson's Starship, of course, is still going."
+    },
+    {
+      "start": 2833.44,
+      "end": 2835.2,
+      "text": "They've got a really good single out at the moment called Jane."
+    },
+    {
+      "start": 2835.3,
+      "end": 2837.0,
+      "text": "Nobody seems to know where Grace Slick is."
+    },
+    {
+      "start": 2837.48,
+      "end": 2840.64,
+      "text": "She seems to be bathing at Baxter's again, which, of course, was the title,"
+    },
+    {
+      "start": 2841.06,
+      "end": 2845.84,
+      "text": "with the word after in the front of it, of the other album that Jefferson Airplane had out in 1967."
+    },
+    {
+      "start": 2845.84,
+      "end": 2849.86,
+      "text": "and before that something by country joe and the fish called the fish cheer and the"
+    },
+    {
+      "start": 2849.86,
+      "end": 2855.64,
+      "text": "i feel like i'm fixing to die rag and did you know that that originally was recorded on a 1965"
+    },
+    {
+      "start": 2855.64,
+      "end": 2862.18,
+      "text": "ep that came out in america on the tacoma label it was called rag baby and did you also know the"
+    },
+    {
+      "start": 2862.18,
+      "end": 2875.45,
+      "text": "country joe or joseph if you like was named after joseph stalin 13 minutes before 11 o'clock here"
+    },
+    {
+      "start": 2875.45,
+      "end": 2876.05,
+      "text": "are The Who."
+    },
+    {
+      "start": 2877.81,
+      "end": 3268.56,
+      "text": "On the 17th of January"
+    },
+    {
+      "start": 3268.56,
+      "end": 3270.46,
+      "text": "1967 in the BBC"
+    },
+    {
+      "start": 3270.46,
+      "end": 3272.4,
+      "text": "studios, the tracks you heard were See My Way,"
+    },
+    {
+      "start": 3272.52,
+      "end": 3274.08,
+      "text": "Happy Jack, and Boris the Spider."
+    },
+    {
+      "start": 3274.8,
+      "end": 3276.8,
+      "text": "And I can see Mooney's face from here."
+    },
+    {
+      "start": 3276.88,
+      "end": 3278.76,
+      "text": "If I look upwards, I'm sure he enjoyed hearing"
+    },
+    {
+      "start": 3278.76,
+      "end": 3283.64,
+      "text": "all that again. Somebody I know"
+    },
+    {
+      "start": 3283.64,
+      "end": 3285.64,
+      "text": "who certainly did want to hear a Who session"
+    },
+    {
+      "start": 3285.64,
+      "end": 3287.98,
+      "text": "was James Ferguson of 39A"
+    },
+    {
+      "start": 3287.98,
+      "end": 3289.8,
+      "text": "North Park Road, Bramhall"
+    },
+    {
+      "start": 3289.8,
+      "end": 3292.1,
+      "text": "in Stockport. There you go, James. Hope you enjoyed it."
+    },
+    {
+      "start": 3293.34,
+      "end": 3294.1,
+      "text": "Time for the Friday Night"
+    },
+    {
+      "start": 3294.1,
+      "end": 3295.7,
+      "text": "Connection. Now, the tracks we played you last week"
+    },
+    {
+      "start": 3295.7,
+      "end": 3297.64,
+      "text": "were Keith Don't Go by Nils Loughran,"
+    },
+    {
+      "start": 3297.74,
+      "end": 3303.32,
+      "text": "off the LP Nils Loughlin, Shine On, You Crazy Diamond from Wish You Were Here by the Pink Floyd,"
+    },
+    {
+      "start": 3303.52,
+      "end": 3306.06,
+      "text": "and How Do You Sleep by John Lennon from Imagine."
+    },
+    {
+      "start": 3307.35,
+      "end": 3308.67,
+      "text": "I think just about everybody got it right."
+    },
+    {
+      "start": 3309.8,
+      "end": 3310.86,
+      "text": "I'll tell you the answer anyway."
+    },
+    {
+      "start": 3311.87,
+      "end": 3314.53,
+      "text": "All those songs related to other people in the music business."
+    },
+    {
+      "start": 3314.93,
+      "end": 3320.31,
+      "text": "Shine On, You Crazy Diamond, Sid Barrett, How Do You Sleep, Paul McCartney, Keith Richard,"
+    },
+    {
+      "start": 3320.51,
+      "end": 3322.39,
+      "text": "or Richards if you like, Keith Don't Go."
+    },
+    {
+      "start": 3323.5,
+      "end": 3326.26,
+      "text": "And the card that we pulled out of the bag of enormous right answers"
+    },
+    {
+      "start": 3326.26,
+      "end": 3331.22,
+      "text": "was the one from Jack Haynes of 202 East Lancashire Road, Swinton, Manchester."
+    },
+    {
+      "start": 3331.72,
+      "end": 3333.66,
+      "text": "Mr. Haynes, you get yourself a £10 record total."
+    },
+    {
+      "start": 3334.32,
+      "end": 3334.72,
+      "text": "Congratulations."
+    },
+    {
+      "start": 3335.82,
+      "end": 3341.44,
+      "text": "Also, of course, I asked you to put together a Friday Night Connection that related to 1967."
+    },
+    {
+      "start": 3341.44,
+      "end": 3347.0,
+      "text": "Well, Jack has done something that relates to 1967 and some other period in history as well."
+    },
+    {
+      "start": 3347.18,
+      "end": 3351.28,
+      "text": "So, in other words, what I'm doing is I'm warning you that there is a bit of a catch."
+    },
+    {
+      "start": 3351.28,
+      "end": 3353.52,
+      "text": "has a little bit of a catch in this,"
+    },
+    {
+      "start": 3354.04,
+      "end": 3356.18,
+      "text": "but there is a 67 connection as well."
+    },
+    {
+      "start": 3356.66,
+      "end": 3358.26,
+      "text": "If you can get both of them, then you'll win."
+    },
+    {
+      "start": 3838.68,
+      "end": 4035.92,
+      "text": "Friday Night Connection for tonight."
+    },
+    {
+      "start": 4036.1,
+      "end": 4038.4,
+      "text": "All put together by Jack Haynes of Swinton in Manchester."
+    },
+    {
+      "start": 4038.58,
+      "end": 4040.64,
+      "text": "If you think you know what the answers are, there are two of them."
+    },
+    {
+      "start": 4040.74,
+      "end": 4041.38,
+      "text": "A bit catchy."
+    },
+    {
+      "start": 4042.0,
+      "end": 4044.26,
+      "text": "Put them down on a postcard and send them to me."
+    },
+    {
+      "start": 4044.32,
+      "end": 4045.86,
+      "text": "Tommy Vance, The Friday Night Connection,"
+    },
+    {
+      "start": 4046.14,
+      "end": 4048.18,
+      "text": "The Friday Rock Show, BBC Radio 1,"
+    },
+    {
+      "start": 4048.62,
+      "end": 4050.56,
+      "text": "London W1A 4WW."
+    },
+    {
+      "start": 4050.56,
+      "end": 4054.18,
+      "text": "And don't forget to put together your own Friday Night Connection as well."
+    },
+    {
+      "start": 4054.64,
+      "end": 4055.74,
+      "text": "And make it a good'un."
+    },
+    {
+      "start": 4065.04,
+      "end": 4066.3,
+      "text": "And now here's another classic."
+    },
+    {
+      "start": 4066.7,
+      "end": 4557.34,
+      "text": "From their Satanic Magister's Request,"
+    },
+    {
+      "start": 4557.44,
+      "end": 4559.9,
+      "text": "they had the Rolling Stones and the track called Citadel."
+    },
+    {
+      "start": 4560.2,
+      "end": 4562.44,
+      "text": "They were formed in 62, first LP in 64,"
+    },
+    {
+      "start": 4562.6,
+      "end": 4564.34,
+      "text": "looking forward to another one in March of this year."
+    },
+    {
+      "start": 4564.82,
+      "end": 4567.3,
+      "text": "Played that specially for Paul and Liz and Deb and Shirley and Tom,"
+    },
+    {
+      "start": 4567.58,
+      "end": 4570.44,
+      "text": "who were down there in Shaulbraun, I think it is in Marlborough in Wiltshire."
+    },
+    {
+      "start": 4570.86,
+      "end": 4572.94,
+      "text": "Before that, you heard Traffic and a track from their album,"
+    },
+    {
+      "start": 4573.04,
+      "end": 4575.42,
+      "text": "The Lee Track, called Mr Fantasy, as indeed the album was."
+    },
+    {
+      "start": 4575.82,
+      "end": 4578.66,
+      "text": "Stevie Winwood, Chris Wood, Dave Mason and Jim Capaldi."
+    },
+    {
+      "start": 4578.66,
+      "end": 4580.88,
+      "text": "Formed 67, broke up in 1974."
+    },
+    {
+      "start": 4580.88,
+      "end": 4587.46,
+      "text": "But so many changes over those years, they were about as varied as a dole cue in the middle of a very bad recession."
+    },
+    {
+      "start": 4587.68,
+      "end": 4590.9,
+      "text": "We played especially for Jeff, who lives in Downham in Kent."
+    },
+    {
+      "start": 4591.14,
+      "end": 4592.88,
+      "text": "And now here's James H."
+    },
+    {
+      "start": 5019.0,
+      "end": 5332.6,
+      "text": "Jimmy Hendrix Experience from the 6th to the 10th of 1967."
+    },
+    {
+      "start": 5332.9,
+      "end": 5336.16,
+      "text": "A track there that he recorded just for a laugh in the BBC studios on that day."
+    },
+    {
+      "start": 5336.26,
+      "end": 5338.34,
+      "text": "Hound Dog before that burning of the midnight lamp"
+    },
+    {
+      "start": 5338.34,
+      "end": 5340.74,
+      "text": "and prior to that experiencing the blues."
+    },
+    {
+      "start": 5340.9,
+      "end": 5343.78,
+      "text": "What can you say about Jimmy Hendrix other than the fact that he was great?"
+    },
+    {
+      "start": 5344.3,
+      "end": 5345.92,
+      "text": "If you've just fallen in from the pub"
+    },
+    {
+      "start": 5345.92,
+      "end": 5348.34,
+      "text": "and you're wondering what's happening to the Friday Rock Show,"
+    },
+    {
+      "start": 5348.34,
+      "end": 5351.92,
+      "text": "Tonight we're flashing back to 67."
+    },
+    {
+      "start": 5765.1,
+      "end": 5917.46,
+      "text": "And the album Safe As Milk, Captain Deep Heart and his magic band Don Van Vliet"
+    },
+    {
+      "start": 5917.46,
+      "end": 5920.38,
+      "text": "with Rye Cooter on that track as well and Sure Enough and Yes I Do."
+    },
+    {
+      "start": 5920.9,
+      "end": 5922.62,
+      "text": "And that was specially for Nick Williams of Tonbridge"
+    },
+    {
+      "start": 5922.62,
+      "end": 5925.78,
+      "text": "and before that you heard a real classic, Light My Fire By The Doors"
+    },
+    {
+      "start": 5925.78,
+      "end": 5929.04,
+      "text": "from the first album they brought out in 1967 called The Doors."
+    },
+    {
+      "start": 5929.04,
+      "end": 5933.88,
+      "text": "And that was for Nigel, for Gretchen, for Mort, I think it is, and Paul and Zane and Agaric."
+    },
+    {
+      "start": 5934.3,
+      "end": 5937.9,
+      "text": "And Hogwash, the top flat groupies down there in Newton Abbot in Devon."
+    },
+    {
+      "start": 5938.24,
+      "end": 5944.02,
+      "text": "And also for Sarah W., who isn't a Dawes fan, from Sam in Staffordshire, who is."
+    },
+    {
+      "start": 5944.28,
+      "end": 5945.06,
+      "text": "And here are the Floyd."
+    },
+    {
+      "start": 6031.92,
+      "end": 6425.33,
+      "text": "Sorry about the quality of those."
+    },
+    {
+      "start": 6425.41,
+      "end": 6426.91,
+      "text": "That's the only way they exist."
+    },
+    {
+      "start": 6426.91,
+      "end": 6430.15,
+      "text": "Recorded off the radio on the 25th of the 9th, 1967."
+    },
+    {
+      "start": 6430.45,
+      "end": 6433.13,
+      "text": "The Pink Floyd and Scarecrow, Gnome and Matilda Mother."
+    },
+    {
+      "start": 6433.23,
+      "end": 6436.27,
+      "text": "All tracks that you'll find on their first album, Piper at the Gates of Dawn."
+    },
+    {
+      "start": 6436.67,
+      "end": 6438.67,
+      "text": "Featuring, of course, Sid Barrett."
+    },
+    {
+      "start": 6438.93,
+      "end": 6441.57,
+      "text": "And everybody who's written Asking for Floyd has also said,"
+    },
+    {
+      "start": 6441.93,
+      "end": 6443.69,
+      "text": "Sid, wherever you are, hope you're well."
+    },
+    {
+      "start": 6543.85,
+      "end": 6879.65,
+      "text": "Still a vicious piece of music."
+    },
+    {
+      "start": 6879.79,
+      "end": 6881.79,
+      "text": "The Velvet Underground and Nico was the name of the album."
+    },
+    {
+      "start": 6881.89,
+      "end": 6882.91,
+      "text": "The track there was Heroin."
+    },
+    {
+      "start": 6882.97,
+      "end": 6886.43,
+      "text": "We played especially for Keith Livingston of County Down over in Northern Ireland"
+    },
+    {
+      "start": 6886.43,
+      "end": 6889.13,
+      "text": "and for Pete Ludlam of Reddish in Stockport"
+    },
+    {
+      "start": 6889.13,
+      "end": 6891.71,
+      "text": "and also for Eddie Harker of Cleethorpes."
+    },
+    {
+      "start": 6891.81,
+      "end": 6893.89,
+      "text": "John Cale, a Welshman, Nico, a German lady,"
+    },
+    {
+      "start": 6894.01,
+      "end": 6897.15,
+      "text": "and Lou Reed were the people who really were behind that band."
+    },
+    {
+      "start": 6897.15,
+      "end": 6899.33,
+      "text": "formed in 66, they broke up in 1970."
+    },
+    {
+      "start": 6899.91,
+      "end": 6900.97,
+      "text": "Tomorrow on Rock on Saturday,"
+    },
+    {
+      "start": 6901.11,
+      "end": 6902.89,
+      "text": "Anthony Moore, Uriah Heep, David Cunningham"
+    },
+    {
+      "start": 6902.89,
+      "end": 6904.93,
+      "text": "and Richard Strange, Joe Jackson and the Portraits"
+    },
+    {
+      "start": 6904.93,
+      "end": 6907.15,
+      "text": "in Concert, and next week on the Friday Rock Show"
+    },
+    {
+      "start": 6907.15,
+      "end": 6908.97,
+      "text": "we'll have Saxon and Ten Years After."
+    },
+    {
+      "start": 6909.33,
+      "end": 6910.97,
+      "text": "Hope you've enjoyed Flashback 67."
+    },
+    {
+      "start": 6911.49,
+      "end": 6912.87,
+      "text": "In a couple of three weeks or more,"
+    },
+    {
+      "start": 6912.99,
+      "end": 6915.07,
+      "text": "we'll have Flashback 68. Our engineer was Paul,"
+    },
+    {
+      "start": 6915.17,
+      "end": 6917.29,
+      "text": "thank you Paul, and the producer was Tony Wilson."
+    },
+    {
+      "start": 6917.47,
+      "end": 6919.25,
+      "text": "Mr Wilson, what shall we sign off with tonight?"
+    },
+    {
+      "start": 6919.97,
+      "end": 6921.29,
+      "text": "Oh good lord, don't ask me that."
+    },
+    {
+      "start": 6921.33,
+      "end": 6922.49,
+      "text": "You'll come back next week."
+    },
+    {
+      "start": 6923.61,
+      "end": 6925.13,
+      "text": "I think we've got to do it"
+    },
+    {
+      "start": 6925.13,
+      "end": 6926.55,
+      "text": "with this. Good night."
     }
   ]
 }

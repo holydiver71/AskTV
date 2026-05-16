@@ -17,32 +17,38 @@
     {
       "artist": "Yes",
       "track": "Starship trooper",
-      "details": "LP-Yessongs; Atlantic"
+      "details": "LP-Yessongs; Atlantic",
+      "verified_timestamp": 600.59
     },
     {
       "artist": "Motorhead",
       "track": "Love Me Like A Reptile",
-      "details": "LP-Ace Of Spades; Bronze"
+      "details": "LP-Ace Of Spades; Bronze",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Kiss",
       "track": "Detroit Rock City",
-      "details": "LP-Destroyer; Casablanca"
+      "details": "LP-Destroyer; Casablanca",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Rhapsody",
       "track": "Bellydancer",
-      "details": "LP-Rhapsody; Tyfon"
+      "details": "LP-Rhapsody; Tyfon",
+      "verified_timestamp": 1895.91
     },
     {
       "artist": "Barclay James Harvest",
       "track": "Child Of The Universe",
-      "details": "LP-Everyone Is Everybody Else; Polydor"
+      "details": "LP-Everyone Is Everybody Else; Polydor",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Saxon",
       "track": "Stallions Of The Highway",
-      "details": "LP-Saxon; Carrere"
+      "details": "LP-Saxon; Carrere",
+      "verified_timestamp": 2297.42
     },
     {
       "artist": "Molly Hatchett",
@@ -52,32 +58,38 @@
     {
       "artist": "Dire Straits",
       "track": "Skateaway",
-      "details": "LP-Making Movies; Vertigo"
+      "details": "LP-Making Movies; Vertigo",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Rory Gallagher",
       "track": "Shadowplay",
-      "details": "LP-Stagestruck; Chrysalis"
+      "details": "LP-Stagestruck; Chrysalis",
+      "verified_timestamp": 3031.29
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3083.54
     },
     {
       "artist": "Michael Schenker Group",
       "track": "Cry For The Nations",
-      "details": "LP-Michael Schenker Group; Chrysalis"
+      "details": "LP-Michael Schenker Group; Chrysalis",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Angel Witch",
       "track": "Angel Witch",
-      "details": "7\"; Bronze"
+      "details": "7\"; Bronze",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Queen",
       "track": "Brighton Rock",
-      "details": "LP-Live Killers; EMI"
+      "details": "LP-Live Killers; EMI",
+      "verified_timestamp": 3049.3
     },
     {
       "artist": "Caravan",
@@ -87,12 +99,665 @@
     {
       "artist": "Chevy",
       "track": "Skybird",
-      "details": "LP-The Taker; Avatar Record"
+      "details": "LP-The Taker; Avatar Record",
+      "verified_timestamp": 6020.48
     },
     {
       "artist": "AC/DC",
       "track": "Touch Too Much",
       "details": "LP-Highway To Hell; Atlantic"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 600.59,
+      "end": 604.1,
+      "text": "Tom's Yes Songs and Starship Trooper."
+    },
+    {
+      "start": 604.1,
+      "end": 608.1,
+      "text": "That was most especially for Timo and Richie and Robbie and Slim and Steve and Al and Pat."
+    },
+    {
+      "start": 608.1,
+      "end": 612.1,
+      "text": "And also for Linda and Phil and all the Haywarden high Yes freaks."
+    },
+    {
+      "start": 612.1,
+      "end": 617.1,
+      "text": "And also, according to this card, for Trevor Horn to show him how to sing properly."
+    },
+    {
+      "start": 617.1,
+      "end": 619.1,
+      "text": "Which I think's a bit mean, but there you go."
+    },
+    {
+      "start": 619.1,
+      "end": 623.99,
+      "text": "The guy can only do his best. Postmark clue it."
+    },
+    {
+      "start": 623.99,
+      "end": 626.99,
+      "text": "23 minutes it is after 10 o'clock here on the Friday Rock Show."
+    },
+    {
+      "start": 626.99,
+      "end": 632.99,
+      "text": "Now I'd like you to help us to put together a program that we'll broadcast on or around November the 14th."
+    },
+    {
+      "start": 632.99,
+      "end": 637.03,
+      "text": "remember about a year ago on our first birthday the first birthday that is of the friday rock show"
+    },
+    {
+      "start": 637.03,
+      "end": 642.21,
+      "text": "we put together a rock chart based entirely upon what you thought were the best rock tracks where"
+    },
+    {
+      "start": 642.21,
+      "end": 646.67,
+      "text": "we'd like to do the same thing again this year mainly because it makes interesting listening"
+    },
+    {
+      "start": 646.67,
+      "end": 651.15,
+      "text": "because the music is all based on entirely what the audience of this program thinks"
+    },
+    {
+      "start": 651.15,
+      "end": 658.11,
+      "text": "and i'd dearly like you to help and this is how you can put on a postcard your all-time and i know"
+    },
+    {
+      "start": 658.11,
+      "end": 665.95,
+      "text": "it's a hard choice but your all-time favorite rock track and send it to twos up the friday rock show"
+    },
+    {
+      "start": 665.95,
+      "end": 675.23,
+      "text": "radio one broadcasting house london w1a4ww and on our second birthday the whole two hours will be"
+    },
+    {
+      "start": 675.23,
+      "end": 1102.86,
+      "text": "put together entirely and utterly by you tar this is motorhead kiss from the album destroyer and the"
+    },
+    {
+      "start": 1102.86,
+      "end": 1109.78,
+      "text": "track called detroit rock city especially for just one member of the kiss army a gentleman by"
+    },
+    {
+      "start": 1109.78,
+      "end": 1116.75,
+      "text": "the name of pope rinder singh verdi who lives in swansea and also for jerry and chris the two girls"
+    },
+    {
+      "start": 1116.75,
+      "end": 1124.09,
+      "text": "i'm told here in the letter anyway who wear black lycras whatever they may be and also a lady by the"
+    },
+    {
+      "start": 1124.09,
+      "end": 1128.9,
+      "text": "name of audrey who lives in darwin in lancashire and before that you heard something from the brand"
+    },
+    {
+      "start": 1128.9,
+      "end": 1133.54,
+      "text": "new murderhead album the album called ace of spades the track we played was entitled love me"
+    },
+    {
+      "start": 1133.54,
+      "end": 1139.22,
+      "text": "like a reptile and that was for steve and gibbs and bar and richby and kurt and all the normans"
+    },
+    {
+      "start": 1139.22,
+      "end": 1144.68,
+      "text": "also steve and the levers it says here the levers to go to do something in bisley best wishes from"
+    },
+    {
+      "start": 1144.68,
+      "end": 1149.12,
+      "text": "a gentleman by the name of reg postmarked wolverhampton and the motor hair track was"
+    },
+    {
+      "start": 1149.12,
+      "end": 1154.79,
+      "text": "also for all the brentwood heavy metal freaks from pete budgen who lives in brentwood and also for"
+    },
+    {
+      "start": 1154.79,
+      "end": 1160.37,
+      "text": "sticks nigel and nigel six finney difficult to pronounce a certainly was and steven cletus bagley"
+    },
+    {
+      "start": 1160.37,
+      "end": 1167.57,
+      "text": "And Simon Evans and Mickey Mouse, hello Mickey Mouse, Dewey and Geraint and Morph and Janish and Sean and Alan and Russ."
+    },
+    {
+      "start": 1167.75,
+      "end": 1171.23,
+      "text": "Best wishes from David Williams who lives in Penwitham, which is up in Cheshire."
+    },
+    {
+      "start": 1173.81,
+      "end": 1177.05,
+      "text": "This is a Swedish band and I think this is a great track."
+    },
+    {
+      "start": 1177.53,
+      "end": 1874.18,
+      "text": "Album entitled Everyone is Everybody Else, Barclay James Harvest and Child of the Universe."
+    },
+    {
+      "start": 1874.44,
+      "end": 1881.62,
+      "text": "Most especially for C.P. Warrington, who wanted me to play it for the many who failed A-levels at Merchant Taylor's Northwood during the summer."
+    },
+    {
+      "start": 1881.62,
+      "end": 1883.78,
+      "text": "But, hard luck, you can always try again."
+    },
+    {
+      "start": 1885.73,
+      "end": 1889.79,
+      "text": "And the track that I played before that was from a Swedish band by the name of Rhapsody,"
+    },
+    {
+      "start": 1889.95,
+      "end": 1891.19,
+      "text": "from an album called Rhapsody."
+    },
+    {
+      "start": 1891.79,
+      "end": 1895.83,
+      "text": "It's on import in this country, if you can find it, on the Typhon label, T-Y-F-O-N."
+    },
+    {
+      "start": 1895.91,
+      "end": 1897.15,
+      "text": "The track was called Bellydancer."
+    },
+    {
+      "start": 1897.67,
+      "end": 1900.99,
+      "text": "And many thanks to Håkan Bergström and Peter Lennfolk,"
+    },
+    {
+      "start": 1901.39,
+      "end": 1904.57,
+      "text": "who live in Hoddinga, or maybe Hodding, in Sweden,"
+    },
+    {
+      "start": 1904.95,
+      "end": 1906.57,
+      "text": "because they very kindly sent us the album,"
+    },
+    {
+      "start": 1906.57,
+      "end": 1909.33,
+      "text": "and they keep us informed of what's happening in the music scene in Sweden."
+    },
+    {
+      "start": 1909.65,
+      "end": 1910.25,
+      "text": "And we're grateful."
+    },
+    {
+      "start": 1910.85,
+      "end": 2291.45,
+      "text": "That's their latest album, and it's out on Epic."
+    },
+    {
+      "start": 2291.45,
+      "end": 2297.42,
+      "text": "it's called beating the odds and before that something by saxon i've got a new album coming"
+    },
+    {
+      "start": 2297.42,
+      "end": 2301.46,
+      "text": "out in a few weeks time and the album was called saxon the track was stallions of the highway"
+    },
+    {
+      "start": 2301.46,
+      "end": 2306.6,
+      "text": "it's eight minutes now to 11 o'clock we played stallions of the highway especially for"
+    },
+    {
+      "start": 2306.6,
+      "end": 2313.54,
+      "text": "grunger it says here and john and genius stewerly and stewerly and stewerly from ewan roberts who"
+    },
+    {
+      "start": 2313.54,
+      "end": 2322.11,
+      "text": "lives in neilston in glasgow and also for somebody by the name of stephen logan who had a no i'm not"
+    },
+    {
+      "start": 2322.11,
+      "end": 2324.53,
+      "text": "Not saying what he had, he got married on the 19th of September."
+    },
+    {
+      "start": 2325.05,
+      "end": 2327.63,
+      "text": "I was actually going to say he had a birthday, but that's not just the same thing, isn't it?"
+    },
+    {
+      "start": 2328.27,
+      "end": 2330.69,
+      "text": "Best wishes for that date some time away."
+    },
+    {
+      "start": 2332.96,
+      "end": 2333.92,
+      "text": "In the past, if you like."
+    },
+    {
+      "start": 2334.28,
+      "end": 2336.4,
+      "text": "Best wishes from Grant Brady, who lives in Galashiels."
+    },
+    {
+      "start": 2337.58,
+      "end": 2341.34,
+      "text": "Saxon track was also for all the good mates of Grant Davison, who lives in Bournemouth and Dorset."
+    },
+    {
+      "start": 2341.76,
+      "end": 2345.84,
+      "text": "And for Andy Hodges, who's in Northampton."
+    },
+    {
+      "start": 2350.44,
+      "end": 2351.2,
+      "text": "Dire Straits."
+    },
+    {
+      "start": 2351.2,
+      "end": 2386.29,
+      "text": "Down a long way, between the lack of urban glory and all."
+    },
+    {
+      "start": 2386.29,
+      "end": 2388.45,
+      "text": "She had wheels on"
+    },
+    {
+      "start": 2388.45,
+      "end": 2394.08,
+      "text": "The cars do the usual dance"
+    },
+    {
+      "start": 2394.08,
+      "end": 2398.55,
+      "text": "Same old cruise in the curbside crawl"
+    },
+    {
+      "start": 2398.55,
+      "end": 2402.33,
+      "text": "Roller girls, he's taking chances"
+    },
+    {
+      "start": 2402.33,
+      "end": 2406.02,
+      "text": "Love to see her"
+    },
+    {
+      "start": 2406.02,
+      "end": 2407.58,
+      "text": "Take them all"
+    },
+    {
+      "start": 2407.58,
+      "end": 2438.74,
+      "text": "You know she used to have to wait around"
+    },
+    {
+      "start": 2438.74,
+      "end": 2440.74,
+      "text": "She used to be the only one"
+    },
+    {
+      "start": 2440.74,
+      "end": 3024.54,
+      "text": "If he doesn't, there's no justice"
+    },
+    {
+      "start": 3024.54,
+      "end": 3027.35,
+      "text": "Rory Gallagher, a track from his new album"
+    },
+    {
+      "start": 3027.35,
+      "end": 3028.61,
+      "text": "Which is just out on Chrysalis"
+    },
+    {
+      "start": 3028.61,
+      "end": 3031.29,
+      "text": "The album is a live one, it's called Stage Struck"
+    },
+    {
+      "start": 3031.29,
+      "end": 3033.61,
+      "text": "And the track you heard there was Shadowplay"
+    },
+    {
+      "start": 3033.61,
+      "end": 3039.32,
+      "text": "Be so far, so good"
+    },
+    {
+      "start": 3039.32,
+      "end": 3043.34,
+      "text": "Ohio by Crosby, Stills, Nash & Young from the LP 4-Way Street."
+    },
+    {
+      "start": 3043.84,
+      "end": 3045.16,
+      "text": "And then I played you Vivaldi."
+    },
+    {
+      "start": 3045.16,
+      "end": 3045.34,
+      "text": "Who?"
+    },
+    {
+      "start": 3045.66,
+      "end": 3046.14,
+      "text": "Vivaldi."
+    },
+    {
+      "start": 3046.34,
+      "end": 3046.62,
+      "text": "Wait."
+    },
+    {
+      "start": 3047.04,
+      "end": 3049.1,
+      "text": "Curved Air from the LP Air Conditioning."
+    },
+    {
+      "start": 3049.3,
+      "end": 3049.54,
+      "text": "Right."
+    },
+    {
+      "start": 3050.0,
+      "end": 3054.32,
+      "text": "Rocky Mountain Way, 4-Way Street, and Daryl Way."
+    },
+    {
+      "start": 3054.52,
+      "end": 3057.94,
+      "text": "He was the guy that played the old violin on the track called Vivaldi,"
+    },
+    {
+      "start": 3058.36,
+      "end": 3059.96,
+      "text": "as performed by Curved Air."
+    },
+    {
+      "start": 3060.66,
+      "end": 3062.06,
+      "text": "Just about everybody got it right."
+    },
+    {
+      "start": 3062.14,
+      "end": 3064.28,
+      "text": "Some people thought it was something to do with Kent University."
+    },
+    {
+      "start": 3064.48,
+      "end": 3065.02,
+      "text": "Not so."
+    },
+    {
+      "start": 3065.5,
+      "end": 3068.3,
+      "text": "It was to do with the word way."
+    },
+    {
+      "start": 3068.3,
+      "end": 3072.26,
+      "text": "And the guy who got his letter dragged out of the pile this afternoon was Blair Brown."
+    },
+    {
+      "start": 3072.54,
+      "end": 3075.5,
+      "text": "Congratulations, Blair. He lives in Uplands in Swansea."
+    },
+    {
+      "start": 3076.08,
+      "end": 3078.5,
+      "text": "Ten pound record token has come in your way. Well done."
+    },
+    {
+      "start": 3078.98,
+      "end": 3083.54,
+      "text": "And as always, we have asked that the person who wins and everybody that enters"
+    },
+    {
+      "start": 3083.54,
+      "end": 3085.58,
+      "text": "puts together a Friday night connection of their own."
+    },
+    {
+      "start": 3085.8,
+      "end": 3089.68,
+      "text": "Blair has done just that. It's a long one, but it's an intriguing one."
+    },
+    {
+      "start": 3089.8,
+      "end": 3091.5,
+      "text": "And it starts with this."
+    },
+    {
+      "start": 4244.44,
+      "end": 4248.15,
+      "text": "It's something like, oh, it's nice to hear it again."
+    },
+    {
+      "start": 4248.37,
+      "end": 4250.67,
+      "text": "Wild, heavy piece of music out of the past."
+    },
+    {
+      "start": 4251.03,
+      "end": 4255.06,
+      "text": "Just one part of three parts of our Friday Night Connection"
+    },
+    {
+      "start": 4255.06,
+      "end": 4259.58,
+      "text": "that was put together by Blair Brown of No. 21 St. James Garden, Uplands and Swansea."
+    },
+    {
+      "start": 4260.08,
+      "end": 4265.01,
+      "text": "If you think you know what it is, all you have to do is to put the answer down on a postcard,"
+    },
+    {
+      "start": 4265.15,
+      "end": 4268.09,
+      "text": "letter, any form of communication that you so desire."
+    },
+    {
+      "start": 4269.05,
+      "end": 4271.27,
+      "text": "And send it to the Friday Night Connection,"
+    },
+    {
+      "start": 4271.83,
+      "end": 4276.91,
+      "text": "the Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4277.93,
+      "end": 4282.49,
+      "text": "And if you win, you get yourself a £10 record token."
+    },
+    {
+      "start": 4282.49,
+      "end": 4289.14,
+      "text": "But part of the deal, as you, I'm sure, well understand, is, well, the fact that you have to put together your own Friday night connection as well."
+    },
+    {
+      "start": 4289.32,
+      "end": 4294.38,
+      "text": "Three pieces of music with a clever little theme intertwined therein."
+    },
+    {
+      "start": 4301.09,
+      "end": 4302.21,
+      "text": "It's 11.25."
+    },
+    {
+      "start": 4302.89,
+      "end": 4751.33,
+      "text": "Single by Angel Witch. I suppose you could call it eponymous."
+    },
+    {
+      "start": 4751.51,
+      "end": 4755.31,
+      "text": "It's just come out on the bronze label, and it's a very tasty version of a good old song."
+    },
+    {
+      "start": 4755.81,
+      "end": 4758.35,
+      "text": "And it is old now, when you think about it. It's been around for quite some time."
+    },
+    {
+      "start": 4758.35,
+      "end": 4760.67,
+      "text": "Played especially for Teresa and Russell and Tommy,"
+    },
+    {
+      "start": 4761.07,
+      "end": 4765.11,
+      "text": "with best wishes from Graham King, who lives in Lee, SE 12-9-D-2."
+    },
+    {
+      "start": 4765.87,
+      "end": 4768.77,
+      "text": "And before that, you heard something from the Michael Schenker Group"
+    },
+    {
+      "start": 4768.77,
+      "end": 4770.11,
+      "text": "from their first-ever album."
+    },
+    {
+      "start": 4770.21,
+      "end": 4771.87,
+      "text": "It's going to be released as a single, incidentally."
+    },
+    {
+      "start": 4771.97,
+      "end": 4773.03,
+      "text": "It's called Cry for the Nations."
+    },
+    {
+      "start": 4773.71,
+      "end": 4775.86,
+      "text": "And I played that for all the mates of David Evans,"
+    },
+    {
+      "start": 4775.98,
+      "end": 4778.32,
+      "text": "who lives in Harefield in Uxbridge in Middlesex,"
+    },
+    {
+      "start": 4778.84,
+      "end": 4781.74,
+      "text": "and also for everybody who can't do chemistry"
+    },
+    {
+      "start": 4781.74,
+      "end": 4784.04,
+      "text": "at St. B's School in Cumbria."
+    },
+    {
+      "start": 4786.67,
+      "end": 4790.01,
+      "text": "And also for Kath, who is the wife of Richard Fos Lambert,"
+    },
+    {
+      "start": 4790.01,
+      "end": 4799.29,
+      "text": "who lives in baiton in sheffield cath happy birthday for last september a lengthy one by"
+    },
+    {
+      "start": 4799.29,
+      "end": 5522.12,
+      "text": "queen i think it's not possible to play file for a long long time and i'm happy to say that"
+    },
+    {
+      "start": 5522.12,
+      "end": 5527.64,
+      "text": "finally we got around to putting it all on the air 11 minutes and 45 seconds of queen from the"
+    },
+    {
+      "start": 5527.64,
+      "end": 5532.21,
+      "text": "album live killers the track of course was brighton rock and in front of me i've got a pile"
+    },
+    {
+      "start": 5532.21,
+      "end": 5535.77,
+      "text": "of letters that have been asking for that track from queen and i haven't got the time to read"
+    },
+    {
+      "start": 5535.77,
+      "end": 5540.22,
+      "text": "them all out because basically this is a music program, not a chat show. Just like to mention"
+    },
+    {
+      "start": 5540.22,
+      "end": 5545.3,
+      "text": "Tom Rowland, who's at Kakadi in Fife. All his mates, John M. Cassidy, who said he, turning"
+    },
+    {
+      "start": 5545.3,
+      "end": 5550.8,
+      "text": "the page, lives in Hailsham in Sussex. And also everybody who lives in Sandy in Beds,"
+    },
+    {
+      "start": 5550.8,
+      "end": 5556.78,
+      "text": "including Ian Dare. And finally, Paul Day, who lives in Kings, or Seven Kings, that is,"
+    },
+    {
+      "start": 5556.88,
+      "end": 5564.96,
+      "text": "Ilford in Essex. Know it well. 13 minutes to midnight. Here's something brand new from"
+    },
+    {
+      "start": 5564.96,
+      "end": 6020.48,
+      "text": "caravan from their first ever album the album is called the taker like you heard that was called"
+    },
+    {
+      "start": 6020.48,
+      "end": 6026.16,
+      "text": "skybird before that something from the new album by caravan the album is simply called the album"
+    },
+    {
+      "start": 6026.16,
+      "end": 6043.71,
+      "text": "and the track was and that was for julie the honest one and charlotte and also for a lady called debbie"
     }
   ]
 }

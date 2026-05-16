@@ -21,22 +21,26 @@
     {
       "artist": "Krokus",
       "track": "Come On",
-      "details": "LP-Metal Rendez-vous"
+      "details": "LP-Metal Rendez-vous",
+      "verified_timestamp": 21.83
     },
     {
       "artist": "Neil Young and Crazy Horse",
       "track": "Like A Hurricane",
-      "details": "LP-Live Rust"
+      "details": "LP-Live Rust",
+      "verified_timestamp": 798.05
     },
     {
       "artist": "Trespass",
       "track": "One Of These Days",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 865.45
     },
     {
       "artist": "Money",
       "track": "Leo The Jester",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1394.3
     },
     {
       "artist": "Shakin' Street",
@@ -46,7 +50,8 @@
     {
       "artist": "Hawkwind",
       "track": "Kings Of Speed",
-      "details": "LP-Warrior On The Edge Of Time"
+      "details": "LP-Warrior On The Edge Of Time",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Money",
@@ -56,12 +61,14 @@
     {
       "artist": "Iron Maiden",
       "track": "Prowler",
-      "details": "LP-Iron Maiden"
+      "details": "LP-Iron Maiden",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Riot",
       "track": "Road Racing",
-      "details": "LP-Narita"
+      "details": "LP-Narita",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Trespass",
@@ -76,7 +83,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.54
     },
     {
       "artist": "Trespass",
@@ -86,12 +94,14 @@
     {
       "artist": "Grace Slick",
       "track": "Face To The Wind",
-      "details": "LP-Dreams"
+      "details": "LP-Dreams",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Peter Gabriel",
       "track": "No Self Control",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Money",
@@ -101,12 +111,14 @@
     {
       "artist": "Rush",
       "track": "Cygnus",
-      "details": "LP-Hemispheres"
+      "details": "LP-Hemispheres",
+      "verified_timestamp": 5610.65
     },
     {
       "artist": "Rush",
       "track": "The Sphere",
-      "details": "LP-Hemispheres"
+      "details": "LP-Hemispheres",
+      "verified_timestamp": 5610.65
     },
     {
       "artist": "Trespass",
@@ -116,12 +128,1095 @@
     {
       "artist": "Gillan",
       "track": "Back In The Game",
-      "details": "v/a LP-Precious Metal"
+      "details": "v/a LP-Precious Metal",
+      "verified_timestamp": 6938.08
     },
     {
       "artist": "Money",
       "track": "Living In A Fast World",
       "details": "FRS Session"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 4.91,
+      "end": 21.83,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 21.83,
+      "end": 29.28,
+      "text": "Well, hello there, good evening to you. This is TV on the radio, Thomas Vance, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.28,
+      "end": 34.28,
+      "text": "And this evening, with their first ever Radio 1 session, you can hear a Suffolk-based band called Trespass,"
+    },
+    {
+      "start": 34.28,
+      "end": 41.28,
+      "text": "and also a repeat of a set we recorded with Money some time ago that includes their track called Another Case of Suicide."
+    },
+    {
+      "start": 41.28,
+      "end": 60.92,
+      "text": "And we've got classic cuts from Neil Young, Hawkwind, Genesis, and Rush, and also something strange from a mystery guest."
+    },
+    {
+      "start": 61.54,
+      "end": 70.42,
+      "text": "We've got new stuff by Shaking Street, Riot, Grace Slick, Peter Gabriel, and not forgetting our Friday Night Connection, the answer to the one we set for you a fortnight ago."
+    },
+    {
+      "start": 71.38,
+      "end": 73.02,
+      "text": "And this evening we start with Crocus."
+    },
+    {
+      "start": 798.05,
+      "end": 802.53,
+      "text": "That's Neil Young and Crazy Horse from the album Live Rust, and the track was called Like a Hurricane."
+    },
+    {
+      "start": 803.37,
+      "end": 805.79,
+      "text": "A love especially for Graham Hickey, I think it's pronounced,"
+    },
+    {
+      "start": 805.91,
+      "end": 808.69,
+      "text": "at 33 Coombe Park, Western Bath in Avon."
+    },
+    {
+      "start": 809.51,
+      "end": 812.53,
+      "text": "And also from Dave and Barney, who live in Ellesmere Port,"
+    },
+    {
+      "start": 812.61,
+      "end": 817.07,
+      "text": "for the Gannett Special, 12.15, Nutjob, TA Stud, Amsterdam, Chastity and Othello."
+    },
+    {
+      "start": 817.71,
+      "end": 821.0,
+      "text": "And we've got a little card here from Graham McEwan,"
+    },
+    {
+      "start": 821.06,
+      "end": 823.96,
+      "text": "who lives in Academy House, Ewanfield Road in Creef."
+    },
+    {
+      "start": 824.44,
+      "end": 827.6,
+      "text": "Possibly say hello to Robbie and Sam and Husey and Gregor and Jolly and Graham"
+    },
+    {
+      "start": 827.6,
+      "end": 830.52,
+      "text": "and everybody at the Academy House, Morrison's Academy in Creef."
+    },
+    {
+      "start": 830.52,
+      "end": 834.02,
+      "text": "and I've got to tell Ruth that Graham loves him."
+    },
+    {
+      "start": 834.54,
+      "end": 836.94,
+      "text": "Before that, you heard something from the album Metal Rendezvous."
+    },
+    {
+      "start": 837.1,
+      "end": 839.62,
+      "text": "The band featured our crocus, the track was Come On,"
+    },
+    {
+      "start": 840.2,
+      "end": 842.52,
+      "text": "and that was specially for a lady by the name of Francesca"
+    },
+    {
+      "start": 842.52,
+      "end": 844.38,
+      "text": "from a gentleman called Asa Ali,"
+    },
+    {
+      "start": 844.6,
+      "end": 847.12,
+      "text": "who's very fond of his secretary by the name of Francesca."
+    },
+    {
+      "start": 848.51,
+      "end": 850.41,
+      "text": "Also, we played it for Paul Rezka"
+    },
+    {
+      "start": 850.41,
+      "end": 853.45,
+      "text": "of No. 7 Campion Green Leamington Spa in Warwickshire"
+    },
+    {
+      "start": 853.45,
+      "end": 857.35,
+      "text": "and for Morrie Mitchison of Wincanton Tyne and Wear"
+    },
+    {
+      "start": 857.35,
+      "end": 862.39,
+      "text": "and for Phil Wilde of number 17, Morven Road in Dewsbury."
+    },
+    {
+      "start": 865.45,
+      "end": 868.11,
+      "text": "10-14, and here's the first of four by Trespass."
+    },
+    {
+      "start": 868.71,
+      "end": 1391.14,
+      "text": "Very good band."
+    },
+    {
+      "start": 1391.32,
+      "end": 1394.2,
+      "text": "That's a repeat of just one of the numbers we'll be playing tonight."
+    },
+    {
+      "start": 1394.3,
+      "end": 1395.88,
+      "text": "There are four of them, in fact, by money"
+    },
+    {
+      "start": 1395.88,
+      "end": 1398.92,
+      "text": "from a session we put together during the month of February this year."
+    },
+    {
+      "start": 1399.7,
+      "end": 1401.0,
+      "text": "The track was called Leo the Jester,"
+    },
+    {
+      "start": 1401.18,
+      "end": 1403.66,
+      "text": "and later on tonight I'll give you a bit of information"
+    },
+    {
+      "start": 1403.66,
+      "end": 1405.12,
+      "text": "with regard to where they're going to be playing"
+    },
+    {
+      "start": 1405.12,
+      "end": 1406.6,
+      "text": "between now and the 5th of June."
+    },
+    {
+      "start": 1407.54,
+      "end": 1409.4,
+      "text": "And prior to that you heard something by Trespass,"
+    },
+    {
+      "start": 1409.4,
+      "end": 1414.12,
+      "text": "the first of four from their very very first ever session for radio one you would have recognized it"
+    },
+    {
+      "start": 1414.12,
+      "end": 1419.8,
+      "text": "of course as their single one of these days which incidentally is also on the metal for mother's"
+    },
+    {
+      "start": 1419.8,
+      "end": 1428.58,
+      "text": "volume 2 album which is out of the moment here's a new band called shaken street"
+    },
+    {
+      "start": 1428.58,
+      "end": 1975.52,
+      "text": "a 1975 classic called kings of speed just remember that it has been known to kill"
+    },
+    {
+      "start": 1975.52,
+      "end": 1982.4,
+      "text": "and we played that specially for brian of hawkwind feedback who lives down there or rather up there"
+    },
+    {
+      "start": 1982.4,
+      "end": 1986.6,
+      "text": "from this part of the globe anyway in wisbeach in cambridge and brian thank you very much for"
+    },
+    {
+      "start": 1986.6,
+      "end": 1992.24,
+      "text": "the addition of hawk fan that you sent me also played it from bainsey the hawkwind freak for"
+    },
+    {
+      "start": 1992.24,
+      "end": 1994.38,
+      "text": "John and Ant and all the headvisitors at Bydale School."
+    },
+    {
+      "start": 1994.92,
+      "end": 1996.52,
+      "text": "Mark Skiving, it is, in Cleveland."
+    },
+    {
+      "start": 1997.94,
+      "end": 2000.34,
+      "text": "Also play for Mark Caldwell, who lives in Kidderminster."
+    },
+    {
+      "start": 2000.74,
+      "end": 2003.66,
+      "text": "And for Simon Ferrant, who's a Liverpool law student"
+    },
+    {
+      "start": 2003.66,
+      "end": 2005.94,
+      "text": "at the Roscoe and Gladstone Hall in Liverpool."
+    },
+    {
+      "start": 2006.86,
+      "end": 2009.36,
+      "text": "And from Jay Searle, that's John Searle,"
+    },
+    {
+      "start": 2009.42,
+      "end": 2011.14,
+      "text": "of Blake Law Estate in Newcastle."
+    },
+    {
+      "start": 2011.24,
+      "end": 2013.94,
+      "text": "For Andre Senior of Station Road in Newcastle."
+    },
+    {
+      "start": 2014.32,
+      "end": 2017.26,
+      "text": "And the members of the Slattyford Utopia Movement."
+    },
+    {
+      "start": 2018.42,
+      "end": 2020.86,
+      "text": "And finally, the Hawk Windtrap was for Ben and Kevin Ent"
+    },
+    {
+      "start": 2020.86,
+      "end": 2022.84,
+      "text": "and Doug and Arnie and Haston Nobby and Trendy"
+    },
+    {
+      "start": 2022.84,
+      "end": 2026.8,
+      "text": "and everybody at the lower sixth of Marshlands High School Ta, it says here."
+    },
+    {
+      "start": 2027.16,
+      "end": 2028.46,
+      "text": "And he lives in Burton-on-Trent."
+    },
+    {
+      "start": 2029.06,
+      "end": 2033.5,
+      "text": "And the track before that that we played was by a new band called Shaking Street."
+    },
+    {
+      "start": 2033.62,
+      "end": 2034.7,
+      "text": "It has a female lead singer."
+    },
+    {
+      "start": 2034.8,
+      "end": 2036.68,
+      "text": "Her name is Fabienne Schein."
+    },
+    {
+      "start": 2036.76,
+      "end": 2038.24,
+      "text": "I think she comes from France."
+    },
+    {
+      "start": 2038.82,
+      "end": 2040.06,
+      "text": "The album's called Shaking Street."
+    },
+    {
+      "start": 2040.12,
+      "end": 2042.74,
+      "text": "It's just come out on CBS, produced by Sandy Perlman,"
+    },
+    {
+      "start": 2043.08,
+      "end": 2044.7,
+      "text": "who's done Blue Oyster Cult and The Clash."
+    },
+    {
+      "start": 2045.0,
+      "end": 2046.22,
+      "text": "The track was our one-up box here."
+    },
+    {
+      "start": 2051.37,
+      "end": 2054.15,
+      "text": "26 and a half minutes before 11 of the clock."
+    },
+    {
+      "start": 2054.15,
+      "end": 2057.89,
+      "text": "In a fortnight's time, we're going to be doing a version of our flashback series."
+    },
+    {
+      "start": 2058.03,
+      "end": 2063.07,
+      "text": "This one is going to be Flashback 1969, built around the music and, well,"
+    },
+    {
+      "start": 2063.23,
+      "end": 2067.55,
+      "text": "just the various things that happened in the musical world during the year of 1969."
+    },
+    {
+      "start": 2067.85,
+      "end": 2071.97,
+      "text": "If you've got any suggestions as to what you'd like in the programme, well, that's what we're here for."
+    },
+    {
+      "start": 2072.09,
+      "end": 2080.85,
+      "text": "Just jot them down on a postcard and send them to Flashback 69, The Friday Rock Show, BBC Radio 1, London W1A4WW."
+    },
+    {
+      "start": 2081.05,
+      "end": 2083.69,
+      "text": "And we'll do the rest. And here now is money."
+    },
+    {
+      "start": 2084.15,
+      "end": 2618.34,
+      "text": "and just another case of suicide had a letter from john stanhope who lives in peckham in london"
+    },
+    {
+      "start": 2618.34,
+      "end": 2624.42,
+      "text": "and he says is that track available on vinyl well i'll tell you john it is they've recorded it it's"
+    },
+    {
+      "start": 2624.42,
+      "end": 2629.14,
+      "text": "going to be on an EP, but only available at their gigs. Just to let you know where money"
+    },
+    {
+      "start": 2629.14,
+      "end": 2632.32,
+      "text": "are going to be appearing in the near future, here's a list of their gigs. On Friday, the"
+    },
+    {
+      "start": 2632.32,
+      "end": 2637.6,
+      "text": "9th of May, at the Norbrecht Castle in Blackpool. Saturday, the 10th of May, the Rex Club, Driffiel"
+    },
+    {
+      "start": 2637.6,
+      "end": 2642.4,
+      "text": "near Hull. Friday, 30th of May, North East London Poly, Livingston House, Stratford in"
+    },
+    {
+      "start": 2642.4,
+      "end": 2647.58,
+      "text": "London. Saturday, the 31st of May, Target Club in Reading. Sunday, the 1st of June, the Ford"
+    },
+    {
+      "start": 2647.58,
+      "end": 2652.76,
+      "text": "Green in Leeds. That's got two Fs, so I suppose it's for Ford. Tuesday, the 3rd of"
+    },
+    {
+      "start": 2652.76,
+      "end": 2658.28,
+      "text": "june brunel rooms in swindon and on thursday the 5th of june the greyhound in dear old fulham"
+    },
+    {
+      "start": 2658.28,
+      "end": 3176.47,
+      "text": "palace road london from their album narita of course we're on tour with sammy hager and we"
+    },
+    {
+      "start": 3176.47,
+      "end": 3182.05,
+      "text": "played that track called road racing especially for ronnie shaw a 417 high street netherhill i"
+    },
+    {
+      "start": 3182.05,
+      "end": 3186.43,
+      "text": "think it is in motherwell and also for nick and bill and the audible little brother of a gentleman"
+    },
+    {
+      "start": 3186.43,
+      "end": 3191.05,
+      "text": "by the name of nick who lives down in plymouth and for jason morris who lives in amersham in bucks"
+    },
+    {
+      "start": 3191.05,
+      "end": 3193.39,
+      "text": "and for M.W. Scott, that's a bit formal,"
+    },
+    {
+      "start": 3193.51,
+      "end": 3196.65,
+      "text": "at No. 12 Deacons Court in Lithgow, West Lothian."
+    },
+    {
+      "start": 3197.21,
+      "end": 3198.77,
+      "text": "And before that, she heard Iron Maiden"
+    },
+    {
+      "start": 3198.77,
+      "end": 3200.39,
+      "text": "with a track from the album of the same name."
+    },
+    {
+      "start": 3200.51,
+      "end": 3203.67,
+      "text": "The track was Prowl Up, and that was specially for Debs,"
+    },
+    {
+      "start": 3204.11,
+      "end": 3206.93,
+      "text": "who lives somewhere in the United Kingdom."
+    },
+    {
+      "start": 3209.05,
+      "end": 3212.75,
+      "text": "There's something very special about Kit Jensen's show on Monday afternoon."
+    },
+    {
+      "start": 3213.15,
+      "end": 3216.05,
+      "text": "The whole of the first half will feature a concert by The Police,"
+    },
+    {
+      "start": 3216.05,
+      "end": 3219.51,
+      "text": "which was especially recorded by Radio 1 at Newcastle City Hall."
+    },
+    {
+      "start": 3219.89,
+      "end": 3221.81,
+      "text": "And in order that you can enjoy it to the full,"
+    },
+    {
+      "start": 3221.81,
+      "end": 3227.43,
+      "text": "It'll be broadcast in stereo on VHF, as well as 275 and 285 meters medium wave."
+    },
+    {
+      "start": 3227.77,
+      "end": 3230.39,
+      "text": "And it all happens this Monday, just after 4.30."
+    },
+    {
+      "start": 3231.03,
+      "end": 3246.68,
+      "text": "So make sure you join Andy Stewart and Sting as they police the Radio 1 airwaves"
+    },
+    {
+      "start": 3246.68,
+      "end": 3249.94,
+      "text": "in the first half of Kid Jensen's show this Monday at 4.30"
+    },
+    {
+      "start": 3249.94,
+      "end": 3254.98,
+      "text": "on 275, 285 meters medium wave and in stereo on VHF."
+    },
+    {
+      "start": 3255.72,
+      "end": 3260.84,
+      "text": "Seven minutes it is to 11."
+    },
+    {
+      "start": 3261.38,
+      "end": 3264.14,
+      "text": "And this is Trespass."
+    },
+    {
+      "start": 3264.14,
+      "end": 4045.35,
+      "text": "Genesis classic from 76 from the album Wind and Wuthering"
+    },
+    {
+      "start": 4045.35,
+      "end": 4049.28,
+      "text": "the 11th Earl of Mar as usual Genesis requested by many"
+    },
+    {
+      "start": 4049.28,
+      "end": 4051.42,
+      "text": "so forgive me if I don't mention your name"
+    },
+    {
+      "start": 4051.42,
+      "end": 4054.94,
+      "text": "Rob of Chinna and Oxen particularly wanted to hear that track"
+    },
+    {
+      "start": 4054.94,
+      "end": 4057.76,
+      "text": "and Stuart McNeill of Goodock in Scotland"
+    },
+    {
+      "start": 4057.76,
+      "end": 4060.7,
+      "text": "wants me to say hello to all the teachers and pupils at Greenock Academy"
+    },
+    {
+      "start": 4060.7,
+      "end": 4065.88,
+      "text": "especially everybody in the I think it's 4B2 and 4M1 classes"
+    },
+    {
+      "start": 4065.88,
+      "end": 4070.52,
+      "text": "I must mention such great luminaries as Dougie and Millsy"
+    },
+    {
+      "start": 4070.52,
+      "end": 4073.18,
+      "text": "in Michael and Grant and Skirv and Gibbon the Loony."
+    },
+    {
+      "start": 4078.5,
+      "end": 4080.14,
+      "text": "Well, the track before that was by Trespass,"
+    },
+    {
+      "start": 4080.38,
+      "end": 4082.46,
+      "text": "and that was called Visionary."
+    },
+    {
+      "start": 4083.93,
+      "end": 4084.93,
+      "text": "A bit of a minute's after 11,"
+    },
+    {
+      "start": 4085.51,
+      "end": 4087.25,
+      "text": "and it's time for the Friday Night Connection,"
+    },
+    {
+      "start": 4087.41,
+      "end": 4090.09,
+      "text": "the one we set up a fortnight ago, two weeks ago."
+    },
+    {
+      "start": 4090.71,
+      "end": 4092.03,
+      "text": "Right, the tracks that we played were"
+    },
+    {
+      "start": 4092.03,
+      "end": 4096.35,
+      "text": "Wasted Time from the Eagles LP Hotel California,"
+    },
+    {
+      "start": 4097.05,
+      "end": 4100.67,
+      "text": "Funk 49, the James Gang LP The Best Of,"
+    },
+    {
+      "start": 4101.13,
+      "end": 4105.11,
+      "text": "and Pavane from the Joe Walsh LP So What."
+    },
+    {
+      "start": 4105.77,
+      "end": 4114.98,
+      "text": "and the answer indeed was so what it was joe walsh and the car that we pulled out of the bag was from"
+    },
+    {
+      "start": 4114.98,
+      "end": 4122.15,
+      "text": "alan patton at number 12 bar fill and drive in glasgow and you got it right alan he said the"
+    },
+    {
+      "start": 4122.15,
+      "end": 4127.59,
+      "text": "answer was joe walsh and so you get your 10 pound record token well something we didn't notice about"
+    },
+    {
+      "start": 4127.59,
+      "end": 4132.23,
+      "text": "the mail that we had that we sorted through today on some of the cards and in some of the letters"
+    },
+    {
+      "start": 4132.23,
+      "end": 4136.31,
+      "text": "you did not put together your own friday night connection now that's part of the deal and if"
+    },
+    {
+      "start": 4136.31,
+      "end": 4139.27,
+      "text": "And if you don't do that, well, your card does not qualify."
+    },
+    {
+      "start": 4144.86,
+      "end": 4148.26,
+      "text": "Well, I'm happy to say that Alan Patton of Glasgow has done just that."
+    },
+    {
+      "start": 4148.54,
+      "end": 4150.8,
+      "text": "Three pieces of music with a theme."
+    },
+    {
+      "start": 4151.2,
+      "end": 4152.94,
+      "text": "See if you can figure it out."
+    },
+    {
+      "start": 4838.9,
+      "end": 4839.36,
+      "text": "And that's it."
+    },
+    {
+      "start": 4839.52,
+      "end": 4841.14,
+      "text": "Our Friday night connection for tonight."
+    },
+    {
+      "start": 4841.74,
+      "end": 4844.66,
+      "text": "Put together by Alan Patton, who lives up there in Glasgow."
+    },
+    {
+      "start": 4845.0,
+      "end": 4847.62,
+      "text": "Three bits of music that have a very definite theme."
+    },
+    {
+      "start": 4848.08,
+      "end": 4850.16,
+      "text": "Not too difficult either."
+    },
+    {
+      "start": 4851.4,
+      "end": 4852.84,
+      "text": "If you think you know what the theme is,"
+    },
+    {
+      "start": 4852.84,
+      "end": 4854.78,
+      "text": "then just jot it down on a postcard."
+    },
+    {
+      "start": 4854.96,
+      "end": 4856.5,
+      "text": "Any form of communication will do."
+    },
+    {
+      "start": 4856.9,
+      "end": 4865.26,
+      "text": "Send it along to The Friday Night Connection, The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4865.5,
+      "end": 4871.3,
+      "text": "But don't forget, please, to put together your own Friday Night Connection as well and jot it on that communication."
+    },
+    {
+      "start": 4871.96,
+      "end": 4878.84,
+      "text": "It's a £10 record token. Good luck."
+    },
+    {
+      "start": 4890.16,
+      "end": 4895.22,
+      "text": "It's 11.20. Now back to Trespass, who incidentally are Mark Sutcliffe and Paul Sutcliffe."
+    },
+    {
+      "start": 4895.3,
+      "end": 4897.24,
+      "text": "Mark plays the lead guitar and does the backing vocals."
+    },
+    {
+      "start": 4897.4,
+      "end": 4898.38,
+      "text": "Paul does the drums."
+    },
+    {
+      "start": 4898.66,
+      "end": 4900.38,
+      "text": "Dave Crought on rhythm guitar."
+    },
+    {
+      "start": 4900.38,
+      "end": 4903.92,
+      "text": "Chris Linscott on bass guitar and Steve Mills on lead vocals"
+    },
+    {
+      "start": 4903.92,
+      "end": 4906.4,
+      "text": "The lads from Sudbury and Suffolk do Stormchild"
+    },
+    {
+      "start": 4906.4,
+      "end": 5552.3,
+      "text": "It's the voice of a lady who's been around a long, long time"
+    },
+    {
+      "start": 5552.3,
+      "end": 5556.82,
+      "text": "Born in Chicago but better known for her San Francisco affiliations with the Jefferson family"
+    },
+    {
+      "start": 5556.82,
+      "end": 5559.36,
+      "text": "Grace Slick from her solo album which is magnificent"
+    },
+    {
+      "start": 5559.36,
+      "end": 5563.8,
+      "text": "It's out on RCA, the album's called Dreams and that track was Face to the Wind"
+    },
+    {
+      "start": 5563.8,
+      "end": 5566.98,
+      "text": "Before that you heard Trespass and Stormchild"
+    },
+    {
+      "start": 5566.98,
+      "end": 5581.17,
+      "text": "This Sunday at 3 o'clock, the greatest footballer in the history of the whole world ever"
+    },
+    {
+      "start": 5581.17,
+      "end": 5584.33,
+      "text": "Kenny Dalgleish will be kicking a few of his favourite sounds around."
+    },
+    {
+      "start": 5584.47,
+      "end": 5585.77,
+      "text": "Am I getting paid for reading this?"
+    },
+    {
+      "start": 5586.05,
+      "end": 5588.87,
+      "text": "Over 30 records, including ELO, The Childlights,"
+    },
+    {
+      "start": 5588.99,
+      "end": 5592.05,
+      "text": "Rod Stewart and Billy Joel, and lots more besides."
+    },
+    {
+      "start": 5592.17,
+      "end": 5594.21,
+      "text": "This Sunday between 3 and 5 on Radio 1"
+    },
+    {
+      "start": 5594.21,
+      "end": 5596.77,
+      "text": "with Kenny Dalgleish's Star Special."
+    },
+    {
+      "start": 5608.67,
+      "end": 5610.17,
+      "text": "Here's 31 from Peter Gabriel."
+    },
+    {
+      "start": 5610.65,
+      "end": 6333.16,
+      "text": "That was part of Cygnus and the Sphere"
+    },
+    {
+      "start": 6333.16,
+      "end": 6335.42,
+      "text": "from the album Hemispheres by Rush."
+    },
+    {
+      "start": 6335.74,
+      "end": 6338.46,
+      "text": "And a quick reminder that next week here on the Friday Rock Show"
+    },
+    {
+      "start": 6338.46,
+      "end": 6340.92,
+      "text": "we're going to be repeating the Rush concert"
+    },
+    {
+      "start": 6340.92,
+      "end": 6342.5,
+      "text": "that we had on the air some time ago"
+    },
+    {
+      "start": 6342.5,
+      "end": 6346.3,
+      "text": "that was actually recorded at the Pink Pop Festival in Holland last year."
+    },
+    {
+      "start": 6349.22,
+      "end": 6352.42,
+      "text": "And before that, you heard Money and a track called Man and a Subway"
+    },
+    {
+      "start": 6352.42,
+      "end": 6353.48,
+      "text": "from our session by them."
+    },
+    {
+      "start": 6354.08,
+      "end": 6357.84,
+      "text": "And prior to that, Peter Gabriel and the track called No Self Control."
+    },
+    {
+      "start": 6357.96,
+      "end": 6358.68,
+      "text": "That's his new single."
+    },
+    {
+      "start": 6359.38,
+      "end": 6361.02,
+      "text": "Just to mention some Rush fans out there,"
+    },
+    {
+      "start": 6361.08,
+      "end": 6362.94,
+      "text": "Mark Shellis and Gary Rose and Gary York,"
+    },
+    {
+      "start": 6363.04,
+      "end": 6365.04,
+      "text": "who live in Whirl in Western Superman."
+    },
+    {
+      "start": 6365.68,
+      "end": 6368.86,
+      "text": "And also Kieran, who lives in Tadcaster in North Yorkshire."
+    },
+    {
+      "start": 6369.3,
+      "end": 6371.86,
+      "text": "And Marcus Smith, who wrote 311 times"
+    },
+    {
+      "start": 6372.48,
+      "end": 6374.8,
+      "text": "Please Play Something by Rush."
+    },
+    {
+      "start": 6378.06,
+      "end": 6380.26,
+      "text": "It's exactly a quarter before midnight,"
+    },
+    {
+      "start": 6380.62,
+      "end": 6383.6,
+      "text": "and here now is our final track from our ace session by Trespass."
+    },
+    {
+      "start": 6383.74,
+      "end": 6385.52,
+      "text": "This, incidentally, is going to be their next single."
+    },
+    {
+      "start": 6385.68,
+      "end": 6386.46,
+      "text": "It's Live It Up."
+    },
+    {
+      "start": 6934.54,
+      "end": 6935.9,
+      "text": "And that's a track from a new compilation."
+    },
+    {
+      "start": 6936.16,
+      "end": 6938.0,
+      "text": "The compilation album's just out on MCA."
+    },
+    {
+      "start": 6938.08,
+      "end": 6940.26,
+      "text": "The track was called Back In The Game."
+    },
+    {
+      "start": 6940.34,
+      "end": 6942.64,
+      "text": "It was by Gillen, and the album's called Precious Metal."
+    },
+    {
+      "start": 6943.06,
+      "end": 6944.46,
+      "text": "And according to the back of the album,"
+    },
+    {
+      "start": 6944.88,
+      "end": 6948.5,
+      "text": "that track has only recently been available in Australia and Japan,"
+    },
+    {
+      "start": 6948.84,
+      "end": 6950.36,
+      "text": "and not in this country before."
+    },
+    {
+      "start": 6950.52,
+      "end": 6951.8,
+      "text": "I've never heard it, I must tell you that."
+    },
+    {
+      "start": 6952.06,
+      "end": 6954.32,
+      "text": "Also on the album, you'll find the Tigers of Pantang,"
+    },
+    {
+      "start": 6954.32,
+      "end": 6957.46,
+      "text": "Budgie, Lynyrd Skynyrd, Wishbone Ash, Axe, New England"
+    },
+    {
+      "start": 6957.46,
+      "end": 6958.56,
+      "text": "and various people like that."
+    },
+    {
+      "start": 6958.92,
+      "end": 6960.04,
+      "text": "It looks like a good compilation."
+    },
+    {
+      "start": 6960.22,
+      "end": 6961.96,
+      "text": "So far, that's the only track that I've heard."
+    },
+    {
+      "start": 6962.42,
+      "end": 6965.12,
+      "text": "Prior to that, our final track for the night from Trespass"
+    },
+    {
+      "start": 6965.12,
+      "end": 6966.6,
+      "text": "and that's going to be their next single."
+    },
+    {
+      "start": 6966.96,
+      "end": 6968.68,
+      "text": "It was called Live It Up."
+    },
+    {
+      "start": 6969.12,
+      "end": 6970.26,
+      "text": "At the beginning of the programme,"
+    },
+    {
+      "start": 6970.42,
+      "end": 6972.12,
+      "text": "I said we were going to have a mystery guest."
+    },
+    {
+      "start": 6972.28,
+      "end": 6975.6,
+      "text": "Well, unfortunately, the timings have got a bit mixed up."
+    },
+    {
+      "start": 6975.9,
+      "end": 6978.42,
+      "text": "So it looks like that mystery guest that I promised you"
+    },
+    {
+      "start": 6978.42,
+      "end": 6981.12,
+      "text": "is going to remain exactly that, a mystery."
+    },
+    {
+      "start": 6981.12,
+      "end": 7223.41,
+      "text": "money and living in a fast world many thanks to money and trespass tonight two excellent sessions"
+    },
+    {
+      "start": 7223.41,
+      "end": 7228.44,
+      "text": "produced by tony where you've been wilson don't forget in a couple of weeks time it's flashback"
+    },
+    {
+      "start": 7228.44,
+      "end": 7233.8,
+      "text": "69 any suggestions would be welcome that's at a fortnight's time next week on the friday rock show"
+    },
+    {
+      "start": 7233.8,
+      "end": 7240.27,
+      "text": "we will be repeating rush on walk on saturday tomorrow the majority of the program is taken"
+    },
+    {
+      "start": 7240.27,
+      "end": 7245.87,
+      "text": "up with a repeat of just one night the eric clapton special our engineer tonight was mike"
+    },
+    {
+      "start": 7245.99,
+      "end": 7246.41,
+      "text": "Thank you, Mike."
+    },
+    {
+      "start": 7248.49,
+      "end": 7250.37,
+      "text": "Nothing else to say, really, except that..."
+    },
+    {
+      "start": 7250.37,
+      "end": 7251.43,
+      "text": "Oh, have you got anything to say?"
+    },
+    {
+      "start": 7251.99,
+      "end": 7252.11,
+      "text": "What?"
+    },
+    {
+      "start": 7252.15,
+      "end": 7253.13,
+      "text": "Just say goodnight, Tommy."
+    },
+    {
+      "start": 7253.23,
+      "end": 7253.83,
+      "text": "That's very good."
+    },
+    {
+      "start": 7254.49,
+      "end": 7256.61,
+      "text": "Become a Radio 4 announcer one of these days, won't you?"
+    },
+    {
+      "start": 7257.41,
+      "end": 7258.39,
+      "text": "Very good."
+    },
+    {
+      "start": 7258.57,
+      "end": 7259.05,
+      "text": "Goodnight, Tommy."
+    },
+    {
+      "start": 7260.29,
+      "end": 7261.99,
+      "text": "I'll see you tomorrow for Rock on Saturday."
+    },
+    {
+      "start": 7262.13,
+      "end": 7265.63,
+      "text": "Wherever you are, I hope you're well and doing good form."
+    },
+    {
+      "start": 7266.13,
+      "end": 7268.33,
+      "text": "Goodnight from me, Tommy Vance, and God bless."
     }
   ]
 }

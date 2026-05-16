@@ -34,27 +34,32 @@
     {
       "artist": "Crazy World Of Arthur Brown",
       "track": "Fire",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Brian Auger Trinity",
       "track": "'This Wheel's On Fire'",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 474.22
     },
     {
       "artist": "Rolling Stones",
       "track": "Street Fighting Man",
-      "details": "LP-Beggars Banquet"
+      "details": "LP-Beggars Banquet",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Captain Beefheart",
       "track": "Son Of Mirror Man - Mere Man",
-      "details": "LP-Strictly Personal"
+      "details": "LP-Strictly Personal",
+      "verified_timestamp": 1042.35
     },
     {
       "artist": "Family",
       "track": "See Through Windows",
-      "details": "Saturday Club session 1968-09-03"
+      "details": "Saturday Club session 1968-09-03",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Family",
@@ -64,27 +69,32 @@
     {
       "artist": "Chicken Shack",
       "track": "Tell Me",
-      "details": "LP-OK Ken"
+      "details": "LP-OK Ken",
+      "verified_timestamp": 1678.33
     },
     {
       "artist": "Tyrannosaurus Rex",
       "track": "Debora",
-      "details": "7” Single"
+      "details": "7” Single",
+      "verified_timestamp": 2170.33
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Voodoo Chile",
-      "details": "Slight Return; LP-Electric Ladyland"
+      "details": "Slight Return; LP-Electric Ladyland",
+      "verified_timestamp": 2844.35
     },
     {
       "artist": "Deep Purple",
       "track": "Hush",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Jethro Tull",
       "track": "Love Story",
-      "details": "Top Gear session 1968-11-05"
+      "details": "Top Gear session 1968-11-05",
+      "verified_timestamp": 2886.01
     },
     {
       "artist": "Jethro Tull",
@@ -99,22 +109,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3506.5
     },
     {
       "artist": "Pink Floyd",
       "track": "Let There Be Light",
-      "details": "LP-Saucerful Of Secrets"
+      "details": "LP-Saucerful Of Secrets",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Bob Dylan",
       "track": "All Along The Watchtower",
-      "details": "LP-John Wesley Harding"
+      "details": "LP-John Wesley Harding",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Status Quo",
       "track": "Bloodhound",
-      "details": "Saturday Club session 1968-02-13"
+      "details": "Saturday Club session 1968-02-13",
+      "verified_timestamp": 4776.76
     },
     {
       "artist": "Status Quo",
@@ -124,22 +138,26 @@
     {
       "artist": "Status Quo",
       "track": "Ice In The Sun",
-      "details": "Symonds session 1968-03-29"
+      "details": "Symonds session 1968-03-29",
+      "verified_timestamp": 4776.76
     },
     {
       "artist": "Jeff Beck Group",
       "track": "Rock My Plimsoul",
-      "details": "LP-Truth"
+      "details": "LP-Truth",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Fairport Convention",
       "track": "'It's Alright Ma It's Only Witchcraft'",
-      "details": "LP-Fairport Convention"
+      "details": "LP-Fairport Convention",
+      "verified_timestamp": 5716.29
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Need Your Love So Bad",
-      "details": "Radio 1 O’Clock 1968-08-26"
+      "details": "Radio 1 O’Clock 1968-08-26",
+      "verified_timestamp": 5833.91
     },
     {
       "artist": "Fleetwood Mac",
@@ -154,17 +172,1347 @@
     {
       "artist": "Jefferson Airplane",
       "track": "Greasy Heart",
-      "details": "LP-Crown Of Creation"
+      "details": "LP-Crown Of Creation",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Buffalo Springfield",
       "track": "Rock And Roll Woman",
-      "details": "LP-Buffalo Springfield Again"
+      "details": "LP-Buffalo Springfield Again",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "The Doors",
       "track": "'When The Music's Over'",
-      "details": "LP-Strange Days"
+      "details": "LP-Strange Days",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.19,
+      "end": 13.19,
+      "text": "On 275 and 285. Also broadcasting in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 13.19,
+      "end": 29.0,
+      "text": "Well, hello there. Good evening to you. This is TV on the Radio, Thomas Vance. Welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.0,
+      "end": 35.13,
+      "text": "And tonight, the second in our flashback series. The whole of this program is going to be devoted to 1968."
+    },
+    {
+      "start": 35.13,
+      "end": 42.13,
+      "text": "You'll hear some rare sessions by Family, Jethro Tull and Status Quo, and a really rare one by Fleetwood Mac."
+    },
+    {
+      "start": 55.75,
+      "end": 61.33,
+      "text": "Also, we'll be playing tracks by the Rolling Stones, Captain Beefheart, Chicken Shack, Hendrix, Floyd, Dylan, and Jeff Beck."
+    },
+    {
+      "start": 62.53,
+      "end": 66.41,
+      "text": "Now, 1968 was not a head-banging year, so don't expect any heavy metal,"
+    },
+    {
+      "start": 66.57,
+      "end": 70.67,
+      "text": "but you will hear the first-ever single by Deep Purple and loads and loads of classics."
+    },
+    {
+      "start": 71.21,
+      "end": 72.97,
+      "text": "So if you're interested, stay tuned."
+    },
+    {
+      "start": 73.37,
+      "end": 74.51,
+      "text": "We start with this."
+    },
+    {
+      "start": 75.71,
+      "end": 80.05,
+      "text": "I'm the God of Hellfire, and I bring you fire."
+    },
+    {
+      "start": 465.64,
+      "end": 468.88,
+      "text": "Flashback 68, that was Judy Driscoll, Brian Auger, and the Trinity,"
+    },
+    {
+      "start": 468.88,
+      "end": 473.74,
+      "text": "and a song that got to number five in April 1968 is a single written by Bob Dylan,"
+    },
+    {
+      "start": 474.22,
+      "end": 476.86,
+      "text": "and it was called This Wheel Is On Fire."
+    },
+    {
+      "start": 478.35,
+      "end": 482.05,
+      "text": "Played especially for Tim Collins and all the CES students at the launch,"
+    },
+    {
+      "start": 482.17,
+      "end": 484.73,
+      "text": "or the launch, I think it's called, up there in Coventry."
+    },
+    {
+      "start": 485.43,
+      "end": 488.47,
+      "text": "And before that, you heard something that got to number one in June 1968"
+    },
+    {
+      "start": 488.47,
+      "end": 490.39,
+      "text": "by The Crazy World of Arthur Brown."
+    },
+    {
+      "start": 490.49,
+      "end": 493.77,
+      "text": "It was called Fire, co-written by Vincent Crane,"
+    },
+    {
+      "start": 493.85,
+      "end": 496.35,
+      "text": "who went on to form Atomic Rooster after that."
+    },
+    {
+      "start": 496.35,
+      "end": 499.05,
+      "text": "And also, did you know that Karl Palmer was in the band as well?"
+    },
+    {
+      "start": 499.45,
+      "end": 501.99,
+      "text": "And he, of course, has got a new band at the moment called P.M."
+    },
+    {
+      "start": 502.03,
+      "end": 504.25,
+      "text": "Their album is out. It's called 1 P.M."
+    },
+    {
+      "start": 504.93,
+      "end": 507.39,
+      "text": "And that was for Marek Mazlipinski of Leicester,"
+    },
+    {
+      "start": 507.59,
+      "end": 509.79,
+      "text": "who wanted me to say hello to his love, Teresa."
+    },
+    {
+      "start": 510.53,
+      "end": 515.13,
+      "text": "And also for Keith O'Hagan, possibly 68 Dean's Croft, Peterborough and Cambridgeshire."
+    },
+    {
+      "start": 515.71,
+      "end": 520.41,
+      "text": "And for all the mates at the Ulster Polytechnic of a gentleman by the name of,"
+    },
+    {
+      "start": 520.41,
+      "end": 525.01,
+      "text": "I think it's Ranjan Anand, who lives in Port Rush in County Antrim in Northern Ireland."
+    },
+    {
+      "start": 525.43,
+      "end": 527.75,
+      "text": "Also for Andrew Cotton of Holmes Chapel in Cheshire."
+    },
+    {
+      "start": 527.75,
+      "end": 532.59,
+      "text": "And for Archie Anderson and his friends Cy, Mary, Ewan and George."
+    },
+    {
+      "start": 532.69,
+      "end": 533.59,
+      "text": "And they live in Fife."
+    },
+    {
+      "start": 1031.79,
+      "end": 1034.53,
+      "text": "Still I think some of the strangest music that's ever been made."
+    },
+    {
+      "start": 1034.69,
+      "end": 1036.43,
+      "text": "That was recorded in 1968."
+    },
+    {
+      "start": 1036.77,
+      "end": 1040.09,
+      "text": "It was on the second LP put out by Captain Beefheart and his magic band."
+    },
+    {
+      "start": 1040.27,
+      "end": 1041.77,
+      "text": "The album was called Strictly Personal."
+    },
+    {
+      "start": 1042.35,
+      "end": 1045.49,
+      "text": "And the track was Son of Mirror Man, Mere Man."
+    },
+    {
+      "start": 1046.68,
+      "end": 1052.3,
+      "text": "And before that something from the 1968 album that came out in round about November or December of that year by the Rolling Stones."
+    },
+    {
+      "start": 1052.48,
+      "end": 1053.8,
+      "text": "The album was called Beggar's Banquet."
+    },
+    {
+      "start": 1053.8,
+      "end": 1056.02,
+      "text": "The track you heard was Street Fighting Man."
+    },
+    {
+      "start": 1056.06,
+      "end": 1058.9,
+      "text": "And I played that at the request of Dave Hutchinson"
+    },
+    {
+      "start": 1058.9,
+      "end": 1062.1,
+      "text": "at No. 5 Rippon Square, Felgate, Jarrow and Tyne and Weir."
+    },
+    {
+      "start": 1062.52,
+      "end": 1065.32,
+      "text": "And it was recorded when Brian Jones was still with the band"
+    },
+    {
+      "start": 1065.32,
+      "end": 1068.92,
+      "text": "that the actual album, well, it's debatable."
+    },
+    {
+      "start": 1069.1,
+      "end": 1071.1,
+      "text": "Some people say that he did very little on the album"
+    },
+    {
+      "start": 1071.1,
+      "end": 1075.28,
+      "text": "and that Dave Mason and Eric Clapton were actually in most of the sessions,"
+    },
+    {
+      "start": 1075.48,
+      "end": 1076.86,
+      "text": "but nobody's ever owned up to that."
+    },
+    {
+      "start": 1076.96,
+      "end": 1078.46,
+      "text": "That's still, I think, rumour."
+    },
+    {
+      "start": 1079.43,
+      "end": 1081.03,
+      "text": "And those of us old enough to remember"
+    },
+    {
+      "start": 1081.03,
+      "end": 1083.33,
+      "text": "will remember that it was delayed for five months"
+    },
+    {
+      "start": 1083.33,
+      "end": 1086.37,
+      "text": "because Decca Records said they didn't like the artwork,"
+    },
+    {
+      "start": 1086.67,
+      "end": 1088.45,
+      "text": "but ultimately they put it out."
+    },
+    {
+      "start": 1089.81,
+      "end": 1093.33,
+      "text": "And now let's go to our first archive session from 1968, Family."
+    },
+    {
+      "start": 1093.87,
+      "end": 1113.46,
+      "text": "This is out of sight, I tell you, baby."
+    },
+    {
+      "start": 1113.66,
+      "end": 1116.5,
+      "text": "We're taking up now with some super interstellar sounds"
+    },
+    {
+      "start": 1116.5,
+      "end": 1119.38,
+      "text": "from a sensational group making their Top of the Pops debut."
+    },
+    {
+      "start": 1119.96,
+      "end": 1121.98,
+      "text": "Way out of the vanguard of the current scene,"
+    },
+    {
+      "start": 1121.98,
+      "end": 1125.2,
+      "text": "heard here with see-through windows, The Family."
+    },
+    {
+      "start": 1198.42,
+      "end": 1202.42,
+      "text": "like following while the wind keepin' the flow"
+    },
+    {
+      "start": 1202.42,
+      "end": 1203.34,
+      "text": "and it's slow"
+    },
+    {
+      "start": 1203.34,
+      "end": 1409.4,
+      "text": "I asked for a hand"
+    },
+    {
+      "start": 1409.4,
+      "end": 1412.26,
+      "text": "Fetch a golden sword"
+    },
+    {
+      "start": 1412.26,
+      "end": 1414.04,
+      "text": "Red, Virginia, old white"
+    },
+    {
+      "start": 1414.04,
+      "end": 1429.89,
+      "text": "Capture all the joys, the birth of our first son"
+    },
+    {
+      "start": 1429.89,
+      "end": 1434.56,
+      "text": "A massive family made of rubber for the one"
+    },
+    {
+      "start": 1434.56,
+      "end": 1538.16,
+      "text": "My lover's threats cut off when ain't she laid to rest"
+    },
+    {
+      "start": 1538.16,
+      "end": 1543.04,
+      "text": "My sorrow blacking out a space upon a woven crest"
+    },
+    {
+      "start": 1543.04,
+      "end": 1545.7,
+      "text": "A gathering for the last time"
+    },
+    {
+      "start": 1545.7,
+      "end": 1547.86,
+      "text": "As a coffin slowly laid"
+    },
+    {
+      "start": 1547.86,
+      "end": 1550.52,
+      "text": "As two ashes dust to dust"
+    },
+    {
+      "start": 1550.52,
+      "end": 1552.44,
+      "text": "One day we will regain"
+    },
+    {
+      "start": 1552.44,
+      "end": 1554.8,
+      "text": "Does it show the visits"
+    },
+    {
+      "start": 1554.8,
+      "end": 1557.39,
+      "text": "My children on my knee"
+    },
+    {
+      "start": 1557.39,
+      "end": 1559.09,
+      "text": "But only we ring"
+    },
+    {
+      "start": 1559.09,
+      "end": 1560.15,
+      "text": "After we've aged"
+    },
+    {
+      "start": 1560.15,
+      "end": 1580.31,
+      "text": "Two years of loneliness made"
+    },
+    {
+      "start": 1580.31,
+      "end": 1592.31,
+      "text": "Don't you lie"
+    },
+    {
+      "start": 1592.31,
+      "end": 1593.57,
+      "text": "Catch me to this"
+    },
+    {
+      "start": 1593.57,
+      "end": 1607.91,
+      "text": "Last now I can see"
+    },
+    {
+      "start": 1607.91,
+      "end": 1610.33,
+      "text": "The pattern of my life"
+    },
+    {
+      "start": 1610.33,
+      "end": 1610.99,
+      "text": "Gone by"
+    },
+    {
+      "start": 1610.99,
+      "end": 1612.63,
+      "text": "So run your tempest"
+    },
+    {
+      "start": 1612.63,
+      "end": 1643.6,
+      "text": "That was Family, as they were in the studios of the BBC on the 3rd of the 9th, way back in 1968."
+    },
+    {
+      "start": 1643.86,
+      "end": 1648.68,
+      "text": "The original line-up of Family, that was Chapman, Whitney and Townsend, Roger, Charlie and Rob,"
+    },
+    {
+      "start": 1649.06,
+      "end": 1654.54,
+      "text": "and also Jim King and Rick Gretsch on the violin and vocals, and also playing the bass."
+    },
+    {
+      "start": 1655.29,
+      "end": 1660.09,
+      "text": "And of course, Weaver's Answer went on to become a very big single success for Family in 1971,"
+    },
+    {
+      "start": 1660.09,
+      "end": 1663.19,
+      "text": "and the other track you heard was See Through Windows."
+    },
+    {
+      "start": 1663.19,
+      "end": 1676.47,
+      "text": "And this is how on the album called"
+    },
+    {
+      "start": 1676.47,
+      "end": 1678.33,
+      "text": "OK Ken, Chicken Shack"
+    },
+    {
+      "start": 1678.33,
+      "end": 1679.61,
+      "text": "introduced Tell Me"
+    },
+    {
+      "start": 1679.61,
+      "end": 2166.45,
+      "text": "That was a hit in May 1968"
+    },
+    {
+      "start": 2166.45,
+      "end": 2168.95,
+      "text": "and it was a hit all over again in 1972"
+    },
+    {
+      "start": 2168.95,
+      "end": 2170.33,
+      "text": "Tyrannosaurus Rex"
+    },
+    {
+      "start": 2170.33,
+      "end": 2172.01,
+      "text": "and Deborah"
+    },
+    {
+      "start": 2172.01,
+      "end": 2176.01,
+      "text": "Miss old Bowley, he was a lovely fella"
+    },
+    {
+      "start": 2177.22,
+      "end": 2182.84,
+      "text": "Played that specially for Mrs. Hilda Stark, who lives in Upper Poppleton in York, who wanted me to dig it out of the library."
+    },
+    {
+      "start": 2183.32,
+      "end": 2188.52,
+      "text": "And also for Keith and Heather and Derek and Pete, who live in, said he, looking at the postmark Stoke-on-Frent."
+    },
+    {
+      "start": 2188.98,
+      "end": 2199.48,
+      "text": "And for the whole of the Wallace family, that's Ian Wallace, Mr. Donald Wallace and Mr. Peter Wallace, who's a very young 80-year-old on, what date is it?"
+    },
+    {
+      "start": 2199.54,
+      "end": 2201.64,
+      "text": "I think it's, oh, in a couple of days' time."
+    },
+    {
+      "start": 2203.08,
+      "end": 2206.86,
+      "text": "And lots and lots of love from everybody at 22 Elton Street, Redcar in Cleveland."
+    },
+    {
+      "start": 2209.19,
+      "end": 2212.13,
+      "text": "And before that, you heard a track from the second LP put out by Chicken Shack,"
+    },
+    {
+      "start": 2212.25,
+      "end": 2213.99,
+      "text": "and it was, of course, led by Stan Webb."
+    },
+    {
+      "start": 2214.09,
+      "end": 2216.43,
+      "text": "They were formed in Birmingham way back in about 1965."
+    },
+    {
+      "start": 2216.85,
+      "end": 2220.71,
+      "text": "The track you heard was Tell Me, and it was a track from the album called OK Ken,"
+    },
+    {
+      "start": 2220.77,
+      "end": 2224.05,
+      "text": "a real bit of good blues boogie that was mighty popular in 68."
+    },
+    {
+      "start": 2224.83,
+      "end": 2227.99,
+      "text": "And, of course, included the talents of Christine Perfect,"
+    },
+    {
+      "start": 2228.39,
+      "end": 2230.61,
+      "text": "who then went on to become Christine McVie,"
+    },
+    {
+      "start": 2231.42,
+      "end": 2233.18,
+      "text": "when she married John McVie of Fleetwood Mac."
+    },
+    {
+      "start": 2233.18,
+      "end": 2234.94,
+      "text": "And we have Fleetwood Mac later."
+    },
+    {
+      "start": 2238.53,
+      "end": 2240.95,
+      "text": "No introduction necessary."
+    },
+    {
+      "start": 2241.11,
+      "end": 2817.53,
+      "text": "and that was deep purple and a track that went top five in the united states of america and"
+    },
+    {
+      "start": 2817.53,
+      "end": 2822.17,
+      "text": "was also on their first album called shades of deep purple the song was called hush and that"
+    },
+    {
+      "start": 2822.17,
+      "end": 2826.79,
+      "text": "was the original lineup of deep purple which then had nick simper and rod evans doing well"
+    },
+    {
+      "start": 2826.79,
+      "end": 2831.53,
+      "text": "rod evans did the vocals nick simper played the bass and he played that out of the archives for"
+    },
+    {
+      "start": 2831.53,
+      "end": 2834.55,
+      "text": "for Pete the Purple Fan from Tingewick in Buckinghamshire,"
+    },
+    {
+      "start": 2834.85,
+      "end": 2837.97,
+      "text": "and Steve Sefton, who lives in Northampton somewhere,"
+    },
+    {
+      "start": 2838.37,
+      "end": 2840.73,
+      "text": "and also for Fred, who lives in Straffodon, Avon,"
+    },
+    {
+      "start": 2841.15,
+      "end": 2843.85,
+      "text": "who wants me to say hello to Heffer and Dave and Liz and Debbie and Iva."
+    },
+    {
+      "start": 2844.35,
+      "end": 2847.35,
+      "text": "And prior to that, one of the great all-time classics, Voodoo Child."
+    },
+    {
+      "start": 2847.53,
+      "end": 2849.11,
+      "text": "That version was called Slight Return."
+    },
+    {
+      "start": 2849.83,
+      "end": 2853.89,
+      "text": "Of course, Voodoo Child became a hit after Hendrix's death,"
+    },
+    {
+      "start": 2853.89,
+      "end": 2855.99,
+      "text": "hard to say in the plural, in 1970."
+    },
+    {
+      "start": 2856.49,
+      "end": 2858.19,
+      "text": "It came from the album Electric Ladyland,"
+    },
+    {
+      "start": 2858.25,
+      "end": 2860.05,
+      "text": "but also incorporated the talents of Al Cooper,"
+    },
+    {
+      "start": 2860.05,
+      "end": 2862.53,
+      "text": "Stevie Wynwood, Buddy Miles and Jack Cassidy"
+    },
+    {
+      "start": 2862.53,
+      "end": 2866.19,
+      "text": "And that was for Hendrix fans all over the country"
+    },
+    {
+      "start": 2866.19,
+      "end": 2868.85,
+      "text": "Particularly Sue Joyce of Hockley and Essex"
+    },
+    {
+      "start": 2868.85,
+      "end": 2878.01,
+      "text": "It's now 13 minutes before 11 o'clock"
+    },
+    {
+      "start": 2878.01,
+      "end": 2879.47,
+      "text": "We're losing all the nice girls"
+    },
+    {
+      "start": 2879.47,
+      "end": 2880.99,
+      "text": "Caroline has gone down under"
+    },
+    {
+      "start": 2880.99,
+      "end": 2882.75,
+      "text": "And Jill's about to go to Australia"
+    },
+    {
+      "start": 2882.75,
+      "end": 2884.05,
+      "text": "Also down under"
+    },
+    {
+      "start": 2884.05,
+      "end": 2886.01,
+      "text": "Have a nice trip, girls"
+    },
+    {
+      "start": 2886.01,
+      "end": 2887.37,
+      "text": "Here's Jethro Tull"
+    },
+    {
+      "start": 2887.37,
+      "end": 3060.02,
+      "text": "Like what I say, gonna be so big very soon"
+    },
+    {
+      "start": 3060.02,
+      "end": 3061.86,
+      "text": "This one's fantastically beautiful"
+    },
+    {
+      "start": 3061.86,
+      "end": 3063.08,
+      "text": "Vegas bar"
+    },
+    {
+      "start": 3063.08,
+      "end": 3070.43,
+      "text": "The deputation's going down"
+    },
+    {
+      "start": 3070.43,
+      "end": 3486.69,
+      "text": "Jethro Tull, as recorded in the BBC Studios on the 5th of the 11th, 1968."
+    },
+    {
+      "start": 3487.75,
+      "end": 3491.49,
+      "text": "Jethro Tull then were made up of Ian Anderson and Glenn Cornick,"
+    },
+    {
+      "start": 3491.75,
+      "end": 3493.77,
+      "text": "Mick Abrams and Clive Bunker."
+    },
+    {
+      "start": 3494.65,
+      "end": 3497.59,
+      "text": "A traxy herboderma for one, love story and beggar's farm."
+    },
+    {
+      "start": 3499.24,
+      "end": 3503.44,
+      "text": "It's now three minutes before 11 o'clock here on the Friday Rock Show,"
+    },
+    {
+      "start": 3503.58,
+      "end": 3505.68,
+      "text": "this special edition, Flashback 68."
+    },
+    {
+      "start": 3506.5,
+      "end": 3509.18,
+      "text": "Now, it's time for the Friday Night Connection,"
+    },
+    {
+      "start": 3509.18,
+      "end": 3514.04,
+      "text": "And the only right or correct answer that we had to last week's competition"
+    },
+    {
+      "start": 3514.04,
+      "end": 3518.02,
+      "text": "that has reached us so far is this one that I have in my sticky little hand."
+    },
+    {
+      "start": 3518.54,
+      "end": 3521.7,
+      "text": "It's from Ken Malofny, I think that's how to say it,"
+    },
+    {
+      "start": 3522.04,
+      "end": 3526.68,
+      "text": "who lives at number 36, Office Lane, Magpie Farm, Winslow, in Buckinghamshire."
+    },
+    {
+      "start": 3527.22,
+      "end": 3530.04,
+      "text": "And honestly, it's the only correct one we've had to date."
+    },
+    {
+      "start": 3530.04,
+      "end": 3533.76,
+      "text": "There might be some lost in the post, but this is the right one."
+    },
+    {
+      "start": 3533.9,
+      "end": 3537.6,
+      "text": "The track that we played worked, Edith and the Kingpin by Joni Mitchell."
+    },
+    {
+      "start": 3537.6,
+      "end": 3545.44,
+      "text": "then we played something else by sid vicious and then free and easy by uriah heap edith and the"
+    },
+    {
+      "start": 3545.44,
+      "end": 3551.58,
+      "text": "kingpin by jody mitchell comes from the album the hissing of summer lawns something else by"
+    },
+    {
+      "start": 3551.58,
+      "end": 3557.18,
+      "text": "sid vicious is from the album sid sings and free and easy by uriah heap is from the album"
+    },
+    {
+      "start": 3557.18,
+      "end": 3567.1,
+      "text": "innocent victim hence the answer is hissing sid is innocent can you win your 10 pound record token"
+    },
+    {
+      "start": 3567.1,
+      "end": 3572.1,
+      "text": "well-deserved congratulations and you put together a friday night connection and here it is three"
+    },
+    {
+      "start": 3572.1,
+      "end": 4201.97,
+      "text": "bits of music that have a 1968 theme in my connection of ken malofny and i hope i'm saying"
+    },
+    {
+      "start": 4201.97,
+      "end": 4208.63,
+      "text": "that right who lives in winslow in buckinghamshire three bits of music that have a definite 1968"
+    },
+    {
+      "start": 4208.63,
+      "end": 4212.63,
+      "text": "connection if you think you know what it is jot your answer on the postcard anything you like"
+    },
+    {
+      "start": 4212.63,
+      "end": 4218.71,
+      "text": "and send it along to the friday night connection the friday rock show bbc radio one london w"
+    },
+    {
+      "start": 4218.71,
+      "end": 4221.07,
+      "text": "1A4WW. Don't forget"
+    },
+    {
+      "start": 4221.07,
+      "end": 4223.07,
+      "text": "to put together your own Friday Night Connection as well"
+    },
+    {
+      "start": 4223.07,
+      "end": 4225.07,
+      "text": "and if your card or"
+    },
+    {
+      "start": 4225.07,
+      "end": 4227.07,
+      "text": "communication comes out of the bag, you get a £10"
+    },
+    {
+      "start": 4227.07,
+      "end": 4227.93,
+      "text": "record token."
+    },
+    {
+      "start": 4238.46,
+      "end": 4240.98,
+      "text": "9 minutes after 11, this is Flashback"
+    },
+    {
+      "start": 4240.98,
+      "end": 4242.6,
+      "text": "68 with the Pink Floyd."
+    },
+    {
+      "start": 4248.82,
+      "end": 4592.62,
+      "text": "Say the joker to the thief"
+    },
+    {
+      "start": 4592.62,
+      "end": 4595.35,
+      "text": "There's too much"
+    },
+    {
+      "start": 4595.35,
+      "end": 4596.41,
+      "text": "confusion"
+    },
+    {
+      "start": 4596.41,
+      "end": 4600.29,
+      "text": "I can't get no relief"
+    },
+    {
+      "start": 4600.29,
+      "end": 4638.74,
+      "text": "business money drink my wine dig my earth know what any of it is worth thief he kindly spoke"
+    },
+    {
+      "start": 4638.74,
+      "end": 4654.4,
+      "text": "among us feel that life is but a joke but you and i we've been through life and this is not our fate"
+    },
+    {
+      "start": 4654.4,
+      "end": 4692.31,
+      "text": "so let us not talk falsely now the hour is getting late barefoot servants too"
+    },
+    {
+      "start": 4692.31,
+      "end": 4700.51,
+      "text": "Outside in the distance, a cat did growl"
+    },
+    {
+      "start": 4700.51,
+      "end": 4725.84,
+      "text": "Bobby Dylan and All Along the Watchtower"
+    },
+    {
+      "start": 4725.84,
+      "end": 4728.76,
+      "text": "from the album John Wesley Harding, his eighth LP."
+    },
+    {
+      "start": 4728.96,
+      "end": 4730.22,
+      "text": "It came out in 1968."
+    },
+    {
+      "start": 4731.51,
+      "end": 4734.31,
+      "text": "And it was the album that was issued after his disappearance"
+    },
+    {
+      "start": 4734.31,
+      "end": 4737.97,
+      "text": "when he had that motorcycle accident or whatever happened"
+    },
+    {
+      "start": 4737.97,
+      "end": 4739.93,
+      "text": "because I don't think the myth has ever been resolved."
+    },
+    {
+      "start": 4740.55,
+      "end": 4744.37,
+      "text": "And the album that changed his style yet again."
+    },
+    {
+      "start": 4745.15,
+      "end": 4748.11,
+      "text": "And before that you heard something from the second LP by Pink Floyd"
+    },
+    {
+      "start": 4748.11,
+      "end": 4752.25,
+      "text": "It was called A Saucer Full of Secrets, and the track was Let There Be Light."
+    },
+    {
+      "start": 4752.83,
+      "end": 4758.19,
+      "text": "And I played it specially for a lady by the name of Deb, with all the love in the world from Steve, who lives in Rochford and Essex,"
+    },
+    {
+      "start": 4758.57,
+      "end": 4763.59,
+      "text": "and also for Michael O'Keefe, who lives at 21 Downing Drive, Morpeth in Northumberland."
+    },
+    {
+      "start": 4763.87,
+      "end": 4769.35,
+      "text": "About the Floyd, I've no idea when the gigs are. I'm still waiting for the powers that be in EMI to tell me."
+    },
+    {
+      "start": 4769.69,
+      "end": 4776.54,
+      "text": "And as soon as they tell me, I'll tell you."
+    },
+    {
+      "start": 4776.76,
+      "end": 4778.6,
+      "text": "Here's Status Quo from March 68."
+    },
+    {
+      "start": 4778.6,
+      "end": 4780.44,
+      "text": "Well, I'm a blowdown, baby."
+    },
+    {
+      "start": 4780.44,
+      "end": 5240.21,
+      "text": "The BBC Studios in March 1968, status quo in an archive session, and the last track you heard was Ice in the Sun."
+    },
+    {
+      "start": 5240.29,
+      "end": 5241.79,
+      "text": "It was their second single success."
+    },
+    {
+      "start": 5242.25,
+      "end": 5246.69,
+      "text": "Before that, Black Rails of Melancholy, and the lead track in that set was Bloodhound."
+    },
+    {
+      "start": 5247.11,
+      "end": 5250.11,
+      "text": "And incidentally, that was recorded when they were a five-piece band."
+    },
+    {
+      "start": 5250.53,
+      "end": 5253.27,
+      "text": "They had a gentleman by the name of Ron Lyons on keyboards."
+    },
+    {
+      "start": 5256.75,
+      "end": 5257.85,
+      "text": "Here's a good cut."
+    },
+    {
+      "start": 5258.15,
+      "end": 5712.11,
+      "text": "Again, haven't heard it for years."
+    },
+    {
+      "start": 5712.55,
+      "end": 5716.29,
+      "text": "From the first ever Fairport Convention album that was called Fairport Convention,"
+    },
+    {
+      "start": 5716.29,
+      "end": 5719.77,
+      "text": "and that was the track entitled It's All Right Mar, It's Only Witchcraft."
+    },
+    {
+      "start": 5720.43,
+      "end": 5723.25,
+      "text": "And we played that for Chris Coffin, who sent in a nice little Snoopy card."
+    },
+    {
+      "start": 5723.67,
+      "end": 5726.97,
+      "text": "And before that, you heard Rock My Plimsoll from the album Truth,"
+    },
+    {
+      "start": 5727.05,
+      "end": 5729.37,
+      "text": "that came out in 68 by the Jeff Beck Group,"
+    },
+    {
+      "start": 5729.81,
+      "end": 5734.81,
+      "text": "who at that time were made up of Jeff Beck, Rod Stewart, Ron Wood, and Mick Waller."
+    },
+    {
+      "start": 5735.98,
+      "end": 5738.46,
+      "text": "And we played that for Richard Mackay, I think it is,"
+    },
+    {
+      "start": 5738.48,
+      "end": 5742.46,
+      "text": "who lives in Osneytown in Oxford, and also for Paul Lidston, who lives in Solihull."
+    },
+    {
+      "start": 5742.46,
+      "end": 5747.28,
+      "text": "And now we're going to replay something on the radio that has never ever been replayed."
+    },
+    {
+      "start": 5747.38,
+      "end": 5753.9,
+      "text": "It was luckily preserved for posterity, or posterity if you like, in somebody's attic on a piece of tape."
+    },
+    {
+      "start": 5754.52,
+      "end": 5763.66,
+      "text": "It's what's known as an air check of a live broadcast that went out in 1968, actually on the 26th of the 8th, 68, featuring Fleetwood Mac."
+    },
+    {
+      "start": 5763.66,
+      "end": 5811.78,
+      "text": "I need someone's hand to lead me through the night."
+    },
+    {
+      "start": 5814.9,
+      "end": 5822.95,
+      "text": "I need someone's arms to hold and squeeze me tight."
+    },
+    {
+      "start": 5826.94,
+      "end": 5828.24,
+      "text": "The night begins."
+    },
+    {
+      "start": 5833.91,
+      "end": 5843.86,
+      "text": "I'm at an end because I need your love so bad."
+    },
+    {
+      "start": 5844.1,
+      "end": 5853.74,
+      "text": "Some lips that feel next to mine."
+    },
+    {
+      "start": 5853.74,
+      "end": 5859.89,
+      "text": "Someone to stand up"
+    },
+    {
+      "start": 5859.89,
+      "end": 5862.0,
+      "text": "To stand up"
+    },
+    {
+      "start": 5862.0,
+      "end": 5864.96,
+      "text": "And tell me when I'm lying"
+    },
+    {
+      "start": 5864.96,
+      "end": 5870.32,
+      "text": "And the lights are low"
+    },
+    {
+      "start": 5870.32,
+      "end": 5877.22,
+      "text": "Time to go"
+    },
+    {
+      "start": 5877.22,
+      "end": 5880.64,
+      "text": "That's when I need"
+    },
+    {
+      "start": 5880.64,
+      "end": 5891.31,
+      "text": "So why don't you give it up"
+    },
+    {
+      "start": 5891.31,
+      "end": 5897.72,
+      "text": "Baby and bring it home to me"
+    },
+    {
+      "start": 5897.72,
+      "end": 5906.81,
+      "text": "A piece of paper with me"
+    },
+    {
+      "start": 5906.81,
+      "end": 5912.69,
+      "text": "Like you love me"
+    },
+    {
+      "start": 5912.69,
+      "end": 5917.02,
+      "text": "Stop driving me mad"
+    },
+    {
+      "start": 5917.02,
+      "end": 5932.94,
+      "text": "Cause I'm suffering"
+    },
+    {
+      "start": 5932.94,
+      "end": 5938.64,
+      "text": "just to talk to me at night"
+    },
+    {
+      "start": 5938.64,
+      "end": 5944.66,
+      "text": "want you to wave it"
+    },
+    {
+      "start": 5944.66,
+      "end": 5955.92,
+      "text": "listen to my plea baby"
+    },
+    {
+      "start": 5955.92,
+      "end": 5961.4,
+      "text": "bring it to me"
+    },
+    {
+      "start": 5961.4,
+      "end": 5965.07,
+      "text": "cause I need"
+    },
+    {
+      "start": 5965.07,
+      "end": 5970.32,
+      "text": "your love so bad"
+    },
+    {
+      "start": 5970.32,
+      "end": 5976.44,
+      "text": "leave"
+    },
+    {
+      "start": 5976.44,
+      "end": 5985.05,
+      "text": "leave your love so bad"
+    },
+    {
+      "start": 5985.05,
+      "end": 6091.27,
+      "text": "turn cherry red"
+    },
+    {
+      "start": 6091.27,
+      "end": 6095.32,
+      "text": "hot woman I'm falling out the bed"
+    },
+    {
+      "start": 6095.32,
+      "end": 6103.6,
+      "text": "I never thought I'd never"
+    },
+    {
+      "start": 6103.6,
+      "end": 6301.73,
+      "text": "Jeremy Spencer, John McVie and Mick Fleetwood"
+    },
+    {
+      "start": 6301.73,
+      "end": 6308.53,
+      "text": "as they were live on the radio 26th 8th 1968 a great old session duff quality but it's a magical"
+    },
+    {
+      "start": 6308.53,
+      "end": 6655.54,
+      "text": "memory buffalo springfield from the album buffalo springfield again it came out in 1968 steven"
+    },
+    {
+      "start": 6655.54,
+      "end": 6660.0,
+      "text": "stills and neil young and the rest of the mob and a thing called rock and roll woman and before that"
+    },
+    {
+      "start": 6660.0,
+      "end": 6664.76,
+      "text": "jefferson airplane from their fourth album crown of creation and the track was called greasy heart"
+    },
+    {
+      "start": 6664.76,
+      "end": 6669.72,
+      "text": "next week on the friday rock show we're going to repeat the gillan at redding session and i'd like"
+    },
+    {
+      "start": 6669.72,
+      "end": 6671.84,
+      "text": "to thank Jonathan and Andy, who've been our engineers"
+    },
+    {
+      "start": 6671.84,
+      "end": 6673.82,
+      "text": "tonight. Tony Wilson is our producer."
+    },
+    {
+      "start": 6673.98,
+      "end": 6675.66,
+      "text": "He's off to France tomorrow. Say something in French."
+    },
+    {
+      "start": 6675.88,
+      "end": 6677.72,
+      "text": "Ah, bonne nuit. Ah, bonne nuit,"
+    },
+    {
+      "start": 6677.8,
+      "end": 6679.78,
+      "text": "c'est joli. Oh, he's so"
+    },
+    {
+      "start": 6679.78,
+      "end": 6680.68,
+      "text": "cosmopolitan."
+    },
+    {
+      "start": 6681.46,
+      "end": 6682.98,
+      "text": "This has been Flashback 68,"
+    },
+    {
+      "start": 6683.5,
+      "end": 6685.62,
+      "text": "and we're going to close with this classic"
+    },
+    {
+      "start": 6685.62,
+      "end": 6686.54,
+      "text": "from the doors."
+    },
+    {
+      "start": 6686.54,
+      "end": 6939.98,
+      "text": "A subscription to the"
+    },
+    {
+      "start": 6939.98,
+      "end": 6951.0,
+      "text": "resurrect house of"
+    },
+    {
+      "start": 6951.0,
+      "end": 6951.9,
+      "text": "detention."
+    },
+    {
+      "start": 6952.9,
+      "end": 7121.44,
+      "text": "They're getting tired of what they've done"
+    },
+    {
+      "start": 7121.44,
+      "end": 7132.11,
+      "text": "to the earth and plundered"
+    },
+    {
+      "start": 7132.11,
+      "end": 7136.97,
+      "text": "and stuck her with knives"
+    },
+    {
+      "start": 7136.97,
+      "end": 7139.45,
+      "text": "In the side of the dawn"
+    },
+    {
+      "start": 7139.45,
+      "end": 7142.37,
+      "text": "And tied her with fences"
+    },
+    {
+      "start": 7142.37,
+      "end": 7145.87,
+      "text": "And dragged her down"
+    },
+    {
+      "start": 7145.87,
+      "end": 7164.45,
+      "text": "Your ear down to the ground"
+    },
+    {
+      "start": 7164.45,
+      "end": 7171.02,
+      "text": "We want the world and we want it"
+    },
+    {
+      "start": 7171.02,
+      "end": 7357.98,
+      "text": "From 1968 and the Ace track called"
+    },
+    {
+      "start": 7357.98,
+      "end": 7359.24,
+      "text": "When the music is over"
+    },
+    {
+      "start": 7359.24,
+      "end": 7360.68,
+      "text": "I'll see you tomorrow for The Rock Show"
+    },
+    {
+      "start": 7360.68,
+      "end": 7361.9,
+      "text": "From me, Tommy Vance, goodnight"
     }
   ]
 }

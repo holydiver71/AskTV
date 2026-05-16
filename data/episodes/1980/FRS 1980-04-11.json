@@ -27,57 +27,68 @@
     {
       "artist": "Triumph",
       "track": "I Live For The Weekend",
-      "details": "LP-Progressions Of Power"
+      "details": "LP-Progressions Of Power",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Saxon",
       "track": "Wheels Of Steel",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Tom Petty",
       "track": "What Are You Doing In My Life",
-      "details": "LP-Damn The Torpedoes"
+      "details": "LP-Damn The Torpedoes",
+      "verified_timestamp": 1326.42
     },
     {
       "artist": "Lone Star",
       "track": "Spaceships",
-      "details": "LP-Lone Star"
+      "details": "LP-Lone Star",
+      "verified_timestamp": 1294.1
     },
     {
       "artist": "Tygers Of Pan Tang",
       "track": "'Don't Touch Me There'",
-      "details": "FRS session 1980-03-05"
+      "details": "FRS session 1980-03-05",
+      "verified_timestamp": 1353.71
     },
     {
       "artist": "Scorpions",
       "track": "Make It Real",
-      "details": "LP-Animal Magnetism"
+      "details": "LP-Animal Magnetism",
+      "verified_timestamp": 1755.73
     },
     {
       "artist": "The Nice",
       "track": "Country Pie",
-      "details": "BBC session"
+      "details": "BBC session",
+      "verified_timestamp": 639.45
     },
     {
       "artist": "The Nice",
       "track": "Top Gear Theme",
-      "details": "Top Gear session 1969-03-04"
+      "details": "Top Gear session 1969-03-04",
+      "verified_timestamp": 639.45
     },
     {
       "artist": "Todd Rundgren",
       "track": "Caravan",
-      "details": "USA Live Radio"
+      "details": "USA Live Radio",
+      "verified_timestamp": 2289.04
     },
     {
       "artist": "Neil Young",
       "track": "Powderfinger",
-      "details": "LP-Rust Never Sleeps"
+      "details": "LP-Rust Never Sleeps",
+      "verified_timestamp": 2742.5
     },
     {
       "artist": "Wings",
       "track": "Rockestra Theme",
-      "details": "LP-Back To The Egg"
+      "details": "LP-Back To The Egg",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -87,17 +98,20 @@
     {
       "artist": "The Nice",
       "track": "St Thomas",
-      "details": "with Roy Harper; Top Gear session 1969-06-02"
+      "details": "with Roy Harper; Top Gear session 1969-06-02",
+      "verified_timestamp": 639.45
     },
     {
       "artist": "The Nice",
       "track": "Better Than Better",
-      "details": "Top Gear session 1968-11-26"
+      "details": "Top Gear session 1968-11-26",
+      "verified_timestamp": 639.45
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.48
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -107,12 +121,14 @@
     {
       "artist": "Trespass",
       "track": "Storm Child",
-      "details": "LP-Metal For Muthas Vol 2"
+      "details": "LP-Metal For Muthas Vol 2",
+      "verified_timestamp": 5634.18
     },
     {
       "artist": "Peter Green",
       "track": "Fool No More",
-      "details": "LP-In The Skies"
+      "details": "LP-In The Skies",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "10CC",
@@ -132,7 +148,1185 @@
     {
       "artist": "Black Sabbath",
       "track": "Lady Evil",
-      "details": "LP-Heaven And Hell"
+      "details": "LP-Heaven And Hell",
+      "verified_timestamp": 7200.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.67,
+      "end": 13.67,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 13.67,
+      "end": 30.14,
+      "text": "Well hello there, Thomas the Vance here, TV on the radio, and welcome once again to The Friday Rock Show."
+    },
+    {
+      "start": 30.14,
+      "end": 56.84,
+      "text": "Tonight we have the first ever session from the Tigers of Pan Tang, and out of the archives, circa 1967 and 1969, we feature a band who were once banned from the Royal Albert Hall, and they were called The Nice."
+    },
+    {
+      "start": 56.84,
+      "end": 61.74,
+      "text": "We've got classic cuts by Lone Star, Neil Young, Wings, Peter Green, Tom Petty and the Heartbreakers, among others,"
+    },
+    {
+      "start": 62.02,
+      "end": 66.08,
+      "text": "and new stuff by the Scorpions, Trespass, 10cc, Black Sabbath and Triumph."
+    },
+    {
+      "start": 66.48,
+      "end": 69.04,
+      "text": "Not forgetting our Friday night connection."
+    },
+    {
+      "start": 73.57,
+      "end": 75.49,
+      "text": "But this evening we start with Triumph."
+    },
+    {
+      "start": 76.41,
+      "end": 629.73,
+      "text": "They're doing so well, and deservedly so."
+    },
+    {
+      "start": 629.83,
+      "end": 633.71,
+      "text": "Their album's gone straight into the album charts at number 10, and their single, which we play just there,"
+    },
+    {
+      "start": 633.71,
+      "end": 636.01,
+      "text": "Wheels of Steel by Saxon, is at number 37."
+    },
+    {
+      "start": 636.45,
+      "end": 639.45,
+      "text": "And pretty soon they start their own headlining tour. Good luck to them."
+    },
+    {
+      "start": 639.45,
+      "end": 650.77,
+      "text": "And I played that especially for a lady by the name of Sam, with lots and lots of best wishes from Simon, and also Remon, I think it is, and Hi-Fi Honky, and all the staff at Mob, and everybody at Stafford College."
+    },
+    {
+      "start": 652.62,
+      "end": 659.64,
+      "text": "Not forgetting all the friends of Sid, who posted this postcard in Newcastle, friends in Fife, I think it is, and in Glasgow University."
+    },
+    {
+      "start": 660.3,
+      "end": 667.06,
+      "text": "And is it Horse Lethal House up there, including Marjorie and Pat and Bobby and Arthur and Graham, who's somewhere out there in the North Sea."
+    },
+    {
+      "start": 667.06,
+      "end": 671.48,
+      "text": "And also we played it for David and John"
+    },
+    {
+      "start": 671.48,
+      "end": 672.82,
+      "text": "And all the heavy metal fans"
+    },
+    {
+      "start": 672.82,
+      "end": 674.58,
+      "text": "Especially the Rush fans on the South Coast"
+    },
+    {
+      "start": 674.58,
+      "end": 675.74,
+      "text": "And in Brum"
+    },
+    {
+      "start": 675.74,
+      "end": 678.94,
+      "text": "From a gentleman by the name of Colin Morris"
+    },
+    {
+      "start": 678.94,
+      "end": 680.98,
+      "text": "Who lives in Bognor Regis in West Sussex"
+    },
+    {
+      "start": 680.98,
+      "end": 682.32,
+      "text": "And the track to be opened with"
+    },
+    {
+      "start": 682.32,
+      "end": 684.0,
+      "text": "Was from the new album by Triumph"
+    },
+    {
+      "start": 684.0,
+      "end": 685.1,
+      "text": "Which is just out"
+    },
+    {
+      "start": 685.1,
+      "end": 686.88,
+      "text": "The album's called Progressions of Power"
+    },
+    {
+      "start": 686.88,
+      "end": 689.42,
+      "text": "And the track was I Live for the Weekend"
+    },
+    {
+      "start": 689.42,
+      "end": 1294.1,
+      "text": "1976 album Lone Star"
+    },
+    {
+      "start": 1294.1,
+      "end": 1295.62,
+      "text": "The track was Spaceships"
+    },
+    {
+      "start": 1295.62,
+      "end": 1299.84,
+      "text": "And it was specially for all the good friends of Nick Peter Kinn"
+    },
+    {
+      "start": 1299.84,
+      "end": 1303.84,
+      "text": "I think it is, who lives at number 34 St. Mary's Park, Ottery, St. Mary down there in Devon."
+    },
+    {
+      "start": 1303.9,
+      "end": 1308.46,
+      "text": "He wants me to mention Nevin and Colin, Bolin Rogers, Ryan and Fritz,"
+    },
+    {
+      "start": 1308.86,
+      "end": 1312.12,
+      "text": "and especially a lady by the name of Linda LaRoche from Plymouth."
+    },
+    {
+      "start": 1312.3,
+      "end": 1314.48,
+      "text": "A particularly smart interviewee, he writes here."
+    },
+    {
+      "start": 1314.86,
+      "end": 1316.92,
+      "text": "I showed around a few weeks ago, he writes here."
+    },
+    {
+      "start": 1317.16,
+      "end": 1318.28,
+      "text": "Give her my love, he says."
+    },
+    {
+      "start": 1319.22,
+      "end": 1322.62,
+      "text": "Also played it for a lady by the name of Pat, who shares the same address as Rod."
+    },
+    {
+      "start": 1322.7,
+      "end": 1324.8,
+      "text": "That's number two, Longfellow Crescent, Oldham."
+    },
+    {
+      "start": 1324.92,
+      "end": 1326.42,
+      "text": "They're married, they're happy, that's nice."
+    },
+    {
+      "start": 1326.42,
+      "end": 1331.12,
+      "text": "now before that you heard what are you doing in my life from damn the torpedoes a fine album by"
+    },
+    {
+      "start": 1331.12,
+      "end": 1336.0,
+      "text": "tom petty and the heartbreakers especially for ian tipton of number 13 ivydale road thermaston"
+    },
+    {
+      "start": 1336.0,
+      "end": 1340.96,
+      "text": "in leicester and i played it for all the good friends in wales of migel button and of course"
+    },
+    {
+      "start": 1340.96,
+      "end": 1353.71,
+      "text": "as well quentin in bromsgrove paul in london tessa and migel in exeter it's 10 22 now it's time for"
+    },
+    {
+      "start": 1353.71,
+      "end": 1358.23,
+      "text": "the first of four from the tigers of pantang and this is a different version of their single don't"
+    },
+    {
+      "start": 1358.23,
+      "end": 1359.09,
+      "text": "Touch Me There."
+    },
+    {
+      "start": 1755.73,
+      "end": 1758.31,
+      "text": "Scorpions and what's going to be their next single is called Make It Real."
+    },
+    {
+      "start": 1758.41,
+      "end": 1761.23,
+      "text": "It's also a track from their album entitled Animal Magnetism,"
+    },
+    {
+      "start": 1761.33,
+      "end": 1764.39,
+      "text": "which on first hearing is not as gritty as their last album,"
+    },
+    {
+      "start": 1764.55,
+      "end": 1766.79,
+      "text": "but I think it's the type of thing that's going to grow on you."
+    },
+    {
+      "start": 1767.27,
+      "end": 1769.57,
+      "text": "And the track before that was our studio session,"
+    },
+    {
+      "start": 1770.01,
+      "end": 1773.01,
+      "text": "or one part thereof, one part of four, by the Tigers of Pantang,"
+    },
+    {
+      "start": 1773.09,
+      "end": 1775.13,
+      "text": "a version of their single Don't Touch Me There."
+    },
+    {
+      "start": 1775.13,
+      "end": 1777.73,
+      "text": "Did you notice the difference? It's just marginally faster."
+    },
+    {
+      "start": 1778.23,
+      "end": 1781.73,
+      "text": "Do you know why? It was produced by Tony Wilson, slave driver."
+    },
+    {
+      "start": 1781.73,
+      "end": 2221.02,
+      "text": "we've delved into the archives and found the nice how many people out there actually recognize that"
+    },
+    {
+      "start": 2221.02,
+      "end": 2226.06,
+      "text": "piece of music that was a version of the theme or if you like the signature tune for a program"
+    },
+    {
+      "start": 2226.06,
+      "end": 2232.53,
+      "text": "that ran for a long long time on radio one top gear and it was written by the man who produced"
+    },
+    {
+      "start": 2232.53,
+      "end": 2237.31,
+      "text": "that program for a long time as well his name was bernie andrews evening bernie and before that"
+    },
+    {
+      "start": 2237.31,
+      "end": 2242.93,
+      "text": "she heard country five by the nice recorded way back in 1967 and we played that archive set for"
+    },
+    {
+      "start": 2242.93,
+      "end": 2244.69,
+      "text": "Philip Barrow of number 27"
+    },
+    {
+      "start": 2244.69,
+      "end": 2246.73,
+      "text": "Briar Dean Marjorie Lane in Durham"
+    },
+    {
+      "start": 2246.73,
+      "end": 2249.05,
+      "text": "and also for Zimmy Zimmerman"
+    },
+    {
+      "start": 2249.05,
+      "end": 2250.43,
+      "text": "in Ramsgate in Kent"
+    },
+    {
+      "start": 2250.43,
+      "end": 2253.05,
+      "text": "and for Stuart Card, what a card"
+    },
+    {
+      "start": 2253.05,
+      "end": 2254.79,
+      "text": "200 Albert Drive, Shearwater"
+    },
+    {
+      "start": 2254.79,
+      "end": 2255.71,
+      "text": "Woking in Surrey"
+    },
+    {
+      "start": 2255.71,
+      "end": 2259.03,
+      "text": "and also for Margaret Bell of number 81"
+    },
+    {
+      "start": 2259.03,
+      "end": 2260.41,
+      "text": "Paynton Avenue, Whitley Bay"
+    },
+    {
+      "start": 2260.41,
+      "end": 2261.77,
+      "text": "in Tyne and Wear"
+    },
+    {
+      "start": 2261.77,
+      "end": 2269.6,
+      "text": "23 minutes before 11 o'clock, we've been playing"
+    },
+    {
+      "start": 2269.6,
+      "end": 2271.42,
+      "text": "tracks from an American radio broadcast"
+    },
+    {
+      "start": 2271.42,
+      "end": 2273.9,
+      "text": "that was put out at the beginning of this year in the States"
+    },
+    {
+      "start": 2273.9,
+      "end": 2275.66,
+      "text": "and it was put together by Todd Rundgren"
+    },
+    {
+      "start": 2275.66,
+      "end": 2280.52,
+      "text": "and utopia and you've all liked it because you've written in and said so so here's another track"
+    },
+    {
+      "start": 2280.52,
+      "end": 2285.04,
+      "text": "introduced by todd hey well we want you all to kind of lay back you know get into kind of like"
+    },
+    {
+      "start": 2285.04,
+      "end": 2289.04,
+      "text": "turn off your mind and relax and float downstream and get into a mind excursion here you knew"
+    },
+    {
+      "start": 2289.04,
+      "end": 2294.77,
+      "text": "because this is kind of like you know you kind of like go tripping on this tune it's called caravan"
+    },
+    {
+      "start": 2294.77,
+      "end": 2318.04,
+      "text": "Moses came back with the law"
+    },
+    {
+      "start": 2318.04,
+      "end": 2321.52,
+      "text": "This way into the desert"
+    },
+    {
+      "start": 2321.52,
+      "end": 2325.3,
+      "text": "God only knows what he saw"
+    },
+    {
+      "start": 2325.3,
+      "end": 2328.8,
+      "text": "Pitch up your ass like a camel"
+    },
+    {
+      "start": 2328.8,
+      "end": 2332.6,
+      "text": "Fill up your skin like a rat"
+    },
+    {
+      "start": 2332.6,
+      "end": 2335.04,
+      "text": "Roll up your tits"
+    },
+    {
+      "start": 2335.04,
+      "end": 2337.01,
+      "text": "Just for your place"
+    },
+    {
+      "start": 2337.01,
+      "end": 2340.21,
+      "text": "Are you ready to ride through hell?"
+    },
+    {
+      "start": 2340.21,
+      "end": 2369.34,
+      "text": "On a desert"
+    },
+    {
+      "start": 2369.34,
+      "end": 2393.95,
+      "text": "For some water"
+    },
+    {
+      "start": 2393.95,
+      "end": 2742.5,
+      "text": "There's a white boy"
+    },
+    {
+      "start": 2742.5,
+      "end": 3076.64,
+      "text": "Neil Young from the album Russ Never Sleeps and Powderfinger."
+    },
+    {
+      "start": 3077.22,
+      "end": 3083.3,
+      "text": "Another specialty for a lady by the name of Carol from Philip Lombard of 33 Huffling Lane, Burnley and Lanks."
+    },
+    {
+      "start": 3086.24,
+      "end": 3089.66,
+      "text": "Also, for all the good mates, a Ben Duet."
+    },
+    {
+      "start": 3090.64,
+      "end": 3094.78,
+      "text": "And he lives at number one, Berkeley Drive, Hornchurch in Essex."
+    },
+    {
+      "start": 3095.54,
+      "end": 3099.4,
+      "text": "And before that, you heard something from this American broadcast, this American radio broadcast,"
+    },
+    {
+      "start": 3099.66,
+      "end": 3103.08,
+      "text": "live versions of various good things by Todd Rundgren."
+    },
+    {
+      "start": 3103.08,
+      "end": 3104.34,
+      "text": "The track that we played was Caravan."
+    },
+    {
+      "start": 3104.34,
+      "end": 3106.98,
+      "text": "Now, don't look for it in the shops, because you cannot buy it."
+    },
+    {
+      "start": 3107.97,
+      "end": 3110.07,
+      "text": "And prior to that, we played something..."
+    },
+    {
+      "start": 3110.07,
+      "end": 3111.13,
+      "text": "Oh, prior to that, nothing."
+    },
+    {
+      "start": 3111.61,
+      "end": 3114.63,
+      "text": "We played that for the Nelson and Colne College,"
+    },
+    {
+      "start": 3114.97,
+      "end": 3117.93,
+      "text": "and also for Jane and Christine and Shirley and Deborah,"
+    },
+    {
+      "start": 3118.47,
+      "end": 3121.31,
+      "text": "who were all Saturday girls at the worst shop in the world,"
+    },
+    {
+      "start": 3121.73,
+      "end": 3124.87,
+      "text": "according to Andrew Marsden, who probably shops there."
+    },
+    {
+      "start": 3126.17,
+      "end": 3476.03,
+      "text": "Good band. Tigers of Pantang and a track called Don't Take Nothing."
+    },
+    {
+      "start": 3476.03,
+      "end": 3479.79,
+      "text": "And incidentally, they're appearing in the Lyceum this coming Sunday,"
+    },
+    {
+      "start": 3479.79,
+      "end": 3482.33,
+      "text": "along with Def Leppard and Magnum, if you want to go and see them."
+    },
+    {
+      "start": 3482.73,
+      "end": 3485.31,
+      "text": "Before that, you heard Wings, of course, with the Rockestra theme,"
+    },
+    {
+      "start": 3485.77,
+      "end": 3488.07,
+      "text": "and that was specially for Mark Lawton and Geoff Maude,"
+    },
+    {
+      "start": 3488.11,
+      "end": 3489.53,
+      "text": "who live up there in Redcar in Cleveland."
+    },
+    {
+      "start": 3490.03,
+      "end": 3492.19,
+      "text": "And also, we get postcards and letters from all over Europe"
+    },
+    {
+      "start": 3492.19,
+      "end": 3494.75,
+      "text": "addressed to this programme, telling us how bad it is, of course."
+    },
+    {
+      "start": 3495.07,
+      "end": 3499.91,
+      "text": "Here's one from Lars Homdahl, who lives in Rudingarten in Sweden."
+    },
+    {
+      "start": 3500.07,
+      "end": 3502.79,
+      "text": "So, to all our Continental listeners, may I wish you a very good evening."
+    },
+    {
+      "start": 3503.47,
+      "end": 3506.11,
+      "text": "Now, back into the archives for more from the mice,"
+    },
+    {
+      "start": 3506.21,
+      "end": 3507.57,
+      "text": "this time circa 1969,"
+    },
+    {
+      "start": 3507.57,
+      "end": 3511.27,
+      "text": "and we start this little set with something that really is a collector's item."
+    },
+    {
+      "start": 3511.43,
+      "end": 3513.29,
+      "text": "It's never been recorded to the best of our knowledge"
+    },
+    {
+      "start": 3513.29,
+      "end": 3515.19,
+      "text": "and it's introduced by Brian Matthew."
+    },
+    {
+      "start": 3515.85,
+      "end": 3519.63,
+      "text": "And now something great that you can't buy on record anywhere in the world."
+    },
+    {
+      "start": 3520.05,
+      "end": 3523.83,
+      "text": "At our studio session, the nice were playing a Sonny Rollins thing called St Thomas"
+    },
+    {
+      "start": 3523.83,
+      "end": 3528.09,
+      "text": "and Roy Harpin, who just happened to be on hand, wrote some words on the spot."
+    },
+    {
+      "start": 3528.37,
+      "end": 3528.93,
+      "text": "Here they are."
+    },
+    {
+      "start": 3529.05,
+      "end": 3532.37,
+      "text": "Dad's having a kip on the couch, so mind how you go"
+    },
+    {
+      "start": 3532.37,
+      "end": 3536.86,
+      "text": "And watch your head on the staircase, ouch, well there you go"
+    },
+    {
+      "start": 3536.86,
+      "end": 3541.41,
+      "text": "Mom's in the oven cooking, baby, she'll never know"
+    },
+    {
+      "start": 3541.41,
+      "end": 3545.78,
+      "text": "And I'm so far, I'm really gone, so mind how you go"
+    },
+    {
+      "start": 3545.78,
+      "end": 3550.24,
+      "text": "Dad's having a kip on the couch, so mind how you go"
+    },
+    {
+      "start": 3550.24,
+      "end": 3554.66,
+      "text": "And watch your head on the staircase, ouch, well there you go"
+    },
+    {
+      "start": 3554.66,
+      "end": 3559.25,
+      "text": "Mom's in the oven cooking, baby, she'll never know"
+    },
+    {
+      "start": 3559.25,
+      "end": 3563.69,
+      "text": "And I'm so far, I'm really gone, so mind how you go"
+    },
+    {
+      "start": 3563.69,
+      "end": 4155.5,
+      "text": "hey that's a knockout yeah the nice then as they were in 1969 the tracks you heard were better than"
+    },
+    {
+      "start": 4155.5,
+      "end": 4166.05,
+      "text": "better and saint thomas and saint thomas of course had the voice of roy harper on it eight minutes"
+    },
+    {
+      "start": 4166.05,
+      "end": 4170.11,
+      "text": "after 11 of the clock it's time for the friday night connection and last week the tracks we"
+    },
+    {
+      "start": 4170.11,
+      "end": 4176.21,
+      "text": "played were blinded by the light by manfred man's earthman from the album the roaring silence"
+    },
+    {
+      "start": 4176.21,
+      "end": 4184.51,
+      "text": "because the night by paddy smith from the lp easter fourth of july asbury park from bruce"
+    },
+    {
+      "start": 4184.51,
+      "end": 4192.74,
+      "text": "springsteen's lp the wild at the innocent and the e street shuffle loads and loads and loads of mail"
+    },
+    {
+      "start": 4192.74,
+      "end": 4197.9,
+      "text": "but there's always only one winner so to everybody other than the winner who's of course yet to be"
+    },
+    {
+      "start": 4197.9,
+      "end": 4202.94,
+      "text": "announced many thanks for writing it takes time and it takes money and we thank you for entering"
+    },
+    {
+      "start": 4202.94,
+      "end": 4210.3,
+      "text": "the answer was not as a few people thought the night the answer was that all the tracks were"
+    },
+    {
+      "start": 4210.3,
+      "end": 4216.1,
+      "text": "written by bruce springsteen and the guy that cops the 10 pound record token is derrick yarwood"
+    },
+    {
+      "start": 4216.1,
+      "end": 4222.66,
+      "text": "of 11 laurel close barnton northwich in cheshire well done delf for 10 pounds on his way"
+    },
+    {
+      "start": 4222.66,
+      "end": 4232.86,
+      "text": "in record token form and of course as i would think everybody knows the part of the deal that"
+    },
+    {
+      "start": 4232.86,
+      "end": 4236.2,
+      "text": "you've got to complete as well is not only to give us the right answer but you've got to give"
+    },
+    {
+      "start": 4236.2,
+      "end": 4241.4,
+      "text": "us a friday night connection three bits of music with a theme and msd r wood has done just that"
+    },
+    {
+      "start": 4241.4,
+      "end": 4247.88,
+      "text": "it's a very clever construction this friday night connection and here it comes"
+    },
+    {
+      "start": 4247.88,
+      "end": 4297.94,
+      "text": "whatever colors you have in your mind i'll show them to you and you'll see them shine"
+    },
+    {
+      "start": 4297.94,
+      "end": 4317.55,
+      "text": "lay lady lay lay across my big breast bed hey lady stay stay with your man a while"
+    },
+    {
+      "start": 4317.55,
+      "end": 4339.9,
+      "text": "until the break of day let me see you make him smile his clothes are dirty but his"
+    },
+    {
+      "start": 4339.9,
+      "end": 4348.77,
+      "text": "his hands are clean and you're the best thing that he's ever seen"
+    },
+    {
+      "start": 4348.77,
+      "end": 4355.62,
+      "text": "Lady, stay, stay with your man a while"
+    },
+    {
+      "start": 4355.62,
+      "end": 4367.26,
+      "text": "Long before the world to begin"
+    },
+    {
+      "start": 4367.26,
+      "end": 4371.81,
+      "text": "You can have your cake and eat it too"
+    },
+    {
+      "start": 4371.81,
+      "end": 4379.62,
+      "text": "Long before the one you love"
+    },
+    {
+      "start": 4379.62,
+      "end": 4385.13,
+      "text": "When he's standing in front of you"
+    },
+    {
+      "start": 4385.13,
+      "end": 4402.18,
+      "text": "Lady, lay, lady, stay"
+    },
+    {
+      "start": 4402.18,
+      "end": 4407.06,
+      "text": "Stay while the night is still ahead"
+    },
+    {
+      "start": 4407.06,
+      "end": 4417.72,
+      "text": "Long to see you in the morning light"
+    },
+    {
+      "start": 4417.72,
+      "end": 4424.46,
+      "text": "I long to reach for you in the night"
+    },
+    {
+      "start": 4424.46,
+      "end": 4427.38,
+      "text": "Stay, lady, stay"
+    },
+    {
+      "start": 4427.38,
+      "end": 4432.42,
+      "text": "Stay while the night is still ahead"
+    },
+    {
+      "start": 4432.42,
+      "end": 5044.96,
+      "text": "And that's it, the Friday Night Connection"
+    },
+    {
+      "start": 5044.96,
+      "end": 5047.8,
+      "text": "for April the 11th and the year of our Lord, 1980."
+    },
+    {
+      "start": 5049.01,
+      "end": 5051.83,
+      "text": "Put together very cleverly by Derek Yarwood,"
+    },
+    {
+      "start": 5051.89,
+      "end": 5053.69,
+      "text": "who lives up there in Northwich in Cheshire."
+    },
+    {
+      "start": 5054.33,
+      "end": 5056.05,
+      "text": "Now, listening to that in the studio,"
+    },
+    {
+      "start": 5056.65,
+      "end": 5058.81,
+      "text": "we've come up with three different answers"
+    },
+    {
+      "start": 5058.81,
+      "end": 5061.21,
+      "text": "to tonight's Friday Night Connection."
+    },
+    {
+      "start": 5061.53,
+      "end": 5062.41,
+      "text": "It's tricky."
+    },
+    {
+      "start": 5062.41,
+      "end": 5070.29,
+      "text": "so before you start building up your hopes think again about the answer because it's a clever one"
+    },
+    {
+      "start": 5070.29,
+      "end": 5076.66,
+      "text": "isn't it derek if you think you know what it is send it along in a postcard to tommy vance that's"
+    },
+    {
+      "start": 5076.66,
+      "end": 5088.96,
+      "text": "me the friday night connection a friday rock show bbc radio one london w1a4ww okay don't forget to"
+    },
+    {
+      "start": 5088.96,
+      "end": 5091.48,
+      "text": "Put together your own Friday night connection as well."
+    },
+    {
+      "start": 5091.66,
+      "end": 5093.78,
+      "text": "Three bits of music with a theme."
+    },
+    {
+      "start": 5095.5,
+      "end": 5097.58,
+      "text": "And a tricky one like Mr. Yardwood's put together."
+    },
+    {
+      "start": 5098.06,
+      "end": 5098.6,
+      "text": "And good luck."
+    },
+    {
+      "start": 5109.43,
+      "end": 5111.19,
+      "text": "1123, The Tigers of Pantang."
+    },
+    {
+      "start": 5111.59,
+      "end": 5632.6,
+      "text": "That's from Metal for Mothers, Volume 2."
+    },
+    {
+      "start": 5632.6,
+      "end": 5634.12,
+      "text": "It's coming out on May the 9th."
+    },
+    {
+      "start": 5634.18,
+      "end": 5636.0,
+      "text": "And it was Trespass and Stormchild."
+    },
+    {
+      "start": 5636.5,
+      "end": 5640.63,
+      "text": "Here on the Friday Rock Show, in the very near future,"
+    },
+    {
+      "start": 5640.75,
+      "end": 5642.51,
+      "text": "we'll be putting out a session by Trespass."
+    },
+    {
+      "start": 5642.81,
+      "end": 5646.21,
+      "text": "And I played that specially for Rocky and Prof and all the Windsor people."
+    },
+    {
+      "start": 5646.63,
+      "end": 5650.13,
+      "text": "They're currently on vacation in Cardiff with lots of best wishes from Debs."
+    },
+    {
+      "start": 5650.13,
+      "end": 5656.89,
+      "text": "and also for the whole of the all family that's rob and tina and dan and matthew who live up there"
+    },
+    {
+      "start": 5656.89,
+      "end": 5663.17,
+      "text": "in woodchurch birkenhead in merseyside before that you heard something by the tigers of pantang"
+    },
+    {
+      "start": 5663.17,
+      "end": 5669.97,
+      "text": "the track was euthanasia and now here's one of my favorite tracks i never stopped playing this at"
+    },
+    {
+      "start": 5669.97,
+      "end": 5777.65,
+      "text": "home. Yes, I've packed up my clothes. I'm moving away. I've packed up my clothes. I said I'm moving"
+    },
+    {
+      "start": 5777.65,
+      "end": 5825.93,
+      "text": "away. And you're a fool for so long. Babe, I won't play that fool no more. I work as hard as I can."
+    },
+    {
+      "start": 5991.15,
+      "end": 6044.22,
+      "text": "Yes, I had a love so strong. But you treat me so unfair. I said I packed up my clothes. I won't"
+    },
+    {
+      "start": 6044.22,
+      "end": 6046.5,
+      "text": "Play that fool no more."
+    },
+    {
+      "start": 6046.98,
+      "end": 6423.94,
+      "text": "10cc had a track from their new album, which is called Look Here."
+    },
+    {
+      "start": 6424.1,
+      "end": 6426.88,
+      "text": "The track is entitled One, Two, Five."
+    },
+    {
+      "start": 6427.02,
+      "end": 6430.66,
+      "text": "And before that, something from the solo album was put out last year by Peter Green."
+    },
+    {
+      "start": 6431.08,
+      "end": 6434.08,
+      "text": "The album's called In the Skies, and the track I played was Fool No More."
+    },
+    {
+      "start": 6434.56,
+      "end": 6438.7,
+      "text": "Played it for Brian Johnston, who lives in Kilwinning in Ayrshire in Scotland."
+    },
+    {
+      "start": 6438.9,
+      "end": 6440.4,
+      "text": "And the album comes highly recommended."
+    },
+    {
+      "start": 6440.54,
+      "end": 6441.88,
+      "text": "It's absolutely beautiful."
+    },
+    {
+      "start": 6442.57,
+      "end": 6445.17,
+      "text": "Okay, back now to the archives and the nice."
+    },
+    {
+      "start": 6445.17,
+      "end": 6450.81,
+      "text": "The quality of this is not so good, but the musicianship on Azrael Revisited is excellent."
+    },
+    {
+      "start": 6453.22,
+      "end": 6771.83,
+      "text": "It was the nice Keith Emerson, Lee Jackson, and Blinky Davison, as they were way back in 1969."
+    },
+    {
+      "start": 6772.51,
+      "end": 6775.69,
+      "text": "And the track you heard there was Azrael Revisited."
+    },
+    {
+      "start": 6776.11,
+      "end": 6779.81,
+      "text": "Next week, out of the archives, we're going to dig the Climax Blues Band."
+    },
+    {
+      "start": 6781.76,
+      "end": 6786.7,
+      "text": "So the powers that be said to me, here you are having trouble with your trails, corner."
+    },
+    {
+      "start": 6786.7,
+      "end": 6791.46,
+      "text": "If we change your time to 7 o'clock, that'd give you something to say."
+    },
+    {
+      "start": 6792.32,
+      "end": 6794.18,
+      "text": "Well, that's an idea. I said thank you."
+    },
+    {
+      "start": 6794.56,
+      "end": 6800.02,
+      "text": "So, from this week, the Alexis Corner show moves to the new time of 7 o'clock on Sunday evenings."
+    },
+    {
+      "start": 6800.36,
+      "end": 6805.62,
+      "text": "Radio 1 VHF in stereo or in the medium wave band on 275 or 285."
+    },
+    {
+      "start": 6805.7,
+      "end": 6807.82,
+      "text": "What a voice. What a voice that man has."
+    },
+    {
+      "start": 6807.9,
+      "end": 6810.04,
+      "text": "That's Alexis Corner at a new time on Sunday."
+    },
+    {
+      "start": 6810.54,
+      "end": 6813.76,
+      "text": "Quick, nice mention here for a gentleman by the name of Philip Stanley"
+    },
+    {
+      "start": 6813.76,
+      "end": 6817.46,
+      "text": "who lives at Ivy Dean, 2 Old Road, Skewen, Neath and West Glamorgan,"
+    },
+    {
+      "start": 6817.54,
+      "end": 6819.3,
+      "text": "who sent us a list of all his favourite groups."
+    },
+    {
+      "start": 6819.64,
+      "end": 6820.74,
+      "text": "Thank you very much indeed, Phil."
+    },
+    {
+      "start": 6821.26,
+      "end": 6824.64,
+      "text": "And also I'd like to mention the artwork that's on this request in front of me"
+    },
+    {
+      "start": 6824.64,
+      "end": 6827.66,
+      "text": "that comes from a gentleman whose name I've now lost."
+    },
+    {
+      "start": 6827.86,
+      "end": 6828.56,
+      "text": "I know, found it."
+    },
+    {
+      "start": 6828.94,
+      "end": 6831.98,
+      "text": "Philip England of 51 Oakdale Close, Downend in Bristol."
+    },
+    {
+      "start": 6832.18,
+      "end": 6834.0,
+      "text": "We appreciate the artwork, it was excellent."
+    },
+    {
+      "start": 6834.46,
+      "end": 6838.22,
+      "text": "And now here's our final track tonight from the Tigers of Pantang."
+    },
+    {
+      "start": 6838.4,
+      "end": 6839.78,
+      "text": "This is Wildcats."
+    },
+    {
+      "start": 6839.78,
+      "end": 7315.42,
+      "text": "black sabbath and lady evil from their album heaven and hell and tomorrow on rock on saturday"
+    },
+    {
+      "start": 7315.42,
+      "end": 7320.2,
+      "text": "between 4 and 7 30 i'm going to be chatting to ronnie dio and tony iomi of sabbath also"
+    },
+    {
+      "start": 7320.2,
+      "end": 7325.45,
+      "text": "the undertones are on the show and phil leinert is as well the track you heard there was lady"
+    },
+    {
+      "start": 7325.45,
+      "end": 7330.11,
+      "text": "evil the one before that was wildcats and many thanks to jess cox and rob weir and brian dick"
+    },
+    {
+      "start": 7330.11,
+      "end": 7336.13,
+      "text": "and rocky also known as the tigers of pantank for their set tonight they're at london's lyceum this"
+    },
+    {
+      "start": 7336.13,
+      "end": 7337.71,
+      "text": "coming Sunday if you want to go and see them."
+    },
+    {
+      "start": 7343.8,
+      "end": 7345.4,
+      "text": "Thanks to the war engineers tonight, Richard"
+    },
+    {
+      "start": 7345.4,
+      "end": 7347.0,
+      "text": "and Paul. Cough, smother, sorry."
+    },
+    {
+      "start": 7347.2,
+      "end": 7349.52,
+      "text": "Sorry. I'll read that again"
+    },
+    {
+      "start": 7349.52,
+      "end": 7351.4,
+      "text": "but I haven't got the time. So Tony Wilson"
+    },
+    {
+      "start": 7351.4,
+      "end": 7353.34,
+      "text": "will now speak in his best BBC accent."
+    },
+    {
+      "start": 7353.6,
+      "end": 7354.88,
+      "text": "Have a happy metal week."
+    },
+    {
+      "start": 7355.54,
+      "end": 7356.46,
+      "text": "Ha ha ha ha!"
+    },
+    {
+      "start": 7357.78,
+      "end": 7359.28,
+      "text": "Always. On the ball,"
+    },
+    {
+      "start": 7359.4,
+      "end": 7363.23,
+      "text": "folks. The pubs are open. I'll get in to buy"
+    },
+    {
+      "start": 7363.23,
+      "end": 7365.19,
+      "text": "me a drink. I'll see you tomorrow for Rock"
+    },
+    {
+      "start": 7365.19,
+      "end": 7367.17,
+      "text": "on Saturday at four. From me, Tommy Vance in London,"
+    },
+    {
+      "start": 7367.35,
+      "end": 7368.55,
+      "text": "God bless and good night."
     }
   ]
 }

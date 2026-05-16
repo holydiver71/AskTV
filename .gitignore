@@ -1,3 +1,7 @@
 # Ignore virtual environment and runtime logs
 .venv/
 logs/
+
+# Audio files (large binary assets — not tracked in git)
+FRSAudio/
+FRSAudio

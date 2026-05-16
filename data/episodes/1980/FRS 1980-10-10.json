@@ -20,7 +20,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Genocide",
-      "details": "The Killing Of The Buffalo; LP-Chinatown"
+      "details": "The Killing Of The Buffalo; LP-Chinatown",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Jon Anderson",
@@ -35,27 +36,32 @@
     {
       "artist": "Black Axe",
       "track": "Red Lights",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 1669.65
     },
     {
       "artist": "Vardis",
       "track": "'Let's Go'",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 1665.67
     },
     {
       "artist": "Racing Cars",
       "track": "Hard Working Woman",
-      "details": "LP-Down Town Tonight"
+      "details": "LP-Down Town Tonight",
+      "verified_timestamp": 2226.91
     },
     {
       "artist": "Atlanta Rhythm Section",
       "track": "Try My Love",
-      "details": "LP-The Boys From Doraville"
+      "details": "LP-The Boys From Doraville",
+      "verified_timestamp": 2209.55
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 69.83
     },
     {
       "artist": "Whitesnake",
@@ -65,7 +71,945 @@
     {
       "artist": "Led Zeppelin",
       "track": "All Of My Love",
-      "details": "LP-In Through The Out Door"
+      "details": "LP-In Through The Out Door",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 5.5,
+      "text": "...car and now both mother and daughter are doing well. And that's Radio 1 News at two and a half minutes past ten."
+    },
+    {
+      "start": 5.5,
+      "end": 16.08,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 16.08,
+      "end": 33.31,
+      "text": "TV on the radio here, Thomas the Vance, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 33.31,
+      "end": 38.76,
+      "text": "And this evening the bulk of our program is taken up by 55 minutes of absolute excellence."
+    },
+    {
+      "start": 38.76,
+      "end": 45.76,
+      "text": "The type of performance that always emanates from any stage anywhere in the world when it's occupied by David Coverdale and Whitesnake."
+    },
+    {
+      "start": 46.26,
+      "end": 62.97,
+      "text": "We've got some classic cuts by Racing Cars and Led Zeppelin, among others,"
+    },
+    {
+      "start": 63.05,
+      "end": 67.09,
+      "text": "and new releases by Thin Lizzy, John Anderson, Van Morrison, Black Axe,"
+    },
+    {
+      "start": 67.19,
+      "end": 68.91,
+      "text": "Vardis and the Atlanta Rhythm Section."
+    },
+    {
+      "start": 69.83,
+      "end": 73.61,
+      "text": "After getting our Friday Night Connection, the answer to last week's and a new one."
+    },
+    {
+      "start": 75.15,
+      "end": 77.53,
+      "text": "But this evening, we start with Ted Nugent."
+    },
+    {
+      "start": 78.45,
+      "end": 569.46,
+      "text": "And that was Thin Lizzy and a track from their new album called Chinatown."
+    },
+    {
+      "start": 569.6,
+      "end": 571.1,
+      "text": "The track you hope was called Genocide."
+    },
+    {
+      "start": 571.72,
+      "end": 574.52,
+      "text": "And I love the video that they put together to promote the single,"
+    },
+    {
+      "start": 574.64,
+      "end": 576.36,
+      "text": "which is a big hit, called Killer on the Loose."
+    },
+    {
+      "start": 576.44,
+      "end": 577.6,
+      "text": "It's really threatening."
+    },
+    {
+      "start": 578.62,
+      "end": 580.22,
+      "text": "Prior to that, you heard something by Ted Newton"
+    },
+    {
+      "start": 580.22,
+      "end": 581.66,
+      "text": "from the album called Ted Newton."
+    },
+    {
+      "start": 581.78,
+      "end": 583.04,
+      "text": "The track was Storm Trooper."
+    },
+    {
+      "start": 584.1,
+      "end": 585.5,
+      "text": "I played that especially for"
+    },
+    {
+      "start": 585.5,
+      "end": 587.98,
+      "text": "Cy Hayes and Alf Wesme Lake Hale"
+    },
+    {
+      "start": 587.98,
+      "end": 590.18,
+      "text": "and Nick Byrne, who live in Altrincham, Cheshire."
+    },
+    {
+      "start": 590.68,
+      "end": 593.14,
+      "text": "And also for Carol, alias Winifred Jones,"
+    },
+    {
+      "start": 593.24,
+      "end": 595.22,
+      "text": "who lives in Kenton in Newcastle upon Tyne."
+    },
+    {
+      "start": 595.6,
+      "end": 597.58,
+      "text": "I wanted me to dedicate it to a fellow that she met"
+    },
+    {
+      "start": 597.58,
+      "end": 599.46,
+      "text": "when Pink Floyd were on in London."
+    },
+    {
+      "start": 599.6,
+      "end": 601.56,
+      "text": "She met him, he's from Leeds,"
+    },
+    {
+      "start": 601.78,
+      "end": 604.44,
+      "text": "and they actually got together in Trafalgar Square."
+    },
+    {
+      "start": 604.44,
+      "end": 607.87,
+      "text": "but now they keep missing each other."
+    },
+    {
+      "start": 610.22,
+      "end": 612.12,
+      "text": "I'm also a player for Andy Gonzo-Taylor,"
+    },
+    {
+      "start": 612.32,
+      "end": 617.0,
+      "text": "who lives at No. 10 Smith Hills, Dean Road, in Bolton, in Lancashire."
+    },
+    {
+      "start": 621.86,
+      "end": 624.42,
+      "text": "Twelve and a half minutes after ten, this is John Anderson."
+    },
+    {
+      "start": 624.94,
+      "end": 1222.84,
+      "text": "I'm Matt Morrison. It's a track from his new album,"
+    },
+    {
+      "start": 1222.96,
+      "end": 1224.42,
+      "text": "the album that's called Common One."
+    },
+    {
+      "start": 1224.56,
+      "end": 1225.92,
+      "text": "It came out recently on Mercury."
+    },
+    {
+      "start": 1226.1,
+      "end": 1227.6,
+      "text": "The track you heard was Satisfy."
+    },
+    {
+      "start": 1230.2,
+      "end": 1232.1,
+      "text": "Quite an amazing album, actually, in many ways,"
+    },
+    {
+      "start": 1232.24,
+      "end": 1233.72,
+      "text": "because there are very few tracks on it."
+    },
+    {
+      "start": 1233.78,
+      "end": 1236.88,
+      "text": "There's a 13-minute track on it and a 15-minute track as well."
+    },
+    {
+      "start": 1236.88,
+      "end": 1240.19,
+      "text": "quite enjoyed watching him on the television the other night"
+    },
+    {
+      "start": 1240.19,
+      "end": 1241.47,
+      "text": "that was really a good concert though"
+    },
+    {
+      "start": 1241.47,
+      "end": 1243.77,
+      "text": "I must say I've always had a love-hate relationship with his music"
+    },
+    {
+      "start": 1243.77,
+      "end": 1245.67,
+      "text": "sometimes I love it, other times I just"
+    },
+    {
+      "start": 1245.67,
+      "end": 1247.15,
+      "text": "cannot stand it"
+    },
+    {
+      "start": 1247.15,
+      "end": 1248.87,
+      "text": "and I don't really know why"
+    },
+    {
+      "start": 1248.87,
+      "end": 1252.07,
+      "text": "prior to that you heard John Anderson and his first solo effort"
+    },
+    {
+      "start": 1252.07,
+      "end": 1253.09,
+      "text": "since leaving Yes"
+    },
+    {
+      "start": 1253.09,
+      "end": 1256.03,
+      "text": "it's a single that's coming out very shortly, it's called Summer Born"
+    },
+    {
+      "start": 1256.03,
+      "end": 1258.89,
+      "text": "and I was asked"
+    },
+    {
+      "start": 1258.89,
+      "end": 1261.15,
+      "text": "to play it for a load of Yes freaks"
+    },
+    {
+      "start": 1261.15,
+      "end": 1262.67,
+      "text": "who go to Hall's house"
+    },
+    {
+      "start": 1262.67,
+      "end": 1265.05,
+      "text": "Wolverston School, somewhere near Ipswich"
+    },
+    {
+      "start": 1265.05,
+      "end": 1265.73,
+      "text": "it says here"
+    },
+    {
+      "start": 1265.73,
+      "end": 1269.85,
+      "text": "and that's Sean and Si and Wayne and Tim and Billy and Bruce and John"
+    },
+    {
+      "start": 1269.85,
+      "end": 1271.03,
+      "text": "and cheers to the Lottie-up."
+    },
+    {
+      "start": 1271.93,
+      "end": 1274.19,
+      "text": "Can I prevail upon your musical choice at the moment?"
+    },
+    {
+      "start": 1274.37,
+      "end": 1276.67,
+      "text": "Do you remember the year 1970, a decade ago?"
+    },
+    {
+      "start": 1277.25,
+      "end": 1279.47,
+      "text": "Well, if there's a particular piece of music from that decade"
+    },
+    {
+      "start": 1279.47,
+      "end": 1281.25,
+      "text": "that would bring back some memories to you,"
+    },
+    {
+      "start": 1281.87,
+      "end": 1283.47,
+      "text": "the last Friday in October,"
+    },
+    {
+      "start": 1283.69,
+      "end": 1286.77,
+      "text": "we're going to be doing another of our occasional flashback programmes"
+    },
+    {
+      "start": 1286.77,
+      "end": 1289.09,
+      "text": "that will be featuring the music of 1970."
+    },
+    {
+      "start": 1289.61,
+      "end": 1291.41,
+      "text": "So if there's something from that particular year"
+    },
+    {
+      "start": 1291.41,
+      "end": 1293.03,
+      "text": "that you'd like to hear on the Friday Rock Show,"
+    },
+    {
+      "start": 1293.45,
+      "end": 1295.55,
+      "text": "just jot it down on a postcard and send it to"
+    },
+    {
+      "start": 1295.55,
+      "end": 1300.33,
+      "text": "The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 1300.89,
+      "end": 1303.99,
+      "text": "And we'll put the programme together, and maybe you'll hear your particular favourite."
+    },
+    {
+      "start": 1308.42,
+      "end": 1309.66,
+      "text": "This is Black Axe."
+    },
+    {
+      "start": 1309.92,
+      "end": 1665.39,
+      "text": "A couple of good singles there by a couple of good British young bands."
+    },
+    {
+      "start": 1665.67,
+      "end": 1669.13,
+      "text": "The latter one was by Vardis. It's a single called Let's Go. It's out on Logo."
+    },
+    {
+      "start": 1669.65,
+      "end": 1673.57,
+      "text": "And prior to that, you heard Black Axe. They're out on the metal label, and that was called Red Lights."
+    },
+    {
+      "start": 1675.63,
+      "end": 1681.07,
+      "text": "My little card here from Marie Haywood, who lives at 195 Alkington Road, Whitchurch in Shropshire."
+    },
+    {
+      "start": 1681.59,
+      "end": 1685.35,
+      "text": "Dear Tom, would you please play a record for my great boyfriend, Tim Barber, who I love very much."
+    },
+    {
+      "start": 1685.57,
+      "end": 1688.95,
+      "text": "Please would you tell him that I don't really get jealous about him listening to the Friday Rock Show,"
+    },
+    {
+      "start": 1689.07,
+      "end": 1692.65,
+      "text": "well, maybe just a bit, and I don't mind as long as he's with me."
+    },
+    {
+      "start": 1692.81,
+      "end": 1696.31,
+      "text": "Also tell him that I love him, as he's going to listen to you. Do you hear that, Tim?"
+    },
+    {
+      "start": 1696.91,
+      "end": 1698.83,
+      "text": "You don't know how jealous I get, says Marie."
+    },
+    {
+      "start": 1699.03,
+      "end": 1701.45,
+      "text": "I get really jealous of you. I can be sitting talking to him,"
+    },
+    {
+      "start": 1701.45,
+      "end": 1704.77,
+      "text": "and all of a sudden he will say, this is Whitesnake, or whatever band it is."
+    },
+    {
+      "start": 1705.17,
+      "end": 1709.67,
+      "text": "Please play any record for him. He won't mind whatever it is, as long as it's not Quo."
+    },
+    {
+      "start": 1710.11,
+      "end": 1711.55,
+      "text": "Thanks very much, Marie Hayward."
+    },
+    {
+      "start": 1711.67,
+      "end": 1714.53,
+      "text": "Well, Marie, unfortunately, you're going to lose him for 55 minutes,"
+    },
+    {
+      "start": 1714.93,
+      "end": 1717.89,
+      "text": "because that is the length of time that Whitesnake will be on the air later."
+    },
+    {
+      "start": 1720.31,
+      "end": 1721.79,
+      "text": "Here's a nice, delicate track, though."
+    },
+    {
+      "start": 1721.93,
+      "end": 1723.15,
+      "text": "It came out in 1976."
+    },
+    {
+      "start": 2201.43,
+      "end": 2202.67,
+      "text": "Fabulous feel, that band."
+    },
+    {
+      "start": 2202.75,
+      "end": 2204.11,
+      "text": "I really do enjoy listening to them."
+    },
+    {
+      "start": 2204.17,
+      "end": 2205.09,
+      "text": "The Atlanta Rhythm Section."
+    },
+    {
+      "start": 2205.23,
+      "end": 2206.51,
+      "text": "It's a track from their brand-new album."
+    },
+    {
+      "start": 2206.59,
+      "end": 2208.45,
+      "text": "The album's called The Boys from Doraville."
+    },
+    {
+      "start": 2208.57,
+      "end": 2209.45,
+      "text": "It's out on Polydor."
+    },
+    {
+      "start": 2209.55,
+      "end": 2211.15,
+      "text": "The track was Try My Love."
+    },
+    {
+      "start": 2212.27,
+      "end": 2214.95,
+      "text": "And before that, you heard something from one of my all-time favorite albums."
+    },
+    {
+      "start": 2214.95,
+      "end": 2216.17,
+      "text": "I'm sure I say that too often."
+    },
+    {
+      "start": 2216.73,
+      "end": 2221.13,
+      "text": "An album that came out in 1976 and still bounces onto my turntable every once in a while."
+    },
+    {
+      "start": 2221.25,
+      "end": 2224.89,
+      "text": "The album called Downtown Tonight by an ace band who never really made it."
+    },
+    {
+      "start": 2225.29,
+      "end": 2226.77,
+      "text": "A band by the name of Racing Cars."
+    },
+    {
+      "start": 2226.91,
+      "end": 2228.39,
+      "text": "The track was Hard Working Woman."
+    },
+    {
+      "start": 2229.68,
+      "end": 2232.82,
+      "text": "And T. Wilson, the wise old sage that he is, told me today that Morty,"
+    },
+    {
+      "start": 2232.94,
+      "end": 2235.0,
+      "text": "the man that used to be the lead singer with Racing Cars,"
+    },
+    {
+      "start": 2235.06,
+      "end": 2238.68,
+      "text": "has got a solo album out at the moment and we're going to dig it out and play you some of it."
+    },
+    {
+      "start": 2238.94,
+      "end": 2240.16,
+      "text": "Because he's got a great voice."
+    },
+    {
+      "start": 2241.02,
+      "end": 2243.9,
+      "text": "20 minutes now before 11 o'clock here on the Friday Rock Show."
+    },
+    {
+      "start": 2244.02,
+      "end": 2245.42,
+      "text": "It's time for the Friday Night Connection."
+    },
+    {
+      "start": 2245.42,
+      "end": 2251.86,
+      "text": "Last week, we played you Tequila Sunrise by the Eagles from the LP Their Greatest Hits 7175."
+    },
+    {
+      "start": 2252.6,
+      "end": 2257.24,
+      "text": "Whiskey Rock-A-Rolla from Lynyrd Skynyrd, the LP Golden Platinum."
+    },
+    {
+      "start": 2258.54,
+      "end": 2261.9,
+      "text": "Bottle of Red Wine by Eric Clapton from the LP Clapton."
+    },
+    {
+      "start": 2263.48,
+      "end": 2267.26,
+      "text": "I think everybody got it right. I didn't see one wrong answer when I was going through the cards this afternoon."
+    },
+    {
+      "start": 2267.5,
+      "end": 2272.34,
+      "text": "The answer obviously had to be Tequila, Whiskey, Red Wine, Booze."
+    },
+    {
+      "start": 2273.06,
+      "end": 2281.72,
+      "text": "But the person who gets themselves the £10 record token"
+    },
+    {
+      "start": 2281.72,
+      "end": 2284.56,
+      "text": "is a gentleman by the name of Keith Hind, H-Y-N-D,"
+    },
+    {
+      "start": 2284.7,
+      "end": 2289.8,
+      "text": "at number 43 Blamey Crescent, Cowdenbeath, Fife in Scotland, KY49RT."
+    },
+    {
+      "start": 2290.6,
+      "end": 2292.26,
+      "text": "Buy yourself a bottle of ten-year-old malt."
+    },
+    {
+      "start": 2292.5,
+      "end": 2294.6,
+      "text": "Well, no, you can't, actually, because it's a record token, Keith."
+    },
+    {
+      "start": 2296.1,
+      "end": 2299.56,
+      "text": "Congratulations. You've put together a very tasty connection."
+    },
+    {
+      "start": 2299.86,
+      "end": 2301.8,
+      "text": "Three bits of music. The connection's in there somewhere."
+    },
+    {
+      "start": 2302.0,
+      "end": 2304.75,
+      "text": "Could be in the name of the group, the name of the track that we're playing,"
+    },
+    {
+      "start": 2304.89,
+      "end": 2306.35,
+      "text": "the name of the band. It could be anywhere."
+    },
+    {
+      "start": 2306.35,
+      "end": 2309.21,
+      "text": "I just tell you that it's in there definitely somewhere."
+    },
+    {
+      "start": 3272.9,
+      "end": 3275.62,
+      "text": "Friday Night Connection for tonight, if you think you know what the answer is,"
+    },
+    {
+      "start": 3275.68,
+      "end": 3277.48,
+      "text": "and it's in there somewhere."
+    },
+    {
+      "start": 3279.02,
+      "end": 3282.12,
+      "text": "Put it down on a postcard, any form of communication you like,"
+    },
+    {
+      "start": 3282.26,
+      "end": 3284.16,
+      "text": "and send it to the Friday Night Connection,"
+    },
+    {
+      "start": 3284.72,
+      "end": 3288.84,
+      "text": "the Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 3289.94,
+      "end": 3292.6,
+      "text": "Don't forget to put together your own Friday Night Connection as well,"
+    },
+    {
+      "start": 3292.68,
+      "end": 3295.2,
+      "text": "and congratulations to Keith Hine for that really tasty one."
+    },
+    {
+      "start": 3296.48,
+      "end": 3298.68,
+      "text": "Oh, incidentally, if you'd like to put on your letter or communication,"
+    },
+    {
+      "start": 3298.68,
+      "end": 3300.6,
+      "text": "your choice for Flashback 70"
+    },
+    {
+      "start": 3300.6,
+      "end": 3302.74,
+      "text": "you can jot that down as well"
+    },
+    {
+      "start": 3302.74,
+      "end": 3303.9,
+      "text": "and save yourself a stamp, okay?"
+    },
+    {
+      "start": 3309.42,
+      "end": 3311.1,
+      "text": "I really look forward to your letters every week"
+    },
+    {
+      "start": 3311.1,
+      "end": 3312.98,
+      "text": "because they always make interesting reading"
+    },
+    {
+      "start": 3312.98,
+      "end": 3315.04,
+      "text": "and it's nice to know what you actually like."
+    },
+    {
+      "start": 3323.76,
+      "end": 3324.7,
+      "text": "It's 2 minutes to 11"
+    },
+    {
+      "start": 3324.7,
+      "end": 3327.08,
+      "text": "and now we're going to spend 55 minutes"
+    },
+    {
+      "start": 3327.08,
+      "end": 3330.08,
+      "text": "in the company of an expectant and ready crowd"
+    },
+    {
+      "start": 3330.08,
+      "end": 3331.24,
+      "text": "as recorded at Reading."
+    },
+    {
+      "start": 3332.02,
+      "end": 3333.8,
+      "text": "And the people who are going to hit the stage"
+    },
+    {
+      "start": 3333.8,
+      "end": 3335.88,
+      "text": "are the people who closed this year's Reading Festival."
+    },
+    {
+      "start": 3336.54,
+      "end": 3338.76,
+      "text": "David Coverdale and Whitesnake."
+    },
+    {
+      "start": 3978.16,
+      "end": 5049.5,
+      "text": "ain't gonna cry no more love hunter my good friend bernie marsden on the guitar i think you do know"
+    },
+    {
+      "start": 5049.5,
+      "end": 5061.9,
+      "text": "this song it's pointless we're saying if you know it sing it let's sing this together i hope you"
+    },
+    {
+      "start": 5061.9,
+      "end": 6655.33,
+      "text": "enjoy it a white snake at running the tracks you heard fool for your loving ain't no love in the"
+    },
+    {
+      "start": 6655.33,
+      "end": 6659.59,
+      "text": "heart of the city mistreated love hunter ain't gonna cry no more and walking in the shadow of"
+    },
+    {
+      "start": 6659.59,
+      "end": 6665.91,
+      "text": "the blues plus sweet talker they really are a tight unit and a an absolutely great band the"
+    },
+    {
+      "start": 6665.91,
+      "end": 6667.75,
+      "text": "Sound mix was done by Mike Robbo-Robinson,"
+    },
+    {
+      "start": 6668.51,
+      "end": 6670.23,
+      "text": "and the production was done by Tony Wilson."
+    },
+    {
+      "start": 6670.41,
+      "end": 6671.93,
+      "text": "Next week, we're going to return to normal,"
+    },
+    {
+      "start": 6672.09,
+      "end": 6673.35,
+      "text": "if you like to phrase it that way."
+    },
+    {
+      "start": 6673.43,
+      "end": 6674.37,
+      "text": "We'll have Girls' School,"
+    },
+    {
+      "start": 6674.45,
+      "end": 6677.17,
+      "text": "a repeat of a set we recorded by them some time ago,"
+    },
+    {
+      "start": 6677.33,
+      "end": 6680.81,
+      "text": "and also an archive session that, as yet, we haven't chosen."
+    },
+    {
+      "start": 6681.21,
+      "end": 6686.13,
+      "text": "Rock on, rock on, radio on."
+    },
+    {
+      "start": 6991.28,
+      "end": 6994.5,
+      "text": "Led Zeppelin and the track from In Through the Outdoor,"
+    },
+    {
+      "start": 6994.6,
+      "end": 6995.88,
+      "text": "the track called All of My Love."
+    },
+    {
+      "start": 6995.98,
+      "end": 6997.3,
+      "text": "When I play that, especially for a gentleman"
+    },
+    {
+      "start": 6997.3,
+      "end": 6999.5,
+      "text": "who's going to be 26 in just one minute's time."
+    },
+    {
+      "start": 6999.94,
+      "end": 7001.72,
+      "text": "A gentleman by the name of James Birchend"
+    },
+    {
+      "start": 7001.72,
+      "end": 7003.36,
+      "text": "who lives in Greys in Essex."
+    },
+    {
+      "start": 7003.92,
+      "end": 7006.86,
+      "text": "And today was the day they put Bonzo into the ground in Worcestershire."
+    },
+    {
+      "start": 7007.4,
+      "end": 7009.26,
+      "text": "I couldn't be there because I had to put the show together"
+    },
+    {
+      "start": 7009.26,
+      "end": 7010.12,
+      "text": "along with Tony Wilson,"
+    },
+    {
+      "start": 7010.28,
+      "end": 7012.2,
+      "text": "but I did appreciate the invitation to the funeral."
+    },
+    {
+      "start": 7014.4,
+      "end": 7016.12,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7016.26,
+      "end": 7016.88,
+      "text": "Thanks for your company."
+    },
+    {
+      "start": 7016.96,
+      "end": 7018.5,
+      "text": "I trust you enjoyed the program."
+    },
+    {
+      "start": 7018.64,
+      "end": 7019.8,
+      "text": "I thought the music was great, myself."
+    },
+    {
+      "start": 7020.62,
+      "end": 7021.58,
+      "text": "On Rock on Saturday tomorrow,"
+    },
+    {
+      "start": 7021.68,
+      "end": 7023.36,
+      "text": "the specials Michael Schenker and Rockpile."
+    },
+    {
+      "start": 7023.36,
+      "end": 7024.88,
+      "text": "That's between 4 and 7.30."
+    },
+    {
+      "start": 7025.22,
+      "end": 7026.64,
+      "text": "Thanks to Steve, my engineer tonight,"
+    },
+    {
+      "start": 7026.74,
+      "end": 7027.76,
+      "text": "for pressing all the right buttons"
+    },
+    {
+      "start": 7027.76,
+      "end": 7028.98,
+      "text": "and making sure it all works."
+    },
+    {
+      "start": 7029.58,
+      "end": 7030.68,
+      "text": "Tony Wilson with now Waffle."
+    },
+    {
+      "start": 7030.82,
+      "end": 7031.66,
+      "text": "I mean, speak. Sorry."
+    },
+    {
+      "start": 7031.74,
+      "end": 7034.2,
+      "text": "A special goodnight to all unloved teddy bears."
+    },
+    {
+      "start": 7034.34,
+      "end": 7037.12,
+      "text": "Oh, romantic little fella."
+    },
+    {
+      "start": 7038.54,
+      "end": 7040.8,
+      "text": "Following the time signal for 12 midnight,"
+    },
+    {
+      "start": 7040.96,
+      "end": 7043.7,
+      "text": "the 275-285 transmitters will be closing down"
+    },
+    {
+      "start": 7043.7,
+      "end": 7044.84,
+      "text": "till first thing tomorrow morning."
+    },
+    {
+      "start": 7045.54,
+      "end": 7046.26,
+      "text": "I'm Tommy Vance."
+    },
+    {
+      "start": 7046.44,
+      "end": 7047.38,
+      "text": "Wherever you are,"
+    },
+    {
+      "start": 7048.3,
+      "end": 7049.82,
+      "text": "I hope you have a great rest of the night."
+    },
+    {
+      "start": 7050.2,
+      "end": 7051.4,
+      "text": "From all of us on Radio 1,"
+    },
+    {
+      "start": 7051.72,
+      "end": 7052.94,
+      "text": "goodnight and God bless."
+    },
+    {
+      "start": 7053.54,
+      "end": 7067.77,
+      "text": "It's midnight and we welcome VHF listeners"
+    },
+    {
+      "start": 7067.77,
+      "end": 7069.21,
+      "text": "who've now joined us on Radio 2."
+    },
+    {
+      "start": 7069.21,
+      "end": 7071.05,
+      "text": "This is Tim Gutton in the Midnight Newsroom."
     }
   ]
 }

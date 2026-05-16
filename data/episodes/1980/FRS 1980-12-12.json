@@ -34,22 +34,26 @@
     {
       "artist": "Queen",
       "track": "Bohemian Rhapsody",
-      "details": "2x LP-Live Killers; EMI"
+      "details": "2x LP-Live Killers; EMI",
+      "verified_timestamp": 660.62
     },
     {
       "artist": "Chevy",
       "track": "Skybird",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 723.79
     },
     {
       "artist": "Def Leppard",
       "track": "Wasted",
-      "details": "LP-On Through The Night; Mercury / Polygram"
+      "details": "LP-On Through The Night; Mercury / Polygram",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Yes",
       "track": "Looking Around",
-      "details": "Symonds On Saturday Session"
+      "details": "Symonds On Saturday Session",
+      "verified_timestamp": 662.52
     },
     {
       "artist": "Yes",
@@ -64,17 +68,20 @@
     {
       "artist": "Juicy Lucy",
       "track": "Who Do You Love?",
-      "details": "LP-Juicy Lucy; Vertigo"
+      "details": "LP-Juicy Lucy; Vertigo",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Beatles",
       "track": "Carol",
-      "details": "Pop Go The Beatles Session"
+      "details": "Pop Go The Beatles Session",
+      "verified_timestamp": 2278.14
     },
     {
       "artist": "Beatles",
       "track": "Soldier Of Love",
-      "details": "Lay Down Your Arms; Pop Go The Beatles Session"
+      "details": "Lay Down Your Arms; Pop Go The Beatles Session",
+      "verified_timestamp": 2278.14
     },
     {
       "artist": null,
@@ -94,7 +101,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 65.0
     },
     {
       "artist": "Led Zeppelin",
@@ -109,12 +117,14 @@
     {
       "artist": "Blue Öyster Cult",
       "track": "'(Don't Fear) The Reaper (LP-Agents Of Fortune)' (CBS)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5420.29
     },
     {
       "artist": "Yes",
       "track": "Sweet Dreams",
-      "details": "DLT Session"
+      "details": "DLT Session",
+      "verified_timestamp": 662.52
     },
     {
       "artist": "Yes",
@@ -124,17 +134,1462 @@
     {
       "artist": "Motörhead",
       "track": "On Parole",
-      "details": "12\"-Beer Drinkers & Hell Raisers; Big Beat"
+      "details": "12\"-Beer Drinkers & Hell Raisers; Big Beat",
+      "verified_timestamp": 5996.17
     },
     {
       "artist": "Girlschool",
       "track": "Yeah Right",
-      "details": "LP-Hit & Run; Bronze"
+      "details": "LP-Hit & Run; Bronze",
+      "verified_timestamp": 6554.94
     },
     {
       "artist": "Doors",
       "track": "Light My Fire",
-      "details": "LP-The Doors; Elektra"
+      "details": "LP-The Doors; Elektra",
+      "verified_timestamp": 6660.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 5.07,
+      "end": 23.34,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 23.34,
+      "end": 29.34,
+      "text": "This is TV on the Radio here. Thomas the Vance. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.34,
+      "end": 34.34,
+      "text": "Tonight, our salute to John Lennon. Two tracks he recorded with the Beatles in 1963."
+    },
+    {
+      "start": 34.34,
+      "end": 41.34,
+      "text": "We have some tracks by Yes from 69 and 1970. And from 1980, a band called Chevy."
+    },
+    {
+      "start": 41.34,
+      "end": 58.26,
+      "text": "We've got some classic cuts by Queen, Juicy Lucy, Blue Oyster Cult, Motörhead and The Doors."
+    },
+    {
+      "start": 58.26,
+      "end": 61.28,
+      "text": "Down the Doors, some new stuff by Molly Hatchett and Alan Parsons,"
+    },
+    {
+      "start": 62.2,
+      "end": 64.82,
+      "text": "your second most favorite Led Zeppelin track,"
+    },
+    {
+      "start": 65.0,
+      "end": 68.38,
+      "text": "and of course our Friday Night Connection, the answer to last week's and a new one."
+    },
+    {
+      "start": 69.9,
+      "end": 72.36,
+      "text": "But this evening, we start with this."
+    },
+    {
+      "start": 101.93,
+      "end": 658.34,
+      "text": "Do you remember when that came out as a single?"
+    },
+    {
+      "start": 658.34,
+      "end": 660.32,
+      "text": "Absolutely mind-boggling."
+    },
+    {
+      "start": 660.62,
+      "end": 662.52,
+      "text": "The live version of Bohemian Rhapsody."
+    },
+    {
+      "start": 662.52,
+      "end": 666.84,
+      "text": "Especially for Patrick and Faith"
+    },
+    {
+      "start": 666.84,
+      "end": 668.84,
+      "text": "who live at number 77 Swadale Avenue"
+    },
+    {
+      "start": 668.84,
+      "end": 669.98,
+      "text": "in Tapton, Chesterfield"
+    },
+    {
+      "start": 669.98,
+      "end": 671.84,
+      "text": "who now have a daughter by the name of Marie"
+    },
+    {
+      "start": 671.84,
+      "end": 672.62,
+      "text": "Congratulations"
+    },
+    {
+      "start": 672.62,
+      "end": 675.81,
+      "text": "Also, that track was for Tommy Hawks"
+    },
+    {
+      "start": 675.81,
+      "end": 677.33,
+      "text": "who lives somewhere in the UK"
+    },
+    {
+      "start": 677.33,
+      "end": 680.89,
+      "text": "And before that, of course, a real classic by ACDC"
+    },
+    {
+      "start": 680.89,
+      "end": 682.35,
+      "text": "from their live album"
+    },
+    {
+      "start": 682.35,
+      "end": 683.85,
+      "text": "The track was Whole Lotta Rosie"
+    },
+    {
+      "start": 683.85,
+      "end": 685.61,
+      "text": "And that was for Dorothy"
+    },
+    {
+      "start": 685.61,
+      "end": 687.99,
+      "text": "with Best Wishes and Lots of Love from Joe Hyde"
+    },
+    {
+      "start": 687.99,
+      "end": 690.35,
+      "text": "who lives with his wife, who's Dorothy, in South Shield"
+    },
+    {
+      "start": 690.35,
+      "end": 692.81,
+      "text": "Also for loads of other people"
+    },
+    {
+      "start": 692.81,
+      "end": 695.27,
+      "text": "by the name of Rob and Rollo and Mike and Steg and Paul,"
+    },
+    {
+      "start": 695.51,
+      "end": 698.61,
+      "text": "who live in and around Buckley in Llywyd in North Wales."
+    },
+    {
+      "start": 699.61,
+      "end": 701.71,
+      "text": "And for a gentleman by the name of Philip,"
+    },
+    {
+      "start": 701.85,
+      "end": 704.71,
+      "text": "lots of love from Lisa, his sister, who lives in Aberdare."
+    },
+    {
+      "start": 706.51,
+      "end": 709.93,
+      "text": "And the ACDC track was also for the wife of a man by the name of Nick."
+    },
+    {
+      "start": 710.01,
+      "end": 712.53,
+      "text": "That's Nick Fairley, who lives in Airdrie in Bonny, Scotland."
+    },
+    {
+      "start": 713.01,
+      "end": 713.73,
+      "text": "Margaret, hi there."
+    },
+    {
+      "start": 713.87,
+      "end": 716.33,
+      "text": "Also Jason, Marina, Big Tony and George."
+    },
+    {
+      "start": 717.27,
+      "end": 718.61,
+      "text": "ACDC, still the best."
+    },
+    {
+      "start": 723.79,
+      "end": 726.01,
+      "text": "10.14 is the first of four by Chevy."
+    },
+    {
+      "start": 726.01,
+      "end": 1216.21,
+      "text": "That was Def Leppard from their album On Through the Night"
+    },
+    {
+      "start": 1216.21,
+      "end": 1217.71,
+      "text": "and the track called Wasted."
+    },
+    {
+      "start": 1218.43,
+      "end": 1226.33,
+      "text": "For all the Edbangers at Bryanston School,"
+    },
+    {
+      "start": 1226.45,
+      "end": 1229.83,
+      "text": "including Paul and Warren and Matt and Bob and Ben Cook"
+    },
+    {
+      "start": 1229.83,
+      "end": 1232.61,
+      "text": "and also Tab and Gus and Ben Shepard and Richard and Jake,"
+    },
+    {
+      "start": 1234.29,
+      "end": 1236.35,
+      "text": "little message here for somebody by the name of Dave,"
+    },
+    {
+      "start": 1236.81,
+      "end": 1241.71,
+      "text": "who maybe has been banging away quietly in the corner up until now, it says here."
+    },
+    {
+      "start": 1241.85,
+      "end": 1242.21,
+      "text": "Hey, Dave."
+    },
+    {
+      "start": 1242.57,
+      "end": 1244.79,
+      "text": "Austin is an ex-inmate. He sends his best wishes."
+    },
+    {
+      "start": 1245.15,
+      "end": 1247.87,
+      "text": "There was also a Jimmy Norcott and his band called Mens Ria."
+    },
+    {
+      "start": 1249.24,
+      "end": 1249.92,
+      "text": "Bill Arie."
+    },
+    {
+      "start": 1250.58,
+      "end": 1254.06,
+      "text": "And for Neil and Stuart, who've recently moved from Fowlbridge, it says here."
+    },
+    {
+      "start": 1254.16,
+      "end": 1256.82,
+      "text": "Also Howard and Bumbo and Orgasm, Azzy and Garbridge."
+    },
+    {
+      "start": 1257.0,
+      "end": 1260.1,
+      "text": "And the classes of Fowlbridge and finally the Gig School Rockers."
+    },
+    {
+      "start": 1260.2,
+      "end": 1264.48,
+      "text": "The Gig School Rockers, of course, being those who attend Giggleswick School in Settle, North Yorkshire."
+    },
+    {
+      "start": 1267.02,
+      "end": 1268.98,
+      "text": "And before that, you heard the first of four by Chevy."
+    },
+    {
+      "start": 1269.66,
+      "end": 1270.82,
+      "text": "Track was Skybird."
+    },
+    {
+      "start": 1271.06,
+      "end": 1273.86,
+      "text": "And a happy birthday I have to wish to a gentleman by the name of Brian."
+    },
+    {
+      "start": 1274.24,
+      "end": 1276.32,
+      "text": "It was his 21st birthday on the 9th of December."
+    },
+    {
+      "start": 1276.96,
+      "end": 1278.68,
+      "text": "I have to play it from..."
+    },
+    {
+      "start": 1278.68,
+      "end": 1282.51,
+      "text": "is it, I can't really, I think it's Helen and Stowe"
+    },
+    {
+      "start": 1282.51,
+      "end": 1285.51,
+      "text": "and Sarah and Marion and Phil in Reading"
+    },
+    {
+      "start": 1285.51,
+      "end": 1287.21,
+      "text": "and also, of course, Mr. Alan Parkin,"
+    },
+    {
+      "start": 1287.75,
+      "end": 1300.15,
+      "text": "who all congregate in and around Bolton in Lancashire."
+    },
+    {
+      "start": 1300.37,
+      "end": 1302.47,
+      "text": "It's 24 minutes after 10 on the Friday Rock Show."
+    },
+    {
+      "start": 1302.57,
+      "end": 1305.27,
+      "text": "Here's something which is in mono, Stereo Freaks."
+    },
+    {
+      "start": 1305.37,
+      "end": 1308.01,
+      "text": "This is in mono because it really is rare."
+    },
+    {
+      "start": 1308.29,
+      "end": 1310.65,
+      "text": "I cannot find out when it was last broadcast."
+    },
+    {
+      "start": 1311.33,
+      "end": 1314.73,
+      "text": "It's a couple of tracks recorded by Yes in August 1969."
+    },
+    {
+      "start": 1315.45,
+      "end": 1315.85,
+      "text": "Have a listen."
+    },
+    {
+      "start": 1316.25,
+      "end": 1777.58,
+      "text": "They really were such an amazing band, weren't they?"
+    },
+    {
+      "start": 1777.64,
+      "end": 1779.42,
+      "text": "That was recorded in August 1969."
+    },
+    {
+      "start": 1779.6,
+      "end": 1782.2,
+      "text": "It was by Yes, hasn't been broadcast for a heck of a long time."
+    },
+    {
+      "start": 1782.64,
+      "end": 1784.92,
+      "text": "Couple of cuts there, Every Day and Lookin' Around."
+    },
+    {
+      "start": 1785.08,
+      "end": 1786.64,
+      "text": "And I still think Yes are a great band,"
+    },
+    {
+      "start": 1786.7,
+      "end": 1789.62,
+      "text": "even though they're now, if you like, bugled joined."
+    },
+    {
+      "start": 1789.88,
+      "end": 1792.58,
+      "text": "I was listening the other night to Drama at Home on my stereo headphones,"
+    },
+    {
+      "start": 1793.0,
+      "end": 1794.06,
+      "text": "and I do think it's a good album,"
+    },
+    {
+      "start": 1794.2,
+      "end": 1797.84,
+      "text": "as indeed do I think Mr. John Anderson is making his mark as a solo artist."
+    },
+    {
+      "start": 1798.38,
+      "end": 1800.0,
+      "text": "Right, here's something by Molly Hatchet."
+    },
+    {
+      "start": 1800.48,
+      "end": 2208.92,
+      "text": "Down in history as one of my all-time favorite tracks,"
+    },
+    {
+      "start": 2208.92,
+      "end": 2213.2,
+      "text": "It was recorded a long, long time ago by a band who didn't exist for too long."
+    },
+    {
+      "start": 2213.3,
+      "end": 2214.28,
+      "text": "They were called Juicy Lucy."
+    },
+    {
+      "start": 2214.52,
+      "end": 2217.34,
+      "text": "The track was an old Bo Diddley number entitled Who Do You Love?"
+    },
+    {
+      "start": 2218.35,
+      "end": 2221.31,
+      "text": "And I wonder what ever happened to the young guitarist who was featured on that track,"
+    },
+    {
+      "start": 2221.35,
+      "end": 2222.99,
+      "text": "a gentleman by the name of Glenn Campbell."
+    },
+    {
+      "start": 2223.09,
+      "end": 2225.59,
+      "text": "Not THE Glenn Campbell, if you like, of Wichita Lineman,"
+    },
+    {
+      "start": 2225.67,
+      "end": 2227.29,
+      "text": "but another American young gentleman."
+    },
+    {
+      "start": 2231.98,
+      "end": 2235.1,
+      "text": "Played that specially for Badger Bolton of Tree Thomas in Gwent,"
+    },
+    {
+      "start": 2235.42,
+      "end": 2236.9,
+      "text": "with a message to Ian and Christine,"
+    },
+    {
+      "start": 2237.44,
+      "end": 2240.42,
+      "text": "who live in South Wales, in a place that I won't even try to pronounce."
+    },
+    {
+      "start": 2240.42,
+      "end": 2243.42,
+      "text": "The message from Badger Bolton to Ian and Christine is,"
+    },
+    {
+      "start": 2243.42,
+      "end": 2245.42,
+      "text": "isn't it about time he got hitched?"
+    },
+    {
+      "start": 2245.42,
+      "end": 2249.05,
+      "text": "Only time will tell."
+    },
+    {
+      "start": 2249.05,
+      "end": 2252.27,
+      "text": "Prior to that something by Molly Hatchet from the album called Beating the Odds,"
+    },
+    {
+      "start": 2252.27,
+      "end": 2254.27,
+      "text": "the track was few and far between."
+    },
+    {
+      "start": 2254.27,
+      "end": 2257.27,
+      "text": "Few and far between come 19th birthdays."
+    },
+    {
+      "start": 2257.27,
+      "end": 2260.27,
+      "text": "It's the 19th birthday today of Mark Smith,"
+    },
+    {
+      "start": 2260.27,
+      "end": 2263.27,
+      "text": "who lives at number 8 Pitt Street, Bradford in West Yorkshire."
+    },
+    {
+      "start": 2263.27,
+      "end": 2266.27,
+      "text": "Happy birthday from Mark and Alison."
+    },
+    {
+      "start": 2266.27,
+      "end": 2268.27,
+      "text": "P.S. you're a great guy, it says here."
+    },
+    {
+      "start": 2268.27,
+      "end": 2271.27,
+      "text": "And P.P.S. hope your new car survives your driving."
+    },
+    {
+      "start": 2271.27,
+      "end": 2278.14,
+      "text": "driving and i hope you survive your 19th birthday it's 20 minutes now before 11 on the friday rock"
+    },
+    {
+      "start": 2278.14,
+      "end": 2283.42,
+      "text": "show i'd like to read you a piece here from the beatles appreciation society magazine book march"
+    },
+    {
+      "start": 2283.42,
+      "end": 2289.18,
+      "text": "1980. it's about a broadcast that was called pop go the beatles it was transmitted on the 16th of"
+    },
+    {
+      "start": 2289.18,
+      "end": 2295.5,
+      "text": "july 1963 between 5 o'clock and 5 29 p.m on the light program as it was in those days without a"
+    },
+    {
+      "start": 2295.5,
+      "end": 2300.22,
+      "text": "doubt it says here this is the most fascinating beatles radio appearance ever of the nine songs"
+    },
+    {
+      "start": 2300.22,
+      "end": 2304.56,
+      "text": "recorded that day, of which only six were broadcast, seven of them were never to appear"
+    },
+    {
+      "start": 2304.56,
+      "end": 2309.66,
+      "text": "on a Beatles disc. The range of these songs is so wide and varied that it illustrates perfectly"
+    },
+    {
+      "start": 2309.66,
+      "end": 2315.28,
+      "text": "the Beatles' own influences, as well as their tremendous versatility. Carol was a Chuck Berry"
+    },
+    {
+      "start": 2315.28,
+      "end": 2321.6,
+      "text": "rocker from August 1958, and Soldier of Love, Lay Down Your Arms in parenthesis, was a song first"
+    },
+    {
+      "start": 2321.6,
+      "end": 2327.5,
+      "text": "performed by Arthur Alexander, his version being released in May 1962. It's anti-war lyrics,"
+    },
+    {
+      "start": 2327.5,
+      "end": 2332.22,
+      "text": "no doubt striking an affinity with john lennon john lennon is the lead vocalist on both of those"
+    },
+    {
+      "start": 2332.22,
+      "end": 2491.02,
+      "text": "tracks george is just coming up here with a letter in his hand you're looking very serious about it"
+    },
+    {
+      "start": 2491.02,
+      "end": 2496.26,
+      "text": "what is it george it's a letter from kathy of newport isle of wight who says paul's been to"
+    },
+    {
+      "start": 2496.26,
+      "end": 2504.21,
+      "text": "the isle of wight and why haven't i well i haven't got a passport huh and and she says would you"
+    },
+    {
+      "start": 2504.21,
+      "end": 2511.86,
+      "text": "Please sing a song for the 5th of St. Teresa convent ride, Isle of Wight."
+    },
+    {
+      "start": 2512.3,
+      "end": 2515.8,
+      "text": "So we'd like to feature John shouting Soldiers of Love."
+    },
+    {
+      "start": 2516.66,
+      "end": 2517.4,
+      "text": "All right."
+    },
+    {
+      "start": 2637.05,
+      "end": 2639.95,
+      "text": "Soldiers of Love was that track, and before that you heard Carol."
+    },
+    {
+      "start": 2639.95,
+      "end": 2642.37,
+      "text": "The Beatles was recorded in July 1963."
+    },
+    {
+      "start": 2642.67,
+      "end": 2644.09,
+      "text": "John Lennon was the lead vocalist."
+    },
+    {
+      "start": 2644.75,
+      "end": 2647.01,
+      "text": "Don't miss Rock on Saturday tomorrow around about 4.30,"
+    },
+    {
+      "start": 2647.01,
+      "end": 2648.95,
+      "text": "or rather just after the 4.30 news"
+    },
+    {
+      "start": 2648.95,
+      "end": 2651.61,
+      "text": "because we're going to be playing part of the very last radio interview"
+    },
+    {
+      "start": 2651.61,
+      "end": 2654.09,
+      "text": "that Mr. Lennon gave, and he gave it to Radio 1."
+    },
+    {
+      "start": 2654.23,
+      "end": 2656.11,
+      "text": "It actually will be a rebroadcast of a program"
+    },
+    {
+      "start": 2656.11,
+      "end": 2659.83,
+      "text": "that went out between 11.30 and 12.30 on Tuesday last."
+    },
+    {
+      "start": 2660.21,
+      "end": 2663.49,
+      "text": "Don't miss it, because it's a fitting tribute to a great guy."
+    },
+    {
+      "start": 2663.97,
+      "end": 3223.36,
+      "text": "The Alan Parsons Project from their latest album,"
+    },
+    {
+      "start": 3223.48,
+      "end": 3226.12,
+      "text": "or if you like his latest album, The Turn of a Friendly Card"
+    },
+    {
+      "start": 3226.12,
+      "end": 3227.0,
+      "text": "is the album title."
+    },
+    {
+      "start": 3227.12,
+      "end": 3229.26,
+      "text": "That track was called I Don't Wanna Go Home."
+    },
+    {
+      "start": 3230.14,
+      "end": 3233.08,
+      "text": "Before that, from Chevy, we had Rock On."
+    },
+    {
+      "start": 3233.08,
+      "end": 3242.22,
+      "text": "It is 4 minutes to 11 on the Friday Rock Show. It's time for the Friday Night Connection."
+    },
+    {
+      "start": 3243.94,
+      "end": 3247.74,
+      "text": "Right, the tracks we played you last work, week, work, last working week were"
+    },
+    {
+      "start": 3247.74,
+      "end": 3252.26,
+      "text": "Turn to Stone from the Joe Warshall LP called So Far So Good."
+    },
+    {
+      "start": 3253.0,
+      "end": 3256.56,
+      "text": "Then we had Remember Tomorrow by Iron Maiden from the LP Iron Maiden."
+    },
+    {
+      "start": 3257.32,
+      "end": 3261.12,
+      "text": "And then it was Angels at My Gate by Manfred Mann's Earth Band."
+    },
+    {
+      "start": 3261.12,
+      "end": 3265.9,
+      "text": "The LP was called Angel Station and that is on the bronze label."
+    },
+    {
+      "start": 3266.98,
+      "end": 3273.62,
+      "text": "So the answer, Stone, Tone 2, Iron Maiden, and Manfred Mayer, who records for the Bronze label."
+    },
+    {
+      "start": 3274.1,
+      "end": 3276.98,
+      "text": "So if you like, Stone Age, Iron Age, Bronze Age."
+    },
+    {
+      "start": 3278.65,
+      "end": 3281.51,
+      "text": "Not a lot of correct answers at all this week, but a few."
+    },
+    {
+      "start": 3285.79,
+      "end": 3289.55,
+      "text": "And the one that we've chosen is from Martin Dykes, who lives at No. 1 Glencoe Villas."
+    },
+    {
+      "start": 3289.55,
+      "end": 3290.87,
+      "text": "I can hear the cheers from here."
+    },
+    {
+      "start": 3291.09,
+      "end": 3294.33,
+      "text": "Kewstoke Road, Wall, Western Supermare in Avon."
+    },
+    {
+      "start": 3294.77,
+      "end": 3297.35,
+      "text": "Martin, you get yourself a £10 record token. Congratulations."
+    },
+    {
+      "start": 3297.35,
+      "end": 3306.65,
+      "text": "now as everybody knows part of the deal is to put together your own friday night connection"
+    },
+    {
+      "start": 3306.65,
+      "end": 3311.61,
+      "text": "three bits of music with a connection and or theme running through them i think this one is"
+    },
+    {
+      "start": 3311.61,
+      "end": 3320.86,
+      "text": "particularly good dedicate one to the lady summertime sip babe need something to keep you"
+    },
+    {
+      "start": 3320.86,
+      "end": 3330.58,
+      "text": "on now summertime sip babe need something to keep you cool better look out now though"
+    },
+    {
+      "start": 3330.58,
+      "end": 3333.86,
+      "text": "Dave's got something for you, I'll tell you what it is"
+    },
+    {
+      "start": 3333.86,
+      "end": 3338.16,
+      "text": "I'm your ice cream man, stop me when I'm passing by"
+    },
+    {
+      "start": 3338.16,
+      "end": 3343.78,
+      "text": "On my mind, I'm your ice cream man, stop me when I'm passing by"
+    },
+    {
+      "start": 3343.78,
+      "end": 3348.85,
+      "text": "See now all my flavors are guaranteed to satisfy"
+    },
+    {
+      "start": 3348.85,
+      "end": 3350.17,
+      "text": "Hold on a second there"
+    },
+    {
+      "start": 3350.17,
+      "end": 3353.84,
+      "text": "I gotta put my banana, see cups"
+    },
+    {
+      "start": 3353.84,
+      "end": 3356.76,
+      "text": "All flavors and push-ups too"
+    },
+    {
+      "start": 3356.76,
+      "end": 3360.56,
+      "text": "I'm your ice cream man, baby, stop me when I'm passing by"
+    },
+    {
+      "start": 3360.56,
+      "end": 3365.64,
+      "text": "See now all my flavors are guaranteed to satisfy"
+    },
+    {
+      "start": 3365.64,
+      "end": 3366.98,
+      "text": "Hold on one more"
+    },
+    {
+      "start": 3366.98,
+      "end": 3371.26,
+      "text": "Well I'm usually passing by just about 11 o'clock"
+    },
+    {
+      "start": 3371.26,
+      "end": 3376.8,
+      "text": "I never stop, I'm usually passing by just around 11 o'clock"
+    },
+    {
+      "start": 3376.8,
+      "end": 3382.36,
+      "text": "And if you let me cool you one time, you'll be my regular stop"
+    },
+    {
+      "start": 3382.36,
+      "end": 3383.86,
+      "text": "Alright boys"
+    },
+    {
+      "start": 3383.86,
+      "end": 3391.23,
+      "text": "I put my vanilla flavors in for you to have your ice cream made"
+    },
+    {
+      "start": 3391.23,
+      "end": 3395.31,
+      "text": "Stop you in a bad seat"
+    },
+    {
+      "start": 3395.31,
+      "end": 3398.34,
+      "text": "Now all my flavors get each satisfied."
+    },
+    {
+      "start": 3398.64,
+      "end": 4230.05,
+      "text": "In Dykes of Western Supermare, you've got taste."
+    },
+    {
+      "start": 4231.19,
+      "end": 4232.61,
+      "text": "That's our Friday Night Connection for tonight."
+    },
+    {
+      "start": 4232.69,
+      "end": 4236.69,
+      "text": "Three bits of music excellently chosen by Mr. Dykes of Western Supermare and Avon."
+    },
+    {
+      "start": 4236.85,
+      "end": 4238.65,
+      "text": "Do you think you know what the connection is?"
+    },
+    {
+      "start": 4238.67,
+      "end": 4241.77,
+      "text": "If you think that you do, then it's in there somewhere."
+    },
+    {
+      "start": 4241.93,
+      "end": 4243.01,
+      "text": "In actual fact, it's not difficult."
+    },
+    {
+      "start": 4243.13,
+      "end": 4244.75,
+      "text": "I just thought the choice of music was excellent."
+    },
+    {
+      "start": 4245.57,
+      "end": 4246.67,
+      "text": "Jot it down on a postcard."
+    },
+    {
+      "start": 4246.67,
+      "end": 4249.69,
+      "text": "Any form of communication you care to choose and or use."
+    },
+    {
+      "start": 4249.83,
+      "end": 4251.99,
+      "text": "And send it to the Friday Night Connection."
+    },
+    {
+      "start": 4251.99,
+      "end": 4263.63,
+      "text": "The Friday Night Connection, the Friday Rock Show, BBC Radio 1, London W1A 4WW."
+    },
+    {
+      "start": 4263.99,
+      "end": 4266.31,
+      "text": "Put together your own Friday Night Connection as well."
+    },
+    {
+      "start": 4266.41,
+      "end": 4268.55,
+      "text": "If you're the winner, you get a £10 record token."
+    },
+    {
+      "start": 4277.17,
+      "end": 4278.25,
+      "text": "It's 11.14."
+    },
+    {
+      "start": 4278.43,
+      "end": 4285.01,
+      "text": "Many thanks to everybody who wrote in last week when I asked you to send in your, if you like, second favourite Led Zeppelin track."
+    },
+    {
+      "start": 4285.11,
+      "end": 4288.83,
+      "text": "Because everybody knows that the most favourite Led Zeppelin track of all time is Stay Away To Heaven."
+    },
+    {
+      "start": 4289.23,
+      "end": 4291.45,
+      "text": "Thanks to everybody that wrote in, we appreciate it."
+    },
+    {
+      "start": 4291.51,
+      "end": 4293.39,
+      "text": "And I'm not being patronising when I say that."
+    },
+    {
+      "start": 4293.85,
+      "end": 4295.57,
+      "text": "At number five, we had No Quarter."
+    },
+    {
+      "start": 4296.05,
+      "end": 4297.81,
+      "text": "At number four, Dazed and Confused."
+    },
+    {
+      "start": 4297.91,
+      "end": 4299.35,
+      "text": "At number three, Whole Lotta Love."
+    },
+    {
+      "start": 4299.49,
+      "end": 4301.27,
+      "text": "At number two, Since I've Been Loving You."
+    },
+    {
+      "start": 4301.75,
+      "end": 4303.83,
+      "text": "And at number one..."
+    },
+    {
+      "start": 4303.83,
+      "end": 4801.71,
+      "text": "Just listening to that track again,"
+    },
+    {
+      "start": 4802.71,
+      "end": 4805.13,
+      "text": "sort of really does sort of hammer home the fact"
+    },
+    {
+      "start": 4805.13,
+      "end": 4807.79,
+      "text": "that Bonham could not have been replaced in many, many ways."
+    },
+    {
+      "start": 4807.79,
+      "end": 4809.17,
+      "text": "He was such a distinctive drummer."
+    },
+    {
+      "start": 4809.79,
+      "end": 4812.19,
+      "text": "Led Zeppelin and your second most favourite Led Zeppelin track"
+    },
+    {
+      "start": 4812.19,
+      "end": 4813.17,
+      "text": "from Physical Graffiti."
+    },
+    {
+      "start": 4813.65,
+      "end": 4815.13,
+      "text": "The track, of course, Kashmir."
+    },
+    {
+      "start": 4815.98,
+      "end": 4817.74,
+      "text": "And that's the one you voted your second favourite."
+    },
+    {
+      "start": 4818.04,
+      "end": 4819.96,
+      "text": "Just a few mentions for all people who did write in."
+    },
+    {
+      "start": 4820.02,
+      "end": 4822.2,
+      "text": "Mike Newbold, thank you, of Wotton Bassett in Wiltshire."
+    },
+    {
+      "start": 4822.8,
+      "end": 4826.4,
+      "text": "And also a lady by the name of Susie, who's at Vincent's Club in Oxford."
+    },
+    {
+      "start": 4826.84,
+      "end": 4829.6,
+      "text": "Another lady, Karen Page, who's at Kashmir."
+    },
+    {
+      "start": 4829.7,
+      "end": 4830.44,
+      "text": "That's the name of her house."
+    },
+    {
+      "start": 4830.64,
+      "end": 4832.44,
+      "text": "Adelston, which is in Surrey, I think."
+    },
+    {
+      "start": 4832.86,
+      "end": 4835.44,
+      "text": "Lesley-Anne of Aberdeen, up there at 20 Hilton Place."
+    },
+    {
+      "start": 4835.54,
+      "end": 4836.74,
+      "text": "Another lady by the name of Page."
+    },
+    {
+      "start": 4836.74,
+      "end": 4838.58,
+      "text": "Carol Page, she says, no relation to Jimmy."
+    },
+    {
+      "start": 4839.08,
+      "end": 4840.32,
+      "text": "Carol lives in Windermere."
+    },
+    {
+      "start": 4840.64,
+      "end": 4842.58,
+      "text": "And also Steve Denham in Manchester."
+    },
+    {
+      "start": 4843.2,
+      "end": 4845.58,
+      "text": "Dino and all his mates in Wyverton in Boston"
+    },
+    {
+      "start": 4845.58,
+      "end": 4849.12,
+      "text": "and a gentleman by the name of Phil who wrote this card."
+    },
+    {
+      "start": 4849.18,
+      "end": 4852.58,
+      "text": "He says, see you at Walsall Town Hall on Saturday night"
+    },
+    {
+      "start": 4852.58,
+      "end": 4853.54,
+      "text": "along with Diamond Head."
+    },
+    {
+      "start": 4853.6,
+      "end": 4854.14,
+      "text": "Are you going, Wilson?"
+    },
+    {
+      "start": 4854.28,
+      "end": 4854.8,
+      "text": "Yeah, I'll be there."
+    },
+    {
+      "start": 4854.8,
+      "end": 4855.86,
+      "text": "Yes, oh, Wilson will be there."
+    },
+    {
+      "start": 4855.94,
+      "end": 4857.56,
+      "text": "Wilson, you'll be buying the beer, Wilson, won't you?"
+    },
+    {
+      "start": 4857.68,
+      "end": 4858.04,
+      "text": "Nope."
+    },
+    {
+      "start": 4858.26,
+      "end": 4860.32,
+      "text": "No, he won't be buying the beer, but the music will be good."
+    },
+    {
+      "start": 4860.56,
+      "end": 4862.4,
+      "text": "Plug for the gig tomorrow night, Walsall,"
+    },
+    {
+      "start": 4862.48,
+      "end": 4864.6,
+      "text": "along with Diamond Head, and this is Chevy."
+    },
+    {
+      "start": 4865.04,
+      "end": 5420.29,
+      "text": "Classic track, Blue Oyster Cult from Agents of Fortune,"
+    },
+    {
+      "start": 5420.29,
+      "end": 5421.55,
+      "text": "Don't Fear the Reaper."
+    },
+    {
+      "start": 5423.32,
+      "end": 5426.66,
+      "text": "For Andy H and all the BOC fans at Dartmouth High,"
+    },
+    {
+      "start": 5427.18,
+      "end": 5429.32,
+      "text": "Not forgetting a gentleman by the name of Paul Dickin."
+    },
+    {
+      "start": 5430.0,
+      "end": 5432.18,
+      "text": "Andy H. lives at Great Bar in Birmingham."
+    },
+    {
+      "start": 5433.29,
+      "end": 5437.92,
+      "text": "Also BOC was requested by Anne of Gloucester."
+    },
+    {
+      "start": 5438.58,
+      "end": 5439.26,
+      "text": "That's all it says here."
+    },
+    {
+      "start": 5439.58,
+      "end": 5440.68,
+      "text": "Oh, would I wish feedback?"
+    },
+    {
+      "start": 5440.88,
+      "end": 5442.22,
+      "text": "The best of luck for their gig in December."
+    },
+    {
+      "start": 5442.38,
+      "end": 5443.28,
+      "text": "I certainly will."
+    },
+    {
+      "start": 5446.69,
+      "end": 5448.83,
+      "text": "Must say hello to a lady by the name of Jenny Crofts."
+    },
+    {
+      "start": 5448.87,
+      "end": 5450.69,
+      "text": "Messages, please tell her that I still love her,"
+    },
+    {
+      "start": 5450.83,
+      "end": 5452.67,
+      "text": "even after these many weeks we've been apart."
+    },
+    {
+      "start": 5453.13,
+      "end": 5455.83,
+      "text": "Sender of message, Rob Lewis of 27 Richmond Place."
+    },
+    {
+      "start": 5455.83,
+      "end": 5457.45,
+      "text": "I think that's Lansdowne in Bath."
+    },
+    {
+      "start": 5457.45,
+      "end": 5460.05,
+      "text": "Best wishes to everybody at Beechin Cliff School, upper sixth."
+    },
+    {
+      "start": 5461.3,
+      "end": 5463.26,
+      "text": "And prior to that, you heard The Last of Three."
+    },
+    {
+      "start": 5463.4,
+      "end": 5465.88,
+      "text": "I was lying when I said four, from Chevy, I beg your pardon."
+    },
+    {
+      "start": 5465.98,
+      "end": 5467.2,
+      "text": "The Last of Three from Chevy tonight."
+    },
+    {
+      "start": 5467.3,
+      "end": 5468.54,
+      "text": "The track was called You Got Me Running."
+    },
+    {
+      "start": 5469.7,
+      "end": 5471.42,
+      "text": "Chevy R, Martin Cure on the vocals,"
+    },
+    {
+      "start": 5471.58,
+      "end": 5474.3,
+      "text": "Paul Shanahan and Steve Warwin on the lead guitars,"
+    },
+    {
+      "start": 5474.7,
+      "end": 5477.22,
+      "text": "Bob Poole on the bass guitar, and Andy Chaplin on the drums."
+    },
+    {
+      "start": 5477.4,
+      "end": 5480.7,
+      "text": "All the tracks you heard tonight by Chevy are on their album called The Takeout."
+    },
+    {
+      "start": 5481.93,
+      "end": 5482.79,
+      "text": "Back into the archives."
+    },
+    {
+      "start": 5482.97,
+      "end": 5485.05,
+      "text": "January 1970, more Yes."
+    },
+    {
+      "start": 5485.63,
+      "end": 5962.7,
+      "text": "And that was Yes, as if you didn't know."
+    },
+    {
+      "start": 5962.7,
+      "end": 5968.68,
+      "text": "couple of tracks then and that was preceded by sweet dreams recorded in the bbc studios in"
+    },
+    {
+      "start": 5968.68,
+      "end": 5979.35,
+      "text": "january 1970. i'd like to know that next week we have a new band for you by the name of sweet"
+    },
+    {
+      "start": 5979.35,
+      "end": 5985.08,
+      "text": "savage they come from belfast part of the world that i know very well i love ireland i think it's"
+    },
+    {
+      "start": 5985.08,
+      "end": 5989.24,
+      "text": "a great country i enjoy going there in fact i'm going to go there for a few days after christmas"
+    },
+    {
+      "start": 5989.24,
+      "end": 5996.17,
+      "text": "also out of the archives we will have david bowie i'm going to play you something now which is a"
+    },
+    {
+      "start": 5996.17,
+      "end": 6000.89,
+      "text": "really early piece of material by Motorhead. I think it's a real stormer. It's called On Parole."
+    },
+    {
+      "start": 6006.58,
+      "end": 6010.4,
+      "text": "Now, it's even better when it's played at 45. You see, it's one of those 12 inches,"
+    },
+    {
+      "start": 6010.58,
+      "end": 6554.94,
+      "text": "and this disc jockey is a moron. Best single I've ever made. That's Girl School. Their current"
+    },
+    {
+      "start": 6554.94,
+      "end": 6559.04,
+      "text": "single out on bronze is called Yeah Right. And before that, you heard On Parole from a four"
+    },
+    {
+      "start": 6559.04,
+      "end": 6563.38,
+      "text": "tracker that's just come out on Big Beat Records. It was, of course, Motorhead. And Motorhead and"
+    },
+    {
+      "start": 6563.38,
+      "end": 6568.3,
+      "text": "Girl School are going to be touring the continent of Europe soon, if not indeed soon. Play that for"
+    },
+    {
+      "start": 6568.3,
+      "end": 6573.44,
+      "text": "a load of people including a load of strange people who attend brighton polytechnic lots of"
+    },
+    {
+      "start": 6573.44,
+      "end": 6578.36,
+      "text": "love it says here from ringer red shoes narcissus neil eddie bender julie big angie tom gobby sweet"
+    },
+    {
+      "start": 6578.36,
+      "end": 6584.36,
+      "text": "julie big dick really blonde john vd shepherd grime elkie seltzer and jackie and all the other"
+    },
+    {
+      "start": 6584.36,
+      "end": 6588.14,
+      "text": "people down there in brighton how's about this for a closer"
+    },
+    {
+      "start": 6588.14,
+      "end": 6611.66,
+      "text": "I was to say to get much higher"
+    },
+    {
+      "start": 6611.66,
+      "end": 6628.55,
+      "text": "The time to hesitate is through"
+    },
+    {
+      "start": 6628.55,
+      "end": 6632.66,
+      "text": "The time to wallow in the mire"
+    },
+    {
+      "start": 6632.66,
+      "end": 6636.36,
+      "text": "Try now we can only live"
+    },
+    {
+      "start": 6636.36,
+      "end": 6640.34,
+      "text": "And our love become a funeral pyre"
+    },
+    {
+      "start": 6640.34,
+      "end": 6645.15,
+      "text": "Come on baby, light my fire"
+    },
+    {
+      "start": 6645.15,
+      "end": 6648.86,
+      "text": "Come on baby, light my fire"
+    },
+    {
+      "start": 6648.86,
+      "end": 6651.92,
+      "text": "Try to set the night on fire"
+    },
+    {
+      "start": 6651.92,
+      "end": 7012.22,
+      "text": "Real classic, Light My Fire by The Doors."
+    },
+    {
+      "start": 7012.36,
+      "end": 7014.12,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7014.8,
+      "end": 7016.26,
+      "text": "Do not miss Rock on Saturday tomorrow,"
+    },
+    {
+      "start": 7016.54,
+      "end": 7019.62,
+      "text": "an opportunity to hear the interview between Andy Peebles and John Lennon"
+    },
+    {
+      "start": 7019.62,
+      "end": 7021.18,
+      "text": "that was recorded last week in New York."
+    },
+    {
+      "start": 7021.9,
+      "end": 7025.08,
+      "text": "That will start at about 4.31 on Rock on Saturday tomorrow."
+    },
+    {
+      "start": 7025.54,
+      "end": 7027.42,
+      "text": "Many thanks to my engineer tonight, who was John."
+    },
+    {
+      "start": 7027.76,
+      "end": 7032.0,
+      "text": "Following the time term for midnight, the 275-285 transmitters will be closing down."
+    },
+    {
+      "start": 7032.08,
+      "end": 7033.4,
+      "text": "And now here's Tony Wilson to speak."
+    },
+    {
+      "start": 7033.74,
+      "end": 7035.84,
+      "text": "Is Friday night music night or what, eh?"
+    },
+    {
+      "start": 7035.84,
+      "end": 7038.1,
+      "text": "Oh, well, whatcha what, well, what, what?"
+    },
+    {
+      "start": 7038.38,
+      "end": 7040.08,
+      "text": "Saturday night could be music night as well"
+    },
+    {
+      "start": 7040.08,
+      "end": 7042.5,
+      "text": "if you join us along with Diamond Head of Warsaw Town Hall."
+    },
+    {
+      "start": 7042.58,
+      "end": 7043.5,
+      "text": "Thank you very much for the plug."
+    },
+    {
+      "start": 7043.5,
+      "end": 7044.64,
+      "text": "this is Tommy Vance in London"
+    },
+    {
+      "start": 7044.64,
+      "end": 7045.66,
+      "text": "wherever you are"
+    },
+    {
+      "start": 7045.66,
+      "end": 7046.9,
+      "text": "we wish you well"
+    },
+    {
+      "start": 7046.9,
+      "end": 7048.06,
+      "text": "we really do"
+    },
+    {
+      "start": 7048.06,
+      "end": 7048.88,
+      "text": "goodnight"
+    },
+    {
+      "start": 7048.88,
+      "end": 7050.43,
+      "text": "and God bless"
     }
   ]
 }

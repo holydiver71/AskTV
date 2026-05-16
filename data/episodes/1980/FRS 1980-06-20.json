@@ -17,12 +17,14 @@
     {
       "artist": "Girlschool",
       "track": "Demolition Boys",
-      "details": "LP-Demolition"
+      "details": "LP-Demolition",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Deep Purple",
       "track": "Space Truckin’",
-      "details": "LP-Machine Head"
+      "details": "LP-Machine Head",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Ray Gomez",
@@ -32,12 +34,14 @@
     {
       "artist": "Shakin' Street",
       "track": "Solid as a Rock",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 1149.12
     },
     {
       "artist": "Emerson, Lake & Palmer",
       "track": "Brain Salad Surgery",
-      "details": "LP-Works Volume 2"
+      "details": "LP-Works Volume 2",
+      "verified_timestamp": 1678.57
     },
     {
       "artist": "Sniff 'n' the Tears",
@@ -47,27 +51,32 @@
     {
       "artist": "Samson",
       "track": "Take It Like a Man",
-      "details": "LP-Head On"
+      "details": "LP-Head On",
+      "verified_timestamp": 2205.41
     },
     {
       "artist": "Bob Dylan",
       "track": "Solid Rock",
-      "details": "LP-Saved"
+      "details": "LP-Saved",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.8
     },
     {
       "artist": "The Rolling Stones",
       "track": "Down in the Hole",
-      "details": "LP-Emotional Rescue"
+      "details": "LP-Emotional Rescue",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "The Rolling Stones",
       "track": "Emotional Rescue",
-      "details": "LP-Emotional Rescue"
+      "details": "LP-Emotional Rescue",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Broken Home",
@@ -83,6 +92,518 @@
       "artist": null,
       "track": "Steve Hackett live at Reading Festival 1979",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 9.68,
+      "end": 15.68,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 15.68,
+      "end": 31.74,
+      "text": "Well, hello there. Thomas the Vance here. TV on the radio. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 31.74,
+      "end": 39.09,
+      "text": "And tonight you can settle back for two hours of the very best in rock that includes a 45-minute set by Steve Hackett."
+    },
+    {
+      "start": 39.09,
+      "end": 44.09,
+      "text": "As recorded at last year's Reading Festival. And believe me, it is mighty tasty."
+    },
+    {
+      "start": 44.09,
+      "end": 67.02,
+      "text": "Also, we have classic cuts by Deep Purple, ELP, and UFO, among others, and new stuff from Girl School, Ray Gomez, Shaken Streets, Sniff of the Tears, Samson, Bob Dylan, and the Rolling Stones."
+    },
+    {
+      "start": 67.8,
+      "end": 69.94,
+      "text": "Not forgetting our Friday night connection."
+    },
+    {
+      "start": 72.61,
+      "end": 74.97,
+      "text": "Now, this evening, we start with Girl School."
+    },
+    {
+      "start": 76.21,
+      "end": 522.56,
+      "text": "And that's a real classic."
+    },
+    {
+      "start": 524.5,
+      "end": 528.12,
+      "text": "From the album Machine Head, Deep Purple, and Space Truckin' for loads of people."
+    },
+    {
+      "start": 528.12,
+      "end": 532.7,
+      "text": "Everybody at St. Mary's College in Crosby in Liverpool, who, of course, are doing exams at the moment."
+    },
+    {
+      "start": 533.22,
+      "end": 536.7,
+      "text": "For George and Patrick and Hazel and Carol and Alex and Merlin,"
+    },
+    {
+      "start": 536.82,
+      "end": 539.38,
+      "text": "or possibly Martin, I guess, and Carl and Sarah,"
+    },
+    {
+      "start": 539.68,
+      "end": 542.58,
+      "text": "and all of Pat's heavy metal freaky friends, it says here,"
+    },
+    {
+      "start": 542.72,
+      "end": 546.88,
+      "text": "Stella Goodwin of Calden in Kent demands that I say that."
+    },
+    {
+      "start": 546.92,
+      "end": 548.16,
+      "text": "Who says this isn't a family show?"
+    },
+    {
+      "start": 549.57,
+      "end": 551.63,
+      "text": "Linda Lee of Stonehouse in Lanarkshire."
+    },
+    {
+      "start": 551.73,
+      "end": 554.05,
+      "text": "What if we play a bit of Deep Purple for Alan Batterson,"
+    },
+    {
+      "start": 554.11,
+      "end": 555.45,
+      "text": "who's on holiday somewhere in the country,"
+    },
+    {
+      "start": 555.51,
+      "end": 557.97,
+      "text": "and also for Peter in Larknell, I think it is."
+    },
+    {
+      "start": 559.53,
+      "end": 563.81,
+      "text": "Colin and Paul, who are in Coln in Wiltshire, are in the Purple."
+    },
+    {
+      "start": 564.07,
+      "end": 569.74,
+      "text": "must mention everybody the seventh form of humphrey davy grammar they've all been sort of"
+    },
+    {
+      "start": 569.74,
+      "end": 576.58,
+      "text": "put together on one bit of paper by colin simpson who wishes him well marco stinger's lonely mossy"
+    },
+    {
+      "start": 576.58,
+      "end": 582.0,
+      "text": "and leg get best wishes from we and all the other people who listen to this program over in era"
+    },
+    {
+      "start": 582.0,
+      "end": 588.22,
+      "text": "and louise and ian i know listen to the show together in evervale in guent and prior to that"
+    },
+    {
+      "start": 588.22,
+      "end": 591.68,
+      "text": "purple track you heard something from the new album which is called demolition it's by a band"
+    },
+    {
+      "start": 591.68,
+      "end": 596.46,
+      "text": "called girl school i think the best female heavy metal band i've ever heard the track you heard was"
+    },
+    {
+      "start": 596.46,
+      "end": 600.52,
+      "text": "demolition boys which is the lead track on the thing and i played especially for lizzie from"
+    },
+    {
+      "start": 600.52,
+      "end": 608.78,
+      "text": "sally from all the family with the message welcome home 10 minutes after 10 and talking about girl"
+    },
+    {
+      "start": 608.78,
+      "end": 1145.68,
+      "text": "school we've got a session coming up by them soon which is magnificent be looking forward to seeing"
+    },
+    {
+      "start": 1145.68,
+      "end": 1149.12,
+      "text": "that band next week when they come into our country it's a band by the name of shaken street"
+    },
+    {
+      "start": 1149.12,
+      "end": 1153.84,
+      "text": "that's out of the single it's called solid as a rock and you'll also find it on their album"
+    },
+    {
+      "start": 1153.84,
+      "end": 1158.24,
+      "text": "shaken street as well the band is made up of some americans and some europeans as well the female"
+    },
+    {
+      "start": 1158.24,
+      "end": 1163.34,
+      "text": "singer's name is fabian shine and the band includes the lead guitarist from that band called"
+    },
+    {
+      "start": 1163.34,
+      "end": 1168.58,
+      "text": "the dictators of some what four or five years ago good band shaken street track you heard before"
+    },
+    {
+      "start": 1168.58,
+      "end": 1174.58,
+      "text": "that was from ray gomez that's on his album which is called ray gomez the track was usa usa a bigger"
+    },
+    {
+      "start": 1174.58,
+      "end": 1179.84,
+      "text": "one and also you'll find both those cuts on a new double album which is out on epic records that"
+    },
+    {
+      "start": 1179.84,
+      "end": 1186.98,
+      "text": "It includes people like Judas Priest and Ted Nugent, Molly Hatchett, Blue Oyster Cult, Aerosmith, Frank Marino, Mahogany Rush, and many others, it says on the front."
+    },
+    {
+      "start": 1187.34,
+      "end": 1188.74,
+      "text": "And it's a very good compilation."
+    },
+    {
+      "start": 1190.07,
+      "end": 1195.31,
+      "text": "And I'd like to dedicate both those tracks to a gentleman who's got a birthday coming up in, what, about four days' time."
+    },
+    {
+      "start": 1195.73,
+      "end": 1200.65,
+      "text": "A gentleman by the name of John, with lots and lots of love from Vicky and Jeanette."
+    },
+    {
+      "start": 1200.79,
+      "end": 1202.07,
+      "text": "And that's the Wingfield family."
+    },
+    {
+      "start": 1206.27,
+      "end": 1207.49,
+      "text": "1020, ELP."
+    },
+    {
+      "start": 1658.58,
+      "end": 1664.14,
+      "text": "Never thought a lot of them when their last album came out, but this time around I think they really get into a nice groove."
+    },
+    {
+      "start": 1664.24,
+      "end": 1667.86,
+      "text": "That's Sniff of the Tears, and a track from their new album, which is out on the Chiswick label."
+    },
+    {
+      "start": 1668.34,
+      "end": 1672.12,
+      "text": "The album is called The Game's Up, and the track you heard was Five and Zero."
+    },
+    {
+      "start": 1673.41,
+      "end": 1678.43,
+      "text": "Prior to that, a classic from Works Vol. 2 by Emerson, Lake and Palmer, the band who are no more."
+    },
+    {
+      "start": 1678.57,
+      "end": 1680.35,
+      "text": "The track was Brain Salad Surgery."
+    },
+    {
+      "start": 1682.13,
+      "end": 1688.47,
+      "text": "A few mentions here for people that I met during the week when I was up there looking at Saxon on the stage at the Rainbow Theatre here in London."
+    },
+    {
+      "start": 1688.77,
+      "end": 1691.49,
+      "text": "Adam Wiltshire of Martham in Norfolk."
+    },
+    {
+      "start": 1691.97,
+      "end": 1693.45,
+      "text": "You get a lot of love from Patsy."
+    },
+    {
+      "start": 1693.45,
+      "end": 1695.33,
+      "text": "and also I'd like to say hello to"
+    },
+    {
+      "start": 1695.33,
+      "end": 1697.21,
+      "text": "Si and Gary and Chris and Rachel and Debs"
+    },
+    {
+      "start": 1697.21,
+      "end": 1699.47,
+      "text": "and Martin and Pete and Jez"
+    },
+    {
+      "start": 1699.47,
+      "end": 1701.23,
+      "text": "and Hugo and I think it's Darren"
+    },
+    {
+      "start": 1701.23,
+      "end": 1703.33,
+      "text": "and maybe that's Darren Black and"
+    },
+    {
+      "start": 1703.33,
+      "end": 1705.01,
+      "text": "Neil, Neil Pearson possibly"
+    },
+    {
+      "start": 1705.01,
+      "end": 1707.23,
+      "text": "and they want to hear some Rush, well we haven't got any"
+    },
+    {
+      "start": 1707.23,
+      "end": 1708.83,
+      "text": "in the program this week but next week"
+    },
+    {
+      "start": 1708.83,
+      "end": 1710.51,
+      "text": "who knows, could be"
+    },
+    {
+      "start": 1710.51,
+      "end": 1713.69,
+      "text": "and Helen Marsden gets a lot"
+    },
+    {
+      "start": 1713.69,
+      "end": 1715.73,
+      "text": "of best wishes from somebody who lives"
+    },
+    {
+      "start": 1715.73,
+      "end": 1717.95,
+      "text": "in Cliverger which is near Burnley"
+    },
+    {
+      "start": 1717.95,
+      "end": 1719.59,
+      "text": "in Lancashire, no"
+    },
+    {
+      "start": 1719.59,
+      "end": 1720.87,
+      "text": "signature on the letter"
+    },
+    {
+      "start": 1720.87,
+      "end": 1723.15,
+      "text": "but Helen I guess you know who it is"
+    },
+    {
+      "start": 1723.15,
+      "end": 2187.64,
+      "text": "Absolutely amazing recording career that man has had."
+    },
+    {
+      "start": 2187.64,
+      "end": 2191.14,
+      "text": "That's Bob Dylan there, and a track from his new album, which is out on CBS."
+    },
+    {
+      "start": 2191.36,
+      "end": 2197.57,
+      "text": "The album's called Saved, and a track he heard was entitled Solid Rock."
+    },
+    {
+      "start": 2198.03,
+      "end": 2200.85,
+      "text": "And before that, something from the new album by Samson."
+    },
+    {
+      "start": 2201.09,
+      "end": 2203.25,
+      "text": "The album's coming out on the Gem record label."
+    },
+    {
+      "start": 2203.69,
+      "end": 2205.11,
+      "text": "Its title is Head On."
+    },
+    {
+      "start": 2205.41,
+      "end": 2209.45,
+      "text": "The track we played you was Take It Like a Man, and that album is quite deceptive,"
+    },
+    {
+      "start": 2209.53,
+      "end": 2213.53,
+      "text": "because when I first heard that track this afternoon, I didn't think too much to it at all."
+    },
+    {
+      "start": 2213.61,
+      "end": 2216.25,
+      "text": "But then listening to it again, there's a lot going on in there."
+    },
+    {
+      "start": 2216.35,
+      "end": 2228.17,
+      "text": "It's 23 minutes now before 11 o'clock on Radio 1."
+    },
+    {
+      "start": 2228.17,
+      "end": 2232.33,
+      "text": "It's time for the Friday Night Connection, and the tracks we played you last week were these."
+    },
+    {
+      "start": 2232.89,
+      "end": 2236.59,
+      "text": "M.E. 262 by Blue Oyster Curl from the LP Secret Treatise."
+    },
+    {
+      "start": 2236.99,
+      "end": 2240.23,
+      "text": "Like a Hurricane by Neil Young from American Stars and Bars."
+    },
+    {
+      "start": 2240.63,
+      "end": 2244.15,
+      "text": "Big City by Jefferson Starship from the LP Spitfire."
+    },
+    {
+      "start": 2245.19,
+      "end": 2250.49,
+      "text": "M.E. 262, Hurricane, Spitfire, Warplanes."
+    },
+    {
+      "start": 2250.97,
+      "end": 2252.99,
+      "text": "Got it? And most of you indeed did."
+    },
+    {
+      "start": 2252.99,
+      "end": 2269.83,
+      "text": "But the man who gets the £10 record token is Mick Jones of No. 10 Whitburn Road East, that is, and Clevedon, I think it is, possibly Clevedon, in Sunderland in Tyne and Wear."
+    },
+    {
+      "start": 2270.09,
+      "end": 2275.89,
+      "text": "Well, Mick, you know where you're living and you know exactly where you are at the moment and now you know you've got yourself a £10 record token. Congratulations."
+    },
+    {
+      "start": 2279.94,
+      "end": 2285.36,
+      "text": "Part of the deal, as always, as everybody knows, you've got to put together your own Friday Night Connection."
+    },
+    {
+      "start": 2285.36,
+      "end": 2288.18,
+      "text": "three pieces of music that have a theme."
+    },
+    {
+      "start": 2288.58,
+      "end": 2292.72,
+      "text": "And these three, according to Mr. Jones, most certainly do."
+    },
+    {
+      "start": 2443.81,
+      "end": 3126.97,
+      "text": "That's the Friday Night Connection for tonight,"
+    },
+    {
+      "start": 3127.05,
+      "end": 3130.79,
+      "text": "put together by Mick Jones, who lives in Sunderland, Tyne and Weir."
+    },
+    {
+      "start": 3131.29,
+      "end": 3134.2,
+      "text": "And it's not as simple as you might think it is."
+    },
+    {
+      "start": 3134.48,
+      "end": 3135.62,
+      "text": "I'll give you that much of a clue."
+    },
+    {
+      "start": 3136.08,
+      "end": 3139.34,
+      "text": "If you think you know what it is, jot down the answer on a postcard"
+    },
+    {
+      "start": 3139.34,
+      "end": 3141.22,
+      "text": "or any form of communication you like"
+    },
+    {
+      "start": 3141.22,
+      "end": 3143.72,
+      "text": "and send it to the Friday Night Connection,"
+    },
+    {
+      "start": 3143.72,
+      "end": 3152.74,
+      "text": "the friday rock show london w1a4ww and of course you know it's radio one i'd be grateful too if"
+    },
+    {
+      "start": 3152.74,
+      "end": 3157.46,
+      "text": "you do something for me when you do write to the program this week would you sort of jot in one of"
+    },
+    {
+      "start": 3157.46,
+      "end": 3161.7,
+      "text": "the corners or just tell us any way you like on the communication whether you listen on the medium"
+    },
+    {
+      "start": 3161.7,
+      "end": 3169.85,
+      "text": "wave band or whether you listen in stereo would you do that for me many thanks and good luck with"
+    },
+    {
+      "start": 3169.85,
+      "end": 3744.38,
+      "text": "the private night connection but give it at least two thoughts for the bbc this afternoon and they"
+    },
+    {
+      "start": 3744.38,
+      "end": 3746.8,
+      "text": "and they wanted me to play something for all the Keithley Tech students"
+    },
+    {
+      "start": 3746.8,
+      "end": 3749.2,
+      "text": "from A Few Keithley Students, Inc.,"
+    },
+    {
+      "start": 3749.2,
+      "end": 3751.54,
+      "text": "namely D. Mitchell and K. Pete."
+    },
+    {
+      "start": 3751.86,
+      "end": 3752.42,
+      "text": "How about this?"
     }
   ]
 }

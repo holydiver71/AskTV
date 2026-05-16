@@ -26,12 +26,14 @@
     {
       "artist": "Boston",
       "track": "Foreplay/Long Time",
-      "details": "LP-Boston; Epic"
+      "details": "LP-Boston; Epic",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Sweet Savage",
       "track": "Into The Night",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 880.49
     },
     {
       "artist": "Rick Derringer",
@@ -41,7 +43,8 @@
     {
       "artist": "Utopia",
       "track": "Last of the New Wave Riders",
-      "details": "LP-Adventures In Utopia; Bearsville"
+      "details": "LP-Adventures In Utopia; Bearsville",
+      "verified_timestamp": 2267.06
     },
     {
       "artist": "Max Webster",
@@ -61,12 +64,14 @@
     {
       "artist": "Paice, Ashton And Lord",
       "track": "On The Road Again",
-      "details": "LP-Malice In Wonderland; Polydor"
+      "details": "LP-Malice In Wonderland; Polydor",
+      "verified_timestamp": 3491.3
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 59.26
     },
     {
       "artist": "Sweet Savage",
@@ -76,12 +81,14 @@
     {
       "artist": "Eric Clapton",
       "track": "Mainline Florida",
-      "details": "LP-461 Ocean Boulevard; RSO"
+      "details": "LP-461 Ocean Boulevard; RSO",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "David Bowie",
       "track": "Waiting For The Man",
-      "details": "BBC Session"
+      "details": "BBC Session",
+      "verified_timestamp": 5124.83
     },
     {
       "artist": "David Bowie",
@@ -101,17 +108,1532 @@
     {
       "artist": "Kraftwerk",
       "track": "Autobahn",
-      "details": "LP-Autobahn; Philips"
+      "details": "LP-Autobahn; Philips",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Gillan",
       "track": "We Wish You A Merry Christmas",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6675.1
     },
     {
       "artist": "Deep Purple",
       "track": "Lucille",
-      "details": "2xLP-Deep Purple In Concert; Harvest"
+      "details": "2xLP-Deep Purple In Concert; Harvest",
+      "verified_timestamp": 6996.2
+    }
+  ],
+  "transcript": [
+    {
+      "start": 5.07,
+      "end": 12.07,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 12.07,
+      "end": 26.42,
+      "text": "Well, hello there, this is TV on the Radio here, Thomas the Vance, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 26.42,
+      "end": 33.62,
+      "text": "Right on the program tonight from Belfast, for their very first time on radio, an Ulster heavy band by the name of Sweet Savage."
+    },
+    {
+      "start": 33.62,
+      "end": 39.62,
+      "text": "Plus, out of the archives, recorded a decade ago, three numbers by David Bowie."
+    },
+    {
+      "start": 39.62,
+      "end": 58.08,
+      "text": "And we've got some classic cuts by Boston, Utopia, Pace, Ashton & Lord, Eric Clapton, Craftwork and Deep Purple."
+    },
+    {
+      "start": 59.26,
+      "end": 65.16,
+      "text": "New stuff by Rick Derringer, Max Webster and yes, not forgetting our Friday night connection."
+    },
+    {
+      "start": 68.37,
+      "end": 70.41,
+      "text": "But this evening we start with this."
+    },
+    {
+      "start": 811.64,
+      "end": 813.66,
+      "text": "An absolutely magic track by Boston."
+    },
+    {
+      "start": 816.2,
+      "end": 820.84,
+      "text": "Pre-seeded by foreplay, the length of the track is 7 minutes 55 and it's called Long Time."
+    },
+    {
+      "start": 820.84,
+      "end": 832.82,
+      "text": "like to dedicate that track to number 36 air traffic control cadet course at present sweating"
+    },
+    {
+      "start": 832.82,
+      "end": 838.74,
+      "text": "it out on their radar car course rather reborn them and for all the atcos at heathrow d watch"
+    },
+    {
+      "start": 838.74,
+      "end": 843.46,
+      "text": "it says here and everybody over there in belfast from the creme de la creme a lady by the name of"
+    },
+    {
+      "start": 843.46,
+      "end": 849.33,
+      "text": "helen and before that you heard something by ozzy osbourne's blizzard of oz the track was crazy"
+    },
+    {
+      "start": 849.33,
+      "end": 854.71,
+      "text": "train and that was especially for annette who was 15 on the 30th i think that was the 30th of"
+    },
+    {
+      "start": 854.71,
+      "end": 859.19,
+      "text": "November. Also have to say hello to the lady who wrote this letter, a lady by the name of Hillary"
+    },
+    {
+      "start": 859.19,
+      "end": 866.17,
+      "text": "and Claire and Angie and Manna and Helen, I think it is, who are all mad Aussie fans. Also,"
+    },
+    {
+      "start": 866.27,
+      "end": 871.71,
+      "text": "particularly, that was for a couple of people called Steve and Steve and also Teresa, who comes"
+    },
+    {
+      "start": 871.71,
+      "end": 880.19,
+      "text": "from Wheaton in Aston, or maybe that's just Wheaton, Aston. Either way, the music was good."
+    },
+    {
+      "start": 880.49,
+      "end": 885.71,
+      "text": "It's now 10.17. Here's the first of four by a new Belfast band called Sweet Savage."
+    },
+    {
+      "start": 1478.37,
+      "end": 1480.55,
+      "text": "Good old Rick Derringer, he's always over the top."
+    },
+    {
+      "start": 1483.06,
+      "end": 1490.1,
+      "text": "That is called Hey Hey My My, and that of course was Mr. Derringer from his new album, which has the title Face to Face."
+    },
+    {
+      "start": 1491.02,
+      "end": 1495.76,
+      "text": "Played that specially for a load of people up there in Walsall, whom I met the other night, last Saturday night."
+    },
+    {
+      "start": 1495.88,
+      "end": 1500.08,
+      "text": "Thank you for an excellent gig, and thank you very much for your hospitality and great conversations in the bar."
+    },
+    {
+      "start": 1500.46,
+      "end": 1503.34,
+      "text": "Loads of requests, so it's really a sort of potluck situation tonight."
+    },
+    {
+      "start": 1503.72,
+      "end": 1507.58,
+      "text": "If I haven't read your name out, well, it's just down to the fact that you were lucky"
+    },
+    {
+      "start": 1507.58,
+      "end": 1510.9,
+      "text": "and I grabbed your name out of a massive great pile of requests."
+    },
+    {
+      "start": 1511.28,
+      "end": 1514.1,
+      "text": "Master Mark, Pete, and Preg and Tim and Smiler, hello."
+    },
+    {
+      "start": 1514.54,
+      "end": 1517.62,
+      "text": "Also DJ Ken, who's going to be doing some more gigs at Walsall Town Hall."
+    },
+    {
+      "start": 1517.76,
+      "end": 1520.32,
+      "text": "Thanks a lot for your extremely good hospitality."
+    },
+    {
+      "start": 1521.36,
+      "end": 1523.5,
+      "text": "Nick and Sue and Tank, who live in Aldridge."
+    },
+    {
+      "start": 1524.53,
+      "end": 1529.89,
+      "text": "Must play a record for a gentleman who has an 18th birthday on Saturday the 20th of December."
+    },
+    {
+      "start": 1531.13,
+      "end": 1532.73,
+      "text": "A gentleman by the name of Jonathan Down."
+    },
+    {
+      "start": 1533.23,
+      "end": 1535.51,
+      "text": "Best wishes from Sarah Down, who I guess is related."
+    },
+    {
+      "start": 1535.75,
+      "end": 1538.09,
+      "text": "She lives at 32 Alderman's Hill in Hockley in Essex."
+    },
+    {
+      "start": 1540.76,
+      "end": 1542.42,
+      "text": "Also been asked to play a record for a gentleman"
+    },
+    {
+      "start": 1542.42,
+      "end": 1546.96,
+      "text": "who's been apart from his lady for a year on New Year's Eve."
+    },
+    {
+      "start": 1547.28,
+      "end": 1548.78,
+      "text": "The gentleman's name is Duke."
+    },
+    {
+      "start": 1549.28,
+      "end": 1550.98,
+      "text": "Lots of love from a lady by the name of Janet"
+    },
+    {
+      "start": 1550.98,
+      "end": 1552.8,
+      "text": "who lives in Preston in Lancashire."
+    },
+    {
+      "start": 1553.32,
+      "end": 1555.34,
+      "text": "And before that, you heard the first of four by Sweet Savage."
+    },
+    {
+      "start": 1555.34,
+      "end": 1556.7,
+      "text": "The track was Into the Night,"
+    },
+    {
+      "start": 1557.36,
+      "end": 1559.66,
+      "text": "who are our session band tonight, our Sweet Savage."
+    },
+    {
+      "start": 1560.0,
+      "end": 1561.08,
+      "text": "Sweet Savage, rather."
+    },
+    {
+      "start": 1561.74,
+      "end": 1562.92,
+      "text": "Little letter here that says,"
+    },
+    {
+      "start": 1562.92,
+      "end": 1566.54,
+      "text": "Yeah, TV. How about a request for all Belfast-starved heavy metal fans,"
+    },
+    {
+      "start": 1566.66,
+      "end": 1569.18,
+      "text": "especially Mickey and John and Nash and Susie and Robbo,"
+    },
+    {
+      "start": 1569.46,
+      "end": 1571.44,
+      "text": "who faithfully listen to the program every week?"
+    },
+    {
+      "start": 1571.86,
+      "end": 1575.52,
+      "text": "If possible, how's about something from Belfast's own heavy metal hero, Sweet Savage?"
+    },
+    {
+      "start": 1576.04,
+      "end": 1579.54,
+      "text": "The letter here is signed by Sharon McAuley."
+    },
+    {
+      "start": 1579.7,
+      "end": 1582.7,
+      "text": "Well, Sharon, you're in luck, because there are three more by Sweet Savage."
+    },
+    {
+      "start": 1585.72,
+      "end": 1587.36,
+      "text": "And this is Utopia."
+    },
+    {
+      "start": 2202.71,
+      "end": 2205.11,
+      "text": "Two absolutely ace Canadian bands on that track."
+    },
+    {
+      "start": 2205.21,
+      "end": 2208.29,
+      "text": "You'll find that track on the brand new album, which is by Max Webster."
+    },
+    {
+      "start": 2208.29,
+      "end": 2215.41,
+      "text": "the album's called universal juvenile the track was entitled battle scar not only a max webster"
+    },
+    {
+      "start": 2215.41,
+      "end": 2219.81,
+      "text": "on that track but also you heard the voice of geddy lee and also the playing of the rest of rush"
+    },
+    {
+      "start": 2220.61,
+      "end": 2226.53,
+      "text": "and the voice of geddy lee i think is so sharp that it could cut through diamonds played that"
+    },
+    {
+      "start": 2226.53,
+      "end": 2232.29,
+      "text": "track for dobo and chris and dave and mil and dola possibly doug ian with lots of love from"
+    },
+    {
+      "start": 2232.29,
+      "end": 2237.99,
+      "text": "somebody by the name of rama also for all parachutists who may be on the way to a dz"
+    },
+    {
+      "start": 2237.99,
+      "end": 2240.11,
+      "text": "at the moment. I've got to wish you"
+    },
+    {
+      "start": 2240.11,
+      "end": 2242.37,
+      "text": "blue skies, good dives"
+    },
+    {
+      "start": 2242.37,
+      "end": 2244.31,
+      "text": "and fair winds."
+    },
+    {
+      "start": 2245.22,
+      "end": 2246.96,
+      "text": "Chris and Michelle from the Cyclotron"
+    },
+    {
+      "start": 2246.96,
+      "end": 2248.9,
+      "text": "Roadshow want me to say hello to everybody"
+    },
+    {
+      "start": 2248.9,
+      "end": 2250.64,
+      "text": "which I've just done. Also"
+    },
+    {
+      "start": 2250.64,
+      "end": 2252.82,
+      "text": "that was for all the X6 form"
+    },
+    {
+      "start": 2252.82,
+      "end": 2254.74,
+      "text": "of Friars School in Bangor. And for"
+    },
+    {
+      "start": 2254.74,
+      "end": 2256.7,
+      "text": "all my friends, says Sue. All her"
+    },
+    {
+      "start": 2256.7,
+      "end": 2258.82,
+      "text": "friends it seems attend Bart's Medical School."
+    },
+    {
+      "start": 2259.36,
+      "end": 2260.54,
+      "text": "Had a really good"
+    },
+    {
+      "start": 2260.54,
+      "end": 2262.92,
+      "text": "meal the other night at the Tandor"
+    },
+    {
+      "start": 2262.92,
+      "end": 2264.2,
+      "text": "in Wolverhampton. Thank you."
+    },
+    {
+      "start": 2265.5,
+      "end": 2267.06,
+      "text": "Check you heard it in the beginning of that set"
+    },
+    {
+      "start": 2267.06,
+      "end": 2271.84,
+      "text": "was last of the new wave riders that of course was by utopia from the album adventures in utopia"
+    },
+    {
+      "start": 2271.84,
+      "end": 2277.87,
+      "text": "and that was for dave and gaz and zuni and steve and mally and sally and sarah and julie and jackie"
+    },
+    {
+      "start": 2277.87,
+      "end": 2283.01,
+      "text": "and helen and helen and linda and kath and ella and last but not least it says here my darling"
+    },
+    {
+      "start": 2283.01,
+      "end": 2297.49,
+      "text": "louise sigh written elegantly and in parentheses by ian jay nugent there's a new album out by yes"
+    },
+    {
+      "start": 2297.49,
+      "end": 2300.35,
+      "text": "it's live performances and it's called yes songs"
+    },
+    {
+      "start": 2300.35,
+      "end": 2870.33,
+      "text": "from whence those tracks doth come is not called yes songs at all it's called yes shows it's a"
+    },
+    {
+      "start": 2870.33,
+      "end": 2874.55,
+      "text": "double album it's just come out on the atlantic record label i was going to say table but it"
+    },
+    {
+      "start": 2874.55,
+      "end": 2878.39,
+      "text": "should really be label the tracks you heard they were going for the one and time and a word it must"
+    },
+    {
+      "start": 2878.39,
+      "end": 2883.73,
+      "text": "have been some sort of time warp that made me say it was yes songs yes shows is the album of course"
+    },
+    {
+      "start": 2883.73,
+      "end": 2889.19,
+      "text": "it's john anderson and yes as they used to be you heard going for the one and time and a word the"
+    },
+    {
+      "start": 2889.19,
+      "end": 2893.87,
+      "text": "time now on the friday rock show nine minutes to 11 and here's another one by sweet savage"
+    },
+    {
+      "start": 2893.87,
+      "end": 3488.62,
+      "text": "that's a track from an album that first came out in 1977 but it's just been reissued"
+    },
+    {
+      "start": 3488.62,
+      "end": 3491.3,
+      "text": "It's by Pace, Ashton and Lord"
+    },
+    {
+      "start": 3491.3,
+      "end": 3493.62,
+      "text": "And the track you heard there was called On The Road Again"
+    },
+    {
+      "start": 3493.62,
+      "end": 3495.28,
+      "text": "Before that something by Sweet Savage"
+    },
+    {
+      "start": 3495.28,
+      "end": 3496.7,
+      "text": "One of our session bands tonight"
+    },
+    {
+      "start": 3496.7,
+      "end": 3499.26,
+      "text": "The track you heard was called Queen's Vengeance"
+    },
+    {
+      "start": 3499.26,
+      "end": 3500.58,
+      "text": "That was for Adam Hall"
+    },
+    {
+      "start": 3500.58,
+      "end": 3502.1,
+      "text": "And also for Daz and Dave"
+    },
+    {
+      "start": 3502.1,
+      "end": 3503.54,
+      "text": "A couple of idiots from Bloxwich"
+    },
+    {
+      "start": 3503.54,
+      "end": 3504.44,
+      "text": "That's what they wrote"
+    },
+    {
+      "start": 3504.44,
+      "end": 3507.36,
+      "text": "And also for Carl Raus of Norwich"
+    },
+    {
+      "start": 3507.36,
+      "end": 3510.42,
+      "text": "And Gaz and Ash and Teresa and Tracy"
+    },
+    {
+      "start": 3510.42,
+      "end": 3512.56,
+      "text": "Who come from Great Bar in Birmingham"
+    },
+    {
+      "start": 3512.56,
+      "end": 3516.53,
+      "text": "One minute past eleven"
+    },
+    {
+      "start": 3516.53,
+      "end": 3517.89,
+      "text": "Time for the Friday Night Connection"
+    },
+    {
+      "start": 3517.89,
+      "end": 3519.71,
+      "text": "Now the tracks I played you last week were"
+    },
+    {
+      "start": 3519.71,
+      "end": 3522.83,
+      "text": "Ice Cream Man by Van Halen from the LP Van Halen,"
+    },
+    {
+      "start": 3523.33,
+      "end": 3526.15,
+      "text": "By Tour on the Snow Dog from the LP Rush Archives,"
+    },
+    {
+      "start": 3526.23,
+      "end": 3527.61,
+      "text": "at least that's the one we played it from,"
+    },
+    {
+      "start": 3528.09,
+      "end": 3530.57,
+      "text": "and Pick Up on My Mojo by Johnny Winter"
+    },
+    {
+      "start": 3530.57,
+      "end": 3532.99,
+      "text": "from the album John Dawson Winter III."
+    },
+    {
+      "start": 3533.71,
+      "end": 3535.97,
+      "text": "The answer, Ice Cream Man,"
+    },
+    {
+      "start": 3536.17,
+      "end": 3537.99,
+      "text": "By Tour on the Snow Dog,"
+    },
+    {
+      "start": 3538.49,
+      "end": 3539.77,
+      "text": "and Johnny Winter."
+    },
+    {
+      "start": 3542.15,
+      "end": 3543.91,
+      "text": "Virtually everybody got the answer right,"
+    },
+    {
+      "start": 3544.49,
+      "end": 3546.21,
+      "text": "but we picked out the letter from a gentleman"
+    },
+    {
+      "start": 3546.21,
+      "end": 3547.47,
+      "text": "by the name of John Huggins,"
+    },
+    {
+      "start": 3547.63,
+      "end": 3549.17,
+      "text": "who lives in Clifton in York."
+    },
+    {
+      "start": 3550.86,
+      "end": 3552.7,
+      "text": "John gets himself a £10 record token."
+    },
+    {
+      "start": 3552.86,
+      "end": 3553.38,
+      "text": "Well done, John."
+    },
+    {
+      "start": 3553.66,
+      "end": 3555.7,
+      "text": "Just in time for Christmas, though it might not..."
+    },
+    {
+      "start": 3555.7,
+      "end": 3557.58,
+      "text": "Will it arrive in time for Christmas?"
+    },
+    {
+      "start": 3557.92,
+      "end": 3560.66,
+      "text": "No, well, of course it won't arrive in time for Christmas,"
+    },
+    {
+      "start": 3560.76,
+      "end": 3562.3,
+      "text": "but the new year will be a happier one"
+    },
+    {
+      "start": 3562.3,
+      "end": 3563.72,
+      "text": "because you get yourself a £10 record token."
+    },
+    {
+      "start": 3564.68,
+      "end": 3568.12,
+      "text": "And John has put together a Friday night connection for us."
+    },
+    {
+      "start": 3568.52,
+      "end": 3571.58,
+      "text": "Three bits of music, including a great classic that comes up first."
+    },
+    {
+      "start": 3572.16,
+      "end": 3573.7,
+      "text": "See if you can suss it out,"
+    },
+    {
+      "start": 3573.7,
+      "end": 3577.98,
+      "text": "because inside this, there is a Friday night connection."
+    },
+    {
+      "start": 3577.98,
+      "end": 3633.32,
+      "text": "Dream of where your soul is always free"
+    },
+    {
+      "start": 3633.32,
+      "end": 3635.6,
+      "text": "Clover stages, golden curtains"
+    },
+    {
+      "start": 3635.6,
+      "end": 3638.08,
+      "text": "Filled by headlight as could be"
+    },
+    {
+      "start": 3638.08,
+      "end": 3641.08,
+      "text": "As a rainbow grew around the sun"
+    },
+    {
+      "start": 3641.08,
+      "end": 3642.88,
+      "text": "All my stars of love and I"
+    },
+    {
+      "start": 3642.88,
+      "end": 3645.36,
+      "text": "Came from somewhere beyond the sea"
+    },
+    {
+      "start": 3645.36,
+      "end": 3645.98,
+      "text": "And you see"
+    },
+    {
+      "start": 3645.98,
+      "end": 3649.74,
+      "text": "These lovely people played just for me"
+    },
+    {
+      "start": 3649.74,
+      "end": 3661.82,
+      "text": "So if I let you see this place"
+    },
+    {
+      "start": 3661.82,
+      "end": 3664.14,
+      "text": "Where stories are in truth"
+    },
+    {
+      "start": 3664.14,
+      "end": 3666.95,
+      "text": "Will you let me pass your face"
+    },
+    {
+      "start": 3666.95,
+      "end": 3669.86,
+      "text": "To see what's really you"
+    },
+    {
+      "start": 3669.86,
+      "end": 3673.6,
+      "text": "For me, I asked this question as though I were a king."
+    },
+    {
+      "start": 3674.28,
+      "end": 3681.16,
+      "text": "Boy, you have to love, believe, and feel before the burst of memories take you there."
+    },
+    {
+      "start": 3682.03,
+      "end": 3684.87,
+      "text": "Green grass and high clouds forever."
+    },
+    {
+      "start": 3686.98,
+      "end": 3689.9,
+      "text": "Castles of stone sold in glory."
+    },
+    {
+      "start": 3691.9,
+      "end": 3699.29,
+      "text": "Most places say we adore you as kings and queens bow in play for you."
+    },
+    {
+      "start": 3699.29,
+      "end": 4552.58,
+      "text": "The Friday Night Connection for this over-Christmas period."
+    },
+    {
+      "start": 4552.7,
+      "end": 4555.26,
+      "text": "I say that because next week there will be no Friday Night Connection."
+    },
+    {
+      "start": 4556.51,
+      "end": 4559.05,
+      "text": "It'll all occur again in a fortnight's time."
+    },
+    {
+      "start": 4559.19,
+      "end": 4559.47,
+      "text": "Why?"
+    },
+    {
+      "start": 4560.25,
+      "end": 4562.17,
+      "text": "Because next week on the Friday Rock Show,"
+    },
+    {
+      "start": 4562.25,
+      "end": 4565.79,
+      "text": "we're repeating the Genesis concert that was recorded at the Lyceum,"
+    },
+    {
+      "start": 4565.95,
+      "end": 4569.71,
+      "text": "the concert that we put out some months ago here on Radio 1."
+    },
+    {
+      "start": 4571.56,
+      "end": 4573.66,
+      "text": "So you've got the whole of the Christmas period to think about it."
+    },
+    {
+      "start": 4574.04,
+      "end": 4577.02,
+      "text": "Three pieces of music, somewhere intertwined therein,"
+    },
+    {
+      "start": 4577.08,
+      "end": 4577.84,
+      "text": "there is a connection."
+    },
+    {
+      "start": 4578.48,
+      "end": 4581.02,
+      "text": "If you think you know what it is, jot it down on a postcard,"
+    },
+    {
+      "start": 4581.02,
+      "end": 4589.84,
+      "text": "letter anything you like and send it to the friday night connection bbc radio one london w1a4ww"
+    },
+    {
+      "start": 4589.84,
+      "end": 4597.4,
+      "text": "and a fortnight to get it together it just reminds me about a letter that i've found here by"
+    },
+    {
+      "start": 4597.4,
+      "end": 4601.66,
+      "text": "written by rather nicky hyde who lives in burgess hill in west sussex hi nicky"
+    },
+    {
+      "start": 4601.66,
+      "end": 4606.0,
+      "text": "i think he's written before that you're gonna have a happy christmas and nicky wrote thus"
+    },
+    {
+      "start": 4606.0,
+      "end": 4612.02,
+      "text": "dearest tommy and tome pardon me but i got one tinsey winsey complaint about the show apart"
+    },
+    {
+      "start": 4612.02,
+      "end": 4613.52,
+      "text": "from the fact that it's not on long enough."
+    },
+    {
+      "start": 4614.08,
+      "end": 4616.96,
+      "text": "It's that you never say when it comes to the Friday Night Connection"
+    },
+    {
+      "start": 4616.96,
+      "end": 4619.52,
+      "text": "whether or not we have to state all of the played tracks"
+    },
+    {
+      "start": 4619.52,
+      "end": 4622.26,
+      "text": "or whether we should just state the connection."
+    },
+    {
+      "start": 4622.88,
+      "end": 4625.78,
+      "text": "Well, Nicky, the straight answer to that is all we need is just the connection."
+    },
+    {
+      "start": 4626.0,
+      "end": 4627.66,
+      "text": "But if you put together the tracks as well,"
+    },
+    {
+      "start": 4627.72,
+      "end": 4629.44,
+      "text": "it obviously makes the letter more attractive,"
+    },
+    {
+      "start": 4629.92,
+      "end": 4632.38,
+      "text": "so maybe it captures our attention just that little bit more."
+    },
+    {
+      "start": 4632.9,
+      "end": 4636.86,
+      "text": "But in real terms, the only thing you have to get together is the answer."
+    },
+    {
+      "start": 4637.38,
+      "end": 4639.78,
+      "text": "Oh, and of course, a Friday Night Connection of your own."
+    },
+    {
+      "start": 4639.78,
+      "end": 4640.38,
+      "text": "Good luck."
+    },
+    {
+      "start": 4640.38,
+      "end": 4653.22,
+      "text": "It's 11.20. Here's Sweet Savage in the eye of the storm."
+    },
+    {
+      "start": 5069.9,
+      "end": 5071.24,
+      "text": "461 Ocean Boulevard."
+    },
+    {
+      "start": 5087.09,
+      "end": 5090.79,
+      "text": "And at 11.27, the track you heard there was called Mainline Florida."
+    },
+    {
+      "start": 5091.07,
+      "end": 5094.03,
+      "text": "And I played that because Steve Webb, who lives in Stevenage in Hertfordshire,"
+    },
+    {
+      "start": 5094.11,
+      "end": 5097.71,
+      "text": "wrote us a really nice letter, and he gave us a darn good reason for playing the track."
+    },
+    {
+      "start": 5097.77,
+      "end": 5098.85,
+      "text": "And the reason goes thus."
+    },
+    {
+      "start": 5099.39,
+      "end": 5102.69,
+      "text": "He just says, I chose this track because it makes me happy."
+    },
+    {
+      "start": 5102.97,
+      "end": 5105.45,
+      "text": "A great, great reason for playing a good piece of music."
+    },
+    {
+      "start": 5105.95,
+      "end": 5107.83,
+      "text": "He wanted me to say hello to all his special friends."
+    },
+    {
+      "start": 5107.83,
+      "end": 5111.11,
+      "text": "I think it's at Barnwell School in the Lower Six."
+    },
+    {
+      "start": 5111.37,
+      "end": 5112.57,
+      "text": "Steve Webb, I hope you enjoyed that."
+    },
+    {
+      "start": 5113.01,
+      "end": 5114.53,
+      "text": "Before that, you heard Sweet Savage"
+    },
+    {
+      "start": 5114.53,
+      "end": 5117.19,
+      "text": "and a session track by them called Eye of the Storm."
+    },
+    {
+      "start": 5117.87,
+      "end": 5119.03,
+      "text": "Right, into the archives."
+    },
+    {
+      "start": 5119.35,
+      "end": 5121.17,
+      "text": "It was recorded in March 1970."
+    },
+    {
+      "start": 5121.87,
+      "end": 5124.49,
+      "text": "This set lasts just about 15 minutes and a bit,"
+    },
+    {
+      "start": 5124.83,
+      "end": 5126.37,
+      "text": "and it features David Bowie."
+    },
+    {
+      "start": 5127.15,
+      "end": 5246.06,
+      "text": "Chase on all the women are always late"
+    },
+    {
+      "start": 5246.06,
+      "end": 5847.24,
+      "text": "The village settles down"
+    },
+    {
+      "start": 5847.24,
+      "end": 5851.36,
+      "text": "Undetected by the stars"
+    },
+    {
+      "start": 5851.36,
+      "end": 5860.24,
+      "text": "And the hangman plays the mandolin before he goes to sleep"
+    },
+    {
+      "start": 5860.24,
+      "end": 5871.56,
+      "text": "And the last thing on his mind is the wild-eyed boy in prison"
+    },
+    {
+      "start": 5871.56,
+      "end": 5880.72,
+      "text": "Neath the covered wooden shaft falls the rope into its bag"
+    },
+    {
+      "start": 5880.72,
+      "end": 5889.97,
+      "text": "Blows his pipe of smoulders, blankets, smoke into the room"
+    },
+    {
+      "start": 5889.97,
+      "end": 5903.44,
+      "text": "As the night begins for one"
+    },
+    {
+      "start": 5903.44,
+      "end": 5922.78,
+      "text": "To solitary sun from a mountain"
+    },
+    {
+      "start": 5922.78,
+      "end": 5927.98,
+      "text": "Called free cloud where the evil dare not fly"
+    },
+    {
+      "start": 5927.98,
+      "end": 5943.12,
+      "text": "Gives no indication for the townsman to decide"
+    },
+    {
+      "start": 5943.12,
+      "end": 5951.54,
+      "text": "So the village dreadfully yawns"
+    },
+    {
+      "start": 5951.54,
+      "end": 5954.26,
+      "text": "Pronouncing gross diversion"
+    },
+    {
+      "start": 5954.26,
+      "end": 5957.05,
+      "text": "As the label for the dog"
+    },
+    {
+      "start": 5957.05,
+      "end": 5964.08,
+      "text": "Oh, it's the madness in his eyes"
+    },
+    {
+      "start": 5964.08,
+      "end": 5969.32,
+      "text": "As he breaks the night to cry"
+    },
+    {
+      "start": 5969.32,
+      "end": 5972.32,
+      "text": "It's really me"
+    },
+    {
+      "start": 5972.32,
+      "end": 5997.13,
+      "text": "It's so hard for us to really be"
+    },
+    {
+      "start": 5997.13,
+      "end": 6018.06,
+      "text": "Lose me to the world of real lives"
+    },
+    {
+      "start": 6018.06,
+      "end": 6021.38,
+      "text": "Where the snow would save the place"
+    },
+    {
+      "start": 6021.38,
+      "end": 6030.74,
+      "text": "To the world of village dreadful crime"
+    },
+    {
+      "start": 6030.74,
+      "end": 6034.3,
+      "text": "A salope began to rise"
+    },
+    {
+      "start": 6034.3,
+      "end": 6041.89,
+      "text": "For the smile stayed on the face of a green cloud"
+    },
+    {
+      "start": 6041.89,
+      "end": 6051.52,
+      "text": "A smash down from the mountain"
+    },
+    {
+      "start": 6051.52,
+      "end": 6055.56,
+      "text": "And the magic in the stare of the wild-eyed boy said"
+    },
+    {
+      "start": 6055.56,
+      "end": 6069.9,
+      "text": "It just felt like a flame caught hell"
+    },
+    {
+      "start": 6069.9,
+      "end": 6073.16,
+      "text": "And the tears on the face of the wise boy"
+    },
+    {
+      "start": 6073.16,
+      "end": 6077.37,
+      "text": "Trembling down to the rumbling ground"
+    },
+    {
+      "start": 6077.37,
+      "end": 6084.19,
+      "text": "And the missionary mystic cries"
+    },
+    {
+      "start": 6084.19,
+      "end": 6112.21,
+      "text": "And that was David Bowie, recorded in March 1970."
+    },
+    {
+      "start": 6112.49,
+      "end": 6114.47,
+      "text": "Our archive session tonight, you heard three tracks,"
+    },
+    {
+      "start": 6114.61,
+      "end": 6118.59,
+      "text": "Wild-Eyed Boy from Freecloud, Whip for the Circle, and Waitin' for the Man."
+    },
+    {
+      "start": 6119.5,
+      "end": 6120.78,
+      "text": "Produced by Bernie Andrews."
+    },
+    {
+      "start": 6121.04,
+      "end": 6122.06,
+      "text": "Hello, Bernie, happy Christmas."
+    },
+    {
+      "start": 6126.21,
+      "end": 6128.53,
+      "text": "Fifteen minutes and a bit before twelve o'clock it is,"
+    },
+    {
+      "start": 6128.53,
+      "end": 6131.29,
+      "text": "I want to say hello to the First Ramsey Venture Scout Unit,"
+    },
+    {
+      "start": 6131.47,
+      "end": 6134.77,
+      "text": "who are going to be doing a sponsored 24-hour headbang"
+    },
+    {
+      "start": 6134.77,
+      "end": 6137.53,
+      "text": "between Saturday the 20th and Sunday the 20th."
+    },
+    {
+      "start": 6137.83,
+      "end": 6139.71,
+      "text": "Don't flatten your craniums, lads."
+    },
+    {
+      "start": 6141.0,
+      "end": 6143.72,
+      "text": "Must wish a happy birthday to a gentleman by the name of Paul."
+    },
+    {
+      "start": 6143.96,
+      "end": 6145.22,
+      "text": "Happy birthday from Nicky."
+    },
+    {
+      "start": 6145.5,
+      "end": 6146.5,
+      "text": "And lots of love."
+    },
+    {
+      "start": 6147.16,
+      "end": 6148.66,
+      "text": "Maybe you ought to buy us some jelly beans."
+    },
+    {
+      "start": 6151.86,
+      "end": 6154.12,
+      "text": "Little card here from, I think it's Gavin Lindsay."
+    },
+    {
+      "start": 6154.94,
+      "end": 6158.52,
+      "text": "Wants me to play something for the fifth-year pupils at Eyemouth High School"
+    },
+    {
+      "start": 6158.52,
+      "end": 6161.82,
+      "text": "who are going to be playing a marathon five-a-side football game"
+    },
+    {
+      "start": 6161.82,
+      "end": 6163.9,
+      "text": "on the 19th, 20th and 21st."
+    },
+    {
+      "start": 6164.38,
+      "end": 6166.18,
+      "text": "That's a marathon and a half. Good luck."
+    },
+    {
+      "start": 6169.97,
+      "end": 6171.21,
+      "text": "Exactly a quarter to 12."
+    },
+    {
+      "start": 6171.83,
+      "end": 6173.31,
+      "text": "Sweet Savage, Killing Time."
+    },
+    {
+      "start": 6496.5,
+      "end": 6499.04,
+      "text": "Played especially for Adrian Worsfold."
+    },
+    {
+      "start": 6499.46,
+      "end": 6502.34,
+      "text": "25 Watson Street, Sutton on Hull, in Hull."
+    },
+    {
+      "start": 6504.06,
+      "end": 6508.96,
+      "text": "And before that, you heard the last of our four to light by the band from Belfast called Sweet Savage."
+    },
+    {
+      "start": 6509.38,
+      "end": 6510.7,
+      "text": "The track they played was Killing Time."
+    },
+    {
+      "start": 6511.46,
+      "end": 6514.82,
+      "text": "To tell you about Sweet Savage, well, they're made up of Vivian Campbell on guitar,"
+    },
+    {
+      "start": 6515.08,
+      "end": 6519.22,
+      "text": "Raymond Haller on the bass, David Bates on the drums, Trevor Fleming on the rhythm guitar,"
+    },
+    {
+      "start": 6519.22,
+      "end": 6523.12,
+      "text": "and incidentally, all listening entrepreneurs in the record industry,"
+    },
+    {
+      "start": 6523.12,
+      "end": 6530.07,
+      "text": "they have no recording deal at all my minister 12 quick motion for a few people here for everybody"
+    },
+    {
+      "start": 6530.07,
+      "end": 6533.25,
+      "text": "who used to go down to the sports club in wolverhampton on thursdays and saturdays hello"
+    },
+    {
+      "start": 6533.25,
+      "end": 6538.11,
+      "text": "happy christmas a request indeed here for two people who are getting engaged today or maybe"
+    },
+    {
+      "start": 6538.11,
+      "end": 6545.27,
+      "text": "even did pezza and pat god bless best wishes from john and stina met a gentleman by the by the name"
+    },
+    {
+      "start": 6545.27,
+      "end": 6549.43,
+      "text": "a gentleman rather by the name of my and also somebody called greg up in warsaw the other day"
+    },
+    {
+      "start": 6549.43,
+      "end": 6556.79,
+      "text": "watch out have to say hello to all the members of the hidesville including john my big brother"
+    },
+    {
+      "start": 6556.79,
+      "end": 6562.86,
+      "text": "lots of love from gail hello to jeff si ian and steve and also say thanks to robert plant"
+    },
+    {
+      "start": 6562.86,
+      "end": 6568.22,
+      "text": "who we met at wolverley on the 11th of december what a great guy thanks indeed he is looking"
+    },
+    {
+      "start": 6568.22,
+      "end": 6574.12,
+      "text": "forward to his solo album which i believe he's halfway to completing finally hello to nige and"
+    },
+    {
+      "start": 6574.12,
+      "end": 6581.06,
+      "text": "tim and greg and phil reasons to be cheerful part one ian durie is on radio one christmas eve"
+    },
+    {
+      "start": 6581.06,
+      "end": 6585.42,
+      "text": "Reasons to be Cheerful Part 2, Ian Dury's on BBC Two Television Christmas Eve."
+    },
+    {
+      "start": 6585.88,
+      "end": 6589.78,
+      "text": "Reasons to be Cheerful Part 3, it's a Christmas simulcast."
+    },
+    {
+      "start": 6590.24,
+      "end": 6595.66,
+      "text": "Radio One and BBC Two Television at 10pm Christmas Eve give you live from the Dominion Theatre, Ian Dury."
+    },
+    {
+      "start": 6595.74,
+      "end": 6598.62,
+      "text": "A bit of grin and bear, a bit of cum and sherry. You're welcome, we can spare it."
+    },
+    {
+      "start": 6599.18,
+      "end": 6600.3,
+      "text": "Wednesday's Christmas Eve."
+    },
+    {
+      "start": 6600.58,
+      "end": 6601.06,
+      "text": "In which?"
+    },
+    {
+      "start": 6603.61,
+      "end": 6609.69,
+      "text": "Even Santa would approve of you directing both your eyes and ears to the antics of a real one-off British character."
+    },
+    {
+      "start": 6610.29,
+      "end": 6613.89,
+      "text": "Don't miss the BBC Christmas simulcast at 10pm on Wednesday."
+    },
+    {
+      "start": 6614.43,
+      "end": 6617.79,
+      "text": "Radio 1 and Stereo VHF, plus BBC 2 Television,"
+    },
+    {
+      "start": 6618.23,
+      "end": 6620.03,
+      "text": "bring you live from the Dominion Theatre,"
+    },
+    {
+      "start": 6620.57,
+      "end": 6622.53,
+      "text": "Ian Dury and the Blockheads."
+    },
+    {
+      "start": 6625.33,
+      "end": 6627.75,
+      "text": "It'll be a Christmas cracker."
+    },
+    {
+      "start": 6631.93,
+      "end": 6634.63,
+      "text": "I must say that that is something that I'm really looking forward to seeing,"
+    },
+    {
+      "start": 6634.71,
+      "end": 6637.09,
+      "text": "because I think Ian Dury is absolutely magnificent."
+    },
+    {
+      "start": 6637.09,
+      "end": 6639.89,
+      "text": "He's a guy that knows how to captivate an audience."
+    },
+    {
+      "start": 6647.0,
+      "end": 6650.22,
+      "text": "I say, I say, I say, I wonder who this is."
+    },
+    {
+      "start": 6650.22,
+      "end": 6652.06,
+      "text": "Hello Tommy, this is Ian Gillan"
+    },
+    {
+      "start": 6652.06,
+      "end": 6654.34,
+      "text": "and on behalf of all the members of the Gillan Band"
+    },
+    {
+      "start": 6654.34,
+      "end": 6657.02,
+      "text": "I'd like to wish you and all the listeners to your wonderful show"
+    },
+    {
+      "start": 6657.02,
+      "end": 6659.58,
+      "text": "a very happy Christmas and a merry new year"
+    },
+    {
+      "start": 6659.58,
+      "end": 6661.14,
+      "text": "and vice versa"
+    },
+    {
+      "start": 6661.14,
+      "end": 6663.6,
+      "text": "and both at once and all together"
+    },
+    {
+      "start": 6663.6,
+      "end": 6666.62,
+      "text": "and thank you for all you've done for us over the last year"
+    },
+    {
+      "start": 6666.62,
+      "end": 6672.08,
+      "text": "and congratulations on being the number one disc jockey in the country"
+    },
+    {
+      "start": 6672.08,
+      "end": 6675.1,
+      "text": "and to honour the occasion we've decided to sing you a little song"
+    },
+    {
+      "start": 6675.1,
+      "end": 6680.69,
+      "text": "We wish you a merry Christmas"
+    },
+    {
+      "start": 6680.69,
+      "end": 6687.01,
+      "text": "we wish you a merry christmas we wish you a merry christmas and a happy new year"
+    },
+    {
+      "start": 6687.01,
+      "end": 6691.89,
+      "text": "we wish you a merry christmas we wish you a merry christmas we wish you a merry christmas"
+    },
+    {
+      "start": 6691.89,
+      "end": 6696.59,
+      "text": "and a happy new year we wish you a merry christmas we wish you a merry christmas we wish you a merry"
+    },
+    {
+      "start": 6696.59,
+      "end": 6700.47,
+      "text": "christmas and a happy new year we wish you a merry christmas we wish you a merry christmas"
+    },
+    {
+      "start": 6700.47,
+      "end": 6996.2,
+      "text": "we wish you a merry christmas and a happy new year thanks very much see ya deep purple from"
+    },
+    {
+      "start": 6996.2,
+      "end": 7000.68,
+      "text": "the double album called deep purple in concert and lucille before that gillan and friends"
+    },
+    {
+      "start": 7000.68,
+      "end": 7006.1,
+      "text": "thanks to our to tonight our technical operator norman on rock on saturday tomorrow between four"
+    },
+    {
+      "start": 7006.1,
+      "end": 7010.84,
+      "text": "o'clock and 7 30 the clash steve woundwood the police and after the fire and lighting concert"
+    },
+    {
+      "start": 7010.84,
+      "end": 7017.6,
+      "text": "next week we have a repeat of genesis as recorded at the lyceum here in london following the"
+    },
+    {
+      "start": 7017.6,
+      "end": 7022.8,
+      "text": "midnight or however many there are the 275 285 transmitters will be going off the etzel tomorrow"
+    },
+    {
+      "start": 7022.8,
+      "end": 7033.56,
+      "text": "morning and now tony wilson speaks have a good one's the unboxing day oh he's verbose isn't he"
+    },
+    {
+      "start": 7033.56,
+      "end": 7035.34,
+      "text": "You know, he's been studying all week or so."
+    },
+    {
+      "start": 7035.42,
+      "end": 7036.28,
+      "text": "You don't mean happy Christmas."
+    },
+    {
+      "start": 7036.56,
+      "end": 7037.2,
+      "text": "Something like that."
+    },
+    {
+      "start": 7037.28,
+      "end": 7038.16,
+      "text": "Happy Christmas, everybody!"
+    },
+    {
+      "start": 7038.16,
+      "end": 7038.8,
+      "text": "Merry Christmas, everybody!"
+    },
+    {
+      "start": 7040.92,
+      "end": 7042.69,
+      "text": "Hope you do have a good one."
+    },
+    {
+      "start": 7042.93,
+      "end": 7043.29,
+      "text": "Really."
+    },
+    {
+      "start": 7043.75,
+      "end": 7044.55,
+      "text": "Take care of yourselves."
+    },
+    {
+      "start": 7044.83,
+      "end": 7045.61,
+      "text": "Take care of your neighbours."
+    },
+    {
+      "start": 7046.45,
+      "end": 7047.39,
+      "text": "And enjoy your families."
+    },
+    {
+      "start": 7048.15,
+      "end": 7050.85,
+      "text": "And I hope 1981's going to be amazing for you."
+    },
+    {
+      "start": 7051.27,
+      "end": 7052.35,
+      "text": "I'm Tommy Vance in London."
+    },
+    {
+      "start": 7052.81,
+      "end": 7053.31,
+      "text": "God bless."
+    },
+    {
+      "start": 7066.29,
+      "end": 7070.03,
+      "text": "It's midnight, and we welcome VHF listeners who've now joined us on Radio 2."
+    },
+    {
+      "start": 7070.03,
+      "end": 7071.77,
+      "text": "This is Tim Garton in the Midnight Newsroom."
     }
   ]
 }

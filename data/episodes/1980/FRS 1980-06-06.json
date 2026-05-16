@@ -21,7 +21,8 @@
     {
       "artist": "Black Sabbath",
       "track": "Neon Knights",
-      "details": "LP-Heaven and Hell"
+      "details": "LP-Heaven and Hell",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Saxon",
@@ -31,27 +32,32 @@
     {
       "artist": "Pink Floyd",
       "track": "Comfortably Numb",
-      "details": "LP-The Wall"
+      "details": "LP-The Wall",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Roxy Music",
       "track": "My Only Love",
-      "details": "LP-Flesh + Blood"
+      "details": "LP-Flesh + Blood",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Taurus",
       "track": "Money Honey",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1383.79
     },
     {
       "artist": "Ted Nugent",
       "track": "Hard as Nails",
-      "details": "LP-Scream Dream"
+      "details": "LP-Scream Dream",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Rory Gallagher",
       "track": "'Tattoo'd Lady'",
-      "details": "Saturday Rock Show Session, 5 Dec 1973"
+      "details": "Saturday Rock Show Session, 5 Dec 1973",
+      "verified_timestamp": 1855.9
     },
     {
       "artist": "Rory Gallagher",
@@ -61,12 +67,14 @@
     {
       "artist": "White Spirit",
       "track": "Back to the Grind",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 3004.35
     },
     {
       "artist": "Def Leppard",
       "track": "Wasted",
-      "details": "LP-On Through the Night"
+      "details": "LP-On Through the Night",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Taurus",
@@ -76,12 +84,14 @@
     {
       "artist": "Dark Star",
       "track": "Lady of Mars",
-      "details": "LP-Metal for Muthas Volume II compilation"
+      "details": "LP-Metal for Muthas Volume II compilation",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.99
     },
     {
       "artist": "Taurus",
@@ -91,17 +101,20 @@
     {
       "artist": "Whitesnake",
       "track": "'Ready an' Willing'",
-      "details": "LP-Ready an' Willing"
+      "details": "LP-Ready an' Willing",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Steve Hillage",
       "track": "'It's All Too Much'",
-      "details": "LP-L"
+      "details": "LP-L",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Hawkwind",
       "track": "Wind of Change",
-      "details": "LP-Hall of the Mountain Grill"
+      "details": "LP-Hall of the Mountain Grill",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Rory Gallagher",
@@ -121,7 +134,1115 @@
     {
       "artist": "Aphrodite's Child",
       "track": "The Four Horsemen",
-      "details": "LP-666"
+      "details": "LP-666",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.93,
+      "end": 13.93,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 13.93,
+      "end": 30.04,
+      "text": "Oh hello there. TV on the radio here. Thomas the Vance. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 30.04,
+      "end": 37.52,
+      "text": "To delight your ears this beautiful summer night we have an archive session from 1973 by Rory Gallagher recorded back in the time when he had a pianist."
+    },
+    {
+      "start": 37.52,
+      "end": 43.52,
+      "text": "Also we have the first ever session by a band called Taurus who until Wednesday were called Jack Thighs."
+    },
+    {
+      "start": 43.52,
+      "end": 63.1,
+      "text": "We've got some new stuff by Roxy, Nugent, Whitesnake and Tees, and some classic cuts by Floyd, Leopard, Hawkwind, Hillage and Aphrodite's Child, among others."
+    },
+    {
+      "start": 63.99,
+      "end": 67.53,
+      "text": "Also tonight, of course, we have our Friday Night Connection, that titillation of the week."
+    },
+    {
+      "start": 67.89,
+      "end": 71.09,
+      "text": "Only three correct answers this week, so it looks like we nearly got you."
+    },
+    {
+      "start": 71.75,
+      "end": 73.75,
+      "text": "We start with Black Sabbath."
+    },
+    {
+      "start": 559.76,
+      "end": 567.64,
+      "text": "For Saxon, on their 12-inch version of 747, that being their current single, you'll find that on the B-side, but only on the 12-inch one."
+    },
+    {
+      "start": 567.64,
+      "end": 570.3,
+      "text": "It was, of course, the live version of Stallions of the Highway."
+    },
+    {
+      "start": 570.82,
+      "end": 573.14,
+      "text": "And I played that especially for Martin Dinoff from Manchester,"
+    },
+    {
+      "start": 573.38,
+      "end": 574.8,
+      "text": "from a lady by the name of Maggie,"
+    },
+    {
+      "start": 575.2,
+      "end": 578.22,
+      "text": "and her black dog, who live in Ilkley, West Yorkshire."
+    },
+    {
+      "start": 578.66,
+      "end": 582.83,
+      "text": "And before that, Black Sabbath, the Sabs,"
+    },
+    {
+      "start": 582.89,
+      "end": 584.01,
+      "text": "from their album Heaven and Hell."
+    },
+    {
+      "start": 584.13,
+      "end": 586.23,
+      "text": "The track was Neon Nights, played that for loads of people,"
+    },
+    {
+      "start": 586.89,
+      "end": 588.79,
+      "text": "particularly for Beans and Steve and Chris and Ollie"
+    },
+    {
+      "start": 588.79,
+      "end": 590.81,
+      "text": "and the two Debbies and Rich and Robin and Helen and David"
+    },
+    {
+      "start": 590.81,
+      "end": 593.41,
+      "text": "and the three Marks from Nicky of Burgess Hill in Sussex."
+    },
+    {
+      "start": 594.23,
+      "end": 596.13,
+      "text": "And also for Raj and Heaven and Texture"
+    },
+    {
+      "start": 596.13,
+      "end": 598.05,
+      "text": "and Daniel and Merian and Hugh"
+    },
+    {
+      "start": 598.05,
+      "end": 601.89,
+      "text": "from Andy Cudell, who lives in Flunferfecum."
+    },
+    {
+      "start": 602.75,
+      "end": 605.05,
+      "text": "Also for Kells and Pudds and Rats and Steve"
+    },
+    {
+      "start": 605.05,
+      "end": 607.45,
+      "text": "and all the heavy metal freaks down there in Plymouth."
+    },
+    {
+      "start": 607.83,
+      "end": 609.85,
+      "text": "And for Neil, Mike, Jerry, Down, Stan,"
+    },
+    {
+      "start": 609.99,
+      "end": 611.43,
+      "text": "oh, maybe that's Dom, actually, Steve,"
+    },
+    {
+      "start": 611.85,
+      "end": 613.79,
+      "text": "and Joe and Bill and Toby and Rich and Dickie and Tim"
+    },
+    {
+      "start": 613.79,
+      "end": 614.69,
+      "text": "and Bonzo and Clinton."
+    },
+    {
+      "start": 615.13,
+      "end": 617.63,
+      "text": "And also for Tom and Joey and Mike from Paddy Hall,"
+    },
+    {
+      "start": 617.75,
+      "end": 620.39,
+      "text": "would I please mention also Wombat and Towser,"
+    },
+    {
+      "start": 620.85,
+      "end": 622.83,
+      "text": "who do their utmost to make us sick."
+    },
+    {
+      "start": 625.1,
+      "end": 627.58,
+      "text": "Finally, it was for Helen Sims of Ray Street"
+    },
+    {
+      "start": 627.58,
+      "end": 629.44,
+      "text": "in Hena in Derbyshire."
+    },
+    {
+      "start": 629.52,
+      "end": 632.4,
+      "text": "from a gentleman by the name of Andy Valens."
+    },
+    {
+      "start": 636.11,
+      "end": 637.15,
+      "text": "Ten past ten."
+    },
+    {
+      "start": 1323.06,
+      "end": 1324.94,
+      "text": "And that's the number two album in the country at the moment."
+    },
+    {
+      "start": 1325.08,
+      "end": 1326.1,
+      "text": "That, of course, is Roxy Music."
+    },
+    {
+      "start": 1326.22,
+      "end": 1327.38,
+      "text": "And a track from Flesh and Blood."
+    },
+    {
+      "start": 1327.5,
+      "end": 1329.16,
+      "text": "The track was called My Only Love."
+    },
+    {
+      "start": 1334.45,
+      "end": 1336.73,
+      "text": "Especially for a gentleman by the name of Mitchell Hyatt,"
+    },
+    {
+      "start": 1336.87,
+      "end": 1338.59,
+      "text": "who I do believe, according to his letter,"
+    },
+    {
+      "start": 1338.73,
+      "end": 1339.89,
+      "text": "anyway, is at home tonight."
+    },
+    {
+      "start": 1340.57,
+      "end": 1341.93,
+      "text": "He wants me to say hello to a mate of his"
+    },
+    {
+      "start": 1341.93,
+      "end": 1344.37,
+      "text": "by the name of Clint Splane, I think it is."
+    },
+    {
+      "start": 1345.1,
+      "end": 1346.82,
+      "text": "And everybody who's got tickets for Kiss"
+    },
+    {
+      "start": 1346.82,
+      "end": 1348.88,
+      "text": "when they appear at Stafford later this year."
+    },
+    {
+      "start": 1350.06,
+      "end": 1351.5,
+      "text": "And before that, you heard the Floyd."
+    },
+    {
+      "start": 1351.5,
+      "end": 1357.56,
+      "text": "who else from the wall the track was comfortably numbed that was for jeremy martinson who lives"
+    },
+    {
+      "start": 1357.56,
+      "end": 1365.44,
+      "text": "down in uk and also for paul richards who's in morriston in swansea and the fonz of barry"
+    },
+    {
+      "start": 1365.44,
+      "end": 1374.13,
+      "text": "ingramorgan wanted me to play it for steve the swamp rat 32 and a half minutes after 10 o'clock"
+    },
+    {
+      "start": 1374.13,
+      "end": 1378.69,
+      "text": "and here's a sort of a bit of advanced information if you like do you remember that special that we"
+    },
+    {
+      "start": 1378.69,
+      "end": 1383.79,
+      "text": "did on the whole of the album the wall when it's going to be rebroadcast i think it's either the"
+    },
+    {
+      "start": 1383.79,
+      "end": 1815.58,
+      "text": "second or the third week in july and now here's the first of our session tracks by taurus from"
+    },
+    {
+      "start": 1815.58,
+      "end": 1820.02,
+      "text": "the motor city that's ted nugent and that's a track from his new album which is called scream"
+    },
+    {
+      "start": 1820.02,
+      "end": 1828.02,
+      "text": "dream the track rather was called hardest nails and before that you heard the first of four that"
+    },
+    {
+      "start": 1828.02,
+      "end": 1832.22,
+      "text": "we have tonight from a band who as of wednesday are now called taurus when we actually recorded"
+    },
+    {
+      "start": 1832.22,
+      "end": 1836.02,
+      "text": "them a couple of weeks ago they were known as jack thighs but the music remains the same and"
+    },
+    {
+      "start": 1836.02,
+      "end": 1836.72,
+      "text": "so does the personnel."
+    },
+    {
+      "start": 1837.38,
+      "end": 1838.42,
+      "text": "Terry Keegan on the vocals,"
+    },
+    {
+      "start": 1838.6,
+      "end": 1839.58,
+      "text": "Nigel Brown on the guitar,"
+    },
+    {
+      "start": 1839.8,
+      "end": 1840.64,
+      "text": "Terry Swain on guitar,"
+    },
+    {
+      "start": 1841.08,
+      "end": 1842.2,
+      "text": "Brian Tippy on the bass,"
+    },
+    {
+      "start": 1842.44,
+      "end": 1843.9,
+      "text": "and Hugh McGoran on the drums."
+    },
+    {
+      "start": 1851.79,
+      "end": 1852.67,
+      "text": "And now it's 10.30."
+    },
+    {
+      "start": 1854.34,
+      "end": 1855.9,
+      "text": "Now let's go back to 1973"
+    },
+    {
+      "start": 1855.9,
+      "end": 1858.46,
+      "text": "and dig out of the archive something by Rory Gallagher,"
+    },
+    {
+      "start": 1858.56,
+      "end": 1861.0,
+      "text": "back in the days when his band was himself, Mr. Gallagher,"
+    },
+    {
+      "start": 1861.42,
+      "end": 1862.44,
+      "text": "the man from Ballyshannon,"
+    },
+    {
+      "start": 1862.64,
+      "end": 1865.06,
+      "text": "and Rod Death and Lou Martin and Jerry McAvoy."
+    },
+    {
+      "start": 1865.56,
+      "end": 1866.2,
+      "text": "Couple of tracks."
+    },
+    {
+      "start": 1866.52,
+      "end": 1868.04,
+      "text": "The first one you're going to hear is Tattooed Lady,"
+    },
+    {
+      "start": 1868.04,
+      "end": 1869.48,
+      "text": "then it'll be Cradle Rock."
+    },
+    {
+      "start": 1869.48,
+      "end": 2467.35,
+      "text": "always keeps it simple and really really tight that's rory gallagher from the sounds of the"
+    },
+    {
+      "start": 2467.35,
+      "end": 2472.77,
+      "text": "70s session that was recorded in december 1973 how good advocate of blues and boogie that man"
+    },
+    {
+      "start": 2472.77,
+      "end": 2476.77,
+      "text": "and a couple of tracks he heard out of the archives there were cradle rock and tattooed"
+    },
+    {
+      "start": 2476.77,
+      "end": 2481.33,
+      "text": "lady and we played those because we've got reams of requests from various people who wanted us to"
+    },
+    {
+      "start": 2481.33,
+      "end": 2485.27,
+      "text": "dig mr gallagher out of the archives and particularly michael lynch who lives over"
+    },
+    {
+      "start": 2485.27,
+      "end": 2486.63,
+      "text": "they're in Larne in County Antrim."
+    },
+    {
+      "start": 2487.21,
+      "end": 2488.85,
+      "text": "And Mr John Hepburn,"
+    },
+    {
+      "start": 2489.01,
+      "end": 2490.89,
+      "text": "number 22, Hesleyside,"
+    },
+    {
+      "start": 2491.29,
+      "end": 2492.37,
+      "text": "Ashington in Northumberland,"
+    },
+    {
+      "start": 2492.91,
+      "end": 2494.19,
+      "text": "wanted me to play something like that"
+    },
+    {
+      "start": 2494.19,
+      "end": 2495.05,
+      "text": "for his wife, Brenda."
+    },
+    {
+      "start": 2495.29,
+      "end": 2495.67,
+      "text": "Hi, Brent."
+    },
+    {
+      "start": 2503.05,
+      "end": 2505.17,
+      "text": "Here's a single out of the alternative charts."
+    },
+    {
+      "start": 2960.73,
+      "end": 2961.41,
+      "text": "The Def Leppard,"
+    },
+    {
+      "start": 2961.69,
+      "end": 2962.69,
+      "text": "and a track from their album"
+    },
+    {
+      "start": 2962.69,
+      "end": 2963.49,
+      "text": "On Through the Night."
+    },
+    {
+      "start": 2963.57,
+      "end": 2964.75,
+      "text": "The track, of course, was wasted."
+    },
+    {
+      "start": 2965.09,
+      "end": 2966.45,
+      "text": "I played that because Nick,"
+    },
+    {
+      "start": 2966.81,
+      "end": 2968.95,
+      "text": "who goes to Clitheroe Grammar School,"
+    },
+    {
+      "start": 2968.95,
+      "end": 2971.31,
+      "text": "tells me that everybody in that school at the moment"
+    },
+    {
+      "start": 2971.31,
+      "end": 2973.17,
+      "text": "is going through hell."
+    },
+    {
+      "start": 2975.17,
+      "end": 2976.19,
+      "text": "Exam time's right."
+    },
+    {
+      "start": 2976.35,
+      "end": 2978.75,
+      "text": "He particularly wants me to mention Paul and Livy and Ina"
+    },
+    {
+      "start": 2978.75,
+      "end": 2981.33,
+      "text": "and all the other metal freaks,"
+    },
+    {
+      "start": 2981.59,
+      "end": 2984.21,
+      "text": "including John and Richard and Roger."
+    },
+    {
+      "start": 2985.1,
+      "end": 2986.94,
+      "text": "Good luck with your examinations."
+    },
+    {
+      "start": 2990.07,
+      "end": 2991.55,
+      "text": "10 minutes to 11 on the Friday Rock Show."
+    },
+    {
+      "start": 2991.71,
+      "end": 2994.35,
+      "text": "If you'd like a request on this program, it's very simple."
+    },
+    {
+      "start": 2994.51,
+      "end": 2996.39,
+      "text": "All you have to do is communicate your wishes to me."
+    },
+    {
+      "start": 2996.39,
+      "end": 2998.45,
+      "text": "I'm Tommy Vance, and our address goes like this."
+    },
+    {
+      "start": 2999.09,
+      "end": 3001.31,
+      "text": "The Friday Rock Show, BBC Radio 1,"
+    },
+    {
+      "start": 3001.31,
+      "end": 3004.35,
+      "text": "London W1A4WW"
+    },
+    {
+      "start": 3004.35,
+      "end": 3009.3,
+      "text": "back now"
+    },
+    {
+      "start": 3009.3,
+      "end": 3010.06,
+      "text": "to Taurus"
+    },
+    {
+      "start": 3010.06,
+      "end": 3508.17,
+      "text": "Metal for Mothers Volume 2 and Lady of Mars"
+    },
+    {
+      "start": 3508.17,
+      "end": 3511.09,
+      "text": "before that something by Taurus"
+    },
+    {
+      "start": 3511.09,
+      "end": 3513.21,
+      "text": "our session band tonight the track that you heard was called"
+    },
+    {
+      "start": 3513.21,
+      "end": 3515.05,
+      "text": "Shy Girl and actually you can see them"
+    },
+    {
+      "start": 3515.05,
+      "end": 3516.81,
+      "text": "tomorrow night if you go to see them at the"
+    },
+    {
+      "start": 3516.81,
+      "end": 3518.83,
+      "text": "Redford Porterhouse"
+    },
+    {
+      "start": 3518.83,
+      "end": 3521.19,
+      "text": "that's the name of the place Redford Porterhouse in Nottinghamshire"
+    },
+    {
+      "start": 3521.19,
+      "end": 3523.15,
+      "text": "they're actually supporting Budgie"
+    },
+    {
+      "start": 3523.15,
+      "end": 3524.85,
+      "text": "so if you want to see Taurus tomorrow night"
+    },
+    {
+      "start": 3524.85,
+      "end": 3526.43,
+      "text": "you can do at that location"
+    },
+    {
+      "start": 3526.43,
+      "end": 3530.03,
+      "text": "sorry I omitted to tell you what"
+    },
+    {
+      "start": 3530.03,
+      "end": 3535.31,
+      "text": "that single once in the alternative charts it's actually on the meat record label and it's by"
+    },
+    {
+      "start": 3535.31,
+      "end": 3548.5,
+      "text": "white spirit and it's called back to the grind minute now before 11 on the funny rock show and"
+    },
+    {
+      "start": 3548.5,
+      "end": 3551.64,
+      "text": "it's time for the friday night connection the tracks we played you last week were these"
+    },
+    {
+      "start": 3551.64,
+      "end": 3557.64,
+      "text": "royal orleans by led zeppelin from the album presence something in the air by thunderclap"
+    },
+    {
+      "start": 3557.64,
+      "end": 3564.76,
+      "text": "newman from the lp backtrack 2 that appears of course on many lps and the third cut was cloud"
+    },
+    {
+      "start": 3564.76,
+      "end": 3577.37,
+      "text": "cloudburst flight from tangerine dream and the album force majeure well up until this morning"
+    },
+    {
+      "start": 3577.37,
+      "end": 3581.93,
+      "text": "mr wilson and i were panicking because we didn't have one correct answer that came through the bbc"
+    },
+    {
+      "start": 3581.93,
+      "end": 3587.11,
+      "text": "mailbox but today three did a lot of people thought of course it was something to do with"
+    },
+    {
+      "start": 3587.11,
+      "end": 3593.37,
+      "text": "the air or thunderstorms or cloudbursts or things like that but in actual fact this was the answer"
+    },
+    {
+      "start": 3593.37,
+      "end": 3600.76,
+      "text": "to last week's friday night connection first royal from royal orleans then something in the"
+    },
+    {
+      "start": 3600.76,
+      "end": 3612.26,
+      "text": "Air, making Royal Air, and then from Tangerine Dream's album Force Majeure, or Majeure, if you like, which makes Royal Air Force."
+    },
+    {
+      "start": 3612.96,
+      "end": 3613.28,
+      "text": "Got it?"
+    },
+    {
+      "start": 3613.86,
+      "end": 3620.14,
+      "text": "The person who did get it, as far as we're concerned, and gets the £10 record token as well, is Gary Booth."
+    },
+    {
+      "start": 3620.7,
+      "end": 3624.14,
+      "text": "He lives at No. 3 Galena Drive in Porchester Lodge in Nottingham."
+    },
+    {
+      "start": 3624.97,
+      "end": 3630.07,
+      "text": "Well done, Gary. One of only three people in the country who got it right, or at least of the letters that we've received to date."
+    },
+    {
+      "start": 3630.07,
+      "end": 3631.89,
+      "text": "knowing what the post office is doing these days"
+    },
+    {
+      "start": 3631.89,
+      "end": 3633.77,
+      "text": "you get yourself a £10 record token"
+    },
+    {
+      "start": 3633.77,
+      "end": 3636.07,
+      "text": "congratulations, and of course as always"
+    },
+    {
+      "start": 3636.07,
+      "end": 3637.87,
+      "text": "you put together your own Friday night connection"
+    },
+    {
+      "start": 3637.87,
+      "end": 3640.01,
+      "text": "three bits of music, and there is"
+    },
+    {
+      "start": 3640.01,
+      "end": 3641.47,
+      "text": "in them, a theme"
+    },
+    {
+      "start": 3641.47,
+      "end": 3645.29,
+      "text": "Oh mama, I'm in"
+    },
+    {
+      "start": 3645.29,
+      "end": 3646.97,
+      "text": "fear for my life"
+    },
+    {
+      "start": 3646.97,
+      "end": 3649.29,
+      "text": "from the long arm"
+    },
+    {
+      "start": 3649.29,
+      "end": 3651.33,
+      "text": "of the law"
+    },
+    {
+      "start": 3651.33,
+      "end": 3654.84,
+      "text": "Lawmen"
+    },
+    {
+      "start": 3654.84,
+      "end": 3656.38,
+      "text": "is putting in"
+    },
+    {
+      "start": 3656.38,
+      "end": 3658.92,
+      "text": "to my running and I'm so"
+    },
+    {
+      "start": 3658.92,
+      "end": 3660.74,
+      "text": "far from my"
+    },
+    {
+      "start": 3660.74,
+      "end": 3661.82,
+      "text": "home"
+    },
+    {
+      "start": 3661.82,
+      "end": 3678.46,
+      "text": "oh mama i can hear you crying you're so scared and all alone and it's coming down from the gallows"
+    },
+    {
+      "start": 3678.46,
+      "end": 4374.08,
+      "text": "and i don't have very long bring you down forever but you rode upon a steamer to the violence of the"
+    },
+    {
+      "start": 4374.08,
+      "end": 4447.16,
+      "text": "sun run laughing through your fingers and you want to take her with you to the hard land of the"
+    },
+    {
+      "start": 4447.16,
+      "end": 4487.92,
+      "text": "winter cool fishes run laughing through your fingers and you want to take her with you to"
+    },
+    {
+      "start": 4487.92,
+      "end": 4530.36,
+      "text": "the hard land of the winter and that was tonight's friday night connection put together by gary booth"
+    },
+    {
+      "start": 4530.36,
+      "end": 4538.18,
+      "text": "at porchester lodge in nottingham a nice one as well gary within those three bits of music there"
+    },
+    {
+      "start": 4538.18,
+      "end": 4541.98,
+      "text": "is a theme or if you like a connection it could be in the name of the group the name of the album"
+    },
+    {
+      "start": 4541.98,
+      "end": 4545.94,
+      "text": "the name of the record company the name of the producer could be anywhere but it's definitely"
+    },
+    {
+      "start": 4545.94,
+      "end": 4551.29,
+      "text": "there not as difficult as last week's if you think you know what it is jot it down on the"
+    },
+    {
+      "start": 4551.29,
+      "end": 4556.84,
+      "text": "postcard a letter any form of communication you like and send it to the friday night connection"
+    },
+    {
+      "start": 4556.84,
+      "end": 4566.14,
+      "text": "the friday rock show bbc radio one london w1a4ww don't forget to put together your own friday night"
+    },
+    {
+      "start": 4566.14,
+      "end": 5152.7,
+      "text": "connection as well you might get the 10 pound record token radio one stereo that's what"
+    },
+    {
+      "start": 5152.7,
+      "end": 5154.54,
+      "text": "everybody's looking for. Believe me, there isn't a"
+    },
+    {
+      "start": 5154.54,
+      "end": 5156.56,
+      "text": "duff track on that album, and that's probably why it's gone"
+    },
+    {
+      "start": 5156.56,
+      "end": 5158.66,
+      "text": "straight in at number nine on the album charts."
+    },
+    {
+      "start": 5158.76,
+      "end": 5160.22,
+      "text": "That's the new album by Whitesnake."
+    },
+    {
+      "start": 5160.64,
+      "end": 5162.66,
+      "text": "An album called Ready and Willin', and that was"
+    },
+    {
+      "start": 5162.66,
+      "end": 5164.72,
+      "text": "the lead track from the album. They're currently on tour"
+    },
+    {
+      "start": 5164.72,
+      "end": 5166.72,
+      "text": "with G-Force, and that's a double"
+    },
+    {
+      "start": 5166.72,
+      "end": 5168.76,
+      "text": "bill, I think, not to be missed. Two really"
+    },
+    {
+      "start": 5168.76,
+      "end": 5170.76,
+      "text": "superb bands together on stage in one night."
+    },
+    {
+      "start": 5171.22,
+      "end": 5172.6,
+      "text": "And before that, a monster track,"
+    },
+    {
+      "start": 5172.6,
+      "end": 5174.78,
+      "text": "I think, six minutes and twenty seconds"
+    },
+    {
+      "start": 5174.78,
+      "end": 5176.6,
+      "text": "long, from Terry Keegan and"
+    },
+    {
+      "start": 5176.6,
+      "end": 5178.76,
+      "text": "Nigel Brown, Terry Swain, Brian Tippy,"
+    },
+    {
+      "start": 5179.1,
+      "end": 5180.34,
+      "text": "and Hugh McGurran,"
+    },
+    {
+      "start": 5181.0,
+      "end": 5182.62,
+      "text": "who are now called Taurus. Don't"
+    },
+    {
+      "start": 5182.62,
+      "end": 5190.98,
+      "text": "miss them tomorrow night at retford porterhouse they sound like a really ace band it's 11 26 and"
+    },
+    {
+      "start": 5190.98,
+      "end": 5807.09,
+      "text": "here's something soothing great track i haven't heard that for ages and ages and ages came out"
+    },
+    {
+      "start": 5807.09,
+      "end": 5812.15,
+      "text": "way back in 1974 that was hawkwind from their album in the hall of the mountain grill"
+    },
+    {
+      "start": 5812.15,
+      "end": 5819.78,
+      "text": "many times the track was winder change that was for all the poor persons doing or maybe who've"
+    },
+    {
+      "start": 5819.78,
+      "end": 5823.58,
+      "text": "done exams at the moment like the man who wrote this letter, John Gaunt of Beckenham, who wants"
+    },
+    {
+      "start": 5823.58,
+      "end": 5827.9,
+      "text": "me to say hi to the two Andes, to Richard de Crippen, who he puts in parenthesis here as a"
+    },
+    {
+      "start": 5827.9,
+      "end": 5839.5,
+      "text": "doctor, and another Andy. Oh, and Aragon, son of Arathorn, king of Gondor, and Woodstock, sometimes"
+    },
+    {
+      "start": 5839.5,
+      "end": 5847.6,
+      "text": "known as Andre, and Rob are also in the Hawkwood. Prior to that, something from Elle by Steve"
+    },
+    {
+      "start": 5847.6,
+      "end": 5852.16,
+      "text": "Hillage. The track was It's All Too Much, and that was specially for Paul Bailey, who's having"
+    },
+    {
+      "start": 5852.16,
+      "end": 5857.38,
+      "text": "your birthday when is it on the 8th of june on sunday with lots and lots of best wishes from zoe"
+    },
+    {
+      "start": 5857.38,
+      "end": 5867.68,
+      "text": "and sean hoggs in boscombe in bournemouth 22 minutes now before midnight back into the archives"
+    },
+    {
+      "start": 5867.68,
+      "end": 6343.26,
+      "text": "and more rory gallagher back in 1973 out of the bbc archives that was rory gallagher and a track"
+    },
+    {
+      "start": 6343.26,
+      "end": 6348.92,
+      "text": "called a million miles away and the lineup during that recording was rory himself rod the ass lou"
+    },
+    {
+      "start": 6348.92,
+      "end": 6353.32,
+      "text": "martin an american who plays keyboards was with him a guy that i believe used to be in a band"
+    },
+    {
+      "start": 6353.32,
+      "end": 6359.26,
+      "text": "called killing for at one time and jerry mcavoy as well strange to hear rory gallagher actually"
+    },
+    {
+      "start": 6359.26,
+      "end": 6364.82,
+      "text": "with a keyboard player but really tasty if there's anything that you'd like us to dig out"
+    },
+    {
+      "start": 6364.82,
+      "end": 6369.34,
+      "text": "of the archives excluding may i say black sabbath because nothing exists by them whatsoever"
+    },
+    {
+      "start": 6369.34,
+      "end": 6378.17,
+      "text": "write to me and let me know care of the fighty rock show bbc radio one london w1a4ww and myself"
+    },
+    {
+      "start": 6378.17,
+      "end": 6380.23,
+      "text": "For Mr. Wilson, we'll do our very best."
+    },
+    {
+      "start": 6390.72,
+      "end": 6392.98,
+      "text": "14 to Midnight, and our final one by Taurus."
+    },
+    {
+      "start": 6393.3,
+      "end": 6799.68,
+      "text": "You are a four-piece band who come from Canada."
+    },
+    {
+      "start": 6799.88,
+      "end": 6801.6,
+      "text": "You can get that album on import."
+    },
+    {
+      "start": 6801.7,
+      "end": 6803.64,
+      "text": "The album is called One Night Stands,"
+    },
+    {
+      "start": 6803.72,
+      "end": 6805.68,
+      "text": "and the track was red-hot and ready for love."
+    },
+    {
+      "start": 6806.15,
+      "end": 6808.81,
+      "text": "And it was brought to our attention by a gentleman by the name of Mark Davis"
+    },
+    {
+      "start": 6808.81,
+      "end": 6813.53,
+      "text": "of Windrush, 48 Caswell Road, Mumbles, Swansea in Wales."
+    },
+    {
+      "start": 6813.69,
+      "end": 6815.01,
+      "text": "Mark, thank you very much."
+    },
+    {
+      "start": 6815.01,
+      "end": 6818.97,
+      "text": "I'm going to close tonight with something that I used to play like mad years ago"
+    },
+    {
+      "start": 6818.97,
+      "end": 6822.49,
+      "text": "on my old gramophone home when I could wind the spring up."
+    },
+    {
+      "start": 6822.83,
+      "end": 6827.11,
+      "text": "It's a real classic cut, in my ears anyway, by Aphrodite's Child."
+    },
+    {
+      "start": 6827.69,
+      "end": 7160.93,
+      "text": "From 666 and the Four Horsemen."
+    },
+    {
+      "start": 7161.15,
+      "end": 7164.24,
+      "text": "That's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7164.36,
+      "end": 7170.01,
+      "text": "Many thanks to Taurus, whom you can see tomorrow night in the Redford Porterhouse in Nottinghamshire."
+    },
+    {
+      "start": 7170.23,
+      "end": 7173.63,
+      "text": "And the only other gig I know that they're doing is August 1st in Middlesbrough."
+    },
+    {
+      "start": 7175.86,
+      "end": 7177.6,
+      "text": "Many thanks indeed to our engineer tonight."
+    },
+    {
+      "start": 7177.88,
+      "end": 7180.6,
+      "text": "His name is Paul, and he was right on the button."
+    },
+    {
+      "start": 7181.76,
+      "end": 7184.0,
+      "text": "Steve Wilson can't talk to you tonight because he's not in the studio."
+    },
+    {
+      "start": 7184.0,
+      "end": 7186.12,
+      "text": "who's gone to a party which is to commemorate"
+    },
+    {
+      "start": 7186.12,
+      "end": 7188.08,
+      "text": "the 10th wedding anniversary of two really nice"
+    },
+    {
+      "start": 7188.08,
+      "end": 7190.08,
+      "text": "people. That's Chris and Anne."
+    },
+    {
+      "start": 7190.24,
+      "end": 7191.98,
+      "text": "From all of us at Radio 1, 2, 3"
+    },
+    {
+      "start": 7191.98,
+      "end": 7194.14,
+      "text": "and 4, Chris and Anne, happy anniversary."
+    },
+    {
+      "start": 7195.91,
+      "end": 7196.61,
+      "text": "After the pips,"
+    },
+    {
+      "start": 7197.11,
+      "end": 7198.73,
+      "text": "you might think it's a bit corny, but"
+    },
+    {
+      "start": 7198.73,
+      "end": 7200.25,
+      "text": "I'm going to feel a little proud."
+    },
+    {
+      "start": 7200.73,
+      "end": 7202.21,
+      "text": "I'll see you tomorrow for Rock on Saturday."
+    },
+    {
+      "start": 7202.55,
+      "end": 7204.57,
+      "text": "Until then, God bless and good night."
     }
   ]
 }

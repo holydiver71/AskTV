@@ -21,22 +21,26 @@
     {
       "artist": "Cheap Trick",
       "track": "Clock Strikes Ten",
-      "details": "LP-Cheap Trick at Budokan"
+      "details": "LP-Cheap Trick at Budokan",
+      "verified_timestamp": 606.02
     },
     {
       "artist": "G-Force",
       "track": "White Knuckles/Rockin’ and Rollin’",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 594.27
     },
     {
       "artist": "Motörhead",
       "track": "Live to Win",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "The Who",
       "track": "Won’t Get Fooled Again",
-      "details": "LP-Who’s Next"
+      "details": "LP-Who’s Next",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Girlschool",
@@ -46,7 +50,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "She Knows",
-      "details": "Archive Session"
+      "details": "Archive Session",
+      "verified_timestamp": 1944.17
     },
     {
       "artist": "Tangerine Dream",
@@ -56,7 +61,8 @@
     {
       "artist": "David Gilmour",
       "track": "Short and Sweet",
-      "details": "LP-David Gilmour"
+      "details": "LP-David Gilmour",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Thin Lizzy",
@@ -66,37 +72,44 @@
     {
       "artist": "Motörhead",
       "track": "Fire, Fire",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.08
     },
     {
       "artist": "Hellanbach",
       "track": "Out to Get You",
-      "details": "single-Out to Get You EP"
+      "details": "single-Out to Get You EP",
+      "verified_timestamp": 4923.49
     },
     {
       "artist": "Gillan",
       "track": "If You Believe Me",
-      "details": "LP-Metal Explosion compilation"
+      "details": "LP-Metal Explosion compilation",
+      "verified_timestamp": 4876.99
     },
     {
       "artist": "Motörhead",
       "track": "Ace of Spades",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Queen",
       "track": "Ogre Battle",
-      "details": "LP-Queen II"
+      "details": "LP-Queen II",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Black Sabbath",
       "track": "Die Young",
-      "details": "LP-Heaven and Hell"
+      "details": "LP-Heaven and Hell",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Thin Lizzy",
@@ -106,17 +119,1041 @@
     {
       "artist": "Motörhead",
       "track": "Dance",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Tom Petty & The Heartbreakers",
       "track": "Strangered in the Night",
-      "details": "LP-Tom Petty & The Heartbreakers"
+      "details": "LP-Tom Petty & The Heartbreakers",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": null,
       "track": "tape ends",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 4.85,
+      "end": 15.11,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 15.11,
+      "end": 17.11,
+      "text": "I didn't shoot him."
+    },
+    {
+      "start": 17.11,
+      "end": 30.06,
+      "text": "Well, hello there. This is TV on the Radio. Thomas the Vance here. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 30.06,
+      "end": 36.06,
+      "text": "And this Friday PM, we've got a few gems for you. You're gonna hear four numbers by that subtle little trio called Motörhead."
+    },
+    {
+      "start": 36.06,
+      "end": 43.06,
+      "text": "And out of the archives circa 1974, a session by that ace band called Thin Lizzy."
+    },
+    {
+      "start": 43.06,
+      "end": 61.06,
+      "text": "And we've got some classic cuts by The Who, by The Tangs, by Dave Gilmour, by Queen, Tom Petty, Jimi Hendrix, among others."
+    },
+    {
+      "start": 62.36,
+      "end": 65.84,
+      "text": "And some new stuff from G-Force, Girl School, Hell and Back, and Black Sabbath."
+    },
+    {
+      "start": 66.08,
+      "end": 70.46,
+      "text": "Not forgetting our Friday Night Connection, the answer to the one we said a fortnight ago, and a brand new one."
+    },
+    {
+      "start": 71.26,
+      "end": 73.52,
+      "text": "But this evening, we start with this."
+    },
+    {
+      "start": 74.72,
+      "end": 594.21,
+      "text": "But they left a tasty little legacy of music, that band, by the name of G-Force."
+    },
+    {
+      "start": 594.27,
+      "end": 598.41,
+      "text": "And a track that's just been listed as a single is called White Knuckles and Rockin' and Rollin'."
+    },
+    {
+      "start": 599.58,
+      "end": 602.02,
+      "text": "And before that, you heard something from the live album"
+    },
+    {
+      "start": 602.02,
+      "end": 603.76,
+      "text": "recorded at the Budokan by Cheap Trick."
+    },
+    {
+      "start": 603.9,
+      "end": 605.88,
+      "text": "10,000 copies went out in kamikaze yellow."
+    },
+    {
+      "start": 606.02,
+      "end": 607.46,
+      "text": "The track was Clock Strikes Ten."
+    },
+    {
+      "start": 610.6,
+      "end": 612.74,
+      "text": "Played the Cheap Trick track for a judge."
+    },
+    {
+      "start": 612.82,
+      "end": 616.2,
+      "text": "I say that Cheap Trick track for mean Mr. Robert Mustard"
+    },
+    {
+      "start": 616.2,
+      "end": 618.52,
+      "text": "who lives at No. 8 Meadow Road in Wokingham"
+    },
+    {
+      "start": 618.52,
+      "end": 620.88,
+      "text": "and all his good mates by the name of Martin and Pete,"
+    },
+    {
+      "start": 621.3,
+      "end": 623.0,
+      "text": "Matt and Rob and Dennis and Tim and Dribble."
+    },
+    {
+      "start": 623.0,
+      "end": 625.86,
+      "text": "Does he really? Rex, Robert and Howard."
+    },
+    {
+      "start": 626.94,
+      "end": 629.84,
+      "text": "And everybody else who attends the Forest School, I think it is,"
+    },
+    {
+      "start": 629.9,
+      "end": 631.26,
+      "text": "the fifth form they're on."
+    },
+    {
+      "start": 631.48,
+      "end": 639.98,
+      "text": "Also for Graham and Gareth and also Neil who I met at a gig at the Music Machine which we did a couple of weeks ago."
+    },
+    {
+      "start": 639.98,
+      "end": 644.98,
+      "text": "And finally for everybody in E2 and Stosh and Roger."
+    },
+    {
+      "start": 644.98,
+      "end": 649.58,
+      "text": "Here's the first of four by Motorhead."
+    },
+    {
+      "start": 649.58,
+      "end": 1378.97,
+      "text": "Talking to somebody this afternoon who's heard the rough mixes of the brand new Who album and the consideration that they gave to it was that it was excelente."
+    },
+    {
+      "start": 1378.97,
+      "end": 1384.13,
+      "text": "we call it back in 1971 from the album who's next won't get fooled again and"
+    },
+    {
+      "start": 1384.13,
+      "end": 1387.79,
+      "text": "that was specially for Stuart Bartels and also John Lomax who live in Tonbridge"
+    },
+    {
+      "start": 1387.79,
+      "end": 1391.73,
+      "text": "in Kent with lots and lots of love from the lady who does a magnificent pork in"
+    },
+    {
+      "start": 1391.73,
+      "end": 1398.36,
+      "text": "wine I'm told her name is Colleen also that track by the who was for somebody"
+    },
+    {
+      "start": 1398.36,
+      "end": 1402.0,
+      "text": "by the name of Ian who lives in Holbrook in Derbyshire who wants me to say hi to"
+    },
+    {
+      "start": 1402.0,
+      "end": 1406.02,
+      "text": "Sally Gilman who's attending Bath University who celebrated the"
+    },
+    {
+      "start": 1406.02,
+      "end": 1408.18,
+      "text": "Anniversary of her birth a few weeks ago, I'm told."
+    },
+    {
+      "start": 1408.7,
+      "end": 1410.38,
+      "text": "Happy birthday for a few weeks ago, Sally."
+    },
+    {
+      "start": 1411.0,
+      "end": 1413.75,
+      "text": "And prior to that, you heard the first of four by Motorhead."
+    },
+    {
+      "start": 1413.91,
+      "end": 1415.15,
+      "text": "That subtle little trio."
+    },
+    {
+      "start": 1415.29,
+      "end": 1416.37,
+      "text": "The track was called Live to Win."
+    },
+    {
+      "start": 1416.95,
+      "end": 1418.73,
+      "text": "And that was for a lady by the name of Jackie,"
+    },
+    {
+      "start": 1419.05,
+      "end": 1421.85,
+      "text": "who lives at number 46 Church Street in Ainsworth."
+    },
+    {
+      "start": 1422.23,
+      "end": 1423.93,
+      "text": "She wants me to say hello to a gentleman by the name..."
+    },
+    {
+      "start": 1423.93,
+      "end": 1425.09,
+      "text": "I think he's a gentleman anyway."
+    },
+    {
+      "start": 1425.37,
+      "end": 1426.51,
+      "text": "His name is Mark Besick."
+    },
+    {
+      "start": 1426.99,
+      "end": 1429.51,
+      "text": "Now, Mark lives at number 35 Newquay Avenue in Ainsworth."
+    },
+    {
+      "start": 1429.61,
+      "end": 1430.55,
+      "text": "It's his birthday tomorrow."
+    },
+    {
+      "start": 1430.75,
+      "end": 1431.71,
+      "text": "Happy birthday to you."
+    },
+    {
+      "start": 1432.33,
+      "end": 1433.91,
+      "text": "Jackie, nip round there and give him a kiss."
+    },
+    {
+      "start": 1433.91,
+      "end": 1944.17,
+      "text": "romantic little program ain't it this is girl school so the latter day or the first transmission"
+    },
+    {
+      "start": 1944.17,
+      "end": 1948.93,
+      "text": "let me put it that way was on thursday the 24th of october way back in 1974 that was thin lizzy"
+    },
+    {
+      "start": 1948.93,
+      "end": 1953.97,
+      "text": "out of the archives bill linard on the bass and vocals brian robertson on the guitar scott gorham"
+    },
+    {
+      "start": 1953.97,
+      "end": 1958.75,
+      "text": "on the guitar as well and brian downey on the drums and the track was called she knows a track"
+    },
+    {
+      "start": 1958.75,
+      "end": 1963.73,
+      "text": "that was on the album called nightlife and that was the first of four by them prior to that you"
+    },
+    {
+      "start": 1963.73,
+      "end": 1968.09,
+      "text": "heard the new single by girl school which on first hearing is not that strong but when you've"
+    },
+    {
+      "start": 1968.09,
+      "end": 1973.21,
+      "text": "it about three times we realize just how well it's constructed their new single is out on bronze"
+    },
+    {
+      "start": 1973.21,
+      "end": 1989.54,
+      "text": "and it's called yeah roy it's 24 minutes now before 11 here on the friday rock show okay we've"
+    },
+    {
+      "start": 1989.54,
+      "end": 1994.4,
+      "text": "got a 14 minute set here which i think you're really going to enjoy settle back and listen"
+    },
+    {
+      "start": 1994.4,
+      "end": 2779.53,
+      "text": "to this you know something i've forgotten just how darn good that album is david gilmore from"
+    },
+    {
+      "start": 2779.53,
+      "end": 2787.32,
+      "text": "the album called david gilmore and short and sweet and it was roy harper who co-wrote that"
+    },
+    {
+      "start": 2787.32,
+      "end": 2791.88,
+      "text": "song and i implore you to get hold of that album it came out in 1978 i first heard it in somebody"
+    },
+    {
+      "start": 2791.88,
+      "end": 2796.6,
+      "text": "else's car a car that i had to loan that happened to have one of those cartridge devices in it which"
+    },
+    {
+      "start": 2796.6,
+      "end": 2800.92,
+      "text": "i can't afford i've still got an old eight track and it was actually in the machine and i was"
+    },
+    {
+      "start": 2800.92,
+      "end": 2805.56,
+      "text": "driving the car and i heard it and i just heard it again and again and again it's absolutely"
+    },
+    {
+      "start": 2805.56,
+      "end": 2811.4,
+      "text": "magnificent it was played for everybody in the upper sixth at wellfield school in wingate"
+    },
+    {
+      "start": 2811.4,
+      "end": 2816.12,
+      "text": "especially stevie and john and alan and worthy and also for jeff from wingate and for ben who"
+    },
+    {
+      "start": 2816.12,
+      "end": 2818.98,
+      "text": "who is the dog that's owned by Alan Grigg, who lives in County Durham."
+    },
+    {
+      "start": 2819.9,
+      "end": 2822.2,
+      "text": "Also, we played Tangerine Dream."
+    },
+    {
+      "start": 2822.42,
+      "end": 2824.26,
+      "text": "Prior to Short and Sweet by David Gilmour,"
+    },
+    {
+      "start": 2824.36,
+      "end": 2826.88,
+      "text": "we played an excerpt from Tan Graham's Set One."
+    },
+    {
+      "start": 2827.5,
+      "end": 2829.26,
+      "text": "Especially for John Leyland and all his mates."
+    },
+    {
+      "start": 2829.36,
+      "end": 2831.8,
+      "text": "They live up in and around Strood."
+    },
+    {
+      "start": 2832.48,
+      "end": 2835.48,
+      "text": "Actually, John lives at 123 Thrupp Lane."
+    },
+    {
+      "start": 2836.77,
+      "end": 2839.75,
+      "text": "Tangerine Dream was also for Colin and Rajinder and Kuldip"
+    },
+    {
+      "start": 2839.75,
+      "end": 2841.03,
+      "text": "and Simon and Hara and David"
+    },
+    {
+      "start": 2841.03,
+      "end": 2843.89,
+      "text": "and all the members of Bishop's Sports Football Club, I think it is."
+    },
+    {
+      "start": 2844.81,
+      "end": 2847.31,
+      "text": "Best wishes from Simon Hubbard, who lives in Leamington Spa."
+    },
+    {
+      "start": 2847.89,
+      "end": 2851.13,
+      "text": "And Anthony Walsh wanted Tangerine Dream for all his friends."
+    },
+    {
+      "start": 2852.66,
+      "end": 2854.58,
+      "text": "Right, it's nine minutes to eleven."
+    },
+    {
+      "start": 2854.78,
+      "end": 2856.42,
+      "text": "More from emaciated Elizabeth."
+    },
+    {
+      "start": 3220.03,
+      "end": 3220.91,
+      "text": "Lemmy Killmills."
+    },
+    {
+      "start": 3222.44,
+      "end": 3223.48,
+      "text": "Lemmy Killmister."
+    },
+    {
+      "start": 3223.68,
+      "end": 3226.18,
+      "text": "It's just that I never use his blimmin' name, do I?"
+    },
+    {
+      "start": 3226.22,
+      "end": 3226.94,
+      "text": "I always call him Lemmy."
+    },
+    {
+      "start": 3227.16,
+      "end": 3229.98,
+      "text": "Master Lemmy Killmister on the bass guitar and vocals there."
+    },
+    {
+      "start": 3230.58,
+      "end": 3232.88,
+      "text": "Eddie Clark, master on the lead guitar."
+    },
+    {
+      "start": 3232.88,
+      "end": 3236.72,
+      "text": "And Phil Filthy Animal Taylor on the percussion."
+    },
+    {
+      "start": 3238.7,
+      "end": 3242.86,
+      "text": "Great band, Motorhead and Fire Fire, and you'll find that track on Ace of Spades."
+    },
+    {
+      "start": 3242.92,
+      "end": 3245.2,
+      "text": "And before that, something from 1974 by Thin Lizzy."
+    },
+    {
+      "start": 3245.64,
+      "end": 3246.84,
+      "text": "It was called Sha-la-la-la."
+    },
+    {
+      "start": 3250.9,
+      "end": 3254.44,
+      "text": "Two and a half minutes to eleven on the Friday Rock Show from Wonderful Radio One."
+    },
+    {
+      "start": 3255.26,
+      "end": 3260.04,
+      "text": "Right, a fortnight ago, we played three tracks for you on the Friday Night Connection."
+    },
+    {
+      "start": 3260.1,
+      "end": 3264.46,
+      "text": "They were Rock Bottom, Another Brick in the Wall, and Stone Dead Forever."
+    },
+    {
+      "start": 3264.46,
+      "end": 3268.38,
+      "text": "You know the bands, and you also, most of you, I think everybody in fact,"
+    },
+    {
+      "start": 3268.38,
+      "end": 3270.82,
+      "text": "who listened to this program knew the answer"
+    },
+    {
+      "start": 3270.82,
+      "end": 3273.5,
+      "text": "because the mail we got was extraordinary."
+    },
+    {
+      "start": 3274.46,
+      "end": 3275.88,
+      "text": "It looked like Christmas."
+    },
+    {
+      "start": 3276.26,
+      "end": 3279.26,
+      "text": "It nearly filled, you know, one of those mail sacks."
+    },
+    {
+      "start": 3280.28,
+      "end": 3284.76,
+      "text": "So I thank everybody who bothered to spend 12p in sending in an answer."
+    },
+    {
+      "start": 3285.64,
+      "end": 3288.4,
+      "text": "Obviously, there can only be one winner, but we would like to thank you all."
+    },
+    {
+      "start": 3288.62,
+      "end": 3290.78,
+      "text": "And we were most surprised by the amount of mail that we got."
+    },
+    {
+      "start": 3290.92,
+      "end": 3293.6,
+      "text": "Nonetheless, the winner is Tony Rogers"
+    },
+    {
+      "start": 3293.6,
+      "end": 3297.58,
+      "text": "of No. 9 Enstone Road, Woodley, Reading in Berkshire."
+    },
+    {
+      "start": 3297.58,
+      "end": 3299.38,
+      "text": "and I can hear his shouts of glee from here."
+    },
+    {
+      "start": 3300.37,
+      "end": 3303.1,
+      "text": "Tony gets himself a £10 record token,"
+    },
+    {
+      "start": 3303.64,
+      "end": 3305.12,
+      "text": "and the answer, well, I'll tell you."
+    },
+    {
+      "start": 3306.08,
+      "end": 3308.62,
+      "text": "Rock, bottom, another brick in the wall,"
+    },
+    {
+      "start": 3308.7,
+      "end": 3310.82,
+      "text": "and stone dead forever, ever."
+    },
+    {
+      "start": 3310.82,
+      "end": 3312.18,
+      "text": "Rock, brick and stone."
+    },
+    {
+      "start": 3312.5,
+      "end": 3314.2,
+      "text": "Simple, wasn't it?"
+    },
+    {
+      "start": 3314.76,
+      "end": 3317.8,
+      "text": "Tony's £10 richer, in the terms of record tokens anyway,"
+    },
+    {
+      "start": 3317.98,
+      "end": 3319.68,
+      "text": "and he's put together a Friday night connection,"
+    },
+    {
+      "start": 3320.24,
+      "end": 3322.36,
+      "text": "which I am mighty, mighty tasty."
+    },
+    {
+      "start": 3322.94,
+      "end": 3340.82,
+      "text": "This guy's tracking lightly from far down the line"
+    },
+    {
+      "start": 3340.82,
+      "end": 3346.1,
+      "text": "No fanfare, just a blip on the screen"
+    },
+    {
+      "start": 3346.1,
+      "end": 3354.35,
+      "text": "No quick conclusions, now everything will be fine"
+    },
+    {
+      "start": 3354.35,
+      "end": 3359.58,
+      "text": "Short circuit glitch and not what it seems"
+    },
+    {
+      "start": 3359.58,
+      "end": 3417.62,
+      "text": "You'll only have a break and still"
+    },
+    {
+      "start": 3417.62,
+      "end": 4088.32,
+      "text": "A clever connection."
+    },
+    {
+      "start": 4088.8,
+      "end": 4093.72,
+      "text": "Put together by Tony Rogers, who lives in Woodley in Reading in Berkshire, and he knows his music."
+    },
+    {
+      "start": 4096.54,
+      "end": 4098.82,
+      "text": "Now, if a chance you think you know what that connection is,"
+    },
+    {
+      "start": 4098.82,
+      "end": 4102.82,
+      "text": "three bits of music a definite connection contained therein put it down on a postcard"
+    },
+    {
+      "start": 4102.82,
+      "end": 4108.76,
+      "text": "in a letter any form of communication you care to choose and send it to the friday night connection"
+    },
+    {
+      "start": 4108.76,
+      "end": 4118.29,
+      "text": "the friday rock show bbc radio one london w1a4ww don't forget to put together your own friday"
+    },
+    {
+      "start": 4118.29,
+      "end": 4122.41,
+      "text": "night connection as well or else your entry is null and void as they say in small print"
+    },
+    {
+      "start": 4122.41,
+      "end": 4129.04,
+      "text": "and do it tonight"
+    },
+    {
+      "start": 4129.04,
+      "end": 4131.08,
+      "text": "and post it tomorrow"
+    },
+    {
+      "start": 4131.08,
+      "end": 4133.4,
+      "text": "and you might get yourself a £10 record token."
+    },
+    {
+      "start": 4141.52,
+      "end": 4143.0,
+      "text": "11.12 to hell and back."
+    },
+    {
+      "start": 4864.92,
+      "end": 4866.92,
+      "text": "And you're sitting at home or possibly in the car"
+    },
+    {
+      "start": 4866.92,
+      "end": 4868.86,
+      "text": "thinking, now where could I find"
+    },
+    {
+      "start": 4868.86,
+      "end": 4870.88,
+      "text": "that magnificent piece of music?"
+    },
+    {
+      "start": 4871.52,
+      "end": 4873.18,
+      "text": "Believe it or not, I'm gonna tell you."
+    },
+    {
+      "start": 4874.59,
+      "end": 4876.99,
+      "text": "That particular version of that song by Gillan"
+    },
+    {
+      "start": 4876.99,
+      "end": 4878.23,
+      "text": "called If You Believe In Me"
+    },
+    {
+      "start": 4878.23,
+      "end": 4880.69,
+      "text": "is available on one of the finest recordings"
+    },
+    {
+      "start": 4880.69,
+      "end": 4882.39,
+      "text": "ever put together by the BBC."
+    },
+    {
+      "start": 4883.32,
+      "end": 4885.38,
+      "text": "The album is called Metal Explosion."
+    },
+    {
+      "start": 4885.38,
+      "end": 4887.12,
+      "text": "It's music from the Friday Rock Show."
+    },
+    {
+      "start": 4887.82,
+      "end": 4889.64,
+      "text": "It's available now on BBC Records,"
+    },
+    {
+      "start": 4889.74,
+      "end": 4892.54,
+      "text": "but I have been told in numerous parts of this country"
+    },
+    {
+      "start": 4892.54,
+      "end": 4894.9,
+      "text": "that it's not that easy to find."
+    },
+    {
+      "start": 4895.26,
+      "end": 4897.66,
+      "text": "So what you have to do is to walk into your record store and say,"
+    },
+    {
+      "start": 4897.78,
+      "end": 4901.2,
+      "text": "right, I want Metal Explosion from the Friday Rock Show on BBC Records,"
+    },
+    {
+      "start": 4901.3,
+      "end": 4902.04,
+      "text": "please order it."
+    },
+    {
+      "start": 4902.84,
+      "end": 4905.38,
+      "text": "And then they'll know where to order it from and you'll get it."
+    },
+    {
+      "start": 4906.12,
+      "end": 4907.92,
+      "text": "In your Christmas stocking from your granny."
+    },
+    {
+      "start": 4909.04,
+      "end": 4912.98,
+      "text": "The Gillan track was played for Richie Blackmore of Ballymena in Northern Ireland."
+    },
+    {
+      "start": 4913.38,
+      "end": 4914.52,
+      "text": "If I believe that, I believe anything."
+    },
+    {
+      "start": 4915.51,
+      "end": 4918.01,
+      "text": "Before that, you heard something from a new four-piece from Newcastle."
+    },
+    {
+      "start": 4918.09,
+      "end": 4919.45,
+      "text": "They call themselves Hell and Back."
+    },
+    {
+      "start": 4919.63,
+      "end": 4921.73,
+      "text": "It's a four-tracker out on Guardian."
+    },
+    {
+      "start": 4922.11,
+      "end": 4922.97,
+      "text": "That's the record label."
+    },
+    {
+      "start": 4923.49,
+      "end": 4926.43,
+      "text": "The track was called Out to Get You, and I played that specially for"
+    },
+    {
+      "start": 4926.43,
+      "end": 4930.17,
+      "text": "the Hepburn Headbangers and Fred Bassett Appreciation Society."
+    },
+    {
+      "start": 4930.81,
+      "end": 4933.83,
+      "text": "And that includes Bill the Hairy Headbanger, Gary the Guitar Hero,"
+    },
+    {
+      "start": 4934.07,
+      "end": 4935.69,
+      "text": "Janice the Shin Kicker, I wonder why,"
+    },
+    {
+      "start": 4935.83,
+      "end": 4938.85,
+      "text": "Geraldine, who probably does nothing, at least according to this letter,"
+    },
+    {
+      "start": 4939.25,
+      "end": 4942.49,
+      "text": "Batman, John Lennon, Spider-Man, Captain Kirk, Dirty Gertie,"
+    },
+    {
+      "start": 4942.49,
+      "end": 4944.47,
+      "text": "Matt Albert, not forgetting Rodney"
+    },
+    {
+      "start": 4944.47,
+      "end": 4946.25,
+      "text": "and Angus, the two rucksacks"
+    },
+    {
+      "start": 4946.25,
+      "end": 4953.04,
+      "text": "and if you promise to get Metal Explosion"
+    },
+    {
+      "start": 4953.04,
+      "end": 4954.88,
+      "text": "on BBC Records, I'll play your motorhead"
+    },
+    {
+      "start": 4954.88,
+      "end": 5335.55,
+      "text": "and that's from the black side"
+    },
+    {
+      "start": 5335.55,
+      "end": 5337.37,
+      "text": "of Queen 2, it was Ogre Battle"
+    },
+    {
+      "start": 5337.37,
+      "end": 5339.09,
+      "text": "and it was played specially for Yvonne"
+    },
+    {
+      "start": 5339.09,
+      "end": 5341.13,
+      "text": "who lives in Warstock in Birmingham"
+    },
+    {
+      "start": 5341.13,
+      "end": 5343.43,
+      "text": "and talking about Birmingham, I did a gig up there"
+    },
+    {
+      "start": 5343.43,
+      "end": 5345.33,
+      "text": "the other day, on Wednesday night actually"
+    },
+    {
+      "start": 5345.33,
+      "end": 5347.33,
+      "text": "at a place called Bug Arts, I must say"
+    },
+    {
+      "start": 5347.33,
+      "end": 5349.61,
+      "text": "that's an amazing venue, so I'd like if I may"
+    },
+    {
+      "start": 5349.61,
+      "end": 5351.21,
+      "text": "just to mention a few people that I met up there"
+    },
+    {
+      "start": 5351.21,
+      "end": 5353.51,
+      "text": "Malcolm Craven, Kings Norton, Birmingham"
+    },
+    {
+      "start": 5353.51,
+      "end": 5355.25,
+      "text": "wants me to remember Tommy Bolin"
+    },
+    {
+      "start": 5355.53,
+      "end": 5357.65,
+      "text": "Malcolm, that would be like trying to forget who your mother was."
+    },
+    {
+      "start": 5358.15,
+      "end": 5361.01,
+      "text": "Also, I've got to mention Pete and Paul and Robbie and Alison."
+    },
+    {
+      "start": 5361.67,
+      "end": 5364.71,
+      "text": "And hello and congratulations to Cliff and Sophia,"
+    },
+    {
+      "start": 5365.27,
+      "end": 5366.95,
+      "text": "who are getting married tomorrow."
+    },
+    {
+      "start": 5367.21,
+      "end": 5368.85,
+      "text": "Best regards from everybody at Bogart's."
+    },
+    {
+      "start": 5369.03,
+      "end": 5371.55,
+      "text": "And for all at Spencey Court School,"
+    },
+    {
+      "start": 5371.97,
+      "end": 5373.61,
+      "text": "in the sixth form from Alan."
+    },
+    {
+      "start": 5374.57,
+      "end": 5376.55,
+      "text": "Now, here's a little track by Black Sabbath."
+    },
+    {
+      "start": 5377.58,
+      "end": 5378.76,
+      "text": "I hope it doesn't happen to you."
+    },
+    {
+      "start": 5378.76,
+      "end": 5379.9,
+      "text": "It's called Die Young."
+    },
+    {
+      "start": 5379.9,
+      "end": 5817.63,
+      "text": "Will you tell the rhyming for me?"
+    },
+    {
+      "start": 5890.6,
+      "end": 5895.32,
+      "text": "they're about to go on tour in the united kingdom are slayed if you get the chance to see them and"
+    },
+    {
+      "start": 5895.32,
+      "end": 5903.32,
+      "text": "you want a really good night out do it they're electric messes kill mr clark and taylor would"
+    },
+    {
+      "start": 5903.32,
+      "end": 6249.72,
+      "text": "care to dance got an absolutely magnificent concert earlier this year i saw it in london tom"
+    },
+    {
+      "start": 6249.72,
+      "end": 6253.64,
+      "text": "petty and the heartbreakers from the album called tom petty in the heartbreak breakers it's a i"
+    },
+    {
+      "start": 6253.64,
+      "end": 6258.2,
+      "text": "suppose eponymous it was called stranger in the night and i played that because i got a really"
+    },
+    {
+      "start": 6258.2,
+      "end": 6259.92,
+      "text": "nice little card here from Stranra"
+    },
+    {
+      "start": 6259.92,
+      "end": 6262.06,
+      "text": "from number three, Rudolph Lane"
+    },
+    {
+      "start": 6262.06,
+      "end": 6264.2,
+      "text": "from Mike Reynolds who wanted me to play"
+    },
+    {
+      "start": 6264.2,
+      "end": 6266.34,
+      "text": "it for his wife. And then in parenthesis"
+    },
+    {
+      "start": 6266.34,
+      "end": 6267.62,
+      "text": "he puts my inspiration"
+    },
+    {
+      "start": 6267.62,
+      "end": 6270.1,
+      "text": "which is a most pleasant comment to pass"
+    },
+    {
+      "start": 6270.1,
+      "end": 6272.3,
+      "text": "about one's missus. Also for Davy"
+    },
+    {
+      "start": 6272.3,
+      "end": 6274.18,
+      "text": "and Isla and Michelle, Ian"
+    },
+    {
+      "start": 6274.18,
+      "end": 6276.32,
+      "text": "and Madeline, Stacey and Kim and Terry"
+    },
+    {
+      "start": 6276.32,
+      "end": 6277.8,
+      "text": "I fought the law Andrews."
+    },
+    {
+      "start": 6278.18,
+      "end": 6280.2,
+      "text": "Prior to that you heard, well"
+    },
+    {
+      "start": 6280.2,
+      "end": 6282.1,
+      "text": "it was Motorhead and a thing called"
+    },
+    {
+      "start": 6282.1,
+      "end": 6284.24,
+      "text": "Dance, or if you like, Dance."
+    },
+    {
+      "start": 6284.72,
+      "end": 6286.08,
+      "text": "And all the four cuts you heard tonight"
+    },
+    {
+      "start": 6286.08,
+      "end": 6286.98,
+      "text": "by Motorhead"
+    },
+    {
+      "start": 6286.98,
+      "end": 6316.96,
+      "text": "Thank you."
     }
   ]
 }

@@ -19,37 +19,44 @@
     {
       "artist": "AC DC",
       "track": "Walk All Over You",
-      "details": "LP-Highway To Hell"
+      "details": "LP-Highway To Hell",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Kiss",
       "track": "What Makes The World Go Round",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Dreams",
-      "details": "LP-Rumours"
+      "details": "LP-Rumours",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Jethro Tull",
       "track": "Living In The Past",
-      "details": "LP-Best Of"
+      "details": "LP-Best Of",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Whitesnake",
       "track": "'Ain't No Love In The Heart Of The City'",
-      "details": "LP-Snakebite"
+      "details": "LP-Snakebite",
+      "verified_timestamp": 1801.84
     },
     {
       "artist": "Pink Floyd",
       "track": "Empty Spaces",
-      "details": "LP-The Wall"
+      "details": "LP-The Wall",
+      "verified_timestamp": 1797.58
     },
     {
       "artist": "Pink Floyd",
       "track": "Young Lust",
-      "details": "LP-The Wall"
+      "details": "LP-The Wall",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Samson",
@@ -59,22 +66,802 @@
     {
       "artist": "More",
       "track": "Soldier",
-      "details": "LP-VA - Metal Explosion"
+      "details": "LP-VA - Metal Explosion",
+      "verified_timestamp": 3420.77
     },
     {
       "artist": "Taurus",
       "track": "Paper Chaser",
-      "details": "LP-VA - Metal Explosion"
+      "details": "LP-VA - Metal Explosion",
+      "verified_timestamp": 4087.65
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 70.52
     },
     {
       "artist": "Slade",
       "track": "Reading Festival, 24th August 1980",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.96,
+      "end": 23.37,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 23.37,
+      "end": 30.37,
+      "text": "Well, hello there. TV on the radio here. Thomas the Vance. And welcome once again to The Friday Rock Show."
+    },
+    {
+      "start": 30.37,
+      "end": 35.37,
+      "text": "And this evening we broadcast two of the great groups who helped to make Reading a massive success this year."
+    },
+    {
+      "start": 35.37,
+      "end": 43.37,
+      "text": "Samson from London and those Wolverhampton wild men Slade who re-emerged from the smaller clubs onto the big stage and knocked everybody out."
+    },
+    {
+      "start": 43.37,
+      "end": 63.54,
+      "text": "And we've got classic cuts from Jethro Tull, Fleetwood Mac, Whitesnake, The Pink Floyd, among others, and new stuff by Vardis and by Moore and by Taurus."
+    },
+    {
+      "start": 63.84,
+      "end": 70.14,
+      "text": "Those two latter tracks coming from Metal Inc. Explosion, an album that's coming out next week, which features sessions from the Friday Rock Show."
+    },
+    {
+      "start": 70.52,
+      "end": 74.18,
+      "text": "We've also got the Friday Night Connection, but this evening we start with this."
+    },
+    {
+      "start": 75.3,
+      "end": 634.62,
+      "text": "Looking forward to seeing that band on Monday night when they perform in London."
+    },
+    {
+      "start": 634.74,
+      "end": 637.62,
+      "text": "That's Kiss and their new single, which is called What Makes the World Go Round."
+    },
+    {
+      "start": 639.04,
+      "end": 640.72,
+      "text": "Generally music and love, I suggest."
+    },
+    {
+      "start": 640.72,
+      "end": 646.06,
+      "text": "And before that you heard something from Highway to Hell by ACDC"
+    },
+    {
+      "start": 646.06,
+      "end": 648.08,
+      "text": "The track was called Walk All Over You"
+    },
+    {
+      "start": 648.08,
+      "end": 653.52,
+      "text": "And that was for Jane and for Chris and for Matt and for Mark and for Tim and for Nicky"
+    },
+    {
+      "start": 653.52,
+      "end": 655.72,
+      "text": "And also for Jane and for Chris"
+    },
+    {
+      "start": 655.72,
+      "end": 658.42,
+      "text": "I hope you've got good results in your O-Levels and A-Levels"
+    },
+    {
+      "start": 658.42,
+      "end": 661.0,
+      "text": "With lots of love from Steph who lives in Chilham in Kent"
+    },
+    {
+      "start": 661.0,
+      "end": 665.02,
+      "text": "And also for everybody who attends, I think it's the Malham Public School"
+    },
+    {
+      "start": 665.02,
+      "end": 666.96,
+      "text": "Particularly James and Andrew and Warren"
+    },
+    {
+      "start": 666.96,
+      "end": 670.97,
+      "text": "And for Gary and Nick and Rick and Steve and Paul C"
+    },
+    {
+      "start": 670.97,
+      "end": 675.59,
+      "text": "and everybody from 4E and 4C of Ellis-Gulseford School, I think it is."
+    },
+    {
+      "start": 675.65,
+      "end": 676.75,
+      "text": "That's a comprehensive school."
+    },
+    {
+      "start": 677.71,
+      "end": 680.97,
+      "text": "With love from Julie, the headbangerette Mason."
+    },
+    {
+      "start": 682.64,
+      "end": 685.58,
+      "text": "And also for all the good friends of Adam Kinnersley from Cheshire."
+    },
+    {
+      "start": 685.76,
+      "end": 687.54,
+      "text": "And for somebody I spoke to on the phone today,"
+    },
+    {
+      "start": 687.72,
+      "end": 689.96,
+      "text": "Martin Heider and Brother Chris and all his mates."
+    },
+    {
+      "start": 692.5,
+      "end": 694.3,
+      "text": "And now, here's something quite old."
+    },
+    {
+      "start": 1080.96,
+      "end": 1146.95,
+      "text": "A couple of classics there."
+    },
+    {
+      "start": 1147.07,
+      "end": 1151.39,
+      "text": "That, of course, is Jethro Tull from The Best of Jethro Tull and Living in the Past."
+    },
+    {
+      "start": 1151.39,
+      "end": 1153.88,
+      "text": "20 minutes after 10 on the Friday"
+    },
+    {
+      "start": 1153.88,
+      "end": 1155.82,
+      "text": "Rod Show, that was specially for Mike Burns"
+    },
+    {
+      "start": 1155.82,
+      "end": 1157.92,
+      "text": "who lives in Dalmalley up on the"
+    },
+    {
+      "start": 1157.92,
+      "end": 1158.76,
+      "text": "west coast of Scotland"
+    },
+    {
+      "start": 1158.76,
+      "end": 1161.86,
+      "text": "happy birthday from Joy"
+    },
+    {
+      "start": 1161.86,
+      "end": 1166.88,
+      "text": "also a nice little letter from Pete Shaw"
+    },
+    {
+      "start": 1166.88,
+      "end": 1168.6,
+      "text": "here who lives in Brentford and Middlesex"
+    },
+    {
+      "start": 1168.6,
+      "end": 1170.68,
+      "text": "who says dear Tom could you please give a mention to"
+    },
+    {
+      "start": 1170.68,
+      "end": 1172.64,
+      "text": "the Genesis picnic, that is"
+    },
+    {
+      "start": 1172.64,
+      "end": 1174.74,
+      "text": "happening it seems tomorrow the 6th of September"
+    },
+    {
+      "start": 1174.74,
+      "end": 1177.02,
+      "text": "at 2pm at the Albert Memorial"
+    },
+    {
+      "start": 1177.02,
+      "end": 1178.8,
+      "text": "in Hyde Park, could you also"
+    },
+    {
+      "start": 1178.8,
+      "end": 1180.74,
+      "text": "send greetings to all Genesis loonies who"
+    },
+    {
+      "start": 1180.74,
+      "end": 1182.24,
+      "text": "camped out all over the country"
+    },
+    {
+      "start": 1182.24,
+      "end": 1184.72,
+      "text": "hoping to see you on the 6th, can't get there because"
+    },
+    {
+      "start": 1184.72,
+      "end": 1188.34,
+      "text": "of course i'm going to be working on rock on saturday but i hope the weather's good for all of"
+    },
+    {
+      "start": 1188.34,
+      "end": 1192.88,
+      "text": "you who congregate around the albert memorial in high park tomorrow for the genesis picnic"
+    },
+    {
+      "start": 1192.88,
+      "end": 1199.26,
+      "text": "and living in the past was also for jillian thomas jill thomas let's not be formal she lives in"
+    },
+    {
+      "start": 1199.26,
+      "end": 1203.84,
+      "text": "devises in wilshire and prior to that you heard something of course by fleetwood mac from that"
+    },
+    {
+      "start": 1203.84,
+      "end": 1210.44,
+      "text": "monster selling album rumors the track was called dreams and that was for the sister whose name i"
+    },
+    {
+      "start": 1210.44,
+      "end": 1216.12,
+      "text": "don't have of a gentleman by the name of phil sister of phil you live in barnsley and a happy"
+    },
+    {
+      "start": 1216.12,
+      "end": 1797.58,
+      "text": "birthday for what two days ago what are you likes the pink floyd in our country that of course is"
+    },
+    {
+      "start": 1797.58,
+      "end": 1801.84,
+      "text": "from the wall you heard a bit of empty spaces and then the whole of young lust and before that a"
+    },
+    {
+      "start": 1801.84,
+      "end": 1807.68,
+      "text": "classic by white snake ain't no love in the heart of the city and that was for dob who also is known"
+    },
+    {
+      "start": 1807.68,
+      "end": 1812.62,
+      "text": "as robin russell who lives in shore lane in sheffield for all his mates including mosey"
+    },
+    {
+      "start": 1812.62,
+      "end": 1819.56,
+      "text": "and phil and gordon and big campbell and it was for everybody who was at redding particularly i"
+    },
+    {
+      "start": 1819.56,
+      "end": 1825.42,
+      "text": "think it's carol and sue from chelmsford in essex with best wishes from a gentleman called ollie"
+    },
+    {
+      "start": 1825.42,
+      "end": 1829.2,
+      "text": "barks who lives in morton and the marsh in gloucester that's a beautiful town that place"
+    },
+    {
+      "start": 1829.2,
+      "end": 1834.86,
+      "text": "and also i played it for chucks also known as ian and brian and jeff and denise from nottingham and"
+    },
+    {
+      "start": 1834.86,
+      "end": 1842.08,
+      "text": "they receive good wishes from pauline and miriam alias the principal and yeti from south shields"
+    },
+    {
+      "start": 1842.84,
+      "end": 1845.24,
+      "text": "And I've got a nice letter here from Mrs. Anne Yeoman"
+    },
+    {
+      "start": 1845.24,
+      "end": 1848.28,
+      "text": "of 50 Privet House, Cumberland Street, Portsmouth, in hands,"
+    },
+    {
+      "start": 1849.64,
+      "end": 1851.86,
+      "text": "who wanted me to play a record by Whitesnake,"
+    },
+    {
+      "start": 1852.0,
+      "end": 1853.76,
+      "text": "which happened to be Ain't No Love in the Heart of the City,"
+    },
+    {
+      "start": 1853.86,
+      "end": 1854.86,
+      "text": "for her daughter, Tracy,"
+    },
+    {
+      "start": 1855.28,
+      "end": 1857.58,
+      "text": "who lives, I think it is, in Gatley, near Manchester."
+    },
+    {
+      "start": 1857.98,
+      "end": 1859.3,
+      "text": "And also for husband, Roger,"
+    },
+    {
+      "start": 1859.98,
+      "end": 1862.84,
+      "text": "it's the anniversary of your marriage on September 23rd."
+    },
+    {
+      "start": 1863.1,
+      "end": 1867.1,
+      "text": "And not forgetting Mark, who lives down there in Pompey."
+    },
+    {
+      "start": 1868.22,
+      "end": 1870.3,
+      "text": "You're listening to the Friday Rock Show from Radio 1."
+    },
+    {
+      "start": 1870.3,
+      "end": 1873.4,
+      "text": "It's twenty-eight minutes before eleven."
+    },
+    {
+      "start": 1873.96,
+      "end": 1877.3,
+      "text": "And now we're going to broadcast a little storming scent here"
+    },
+    {
+      "start": 1877.3,
+      "end": 1880.84,
+      "text": "that was recorded at Reading by a band called Samson."
+    },
+    {
+      "start": 3350.25,
+      "end": 3354.11,
+      "text": "I love a Samson, recorded up there at the Reading Festival a couple of weeks ago."
+    },
+    {
+      "start": 3354.21,
+      "end": 3359.05,
+      "text": "And the tracks you heard were Hammerhead, Walking Out On You, Vice Versa, Hard Times, and Take It Like A Man."
+    },
+    {
+      "start": 3360.71,
+      "end": 3362.39,
+      "text": "Four-piece band, as if you didn't know."
+    },
+    {
+      "start": 3362.75,
+      "end": 3367.01,
+      "text": "Paul Samson, Bruce Bruce, Chris Aylmer, and Thunderstick, the masked man behind the drums."
+    },
+    {
+      "start": 3367.01,
+      "end": 3369.89,
+      "text": "and incidentally they're going to be at least two of them are"
+    },
+    {
+      "start": 3369.89,
+      "end": 3373.07,
+      "text": "that's Thunderstick and Bruce Boos on Rock on Saturday tomorrow afternoon"
+    },
+    {
+      "start": 3373.07,
+      "end": 3379.24,
+      "text": "the mix was by Robbo the Maid of Ale Madman"
+    },
+    {
+      "start": 3379.24,
+      "end": 3380.74,
+      "text": "and production was by Tony Wilson"
+    },
+    {
+      "start": 3380.74,
+      "end": 3386.51,
+      "text": "and it's three minutes now to eleven"
+    },
+    {
+      "start": 3386.51,
+      "end": 3393.61,
+      "text": "on the Friday Rock Show from BBC Radio 1"
+    },
+    {
+      "start": 3393.61,
+      "end": 3398.47,
+      "text": "from the BBC with the matrix number REH397"
+    },
+    {
+      "start": 3398.47,
+      "end": 3400.09,
+      "text": "on BBC Records"
+    },
+    {
+      "start": 3400.09,
+      "end": 3402.91,
+      "text": "coming out next week is going to be an album called Metal Explosion"
+    },
+    {
+      "start": 3402.91,
+      "end": 3406.07,
+      "text": "featuring Samson, Praying Mantis, Trespass, Taurus"
+    },
+    {
+      "start": 3406.07,
+      "end": 3408.09,
+      "text": "Angel, Witch, Gillen, Money and More."
+    },
+    {
+      "start": 3408.63,
+      "end": 3411.99,
+      "text": "And all the tracks on the album have been broadcast on this programme"
+    },
+    {
+      "start": 3411.99,
+      "end": 3414.03,
+      "text": "and were recorded specially for the programme."
+    },
+    {
+      "start": 3414.27,
+      "end": 3415.79,
+      "text": "In other words, they were sessions."
+    },
+    {
+      "start": 3416.17,
+      "end": 3417.59,
+      "text": "And I'm going to play you a couple of cuts now."
+    },
+    {
+      "start": 3418.07,
+      "end": 3420.49,
+      "text": "The first one's by More and the second one is by Taurus."
+    },
+    {
+      "start": 3420.77,
+      "end": 3422.29,
+      "text": "This one's called Soldier."
+    },
+    {
+      "start": 3422.99,
+      "end": 4086.19,
+      "text": "A couple of tracks that are going to be released on an album,"
+    },
+    {
+      "start": 4086.35,
+      "end": 4087.47,
+      "text": "which comes out next week."
+    },
+    {
+      "start": 4087.65,
+      "end": 4089.73,
+      "text": "You heard there Taurus and Paper Chaser."
+    },
+    {
+      "start": 4089.91,
+      "end": 4092.03,
+      "text": "Before that, it was More and Soldier."
+    },
+    {
+      "start": 4092.98,
+      "end": 4096.06,
+      "text": "And the album comes out next week on BBC Records and Tapes."
+    },
+    {
+      "start": 4096.06,
+      "end": 4098.96,
+      "text": "And it's called Metal Explosion"
+    },
+    {
+      "start": 4098.96,
+      "end": 4111.2,
+      "text": "9 minutes after 11 and it's time for the Friday Night Connection"
+    },
+    {
+      "start": 4111.2,
+      "end": 4115.88,
+      "text": "And also a long-winded explanation which I'll try to pricey and keep relatively short"
+    },
+    {
+      "start": 4115.88,
+      "end": 4118.78,
+      "text": "Because we like to play a lot of music on this program"
+    },
+    {
+      "start": 4118.78,
+      "end": 4121.68,
+      "text": "Right, the tracks we played you last week were Gypsy Eyes by Jimi Hendrix"
+    },
+    {
+      "start": 4121.68,
+      "end": 4123.8,
+      "text": "From the LP The Essential Jimi Hendrix"
+    },
+    {
+      "start": 4123.8,
+      "end": 4125.58,
+      "text": "That's the LP we played it all"
+    },
+    {
+      "start": 4125.58,
+      "end": 4128.82,
+      "text": "Souped Up 4 by Rory Gallagher from the LP Against the Grain"
+    },
+    {
+      "start": 4128.82,
+      "end": 4131.9,
+      "text": "And Planet Caliban by Black Sabbath from Paranoid"
+    },
+    {
+      "start": 4131.9,
+      "end": 4137.94,
+      "text": "now the answer as set was that all the guitarists were left-handed now we"
+    },
+    {
+      "start": 4137.94,
+      "end": 4143.3,
+      "text": "actually believe that to be incorrect so what we've done in our infinite wisdom"
+    },
+    {
+      "start": 4143.3,
+      "end": 4148.02,
+      "text": "fools that we are we've scrapped the whole of that connection and we didn't"
+    },
+    {
+      "start": 4148.02,
+      "end": 4153.65,
+      "text": "get too many entries this week obviously so not too many people have lost 12p"
+    },
+    {
+      "start": 4153.65,
+      "end": 4158.25,
+      "text": "stamps and we're sorry basically that's what I'm trying to say in other words"
+    },
+    {
+      "start": 4158.25,
+      "end": 4162.09,
+      "text": "will you accept please that last week's connection was null and void because we"
+    },
+    {
+      "start": 4162.09,
+      "end": 4169.38,
+      "text": "don't believe that the answer was absolutely correct. We could, really, to be honest, have"
+    },
+    {
+      "start": 4169.38,
+      "end": 4172.74,
+      "text": "potted it up and given you a load of different explanations and found another connection,"
+    },
+    {
+      "start": 4172.84,
+      "end": 4176.31,
+      "text": "but we thought rather than do that, we'd tell you the truth. That really is what we're all"
+    },
+    {
+      "start": 4176.31,
+      "end": 4181.21,
+      "text": "about. So what I've done this week, if you'll excuse me, is to put together a Friday night"
+    },
+    {
+      "start": 4181.21,
+      "end": 4185.53,
+      "text": "connection myself. Do I get the £10 record token? Of course I don't. For making the"
+    },
+    {
+      "start": 4185.53,
+      "end": 4189.93,
+      "text": "mistake, I've got to give them £10. Wilson is standing over me now, about to collect"
+    },
+    {
+      "start": 4189.93,
+      "end": 4194.71,
+      "text": "it this connection was put together by tommy vance it's not that difficult but you'll have"
+    },
+    {
+      "start": 4194.71,
+      "end": 4907.82,
+      "text": "to think about it it's in there somewhere but that's my friday night connection said especially"
+    },
+    {
+      "start": 4907.82,
+      "end": 4911.58,
+      "text": "for you and really it was an excuse just to play three of the greatest tracks that i know"
+    },
+    {
+      "start": 4911.58,
+      "end": 4915.8,
+      "text": "three tracks that i just keep on playing at home again and again and again but there is a definite"
+    },
+    {
+      "start": 4915.8,
+      "end": 4921.72,
+      "text": "connection in it and if you think you know what it is jot it down on a postcard and send it to"
+    },
+    {
+      "start": 4921.72,
+      "end": 4929.13,
+      "text": "the friday night connection the friday rock show radio one london w1a4 ww and if you get it all"
+    },
+    {
+      "start": 4929.13,
+      "end": 4933.59,
+      "text": "right and we'll send you a 10 pound record token don't forget to put together your own friday night"
+    },
+    {
+      "start": 4933.59,
+      "end": 4937.77,
+      "text": "connection as well sorry about the muck up last week but better to tell you the truth he thinks"
+    },
+    {
+      "start": 4937.77,
+      "end": 4944.89,
+      "text": "okay now let's return to our recorded live from reading set and i think one of the biggest"
+    },
+    {
+      "start": 4944.89,
+      "end": 4948.87,
+      "text": "surprises was slayed when they hit the stage now they're a band who've been on the small circuit"
+    },
+    {
+      "start": 4948.87,
+      "end": 4954.03,
+      "text": "for a long time haven't been on a big stage for some considerable years really when they went on"
+    },
+    {
+      "start": 4954.03,
+      "end": 7158.63,
+      "text": "the stage they were received warmly as you will hear right here and that for me was one of the"
+    },
+    {
+      "start": 7158.63,
+      "end": 7162.89,
+      "text": "magic moments in rock and roll that i will never ever forget and i've been in rock and roll on and"
+    },
+    {
+      "start": 7162.89,
+      "end": 7168.51,
+      "text": "off for quite a number of years and that was just a magic moment the re-emergence of slade to a big"
+    },
+    {
+      "start": 7168.51,
+      "end": 7173.89,
+      "text": "big stage and the tracks that you heard were come on feel the noise and also merry christmas but"
+    },
+    {
+      "start": 7173.89,
+      "end": 7178.95,
+      "text": "then the crowd sang that get down and get with it mama we're all crazy now walk alone sung again by"
+    },
+    {
+      "start": 7178.95,
+      "end": 7180.71,
+      "text": "the Reading crowd. Something else"
+    },
+    {
+      "start": 7180.71,
+      "end": 7182.99,
+      "text": "medley, with all various bits and pieces"
+    },
+    {
+      "start": 7182.99,
+      "end": 7184.79,
+      "text": "that they put in there. The Wheels Ain't"
+    },
+    {
+      "start": 7184.79,
+      "end": 7186.89,
+      "text": "Coming Down, that's a new song of theirs. When I'm"
+    },
+    {
+      "start": 7186.89,
+      "end": 7188.81,
+      "text": "Dancing, which is also a new song that I've not heard"
+    },
+    {
+      "start": 7188.81,
+      "end": 7190.67,
+      "text": "before, and then Take Me Back Home."
+    },
+    {
+      "start": 7191.23,
+      "end": 7192.81,
+      "text": "And as I say, it was just"
+    },
+    {
+      "start": 7192.81,
+      "end": 7194.85,
+      "text": "a magic moment. The"
+    },
+    {
+      "start": 7194.85,
+      "end": 7196.57,
+      "text": "right band on stage at the right time,"
+    },
+    {
+      "start": 7196.99,
+      "end": 7198.67,
+      "text": "and an audience that were so"
+    },
+    {
+      "start": 7198.67,
+      "end": 7202.9,
+      "text": "receptive. I think the lads are on the way"
+    },
+    {
+      "start": 7202.9,
+      "end": 7204.98,
+      "text": "to Belgium at the moment. Slade, thank you very much"
+    },
+    {
+      "start": 7204.98,
+      "end": 7206.98,
+      "text": "for that set. I think you're down in Dover at the"
+    },
+    {
+      "start": 7206.98,
+      "end": 7209.18,
+      "text": "moment. Have a good time. It was"
+    },
+    {
+      "start": 7209.18,
+      "end": 7219.22,
+      "text": "magic next week in our live from reading series death leopard and ian gillen and on rock on"
+    },
+    {
+      "start": 7219.22,
+      "end": 7223.66,
+      "text": "saturday we'll have kiss this of course is tomorrow samson the teardrop explodes tracks"
+    },
+    {
+      "start": 7223.66,
+      "end": 7228.98,
+      "text": "from their lp and lemmy from motory programs produced by tony wilson wilson speaks safe safe"
+    },
+    {
+      "start": 7228.98,
+      "end": 7234.23,
+      "text": "i'm not here i'm on holiday all right go away following the pips the radio one transmitters"
+    },
+    {
+      "start": 7234.23,
+      "end": 7237.79,
+      "text": "that's 275285 you're going to close down but they'll be back with you on the air tomorrow"
+    },
+    {
+      "start": 7237.79,
+      "end": 7242.55,
+      "text": "a morning of five o'clock and this is tommy vance on behalf of all of us on radio one wishing you"
+    },
+    {
+      "start": 7242.55,
+      "end": 7243.79,
+      "text": "well god bless and good night"
     }
   ]
 }

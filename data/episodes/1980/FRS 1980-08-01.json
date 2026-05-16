@@ -23,37 +23,44 @@
     {
       "artist": "AC DC",
       "track": "Shoot To Thrill",
-      "details": "LP-Back In Black"
+      "details": "LP-Back In Black",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Scorpions",
       "track": "Loving You Sunday Morning",
-      "details": "LP-Lovedrive"
+      "details": "LP-Lovedrive",
+      "verified_timestamp": 721.35
     },
     {
       "artist": "Hawkwind",
       "track": "Motorway City",
-      "details": "LP-Live 1979"
+      "details": "LP-Live 1979",
+      "verified_timestamp": 1298.4
     },
     {
       "artist": "Girlschool",
       "track": "Nothing To Lose",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1468.09
     },
     {
       "artist": "Trespass",
       "track": "Visionary",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1472.39
     },
     {
       "artist": "Gillan",
       "track": "Are You Sure",
-      "details": "LP-Glory Road"
+      "details": "LP-Glory Road",
+      "verified_timestamp": 2802.87
     },
     {
       "artist": "Gillan",
       "track": "If You Believe Me",
-      "details": "LP-Glory Road"
+      "details": "LP-Glory Road",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Girlschool",
@@ -63,17 +70,20 @@
     {
       "artist": "Peter Hamill",
       "track": "Losing Faith In Words",
-      "details": "LP-A Black Box"
+      "details": "LP-A Black Box",
+      "verified_timestamp": 3265.54
     },
     {
       "artist": "Holocaust",
       "track": "Heavy Metal Mania",
-      "details": "12\" single"
+      "details": "12\" single",
+      "verified_timestamp": 772.4
     },
     {
       "artist": "Blue Oyster Cult",
       "track": "Monsters",
-      "details": "LP-Cultosaurus Erectus"
+      "details": "LP-Cultosaurus Erectus",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Trespass",
@@ -83,7 +93,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 62.69
     },
     {
       "artist": "Girlschool",
@@ -93,7 +104,8 @@
     {
       "artist": "The Eagles",
       "track": "Outlaw Man",
-      "details": "LP-Desperado"
+      "details": "LP-Desperado",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Trespass",
@@ -103,12 +115,14 @@
     {
       "artist": "Gillan",
       "track": "Unchain Your Brain",
-      "details": "LP-Glory Road"
+      "details": "LP-Glory Road",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Gillan",
       "track": "Trying To Get To You",
-      "details": "LP-Glory Road (For Gillan Fans Only"
+      "details": "LP-Glory Road (For Gillan Fans Only",
+      "verified_timestamp": 6311.22
     },
     {
       "artist": "Girlschool",
@@ -118,12 +132,1485 @@
     {
       "artist": "Rolling Stones",
       "track": "Dancing With Mr. D.",
-      "details": "LP-Goats Head Soup"
+      "details": "LP-Goats Head Soup",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Trespass",
       "track": "Live It Up",
       "details": "FRS Session"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 5.78,
+      "end": 11.78,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 11.78,
+      "end": 28.7,
+      "text": "Oh hello there, good evening to you. This is Thomas Vance here, TV on the radio, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 28.7,
+      "end": 34.7,
+      "text": "This evening, the session debut of four ladies who are turning the tables on the male heavy rock contingent in the United Kingdom."
+    },
+    {
+      "start": 34.7,
+      "end": 40.7,
+      "text": "They're called Girl School and they're very good. Also, we have a repeat session by the band called Trespass."
+    },
+    {
+      "start": 40.7,
+      "end": 57.93,
+      "text": "now we've got classic cuts by the scorpions the eagles and the rolling stones among others and"
+    },
+    {
+      "start": 57.93,
+      "end": 62.69,
+      "text": "new releases by gillan four tracks from his new albums hawkwind also peter hamill blue"
+    },
+    {
+      "start": 62.69,
+      "end": 67.41,
+      "text": "oyster cult raven and holocaust and the return of the friday night connection the one of a set"
+    },
+    {
+      "start": 67.41,
+      "end": 721.35,
+      "text": "three weeks ago by a gentleman in newport that we start off with acdc my favorite track of last"
+    },
+    {
+      "start": 721.35,
+      "end": 727.31,
+      "text": "year the scorpions and loving you sunday morning another special for everybody at the cheslin hay"
+    },
+    {
+      "start": 727.31,
+      "end": 733.07,
+      "text": "high school and they include all the people who go to wing gates in conningham lots of love from"
+    },
+    {
+      "start": 733.07,
+      "end": 738.59,
+      "text": "sarah wilson who lives in essington in wolverhampton scorpions also for martin kilmer and everybody at"
+    },
+    {
+      "start": 738.59,
+      "end": 744.83,
+      "text": "the turton high school martin lives in bromley cross in bolton john busby also known as rupe"
+    },
+    {
+      "start": 744.83,
+      "end": 749.79,
+      "text": "wants me to say hello to all his mates at whitley bay and i've got to say hello to egg and cool cat"
+    },
+    {
+      "start": 749.79,
+      "end": 755.38,
+      "text": "and hendy and sister mucus great name richie and stuart bowman in form three yours faithfully it"
+    },
+    {
+      "start": 755.38,
+      "end": 761.41,
+      "text": "says here a group of mental cases say hello to the children of the great grave that is including"
+    },
+    {
+      "start": 761.41,
+      "end": 765.81,
+      "text": "herbie and dozie mark and waldo and tommy ring my bell thompson and dave the raven moman kendo"
+    },
+    {
+      "start": 765.81,
+      "end": 772.4,
+      "text": "and spiff and spanner and jim we live in didsbury in manchester and finally for esther and trout"
+    },
+    {
+      "start": 772.4,
+      "end": 776.48,
+      "text": "and all the heavy metal fans who go to st nicholas's high school in northwich"
+    },
+    {
+      "start": 777.15,
+      "end": 781.39,
+      "text": "before that you heard something from the new album called back in black by acdc the first"
+    },
+    {
+      "start": 781.39,
+      "end": 785.31,
+      "text": "album that featured their new lead vocalist brian johnson the track was called shoot to"
+    },
+    {
+      "start": 785.31,
+      "end": 790.27,
+      "text": "thrill i played that for all the other six who've now left west buckland school including mark and"
+    },
+    {
+      "start": 790.27,
+      "end": 797.07,
+      "text": "pete and gas or gan i think it is nelly margaret and jazz and also for philip inman of hayward road"
+    },
+    {
+      "start": 797.07,
+      "end": 803.07,
+      "text": "pile or possibly pill in avon and i like the way that ac dc have titled that album back in black"
+    },
+    {
+      "start": 803.07,
+      "end": 1298.4,
+      "text": "i think a tribute to bond and that's hawk win from their album live 1979 and a track called"
+    },
+    {
+      "start": 1298.4,
+      "end": 1303.92,
+      "text": "motorways city and i played that for andrew stagg who lives in warwick and he wanted me to mention"
+    },
+    {
+      "start": 1303.92,
+      "end": 1308.16,
+      "text": "everybody at binswood hall sixth form college which had just done i was really shocked to read"
+    },
+    {
+      "start": 1308.16,
+      "end": 1313.28,
+      "text": "in the music press this week that simon king yet again here according to the music press has been"
+    },
+    {
+      "start": 1313.28,
+      "end": 1317.44,
+      "text": "fired from hawkwind on account of the fact that they don't think he's a good enough drummer for"
+    },
+    {
+      "start": 1317.44,
+      "end": 1332.59,
+      "text": "the band anymore to me he's been magnificent for years 10 22 on the friday rock show an intriguing"
+    },
+    {
+      "start": 1332.59,
+      "end": 1337.79,
+      "text": "letter here from andy collie who lives in hillside at number five cargill road maybowl in ayrshire and"
+    },
+    {
+      "start": 1337.79,
+      "end": 1339.43,
+      "text": "and I'll read this portion of the letter out to you."
+    },
+    {
+      "start": 1339.45,
+      "end": 1341.03,
+      "text": "Dear Tom, I need your help."
+    },
+    {
+      "start": 1341.11,
+      "end": 1343.67,
+      "text": "I don't know if you knew, and we're just keeping it a secret,"
+    },
+    {
+      "start": 1343.83,
+      "end": 1346.77,
+      "text": "but there is a secret message on Pink Floyd's The Wall."
+    },
+    {
+      "start": 1347.27,
+      "end": 1349.71,
+      "text": "On side two, immediately before empty spaces,"
+    },
+    {
+      "start": 1350.15,
+      "end": 1352.09,
+      "text": "there are words spoken, Roger's voice, I think,"
+    },
+    {
+      "start": 1352.33,
+      "end": 1354.37,
+      "text": "which make no sense when played forward,"
+    },
+    {
+      "start": 1354.49,
+      "end": 1357.47,
+      "text": "but when the disc is run backwards, the following is heard."
+    },
+    {
+      "start": 1357.61,
+      "end": 1360.25,
+      "text": "Congratulations, you've just discovered the secret message."
+    },
+    {
+      "start": 1360.57,
+      "end": 1363.39,
+      "text": "Send your answer to Old Pink, care of the funny farm."
+    },
+    {
+      "start": 1363.95,
+      "end": 1365.73,
+      "text": "And Andy writes, Chelford here,"
+    },
+    {
+      "start": 1365.73,
+      "end": 1370.95,
+      "text": "Well, with a bit of jiggery-pokery and some fine engineering by Mr. Tony Wilson and our engineer Paul tonight,"
+    },
+    {
+      "start": 1371.39,
+      "end": 1377.95,
+      "text": "we've sort of done that same trick in the studio, but also done it a little bit better because of our equalizers and things like this."
+    },
+    {
+      "start": 1378.09,
+      "end": 1385.15,
+      "text": "So, if you run your record backwards, a little bit before empty spaces, this is what you'll hear."
+    },
+    {
+      "start": 1427.59,
+      "end": 1434.87,
+      "text": "Got my directions mixed up a bit there."
+    },
+    {
+      "start": 1434.87,
+      "end": 1438.77,
+      "text": "First you heard it backwards, and then you heard it forwards, whichever way you want to look at it."
+    },
+    {
+      "start": 1438.77,
+      "end": 1441.23,
+      "text": "But we figure out they actually say on the album something like,"
+    },
+    {
+      "start": 1441.23,
+      "end": 1445.27,
+      "text": "Hello, Walter. Congratulations, you've just discovered the secret message."
+    },
+    {
+      "start": 1445.39,
+      "end": 1449.17,
+      "text": "Send your answer to Old Pink, care of the funny farm in Chalfont."
+    },
+    {
+      "start": 1449.53,
+      "end": 1452.33,
+      "text": "And then there's a voice that says, Roger, Caroline's on the phone."
+    },
+    {
+      "start": 1452.49,
+      "end": 1455.65,
+      "text": "We're going to see Pink Floyd next week, as indeed are thousands of other people."
+    },
+    {
+      "start": 1456.07,
+      "end": 1459.55,
+      "text": "And if I can collar Mr. Waters, I'll ask him what it's all about."
+    },
+    {
+      "start": 1468.09,
+      "end": 1472.39,
+      "text": "Well spotted, Andy Colley. And here now is the first of four by Girl School."
+    },
+    {
+      "start": 1472.39,
+      "end": 2040.32,
+      "text": "...stressless and a track called Visionary, and now here's some really nice news."
+    },
+    {
+      "start": 2041.54,
+      "end": 2045.57,
+      "text": "And the good news is that that track is going to be included on a new compilation album"
+    },
+    {
+      "start": 2045.57,
+      "end": 2049.65,
+      "text": "which is coming out during the month of September on BBC Records, nonetheless."
+    },
+    {
+      "start": 2050.19,
+      "end": 2050.81,
+      "text": "Total quality."
+    },
+    {
+      "start": 2051.51,
+      "end": 2053.61,
+      "text": "Now, the album's going to be called Metal Explosion,"
+    },
+    {
+      "start": 2053.83,
+      "end": 2056.49,
+      "text": "and it's going to be built around various tracks that have been recorded"
+    },
+    {
+      "start": 2056.49,
+      "end": 2059.27,
+      "text": "specially for Friday Rock Show Sessions."
+    },
+    {
+      "start": 2059.41,
+      "end": 2060.03,
+      "text": "Hard to say, then."
+    },
+    {
+      "start": 2061.29,
+      "end": 2062.51,
+      "text": "That's coming out in September."
+    },
+    {
+      "start": 2062.75,
+      "end": 2066.05,
+      "text": "It's going to include a load of good music, and I'll tell you more about it."
+    },
+    {
+      "start": 2066.23,
+      "end": 2069.44,
+      "text": "as the month of August progresses up to the release date."
+    },
+    {
+      "start": 2070.2,
+      "end": 2072.42,
+      "text": "Okay, the album's going to be called Metal Explosion."
+    },
+    {
+      "start": 2072.76,
+      "end": 2074.78,
+      "text": "When it gets into the shops, buy it because we need the money."
+    },
+    {
+      "start": 2076.5,
+      "end": 2077.96,
+      "text": "And on top of that, the music's good."
+    },
+    {
+      "start": 2078.1,
+      "end": 2080.4,
+      "text": "Prior to that, you heard Girl School on the 1st of 4"
+    },
+    {
+      "start": 2080.4,
+      "end": 2082.16,
+      "text": "from their debut session here on the BBC."
+    },
+    {
+      "start": 2082.38,
+      "end": 2083.98,
+      "text": "The track was called Nothing to Lose."
+    },
+    {
+      "start": 2084.48,
+      "end": 2086.36,
+      "text": "Tomorrow, on the Saturday Rock Show,"
+    },
+    {
+      "start": 2086.5,
+      "end": 2087.82,
+      "text": "otherwise known as Rock on Saturday,"
+    },
+    {
+      "start": 2088.26,
+      "end": 2089.52,
+      "text": "I'm going to be talking to Ian Gillan,"
+    },
+    {
+      "start": 2089.52,
+      "end": 2091.98,
+      "text": "and he's got a new album out which is called Glory Road."
+    },
+    {
+      "start": 2092.66,
+      "end": 2094.26,
+      "text": "This is just one of the tracks."
+    },
+    {
+      "start": 2094.74,
+      "end": 2793.05,
+      "text": "A couple of tracks from the new album"
+    },
+    {
+      "start": 2793.05,
+      "end": 2794.59,
+      "text": "that's out by the man and the band."
+    },
+    {
+      "start": 2794.69,
+      "end": 2796.07,
+      "text": "The album's called Glory Road."
+    },
+    {
+      "start": 2796.21,
+      "end": 2797.45,
+      "text": "That track, if you believe me,"
+    },
+    {
+      "start": 2797.59,
+      "end": 2799.89,
+      "text": "first saw the light of broadcasting on this program"
+    },
+    {
+      "start": 2799.89,
+      "end": 2802.19,
+      "text": "when he specially recorded it for us some time ago."
+    },
+    {
+      "start": 2802.87,
+      "end": 2805.25,
+      "text": "And before that, you heard a track called Are You Sure?"
+    },
+    {
+      "start": 2805.37,
+      "end": 2806.67,
+      "text": "That also is in Glory Road."
+    },
+    {
+      "start": 2806.77,
+      "end": 2808.75,
+      "text": "The first 15,000 people to buy that album"
+    },
+    {
+      "start": 2808.75,
+      "end": 2811.67,
+      "text": "will find that they'll get an extra album as well,"
+    },
+    {
+      "start": 2811.73,
+      "end": 2813.31,
+      "text": "which is called For Gillan Fans Only."
+    },
+    {
+      "start": 2813.73,
+      "end": 2816.19,
+      "text": "And I'm going to be chatting about that to Mr. Gillan"
+    },
+    {
+      "start": 2816.19,
+      "end": 2819.35,
+      "text": "on Rock on Saturday tomorrow afternoon between 4 and 7.30."
+    },
+    {
+      "start": 2819.53,
+      "end": 2822.47,
+      "text": "Ian Gillan is one of the most articulate men in rock and roll, I believe,"
+    },
+    {
+      "start": 2822.47,
+      "end": 2825.25,
+      "text": "and a man that really is in touch with his fans."
+    },
+    {
+      "start": 2825.37,
+      "end": 2827.53,
+      "text": "And I'd like to thank him very much on your behalf,"
+    },
+    {
+      "start": 2827.85,
+      "end": 2830.87,
+      "text": "because I know you enjoyed it for sitting in on this programme a fortnight ago."
+    },
+    {
+      "start": 2831.77,
+      "end": 2834.07,
+      "text": "And of course, the band Gillan are going to be guesting"
+    },
+    {
+      "start": 2834.07,
+      "end": 2836.69,
+      "text": "on the Friday evening of the Reading Festival this year."
+    },
+    {
+      "start": 2836.91,
+      "end": 2839.33,
+      "text": "And the Friday Rock Show is going to be there throughout the three days,"
+    },
+    {
+      "start": 2839.67,
+      "end": 2842.43,
+      "text": "recording, well, about 12 of the acts who are going to hit the stage."
+    },
+    {
+      "start": 2847.52,
+      "end": 2850.0,
+      "text": "13 minutes before 11, let's go back to Girl School."
+    },
+    {
+      "start": 2850.0,
+      "end": 3069.36,
+      "text": "Can't make things any plainer"
+    },
+    {
+      "start": 3069.36,
+      "end": 3072.76,
+      "text": "Let's get in the way"
+    },
+    {
+      "start": 3072.76,
+      "end": 3087.36,
+      "text": "is that quite if not now then certainly sooner or later we've got a problem with communication"
+    },
+    {
+      "start": 3087.36,
+      "end": 3097.72,
+      "text": "look i scrabble with my hands well i try to get some headroom from the elevation but you just don't"
+    },
+    {
+      "start": 3097.72,
+      "end": 3263.44,
+      "text": "understand so much better than anything with precision album that's come out on s type records"
+    },
+    {
+      "start": 3263.44,
+      "end": 3265.32,
+      "text": "The album's called A Black Box."
+    },
+    {
+      "start": 3265.54,
+      "end": 3268.56,
+      "text": "In the track you heard there was entitled Losing Faith in Words."
+    },
+    {
+      "start": 3269.2,
+      "end": 3271.72,
+      "text": "And I played it because Peter Hamill wrote me a personal letter,"
+    },
+    {
+      "start": 3272.0,
+      "end": 3272.96,
+      "text": "for which I'm very thankful."
+    },
+    {
+      "start": 3273.64,
+      "end": 3275.64,
+      "text": "He just said, Dear Tom, here's A Black Box."
+    },
+    {
+      "start": 3276.1,
+      "end": 3278.04,
+      "text": "I believe it contains some of the best work I've ever done,"
+    },
+    {
+      "start": 3278.1,
+      "end": 3280.0,
+      "text": "either solo or with Van de Graaff."
+    },
+    {
+      "start": 3280.16,
+      "end": 3281.86,
+      "text": "It is resolutely of the 80s."
+    },
+    {
+      "start": 3281.9,
+      "end": 3282.58,
+      "text": "See what you think."
+    },
+    {
+      "start": 3282.66,
+      "end": 3283.34,
+      "text": "And I think it is."
+    },
+    {
+      "start": 3285.51,
+      "end": 3286.99,
+      "text": "Prior to that, you heard Girl School,"
+    },
+    {
+      "start": 3287.23,
+      "end": 3289.71,
+      "text": "and the second of four we're playing tonight in the Friday Rock Show."
+    },
+    {
+      "start": 3290.29,
+      "end": 3292.47,
+      "text": "From our session by then, the track was Breakdown,"
+    },
+    {
+      "start": 3292.47,
+      "end": 3295.07,
+      "text": "and it featured lead guitarist Kelly Johnson on the lead vocals."
+    },
+    {
+      "start": 3295.21,
+      "end": 3297.91,
+      "text": "And that will make Tommy Muir of the Orkneys more than happy"
+    },
+    {
+      "start": 3297.91,
+      "end": 3299.45,
+      "text": "because he's in love with all four of them."
+    },
+    {
+      "start": 3303.94,
+      "end": 3305.58,
+      "text": "Band here by the name of Holocaust."
+    },
+    {
+      "start": 3847.89,
+      "end": 3850.49,
+      "text": "A blue oyster cult and a track from their new album which is out on CBS."
+    },
+    {
+      "start": 3850.75,
+      "end": 3853.67,
+      "text": "The album is called Cultosaurus Erectus"
+    },
+    {
+      "start": 3853.67,
+      "end": 3855.61,
+      "text": "and the track you heard there was called Monsters."
+    },
+    {
+      "start": 3856.03,
+      "end": 3857.77,
+      "text": "They always come up with something different, that band."
+    },
+    {
+      "start": 3857.85,
+      "end": 3859.79,
+      "text": "They're very sophisticated and they really know what they're doing."
+    },
+    {
+      "start": 3860.23,
+      "end": 3862.45,
+      "text": "And I'm looking forward to one of these days seeing them again."
+    },
+    {
+      "start": 3862.57,
+      "end": 3864.91,
+      "text": "I haven't seen them, oh, it must be in about four years."
+    },
+    {
+      "start": 3865.23,
+      "end": 3867.43,
+      "text": "Prior to that you heard something from a 12-incher"
+    },
+    {
+      "start": 3867.43,
+      "end": 3868.89,
+      "text": "by a band called Holocaust."
+    },
+    {
+      "start": 3869.57,
+      "end": 3871.31,
+      "text": "The track you heard was Heavy Metal Mania."
+    },
+    {
+      "start": 3871.43,
+      "end": 3872.55,
+      "text": "Don't know too much about the band."
+    },
+    {
+      "start": 3872.65,
+      "end": 3874.41,
+      "text": "Got a short press release in front of me"
+    },
+    {
+      "start": 3874.41,
+      "end": 3876.53,
+      "text": "that was generated up there in Edinburgh."
+    },
+    {
+      "start": 3877.11,
+      "end": 3880.03,
+      "text": "It just says that the band are all 17 years of age"
+    },
+    {
+      "start": 3880.03,
+      "end": 3883.69,
+      "text": "and they're the first act on Phoenix Record and Filmworks."
+    },
+    {
+      "start": 3883.81,
+      "end": 3885.59,
+      "text": "So if you want to find it, it's a 12-incher"
+    },
+    {
+      "start": 3885.59,
+      "end": 3886.87,
+      "text": "and it's on the Phoenix label."
+    },
+    {
+      "start": 3887.27,
+      "end": 3888.57,
+      "text": "Back to Trespass."
+    },
+    {
+      "start": 3889.29,
+      "end": 4128.54,
+      "text": "That was Trespass and the studio version"
+    },
+    {
+      "start": 4128.54,
+      "end": 4130.18,
+      "text": "of what was their first single."
+    },
+    {
+      "start": 4130.78,
+      "end": 4132.1,
+      "text": "The track was called One of These Days"
+    },
+    {
+      "start": 4132.1,
+      "end": 4134.7,
+      "text": "and that was recorded in April of this year."
+    },
+    {
+      "start": 4134.8,
+      "end": 4136.7,
+      "text": "I hear now that they've got a new lead singer"
+    },
+    {
+      "start": 4136.7,
+      "end": 4138.06,
+      "text": "by the name of Rob Eklund"
+    },
+    {
+      "start": 4138.06,
+      "end": 4139.54,
+      "text": "and there are going to be some London gigs"
+    },
+    {
+      "start": 4139.54,
+      "end": 4140.36,
+      "text": "at the end of August,"
+    },
+    {
+      "start": 4140.76,
+      "end": 4142.42,
+      "text": "but no dates have been fixed as yet."
+    },
+    {
+      "start": 4142.6,
+      "end": 4144.08,
+      "text": "And that's all the trustless information"
+    },
+    {
+      "start": 4144.08,
+      "end": 4144.92,
+      "text": "I've got for you tonight."
+    },
+    {
+      "start": 4147.87,
+      "end": 4148.87,
+      "text": "Nine minutes after 11,"
+    },
+    {
+      "start": 4148.93,
+      "end": 4150.27,
+      "text": "it's time for the Friday Night Connection."
+    },
+    {
+      "start": 4150.35,
+      "end": 4151.71,
+      "text": "The return of this free,"
+    },
+    {
+      "start": 4151.81,
+      "end": 4152.63,
+      "text": "gratis and for nothing,"
+    },
+    {
+      "start": 4153.89,
+      "end": 4156.43,
+      "text": "titillating, tantalising part of the week."
+    },
+    {
+      "start": 4157.68,
+      "end": 4158.64,
+      "text": "And tonight we're going to play"
+    },
+    {
+      "start": 4158.64,
+      "end": 4159.74,
+      "text": "the Friday Night Connection"
+    },
+    {
+      "start": 4159.74,
+      "end": 4161.4,
+      "text": "that was put together by our last winner,"
+    },
+    {
+      "start": 4161.64,
+      "end": 4163.28,
+      "text": "who is Mr Mark Studley,"
+    },
+    {
+      "start": 4163.28,
+      "end": 4166.3,
+      "text": "who lives at 63 Vancouver Drive, Newport and Gwent"
+    },
+    {
+      "start": 4166.3,
+      "end": 4168.72,
+      "text": "who should be a £10 record token richer now."
+    },
+    {
+      "start": 4170.74,
+      "end": 4174.1,
+      "text": "Three pieces of music with a definite theme"
+    },
+    {
+      "start": 4174.1,
+      "end": 4175.68,
+      "text": "and a definite connection."
+    },
+    {
+      "start": 4176.31,
+      "end": 4177.85,
+      "text": "Starting off with this."
+    },
+    {
+      "start": 4178.25,
+      "end": 5099.91,
+      "text": "There you have the return of the Friday Night Connection."
+    },
+    {
+      "start": 5100.09,
+      "end": 5102.07,
+      "text": "Now, you heard three pieces of music"
+    },
+    {
+      "start": 5102.07,
+      "end": 5104.75,
+      "text": "and there is most definitely a connection involved"
+    },
+    {
+      "start": 5104.75,
+      "end": 5107.01,
+      "text": "in those three slices of success"
+    },
+    {
+      "start": 5107.01,
+      "end": 5109.51,
+      "text": "which were put together by Mark Stutley"
+    },
+    {
+      "start": 5109.51,
+      "end": 5110.55,
+      "text": "who lives in Newport and Gwent."
+    },
+    {
+      "start": 5110.61,
+      "end": 5112.51,
+      "text": "If you think you know what the connection is"
+    },
+    {
+      "start": 5112.51,
+      "end": 5114.05,
+      "text": "then just jot it down on a postcard"
+    },
+    {
+      "start": 5114.05,
+      "end": 5115.47,
+      "text": "and send it to this address."
+    },
+    {
+      "start": 5116.13,
+      "end": 5117.09,
+      "text": "The Friday Night Connection,"
+    },
+    {
+      "start": 5117.53,
+      "end": 5118.61,
+      "text": "The Friday Rock Show,"
+    },
+    {
+      "start": 5119.05,
+      "end": 5120.51,
+      "text": "BBC Radio 1,"
+    },
+    {
+      "start": 5121.17,
+      "end": 5121.65,
+      "text": "London,"
+    },
+    {
+      "start": 5122.01,
+      "end": 5123.61,
+      "text": "W1A4WW."
+    },
+    {
+      "start": 5124.59,
+      "end": 5126.63,
+      "text": "But don't forget your side of the deal as well."
+    },
+    {
+      "start": 5126.83,
+      "end": 5128.83,
+      "text": "We need from you three bits of music"
+    },
+    {
+      "start": 5128.83,
+      "end": 5130.83,
+      "text": "which have a definite connection or theme."
+    },
+    {
+      "start": 5131.47,
+      "end": 5132.69,
+      "text": "And if you are the person"
+    },
+    {
+      "start": 5132.69,
+      "end": 5135.53,
+      "text": "that is mentioned around about this time next week,"
+    },
+    {
+      "start": 5135.91,
+      "end": 5138.47,
+      "text": "we'll have a £10 record token to play with."
+    },
+    {
+      "start": 5138.47,
+      "end": 5328.24,
+      "text": "back to the sixth form and girl school good band girl school and demolition which you'll find on"
+    },
+    {
+      "start": 5328.24,
+      "end": 5332.12,
+      "text": "their album of the same name that that of course was our studio version because we're featuring"
+    },
+    {
+      "start": 5332.12,
+      "end": 5336.9,
+      "text": "their session tonight the lead vocalist there was kim mccaleef you can actually get to see that band"
+    },
+    {
+      "start": 5336.9,
+      "end": 5340.44,
+      "text": "tomorrow night in folkestone they'll be at the lees cliff hall and then they're in hull and"
+    },
+    {
+      "start": 5340.44,
+      "end": 5347.34,
+      "text": "colwyn bay leeds pillsley at the shoulder of mutton st alban city hall great place for good gigs and"
+    },
+    {
+      "start": 5347.34,
+      "end": 5351.82,
+      "text": "also the nottingham theatre royal if you do have an opportunity to go and see him do so because"
+    },
+    {
+      "start": 5351.82,
+      "end": 5357.26,
+      "text": "they really can play their instruments here's something that came out in 1973 from a really"
+    },
+    {
+      "start": 5357.26,
+      "end": 5361.58,
+      "text": "favorite album of mine though i didn't request it i'll tell you who did later it's the eagles"
+    },
+    {
+      "start": 5361.58,
+      "end": 5427.53,
+      "text": "and a track called outlaw man"
+    },
+    {
+      "start": 5431.68,
+      "end": 5434.67,
+      "text": "All my friends are straight"
+    },
+    {
+      "start": 5434.67,
+      "end": 5442.66,
+      "text": "They live with beaks and soles"
+    },
+    {
+      "start": 5442.66,
+      "end": 5445.68,
+      "text": "Woman, don't try to love me"
+    },
+    {
+      "start": 5445.68,
+      "end": 5447.92,
+      "text": "Don't try to understand"
+    },
+    {
+      "start": 5447.92,
+      "end": 5451.14,
+      "text": "A life of a..."
+    },
+    {
+      "start": 5451.14,
+      "end": 5452.78,
+      "text": "It's a life of an outlaw"
+    },
+    {
+      "start": 5452.78,
+      "end": 5891.54,
+      "text": "Great piece of recording."
+    },
+    {
+      "start": 5891.68,
+      "end": 5893.74,
+      "text": "That was Trespass and Stormchild"
+    },
+    {
+      "start": 5893.74,
+      "end": 5894.92,
+      "text": "from our session by then."
+    },
+    {
+      "start": 5896.4,
+      "end": 5898.3,
+      "text": "A few people, quite a number of people,"
+    },
+    {
+      "start": 5898.42,
+      "end": 5900.1,
+      "text": "not just a few, wanted to hear Trespass again"
+    },
+    {
+      "start": 5900.1,
+      "end": 5901.94,
+      "text": "on the Friday Rock Show, including Anna Murray"
+    },
+    {
+      "start": 5901.94,
+      "end": 5904.26,
+      "text": "of Dundee in Scotland, who wrote on our card"
+    },
+    {
+      "start": 5904.26,
+      "end": 5906.24,
+      "text": "I wrote before and you ignored me."
+    },
+    {
+      "start": 5906.24,
+      "end": 5912.92,
+      "text": "But I'm not now, Alan. I'm just going to say hello to all her mates that went to see Girls' School in concert in Dundee on July the 9th."
+    },
+    {
+      "start": 5913.6,
+      "end": 5917.06,
+      "text": "And that's Grace and Carmel and Andy Barrett and Ian Hood and Leslie Carroll."
+    },
+    {
+      "start": 5917.68,
+      "end": 5920.96,
+      "text": "Alison Duffy and Gillian Donnelly and Jenny Brown, etc., etc."
+    },
+    {
+      "start": 5922.71,
+      "end": 5926.81,
+      "text": "Kevin Wellen of Birch, Colchester and Essex also was into that session."
+    },
+    {
+      "start": 5927.86,
+      "end": 5932.44,
+      "text": "Prior to that, something from the 73 album called Desperado, an album put together by the Eagles."
+    },
+    {
+      "start": 5932.58,
+      "end": 5934.08,
+      "text": "The track we played was Outlaw Man."
+    },
+    {
+      "start": 5934.08,
+      "end": 5936.5,
+      "text": "And that was for Scott's Pete and for Rags"
+    },
+    {
+      "start": 5936.5,
+      "end": 5938.0,
+      "text": "and Mutz and Judge and Animal"
+    },
+    {
+      "start": 5938.0,
+      "end": 5939.6,
+      "text": "and Brock and Edge and Jess"
+    },
+    {
+      "start": 5939.6,
+      "end": 5941.76,
+      "text": "from Wolf's Outlaws, Chelt"
+    },
+    {
+      "start": 5941.76,
+      "end": 5944.2,
+      "text": "and Desperado's Outlaws, Forrest of Dean."
+    },
+    {
+      "start": 5944.66,
+      "end": 5945.98,
+      "text": "And it says thanks a lot on this letter"
+    },
+    {
+      "start": 5945.98,
+      "end": 5947.52,
+      "text": "from Wolf's old ladies,"
+    },
+    {
+      "start": 5947.86,
+      "end": 5949.98,
+      "text": "Debs, Lynn, Carol S., Linda,"
+    },
+    {
+      "start": 5950.5,
+      "end": 5952.24,
+      "text": "Carol W., Pat and Ruth."
+    },
+    {
+      "start": 5952.8,
+      "end": 5958.1,
+      "text": "Some more new stuff by Gillen."
+    },
+    {
+      "start": 5958.4,
+      "end": 6168.57,
+      "text": "Since I read your letter"
+    },
+    {
+      "start": 6168.57,
+      "end": 6300.93,
+      "text": "A song done by Elvis Presley years and years ago."
+    },
+    {
+      "start": 6301.03,
+      "end": 6302.47,
+      "text": "But that was Ian Gillen."
+    },
+    {
+      "start": 6302.63,
+      "end": 6303.73,
+      "text": "And that's a track from the album"
+    },
+    {
+      "start": 6303.73,
+      "end": 6305.65,
+      "text": "which is called For Gillan Fans Only,"
+    },
+    {
+      "start": 6305.81,
+      "end": 6308.61,
+      "text": "which is given away free with the first 15,000 copies"
+    },
+    {
+      "start": 6308.61,
+      "end": 6310.53,
+      "text": "of his new album, which is called Glory Road."
+    },
+    {
+      "start": 6311.22,
+      "end": 6312.88,
+      "text": "The track you heard was called Trying To Get To You."
+    },
+    {
+      "start": 6313.22,
+      "end": 6315.54,
+      "text": "And before that, you heard something from Glory Road,"
+    },
+    {
+      "start": 6316.0,
+      "end": 6318.08,
+      "text": "and it was called Unchain Your Brain."
+    },
+    {
+      "start": 6318.36,
+      "end": 6319.82,
+      "text": "And I think I've already mentioned it,"
+    },
+    {
+      "start": 6319.86,
+      "end": 6320.7,
+      "text": "but I'll mention it again."
+    },
+    {
+      "start": 6321.16,
+      "end": 6322.64,
+      "text": "I'm going to be talking to Ian Gillan tomorrow"
+    },
+    {
+      "start": 6322.64,
+      "end": 6324.76,
+      "text": "on Rock On Saturday, which is a programme right here"
+    },
+    {
+      "start": 6324.76,
+      "end": 6327.28,
+      "text": "on Radio 1 between 4 and 7.30."
+    },
+    {
+      "start": 6327.54,
+      "end": 6328.9,
+      "text": "And I'm going to ask him all about this"
+    },
+    {
+      "start": 6328.9,
+      "end": 6330.3,
+      "text": "For Gillan Fans Only LP."
+    },
+    {
+      "start": 6330.98,
+      "end": 6333.06,
+      "text": "It has a whole selection of oddments"
+    },
+    {
+      "start": 6333.06,
+      "end": 6334.48,
+      "text": "that have been recorded over the years"
+    },
+    {
+      "start": 6334.48,
+      "end": 6336.2,
+      "text": "and haven't been released in this country before."
+    },
+    {
+      "start": 6336.74,
+      "end": 6338.0,
+      "text": "Okay, this is the Friday Rock Show."
+    },
+    {
+      "start": 6338.12,
+      "end": 6339.42,
+      "text": "It's 14 minutes to midnight."
+    },
+    {
+      "start": 6340.36,
+      "end": 6343.72,
+      "text": "25 Years of Rock rolls round this week to the year 1961."
+    },
+    {
+      "start": 6344.42,
+      "end": 6346.8,
+      "text": "John F. Kennedy becomes President of the United States"
+    },
+    {
+      "start": 6346.8,
+      "end": 6348.66,
+      "text": "and has to deal with Russian rockets in Cuba."
+    },
+    {
+      "start": 6349.22,
+      "end": 6350.88,
+      "text": "Rudolf Nureyev defects from Russia"
+    },
+    {
+      "start": 6350.88,
+      "end": 6352.74,
+      "text": "as the Berlin Wall begins to rise."
+    },
+    {
+      "start": 6353.28,
+      "end": 6354.38,
+      "text": "Chubby Checker does the twist,"
+    },
+    {
+      "start": 6354.62,
+      "end": 6355.78,
+      "text": "Dave Brubeck takes five,"
+    },
+    {
+      "start": 6355.88,
+      "end": 6356.78,
+      "text": "and Barry Mann asks,"
+    },
+    {
+      "start": 6357.14,
+      "end": 6357.92,
+      "text": "Who put the bomb?"
+    },
+    {
+      "start": 6358.84,
+      "end": 6360.72,
+      "text": "1961, a most dramatic year."
+    },
+    {
+      "start": 6360.72,
+      "end": 6364.22,
+      "text": "That's 25 Years of Rock, Radio 1, Sunday, 7 o'clock."
+    },
+    {
+      "start": 6859.86,
+      "end": 6862.5,
+      "text": "Dancing with Mr. D from the album Goat's Head Soup."
+    },
+    {
+      "start": 6862.58,
+      "end": 6864.94,
+      "text": "It came out in 1973. I didn't know it was that long ago."
+    },
+    {
+      "start": 6865.12,
+      "end": 6867.18,
+      "text": "I had to look on the label to find out exactly when."
+    },
+    {
+      "start": 6867.32,
+      "end": 6868.56,
+      "text": "That, of course, was the Rolling Stones."
+    },
+    {
+      "start": 6869.14,
+      "end": 6875.16,
+      "text": "And that was for Angus and Justine and everybody that goes to or has recently retired from Blundell School in Tiverton."
+    },
+    {
+      "start": 6875.58,
+      "end": 6879.72,
+      "text": "And before that, you heard The Last of Four Tonight by Girl School from our session by them."
+    },
+    {
+      "start": 6880.22,
+      "end": 6882.0,
+      "text": "It was the track called Take It All Away."
+    },
+    {
+      "start": 6882.0,
+      "end": 6883.82,
+      "text": "Kelly Johnson on lead guitar and vocals,"
+    },
+    {
+      "start": 6884.02,
+      "end": 6885.52,
+      "text": "Kim McAleef on guitar and vocals,"
+    },
+    {
+      "start": 6885.7,
+      "end": 6886.84,
+      "text": "Denny's Dufour on the drums,"
+    },
+    {
+      "start": 6887.32,
+      "end": 6888.4,
+      "text": "and Di Williams on the bass."
+    },
+    {
+      "start": 6888.48,
+      "end": 6890.3,
+      "text": "Somebody made a nasty comment today on the radio,"
+    },
+    {
+      "start": 6890.42,
+      "end": 6892.28,
+      "text": "can't remember who it was, thought it was a bit cruel."
+    },
+    {
+      "start": 6892.86,
+      "end": 6894.7,
+      "text": "They said that Denny's Dufour, the drummer,"
+    },
+    {
+      "start": 6895.34,
+      "end": 6897.34,
+      "text": "looks something like a Romanian athlete."
+    },
+    {
+      "start": 6897.74,
+      "end": 6898.38,
+      "text": "Bit cruel."
+    },
+    {
+      "start": 6898.58,
+      "end": 6900.68,
+      "text": "If you get the chance to go and see the band, do so,"
+    },
+    {
+      "start": 6900.76,
+      "end": 6902.64,
+      "text": "because they can play their instruments marvellously."
+    },
+    {
+      "start": 6903.02,
+      "end": 6904.76,
+      "text": "I've just heard that this is going to come out"
+    },
+    {
+      "start": 6904.76,
+      "end": 6907.02,
+      "text": "as the new single by Trespass in September."
+    },
+    {
+      "start": 6908.12,
+      "end": 7128.67,
+      "text": "And that was Trespass, and that was called Live It Up."
+    },
+    {
+      "start": 7129.51,
+      "end": 7131.55,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7131.75,
+      "end": 7135.56,
+      "text": "A quick reminder that on Rock on Saturday tomorrow,"
+    },
+    {
+      "start": 7135.68,
+      "end": 7138.4,
+      "text": "I'll be talking, oh, various people will be talking to the Q-tips."
+    },
+    {
+      "start": 7138.54,
+      "end": 7140.42,
+      "text": "Gillan, I'll be talking to him, and we'll have Bow Wow Wow."
+    },
+    {
+      "start": 7140.5,
+      "end": 7141.54,
+      "text": "That's 4 to 7.30 tomorrow."
+    },
+    {
+      "start": 7143.36,
+      "end": 7144.9,
+      "text": "And on the Friday Rock Show next week,"
+    },
+    {
+      "start": 7144.92,
+      "end": 7147.24,
+      "text": "a repeat of our session by Taurus and Out of the Archives"
+    },
+    {
+      "start": 7147.24,
+      "end": 7148.24,
+      "text": "will have the Yardbirds."
+    },
+    {
+      "start": 7148.36,
+      "end": 7151.04,
+      "text": "Many thanks to our engineer tonight, who has been Paul."
+    },
+    {
+      "start": 7152.04,
+      "end": 7154.16,
+      "text": "And I tell you, the last four and a half hours of Radio 1"
+    },
+    {
+      "start": 7154.16,
+      "end": 7156.44,
+      "text": "have been brought to you by that eminent producer, Tony Wilson,"
+    },
+    {
+      "start": 7156.52,
+      "end": 7157.58,
+      "text": "who's still awake, aren't you, Tony?"
+    },
+    {
+      "start": 7157.74,
+      "end": 7159.32,
+      "text": "Yes, can I go to bed now, please?"
+    },
+    {
+      "start": 7159.32,
+      "end": 7160.82,
+      "text": "and goodnight, Wandsworth."
+    },
+    {
+      "start": 7161.34,
+      "end": 7162.1,
+      "text": "Oh, really?"
+    },
+    {
+      "start": 7163.06,
+      "end": 7163.92,
+      "text": "Cryptic remark."
+    },
+    {
+      "start": 7164.91,
+      "end": 7166.13,
+      "text": "This is Tommy Vance in London."
+    },
+    {
+      "start": 7166.27,
+      "end": 7167.53,
+      "text": "Wherever you are, take care."
+    },
+    {
+      "start": 7167.65,
+      "end": 7168.35,
+      "text": "Goodnight. God bless."
     }
   ]
 }

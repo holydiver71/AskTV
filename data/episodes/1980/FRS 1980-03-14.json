@@ -21,37 +21,44 @@
     {
       "artist": "Ian Gillan Band",
       "track": "Smoke On The Water",
-      "details": "LP-Live At The Budokan Vol.2; Eastworld"
+      "details": "LP-Live At The Budokan Vol.2; Eastworld",
+      "verified_timestamp": 886.2
     },
     {
       "artist": "Cheap Trick",
       "track": "Clock Strikes Ten",
-      "details": "LP-Cheap Trick At Budokan; Epic"
+      "details": "LP-Cheap Trick At Budokan; Epic",
+      "verified_timestamp": 72.36
     },
     {
       "artist": "Angel Witch",
       "track": "Angel Of Death",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 918.52
     },
     {
       "artist": "Pat Metheny Group",
       "track": "(Cross The) Heartland",
-      "details": "LP-American Garage; ECM"
+      "details": "LP-American Garage; ECM",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Genesis",
       "track": "Man Of Our Times",
-      "details": "LP-Duke; Charisma"
+      "details": "LP-Duke; Charisma",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Pat Travers Band",
       "track": "Born Under A Bad Sign",
-      "details": "LP-Crash And Burn; Polydor"
+      "details": "LP-Crash And Burn; Polydor",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Uriah Heep",
       "track": "Dreammare",
-      "details": "Archive session"
+      "details": "Archive session",
+      "verified_timestamp": 2413.33
     },
     {
       "artist": "Uriah Heep",
@@ -61,12 +68,14 @@
     {
       "artist": "Robin Trower",
       "track": "Jack And Jill",
-      "details": "LP-Victims Of The Fury; Chrysalis"
+      "details": "LP-Victims Of The Fury; Chrysalis",
+      "verified_timestamp": 3323.03
     },
     {
       "artist": "Atomic Rooster",
       "track": "Tomorrow Night",
-      "details": "LP-Atomic Rooster; B & C"
+      "details": "LP-Atomic Rooster; B & C",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Angel Witch",
@@ -76,22 +85,26 @@
     {
       "artist": "Nightshift",
       "track": "'Don't Rush The Good Things (7\")' (Harvest)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3786.71
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.38
     },
     {
       "artist": "Krokus",
       "track": "Bedside Radio",
-      "details": "LP-Metal Rendez-vous; Arista"
+      "details": "LP-Metal Rendez-vous; Arista",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Original Mirrors",
       "track": "Flying",
-      "details": "LP-Original Mirror; Mercury"
+      "details": "LP-Original Mirror; Mercury",
+      "verified_timestamp": 1697.07
     },
     {
       "artist": "Witchfynde",
@@ -106,7 +119,8 @@
     {
       "artist": "Pink Floyd",
       "track": "Dogs",
-      "details": "LP-Animals; Harvest; excerpt"
+      "details": "LP-Animals; Harvest; excerpt",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Vangelis Papathanassiou",
@@ -131,7 +145,1090 @@
     {
       "artist": "Judas Priest",
       "track": "Living After Midnight",
-      "details": "LP-British Steel; CBS"
+      "details": "LP-British Steel; CBS",
+      "verified_timestamp": 7020.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.42,
+      "end": 13.58,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 13.58,
+      "end": 25.48,
+      "text": "Well, hello there. Very good evening to you. This is Thomas Vance, TV on the radio."
+    },
+    {
+      "start": 25.48,
+      "end": 28.48,
+      "text": "And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 28.48,
+      "end": 33.48,
+      "text": "Tonight from the archives, as recorded in the BBC studios during 1970 and 1971,"
+    },
+    {
+      "start": 33.48,
+      "end": 36.48,
+      "text": "we rebroadcast some really good stuff by Uriah Heep."
+    },
+    {
+      "start": 36.48,
+      "end": 41.48,
+      "text": "Also, we have the first ever session by Angel Witch, a band from South London."
+    },
+    {
+      "start": 41.48,
+      "end": 58.12,
+      "text": "And we've got classic cuts from Cheap Trick, Atomic Rooster, The Pink Floyd, among others,"
+    },
+    {
+      "start": 58.2,
+      "end": 63.74,
+      "text": "and new releases from Pat Metheny, Genesis, Pat Travers, Robin Char, Crocus, and the original Mirrors."
+    },
+    {
+      "start": 64.38,
+      "end": 67.64,
+      "text": "Not forgetting our Friday night connection, tonight guaranteed to titillate."
+    },
+    {
+      "start": 68.96,
+      "end": 71.38,
+      "text": "But this evening we start with the Ian Gillen Band."
+    },
+    {
+      "start": 72.36,
+      "end": 858.73,
+      "text": "...and the track called Clock Strikes Ten from the At The Budokan album."
+    },
+    {
+      "start": 859.27,
+      "end": 861.97,
+      "text": "Specially requested by David Gatehouse, who lives in Harrogate."
+    },
+    {
+      "start": 861.97,
+      "end": 865.27,
+      "text": "Specially for loads of his friends, Richard and Mike and Bob and Greg and Paz and Addy,"
+    },
+    {
+      "start": 865.27,
+      "end": 869.91,
+      "text": "the two susans and kim and carol and sarah and heather and all his friends at the harrogate"
+    },
+    {
+      "start": 869.91,
+      "end": 874.98,
+      "text": "grammar school also wants to say hello to pat and stephen and hugh and martin in wales and the"
+    },
+    {
+      "start": 874.98,
+      "end": 880.2,
+      "text": "watford crowd at aberystwyth university and before that you heard something from an import that was"
+    },
+    {
+      "start": 880.2,
+      "end": 886.2,
+      "text": "recorded during 1977 by the ian gillan band the album's called live at budokan volume two it's on"
+    },
+    {
+      "start": 886.2,
+      "end": 891.64,
+      "text": "the east world label what was the track smoke on the water another especially the stew dixon and"
+    },
+    {
+      "start": 891.64,
+      "end": 894.14,
+      "text": "All the DL7th form in Hull."
+    },
+    {
+      "start": 894.88,
+      "end": 897.74,
+      "text": "And also for Paul and Nicola, I think it is,"
+    },
+    {
+      "start": 897.8,
+      "end": 901.0,
+      "text": "and Graham C and Kai and my mum and Gareth and Jeremy and Phil"
+    },
+    {
+      "start": 901.0,
+      "end": 903.94,
+      "text": "and the rat with the donkey jacket on at Piccadilly Station."
+    },
+    {
+      "start": 904.04,
+      "end": 905.06,
+      "text": "With lots of love from Roland."
+    },
+    {
+      "start": 905.56,
+      "end": 907.12,
+      "text": "He lives in Nantwich in Cheshire."
+    },
+    {
+      "start": 907.96,
+      "end": 911.66,
+      "text": "And I also played it from Jill, Michelle, Jill, Linda and Ruth"
+    },
+    {
+      "start": 911.66,
+      "end": 915.58,
+      "text": "for the Pixies, the Gumbies, the Garden Gnomes and the Plastic Elves from Woodies"
+    },
+    {
+      "start": 915.58,
+      "end": 918.52,
+      "text": "and all the listeners who are in South Glamorgan."
+    },
+    {
+      "start": 918.52,
+      "end": 924.36,
+      "text": "10.15, here's The First of Four by Angel Witch."
+    },
+    {
+      "start": 924.66,
+      "end": 1632.68,
+      "text": "Today's track from a magic album, which is out on ECM on import."
+    },
+    {
+      "start": 1632.8,
+      "end": 1633.82,
+      "text": "It's by Pat Metheny."
+    },
+    {
+      "start": 1633.94,
+      "end": 1637.0,
+      "text": "The album's called American Garage, and the track was Heartland."
+    },
+    {
+      "start": 1638.06,
+      "end": 1641.54,
+      "text": "And before that, you heard The First of Four, put together and mixed by Tony Wilson."
+    },
+    {
+      "start": 1641.72,
+      "end": 1643.18,
+      "text": "Angel Witch and Angel of Death."
+    },
+    {
+      "start": 1646.86,
+      "end": 1649.84,
+      "text": "I'd like to dedicate that set to a gentleman by the name of Peter Pryor,"
+    },
+    {
+      "start": 1649.98,
+      "end": 1653.12,
+      "text": "who at the moment is in the YP Center in Exeter with lots and lots of love,"
+    },
+    {
+      "start": 1653.46,
+      "end": 1654.56,
+      "text": "from Mrs. Kay Glead."
+    },
+    {
+      "start": 1654.8,
+      "end": 1656.7,
+      "text": "Mrs. Sorry, dear, just married you off."
+    },
+    {
+      "start": 1656.7,
+      "end": 1659.86,
+      "text": "Miss K. Glead of No. 90 Lime Kiln,"
+    },
+    {
+      "start": 1660.14,
+      "end": 1662.52,
+      "text": "Wotton Bassett, near Swindon and Wiltshire."
+    },
+    {
+      "start": 1663.18,
+      "end": 1664.56,
+      "text": "Also, I've got to tell a gentleman here"
+    },
+    {
+      "start": 1664.56,
+      "end": 1666.94,
+      "text": "that he's much loved by a girl called Judy from Plymouth,"
+    },
+    {
+      "start": 1667.04,
+      "end": 1669.9,
+      "text": "and that gentleman is Nick Gibson of Southway,"
+    },
+    {
+      "start": 1670.06,
+      "end": 1671.88,
+      "text": "who is 23 on Sunday."
+    },
+    {
+      "start": 1672.76,
+      "end": 1676.49,
+      "text": "It's 28 minutes past ten."
+    },
+    {
+      "start": 1677.07,
+      "end": 1695.51,
+      "text": "Hi, this is Mike Rutherford from Genesis."
+    },
+    {
+      "start": 1695.97,
+      "end": 1696.99,
+      "text": "This Sunday at seven o'clock,"
+    },
+    {
+      "start": 1697.07,
+      "end": 1698.57,
+      "text": "I shall be playing some of my favourite records"
+    },
+    {
+      "start": 1698.57,
+      "end": 1700.97,
+      "text": "and digging into my deep and murky past"
+    },
+    {
+      "start": 1700.97,
+      "end": 1703.27,
+      "text": "and blowing the dust off all the old singles"
+    },
+    {
+      "start": 1703.27,
+      "end": 1705.09,
+      "text": "that have been stored for many years in my attic."
+    },
+    {
+      "start": 1705.97,
+      "end": 1713.69,
+      "text": "So do join me this Sunday after the Top 40 show at 7 o'clock"
+    },
+    {
+      "start": 1713.69,
+      "end": 1719.15,
+      "text": "on Radio 1, 275, 285, medium wave, and in stereo on VHF."
+    },
+    {
+      "start": 1720.23,
+      "end": 1722.09,
+      "text": "Star Special, this Sunday."
+    },
+    {
+      "start": 1724.37,
+      "end": 2375.33,
+      "text": "Playing it tonight from New York, they are Pat Travers Band,"
+    },
+    {
+      "start": 2375.41,
+      "end": 2378.01,
+      "text": "and a track from an album that's coming out shortly on the Polydor label."
+    },
+    {
+      "start": 2378.15,
+      "end": 2381.77,
+      "text": "The album's called Crash and Burn, and the track was called Born Under a Bad Sign,"
+    },
+    {
+      "start": 2381.83,
+      "end": 2384.83,
+      "text": "and I am ever looking forward to seeing them live on stage."
+    },
+    {
+      "start": 2385.01,
+      "end": 2387.83,
+      "text": "Him and his band get better all the time, they really do."
+    },
+    {
+      "start": 2388.15,
+      "end": 2389.81,
+      "text": "They're going on tour shortly with Girl."
+    },
+    {
+      "start": 2390.19,
+      "end": 2391.91,
+      "text": "And before that, you heard something by Genesis"
+    },
+    {
+      "start": 2391.91,
+      "end": 2394.43,
+      "text": "from their new album called Duke, as if you didn't know."
+    },
+    {
+      "start": 2394.53,
+      "end": 2395.71,
+      "text": "The track was Man of Our Times."
+    },
+    {
+      "start": 2396.13,
+      "end": 2398.25,
+      "text": "Their tour starts on Monday down there in the West Country."
+    },
+    {
+      "start": 2398.65,
+      "end": 2401.21,
+      "text": "And tomorrow on Rock on Saturday between 4 and 7.30,"
+    },
+    {
+      "start": 2401.21,
+      "end": 2404.53,
+      "text": "I'll be having a chat with that ace drummer, stroke singer, Phil Collins."
+    },
+    {
+      "start": 2411.29,
+      "end": 2413.09,
+      "text": "19 minutes before 11 o'clock."
+    },
+    {
+      "start": 2413.33,
+      "end": 2416.89,
+      "text": "Now from 1970, the original line-up of Uriah Heep."
+    },
+    {
+      "start": 2417.27,
+      "end": 2418.07,
+      "text": "Dream Man!"
+    },
+    {
+      "start": 2418.59,
+      "end": 2907.74,
+      "text": "Came on the scene way back in 1970."
+    },
+    {
+      "start": 2907.92,
+      "end": 2909.54,
+      "text": "They really, really got a roasting."
+    },
+    {
+      "start": 2909.54,
+      "end": 2912.48,
+      "text": "Me, I thought they were great and still are."
+    },
+    {
+      "start": 2913.18,
+      "end": 2915.94,
+      "text": "That was the original line-up of Uriah Heep out of our archives."
+    },
+    {
+      "start": 2916.08,
+      "end": 2918.92,
+      "text": "A couple of tracks, Gypsy and Dream Man."
+    },
+    {
+      "start": 2919.82,
+      "end": 2923.6,
+      "text": "Specially requested by Anthony Rosling of Worksworth in Derbyshire"
+    },
+    {
+      "start": 2923.6,
+      "end": 2926.12,
+      "text": "and also M.C. Davis of Cardiff."
+    },
+    {
+      "start": 2927.33,
+      "end": 2930.99,
+      "text": "Not forgetting Colin Rooney of Leamington Spa, who has a P.S. on his letter."
+    },
+    {
+      "start": 2931.09,
+      "end": 2934.11,
+      "text": "He says here, what was the cause of bassist Gary Thane's death?"
+    },
+    {
+      "start": 2934.23,
+      "end": 2938.25,
+      "text": "Well, looking in the archive books this afternoon, it seems he took too many pills."
+    },
+    {
+      "start": 2938.25,
+      "end": 2944.36,
+      "text": "And that's a warning."
+    },
+    {
+      "start": 2944.62,
+      "end": 3311.61,
+      "text": "To cut in D, that's Atomic Rooster from a few years ago and tomorrow night,"
+    },
+    {
+      "start": 3311.67,
+      "end": 3315.77,
+      "text": "especially for Mike Sampson, who, when he wrote this card at the back end of January,"
+    },
+    {
+      "start": 3315.89,
+      "end": 3319.93,
+      "text": "was in Ward 11 of the Darlington Memorial Hospital, Darlington in County Durham."
+    },
+    {
+      "start": 3320.07,
+      "end": 3322.49,
+      "text": "Mike, I hope you're... Well, I hope you're not there at the moment. I hope you're better."
+    },
+    {
+      "start": 3323.03,
+      "end": 3327.43,
+      "text": "And before that, we play Jack and Jill, the new single by Robin Trier from, of course, his current album."
+    },
+    {
+      "start": 3327.99,
+      "end": 3330.55,
+      "text": "And I'd like to dedicate that to a gentleman who says on this card,"
+    },
+    {
+      "start": 3330.55,
+      "end": 3333.89,
+      "text": "P.S. Creep, creep. I'll be 16 on March the 18th."
+    },
+    {
+      "start": 3333.89,
+      "end": 3335.61,
+      "text": "So please give us a mention."
+    },
+    {
+      "start": 3336.09,
+      "end": 3337.99,
+      "text": "Also say hello to Guy and Pete and Tom"
+    },
+    {
+      "start": 3337.99,
+      "end": 3341.57,
+      "text": "and all who managed to get Genesis tickets for four quid."
+    },
+    {
+      "start": 3342.17,
+      "end": 3342.81,
+      "text": "Many thanks."
+    },
+    {
+      "start": 3343.13,
+      "end": 3346.83,
+      "text": "Martin Warilow of 90 Northgate Close, Kidderminster in Worcestershire"
+    },
+    {
+      "start": 3346.83,
+      "end": 3347.85,
+      "text": "on the 18th."
+    },
+    {
+      "start": 3347.89,
+      "end": 3348.49,
+      "text": "Happy birthday."
+    },
+    {
+      "start": 3349.03,
+      "end": 3358.45,
+      "text": "And Angel Witch."
+    },
+    {
+      "start": 3358.73,
+      "end": 3785.29,
+      "text": "And that's a single by Night Shift,"
+    },
+    {
+      "start": 3785.39,
+      "end": 3786.59,
+      "text": "which is out on the Harvest label."
+    },
+    {
+      "start": 3786.71,
+      "end": 3788.59,
+      "text": "It's called Don't Rush the Good Things."
+    },
+    {
+      "start": 3788.69,
+      "end": 3789.73,
+      "text": "And I have to own up."
+    },
+    {
+      "start": 3789.81,
+      "end": 3791.69,
+      "text": "I first heard it on the Peelers program."
+    },
+    {
+      "start": 3792.41,
+      "end": 3793.99,
+      "text": "Yes, folks, I do listen to John Peel."
+    },
+    {
+      "start": 3793.99,
+      "end": 3800.87,
+      "text": "those latent masochistic tendencies of mine i suppose and before that you heard something by"
+    },
+    {
+      "start": 3800.87,
+      "end": 3805.59,
+      "text": "angel witch which is called sweet danger which they're going to be recording as a single for emi"
+    },
+    {
+      "start": 3805.59,
+      "end": 3810.09,
+      "text": "an angel which are made up of three people kevin haybourne on the guitar and lead vocals"
+    },
+    {
+      "start": 3810.09,
+      "end": 3815.91,
+      "text": "kevin riddles on bass backing vocals also doubles on the keyboards and dave hogg on the drums"
+    },
+    {
+      "start": 3815.91,
+      "end": 3820.61,
+      "text": "average age about 21 and they've been together for 18 months they're based in and around south"
+    },
+    {
+      "start": 3820.61,
+      "end": 3826.86,
+      "text": "london and to my ears they sound good five minutes after 11 o'clock and it's time for"
+    },
+    {
+      "start": 3826.86,
+      "end": 3832.96,
+      "text": "the friday night connection last week we played you storm troopin by ted nugent from the lp of"
+    },
+    {
+      "start": 3832.96,
+      "end": 3839.42,
+      "text": "the same name kick out the jams by the mc5 from the album of the same name and david bowie's track"
+    },
+    {
+      "start": 3839.42,
+      "end": 3848.48,
+      "text": "panic in detroit by david bowie from the album aladdin say and that track of course was the clue"
+    },
+    {
+      "start": 3848.48,
+      "end": 3854.38,
+      "text": "Ted Nugent, also known as the Madman of Motor City, from Detroit."
+    },
+    {
+      "start": 3855.36,
+      "end": 3858.44,
+      "text": "MC5, Motor City 5, from Detroit."
+    },
+    {
+      "start": 3858.82,
+      "end": 3860.0,
+      "text": "The answer, Detroit."
+    },
+    {
+      "start": 3860.64,
+      "end": 3863.0,
+      "text": "And the right answer was sent in by just about everybody,"
+    },
+    {
+      "start": 3863.22,
+      "end": 3865.98,
+      "text": "but the card that we've chosen is the one from Dave Miller,"
+    },
+    {
+      "start": 3866.46,
+      "end": 3869.36,
+      "text": "of number 10, Quezuel Street, Kings Lynn in Norfolk."
+    },
+    {
+      "start": 3869.84,
+      "end": 3872.86,
+      "text": "Dave, congratulations. You get the £10 record token."
+    },
+    {
+      "start": 3877.21,
+      "end": 3881.65,
+      "text": "He also gets a round of applause for putting together this little Friday Night Connection."
+    },
+    {
+      "start": 3881.65,
+      "end": 3883.93,
+      "text": "It's a catchy little number"
+    },
+    {
+      "start": 3883.93,
+      "end": 3885.21,
+      "text": "Three bits of music"
+    },
+    {
+      "start": 3885.21,
+      "end": 3886.69,
+      "text": "With a theme"
+    },
+    {
+      "start": 3886.69,
+      "end": 3887.55,
+      "text": "Have a listen"
+    },
+    {
+      "start": 3887.55,
+      "end": 3934.04,
+      "text": "And sounds like"
+    },
+    {
+      "start": 3934.04,
+      "end": 4026.21,
+      "text": "His eyes hold some mysterious"
+    },
+    {
+      "start": 4026.21,
+      "end": 4041.38,
+      "text": "She says"
+    },
+    {
+      "start": 4041.38,
+      "end": 4417.28,
+      "text": "Clever one"
+    },
+    {
+      "start": 4417.28,
+      "end": 4418.58,
+      "text": "Put together by Dave Miller"
+    },
+    {
+      "start": 4418.58,
+      "end": 4421.22,
+      "text": "Number 10, Creswell Street, Kingsland and Norfolk"
+    },
+    {
+      "start": 4421.22,
+      "end": 4423.84,
+      "text": "Dave, you well deserve the £10 record token"
+    },
+    {
+      "start": 4423.84,
+      "end": 4426.96,
+      "text": "And while I've got your card in front of me"
+    },
+    {
+      "start": 4426.96,
+      "end": 4429.92,
+      "text": "You want me to mention Bob and the Girls at Bayes Recordium"
+    },
+    {
+      "start": 4429.92,
+      "end": 4432.38,
+      "text": "Hi, Bob and the Girls at Bayes Recordium"
+    },
+    {
+      "start": 4432.38,
+      "end": 4438.0,
+      "text": "now folks if you think you know what the connection is between those three bits of music"
+    },
+    {
+      "start": 4438.0,
+      "end": 4442.3,
+      "text": "could be in the music it could be in the lyrics the album sleeves the titles it could be anywhere"
+    },
+    {
+      "start": 4442.3,
+      "end": 4448.07,
+      "text": "but it's definitely there if you think what you know what it is put it on a postcard and send it"
+    },
+    {
+      "start": 4448.07,
+      "end": 4457.07,
+      "text": "along to friday night connection the friday rock show bbc radio one london w1a4 w w but don't"
+    },
+    {
+      "start": 4457.07,
+      "end": 4463.37,
+      "text": "forget, tomorrow, I beg your pardon, not tomorrow, next week, next Friday, it's our special program"
+    },
+    {
+      "start": 4463.37,
+      "end": 4470.45,
+      "text": "called Flashback 1968, the whole program built around the year of 1968. So therefore, next week's"
+    },
+    {
+      "start": 4470.45,
+      "end": 4476.18,
+      "text": "connection has got to be built around 1968. It could be the music, could be an event, could be"
+    },
+    {
+      "start": 4476.18,
+      "end": 4890.14,
+      "text": "anything, but it must be 1968. 11.15, the crocuses are up. The original Mirrors from the album of"
+    },
+    {
+      "start": 4890.14,
+      "end": 4892.04,
+      "text": "the same name. A really good album"
+    },
+    {
+      "start": 4892.04,
+      "end": 4894.2,
+      "text": "that's out on Mercury and that track was called Flying"
+    },
+    {
+      "start": 4894.2,
+      "end": 4895.92,
+      "text": "and that was specially for Gina and Trev"
+    },
+    {
+      "start": 4895.92,
+      "end": 4898.18,
+      "text": "who are motoring toward Nottingham. I look forward"
+    },
+    {
+      "start": 4898.18,
+      "end": 4900.14,
+      "text": "to the Tandori on Wednesday. Prior to"
+    },
+    {
+      "start": 4900.14,
+      "end": 4902.14,
+      "text": "that, the first single out in this country by Crocus"
+    },
+    {
+      "start": 4902.14,
+      "end": 4904.22,
+      "text": "also to be found on their album Metal"
+    },
+    {
+      "start": 4904.22,
+      "end": 4906.3,
+      "text": "Rendezvous. The track was Bedside Radio."
+    },
+    {
+      "start": 4907.5,
+      "end": 4920.9,
+      "text": "Don't miss"
+    },
+    {
+      "start": 4920.9,
+      "end": 4922.8,
+      "text": "UFO in Concert this week in Rock"
+    },
+    {
+      "start": 4922.8,
+      "end": 4927.46,
+      "text": "on Saturday. One hour"
+    },
+    {
+      "start": 4927.46,
+      "end": 4929.4,
+      "text": "of excellent rock is recorded during their last"
+    },
+    {
+      "start": 4929.4,
+      "end": 4931.32,
+      "text": "solo tour of the United Kingdom. Hear"
+    },
+    {
+      "start": 4931.32,
+      "end": 4933.52,
+      "text": "UFO in Flight in Concert in Rock"
+    },
+    {
+      "start": 4933.52,
+      "end": 4935.4,
+      "text": "on Saturday, 4 to 7.30"
+    },
+    {
+      "start": 4935.4,
+      "end": 4941.28,
+      "text": "this week. And now,"
+    },
+    {
+      "start": 4941.56,
+      "end": 4943.18,
+      "text": "here's a coven of witches"
+    },
+    {
+      "start": 4943.18,
+      "end": 4945.38,
+      "text": "find followed by angel"
+    },
+    {
+      "start": 4945.38,
+      "end": 5393.76,
+      "text": "and angel witch from our"
+    },
+    {
+      "start": 5393.76,
+      "end": 5395.64,
+      "text": "session by them tonight. And before that,"
+    },
+    {
+      "start": 5395.68,
+      "end": 5397.6,
+      "text": "you heard something by Witch Find, a single"
+    },
+    {
+      "start": 5397.6,
+      "end": 5400.06,
+      "text": "that's just come out on wrong delay records."
+    },
+    {
+      "start": 5400.42,
+      "end": 5401.8,
+      "text": "It's called Give Em Hell."
+    },
+    {
+      "start": 5402.78,
+      "end": 5403.88,
+      "text": "Talking about that, I've got"
+    },
+    {
+      "start": 5403.88,
+      "end": 5405.96,
+      "text": "a little note here from Peter Phillips, who lives"
+    },
+    {
+      "start": 5405.96,
+      "end": 5407.8,
+      "text": "in Pencoed, Bridgend, in"
+    },
+    {
+      "start": 5407.8,
+      "end": 5409.92,
+      "text": "Midglemorgan. He says, Tom, would"
+    },
+    {
+      "start": 5409.92,
+      "end": 5411.92,
+      "text": "you wish Scotland good luck against England"
+    },
+    {
+      "start": 5411.92,
+      "end": 5413.6,
+      "text": "at Murrayfield? Now,"
+    },
+    {
+      "start": 5413.92,
+      "end": 5418.92,
+      "text": "Peter, with an accent like, I've got, I've got a route for England, and let's face it,"
+    },
+    {
+      "start": 5419.24,
+      "end": 5424.72,
+      "text": "last time we got it was 1957, and I think tomorrow we well deserve to win."
+    },
+    {
+      "start": 5425.2,
+      "end": 5430.6,
+      "text": "Scotland, I'm sure you play well, but tomorrow it's got to be England's rugby day."
+    },
+    {
+      "start": 5431.1,
+      "end": 6144.38,
+      "text": "That's a bit of music from an import album called Opera Sauvage, and it's by Vangelis Papathassiou."
+    },
+    {
+      "start": 6144.38,
+      "end": 6148.38,
+      "text": "A total name, it's an import, and it's out on Polydor from France."
+    },
+    {
+      "start": 6148.5,
+      "end": 6151.88,
+      "text": "Prior to that, Dogs by The Floyd from the album Animals."
+    },
+    {
+      "start": 6152.2,
+      "end": 6154.0,
+      "text": "especially for all the four white people around the country,"
+    },
+    {
+      "start": 6154.1,
+      "end": 6155.78,
+      "text": "including Chris and Haz and Timbo and Mark"
+    },
+    {
+      "start": 6155.78,
+      "end": 6158.18,
+      "text": "and everybody at the Seaford College in Petworth and Sussex"
+    },
+    {
+      "start": 6158.18,
+      "end": 6161.44,
+      "text": "and Sputt and Dickie, with lots and lots of best wishes from A.P. Wilkins."
+    },
+    {
+      "start": 6161.96,
+      "end": 6165.08,
+      "text": "And now, from the archives of 1971, Uriah Heep."
+    },
+    {
+      "start": 6165.44,
+      "end": 6644.35,
+      "text": "Out of the archives, recorded on the 20th of the 10th, 1971,"
+    },
+    {
+      "start": 6644.71,
+      "end": 6647.19,
+      "text": "Uriah Heep and a couple of tracks, What Should Be Done,"
+    },
+    {
+      "start": 6647.19,
+      "end": 6650.73,
+      "text": "and an amazing version, recorded in the BBC studios,"
+    },
+    {
+      "start": 6650.81,
+      "end": 6653.37,
+      "text": "the Better Broadcasting Company studios, of Look at Yourself."
+    },
+    {
+      "start": 6653.43,
+      "end": 6655.85,
+      "text": "That really was really good to listen to again."
+    },
+    {
+      "start": 6656.29,
+      "end": 6657.31,
+      "text": "Quick reminder that next week,"
+    },
+    {
+      "start": 6657.35,
+      "end": 6659.55,
+      "text": "the Friday Rock Show is going to be Flashback 68,"
+    },
+    {
+      "start": 6659.95,
+      "end": 6662.35,
+      "text": "the whole programme built around the year of 1968."
+    },
+    {
+      "start": 6662.85,
+      "end": 6663.87,
+      "text": "If you've got any suggestions,"
+    },
+    {
+      "start": 6664.39,
+      "end": 6666.19,
+      "text": "all you have to do is jot them down on a postcard,"
+    },
+    {
+      "start": 6666.41,
+      "end": 6668.01,
+      "text": "preferably clean ones, thank you very much,"
+    },
+    {
+      "start": 6668.35,
+      "end": 6670.43,
+      "text": "and nice classic tracks to dig out of the library."
+    },
+    {
+      "start": 6670.73,
+      "end": 6671.87,
+      "text": "Here now, Angel Witch."
+    },
+    {
+      "start": 6672.27,
+      "end": 7097.39,
+      "text": "It's their single, Living After Midnight,"
+    },
+    {
+      "start": 7097.45,
+      "end": 7098.63,
+      "text": "off their album British Steel,"
+    },
+    {
+      "start": 7098.71,
+      "end": 7100.51,
+      "text": "and before that, The Last of Four,"
+    },
+    {
+      "start": 7100.67,
+      "end": 7102.43,
+      "text": "an ace session by Angel Witch,"
+    },
+    {
+      "start": 7102.49,
+      "end": 7104.45,
+      "text": "and the track was Extermination Day."
+    },
+    {
+      "start": 7106.02,
+      "end": 7107.04,
+      "text": "Want to have a laugh on the weekend?"
+    },
+    {
+      "start": 7107.14,
+      "end": 7108.76,
+      "text": "If you happen to live in and around Derby,"
+    },
+    {
+      "start": 7108.76,
+      "end": 7110.9,
+      "text": "Saturday, a rather Sunday afternoon"
+    },
+    {
+      "start": 7110.9,
+      "end": 7112.76,
+      "text": "that's Sunday afternoon, the baseball ground"
+    },
+    {
+      "start": 7112.76,
+      "end": 7114.28,
+      "text": "the Radio 1 football team"
+    },
+    {
+      "start": 7114.28,
+      "end": 7117.22,
+      "text": "playing BBC's Radio Nottingham and Derby"
+    },
+    {
+      "start": 7117.22,
+      "end": 7118.9,
+      "text": "will I be there? Afraid not"
+    },
+    {
+      "start": 7118.9,
+      "end": 7120.74,
+      "text": "because I'll be celebrating England's win"
+    },
+    {
+      "start": 7120.74,
+      "end": 7121.74,
+      "text": "at the rugby tomorrow"
+    },
+    {
+      "start": 7121.74,
+      "end": 7124.72,
+      "text": "everybody's an optimist"
+    },
+    {
+      "start": 7124.72,
+      "end": 7128.34,
+      "text": "our engineers tonight were Paul and Paul, thank you gentlemen"
+    },
+    {
+      "start": 7128.34,
+      "end": 7130.36,
+      "text": "I'll see you for rock on Saturday"
+    },
+    {
+      "start": 7130.36,
+      "end": 7132.18,
+      "text": "tomorrow at 4 o'clock"
+    },
+    {
+      "start": 7132.18,
+      "end": 7136.54,
+      "text": "and now here's Mr. Tony Wilson"
+    },
+    {
+      "start": 7136.54,
+      "end": 7138.18,
+      "text": "with a seasonal message"
+    },
+    {
+      "start": 7138.18,
+      "end": 7140.6,
+      "text": "summertime will be with us"
+    },
+    {
+      "start": 7140.6,
+      "end": 7149.53,
+      "text": "on sunday oh matt monroe eat your heart don't forget to put your clocks forward that's saturday"
+    },
+    {
+      "start": 7149.53,
+      "end": 7154.55,
+      "text": "night sunday morning i'm tommy vance in london wherever you are i hope you're happy and smiling"
+    },
+    {
+      "start": 7154.55,
+      "end": 7159.97,
+      "text": "and content i'll see you a rock on saturday at four tomorrow god bless a good night"
     }
   ]
 }

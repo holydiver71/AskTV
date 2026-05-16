@@ -18,62 +18,74 @@
     {
       "artist": "Rainbow",
       "track": "Over The Rainbow / Kill The King",
-      "details": "2xLP-On Stage"
+      "details": "2xLP-On Stage",
+      "verified_timestamp": 576.6
     },
     {
       "artist": "Girl",
       "track": "Love Is A Game",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 567.44
     },
     {
       "artist": "Ted Nugent",
       "track": "Flesh And Blood",
-      "details": "LP-Scream Dream"
+      "details": "LP-Scream Dream",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Led Zeppelin",
       "track": "The Rover",
-      "details": "2xLP-Physical Grafitti"
+      "details": "2xLP-Physical Grafitti",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Sniff And The Tears",
       "track": "Rodeo Drive",
-      "details": "LP-The Game's Up"
+      "details": "LP-The Game's Up",
+      "verified_timestamp": 1985.9
     },
     {
       "artist": "Status Quo",
       "track": "Caroline",
-      "details": "LP-Hello"
+      "details": "LP-Hello",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Girlschool",
       "track": "Breakdown",
-      "details": "LP-Demolition"
+      "details": "LP-Demolition",
+      "verified_timestamp": 2629.82
     },
     {
       "artist": "Japan",
       "track": "Rhodesia",
-      "details": "LP-Obscure Alternatives"
+      "details": "LP-Obscure Alternatives",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Queen",
       "track": "Dragon Attack",
-      "details": "LP-The Game"
+      "details": "LP-The Game",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Praying Mantis",
       "track": "Praying Mantis",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 61.13
     },
     {
       "artist": "Van Der Graaf Generator",
       "track": "Theme One",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Dixie Dreggs",
       "track": "Take It Off The Top",
-      "details": "LP-What If"
+      "details": "LP-What If",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Whitesnake",
@@ -83,12 +95,1186 @@
     {
       "artist": "Gary Moore",
       "track": "You",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1281.36
     },
     {
       "artist": "Gamma",
       "track": "Fight To The Finish",
-      "details": "LP-Gamma"
+      "details": "LP-Gamma",
+      "verified_timestamp": 7020.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.99,
+      "end": 12.99,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 24.65,
+      "end": 28.65,
+      "text": "TV on the radio here, Thomas the Vance, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.65,
+      "end": 37.26,
+      "text": "And this evening, we with joy and delight rebroadcast the 45-minute set that exploded into the atmosphere last year at Reading."
+    },
+    {
+      "start": 38.26,
+      "end": 42.26,
+      "text": "And the one that I'm talking about is by Mr. David Coverdale and Whitesnake."
+    },
+    {
+      "start": 55.83,
+      "end": 61.05,
+      "text": "Got some classic cuts by Led Zeppelin, Status Quo, Japan, Dixie Drakes and Van de Graaff Generator, among others."
+    },
+    {
+      "start": 61.13,
+      "end": 65.95,
+      "text": "And new releases by Girl, Ted Newton, Sniff on the Tears, Queen, Girl, School and Praying Mantis."
+    },
+    {
+      "start": 66.31,
+      "end": 68.49,
+      "text": "And the answer to last week's Friday Night Connection."
+    },
+    {
+      "start": 68.57,
+      "end": 70.85,
+      "text": "Not a new one, though. Tonight, I'll explain all that later."
+    },
+    {
+      "start": 71.33,
+      "end": 73.91,
+      "text": "But this evening, we start with this."
+    },
+    {
+      "start": 565.36,
+      "end": 567.32,
+      "text": "Best record they've ever made. It's their new single."
+    },
+    {
+      "start": 567.44,
+      "end": 570.66,
+      "text": "It's their new single by Girl, and it's called Love is a Game."
+    },
+    {
+      "start": 570.66,
+      "end": 576.6,
+      "text": "and before that"
+    },
+    {
+      "start": 576.6,
+      "end": 577.24,
+      "text": "Over the Rainbow"
+    },
+    {
+      "start": 577.24,
+      "end": 578.1,
+      "text": "and Kill the King"
+    },
+    {
+      "start": 578.1,
+      "end": 579.66,
+      "text": "from Rainbow on Stage"
+    },
+    {
+      "start": 579.66,
+      "end": 580.62,
+      "text": "by Rainbow"
+    },
+    {
+      "start": 580.62,
+      "end": 582.96,
+      "text": "and that was for Graham"
+    },
+    {
+      "start": 582.96,
+      "end": 584.06,
+      "text": "and also for John"
+    },
+    {
+      "start": 584.06,
+      "end": 584.9,
+      "text": "with lots and lots"
+    },
+    {
+      "start": 584.9,
+      "end": 585.34,
+      "text": "of best wishes"
+    },
+    {
+      "start": 585.34,
+      "end": 586.04,
+      "text": "from Jack Bailey"
+    },
+    {
+      "start": 586.04,
+      "end": 586.88,
+      "text": "who lives in Fenham"
+    },
+    {
+      "start": 586.88,
+      "end": 587.52,
+      "text": "in Newcastle"
+    },
+    {
+      "start": 587.52,
+      "end": 589.18,
+      "text": "and for Stevie Lafferty"
+    },
+    {
+      "start": 589.18,
+      "end": 590.1,
+      "text": "who's leaving"
+    },
+    {
+      "start": 590.1,
+      "end": 591.2,
+      "text": "St. Oggy's High School"
+    },
+    {
+      "start": 591.2,
+      "end": 591.64,
+      "text": "in Edinburgh"
+    },
+    {
+      "start": 591.64,
+      "end": 592.24,
+      "text": "to come down"
+    },
+    {
+      "start": 592.24,
+      "end": 593.02,
+      "text": "to this part of the world"
+    },
+    {
+      "start": 593.02,
+      "end": 593.78,
+      "text": "and live in Woking"
+    },
+    {
+      "start": 593.78,
+      "end": 595.7,
+      "text": "not a bad part of the world"
+    },
+    {
+      "start": 595.7,
+      "end": 596.62,
+      "text": "Pete Rappley"
+    },
+    {
+      "start": 596.62,
+      "end": 597.52,
+      "text": "and Nick Funnell"
+    },
+    {
+      "start": 597.52,
+      "end": 598.6,
+      "text": "of Fulton B"
+    },
+    {
+      "start": 598.6,
+      "end": 599.7,
+      "text": "Christ Hospital Horsham"
+    },
+    {
+      "start": 599.7,
+      "end": 600.4,
+      "text": "in West Sussex"
+    },
+    {
+      "start": 600.4,
+      "end": 602.19,
+      "text": "for me to wish"
+    },
+    {
+      "start": 602.19,
+      "end": 603.67,
+      "text": "belated birthday wishes"
+    },
+    {
+      "start": 603.67,
+      "end": 604.17,
+      "text": "to Nick"
+    },
+    {
+      "start": 604.17,
+      "end": 604.95,
+      "text": "who was 17"
+    },
+    {
+      "start": 604.95,
+      "end": 606.37,
+      "text": "on the 30th of June."
+    },
+    {
+      "start": 607.22,
+      "end": 609.62,
+      "text": "I've got to say hello to Jeff Admel, I think it possibly is,"
+    },
+    {
+      "start": 609.64,
+      "end": 612.34,
+      "text": "and David the Wharton, and Steve McCall, and Dawn Johnson,"
+    },
+    {
+      "start": 612.76,
+      "end": 616.34,
+      "text": "and also every denim-clad heavy metal enthusiast"
+    },
+    {
+      "start": 616.34,
+      "end": 617.44,
+      "text": "at Hearst High School,"
+    },
+    {
+      "start": 617.64,
+      "end": 619.14,
+      "text": "Ashington from Tim Dent,"
+    },
+    {
+      "start": 620.1,
+      "end": 623.12,
+      "text": "Diane R. Crowley from Astley Bridge,"
+    },
+    {
+      "start": 623.3,
+      "end": 624.56,
+      "text": "and Nicky Hyde from Burgess Hill."
+    },
+    {
+      "start": 624.92,
+      "end": 626.88,
+      "text": "Get a mention and best wishes from Beans of Hoik."
+    },
+    {
+      "start": 627.81,
+      "end": 628.41,
+      "text": "Said it right."
+    },
+    {
+      "start": 629.88,
+      "end": 631.08,
+      "text": "And finally, a little thing here,"
+    },
+    {
+      "start": 631.38,
+      "end": 633.3,
+      "text": "a rainbow from Frankie Farrell of No. 3,"
+    },
+    {
+      "start": 633.48,
+      "end": 635.52,
+      "text": "Barron Old Street, I think it is,"
+    },
+    {
+      "start": 635.52,
+      "end": 1258.44,
+      "text": "brother glenn near glasgow who's a happy man right now ten past ten ted nugent led zeppelin and the"
+    },
+    {
+      "start": 1258.44,
+      "end": 1263.96,
+      "text": "rover from physical graffiti especially for john campbell and bobby nielsen and alan mchennery and"
+    },
+    {
+      "start": 1263.96,
+      "end": 1271.05,
+      "text": "alan pritchard and kevin barmer and norman bell all attend the harkin harvey academy in stevenson"
+    },
+    {
+      "start": 1271.88,
+      "end": 1277.24,
+      "text": "and for ailsa and for shirley who go to florida stevenson school and for ian gordon and basil"
+    },
+    {
+      "start": 1277.24,
+      "end": 1278.38,
+      "text": "who go to Fetz College."
+    },
+    {
+      "start": 1278.84,
+      "end": 1280.88,
+      "text": "Best wishes from a lady by the name of Yola."
+    },
+    {
+      "start": 1281.36,
+      "end": 1284.02,
+      "text": "Yola lives in Edinburgh, and at the bottom of this letter she says,"
+    },
+    {
+      "start": 1284.12,
+      "end": 1286.24,
+      "text": "tell Gordon that I'm mad about it."
+    },
+    {
+      "start": 1287.28,
+      "end": 1290.38,
+      "text": "Now, there are 28 ex-fifth formers, very hard to say that,"
+    },
+    {
+      "start": 1290.44,
+      "end": 1293.9,
+      "text": "28 ex-fifth formers from King's Manor Comprehensive School,"
+    },
+    {
+      "start": 1294.0,
+      "end": 1296.04,
+      "text": "Ackland and Middlesbrough, along with about six teachers,"
+    },
+    {
+      "start": 1296.4,
+      "end": 1299.8,
+      "text": "who are walking 200 miles at the moment between St. B's in Cumbria"
+    },
+    {
+      "start": 1299.8,
+      "end": 1302.3,
+      "text": "and Robin Hood's Bay in North Yorkshire."
+    },
+    {
+      "start": 1302.74,
+      "end": 1306.32,
+      "text": "I hope to get there, I think it's Sunday the 13th of July, that's right."
+    },
+    {
+      "start": 1306.32,
+      "end": 1308.14,
+      "text": "just a few mentions here"
+    },
+    {
+      "start": 1308.14,
+      "end": 1310.08,
+      "text": "persistent peter and luscious louise"
+    },
+    {
+      "start": 1310.08,
+      "end": 1311.9,
+      "text": "and cacophonous charlie and juicy judith"
+    },
+    {
+      "start": 1311.9,
+      "end": 1314.08,
+      "text": "and randy bandy and the terrible twins"
+    },
+    {
+      "start": 1314.08,
+      "end": 1316.14,
+      "text": "tiring treyer and ickle even"
+    },
+    {
+      "start": 1316.14,
+      "end": 1317.74,
+      "text": "or fickle even possibly it is"
+    },
+    {
+      "start": 1317.74,
+      "end": 1318.78,
+      "text": "or maybe even fickle ivan"
+    },
+    {
+      "start": 1318.78,
+      "end": 1321.62,
+      "text": "calamity conning and egghead and bim big m"
+    },
+    {
+      "start": 1321.62,
+      "end": 1323.46,
+      "text": "and big fish and bigger rachel"
+    },
+    {
+      "start": 1323.46,
+      "end": 1325.6,
+      "text": "and massive tracy ravaged ruth"
+    },
+    {
+      "start": 1325.6,
+      "end": 1326.18,
+      "text": "oh really"
+    },
+    {
+      "start": 1326.18,
+      "end": 1328.14,
+      "text": "and giddy gale and gentle jillian"
+    },
+    {
+      "start": 1328.14,
+      "end": 1329.4,
+      "text": "and jamaica jackie"
+    },
+    {
+      "start": 1329.4,
+      "end": 1330.72,
+      "text": "in fact the whole darn lot here"
+    },
+    {
+      "start": 1330.72,
+      "end": 1331.36,
+      "text": "good walking"
+    },
+    {
+      "start": 1331.36,
+      "end": 1338.21,
+      "text": "prior to zeppelin we play to ted nugent"
+    },
+    {
+      "start": 1338.21,
+      "end": 1338.99,
+      "text": "from his new album"
+    },
+    {
+      "start": 1338.99,
+      "end": 1340.65,
+      "text": "which is called Scream Dream."
+    },
+    {
+      "start": 1340.85,
+      "end": 1341.95,
+      "text": "The track was Flesh and Blood."
+    },
+    {
+      "start": 1342.51,
+      "end": 1344.43,
+      "text": "And here now, a sniff and the tears."
+    },
+    {
+      "start": 1959.48,
+      "end": 1960.72,
+      "text": "Nice to hear a bit of Quo."
+    },
+    {
+      "start": 1962.67,
+      "end": 1964.07,
+      "text": "Never ever goes amiss."
+    },
+    {
+      "start": 1964.25,
+      "end": 1965.17,
+      "text": "Best bashes in the world."
+    },
+    {
+      "start": 1965.83,
+      "end": 1967.27,
+      "text": "Status Quo from their album Hello"
+    },
+    {
+      "start": 1967.27,
+      "end": 1969.13,
+      "text": "that came out a long time ago and Caroline."
+    },
+    {
+      "start": 1972.42,
+      "end": 1974.04,
+      "text": "And that was for Davey and Stevie and Cammy"
+    },
+    {
+      "start": 1974.04,
+      "end": 1975.22,
+      "text": "as in underwear."
+    },
+    {
+      "start": 1975.66,
+      "end": 1976.82,
+      "text": "They live in Paisley in Scotland."
+    },
+    {
+      "start": 1977.42,
+      "end": 1980.18,
+      "text": "And also for a gentleman by the name of Gary Sabin"
+    },
+    {
+      "start": 1980.18,
+      "end": 1981.74,
+      "text": "who lives in Bury in Manchester."
+    },
+    {
+      "start": 1982.46,
+      "end": 1984.34,
+      "text": "And prior to that, you heard something from a new album"
+    },
+    {
+      "start": 1984.34,
+      "end": 1985.9,
+      "text": "which is out on the Chiswick record label."
+    },
+    {
+      "start": 1985.9,
+      "end": 1990.94,
+      "text": "the album is called the games up the track you heard was rodeo drive or as they say over there"
+    },
+    {
+      "start": 1990.94,
+      "end": 1996.94,
+      "text": "or day or drive and it's why sniffing the tears and i cannot find praise enough for that album"
+    },
+    {
+      "start": 1996.94,
+      "end": 2589.02,
+      "text": "it's beautifully put together 10 33. they really are one of the best live bands i think i've ever"
+    },
+    {
+      "start": 2589.02,
+      "end": 2594.94,
+      "text": "ever seen and i've seen a few that was japan from their album that came out in 1978 the album was"
+    },
+    {
+      "start": 2594.94,
+      "end": 2601.26,
+      "text": "called obscure alternatives and the track you heard there was entitled rhodesia especially"
+    },
+    {
+      "start": 2601.26,
+      "end": 2605.5,
+      "text": "for steve holden and phil lockett in manchester and various other louts it says here called dean"
+    },
+    {
+      "start": 2605.5,
+      "end": 2609.98,
+      "text": "hathaway and dean preston and ace and paul and martin of the finchley kiss army and mark and"
+    },
+    {
+      "start": 2609.98,
+      "end": 2614.14,
+      "text": "sumiko and liz and lynn and linda and of course everybody is going to go to wembley to see kiss"
+    },
+    {
+      "start": 2614.14,
+      "end": 2618.78,
+      "text": "on september the 8th and the 9th and they'll also probably be going to stafford as well on september"
+    },
+    {
+      "start": 2618.78,
+      "end": 2625.66,
+      "text": "the 5th and 6th i think it is i'm not sure martin phillips sent that in and prior to that you heard"
+    },
+    {
+      "start": 2625.66,
+      "end": 2629.82,
+      "text": "girl school from their debut album the album's called demolition it's a good one the track you"
+    },
+    {
+      "start": 2629.82,
+      "end": 2635.34,
+      "text": "was breakdown and that was for chris and neil and russ who attend charmondine hall seaford college"
+    },
+    {
+      "start": 2635.34,
+      "end": 2640.22,
+      "text": "west sussex petworth is the actual location and they went to see the girls at the marquee and"
+    },
+    {
+      "start": 2640.22,
+      "end": 2647.24,
+      "text": "said they were ace girl school was also for david norton at 37 passes pattison house with the words"
+    },
+    {
+      "start": 2647.24,
+      "end": 2655.16,
+      "text": "right fella patterson house red crossway london se1 it's 16 minutes now to 11 of the clock and"
+    },
+    {
+      "start": 2655.16,
+      "end": 2663.9,
+      "text": "And it's a 21st birthday greeting here to a gentleman by the name of Dave Duquemine of the Nays Les Bastières St. Peterport in Guernsey."
+    },
+    {
+      "start": 2664.46,
+      "end": 2666.2,
+      "text": "And the message is, I love you."
+    },
+    {
+      "start": 2666.3,
+      "end": 2667.48,
+      "text": "And that comes from Lindsay."
+    },
+    {
+      "start": 3131.06,
+      "end": 3133.86,
+      "text": "Praying Mantis and Praying Mantis, their single that's out on Gen."
+    },
+    {
+      "start": 3134.52,
+      "end": 3137.28,
+      "text": "And before that, you heard something from Queen's new album."
+    },
+    {
+      "start": 3137.28,
+      "end": 3140.34,
+      "text": "The album's called The Game and the track was Dragon Attack."
+    },
+    {
+      "start": 3142.65,
+      "end": 3145.77,
+      "text": "For Michael Bishop of Fifteen, Sutherlands, Newbury and Berkshire."
+    },
+    {
+      "start": 3145.91,
+      "end": 3147.83,
+      "text": "And for Jay Bryan and Jay Clancy and Pete Taylor."
+    },
+    {
+      "start": 3149.06,
+      "end": 3152.18,
+      "text": "And on this card it says, please give an opinion of Queen's new LP."
+    },
+    {
+      "start": 3152.5,
+      "end": 3154.52,
+      "text": "My opinion is, they've never made a bad one."
+    },
+    {
+      "start": 3155.61,
+      "end": 3159.61,
+      "text": "Queen was also for Richard in Pool and Hamish in Baz and Baff,"
+    },
+    {
+      "start": 3159.79,
+      "end": 3162.91,
+      "text": "with best wishes from Vincent Gibson, who lives in Otley in West Yorkshire."
+    },
+    {
+      "start": 3163.86,
+      "end": 3168.06,
+      "text": "And Yvonne, who's in Hall Green in Birmingham, likes Queen as well."
+    },
+    {
+      "start": 3168.06,
+      "end": 3171.8,
+      "text": "Oh, and I was handed something a couple of weeks ago, which I should have read out a couple of weeks ago,"
+    },
+    {
+      "start": 3171.9,
+      "end": 3175.5,
+      "text": "but I've only just found it in my wallet, along with my last remaining 10-bob note."
+    },
+    {
+      "start": 3176.24,
+      "end": 3180.5,
+      "text": "Best wishes to Jimmy the Tyrant Norcott of Dagenham from all his mates."
+    },
+    {
+      "start": 3184.21,
+      "end": 3186.71,
+      "text": "Seven minutes to eleven and it's time for the Friday Night Connection."
+    },
+    {
+      "start": 3186.89,
+      "end": 3188.23,
+      "text": "Wrong music you may be thinking."
+    },
+    {
+      "start": 3188.69,
+      "end": 3189.61,
+      "text": "You're wrong yourself."
+    },
+    {
+      "start": 3189.79,
+      "end": 3190.57,
+      "text": "Stick around and see."
+    },
+    {
+      "start": 3191.47,
+      "end": 3196.21,
+      "text": "Last week we played you Beneath, Between and Behind by Rush from the LP Fly By Night."
+    },
+    {
+      "start": 3196.53,
+      "end": 3200.37,
+      "text": "Running With The Devil by Van Halen and Firefly by Uriah Heep."
+    },
+    {
+      "start": 3200.95,
+      "end": 3207.0,
+      "text": "Mr. M. Studley of 63 Vancouver Drive, Newport in Gwent gets the answer."
+    },
+    {
+      "start": 3208.32,
+      "end": 3209.52,
+      "text": "Lee is the answer."
+    },
+    {
+      "start": 3209.92,
+      "end": 3214.74,
+      "text": "Geddy Lee of Rush, Dave Lee Roth of Van Halen, and Lee Kerslake of Uriah Heep."
+    },
+    {
+      "start": 3216.08,
+      "end": 3220.34,
+      "text": "Now, Mr. Studley, that's Mark, the you and I, has put together a Friday Night Connection,"
+    },
+    {
+      "start": 3220.38,
+      "end": 3223.18,
+      "text": "but we're not going to be doing it for about a month, in fact, for exactly a month,"
+    },
+    {
+      "start": 3223.62,
+      "end": 3227.32,
+      "text": "because I'm away, they're sending me away since about three weeks."
+    },
+    {
+      "start": 3227.72,
+      "end": 3231.72,
+      "text": "Next week we've got a Genesis special, two hours of Genesis as recorded, recently in London."
+    },
+    {
+      "start": 3231.9,
+      "end": 3235.14,
+      "text": "The week after that, Ian Gillan is going to be hosting the Friday Rock Show,"
+    },
+    {
+      "start": 3235.28,
+      "end": 3238.14,
+      "text": "and the week after that, we will have a repeat of The Wall,"
+    },
+    {
+      "start": 3238.14,
+      "end": 3243.23,
+      "text": "Featuring the chat that I had last November"
+    },
+    {
+      "start": 3243.23,
+      "end": 3245.65,
+      "text": "Along with Roger Waters and the whole of the double album"
+    },
+    {
+      "start": 3245.65,
+      "end": 3249.16,
+      "text": "So, no Friday night connection being set tonight"
+    },
+    {
+      "start": 3249.16,
+      "end": 3251.3,
+      "text": "But Mark, yours will be set in one month's time"
+    },
+    {
+      "start": 3251.3,
+      "end": 3254.44,
+      "text": "Instead of that, here's something you may recognise"
+    },
+    {
+      "start": 3254.44,
+      "end": 3683.72,
+      "text": "You heard the whole of the Dixie Dregs and our theme bit of music"
+    },
+    {
+      "start": 3683.72,
+      "end": 3686.12,
+      "text": "Which is called Take It Off The Top from the album What If"
+    },
+    {
+      "start": 3686.12,
+      "end": 3688.96,
+      "text": "The catalogue number is 2429165"
+    },
+    {
+      "start": 3688.96,
+      "end": 3690.16,
+      "text": "It's on Capricorn Records"
+    },
+    {
+      "start": 3690.16,
+      "end": 3693.2,
+      "text": "Strong chance it's going to be coming out as a single in September, I'm told"
+    },
+    {
+      "start": 3693.64,
+      "end": 3697.38,
+      "text": "Prior to that, Van der Graaf Generator and something they put together in 1972."
+    },
+    {
+      "start": 3698.06,
+      "end": 3700.3,
+      "text": "Theme One, normally the theme for the Friday Night Connection,"
+    },
+    {
+      "start": 3700.36,
+      "end": 3702.38,
+      "text": "but we're not having one tonight, as I've told you,"
+    },
+    {
+      "start": 3702.46,
+      "end": 3704.5,
+      "text": "because next week a Genesis special, two hours of them."
+    },
+    {
+      "start": 3704.98,
+      "end": 3706.74,
+      "text": "Week after, Ian Gillan takes over for a week,"
+    },
+    {
+      "start": 3706.78,
+      "end": 3709.08,
+      "text": "and after that we repeat the war with Roger Waters."
+    },
+    {
+      "start": 3709.7,
+      "end": 3712.98,
+      "text": "And many, many people wanted to hear both of those bits of music in their entirety."
+    },
+    {
+      "start": 3713.48,
+      "end": 3715.76,
+      "text": "Pete Swift wanted to hear the Connection theme."
+    },
+    {
+      "start": 3715.76,
+      "end": 3717.28,
+      "text": "That, of course, is Theme One."
+    },
+    {
+      "start": 3717.74,
+      "end": 3719.96,
+      "text": "For everybody, all those dedicated triers"
+    },
+    {
+      "start": 3719.96,
+      "end": 3722.12,
+      "text": "who try to crack the Friday Night Connection every week,"
+    },
+    {
+      "start": 3722.12,
+      "end": 3723.06,
+      "text": "Feet lives in Stafford."
+    },
+    {
+      "start": 3723.58,
+      "end": 3725.86,
+      "text": "And Judith Gibbons rather suggested to me"
+    },
+    {
+      "start": 3725.86,
+      "end": 3728.68,
+      "text": "that I played the whole of the Dixie Drakes."
+    },
+    {
+      "start": 3728.98,
+      "end": 3731.56,
+      "text": "And now I'm going to play the whole of Whitesnake"
+    },
+    {
+      "start": 3731.56,
+      "end": 3733.96,
+      "text": "for 46 minutes."
+    },
+    {
+      "start": 3734.42,
+      "end": 3752.85,
+      "text": "The first time we played this one in England"
+    },
+    {
+      "start": 3752.85,
+      "end": 3756.27,
+      "text": "was for what is called Walking in the Shadow of the Blues."
+    },
+    {
+      "start": 3756.39,
+      "end": 3756.81,
+      "text": "Did you hear it?"
+    },
+    {
+      "start": 3757.71,
+      "end": 5014.76,
+      "text": "This is a song that features my friend Bernie Marsden."
+    },
+    {
+      "start": 5020.43,
+      "end": 5022.01,
+      "text": "It's an old song. I hope you like it."
+    },
+    {
+      "start": 5808.7,
+      "end": 5810.36,
+      "text": "You're tuned to BBC Radio 1"
+    },
+    {
+      "start": 5810.36,
+      "end": 5812.14,
+      "text": "and you're listening to the Friday Rock Show"
+    },
+    {
+      "start": 5812.14,
+      "end": 5816.14,
+      "text": "and enjoying, I trust, Whitesnake at Reading."
+    },
+    {
+      "start": 6438.57,
+      "end": 6440.71,
+      "text": "Whitesnake, as recorded last year at Reading,"
+    },
+    {
+      "start": 6440.79,
+      "end": 6443.43,
+      "text": "and the numbers you heard were Breakdown, Belgian Tom's Hat Trick,"
+    },
+    {
+      "start": 6443.57,
+      "end": 6446.01,
+      "text": "Mistreated, Steal Away, Ain't No Love in the Heart of the City,"
+    },
+    {
+      "start": 6446.19,
+      "end": 6447.59,
+      "text": "and Walking in the Shadow of the Blues."
+    },
+    {
+      "start": 6448.17,
+      "end": 6450.17,
+      "text": "Loads of people wanted us to repeat that session."
+    },
+    {
+      "start": 6451.0,
+      "end": 6453.6,
+      "text": "Stella of Hull, the whole thing was dedicated to you"
+    },
+    {
+      "start": 6453.6,
+      "end": 6455.84,
+      "text": "from a gentleman by the name of Martin Blackmore"
+    },
+    {
+      "start": 6455.84,
+      "end": 6458.16,
+      "text": "of Cowley and Oxford with the P.S."
+    },
+    {
+      "start": 6458.54,
+      "end": 6461.1,
+      "text": "Keep on thinking about Coverdale's mic stand"
+    },
+    {
+      "start": 6461.1,
+      "end": 6462.52,
+      "text": "and you won't go wrong."
+    },
+    {
+      "start": 6462.52,
+      "end": 6466.22,
+      "text": "A cryptic comment that we all know what it means."
+    },
+    {
+      "start": 6466.8,
+      "end": 6469.58,
+      "text": "Sarah Ashbourne, who's a red bombshell, I'm told,"
+    },
+    {
+      "start": 6469.7,
+      "end": 6471.78,
+      "text": "lives in Mickfield near Stowmarket in Suffolk."
+    },
+    {
+      "start": 6471.82,
+      "end": 6472.56,
+      "text": "She wanted to hear that."
+    },
+    {
+      "start": 6473.2,
+      "end": 6475.66,
+      "text": "So indeed it's Mark Grundwell of Emsworth in Hance."
+    },
+    {
+      "start": 6475.94,
+      "end": 6479.68,
+      "text": "And also I think it's Mark and Phil who live in Sutton."
+    },
+    {
+      "start": 6480.16,
+      "end": 6482.26,
+      "text": "And Alan Smith who lives in Whitchurch in Hance."
+    },
+    {
+      "start": 6482.62,
+      "end": 6486.46,
+      "text": "And also Neil Maugham who lives in New Branspeth in Durham."
+    },
+    {
+      "start": 6486.82,
+      "end": 6490.14,
+      "text": "A very, very tasty piece of music indeed."
+    },
+    {
+      "start": 6490.14,
+      "end": 6498.79,
+      "text": "right next week a special two solid hours of genesis in concert this sunday the radio one"
+    },
+    {
+      "start": 6498.79,
+      "end": 6504.81,
+      "text": "time machine wish you back to 1957 part three of 25 years of rock relives the arrival of inflation"
+    },
+    {
+      "start": 6504.81,
+      "end": 6509.93,
+      "text": "and bill haley it was the year of anthony eden's resignation and great balls of fire from the first"
+    },
+    {
+      "start": 6509.93,
+      "end": 6514.95,
+      "text": "sputnik and jerry lee lewis lolly donnegan was putting on the style tommy steel was singing"
+    },
+    {
+      "start": 6514.95,
+      "end": 6519.79,
+      "text": "the blues and a young footballer called jimmy hill was making the headlines it's all in part"
+    },
+    {
+      "start": 6519.79,
+      "end": 6526.17,
+      "text": "three of 25 years of rock this sunday on radio one on medium wave and in stereo on vhf at two"
+    },
+    {
+      "start": 6526.17,
+      "end": 7149.79,
+      "text": "minutes past seven o'clock great track that's from gamma one the band that's fronted by ronnie montrose"
+    },
+    {
+      "start": 7149.79,
+      "end": 7153.31,
+      "text": "the track is called fight to the finish and i played it for big rab and wilkie and moon blob"
+    },
+    {
+      "start": 7153.31,
+      "end": 7159.49,
+      "text": "and dennis the menace and bingo and craig who live near the bridge of allen in scotland and also for"
+    },
+    {
+      "start": 7159.49,
+      "end": 7165.35,
+      "text": "richard a gibbons of coat bridge in scotland and all his mates up there also like to mention this"
+    },
+    {
+      "start": 7165.35,
+      "end": 7167.27,
+      "text": "second wedding anniversary, which actually happens"
+    },
+    {
+      "start": 7167.27,
+      "end": 7168.49,
+      "text": "today, the 4th of July."
+    },
+    {
+      "start": 7169.21,
+      "end": 7170.95,
+      "text": "This is for Maggie."
+    },
+    {
+      "start": 7171.93,
+      "end": 7173.51,
+      "text": "It's a simple message. It is"
+    },
+    {
+      "start": 7173.51,
+      "end": 7175.37,
+      "text": "hope to see you in October from"
+    },
+    {
+      "start": 7175.37,
+      "end": 7176.61,
+      "text": "Bob Harvey, who's in Newport."
+    },
+    {
+      "start": 7178.08,
+      "end": 7179.42,
+      "text": "Tomorrow on What on Saturday,"
+    },
+    {
+      "start": 7179.66,
+      "end": 7181.74,
+      "text": "Shaken Street, Lou Reed, Ultravox, and at"
+    },
+    {
+      "start": 7181.74,
+      "end": 7183.74,
+      "text": "6.30, we've got Rory Gallagher in concert."
+    },
+    {
+      "start": 7184.46,
+      "end": 7185.12,
+      "text": "Next week,"
+    },
+    {
+      "start": 7185.64,
+      "end": 7187.38,
+      "text": "Two Hours of Genesis, as recorded"
+    },
+    {
+      "start": 7187.38,
+      "end": 7189.84,
+      "text": "on their recent tour in London."
+    },
+    {
+      "start": 7192.48,
+      "end": 7193.48,
+      "text": "Friday Rock Show is"
+    },
+    {
+      "start": 7193.48,
+      "end": 7195.22,
+      "text": "produced by Tony Wilson,"
+    },
+    {
+      "start": 7195.22,
+      "end": 7197.32,
+      "text": "who will now address the nation in his usual form."
+    },
+    {
+      "start": 7197.56,
+      "end": 7199.1,
+      "text": "And you can't have three weeks off as well."
+    },
+    {
+      "start": 7199.16,
+      "end": 7200.8,
+      "text": "I shall expect to see you here next Friday."
+    },
+    {
+      "start": 7200.96,
+      "end": 7202.3,
+      "text": "Ah, but I'll only be on tape, you see."
+    },
+    {
+      "start": 7202.4,
+      "end": 7205.08,
+      "text": "It's all through the miracle of magnetic oxide and stuff."
+    },
+    {
+      "start": 7207.07,
+      "end": 7209.75,
+      "text": "Take care of yourselves wherever you are in this world of ours."
+    },
+    {
+      "start": 7209.85,
+      "end": 7210.87,
+      "text": "I'm Tommy Vance in London."
+    },
+    {
+      "start": 7211.23,
+      "end": 7211.89,
+      "text": "I wish you well."
+    },
+    {
+      "start": 7212.09,
+      "end": 7213.41,
+      "text": "Good night and God bless."
+    },
+    {
+      "start": 7214.25,
+      "end": 7228.29,
+      "text": "It's midnight and we're together on all wavelengths,"
+    },
+    {
+      "start": 7228.49,
+      "end": 7232.35,
+      "text": "433, 330, 285, 275 and VHF."
+    },
+    {
+      "start": 7232.35,
+      "end": 7234.39,
+      "text": "And this is Tim Gudgeon in the Midnight Newsroom."
     }
   ]
 }

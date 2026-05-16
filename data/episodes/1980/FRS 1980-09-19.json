@@ -21,32 +21,38 @@
     {
       "artist": "Deep Purple",
       "track": "Highway Star",
-      "details": "LP-Machine Head"
+      "details": "LP-Machine Head",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Gillan",
       "track": "Trouble",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Supertramp",
       "track": "Bloody Well Right",
-      "details": "LP-Paris"
+      "details": "LP-Paris",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Joni Mitchell",
       "track": "Coyote",
-      "details": "LP-Shadows and Light"
+      "details": "LP-Shadows and Light",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Cryer",
       "track": "The Single",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 555.98
     },
     {
       "artist": "White Spirit",
       "track": "High Upon High",
-      "details": "LP-White Spirit"
+      "details": "LP-White Spirit",
+      "verified_timestamp": 1910.25
     },
     {
       "artist": "Iron Maiden",
@@ -56,7 +62,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.44
     },
     {
       "artist": "Budgie",
@@ -66,12 +73,766 @@
     {
       "artist": "Ozzy Osbourne",
       "track": "Steal Away",
-      "details": "The Night; LP-Blizzard of Ozz"
+      "details": "The Night; LP-Blizzard of Ozz",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "The Jimi Hendrix Experience",
       "track": "Burning of the Midnight Lamp",
-      "details": "LP-Smash Hits"
+      "details": "LP-Smash Hits",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 4.75,
+      "end": 21.38,
+      "text": "On 275 and 285, also on Stereo and VHF, this is National Radio 1."
+    },
+    {
+      "start": 21.38,
+      "end": 28.38,
+      "text": "Well, hello there. This is TV on the Radio, Thomas the Vance, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 28.38,
+      "end": 34.48,
+      "text": "And this evening, two of the fine bands who made the Reading Festival audience react in the nicest possible way."
+    },
+    {
+      "start": 34.48,
+      "end": 40.48,
+      "text": "We have the set from Iron Maiden, plus the return to the British stage of a band called Budgie."
+    },
+    {
+      "start": 40.48,
+      "end": 59.0,
+      "text": "And we've got new releases by Gillen, Super Tramp, Joni Mitchell, Cryer, White Spirit and Ozzy Osbourne."
+    },
+    {
+      "start": 59.2,
+      "end": 62.8,
+      "text": "And some classics by Jimi Hendrix and some others as well."
+    },
+    {
+      "start": 63.44,
+      "end": 69.22,
+      "text": "Not forgetting the Friday Night Connection, that time of the week when titillation comes upon your person."
+    },
+    {
+      "start": 69.7,
+      "end": 71.78,
+      "text": "But we start with Deep Purple."
+    },
+    {
+      "start": 554.86,
+      "end": 555.46,
+      "text": "Welcome back."
+    },
+    {
+      "start": 555.98,
+      "end": 602.73,
+      "text": "Amazing choice for a new single, but that's exactly what it is."
+    },
+    {
+      "start": 602.79,
+      "end": 606.95,
+      "text": "It's a new single by Gillen, a song written by Lieber and Stoller years and years ago,"
+    },
+    {
+      "start": 607.05,
+      "end": 609.73,
+      "text": "and it's called Trouble, and he does it proud."
+    },
+    {
+      "start": 612.2,
+      "end": 614.36,
+      "text": "And that bit of Gillen was for Lynn and for Bob and for Alice."
+    },
+    {
+      "start": 614.4,
+      "end": 615.22,
+      "text": "What happened to Ted?"
+    },
+    {
+      "start": 615.34,
+      "end": 619.68,
+      "text": "With lots and lots of best wishes from Stuart Anderson, who lives in Penny Creek in Midlothian."
+    },
+    {
+      "start": 620.3,
+      "end": 624.24,
+      "text": "And also for a gentleman by the name of Mark, who lives in Gloucestershire at the moment."
+    },
+    {
+      "start": 624.24,
+      "end": 625.36,
+      "text": "Happy birthday today."
+    },
+    {
+      "start": 625.56,
+      "end": 627.46,
+      "text": "Lots of love from a lady by the name of Jenny."
+    },
+    {
+      "start": 628.66,
+      "end": 631.68,
+      "text": "Also, that bit of Gillen was for somebody by the name of Carl,"
+    },
+    {
+      "start": 631.74,
+      "end": 634.38,
+      "text": "and also for Deb, with lots and lots of love from somebody, I think,"
+    },
+    {
+      "start": 634.42,
+      "end": 636.08,
+      "text": "who's called Molly, who lives in Brum."
+    },
+    {
+      "start": 636.84,
+      "end": 639.28,
+      "text": "And also for Peter McConnell, who lives in Cleveland."
+    },
+    {
+      "start": 640.33,
+      "end": 642.15,
+      "text": "Not forgetting Sarah Wyatt."
+    },
+    {
+      "start": 642.41,
+      "end": 645.91,
+      "text": "Now, Sarah lives in Abingdon in Oxford,"
+    },
+    {
+      "start": 646.15,
+      "end": 649.27,
+      "text": "which is where I went to school for something like ten years of my life,"
+    },
+    {
+      "start": 649.33,
+      "end": 649.75,
+      "text": "would you believe?"
+    },
+    {
+      "start": 650.37,
+      "end": 653.61,
+      "text": "And incidentally, that Gillen single, if you get the right packaging,"
+    },
+    {
+      "start": 653.61,
+      "end": 657.55,
+      "text": "has a free single with it that has three of the tracks"
+    },
+    {
+      "start": 657.55,
+      "end": 659.25,
+      "text": "that were recorded live at Reading"
+    },
+    {
+      "start": 659.25,
+      "end": 661.17,
+      "text": "that were broadcast here on the Friday Rock Show."
+    },
+    {
+      "start": 661.71,
+      "end": 663.13,
+      "text": "And the track you heard before that, of course,"
+    },
+    {
+      "start": 663.17,
+      "end": 664.41,
+      "text": "was the classic by Deep Purple."
+    },
+    {
+      "start": 664.53,
+      "end": 665.65,
+      "text": "It was called Highway Star."
+    },
+    {
+      "start": 666.29,
+      "end": 668.01,
+      "text": "And that was for Azza of Hanley."
+    },
+    {
+      "start": 668.33,
+      "end": 670.15,
+      "text": "And also for everybody at the sixth year"
+    },
+    {
+      "start": 670.15,
+      "end": 672.43,
+      "text": "of Craigs Hill High School in Livingston in Scotland."
+    },
+    {
+      "start": 673.09,
+      "end": 674.03,
+      "text": "And for Kevin."
+    },
+    {
+      "start": 674.53,
+      "end": 677.61,
+      "text": "And I've got to wish him the best 21st birthday ever"
+    },
+    {
+      "start": 677.61,
+      "end": 678.39,
+      "text": "from Teresa."
+    },
+    {
+      "start": 679.15,
+      "end": 680.63,
+      "text": "And also for Sheila and John"
+    },
+    {
+      "start": 680.63,
+      "end": 681.95,
+      "text": "and Eaton, Polonius and the Dog"
+    },
+    {
+      "start": 681.95,
+      "end": 683.23,
+      "text": "and most of all my wife Jackie."
+    },
+    {
+      "start": 683.35,
+      "end": 683.89,
+      "text": "It says here,"
+    },
+    {
+      "start": 684.27,
+      "end": 685.43,
+      "text": "Anonymous signs the letter"
+    },
+    {
+      "start": 685.43,
+      "end": 687.37,
+      "text": "in memory of a great day out in London, maybe."
+    },
+    {
+      "start": 687.37,
+      "end": 693.26,
+      "text": "the first of many and for a lady by the name of joe a who lives in burrage in southampton"
+    },
+    {
+      "start": 693.26,
+      "end": 697.82,
+      "text": "and for gary thomas who lives in kingswood in bristol in avon and for setting in joanne and"
+    },
+    {
+      "start": 697.82,
+      "end": 702.06,
+      "text": "dave and hayden and loads of other people who are mentioned by i'm not going to do this right"
+    },
+    {
+      "start": 702.06,
+      "end": 711.66,
+      "text": "i think it's davis who lives in guinness north wales something live by supertramp"
+    },
+    {
+      "start": 1390.17,
+      "end": 1398.28,
+      "text": "that's a lady by the name of joni mitchell and when i say lady i mean lady it's a track from"
+    },
+    {
+      "start": 1398.28,
+      "end": 1402.12,
+      "text": "a double live album that's just about hit the market in this country it's on asylum records"
+    },
+    {
+      "start": 1402.12,
+      "end": 1410.39,
+      "text": "the albums are called shadows and light and that track was coyote recorded live in california and"
+    },
+    {
+      "start": 1410.39,
+      "end": 1415.19,
+      "text": "before that you heard something recorded live in the city of paris france by supertramp it's a"
+    },
+    {
+      "start": 1415.19,
+      "end": 1419.99,
+      "text": "track from their double live album which is just about out and the track you heard was bloody well"
+    },
+    {
+      "start": 1419.99,
+      "end": 1427.29,
+      "text": "right and both of those albums are fine examples of how you can capture what happens in live"
+    },
+    {
+      "start": 1427.29,
+      "end": 1433.13,
+      "text": "performance they were both played for mark newton who lives in holliston and hartfordshire i think"
+    },
+    {
+      "start": 1433.13,
+      "end": 1900.81,
+      "text": "it was last saturday i made a couple of disparaging remarks about that band with regard to the way"
+    },
+    {
+      "start": 1900.81,
+      "end": 1905.13,
+      "text": "that they performed at reading it seems that their performance wasn't that good but may i say that"
+    },
+    {
+      "start": 1905.13,
+      "end": 1910.25,
+      "text": "their album makes up for it a hundred percent that's a band by the name of white spirit from"
+    },
+    {
+      "start": 1910.25,
+      "end": 1917.75,
+      "text": "their debut album called white spirit the track was high upon high and prior to that you heard"
+    },
+    {
+      "start": 1917.75,
+      "end": 1922.01,
+      "text": "heard a single by a band called Cryer. The single is just called Single, and if you happen"
+    },
+    {
+      "start": 1922.01,
+      "end": 1927.23,
+      "text": "to buy it, and it's on the Happy Face record label, they invite you to give a name to the"
+    },
+    {
+      "start": 1927.23,
+      "end": 1930.97,
+      "text": "single. In other words, they're running some sort of competition. It's a good little single,"
+    },
+    {
+      "start": 1931.09,
+      "end": 1936.82,
+      "text": "it's inventive, and they recorded it at the Old Smithy in Kempsey in Worcestershire. And"
+    },
+    {
+      "start": 1936.82,
+      "end": 1940.74,
+      "text": "I played both of those records, especially for a lady by the name of Joan. She's also"
+    },
+    {
+      "start": 1940.74,
+      "end": 1945.28,
+      "text": "known as Peep. She's known as Peep to a man by the name of Tommy, and they're married"
+    },
+    {
+      "start": 1945.28,
+      "end": 1948.32,
+      "text": "and they live in Inverness, and yesterday was their wedding anniversary."
+    },
+    {
+      "start": 1948.54,
+      "end": 1950.96,
+      "text": "I hope it was a good one, and I'm sure that it was."
+    },
+    {
+      "start": 1952.11,
+      "end": 1955.85,
+      "text": "Also want to say hello to a bunch of guys who live over there in County Down in Northern Ireland,"
+    },
+    {
+      "start": 1956.03,
+      "end": 1957.23,
+      "text": "actually in the town of Hollywood."
+    },
+    {
+      "start": 1957.79,
+      "end": 1961.47,
+      "text": "They're Peter Robinson and Paul Brown and Alan McNair and John Bramley,"
+    },
+    {
+      "start": 1961.61,
+      "end": 1963.63,
+      "text": "and they have a band by the name of Last Wish."
+    },
+    {
+      "start": 1972.42,
+      "end": 1975.8,
+      "text": "It's 25 minutes now before 11 o'clock here on the Friday Rock Show,"
+    },
+    {
+      "start": 1975.92,
+      "end": 1979.3,
+      "text": "and now we go back to our series called Live at Reading."
+    },
+    {
+      "start": 1979.74,
+      "end": 1982.44,
+      "text": "Here's 29 minutes of Iron Maiden."
+    },
+    {
+      "start": 1996.85,
+      "end": 3127.17,
+      "text": "we hope we get out there with kids anyway this is a song called killers this is one where the boys"
+    },
+    {
+      "start": 3127.17,
+      "end": 3387.57,
+      "text": "are going to show what they can do instrumental transfer guitar vocals put your hands together"
+    },
+    {
+      "start": 3387.57,
+      "end": 3406.48,
+      "text": "mr stratton and on drums bass guitar vocals mr stevie harris i have a lead guitar the blonde"
+    },
+    {
+      "start": 3406.48,
+      "end": 3418.21,
+      "text": "bomber mr dave murray this is a song we'd like to dedicate from us to you this is a song called iron"
+    },
+    {
+      "start": 3418.21,
+      "end": 3686.86,
+      "text": "...at Reading, 1980, and the tracks that you heard were Iron Maiden, Transylvania, Running Free, Killers, Remember Tomorrow and Prowler, and the band is made up of Dennis Stratton on lead guitar, Dave Murray also on lead guitar, Steve Harris on the bass, Clive Burr on the drums, and Paul D'Anno on the lead vocals. Budgie to follow."
+    },
+    {
+      "start": 3686.86,
+      "end": 3702.66,
+      "text": "From the LP Farewell to Kings, Dead Men Tell No Tales by Motorhead from the LP Bomber."
+    },
+    {
+      "start": 3703.22,
+      "end": 3706.98,
+      "text": "Broken Heart Blues by Mahogany Rush from the LP World Anthem."
+    },
+    {
+      "start": 3708.01,
+      "end": 3711.81,
+      "text": "Simple answer, all the groups contain three members."
+    },
+    {
+      "start": 3712.94,
+      "end": 3717.74,
+      "text": "Or as Paul Jarvis of number five Lincoln Close in Tillgate in Crawley in West Sussex has said,"
+    },
+    {
+      "start": 3718.18,
+      "end": 3720.58,
+      "text": "all the groups contain three bodies."
+    },
+    {
+      "start": 3722.53,
+      "end": 3725.19,
+      "text": "And Paul is the guy that gets the ten pound record token."
+    },
+    {
+      "start": 3725.19,
+      "end": 3731.58,
+      "text": "we're trying to up the you know 10 pounds to about 11 pound 50 but we're having trouble the"
+    },
+    {
+      "start": 3731.58,
+      "end": 3735.8,
+      "text": "same as the rest of the economy nonetheless paul you get a 10 pound record token part of the deal"
+    },
+    {
+      "start": 3735.8,
+      "end": 3740.12,
+      "text": "as everybody knows is to put together a friday night connection of your own and that is exactly"
+    },
+    {
+      "start": 3740.12,
+      "end": 4424.02,
+      "text": "what paul has done three bits of music and in there somewhere there is a connection i'm don"
+    },
+    {
+      "start": 4424.02,
+      "end": 4430.18,
+      "text": "kershman's rock concert a new phenomenon in the music world with six million albums to its credit"
+    },
+    {
+      "start": 4430.18,
+      "end": 4431.78,
+      "text": "in just two short years."
+    },
+    {
+      "start": 4432.22,
+      "end": 4434.74,
+      "text": "My good friend, here's Johnny."
+    },
+    {
+      "start": 4435.38,
+      "end": 4520.68,
+      "text": "That's the Friday Night Connection for tonight."
+    },
+    {
+      "start": 4521.12,
+      "end": 4523.94,
+      "text": "A crafty little one, but you've heard it all."
+    },
+    {
+      "start": 4524.06,
+      "end": 4525.6,
+      "text": "It was the one put together by Paul Jarvis"
+    },
+    {
+      "start": 4525.6,
+      "end": 4528.9,
+      "text": "at No. 5 Lincoln Close, Tillgate, Crawley in West Sussex."
+    },
+    {
+      "start": 4529.24,
+      "end": 4531.38,
+      "text": "It most definitely is in there."
+    },
+    {
+      "start": 4531.5,
+      "end": 4532.6,
+      "text": "If you think you know what it is,"
+    },
+    {
+      "start": 4533.08,
+      "end": 4534.4,
+      "text": "put down your answer on a postcard"
+    },
+    {
+      "start": 4534.4,
+      "end": 4536.28,
+      "text": "or any form of communication you like"
+    },
+    {
+      "start": 4536.28,
+      "end": 4538.02,
+      "text": "and send it to the Friday Rock Show."
+    },
+    {
+      "start": 4538.62,
+      "end": 4539.8,
+      "text": "The Friday Night Connection."
+    },
+    {
+      "start": 4539.8,
+      "end": 4544.12,
+      "text": "BBC Radio 1, London, W1A 4WW."
+    },
+    {
+      "start": 4544.62,
+      "end": 4553.56,
+      "text": "But don't forget, what you have to do also is to put together your own Friday Night Connection,"
+    },
+    {
+      "start": 4553.9,
+      "end": 4560.94,
+      "text": "which is the part of the program that we like, because it basically means it's your contribution."
+    },
+    {
+      "start": 4563.1,
+      "end": 4570.66,
+      "text": "It's 11.18, back to our series live at Reading."
+    },
+    {
+      "start": 4570.86,
+      "end": 4572.6,
+      "text": "Ladies and gentlemen, here are Budgie."
+    },
+    {
+      "start": 6556.56,
+      "end": 6560.86,
+      "text": "...the 1974 and John Thomas on guitar, and the tracks he heard were Wildfire,"
+    },
+    {
+      "start": 6561.0,
+      "end": 6565.06,
+      "text": "which incidentally is available as a 12-incher and a 7-incher on Active Records,"
+    },
+    {
+      "start": 6565.48,
+      "end": 6566.92,
+      "text": "Panzer Division Destroyed,"
+    },
+    {
+      "start": 6567.16,
+      "end": 6569.16,
+      "text": "Napoleon Bonner, part one and two,"
+    },
+    {
+      "start": 6569.6,
+      "end": 6570.6,
+      "text": "Crime Against the World,"
+    },
+    {
+      "start": 6570.76,
+      "end": 6572.46,
+      "text": "and Breaking All the House Rules."
+    },
+    {
+      "start": 6572.66,
+      "end": 6574.96,
+      "text": "The studio manager and sound mixer"
+    },
+    {
+      "start": 6574.96,
+      "end": 6576.78,
+      "text": "was a gentleman by the name of Mike Engles,"
+    },
+    {
+      "start": 6576.86,
+      "end": 6577.78,
+      "text": "the first one he's ever done."
+    },
+    {
+      "start": 6577.98,
+      "end": 6579.34,
+      "text": "Congratulations, a tasty one."
+    },
+    {
+      "start": 6579.76,
+      "end": 6581.84,
+      "text": "And the producer, as always, was Tony Wilson."
+    },
+    {
+      "start": 6590.56,
+      "end": 6591.98,
+      "text": "Little incest here."
+    },
+    {
+      "start": 6591.98,
+      "end": 6594.82,
+      "text": "Jeff Barrett of BBC Radio Humberside."
+    },
+    {
+      "start": 6594.92,
+      "end": 6595.92,
+      "text": "He's about to leave there."
+    },
+    {
+      "start": 6596.08,
+      "end": 6597.44,
+      "text": "Your friends and colleagues say,"
+    },
+    {
+      "start": 6597.84,
+      "end": 6598.6,
+      "text": "naff off."
+    },
+    {
+      "start": 6599.34,
+      "end": 7027.3,
+      "text": "Playing that ten years ago,"
+    },
+    {
+      "start": 7027.38,
+      "end": 7028.54,
+      "text": "Jimi Hendrix died this week."
+    },
+    {
+      "start": 7028.54,
+      "end": 7030.26,
+      "text": "Don't miss Rock on Saturday."
+    },
+    {
+      "start": 7030.42,
+      "end": 7036.28,
+      "text": "Tomorrow at 4.30 in the program, we have a program within a program called Reflections of Hendrix."
+    },
+    {
+      "start": 7036.88,
+      "end": 7040.9,
+      "text": "In the program, you can hear Jimmy Page and Richie Blackmore and Jeff Beck and Chaz Chandler,"
+    },
+    {
+      "start": 7040.94,
+      "end": 7043.9,
+      "text": "the man who discovered Hendrix, talking about the man himself."
+    },
+    {
+      "start": 7044.24,
+      "end": 7046.5,
+      "text": "And also, it's full of loads of his good music."
+    },
+    {
+      "start": 7047.04,
+      "end": 7049.56,
+      "text": "And that starts at 4.30 tomorrow here on Radio 1."
+    },
+    {
+      "start": 7050.24,
+      "end": 7052.1,
+      "text": "Thanks to Richard and Phil, our engineers, tonight."
+    },
+    {
+      "start": 7052.8,
+      "end": 7055.64,
+      "text": "Following the peps, 275-285 transmitters closed down."
+    },
+    {
+      "start": 7055.74,
+      "end": 7056.86,
+      "text": "They'll be back with you in the a.m."
+    },
+    {
+      "start": 7056.86,
+      "end": 7057.58,
+      "text": "here's Tony Wilson"
+    },
+    {
+      "start": 7057.58,
+      "end": 7058.16,
+      "text": "to tell you about"
+    },
+    {
+      "start": 7058.16,
+      "end": 7058.74,
+      "text": "a fine album"
+    },
+    {
+      "start": 7058.74,
+      "end": 7059.78,
+      "text": "called Metal Explosion"
+    },
+    {
+      "start": 7059.78,
+      "end": 7061.1,
+      "text": "Metal Explosion"
+    },
+    {
+      "start": 7061.1,
+      "end": 7063.83,
+      "text": "Succinct and to the point"
+    },
+    {
+      "start": 7063.83,
+      "end": 7065.29,
+      "text": "available on BBC Records"
+    },
+    {
+      "start": 7065.29,
+      "end": 7066.57,
+      "text": "cheap and very good"
+    },
+    {
+      "start": 7066.57,
+      "end": 7068.51,
+      "text": "On behalf of all of us"
+    },
+    {
+      "start": 7068.51,
+      "end": 7069.31,
+      "text": "on Radio 1"
+    },
+    {
+      "start": 7069.31,
+      "end": 7070.11,
+      "text": "I'm Tommy Vance"
+    },
+    {
+      "start": 7070.11,
+      "end": 7071.01,
+      "text": "wherever you are"
+    },
+    {
+      "start": 7071.01,
+      "end": 7071.93,
+      "text": "have a good night"
+    },
+    {
+      "start": 7071.93,
+      "end": 7072.81,
+      "text": "take care"
+    },
+    {
+      "start": 7072.81,
+      "end": 7073.59,
+      "text": "and God bless"
     }
   ]
 }

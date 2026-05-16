@@ -31,27 +31,32 @@
     {
       "artist": "Yes",
       "track": "Does It Really Happen",
-      "details": "LP-Drama"
+      "details": "LP-Drama",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Shine On You Crazy Diamond",
-      "details": "LP-Wish You Were Here"
+      "details": "LP-Wish You Were Here",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "More",
       "track": "Atomic Masters",
-      "details": "FRS session 1980-04-14"
+      "details": "FRS session 1980-04-14",
+      "verified_timestamp": 1322.83
     },
     {
       "artist": "Blue Oyster Cult",
       "track": "Black Blade",
-      "details": "LP-Cultosaurus Erectus"
+      "details": "LP-Cultosaurus Erectus",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Pretty Things",
       "track": "Big Boss Man",
-      "details": "Saturday Club session 1964-10-xx"
+      "details": "Saturday Club session 1964-10-xx",
+      "verified_timestamp": 1973.1
     },
     {
       "artist": "Pretty Things",
@@ -66,17 +71,20 @@
     {
       "artist": "Black Axe",
       "track": "Red Lights",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2925.52
     },
     {
       "artist": "Saxon",
       "track": "See The Light Shining",
-      "details": "LP-Wheels Of Steel"
+      "details": "LP-Wheels Of Steel",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Rainbow",
       "track": "Stargazer",
-      "details": "LP-Rainbow Rising"
+      "details": "LP-Rainbow Rising",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "More",
@@ -86,7 +94,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 69.7
     },
     {
       "artist": "More",
@@ -96,27 +105,32 @@
     {
       "artist": "Roxy Music",
       "track": "Do The Strand",
-      "details": "LP-For Your Pleasure"
+      "details": "LP-For Your Pleasure",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Yes",
       "track": "Run Through The Light",
-      "details": "LP-Drama"
+      "details": "LP-Drama",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Yes",
       "track": "Tempus Fugit",
-      "details": "LP-Drama"
+      "details": "LP-Drama",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Pretty Things",
       "track": "Buzz The Jerk",
-      "details": "Saturday Club session 1966-05-xx"
+      "details": "Saturday Club session 1966-05-xx",
+      "verified_timestamp": 1973.1
     },
     {
       "artist": "Pretty Things",
       "track": "Turning My Head",
-      "details": "Top Gear session 1967-11-27"
+      "details": "Top Gear session 1967-11-27",
+      "verified_timestamp": 1973.1
     },
     {
       "artist": "Pretty Things",
@@ -131,12 +145,1331 @@
     {
       "artist": "Pat Travers",
       "track": "'Snortin' Whiskey'",
-      "details": "12\"-Snortin' Whiskey EP"
+      "details": "12\"-Snortin' Whiskey EP",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Neil Young",
       "track": "Hey Hey My My Into The Black",
-      "details": "LP-Live Rust"
+      "details": "LP-Live Rust",
+      "verified_timestamp": 7020.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 10.1,
+      "end": 16.6,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 16.6,
+      "end": 32.58,
+      "text": "Hello there. This is TV on the Radio. Thomas Vance. Good evening. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 33.58,
+      "end": 39.08,
+      "text": "And this evening, at the request of many, we re-broadcast two sets by The Pretty Things that were recorded in the 1960s."
+    },
+    {
+      "start": 39.08,
+      "end": 46.08,
+      "text": "And we repeat our set by the band called More, who we've just heard have been signed to a major American record company."
+    },
+    {
+      "start": 46.08,
+      "end": 65.28,
+      "text": "We've got three tracks from Drama, the new Yes LP, and other new cuts by Blue Oyster Cult and Black Axe,"
+    },
+    {
+      "start": 65.34,
+      "end": 69.54,
+      "text": "and some classic cuts from The Floyd, Rainbow, Roxy Music, and Neil Young, among others."
+    },
+    {
+      "start": 69.7,
+      "end": 71.42,
+      "text": "Not forgetting our Friday Night Connection."
+    },
+    {
+      "start": 72.14,
+      "end": 74.34,
+      "text": "A little bit of titillation falls into the bath with you."
+    },
+    {
+      "start": 74.76,
+      "end": 77.1,
+      "text": "But this evening we start with Yes."
+    },
+    {
+      "start": 78.66,
+      "end": 1258.95,
+      "text": "The Pink Floyd from Wish You Were Here and Shine On You, Crazy Diamond."
+    },
+    {
+      "start": 1263.94,
+      "end": 1268.26,
+      "text": "And we've played The Floyd for loads of people, of course, just about everybody I would think who listens to this program,"
+    },
+    {
+      "start": 1268.26,
+      "end": 1272.92,
+      "text": "including justin and adrian and michael good friends of simon wilson who lives in deal in"
+    },
+    {
+      "start": 1272.92,
+      "end": 1278.02,
+      "text": "kent and also for animal and gonzo and totem angel lots of best wishes from wookiee who lives"
+    },
+    {
+      "start": 1278.02,
+      "end": 1282.64,
+      "text": "in barton in torquay it seems you're going to be breaking up i hope wherever you go you all have a"
+    },
+    {
+      "start": 1282.64,
+      "end": 1287.52,
+      "text": "good time and also for nicky and chris who's in hospital get well soon because i miss you it says"
+    },
+    {
+      "start": 1287.52,
+      "end": 1292.6,
+      "text": "here and for sally and for paul congratulations on your engagement and for sarah and for steve"
+    },
+    {
+      "start": 1292.6,
+      "end": 1297.76,
+      "text": "and all the lads in the world maybe and for trisha and caroline the twins and julie"
+    },
+    {
+      "start": 1297.76,
+      "end": 1300.05,
+      "text": "And Rosemary, I think that is"
+    },
+    {
+      "start": 1300.05,
+      "end": 1303.11,
+      "text": "And most of all, for Carolyn the Cucumber"
+    },
+    {
+      "start": 1303.11,
+      "end": 1304.85,
+      "text": "From Astley Barlow"
+    },
+    {
+      "start": 1304.85,
+      "end": 1307.27,
+      "text": "And for Carolyn, Dawn and Catherine"
+    },
+    {
+      "start": 1307.27,
+      "end": 1309.65,
+      "text": "And Paul and Sarah and anybody else who went to see Pink Floyd"
+    },
+    {
+      "start": 1309.65,
+      "end": 1310.73,
+      "text": "At Earl's Court last week"
+    },
+    {
+      "start": 1310.73,
+      "end": 1312.17,
+      "text": "From Steve and also from Neil"
+    },
+    {
+      "start": 1312.17,
+      "end": 1315.31,
+      "text": "And for Sean Tracy and Richard Watts and Adam and Ben and Paul Lunnan"
+    },
+    {
+      "start": 1315.31,
+      "end": 1317.53,
+      "text": "And Paul Waters and Damien and Dave"
+    },
+    {
+      "start": 1317.53,
+      "end": 1320.27,
+      "text": "And also for all the friends of Andrew Parr"
+    },
+    {
+      "start": 1320.27,
+      "end": 1322.83,
+      "text": "Of the third form from Cowes High School"
+    },
+    {
+      "start": 1322.83,
+      "end": 1324.73,
+      "text": "And the track that we played before that"
+    },
+    {
+      "start": 1324.73,
+      "end": 1326.37,
+      "text": "Was something from the brand new album by"
+    },
+    {
+      "start": 1326.37,
+      "end": 1335.94,
+      "text": "yes the album's called drama and the track was does it really happen 10 22 this is the friday"
+    },
+    {
+      "start": 1335.94,
+      "end": 1340.16,
+      "text": "rock show and now the first of four from our repeat session by the band called more"
+    },
+    {
+      "start": 1340.16,
+      "end": 1930.88,
+      "text": "an interesting album the album's called cultosaurus erectus and it features the talent"
+    },
+    {
+      "start": 1930.88,
+      "end": 1937.09,
+      "text": "of blue oyster cult the track you heard there was called black blade especially there for vernon and"
+    },
+    {
+      "start": 1937.09,
+      "end": 1942.25,
+      "text": "wendy and steve and karen who were down there in worthing where i was last night as indeed was"
+    },
+    {
+      "start": 1942.25,
+      "end": 1946.15,
+      "text": "Gary Edwards, he's from Shoreham, and just says here, love all."
+    },
+    {
+      "start": 1946.85,
+      "end": 1950.37,
+      "text": "And also Pete and Tony and everybody at the Hungry Years in Brighton wanted to mention."
+    },
+    {
+      "start": 1951.78,
+      "end": 1956.32,
+      "text": "Prior to that you heard Atomic Masters, the first of four that we're going to have from Moore tonight,"
+    },
+    {
+      "start": 1956.88,
+      "end": 1958.58,
+      "text": "a session that we first put out some time ago,"
+    },
+    {
+      "start": 1958.68,
+      "end": 1962.08,
+      "text": "and it's really nice to hear that they have signed with a major company in America,"
+    },
+    {
+      "start": 1962.08,
+      "end": 1965.42,
+      "text": "a company by the name of Atlantic. I'm sure they'll do remarkably well."
+    },
+    {
+      "start": 1967.82,
+      "end": 1973.1,
+      "text": "It's 28 minutes now before 11 o'clock, and here's the first of two sets we have dug out of the archives for you,"
+    },
+    {
+      "start": 1973.1,
+      "end": 1976.2,
+      "text": "recorded in the mid-60s by a band called The Pretty Things."
+    },
+    {
+      "start": 1976.62,
+      "end": 2414.52,
+      "text": "And that certainly is one of the oldest archive sessions"
+    },
+    {
+      "start": 2414.52,
+      "end": 2416.42,
+      "text": "I think we've ever featured on The Friday Rock Show."
+    },
+    {
+      "start": 2416.52,
+      "end": 2419.48,
+      "text": "We believe it was recorded in October in 1964."
+    },
+    {
+      "start": 2420.18,
+      "end": 2421.44,
+      "text": "It was the band called The Pretty Things"
+    },
+    {
+      "start": 2421.44,
+      "end": 2424.42,
+      "text": "that were formed by the original bass guitarist of the Rolling Stones,"
+    },
+    {
+      "start": 2424.52,
+      "end": 2428.22,
+      "text": "a man by the name of Dick Taylor, at Sidcup Art College in 1963."
+    },
+    {
+      "start": 2428.94,
+      "end": 2431.18,
+      "text": "And also in the line-up were Phil May,"
+    },
+    {
+      "start": 2431.38,
+      "end": 2433.2,
+      "text": "who's just reformed the band, incidentally,"
+    },
+    {
+      "start": 2433.58,
+      "end": 2435.02,
+      "text": "a new album's coming out next week,"
+    },
+    {
+      "start": 2435.1,
+      "end": 2437.2,
+      "text": "and the mad drummer himself, Viv Prince."
+    },
+    {
+      "start": 2437.2,
+      "end": 2438.96,
+      "text": "and the three tracks that he heard were"
+    },
+    {
+      "start": 2438.96,
+      "end": 2442.18,
+      "text": "Hey Mama, Don't Bring Me Down and Big Boss Man"
+    },
+    {
+      "start": 2442.18,
+      "end": 2444.12,
+      "text": "and incidentally Big Boss Man and Don't Bring Me Down"
+    },
+    {
+      "start": 2444.12,
+      "end": 2446.7,
+      "text": "were singles for them and sort of minor hits."
+    },
+    {
+      "start": 2453.9,
+      "end": 2455.82,
+      "text": "Here's a good new band called Black Axe."
+    },
+    {
+      "start": 2922.56,
+      "end": 2925.52,
+      "text": "Saxon, as if you didn't know from the album Wheels of Steel"
+    },
+    {
+      "start": 2925.52,
+      "end": 2926.84,
+      "text": "and See the Light Shining."
+    },
+    {
+      "start": 2928.42,
+      "end": 2931.5,
+      "text": "That was for loads of people, including Simon Harwood"
+    },
+    {
+      "start": 2931.5,
+      "end": 2933.74,
+      "text": "and his brothers Gary and Neil"
+    },
+    {
+      "start": 2933.74,
+      "end": 2936.48,
+      "text": "who live in Pontyclun in mid-Glamorganshire"
+    },
+    {
+      "start": 2936.48,
+      "end": 2939.86,
+      "text": "and also everybody who goes to the, I think it's Gillsborough School"
+    },
+    {
+      "start": 2939.86,
+      "end": 2942.5,
+      "text": "lots of best wishes from Andy Hodges"
+    },
+    {
+      "start": 2942.5,
+      "end": 2944.14,
+      "text": "who lives in Creighton and North Anse"
+    },
+    {
+      "start": 2944.14,
+      "end": 2946.68,
+      "text": "and an unsigned gentleman"
+    },
+    {
+      "start": 2946.68,
+      "end": 2948.36,
+      "text": "or maybe lady who lives in number two"
+    },
+    {
+      "start": 2948.36,
+      "end": 2950.54,
+      "text": "Cameron Court Heathall in Dumfries wants me to say"
+    },
+    {
+      "start": 2950.54,
+      "end": 2952.66,
+      "text": "hello to Maxie and Sar and Lanx and Stew"
+    },
+    {
+      "start": 2952.66,
+      "end": 2954.82,
+      "text": "and Ewan and many many girls"
+    },
+    {
+      "start": 2954.82,
+      "end": 2956.52,
+      "text": "at Dumfries High School third year"
+    },
+    {
+      "start": 2956.52,
+      "end": 2958.79,
+      "text": "and I got a little"
+    },
+    {
+      "start": 2958.79,
+      "end": 2960.91,
+      "text": "card here from St Helier in Jersey"
+    },
+    {
+      "start": 2960.91,
+      "end": 2962.73,
+      "text": "and I've got to say hello to all the new"
+    },
+    {
+      "start": 2962.73,
+      "end": 2965.01,
+      "text": "lower sixth at Hollier School"
+    },
+    {
+      "start": 2965.01,
+      "end": 2967.13,
+      "text": "good luck with all their examinations for next year"
+    },
+    {
+      "start": 2967.13,
+      "end": 2968.77,
+      "text": "and best wishes from Steve Thompson"
+    },
+    {
+      "start": 2968.77,
+      "end": 2975.02,
+      "text": "And before that, you heard a single which is out on the metal label"
+    },
+    {
+      "start": 2975.02,
+      "end": 2978.18,
+      "text": "from a band, a five-piece band, in fact, who come from Carlisle."
+    },
+    {
+      "start": 2978.68,
+      "end": 2981.6,
+      "text": "They're called Black Axe, and their single was Red Lights."
+    },
+    {
+      "start": 2986.89,
+      "end": 2988.65,
+      "text": "It is 11 minutes now before 11 o'clock."
+    },
+    {
+      "start": 2988.77,
+      "end": 2991.85,
+      "text": "I've got a card here from Chris and from Steve and Mark,"
+    },
+    {
+      "start": 2991.85,
+      "end": 2994.17,
+      "text": "and it was sent from Wakefield, West Yorkshire,"
+    },
+    {
+      "start": 2994.23,
+      "end": 2995.19,
+      "text": "and I'll read it out for you."
+    },
+    {
+      "start": 2995.75,
+      "end": 2999.47,
+      "text": "Dear Tom, please play something by Rainbow on Friday the 15th"
+    },
+    {
+      "start": 2999.47,
+      "end": 3002.35,
+      "text": "as we will be camped under the stars at Castle Donington,"
+    },
+    {
+      "start": 3002.35,
+      "end": 3005.27,
+      "text": "listening to the show and waiting for the festival on Saturday."
+    },
+    {
+      "start": 3005.93,
+      "end": 3008.43,
+      "text": "Please say hello to all the Normanton headbangers."
+    },
+    {
+      "start": 3008.77,
+      "end": 3010.53,
+      "text": "I tell you what, I'll say hello to everybody"
+    },
+    {
+      "start": 3010.53,
+      "end": 3012.07,
+      "text": "who's camped under the stars"
+    },
+    {
+      "start": 3012.07,
+      "end": 3014.57,
+      "text": "or maybe even travelling down to Castle Donington"
+    },
+    {
+      "start": 3014.57,
+      "end": 3016.37,
+      "text": "for the Monsters of Rock Festival tomorrow."
+    },
+    {
+      "start": 3016.89,
+      "end": 3019.95,
+      "text": "I'm sure you're going to have a great, great day."
+    },
+    {
+      "start": 3020.39,
+      "end": 3815.48,
+      "text": "...solid band, that's more."
+    },
+    {
+      "start": 3815.8,
+      "end": 3818.88,
+      "text": "And one of our session tracks from then called I Have No Answers."
+    },
+    {
+      "start": 3819.4,
+      "end": 3822.28,
+      "text": "And before that, especially for everybody up there at Castle Donington,"
+    },
+    {
+      "start": 3822.44,
+      "end": 3824.36,
+      "text": "Blackmore's Rainbow from Rainbow Rising"
+    },
+    {
+      "start": 3824.36,
+      "end": 3827.02,
+      "text": "and the track we played for you was Stargazer."
+    },
+    {
+      "start": 3827.7,
+      "end": 3829.06,
+      "text": "Hope it's all right under the stars tonight."
+    },
+    {
+      "start": 3829.18,
+      "end": 3830.58,
+      "text": "And there's a lovely little PS, actually,"
+    },
+    {
+      "start": 3830.68,
+      "end": 3832.48,
+      "text": "on this card from Steve and Chris and Mark"
+    },
+    {
+      "start": 3832.48,
+      "end": 3833.28,
+      "text": "who are travelling down,"
+    },
+    {
+      "start": 3833.36,
+      "end": 3834.56,
+      "text": "or rather camping out there at the moment,"
+    },
+    {
+      "start": 3835.3,
+      "end": 3837.14,
+      "text": "to see the Monsters of Rock Festival."
+    },
+    {
+      "start": 3837.14,
+      "end": 3839.56,
+      "text": "It says, PS, does Tony Wilson actually do anything"
+    },
+    {
+      "start": 3839.56,
+      "end": 3840.76,
+      "text": "during the show,"
+    },
+    {
+      "start": 3840.88,
+      "end": 3842.42,
+      "text": "or is he just waiting for his big moment?"
+    },
+    {
+      "start": 3842.72,
+      "end": 3842.74,
+      "text": "What?"
+    },
+    {
+      "start": 3843.02,
+      "end": 3845.54,
+      "text": "Do you actually do anything during the show,"
+    },
+    {
+      "start": 3845.84,
+      "end": 3847.1,
+      "text": "or are you just waiting for the big moment?"
+    },
+    {
+      "start": 3847.14,
+      "end": 3848.02,
+      "text": "Let me have a look at this."
+    },
+    {
+      "start": 3848.26,
+      "end": 3848.56,
+      "text": "It's true."
+    },
+    {
+      "start": 3849.1,
+      "end": 3851.1,
+      "text": "Goodness, well, I'd say it's lucky for them"
+    },
+    {
+      "start": 3851.1,
+      "end": 3852.34,
+      "text": "they haven't put their address down,"
+    },
+    {
+      "start": 3852.42,
+      "end": 3854.04,
+      "text": "or I think I'd have been round with the boys."
+    },
+    {
+      "start": 3854.18,
+      "end": 3855.18,
+      "text": "Oh, the boys."
+    },
+    {
+      "start": 3855.42,
+      "end": 3856.86,
+      "text": "Actually, he doesn't do anything."
+    },
+    {
+      "start": 3858.34,
+      "end": 3858.9,
+      "text": "Thank you."
+    },
+    {
+      "start": 3859.16,
+      "end": 3859.76,
+      "text": "Thank you."
+    },
+    {
+      "start": 3859.92,
+      "end": 3862.1,
+      "text": "But next weekend, you've got a heck of a lot to do, Wilson."
+    },
+    {
+      "start": 3862.18,
+      "end": 3863.12,
+      "text": "Get back on that microphone,"
+    },
+    {
+      "start": 3863.3,
+      "end": 3864.9,
+      "text": "because you're not going to be in the studio,"
+    },
+    {
+      "start": 3865.04,
+      "end": 3866.42,
+      "text": "and for three days you're going to be at Reading."
+    },
+    {
+      "start": 3866.62,
+      "end": 3867.66,
+      "text": "And tell us what you're going to be doing."
+    },
+    {
+      "start": 3867.74,
+      "end": 3868.3,
+      "text": "That's a bit it."
+    },
+    {
+      "start": 3868.68,
+      "end": 3870.32,
+      "text": "Well, we're going to be recording"
+    },
+    {
+      "start": 3870.32,
+      "end": 3872.96,
+      "text": "approximately a dozen other bands at Reading."
+    },
+    {
+      "start": 3873.8,
+      "end": 3876.72,
+      "text": "Gillen, UFO, Pat Travers, Whitesnake,"
+    },
+    {
+      "start": 3877.02,
+      "end": 3877.98,
+      "text": "Def Leppard, all sorts."
+    },
+    {
+      "start": 3878.28,
+      "end": 3880.6,
+      "text": "Right, and they will be broadcast in when?"
+    },
+    {
+      "start": 3881.2,
+      "end": 3883.7,
+      "text": "In the following five or six weeks in the Rock Show."
+    },
+    {
+      "start": 3883.82,
+      "end": 3885.06,
+      "text": "Pretty much like we did last year."
+    },
+    {
+      "start": 3885.08,
+      "end": 3885.4,
+      "text": "That's right."
+    },
+    {
+      "start": 3885.54,
+      "end": 3886.82,
+      "text": "As blocks of music."
+    },
+    {
+      "start": 3886.92,
+      "end": 3887.12,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 3887.34,
+      "end": 3887.66,
+      "text": "Okay."
+    },
+    {
+      "start": 3887.82,
+      "end": 3891.02,
+      "text": "So he's got three nights and three days at Reading next weekend."
+    },
+    {
+      "start": 3891.8,
+      "end": 3893.02,
+      "text": "What do you do in your spare time?"
+    },
+    {
+      "start": 3893.04,
+      "end": 3894.12,
+      "text": "Because you never seem to have any."
+    },
+    {
+      "start": 3894.32,
+      "end": 3895.64,
+      "text": "I have no answer for that."
+    },
+    {
+      "start": 3899.57,
+      "end": 3899.97,
+      "text": "Right."
+    },
+    {
+      "start": 3900.21,
+      "end": 3901.53,
+      "text": "It's time for the Friday Night Connection."
+    },
+    {
+      "start": 3902.15,
+      "end": 3907.05,
+      "text": "Now, last week, we played for you Delta Lady by Leon Russell from the album Best of Leon."
+    },
+    {
+      "start": 3907.59,
+      "end": 3910.89,
+      "text": "Alpha Centauri by UFO from the LP No Place to Run."
+    },
+    {
+      "start": 3911.01,
+      "end": 3914.45,
+      "text": "And Fight to the Finish by Gamma from the album of the same name."
+    },
+    {
+      "start": 3914.45,
+      "end": 3918.42,
+      "text": "The connection was delta, alpha, and gamma."
+    },
+    {
+      "start": 3919.02,
+      "end": 3923.1,
+      "text": "Three letters out of the Greek alphabet."
+    },
+    {
+      "start": 3923.58,
+      "end": 3927.84,
+      "text": "And just about everybody got it right, but the card that we pulled out is a rather large one."
+    },
+    {
+      "start": 3928.0,
+      "end": 3932.72,
+      "text": "It's from Chris Bocca Edwards of No. 73 Lones Road, West Bromwich in the West Midlands."
+    },
+    {
+      "start": 3932.9,
+      "end": 3935.14,
+      "text": "Chris, you get yourself a £10 record token."
+    },
+    {
+      "start": 3935.78,
+      "end": 3938.36,
+      "text": "And also, this gentleman has put together a Friday Night Connection."
+    },
+    {
+      "start": 3938.56,
+      "end": 3941.64,
+      "text": "Three bits of music, and it's in there somewhere."
+    },
+    {
+      "start": 3941.64,
+      "end": 4633.74,
+      "text": "Friday Night Connection for this week, put together by Chris Edwards, 73 Lones Road, West Brom, West Midlands."
+    },
+    {
+      "start": 4634.3,
+      "end": 4636.07,
+      "text": "Know what the connection is?"
+    },
+    {
+      "start": 4636.33,
+      "end": 4640.72,
+      "text": "Well, I'm sure somebody out there has already got an inkling of what it's all about."
+    },
+    {
+      "start": 4641.94,
+      "end": 4644.96,
+      "text": "If you have, well, you could get yourself a £10 record token"
+    },
+    {
+      "start": 4644.96,
+      "end": 4648.94,
+      "text": "by putting the answer down on a postcard, communication of any form, actually,"
+    },
+    {
+      "start": 4649.02,
+      "end": 4650.7,
+      "text": "and sending it to the Friday Night Connection,"
+    },
+    {
+      "start": 4651.24,
+      "end": 4656.32,
+      "text": "the Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4656.32,
+      "end": 4658.7,
+      "text": "There's a £10 record token in the offing"
+    },
+    {
+      "start": 4658.7,
+      "end": 4660.16,
+      "text": "And our best of luck"
+    },
+    {
+      "start": 4660.16,
+      "end": 4669.44,
+      "text": "Let's have some more"
+    },
+    {
+      "start": 4669.44,
+      "end": 4671.8,
+      "text": "Let's have some more"
+    },
+    {
+      "start": 4671.8,
+      "end": 4675.38,
+      "text": "And here is some more"
+    },
+    {
+      "start": 4675.38,
+      "end": 5227.14,
+      "text": "Class Band"
+    },
+    {
+      "start": 5227.14,
+      "end": 5230.1,
+      "text": "That was recorded in 1973 from the album For Your Pleasure"
+    },
+    {
+      "start": 5230.1,
+      "end": 5231.38,
+      "text": "It was called Do The Strand"
+    },
+    {
+      "start": 5231.38,
+      "end": 5237.28,
+      "text": "Requested by Mariel of 25 Denton Road in Nottage"
+    },
+    {
+      "start": 5237.28,
+      "end": 5242.12,
+      "text": "For Plum and for Matt and for Vic up there in Aberdeen"
+    },
+    {
+      "start": 5242.12,
+      "end": 5243.92,
+      "text": "With lots and lots of love to Plum"
+    },
+    {
+      "start": 5243.92,
+      "end": 5247.8,
+      "text": "Also for Simon Skerritt from Waltham Abbey, Upshur in Essex"
+    },
+    {
+      "start": 5247.8,
+      "end": 5249.06,
+      "text": "And also for David Reynolds"
+    },
+    {
+      "start": 5249.06,
+      "end": 5251.72,
+      "text": "Also from Upshur in Waltham Abbey in Essex"
+    },
+    {
+      "start": 5251.72,
+      "end": 5253.5,
+      "text": "And for Diane and Mick"
+    },
+    {
+      "start": 5253.5,
+      "end": 5254.56,
+      "text": "A couple of very nice people"
+    },
+    {
+      "start": 5254.56,
+      "end": 5255.96,
+      "text": "Who work at a great club in Worthing"
+    },
+    {
+      "start": 5255.96,
+      "end": 5257.82,
+      "text": "And Diane asked me to tell you, Mick"
+    },
+    {
+      "start": 5257.82,
+      "end": 5258.8,
+      "text": "That she loves you"
+    },
+    {
+      "start": 5258.8,
+      "end": 5261.1,
+      "text": "Prior to that you heard a track by Moore"
+    },
+    {
+      "start": 5261.1,
+      "end": 5262.18,
+      "text": "From our session from them"
+    },
+    {
+      "start": 5262.18,
+      "end": 5263.48,
+      "text": "The track was called Soldier"
+    },
+    {
+      "start": 5263.48,
+      "end": 5264.98,
+      "text": "And it's going to be on an album"
+    },
+    {
+      "start": 5264.98,
+      "end": 5266.58,
+      "text": "Which I think I mentioned last week"
+    },
+    {
+      "start": 5266.58,
+      "end": 5267.94,
+      "text": "Called Metal Explosion"
+    },
+    {
+      "start": 5267.94,
+      "end": 5269.62,
+      "text": "Which is an album built around"
+    },
+    {
+      "start": 5269.62,
+      "end": 5271.22,
+      "text": "The Friday Rock Show"
+    },
+    {
+      "start": 5271.22,
+      "end": 5272.66,
+      "text": "And the various excellent sessions"
+    },
+    {
+      "start": 5272.66,
+      "end": 5274.08,
+      "text": "That have been put together by Tony Wilson"
+    },
+    {
+      "start": 5274.08,
+      "end": 5276.26,
+      "text": "That album will be in your shop soon"
+    },
+    {
+      "start": 5276.26,
+      "end": 5279.5,
+      "text": "It's 26 minutes after 11 of the clock"
+    },
+    {
+      "start": 5279.5,
+      "end": 5284.46,
+      "text": "here on the friday rock show many thanks for all your letters with regard to yes i played that track"
+    },
+    {
+      "start": 5284.46,
+      "end": 5288.86,
+      "text": "into the lens last week from their new album drama generally speaking most of the letters"
+    },
+    {
+      "start": 5288.86,
+      "end": 5293.42,
+      "text": "had an extremely positive attitude toward the new lineup of yes the sort of reservation that"
+    },
+    {
+      "start": 5293.42,
+      "end": 5298.3,
+      "text": "existed in some of the letters was the fact that people are going to miss john anderson well i'm"
+    },
+    {
+      "start": 5298.3,
+      "end": 5302.3,
+      "text": "going to miss john anderson just for a while because he's bound to be recording again soon"
+    },
+    {
+      "start": 5302.3,
+      "end": 5308.7,
+      "text": "but i must say i'm still glad that there is a yes here's two tracks from drama first run through"
+    },
+    {
+      "start": 5308.7,
+      "end": 5917.3,
+      "text": "the light and then tempus fugit like the majority of pieces of extremely complex music it takes a"
+    },
+    {
+      "start": 5917.3,
+      "end": 5922.02,
+      "text": "little time to get acquainted with it and i'm certainly acquainted well with that because"
+    },
+    {
+      "start": 5922.02,
+      "end": 5926.5,
+      "text": "that's about the fourth time i've heard that track and i think it's a monster piece of magic"
+    },
+    {
+      "start": 5927.14,
+      "end": 5930.82,
+      "text": "a couple of tracks from the album called drama that's hitting the streets shortly"
+    },
+    {
+      "start": 5930.82,
+      "end": 5936.26,
+      "text": "it's by yes tempus fugit was preceded by run through the light and now here's something by"
+    },
+    {
+      "start": 5936.26,
+      "end": 5937.9,
+      "text": "by the Pretty Things from the 60s."
+    },
+    {
+      "start": 5972.01,
+      "end": 6404.79,
+      "text": "Real 60s nostalgia there, and psychedelia."
+    },
+    {
+      "start": 6405.23,
+      "end": 6410.95,
+      "text": "Three tracks from the Pretty Things that we believe were recorded between 1966 and early 1968."
+    },
+    {
+      "start": 6411.41,
+      "end": 6414.29,
+      "text": "The last one was Defecting Grey, and before that you heard Turning My Head,"
+    },
+    {
+      "start": 6414.35,
+      "end": 6416.03,
+      "text": "and prior to that, Buzz the Jerk."
+    },
+    {
+      "start": 6416.85,
+      "end": 6418.67,
+      "text": "And Phil May has reformed the Pretty Things."
+    },
+    {
+      "start": 6418.77,
+      "end": 6420.93,
+      "text": "I don't actually know the lineup of the band, I know he's in it."
+    },
+    {
+      "start": 6421.35,
+      "end": 6423.67,
+      "text": "There's a new LP, it just came into the office a couple of days ago."
+    },
+    {
+      "start": 6423.67,
+      "end": 6426.47,
+      "text": "If you haven't heard it, we'll listen to it and probably play some of it on the show."
+    },
+    {
+      "start": 6426.47,
+      "end": 6428.79,
+      "text": "we dug the pretty things out of the archives"
+    },
+    {
+      "start": 6428.79,
+      "end": 6431.27,
+      "text": "particularly for Carolyn Stacey who lives in Bournemouth"
+    },
+    {
+      "start": 6431.27,
+      "end": 6433.91,
+      "text": "and also for Roy Walker who lives in Whitstable"
+    },
+    {
+      "start": 6433.91,
+      "end": 6436.09,
+      "text": "and Nigel Edwards who lives in Halliwell"
+    },
+    {
+      "start": 6436.09,
+      "end": 6437.07,
+      "text": "that's up by Bolton"
+    },
+    {
+      "start": 6437.07,
+      "end": 6439.89,
+      "text": "and Mark Rawston who's in Bury-in-Lanks"
+    },
+    {
+      "start": 6439.89,
+      "end": 6442.99,
+      "text": "and everybody else who happens to like the pretty things"
+    },
+    {
+      "start": 6442.99,
+      "end": 6444.19,
+      "text": "and now back to more"
+    },
+    {
+      "start": 6444.19,
+      "end": 6892.78,
+      "text": "Pat Travers Band and Snorting Whiskey"
+    },
+    {
+      "start": 6892.78,
+      "end": 6894.44,
+      "text": "and you'll find that on a limited edition"
+    },
+    {
+      "start": 6894.44,
+      "end": 6896.76,
+      "text": "12 inch of the Scott 5 tracks on it"
+    },
+    {
+      "start": 6896.76,
+      "end": 6899.06,
+      "text": "from varying albums that he's made over the years"
+    },
+    {
+      "start": 6899.06,
+      "end": 6901.08,
+      "text": "and I played that specially for all the heavy metal freaks"
+    },
+    {
+      "start": 6901.08,
+      "end": 6903.04,
+      "text": "at school in Cranley in Surrey"
+    },
+    {
+      "start": 6903.04,
+      "end": 6905.74,
+      "text": "from Mark Fielden, who lives in Burbage in Hinkley."
+    },
+    {
+      "start": 6905.86,
+      "end": 6908.62,
+      "text": "And before that, our final one from an ace set"
+    },
+    {
+      "start": 6908.62,
+      "end": 6910.16,
+      "text": "that was put together some time ago by Moore."
+    },
+    {
+      "start": 6910.22,
+      "end": 6911.58,
+      "text": "The track was Way of the World."
+    },
+    {
+      "start": 6912.18,
+      "end": 6913.38,
+      "text": "And incidentally, you can see more."
+    },
+    {
+      "start": 6913.48,
+      "end": 6915.02,
+      "text": "On the 25th of August,"
+    },
+    {
+      "start": 6915.18,
+      "end": 6916.94,
+      "text": "they're supporting Prairie Mantis at the Marquee."
+    },
+    {
+      "start": 6917.44,
+      "end": 6919.98,
+      "text": "2nd of September, The Music Machine supporting Vardis."
+    },
+    {
+      "start": 6920.4,
+      "end": 6922.58,
+      "text": "20th of September, Bristol Granary."
+    },
+    {
+      "start": 6922.7,
+      "end": 6926.02,
+      "text": "And the 21st of September, they'll be in Richmond at Polly's."
+    },
+    {
+      "start": 6926.06,
+      "end": 6928.04,
+      "text": "And now they've got a good contract with Atlantic Records."
+    },
+    {
+      "start": 6928.16,
+      "end": 6929.02,
+      "text": "The best of luck to them."
+    },
+    {
+      "start": 6929.34,
+      "end": 6930.82,
+      "text": "And let's finish with a classic."
+    },
+    {
+      "start": 6930.82,
+      "end": 7253.57,
+      "text": "was from Live Rust and Hey Hey My My Into the Black."
+    },
+    {
+      "start": 7254.3,
+      "end": 7256.28,
+      "text": "For all the mates of Nick Hodgson, of Bradford,"
+    },
+    {
+      "start": 7256.38,
+      "end": 7258.02,
+      "text": "all the hundreds that he's put in this letter,"
+    },
+    {
+      "start": 7258.34,
+      "end": 7259.0,
+      "text": "good evening to you."
+    },
+    {
+      "start": 7262.52,
+      "end": 7265.1,
+      "text": "On Rock on Saturday tomorrow, we've got that madman, Ted Nugent,"
+    },
+    {
+      "start": 7265.2,
+      "end": 7266.92,
+      "text": "also the Tigers of Pantang, Girl School,"
+    },
+    {
+      "start": 7267.08,
+      "end": 7269.18,
+      "text": "and Wishbone Ash for 60 minutes in concert"
+    },
+    {
+      "start": 7269.18,
+      "end": 7271.22,
+      "text": "between 4 and 7.30, you can hear that lot."
+    },
+    {
+      "start": 7272.55,
+      "end": 7274.23,
+      "text": "Tony Wilson is now going to speak."
+    },
+    {
+      "start": 7274.29,
+      "end": 7274.91,
+      "text": "Speak, Mr Wilson."
+    },
+    {
+      "start": 7275.15,
+      "end": 7277.31,
+      "text": "Tonight's programme is dedicated to Ian Morgan,"
+    },
+    {
+      "start": 7277.43,
+      "end": 7279.11,
+      "text": "who wrote in to say that I talk too much."
+    },
+    {
+      "start": 7279.11,
+      "end": 7280.47,
+      "text": "Which is absolutely true, of course."
+    },
+    {
+      "start": 7281.03,
+      "end": 7281.67,
+      "text": "Thank you, Mr Morgan."
+    },
+    {
+      "start": 7281.95,
+      "end": 7282.75,
+      "text": "Thank you, Mr Wilson."
+    },
+    {
+      "start": 7282.75,
+      "end": 7286.91,
+      "text": "Oh, Grant Way, happy birthday to you from Angie."
+    },
+    {
+      "start": 7287.15,
+      "end": 7289.03,
+      "text": "That's Angie who lives in Ware in Harts."
+    },
+    {
+      "start": 7290.37,
+      "end": 7292.11,
+      "text": "Ian was our engineer tonight. Thank you, Ian."
+    },
+    {
+      "start": 7296.94,
+      "end": 7299.16,
+      "text": "And this is Tommy Vance in London, wherever you happen to be."
+    },
+    {
+      "start": 7300.08,
+      "end": 7302.1,
+      "text": "I hope you're well and I hope you're happy."
+    },
+    {
+      "start": 7302.54,
+      "end": 7306.56,
+      "text": "And if you're there for the monsters of rock at Castle Donington, have a good one."
+    },
+    {
+      "start": 7306.92,
+      "end": 7308.14,
+      "text": "God bless and good night."
+    },
+    {
+      "start": 7320.5,
+      "end": 7326.1,
+      "text": "It's midnight and we're together on all wavelengths, 433, 330, 285, 275 and VHF."
+    },
+    {
+      "start": 7326.1,
+      "end": 7328.34,
+      "text": "And this is Patrick Lunt in the Midnight Newsroom."
+    },
+    {
+      "start": 7329.01,
+      "end": 7332.55,
+      "text": "The headlines, there are fears that Gene Waddell, the..."
     }
   ]
 }

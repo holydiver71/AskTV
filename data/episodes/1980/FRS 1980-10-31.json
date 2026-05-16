@@ -26,27 +26,32 @@
     {
       "artist": "Deep Purple",
       "track": "Speed King",
-      "details": "LP-In Rock"
+      "details": "LP-In Rock",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Elton John",
       "track": "Take Me To The Pilot",
-      "details": "LP-Elton John"
+      "details": "LP-Elton John",
+      "verified_timestamp": 655.72
     },
     {
       "artist": "Pink Floyd",
       "track": "'Father's Shout'",
-      "details": "LP-Atom Heart Mother"
+      "details": "LP-Atom Heart Mother",
+      "verified_timestamp": 1306.08
     },
     {
       "artist": "Santana",
       "track": "Oye Como Va",
-      "details": "LP-Abraxas"
+      "details": "LP-Abraxas",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Free",
       "track": "All Right Now",
-      "details": "Harding session 1970-06-04"
+      "details": "Harding session 1970-06-04",
+      "verified_timestamp": 442.68
     },
     {
       "artist": "Free",
@@ -56,22 +61,26 @@
     {
       "artist": "Wishbone Ash",
       "track": "Phoenix",
-      "details": "LP-Wishbone Ash"
+      "details": "LP-Wishbone Ash",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Eric Clapton",
       "track": "Let It Rain",
-      "details": "LP-Eric Clapton"
+      "details": "LP-Eric Clapton",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "David Bowie",
       "track": "The Man Who Sold The World",
-      "details": "LP-The Man Who Sold The World"
+      "details": "LP-The Man Who Sold The World",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Ten Years After",
       "track": "Sweet Little Sixteen",
-      "details": "LP-What"
+      "details": "LP-What",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "The Who",
@@ -81,32 +90,38 @@
     {
       "artist": "The Nice",
       "track": "Pathetique",
-      "details": "Ferris session 1970-03-25"
+      "details": "Ferris session 1970-03-25",
+      "verified_timestamp": 1905.82
     },
     {
       "artist": "Neil Young",
       "track": "Southern Man",
-      "details": "LP-After The Goldrush"
+      "details": "LP-After The Goldrush",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Yes",
       "track": "Time And A Word",
-      "details": "LP-Time And A Word"
+      "details": "LP-Time And A Word",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Black Sabbath",
       "track": "Sabbath Bloody Sabbath",
-      "details": "LP-Greatest Hits"
+      "details": "LP-Greatest Hits",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Genesis",
       "track": "The Knife",
-      "details": "LP-Trespass"
+      "details": "LP-Trespass",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Caravan",
       "track": "'If I Could Do It All Over Again I'd Do It All Over You'",
-      "details": "TOTP-TS session 1970-08-19"
+      "details": "TOTP-TS session 1970-08-19",
+      "verified_timestamp": 5955.61
     },
     {
       "artist": "Caravan",
@@ -116,12 +131,1156 @@
     {
       "artist": "Emerson, Lake and Palmer",
       "track": "Lucky Man",
-      "details": "LP-Emerson, Lake and Palmer"
+      "details": "LP-Emerson, Lake and Palmer",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Led Zeppelin",
       "track": "'Since I've Been Loving You'",
-      "details": "LP-Led Zeppelin 3"
+      "details": "LP-Led Zeppelin 3",
+      "verified_timestamp": 6840.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 6.45,
+      "end": 13.45,
+      "text": "275 and 285. Also in stereo on VHF. This is National Radio Spook."
+    },
+    {
+      "start": 13.45,
+      "end": 28.63,
+      "text": "Well, hello there. This is TV on the Radio Thomas the Vance and welcome once again to The Friday Rock Show."
+    },
+    {
+      "start": 28.63,
+      "end": 36.66,
+      "text": "And tonight we turn the whole show over to Flashback 1970. The whole show is going to be built around the music of that year."
+    },
+    {
+      "start": 36.66,
+      "end": 42.66,
+      "text": "Out of the BBC archives we've got sessions by The Nice, also by Free and Caravan."
+    },
+    {
+      "start": 42.66,
+      "end": 63.22,
+      "text": "You'll be able to hear other classic cuts from Elton John, The Pink Floyd, Santana, Wishbone Ash, Clapton and Bowie."
+    },
+    {
+      "start": 63.22,
+      "end": 71.93,
+      "text": "10 years after, The Who, Neil Young, Yes Black, Sabbath, Genesis, ELP and Led Zeppelin."
+    },
+    {
+      "start": 71.93,
+      "end": 74.93,
+      "text": "But this evening, we start with this."
+    },
+    {
+      "start": 74.93,
+      "end": 442.68,
+      "text": "If you feel that it's real, I won't try."
+    },
+    {
+      "start": 442.68,
+      "end": 450.75,
+      "text": "And I'm here again, your present and your man."
+    },
+    {
+      "start": 450.75,
+      "end": 653.64,
+      "text": "Music out of the year of 1970."
+    },
+    {
+      "start": 653.8,
+      "end": 655.72,
+      "text": "That was Elton John from the album Elton John"
+    },
+    {
+      "start": 655.72,
+      "end": 657.62,
+      "text": "and the song called Take Me to the Pilot."
+    },
+    {
+      "start": 658.1,
+      "end": 660.98,
+      "text": "And before that, you heard Deep Purple from their album Deep Purple in Rock"
+    },
+    {
+      "start": 660.98,
+      "end": 663.94,
+      "text": "came out in 1970, Blackmore, Gillen, Glover, Lord and Pace."
+    },
+    {
+      "start": 664.32,
+      "end": 665.46,
+      "text": "And the track was Speed King."
+    },
+    {
+      "start": 665.8,
+      "end": 667.8,
+      "text": "And we played that specially for loads of people, including"
+    },
+    {
+      "start": 668.44,
+      "end": 670.96,
+      "text": "Mr. Jay Hepburn, who lives in Ashington in Northumberland."
+    },
+    {
+      "start": 671.1,
+      "end": 673.74,
+      "text": "And also Mandy, who lives in Chart Street, London, N1."
+    },
+    {
+      "start": 673.92,
+      "end": 674.68,
+      "text": "Know it well, actually."
+    },
+    {
+      "start": 675.12,
+      "end": 677.2,
+      "text": "Dave Richards, who lives in Hessex in West Sussex."
+    },
+    {
+      "start": 677.54,
+      "end": 681.96,
+      "text": "Scott and Ashley Roberts, who live in Fleet, which, of course, is very, very adjacent to Aldershot."
+    },
+    {
+      "start": 682.48,
+      "end": 685.22,
+      "text": "And also for Mr. Colin Swinson, who lives in Congleton."
+    },
+    {
+      "start": 685.78,
+      "end": 687.54,
+      "text": "For Paul Howe of Fleetwood."
+    },
+    {
+      "start": 687.72,
+      "end": 690.02,
+      "text": "And also for Neil Walker of West Lothian in Scotland."
+    },
+    {
+      "start": 690.4,
+      "end": 694.2,
+      "text": "And for a lady who just signs herself, Hall, a female fan."
+    },
+    {
+      "start": 695.14,
+      "end": 696.58,
+      "text": "And also for, who's this?"
+    },
+    {
+      "start": 696.58,
+      "end": 699.78,
+      "text": "Robert Heal, or maybe Heil, who's in Clayton in Bradford."
+    },
+    {
+      "start": 700.34,
+      "end": 702.96,
+      "text": "And finally, that deep purple cut was for Graham Henderson"
+    },
+    {
+      "start": 702.96,
+      "end": 706.24,
+      "text": "of No. 57 Woodlands Terrace in Dundee."
+    },
+    {
+      "start": 706.66,
+      "end": 710.9,
+      "text": "Also from the year of 1970, here's something to stimulate your memory."
+    },
+    {
+      "start": 1293.38,
+      "end": 1295.5,
+      "text": "Fabulous bit of music that came out in 1970"
+    },
+    {
+      "start": 1295.5,
+      "end": 1298.38,
+      "text": "from the album that also included the track called Black Magic Woman."
+    },
+    {
+      "start": 1299.06,
+      "end": 1301.1,
+      "text": "The album was called Santana Abraxas,"
+    },
+    {
+      "start": 1301.26,
+      "end": 1303.1,
+      "text": "and the track you heard there was called Oya Como Va."
+    },
+    {
+      "start": 1303.58,
+      "end": 1306.08,
+      "text": "And before that, you heard just a bit of Atom Heart Mother,"
+    },
+    {
+      "start": 1306.08,
+      "end": 1310.56,
+      "text": "The bit called Father's Shout from the album Adam, Her Mother by, of course, the Pink Floyd."
+    },
+    {
+      "start": 1311.1,
+      "end": 1313.56,
+      "text": "And I played that for Gordon, rather, Horsington."
+    },
+    {
+      "start": 1313.7,
+      "end": 1316.62,
+      "text": "I beg your pardon, Gordon, who lives in Whitchurch in Cardiff."
+    },
+    {
+      "start": 1316.84,
+      "end": 1320.84,
+      "text": "And also for Carl Jacobs, who's in Hartlepool in Cleveland."
+    },
+    {
+      "start": 1321.02,
+      "end": 1322.64,
+      "text": "He reminds me that's the home of White Spirit."
+    },
+    {
+      "start": 1323.16,
+      "end": 1325.94,
+      "text": "And also for Mike Heripath, who lives in Swansea."
+    },
+    {
+      "start": 1336.51,
+      "end": 1338.39,
+      "text": "24 minutes after 10 on the Friday Rock Show."
+    },
+    {
+      "start": 1338.47,
+      "end": 1341.65,
+      "text": "Tonight we're dividing, devoting, rather, the whole dividing."
+    },
+    {
+      "start": 1341.87,
+      "end": 1344.05,
+      "text": "Certainly not just devoting the whole program."
+    },
+    {
+      "start": 1344.05,
+      "end": 1350.07,
+      "text": "to flashback 1970 and all the records that we're playing are basic to your requests in other words"
+    },
+    {
+      "start": 1350.07,
+      "end": 1355.93,
+      "text": "they're all put together from the various letters and cards that you sent us and a lot of people and"
+    },
+    {
+      "start": 1355.93,
+      "end": 1701.23,
+      "text": "i mean a lot wanted to hear a free session from 1970 so check this one out to the program sound"
+    },
+    {
+      "start": 1701.23,
+      "end": 1705.33,
+      "text": "of free andy fraser paul rogers have written this number for the group all we require now"
+    },
+    {
+      "start": 1705.33,
+      "end": 1709.77,
+      "text": "name checks for simon kirk and paul kossoff and we're away with fire and water"
+    },
+    {
+      "start": 1709.77,
+      "end": 1889.22,
+      "text": "yes free with a mixture of fire and water and that was the announcer way back in 1970 when"
+    },
+    {
+      "start": 1889.22,
+      "end": 1893.4,
+      "text": "that particular session was put out on the air the announcer incidentally was keith skews it was"
+    },
+    {
+      "start": 1893.4,
+      "end": 1900.22,
+      "text": "recorded in the bbc studios on the 4th of the 6th of 1970 by a band who were formed in 1968"
+    },
+    {
+      "start": 1900.22,
+      "end": 1905.82,
+      "text": "and they got their name incidentally from alexis corner the band called free two tracks the first"
+    },
+    {
+      "start": 1905.82,
+      "end": 1911.14,
+      "text": "was all right now which of course was a big single for them in 1970 in may and the other one was fire"
+    },
+    {
+      "start": 1911.14,
+      "end": 2554.02,
+      "text": "and water and now here's wishbone ash wishbone ash from their very first album that came out"
+    },
+    {
+      "start": 2554.02,
+      "end": 2560.0,
+      "text": "in 1970 the album was called wishbone ash and the track you heard there was entitled phoenix"
+    },
+    {
+      "start": 2560.0,
+      "end": 2565.2,
+      "text": "load of loads of people rather wanted to hear it colin jenkins of rumney in cardiff he's just one"
+    },
+    {
+      "start": 2565.2,
+      "end": 2570.84,
+      "text": "another piece of paper here that bears the autograph of mr jeff clark who lives in stir"
+    },
+    {
+      "start": 2570.84,
+      "end": 2577.52,
+      "text": "minster newton in dorset andrew pym who's in shrewsbury in shropshire and bernie biffo the"
+    },
+    {
+      "start": 2577.52,
+      "end": 2582.5,
+      "text": "off, it says here, Dawson in New Malden in Surrey. I heard today, incidentally, that"
+    },
+    {
+      "start": 2582.5,
+      "end": 2586.84,
+      "text": "Martin Turner, one of the founder members of Wishbone Ash, is actually going to leave"
+    },
+    {
+      "start": 2586.84,
+      "end": 2591.92,
+      "text": "the band. He's the bass player. He's going to be replaced by John Whetton, would you"
+    },
+    {
+      "start": 2591.92,
+      "end": 2597.7,
+      "text": "believe, ex of family and UK and Roxy Music and many sessions, and also recently, in fact"
+    },
+    {
+      "start": 2597.7,
+      "end": 2603.36,
+      "text": "this week, I believe, a solo album from which I played the single last Saturday on Rock"
+    },
+    {
+      "start": 2603.36,
+      "end": 2607.32,
+      "text": "on Saturday, and it sounded like a really tasty album, based on my first hearing of"
+    },
+    {
+      "start": 2607.32,
+      "end": 2612.12,
+      "text": "single anyway so he's now joined wishbone ash and i believe there are going to be some other changes"
+    },
+    {
+      "start": 2612.12,
+      "end": 3160.79,
+      "text": "as well as i said that was phoenix by wishbone ash and here's easy the title track from a david"
+    },
+    {
+      "start": 3160.79,
+      "end": 3166.23,
+      "text": "bowie album that came out way back in 1970 the album was called the man who sold the world"
+    },
+    {
+      "start": 3166.23,
+      "end": 3170.18,
+      "text": "and something that i've forgotten and we discovered this afternoon mr wilson and i"
+    },
+    {
+      "start": 3170.18,
+      "end": 3176.4,
+      "text": "was the fact that that album actually came out on two totally separate labels it came out on rca and"
+    },
+    {
+      "start": 3176.4,
+      "end": 3180.6,
+      "text": "it also came out on Mercury. And just for the record, we played the version that was"
+    },
+    {
+      "start": 3180.6,
+      "end": 3185.14,
+      "text": "on Mercury. And before that, you heard something from the album, also eponymous, called Eric"
+    },
+    {
+      "start": 3185.14,
+      "end": 3191.54,
+      "text": "Clapton. And the track was Let It Rain. Nice track. Nice to hear a track from that album"
+    },
+    {
+      "start": 3191.54,
+      "end": 3196.18,
+      "text": "because it doesn't often get sort of an airing on the radio. Layla, which also came out in"
+    },
+    {
+      "start": 3196.18,
+      "end": 3200.54,
+      "text": "the 1970s, the album that everybody concentrates on. But that EC album was really good. That"
+    },
+    {
+      "start": 3200.54,
+      "end": 3205.54,
+      "text": "Eric Clapton album was tasty. It's five minutes now to eleven here on Flashback 70, which"
+    },
+    {
+      "start": 3205.54,
+      "end": 3207.46,
+      "text": "is what's happening in your radio"
+    },
+    {
+      "start": 3207.46,
+      "end": 3208.88,
+      "text": "courtesy of the Friday Rock Show."
+    },
+    {
+      "start": 3209.3,
+      "end": 3211.46,
+      "text": "Something I'd like you to get involved in, please,"
+    },
+    {
+      "start": 3211.6,
+      "end": 3213.46,
+      "text": "if you would, I'd like you to help us, is"
+    },
+    {
+      "start": 3213.46,
+      "end": 3215.38,
+      "text": "the fact that in two weeks' time"
+    },
+    {
+      "start": 3215.38,
+      "end": 3217.46,
+      "text": "we're going to have our second birthday."
+    },
+    {
+      "start": 3217.86,
+      "end": 3219.46,
+      "text": "Whoopee! Two candles on a cake."
+    },
+    {
+      "start": 3220.06,
+      "end": 3221.48,
+      "text": "The program that we put together"
+    },
+    {
+      "start": 3221.48,
+      "end": 3223.46,
+      "text": "on our second birthday will be called Two's Up."
+    },
+    {
+      "start": 3223.84,
+      "end": 3225.48,
+      "text": "What we'd like you to do is"
+    },
+    {
+      "start": 3225.48,
+      "end": 3227.32,
+      "text": "to put down on a card, a separate card,"
+    },
+    {
+      "start": 3228.14,
+      "end": 3229.54,
+      "text": "rather to any other"
+    },
+    {
+      "start": 3229.54,
+      "end": 3231.42,
+      "text": "card you happen to send us for Friday Night Connections"
+    },
+    {
+      "start": 3231.42,
+      "end": 3233.46,
+      "text": "and things like that, and address it to"
+    },
+    {
+      "start": 3233.58,
+      "end": 3235.24,
+      "text": "Two's Up. We'd like you to put down"
+    },
+    {
+      "start": 3235.24,
+      "end": 3237.48,
+      "text": "the best rock track in your idea"
+    },
+    {
+      "start": 3237.48,
+      "end": 3239.2,
+      "text": "of all time. Now it can be"
+    },
+    {
+      "start": 3239.2,
+      "end": 3241.1,
+      "text": "a recent one or a really old one."
+    },
+    {
+      "start": 3241.2,
+      "end": 3243.24,
+      "text": "It doesn't matter where it comes from in the era"
+    },
+    {
+      "start": 3243.24,
+      "end": 3245.26,
+      "text": "just so long as it's what you think"
+    },
+    {
+      "start": 3245.26,
+      "end": 3247.06,
+      "text": "is the very best rock track"
+    },
+    {
+      "start": 3247.06,
+      "end": 3249.32,
+      "text": "of your time. And address it to"
+    },
+    {
+      "start": 3249.32,
+      "end": 3251.3,
+      "text": "Two's Up, The Friday Rock Show"
+    },
+    {
+      "start": 3251.3,
+      "end": 3253.44,
+      "text": "Radio 1, London"
+    },
+    {
+      "start": 3253.44,
+      "end": 3255.16,
+      "text": "W1A4WW"
+    },
+    {
+      "start": 3255.16,
+      "end": 3257.24,
+      "text": "and as I say it can be an old"
+    },
+    {
+      "start": 3257.24,
+      "end": 3259.08,
+      "text": "track or a new one. It"
+    },
+    {
+      "start": 3259.08,
+      "end": 3260.9,
+      "text": "doesn't matter from whence it comes."
+    },
+    {
+      "start": 3272.26,
+      "end": 3273.7,
+      "text": "Talking about the new side"
+    },
+    {
+      "start": 3273.7,
+      "end": 3275.56,
+      "text": "if you like of rock music, tomorrow"
+    },
+    {
+      "start": 3275.56,
+      "end": 3281.56,
+      "text": "night at the musing machine in london there is going to be a metal explosion built around some"
+    },
+    {
+      "start": 3281.56,
+      "end": 3286.28,
+      "text": "of the acts who are on the metal explosion album which features session material from the friday"
+    },
+    {
+      "start": 3286.28,
+      "end": 3291.08,
+      "text": "rock show the doors open at eight o'clock at the music machine tomorrow night and you'll be able to"
+    },
+    {
+      "start": 3291.08,
+      "end": 3297.24,
+      "text": "see money and taurus praying mantis and also samson on the stage it's not going to be expensive"
+    },
+    {
+      "start": 3297.24,
+      "end": 3302.24,
+      "text": "to get in i'm gonna be there and let's face it i'm cheap we'll come again if you have this"
+    },
+    {
+      "start": 3302.24,
+      "end": 3805.33,
+      "text": "couple of bands there who were really moving audiences in 1970 and still are in varying forms"
+    },
+    {
+      "start": 3805.33,
+      "end": 3810.47,
+      "text": "that was the who and live at leeds was the album the track you hope is shaken all over a track"
+    },
+    {
+      "start": 3810.47,
+      "end": 3814.89,
+      "text": "originally done in the 60s by johnny kidd and the pirates and of course before that the old"
+    },
+    {
+      "start": 3814.89,
+      "end": 3819.63,
+      "text": "chuck berry classic called sweet little 16 that was done by alvin lee at the isle of white festival"
+    },
+    {
+      "start": 3820.23,
+      "end": 3822.21,
+      "text": "His band there was called Ten Years After,"
+    },
+    {
+      "start": 3822.59,
+      "end": 3825.89,
+      "text": "and the album from whence that track did come is called What."
+    },
+    {
+      "start": 3826.41,
+      "end": 3829.65,
+      "text": "And we dug that out of the archives because a gentleman by the name of Steve,"
+    },
+    {
+      "start": 3829.89,
+      "end": 3832.83,
+      "text": "who lives in Milford-on-Sea in Hampshire, wanted to hear it"
+    },
+    {
+      "start": 3832.83,
+      "end": 3837.43,
+      "text": "because it, in his estimation, is one of the best sort of festival tracks he remembers."
+    },
+    {
+      "start": 3837.89,
+      "end": 3842.23,
+      "text": "He also wants me to say hello to Sue Gardner, a lady that he loves very much."
+    },
+    {
+      "start": 3842.75,
+      "end": 3847.03,
+      "text": "And of course, talking about festival records of 1970, Woodstock occurred in that year,"
+    },
+    {
+      "start": 3847.03,
+      "end": 3850.45,
+      "text": "but we're not playing anything from it because it does tend to get a lot of airing on the radio."
+    },
+    {
+      "start": 3851.05,
+      "end": 3855.85,
+      "text": "And some of the things that we're digging out are the things that you don't always hear from the era 1970,"
+    },
+    {
+      "start": 3856.49,
+      "end": 3857.87,
+      "text": "which might indeed include this."
+    },
+    {
+      "start": 3858.19,
+      "end": 3863.45,
+      "text": "Out of the BBC's session archives, here are The Nice and Pathétique."
+    },
+    {
+      "start": 3864.45,
+      "end": 4294.15,
+      "text": "And that was The Nice, to whom a fond farewell."
+    },
+    {
+      "start": 4294.87,
+      "end": 4299.31,
+      "text": "Thank you. And that indeed was Brian Matthew, as he sounded on the radio way back in 1970."
+    },
+    {
+      "start": 4299.77,
+      "end": 4303.35,
+      "text": "That particular track was recorded on the 25th of the 3rd in 1970."
+    },
+    {
+      "start": 4303.35,
+      "end": 4305.25,
+      "text": "Brian Davison on the drums"
+    },
+    {
+      "start": 4305.25,
+      "end": 4306.51,
+      "text": "Lee Jackson on the bass"
+    },
+    {
+      "start": 4306.51,
+      "end": 4307.99,
+      "text": "and Keith Emerson on the keyboards"
+    },
+    {
+      "start": 4307.99,
+      "end": 4310.27,
+      "text": "and I rather think that was the last thing they ever recorded"
+    },
+    {
+      "start": 4310.27,
+      "end": 4313.35,
+      "text": "because it was round about that time that they actually broke up"
+    },
+    {
+      "start": 4313.35,
+      "end": 4315.09,
+      "text": "you're listening to the Friday Rock Show"
+    },
+    {
+      "start": 4315.09,
+      "end": 4316.35,
+      "text": "it's 12 minutes after 11"
+    },
+    {
+      "start": 4316.35,
+      "end": 4319.07,
+      "text": "and now everybody's got a favourite of an era"
+    },
+    {
+      "start": 4319.07,
+      "end": 4320.75,
+      "text": "and I think in 1970"
+    },
+    {
+      "start": 4320.75,
+      "end": 4324.81,
+      "text": "this was the one that used to glue my ears to the speakers"
+    },
+    {
+      "start": 4324.81,
+      "end": 4926.08,
+      "text": "I noticed it this afternoon"
+    },
+    {
+      "start": 4926.08,
+      "end": 4931.12,
+      "text": "and i'm certainly noticing noticing the whole thing now really the music of 1970 when you hear"
+    },
+    {
+      "start": 4931.12,
+      "end": 4937.53,
+      "text": "it again the music was absolutely soporific it really just floated above your head there was"
+    },
+    {
+      "start": 4937.53,
+      "end": 4942.73,
+      "text": "nothing really aggressive about it it's very strange to hear a block of music from an era all"
+    },
+    {
+      "start": 4942.73,
+      "end": 4948.81,
+      "text": "over again but very enjoyable that was time at a word from the album of the same name it was by yes"
+    },
+    {
+      "start": 4948.81,
+      "end": 4955.29,
+      "text": "and i played that for janks who's 21 today with best wishes from sharon and roy and all at qmc"
+    },
+    {
+      "start": 4955.29,
+      "end": 4959.37,
+      "text": "and Joe and Anthe and Jopie and Japes and Bots, I think it is,"
+    },
+    {
+      "start": 4959.41,
+      "end": 4961.57,
+      "text": "from the elite club of Plimpton."
+    },
+    {
+      "start": 4961.81,
+      "end": 4963.75,
+      "text": "And also for a lady by the name of Adele Tarbuck,"
+    },
+    {
+      "start": 4964.03,
+      "end": 4965.15,
+      "text": "who lives in Burgess Hill,"
+    },
+    {
+      "start": 4965.33,
+      "end": 4968.89,
+      "text": "whose name I've seen on the bottom of letters for a long, long time."
+    },
+    {
+      "start": 4969.01,
+      "end": 4969.87,
+      "text": "Thanks, Adele, for the letter."
+    },
+    {
+      "start": 4970.39,
+      "end": 4972.81,
+      "text": "Also for Brian, that's Brian Lee of Mediocs in Durham,"
+    },
+    {
+      "start": 4973.07,
+      "end": 4975.69,
+      "text": "and Kevin Short, I think it possibly is,"
+    },
+    {
+      "start": 4975.71,
+      "end": 4977.17,
+      "text": "who lives in Wellsbourne in Warwickshire."
+    },
+    {
+      "start": 4977.75,
+      "end": 4980.45,
+      "text": "Now, the track you heard before that was Southern Man."
+    },
+    {
+      "start": 4980.45,
+      "end": 4982.99,
+      "text": "That was from the album After the Gold Rush by Neil Young."
+    },
+    {
+      "start": 4982.99,
+      "end": 4988.53,
+      "text": "That was for everybody at the Ulster Polytech, everybody in the BSc Combined Science course."
+    },
+    {
+      "start": 4988.91,
+      "end": 4990.43,
+      "text": "Best wishes from Kevin Livingstone."
+    },
+    {
+      "start": 4991.17,
+      "end": 4996.97,
+      "text": "Also, it was for Pat Hannan, who lives in Ellesmere Port, and for Steve Carlson-Overy."
+    },
+    {
+      "start": 4997.71,
+      "end": 4999.93,
+      "text": "Okay, it's 24 minutes after 11."
+    },
+    {
+      "start": 5000.74,
+      "end": 5002.2,
+      "text": "And have a listen to this."
+    },
+    {
+      "start": 5900.54,
+      "end": 5904.24,
+      "text": "Genesis, from the album Trespass, and a track called The Knife."
+    },
+    {
+      "start": 5904.24,
+      "end": 5905.78,
+      "text": "That came out in 1970."
+    },
+    {
+      "start": 5906.14,
+      "end": 5910.62,
+      "text": "That was played for Andrew Wynne of Cheshire, and everybody who attends the St. John Dean's Grammar School,"
+    },
+    {
+      "start": 5910.78,
+      "end": 5917.22,
+      "text": "also for Adrian King, who lives up there in Liverpool, and for Ozzy George, who's in Algarth in, I think it is, Pocklington in East Yorkshire."
+    },
+    {
+      "start": 5917.82,
+      "end": 5920.22,
+      "text": "And before that, you heard a track called Sabbath, Bloody Sabbath."
+    },
+    {
+      "start": 5920.4,
+      "end": 5921.92,
+      "text": "That came out in 1973."
+    },
+    {
+      "start": 5923.06,
+      "end": 5925.74,
+      "text": "We played it from an album called Greatest Hits of Black Sabbath."
+    },
+    {
+      "start": 5926.08,
+      "end": 5930.6,
+      "text": "It is, in actual fact, band four on side two, on side one."
+    },
+    {
+      "start": 5930.6,
+      "end": 5936.08,
+      "text": "on side two band one is a track called black sabbath which was the track that i was supposed"
+    },
+    {
+      "start": 5936.08,
+      "end": 5945.91,
+      "text": "to play you but i put the wrong track on who's a stupid twit then me apologies black sabbath was"
+    },
+    {
+      "start": 5945.91,
+      "end": 5951.59,
+      "text": "for mark gamble from west yorkshire and also for pete cox of south end on sea and john stanover"
+    },
+    {
+      "start": 5951.59,
+      "end": 5955.61,
+      "text": "peckham and everybody else who likes black sabbath i think the only way i can redeem myself"
+    },
+    {
+      "start": 5955.61,
+      "end": 5957.45,
+      "text": "is play an archive session by Caravan."
+    },
+    {
+      "start": 5957.97,
+      "end": 5961.02,
+      "text": "Do you think you are?"
+    },
+    {
+      "start": 5961.24,
+      "end": 5962.34,
+      "text": "Do you?"
+    },
+    {
+      "start": 5962.54,
+      "end": 6135.23,
+      "text": "This opportunity of suggesting that they should be about to get"
+    },
+    {
+      "start": 6135.23,
+      "end": 6137.63,
+      "text": "the widespread recognition that they richly deserve."
+    },
+    {
+      "start": 6137.93,
+      "end": 6140.25,
+      "text": "This is called As I Feel I Die."
+    },
+    {
+      "start": 6140.47,
+      "end": 6142.85,
+      "text": "It starts quietly but becomes tremendously exciting."
+    },
+    {
+      "start": 6418.67,
+      "end": 6422.63,
+      "text": "Caravan, as they were, the BBC studios on the 19th of August, 1970."
+    },
+    {
+      "start": 6422.81,
+      "end": 6425.47,
+      "text": "Two archive tracks by them, As I Feel I Die,"
+    },
+    {
+      "start": 6425.47,
+      "end": 6429.91,
+      "text": "and If I Could Do It All Over Again, I'd do it all over you."
+    },
+    {
+      "start": 6430.67,
+      "end": 6432.27,
+      "text": "Here's a classic from ELP."
+    },
+    {
+      "start": 6460.8,
+      "end": 7166.83,
+      "text": "Came out in 1970 on the album Led Zeppelin III."
+    },
+    {
+      "start": 7167.23,
+      "end": 7169.39,
+      "text": "That was Led Zeppelin and Since I've Been Lovin' You."
+    },
+    {
+      "start": 7170.7,
+      "end": 7174.04,
+      "text": "And before that, Emerson Lake and Palmer from the album of the same name."
+    },
+    {
+      "start": 7174.14,
+      "end": 7175.44,
+      "text": "The track was Lucky Man."
+    },
+    {
+      "start": 7175.88,
+      "end": 7177.53,
+      "text": "And that was Flashback 70."
+    },
+    {
+      "start": 7178.01,
+      "end": 7181.85,
+      "text": "A sort of look at the music that was happening during that particular year."
+    },
+    {
+      "start": 7181.85,
+      "end": 7183.65,
+      "text": "Which I trust you enjoyed"
+    },
+    {
+      "start": 7183.65,
+      "end": 7184.77,
+      "text": "Our engineer tonight was Phil"
+    },
+    {
+      "start": 7184.77,
+      "end": 7185.35,
+      "text": "Thank you, Phil"
+    },
+    {
+      "start": 7185.35,
+      "end": 7187.11,
+      "text": "Following the time tone"
+    },
+    {
+      "start": 7187.11,
+      "end": 7187.71,
+      "text": "Beep, beep, beep"
+    },
+    {
+      "start": 7187.71,
+      "end": 7188.21,
+      "text": "And all that"
+    },
+    {
+      "start": 7188.21,
+      "end": 7188.99,
+      "text": "At 12 midnight"
+    },
+    {
+      "start": 7188.99,
+      "end": 7190.73,
+      "text": "The 275285 transmitters"
+    },
+    {
+      "start": 7190.73,
+      "end": 7191.51,
+      "text": "Will be closing down"
+    },
+    {
+      "start": 7191.51,
+      "end": 7192.33,
+      "text": "Till tomorrow morning"
+    },
+    {
+      "start": 7192.33,
+      "end": 7194.19,
+      "text": "Next week on the program"
+    },
+    {
+      "start": 7194.19,
+      "end": 7195.27,
+      "text": "Hibiscus, a new band"
+    },
+    {
+      "start": 7195.27,
+      "end": 7196.21,
+      "text": "And out of the archives"
+    },
+    {
+      "start": 7196.21,
+      "end": 7196.85,
+      "text": "John Mayall"
+    },
+    {
+      "start": 7196.85,
+      "end": 7197.39,
+      "text": "Don't forget"
+    },
+    {
+      "start": 7197.39,
+      "end": 7198.95,
+      "text": "We will be on"
+    },
+    {
+      "start": 7198.95,
+      "end": 7200.13,
+      "text": "Rock on Saturday tomorrow"
+    },
+    {
+      "start": 7200.13,
+      "end": 7201.59,
+      "text": "Between 4 and 7.30"
+    },
+    {
+      "start": 7201.59,
+      "end": 7202.73,
+      "text": "We will have"
+    },
+    {
+      "start": 7202.73,
+      "end": 7203.39,
+      "text": "Captain Beefheart"
+    },
+    {
+      "start": 7203.39,
+      "end": 7203.83,
+      "text": "Rykud"
+    },
+    {
+      "start": 7203.83,
+      "end": 7204.41,
+      "text": "And Blackfoot"
+    },
+    {
+      "start": 7204.41,
+      "end": 7205.49,
+      "text": "And now we have"
+    },
+    {
+      "start": 7205.49,
+      "end": 7205.97,
+      "text": "Tony Wilson"
+    },
+    {
+      "start": 7205.97,
+      "end": 7206.99,
+      "text": "To tell you something"
+    },
+    {
+      "start": 7206.99,
+      "end": 7208.15,
+      "text": "If you thought I dropped"
+    },
+    {
+      "start": 7208.15,
+      "end": 7209.17,
+      "text": "Off the perch last week"
+    },
+    {
+      "start": 7209.17,
+      "end": 7209.67,
+      "text": "You were wrong"
+    },
+    {
+      "start": 7209.67,
+      "end": 7210.93,
+      "text": "I was just having a rest"
+    },
+    {
+      "start": 7210.93,
+      "end": 7212.03,
+      "text": "He is not a dead parrot"
+    },
+    {
+      "start": 7212.03,
+      "end": 7213.19,
+      "text": "he is nailed to the studio."
+    },
+    {
+      "start": 7213.37,
+      "end": 7214.37,
+      "text": "See you at the Music Machine"
+    },
+    {
+      "start": 7214.37,
+      "end": 7215.11,
+      "text": "tomorrow night"
+    },
+    {
+      "start": 7215.11,
+      "end": 7216.35,
+      "text": "in London at 8 o'clock"
+    },
+    {
+      "start": 7216.35,
+      "end": 7217.13,
+      "text": "for Monty Taurus"
+    },
+    {
+      "start": 7217.13,
+      "end": 7218.41,
+      "text": "playing Madison Sampson."
+    },
+    {
+      "start": 7218.55,
+      "end": 7218.95,
+      "text": "God bless."
+    },
+    {
+      "start": 7219.13,
+      "end": 7219.41,
+      "text": "Good night."
     }
   ]
 }

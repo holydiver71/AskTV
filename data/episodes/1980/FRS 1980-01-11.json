@@ -27,27 +27,32 @@
     {
       "artist": "Jefferson Starship",
       "track": "Jane",
-      "details": "7\" Single from Freedom At Point Zero"
+      "details": "7\" Single from Freedom At Point Zero",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Queen",
       "track": "Sheer Heart Attack",
-      "details": "2xLP-Live Killers"
+      "details": "2xLP-Live Killers",
+      "verified_timestamp": 509.5
     },
     {
       "artist": "Trespass",
       "track": "One Of These Days",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 550.32
     },
     {
       "artist": "Deep Purple",
       "track": "Burn",
-      "details": "LP-Burn"
+      "details": "LP-Burn",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Traffic",
       "track": "Paper Sun",
-      "details": "Top Gear session 1967-09-27"
+      "details": "Top Gear session 1967-09-27",
+      "verified_timestamp": 1219.04
     },
     {
       "artist": "Traffic",
@@ -67,7 +72,8 @@
     {
       "artist": "Rush",
       "track": "Freewill",
-      "details": "LP-Permanent Waves - Pre-release"
+      "details": "LP-Permanent Waves - Pre-release",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Jimmy Page",
@@ -82,17 +88,20 @@
     {
       "artist": "Public Image Limited",
       "track": "Pop Tones",
-      "details": "Peel session 1979-12-10"
+      "details": "Peel session 1979-12-10",
+      "verified_timestamp": 3511.46
     },
     {
       "artist": "Focus",
       "track": "Hocus Pocus",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Traffic",
       "track": "40,000 Headmen",
-      "details": "Top Gear session 1968-02-26"
+      "details": "Top Gear session 1968-02-26",
+      "verified_timestamp": 1219.04
     },
     {
       "artist": "Traffic",
@@ -107,7 +116,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4340.72
     },
     {
       "artist": "Public Image Limited",
@@ -117,12 +127,14 @@
     {
       "artist": "Judas Priest",
       "track": "Tyrant",
-      "details": "LP-Unleashed In The East"
+      "details": "LP-Unleashed In The East",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Traffic",
       "track": "You Can All Join In",
-      "details": "Top Gear session 1968-06-24"
+      "details": "Top Gear session 1968-06-24",
+      "verified_timestamp": 1219.04
     },
     {
       "artist": "Traffic",
@@ -137,12 +149,1176 @@
     {
       "artist": "Jon And Vangelis",
       "track": "Curious Electric",
-      "details": "LP-Short Stories"
+      "details": "LP-Short Stories",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Robin Trower",
       "track": "Victims Of The Fury",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 7200.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "text": "275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 7.0,
+      "end": 21.9,
+      "text": "Well, hello there. TV on Radio. Thomas the Vance here. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 21.9,
+      "end": 29.9,
+      "text": "Tonight, three archive sets by Stevie Winwood, Jim Capaldi, Dave Mason and Chris Wood. The four musicians who got it together in Aston Tirrold in Berkshire."
+    },
+    {
+      "start": 29.9,
+      "end": 34.9,
+      "text": "And became the band called Traffic. Also, we have the latest set by Public Image Limited."
+    },
+    {
+      "start": 35.46,
+      "end": 54.96,
+      "text": "We've got classic cuts by Queen, Deep Purple, a real classic by Jimmy Page, something by Focus and various others as well."
+    },
+    {
+      "start": 55.28,
+      "end": 59.5,
+      "text": "New releases from John and Van Gelis and also two tracks from the forthcoming album by Rush."
+    },
+    {
+      "start": 59.9,
+      "end": 63.16,
+      "text": "A new single by Simple Minds and we're going to replay that eighth single by Trespass."
+    },
+    {
+      "start": 63.78,
+      "end": 66.7,
+      "text": "But tonight we start with Jefferson, Starship and Jane."
+    },
+    {
+      "start": 68.02,
+      "end": 509.5,
+      "text": "And that, as if you didn't know, is from the album Queen Live Killers."
+    },
+    {
+      "start": 509.5,
+      "end": 513.44,
+      "text": "It was Queen and Sheer Heart Attack, and I played it, and splayed it as well, and sprayed it,"
+    },
+    {
+      "start": 513.48,
+      "end": 516.72,
+      "text": "saying I'm speaking into a microphone for the good friends of Philip Littleford,"
+    },
+    {
+      "start": 517.26,
+      "end": 520.86,
+      "text": "of number 118 Hopton Road, Upper Cam, near Dursley in Gloucestershire."
+    },
+    {
+      "start": 521.4,
+      "end": 525.18,
+      "text": "And the good friends of Steve R and Paul and Ash and Mildew, I think it is, strange name,"
+    },
+    {
+      "start": 525.28,
+      "end": 530.8,
+      "text": "Nick and Bev and Sarah F, Sarah H and Mandy, who are going to be listening after coming home from a youth club."
+    },
+    {
+      "start": 530.88,
+      "end": 532.44,
+      "text": "Hope you had a good time tonight at the youth club."
+    },
+    {
+      "start": 532.54,
+      "end": 535.44,
+      "text": "Also for Stephen Freer and all his mates up there in Edinburgh."
+    },
+    {
+      "start": 536.02,
+      "end": 537.56,
+      "text": "And prior to that, you heard Jefferson Starship,"
+    },
+    {
+      "start": 537.6,
+      "end": 539.24,
+      "text": "a single that they've released from their album,"
+    },
+    {
+      "start": 539.58,
+      "end": 540.48,
+      "text": "a good album, too."
+    },
+    {
+      "start": 540.9,
+      "end": 543.04,
+      "text": "The album's called Freedom at Point Zero."
+    },
+    {
+      "start": 543.2,
+      "end": 544.82,
+      "text": "The single is called Jane."
+    },
+    {
+      "start": 545.22,
+      "end": 546.98,
+      "text": "A couple of weeks ago, or maybe it was just last week,"
+    },
+    {
+      "start": 547.0,
+      "end": 549.92,
+      "text": "we played a track, a single by a band called Trespass."
+    },
+    {
+      "start": 550.32,
+      "end": 551.82,
+      "text": "And the single is called One of These Days."
+    },
+    {
+      "start": 551.82,
+      "end": 553.04,
+      "text": "Many, many people have written in"
+    },
+    {
+      "start": 553.04,
+      "end": 554.94,
+      "text": "asking where they can get this single."
+    },
+    {
+      "start": 555.32,
+      "end": 558.68,
+      "text": "Stay tuned, and I will give you the address of Trial Records."
+    },
+    {
+      "start": 559.52,
+      "end": 1164.52,
+      "text": "That was Deep Purple, the title track from the album Burn"
+    },
+    {
+      "start": 1164.52,
+      "end": 1166.26,
+      "text": "that came out way back in 1974,"
+    },
+    {
+      "start": 1166.26,
+      "end": 1170.38,
+      "text": "Especially for Alan C. Briggs of 96 Northfield Crescent in Edinburgh"
+    },
+    {
+      "start": 1170.38,
+      "end": 1174.88,
+      "text": "And also for a young gentleman who's all of 12 years of age"
+    },
+    {
+      "start": 1174.88,
+      "end": 1176.36,
+      "text": "He listens to this show every week"
+    },
+    {
+      "start": 1176.36,
+      "end": 1178.96,
+      "text": "That's Patrick, better known as Paddy Ward"
+    },
+    {
+      "start": 1178.96,
+      "end": 1181.6,
+      "text": "Of, I think it's Wigston in Leicester"
+    },
+    {
+      "start": 1181.6,
+      "end": 1184.08,
+      "text": "And before that, that single by Trespass"
+    },
+    {
+      "start": 1184.08,
+      "end": 1185.58,
+      "text": "Which is out on Trial Records"
+    },
+    {
+      "start": 1185.58,
+      "end": 1188.94,
+      "text": "Now, I know a lot of people are interested in finding out about the single"
+    },
+    {
+      "start": 1188.94,
+      "end": 1191.4,
+      "text": "So let me tell you that you can phone Trial Records"
+    },
+    {
+      "start": 1191.4,
+      "end": 1194.32,
+      "text": "Though I would think at 19 minutes past 10 on a Friday night"
+    },
+    {
+      "start": 1194.32,
+      "end": 1195.96,
+      "text": "It could be a bit too late to do it now"
+    },
+    {
+      "start": 1195.96,
+      "end": 1211.44,
+      "text": "on this number 0 7 8 7 2 3 7 1 8 9 okay 0 7 8 7 2 3 7 1 8 9 or you can write to discoset"
+    },
+    {
+      "start": 1211.44,
+      "end": 1219.04,
+      "text": "discoset at 91 north street sudbury in suffolk and the single is called one of these days"
+    },
+    {
+      "start": 1219.04,
+      "end": 1230.07,
+      "text": "and it was one of those days in 1967 when traffic cut this as introduced by brian matthew"
+    },
+    {
+      "start": 1231.02,
+      "end": 1237.56,
+      "text": "And here comes Traffic with the song which provided their first hit, the fantastic, groovy, Paper Sun."
+    },
+    {
+      "start": 1626.47,
+      "end": 1665.28,
+      "text": "Studio version of a real classic from way back in 1967."
+    },
+    {
+      "start": 1666.28,
+      "end": 1670.42,
+      "text": "That was Hole in My Shoe by Traffic, and before that, the short, little thing called A House for Everyone,"
+    },
+    {
+      "start": 1670.42,
+      "end": 1672.22,
+      "text": "and prior to that, Traffic did Paper Sun."
+    },
+    {
+      "start": 1672.4,
+      "end": 1673.98,
+      "text": "That got to number five as a single."
+    },
+    {
+      "start": 1674.58,
+      "end": 1677.28,
+      "text": "Way back in 1967, the whole session was put together."
+    },
+    {
+      "start": 1677.38,
+      "end": 1679.18,
+      "text": "That was their first broadcast, incidentally,"
+    },
+    {
+      "start": 1679.2,
+      "end": 1682.58,
+      "text": "and it was all put together on the 27th of the 9th, 1967."
+    },
+    {
+      "start": 1683.0,
+      "end": 1687.46,
+      "text": "Stevie Winwood, Chris Wood, Jim Capaldi, and Dave Mason."
+    },
+    {
+      "start": 1687.88,
+      "end": 1688.34,
+      "text": "Now you know."
+    },
+    {
+      "start": 1688.58,
+      "end": 1690.7,
+      "text": "And here, for your edification and delight,"
+    },
+    {
+      "start": 1691.32,
+      "end": 1694.76,
+      "text": "is something new from an album yet to come out by Rush."
+    },
+    {
+      "start": 1694.84,
+      "end": 1697.04,
+      "text": "The album's going to be called Permanent Waves,"
+    },
+    {
+      "start": 1697.06,
+      "end": 1699.28,
+      "text": "and the track is Spirit of the Radio."
+    },
+    {
+      "start": 1700.42,
+      "end": 2328.39,
+      "text": "A couple of tracks there from an album which I believe is going to come out in about a week and a half."
+    },
+    {
+      "start": 2328.57,
+      "end": 2329.99,
+      "text": "The album's called Permanent Waves."
+    },
+    {
+      "start": 2330.05,
+      "end": 2334.21,
+      "text": "The band are Rush, and the tracks you heard were Spirit of the Radio and Free World."
+    },
+    {
+      "start": 2336.82,
+      "end": 2341.14,
+      "text": "For all the Rush freaks around the country, including Mark Wood of Coppenhall Crew in Cheshire,"
+    },
+    {
+      "start": 2341.14,
+      "end": 2343.46,
+      "text": "also Grant Rowland of Barnet and Art for Chuck,"
+    },
+    {
+      "start": 2344.06,
+      "end": 2346.98,
+      "text": "and for Felix Saloni and Art Leapin and Eddie Glee,"
+    },
+    {
+      "start": 2347.16,
+      "end": 2349.18,
+      "text": "Eddie Glee is somewhere in our country,"
+    },
+    {
+      "start": 2349.18,
+      "end": 2355.59,
+      "text": "Also to Andrew Farmer and Dale Pierce and Steve Ellis up there"
+    },
+    {
+      "start": 2355.59,
+      "end": 2357.25,
+      "text": "Or rather down there if you'd like in Somerset"
+    },
+    {
+      "start": 2357.25,
+      "end": 2360.86,
+      "text": "And to Stu Mayer and Stu Armand"
+    },
+    {
+      "start": 2360.86,
+      "end": 2363.38,
+      "text": "And Leslie McMullen who loves Geddy Lee"
+    },
+    {
+      "start": 2363.38,
+      "end": 2365.66,
+      "text": "And Mark Dixon and Hoggy and Rabbit"
+    },
+    {
+      "start": 2365.66,
+      "end": 2368.64,
+      "text": "And the Rush Freaks everywhere"
+    },
+    {
+      "start": 2368.64,
+      "end": 2373.16,
+      "text": "Good album, I've had a cassette copy of it for about a week and a half"
+    },
+    {
+      "start": 2373.16,
+      "end": 2374.24,
+      "text": "I've been playing it in the car"
+    },
+    {
+      "start": 2374.24,
+      "end": 2375.52,
+      "text": "Very loud"
+    },
+    {
+      "start": 2375.52,
+      "end": 2378.02,
+      "text": "A policeman actually asked me to turn it down the other day"
+    },
+    {
+      "start": 2378.02,
+      "end": 2384.61,
+      "text": "21 minutes before 11 o'clock on the Friday Rock Show"
+    },
+    {
+      "start": 2384.61,
+      "end": 2388.55,
+      "text": "Wednesday the 9th was the birthday of Mr. Jimmy Page."
+    },
+    {
+      "start": 2388.79,
+      "end": 2390.63,
+      "text": "Now, we thought, to sort of celebrate it,"
+    },
+    {
+      "start": 2390.69,
+      "end": 2393.55,
+      "text": "we'd play something very, very different by Mr. Page."
+    },
+    {
+      "start": 2393.95,
+      "end": 2396.71,
+      "text": "This was issued as a single in February 1965,"
+    },
+    {
+      "start": 2397.33,
+      "end": 2400.87,
+      "text": "but deleted from the Fontana catalogue in August 1965,"
+    },
+    {
+      "start": 2401.27,
+      "end": 2402.05,
+      "text": "so it's a rarity."
+    },
+    {
+      "start": 2402.61,
+      "end": 2404.67,
+      "text": "I believe, in fact, if you can find it as a single,"
+    },
+    {
+      "start": 2405.03,
+      "end": 2407.03,
+      "text": "it's worth something like 30 quid."
+    },
+    {
+      "start": 2407.41,
+      "end": 2410.03,
+      "text": "The A-side and the B-side of a Jimmy Page single."
+    },
+    {
+      "start": 2410.41,
+      "end": 2412.07,
+      "text": "The A-side she just satisfies,"
+    },
+    {
+      "start": 2412.61,
+      "end": 2414.71,
+      "text": "The B-side is Keep Movin', and here they are."
+    },
+    {
+      "start": 2415.11,
+      "end": 2739.34,
+      "text": "What a classic that turned out to be."
+    },
+    {
+      "start": 2739.42,
+      "end": 2742.64,
+      "text": "It came out in February 1965, a single put out by Jimmy Page,"
+    },
+    {
+      "start": 2742.72,
+      "end": 2744.46,
+      "text": "Happy Birthday for Last Wednesday, Jim."
+    },
+    {
+      "start": 2745.2,
+      "end": 2748.52,
+      "text": "That really is a classic, an amazing sort of 60s ring and sound to it."
+    },
+    {
+      "start": 2748.66,
+      "end": 2750.92,
+      "text": "Andrew Wood wanted us to dig it out of the library to play it,"
+    },
+    {
+      "start": 2750.92,
+      "end": 2754.9,
+      "text": "and also to sort of indicate his delight at the way that Jimmy Page"
+    },
+    {
+      "start": 2754.9,
+      "end": 2756.34,
+      "text": "has handled his instrument over the years."
+    },
+    {
+      "start": 2757.02,
+      "end": 2760.7,
+      "text": "But he also wanted to sort of hear it, because somebody has offered him,"
+    },
+    {
+      "start": 2761.12,
+      "end": 2763.5,
+      "text": "or rather, somebody wants to charge him 30 quid for that single."
+    },
+    {
+      "start": 2764.0,
+      "end": 2767.16,
+      "text": "So, Mr Wood, now you've heard it, I frankly would think it's well worth every penny."
+    },
+    {
+      "start": 2767.24,
+      "end": 2771.44,
+      "text": "It's such a rare record that they wouldn't let us take the record actually out of the library here."
+    },
+    {
+      "start": 2771.74,
+      "end": 2773.32,
+      "text": "They put it on tape for us to play."
+    },
+    {
+      "start": 2773.72,
+      "end": 2778.44,
+      "text": "I also played it for Margaret and Susan and Steve Hobson, the Hobson family up there in Birmingham."
+    },
+    {
+      "start": 2779.22,
+      "end": 2788.88,
+      "text": "It's quarter to eleven on the Friday Rock Show in eleven minutes' time or thereabouts."
+    },
+    {
+      "start": 2788.98,
+      "end": 2792.36,
+      "text": "I'm going to be telling you... Oh, actually, I won't do it. I'll let somebody else do it."
+    },
+    {
+      "start": 2792.4,
+      "end": 2795.24,
+      "text": "Tell you all about the categories in the Rock and Pop Awards."
+    },
+    {
+      "start": 2795.56,
+      "end": 2796.7,
+      "text": "We'd like you to vote in that."
+    },
+    {
+      "start": 2796.7,
+      "end": 2801.66,
+      "text": "So stay tuned, 11 minutes to run, and the details will be yours."
+    },
+    {
+      "start": 2802.1,
+      "end": 2804.98,
+      "text": "But before that, something by P.I.L."
+    },
+    {
+      "start": 2805.3,
+      "end": 3479.64,
+      "text": "One of the nuttiest tracks I think ever made, Hocus Pocus by Focus, came out in 1972."
+    },
+    {
+      "start": 3480.34,
+      "end": 3483.64,
+      "text": "And I played especially for A. Curbison of Sedgefield in County Durham,"
+    },
+    {
+      "start": 3484.14,
+      "end": 3488.5,
+      "text": "and also for Mike Hill, who lives in, where is it, 37 Westminster Road in Worcester,"
+    },
+    {
+      "start": 3488.98,
+      "end": 3492.8,
+      "text": "for Daniel Mayer, who lives at 16 Trevor Road in Southport,"
+    },
+    {
+      "start": 3492.8,
+      "end": 3495.74,
+      "text": "and also for Adrian Boyel"
+    },
+    {
+      "start": 3495.74,
+      "end": 3498.68,
+      "text": "of number 61 Milton Road, Branton, Doncaster"
+    },
+    {
+      "start": 3498.68,
+      "end": 3500.04,
+      "text": "in South Yorkshire"
+    },
+    {
+      "start": 3500.04,
+      "end": 3501.4,
+      "text": "still a nutty track"
+    },
+    {
+      "start": 3501.4,
+      "end": 3504.22,
+      "text": "have you heard that thing that Jan Ackerman's got out at the moment"
+    },
+    {
+      "start": 3504.22,
+      "end": 3505.78,
+      "text": "the single, it's very disco-like"
+    },
+    {
+      "start": 3505.78,
+      "end": 3508.92,
+      "text": "totally unlike that amazing album he once made with Kaz Lux"
+    },
+    {
+      "start": 3508.92,
+      "end": 3511.46,
+      "text": "which is one of my all-time favourites"
+    },
+    {
+      "start": 3511.46,
+      "end": 3514.24,
+      "text": "prior to that you heard P.I.L. Public Image Limited"
+    },
+    {
+      "start": 3514.24,
+      "end": 3515.9,
+      "text": "John Lydon and his crew"
+    },
+    {
+      "start": 3515.9,
+      "end": 3517.74,
+      "text": "and the track he heard was Pop Tones"
+    },
+    {
+      "start": 3517.74,
+      "end": 3519.32,
+      "text": "pencils and papers at the ready"
+    },
+    {
+      "start": 3519.32,
+      "end": 3521.4,
+      "text": "or maybe just the John Bull printing kit"
+    },
+    {
+      "start": 3521.4,
+      "end": 3526.8,
+      "text": "Here come the details of the Rock and Pop Awards, brought to you by Messers, Peebles and Wright."
+    },
+    {
+      "start": 3526.96,
+      "end": 3528.36,
+      "text": "The British Rock and Pop Awards."
+    },
+    {
+      "start": 3529.22,
+      "end": 3533.36,
+      "text": "All we want you to do is to write down your British nominations for the following categories."
+    },
+    {
+      "start": 3534.32,
+      "end": 3541.68,
+      "text": "Best Male Singer, Best Female Singer, Best Group or Band, Best Single and Best LP."
+    },
+    {
+      "start": 3542.28,
+      "end": 3546.94,
+      "text": "Remember, all your nominations must be chosen from last year, 1979."
+    },
+    {
+      "start": 3547.5,
+      "end": 3551.32,
+      "text": "So, I'll just repeat the five categories for your nominations."
+    },
+    {
+      "start": 3551.4,
+      "end": 3555.0,
+      "text": "Remember, it's British Awards for the year 1979."
+    },
+    {
+      "start": 3555.78,
+      "end": 3558.32,
+      "text": "Category 1, Best Male Vocalist."
+    },
+    {
+      "start": 3558.74,
+      "end": 3561.54,
+      "text": "Category 2, Best Female Vocalist."
+    },
+    {
+      "start": 3561.98,
+      "end": 3564.64,
+      "text": "Category 3, Best Group or Band."
+    },
+    {
+      "start": 3565.14,
+      "end": 3567.02,
+      "text": "In Category 4, Best Single."
+    },
+    {
+      "start": 3567.46,
+      "end": 3570.34,
+      "text": "And finally, Category 5, Best LP."
+    },
+    {
+      "start": 3570.86,
+      "end": 3574.78,
+      "text": "There'll be several other special awards presented in addition to those you choose,"
+    },
+    {
+      "start": 3574.94,
+      "end": 3577.4,
+      "text": "from Nationwide, the Daily Mirror and the Radio 1 DJs."
+    },
+    {
+      "start": 3577.4,
+      "end": 3583.22,
+      "text": "DJs. But all you have to do is to get your votes in on a postcard to the British Rock"
+    },
+    {
+      "start": 3583.22,
+      "end": 3591.84,
+      "text": "and Pop Awards, BBC Radio 1, London W1A 4WW. That's the British Rock and Pop Awards, BBC"
+    },
+    {
+      "start": 3591.84,
+      "end": 3599.3,
+      "text": "Radio 1, London W1A 4WW. Just write your own name and address on a postcard and list your"
+    },
+    {
+      "start": 3599.3,
+      "end": 3604.76,
+      "text": "five nominations. A few lucky voters will be invited later to join us for a fantastic day"
+    },
+    {
+      "start": 3604.76,
+      "end": 3610.38,
+      "text": "out at the award ceremony and you can get your face on the television if you're there as well"
+    },
+    {
+      "start": 3610.38,
+      "end": 3617.85,
+      "text": "it's a minute before 11 o'clock now the 26th of february and 1968 was the date when traffic"
+    },
+    {
+      "start": 3617.85,
+      "end": 3622.87,
+      "text": "went into the studio and recorded this set introduced again by brian matthew and here"
+    },
+    {
+      "start": 3622.87,
+      "end": 3627.67,
+      "text": "is some brain exploding sounds to introduce a song with one of the weirdest wildest titles"
+    },
+    {
+      "start": 3627.67,
+      "end": 3632.95,
+      "text": "i've ever come across roman and the gloaming with 40 000 head men"
+    },
+    {
+      "start": 3632.95,
+      "end": 3678.27,
+      "text": "For the choice of a cigarette, I followed in on the secret case."
+    },
+    {
+      "start": 3678.27,
+      "end": 3862.65,
+      "text": "It's a brand new song, which looks like another hit for Soul Brothers TV Wynwood."
+    },
+    {
+      "start": 3863.05,
+      "end": 3867.07,
+      "text": "This is Traffic, live with No Face, No Name, No Number."
+    },
+    {
+      "start": 3867.67,
+      "end": 4330.73,
+      "text": "Archive session by Traffic from way back in 1968."
+    },
+    {
+      "start": 4330.99,
+      "end": 4333.35,
+      "text": "Mr. Fantasy, that was the title of their first LP."
+    },
+    {
+      "start": 4333.55,
+      "end": 4334.87,
+      "text": "No Face, No Name, No Number."
+    },
+    {
+      "start": 4335.35,
+      "end": 4338.11,
+      "text": "And Roman and the Glowman with 40,000 head men."
+    },
+    {
+      "start": 4340.72,
+      "end": 4343.06,
+      "text": "10 minutes after 11 o'clock, time for the Friday Night Connection."
+    },
+    {
+      "start": 4343.06,
+      "end": 4349.42,
+      "text": "And the tracks that we played you last week were All That Is My Own by Nico from the album Desert Shore,"
+    },
+    {
+      "start": 4349.94,
+      "end": 4356.42,
+      "text": "Heartbreak Hotel, the amazing, amazing version by that Welsh-born gentleman John Cale from the album Slow Dazzle,"
+    },
+    {
+      "start": 4356.78,
+      "end": 4359.82,
+      "text": "and then Rock and Roll by Lou Reed from Rock and Roll Animal."
+    },
+    {
+      "start": 4362.03,
+      "end": 4365.81,
+      "text": "Connection? Pretty obvious, because I think just about everybody got it right."
+    },
+    {
+      "start": 4365.81,
+      "end": 4372.63,
+      "text": "But the winner is Barbara Kirk of 52 Greenwood Road, Tingley, near Wakefield in Yorkshire."
+    },
+    {
+      "start": 4372.63,
+      "end": 4374.95,
+      "text": "Barbara, you get yourself a £10 record token."
+    },
+    {
+      "start": 4375.43,
+      "end": 4379.69,
+      "text": "The answer was, they were all members of the original Velvet Underground."
+    },
+    {
+      "start": 4381.64,
+      "end": 4383.96,
+      "text": "Did notice, though, on some of the answers that came in,"
+    },
+    {
+      "start": 4384.0,
+      "end": 4386.44,
+      "text": "that people weren't putting together their own Friday Night Connection."
+    },
+    {
+      "start": 4386.56,
+      "end": 4387.76,
+      "text": "I'd like you to do that, if you would."
+    },
+    {
+      "start": 4388.14,
+      "end": 4391.04,
+      "text": "Barbara Kirk has put together a Friday Night Connection."
+    },
+    {
+      "start": 4391.2,
+      "end": 4395.86,
+      "text": "Three bits of music with a very, very clever musical connection."
+    },
+    {
+      "start": 4396.28,
+      "end": 5164.55,
+      "text": "That live on stage at the venue was absolutely cranium cracking."
+    },
+    {
+      "start": 5165.42,
+      "end": 5166.96,
+      "text": "Three bits of music with a musical connection."
+    },
+    {
+      "start": 5166.96,
+      "end": 5171.46,
+      "text": "there's a clue for you put together by barbara kirk a 52 greenwood road tingley near wakefield"
+    },
+    {
+      "start": 5171.46,
+      "end": 5177.56,
+      "text": "in yorkshire level one barbara well deserved you are of our 10 pound record token now if you think"
+    },
+    {
+      "start": 5177.56,
+      "end": 5181.72,
+      "text": "you know what the connection is between those three bits of music jot it down on the postcard"
+    },
+    {
+      "start": 5181.72,
+      "end": 5187.72,
+      "text": "letter card any sort of communication you like and send it to tommy fans friday night connection"
+    },
+    {
+      "start": 5187.72,
+      "end": 5196.0,
+      "text": "the friday rock show bbc radio one london w1a4ww and don't forget to put together your own friday"
+    },
+    {
+      "start": 5196.0,
+      "end": 5659.97,
+      "text": "night connection as well it's 11 24 and a fraction and here's pil call careering by public image"
+    },
+    {
+      "start": 5659.97,
+      "end": 5666.09,
+      "text": "limited john on the lead vocals keith levine on the guitar and synthesizers jar wobble on the bass"
+    },
+    {
+      "start": 5666.09,
+      "end": 5669.85,
+      "text": "and martin atkins on the drums public image limited i think they really are one of the most"
+    },
+    {
+      "start": 5669.85,
+      "end": 5675.45,
+      "text": "unique bands in the world and they make an incredible and interesting cacophony another"
+    },
+    {
+      "start": 5675.45,
+      "end": 5946.36,
+      "text": "track by them later but right now here's something by judas priest judas priest to go on tour in"
+    },
+    {
+      "start": 5946.36,
+      "end": 5952.98,
+      "text": "march a track there from unleashed in the east and it was called tyrant in rock on saturday this"
+    },
+    {
+      "start": 5952.98,
+      "end": 5957.04,
+      "text": "week at four we'll have a live concert from cozy powell and his current band which includes such"
+    },
+    {
+      "start": 5957.04,
+      "end": 5964.19,
+      "text": "rock notables as jack bruce don airy and clem clemson we'll be finding out about blondie's"
+    },
+    {
+      "start": 5964.19,
+      "end": 5968.51,
+      "text": "current attitudes to pop and rock meeting wishbone ash talking about politics and rock and roll"
+    },
+    {
+      "start": 5968.51,
+      "end": 5971.49,
+      "text": "and getting behind the zapper legend"
+    },
+    {
+      "start": 5971.49,
+      "end": 5980.83,
+      "text": "That's Frank Zappa, Wishbone Ash and Blondie doing the talking"
+    },
+    {
+      "start": 5980.83,
+      "end": 5982.69,
+      "text": "And Cozy Powell's band playing"
+    },
+    {
+      "start": 5982.69,
+      "end": 5984.51,
+      "text": "Plus loads of other great music"
+    },
+    {
+      "start": 5984.51,
+      "end": 5991.13,
+      "text": "All in Rock on Saturday, 4 to 7.30 on 275-285 and Stereo VHF"
+    },
+    {
+      "start": 5991.13,
+      "end": 5993.66,
+      "text": "Thank you, old horse one"
+    },
+    {
+      "start": 5993.66,
+      "end": 5998.58,
+      "text": "It's 22 and a half minutes before midnight"
+    },
+    {
+      "start": 5998.58,
+      "end": 6001.1,
+      "text": "And here, from 68, is Traffic"
+    },
+    {
+      "start": 6001.1,
+      "end": 6004.99,
+      "text": "A little song you can all join in with"
+    },
+    {
+      "start": 6004.99,
+      "end": 6006.97,
+      "text": "It's very simple and I hope it's new"
+    },
+    {
+      "start": 6006.97,
+      "end": 6009.83,
+      "text": "Make your own words up if you want to"
+    },
+    {
+      "start": 6009.83,
+      "end": 6012.09,
+      "text": "Any old words that you think will do"
+    },
+    {
+      "start": 6012.09,
+      "end": 6027.42,
+      "text": "Yeah, I just sit here and think"
+    },
+    {
+      "start": 6027.42,
+      "end": 6032.65,
+      "text": "One of these colors ever bother you"
+    },
+    {
+      "start": 6032.65,
+      "end": 6046.83,
+      "text": "You can all join in with"
+    },
+    {
+      "start": 6046.83,
+      "end": 6048.13,
+      "text": "And I hope it's new"
+    },
+    {
+      "start": 6048.13,
+      "end": 6050.99,
+      "text": "Make your own steps up if you want to"
+    },
+    {
+      "start": 6050.99,
+      "end": 6053.23,
+      "text": "Any old steps that you think will do"
+    },
+    {
+      "start": 6053.23,
+      "end": 6429.87,
+      "text": "All right, perform with Feeling All Right by Traffic."
+    },
+    {
+      "start": 6430.05,
+      "end": 6431.45,
+      "text": "Thank you very much, Mr. Brian Matthew."
+    },
+    {
+      "start": 6431.61,
+      "end": 6434.05,
+      "text": "He put that together, the 24th to 6th, 1968."
+    },
+    {
+      "start": 6434.29,
+      "end": 6435.97,
+      "text": "They really did make infectious music."
+    },
+    {
+      "start": 6436.09,
+      "end": 6439.07,
+      "text": "The tracks you heard there were Feeling All Right and You Can All Join In."
+    },
+    {
+      "start": 6439.15,
+      "end": 6441.67,
+      "text": "I'd like to dedicate that to a gentleman who's doing a bit of time at the moment,"
+    },
+    {
+      "start": 6442.15,
+      "end": 6447.23,
+      "text": "Stevie Curtis, from his wife Ruth and also from Sazzy and Rosie and Lisa."
+    },
+    {
+      "start": 6447.59,
+      "end": 6448.87,
+      "text": "Back now to P.I.L."
+    },
+    {
+      "start": 6449.23,
+      "end": 6773.17,
+      "text": "Really mesmeric and disturbing."
+    },
+    {
+      "start": 6773.17,
+      "end": 6776.37,
+      "text": "That's Public Image Limited, three numbers by them tonight on the program,"
+    },
+    {
+      "start": 6776.51,
+      "end": 6777.63,
+      "text": "all mixed by Tony Wilson."
+    },
+    {
+      "start": 6777.63,
+      "end": 6779.23,
+      "text": "That track was called Chant."
+    },
+    {
+      "start": 6779.75,
+      "end": 6780.95,
+      "text": "And now for something very different."
+    },
+    {
+      "start": 6781.13,
+      "end": 6785.85,
+      "text": "This is a track from the forthcoming album Short Stories by John and Van Gellis."
+    },
+    {
+      "start": 7322.76,
+      "end": 7328.32,
+      "text": "Just beneath it is a single on the Chrysalis label, Robin Trower and Victims of the Fury."
+    },
+    {
+      "start": 7331.63,
+      "end": 7337.83,
+      "text": "And before that, something from the forthcoming album is coming out on Polydor called Short Stories featuring John and Van Gellis."
+    },
+    {
+      "start": 7337.95,
+      "end": 7340.31,
+      "text": "And the track that we played was Curious Electric."
+    },
+    {
+      "start": 7342.14,
+      "end": 7344.48,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 7344.62,
+      "end": 7346.8,
+      "text": "Next week we have an archive session by Modba Hoople."
+    },
+    {
+      "start": 7346.8,
+      "end": 7348.7,
+      "text": "Hope you enjoyed Traffic and P.I.L."
+    },
+    {
+      "start": 7349.85,
+      "end": 7351.65,
+      "text": "Our engineers tonight were Anne and Tony."
+    },
+    {
+      "start": 7351.85,
+      "end": 7352.23,
+      "text": "Thank you."
+    },
+    {
+      "start": 7353.73,
+      "end": 7357.07,
+      "text": "Tomorrow, on Rock on Saturday, lots of music and some speech by Frank Zappa,"
+    },
+    {
+      "start": 7357.25,
+      "end": 7358.39,
+      "text": "a nice set by Cozy Pal,"
+    },
+    {
+      "start": 7358.51,
+      "end": 7362.07,
+      "text": "three and a half hours of excellent rock music between 4 o'clock and 7.30."
+    },
+    {
+      "start": 7366.55,
+      "end": 7369.55,
+      "text": "And now, because he's been rehearsing it for the last seven days,"
+    },
+    {
+      "start": 7369.71,
+      "end": 7373.05,
+      "text": "here's producer Tony Wilson with his phrase of the day."
+    },
+    {
+      "start": 7373.57,
+      "end": 7375.57,
+      "text": "There was a young lady from Naples..."
+    },
+    {
+      "start": 7376.31,
+      "end": 7380.82,
+      "text": "Ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha, ha."
+    },
+    {
+      "start": 7380.82,
+      "end": 7384.9,
+      "text": "Yes, well, I'll tell you the rest of that after midnight, about 15 seconds time."
+    },
+    {
+      "start": 7385.0,
+      "end": 7387.0,
+      "text": "This is TV and Radio Thomas fans getting off it."
+    },
+    {
+      "start": 7387.2,
+      "end": 7388.08,
+      "text": "See you at four o'clock."
+    },
+    {
+      "start": 7388.32,
+      "end": 7389.3,
+      "text": "Take care and good night."
     }
   ]
 }

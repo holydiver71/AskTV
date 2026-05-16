@@ -27,12 +27,14 @@
     {
       "artist": "AC/DC",
       "track": "Rock 'N' Roll Damnation",
-      "details": "Live"
+      "details": "Live",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "AC/DC",
       "track": "High Voltage",
-      "details": "Live"
+      "details": "Live",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": null,
@@ -58,6 +60,38 @@
       "artist": "Money",
       "track": "Another Case Of Suicide",
       "details": "FRS session"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 689.49,
+      "end": 1218.84,
+      "text": "The Houses of the Holy, the album that came out in 1973. The track was ACDC, and a couple of tracks from If You Want Blood, You've Got It."
+    },
+    {
+      "start": 1218.84,
+      "end": 1224.84,
+      "text": "The track there you heard was High Voltage, the title of their first ever album that came out in 1976."
+    },
+    {
+      "start": 1224.84,
+      "end": 1231.34,
+      "text": "And prior to that you heard Rock and Roll Damnation, which was a hit for them. It got to number 24 in June 1978."
+    },
+    {
+      "start": 1231.34,
+      "end": 1237.84,
+      "text": "Little bit of a tribute to the gentleman that sang lead vocals for them, who was found dead in a car around the middle of this week."
+    },
+    {
+      "start": 1237.84,
+      "end": 1938.69,
+      "text": "from alcohol poisoning his name was bon scott and he'll be sadly missed near perfection i think as"
+    },
+    {
+      "start": 1938.69,
+      "end": 1950.68,
+      "text": "any musicians in the world can get to is one of my all-time favorite tracks and that was the"
     }
   ]
 }

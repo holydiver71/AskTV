@@ -23,37 +23,44 @@
     {
       "artist": "Utopia",
       "track": "Last Of The New Wave Riders",
-      "details": "LP-Adventures In Utopia"
+      "details": "LP-Adventures In Utopia",
+      "verified_timestamp": 69.36
     },
     {
       "artist": "Kiss",
       "track": "2,000 Man",
-      "details": "LP-Dynasty"
+      "details": "LP-Dynasty",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Lone Star",
       "track": "The Bells Of Berlin",
-      "details": "LP-Firing On All Six"
+      "details": "LP-Firing On All Six",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Saxon",
       "track": "Stallions Of The Highway",
-      "details": "FRS session 23-01-80"
+      "details": "FRS session 23-01-80",
+      "verified_timestamp": 664.89
     },
     {
       "artist": "Ten Years After",
       "track": "'I May Be Wrong, But I Won't Be Wrong Always'",
-      "details": "March '68 Session"
+      "details": "March '68 Session",
+      "verified_timestamp": 1359.65
     },
     {
       "artist": "Tangerine Dream",
       "track": "Stratosphere",
-      "details": "LP-Stratosphere"
+      "details": "LP-Stratosphere",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Mike Rutherford",
       "track": "Overnight Job",
-      "details": "LP-Smallcreep's Day"
+      "details": "LP-Smallcreep's Day",
+      "verified_timestamp": 2611.07
     },
     {
       "artist": "Saxon",
@@ -63,12 +70,14 @@
     {
       "artist": "Whitesnake",
       "track": "Love Hunter",
-      "details": "LP-Love Hunter"
+      "details": "LP-Love Hunter",
+      "verified_timestamp": 2989.85
     },
     {
       "artist": "Ten Years After",
       "track": "'I Feel Like Goin' Home'",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1359.65
     },
     {
       "artist": "Ten Years After",
@@ -88,12 +97,14 @@
     {
       "artist": "L Shankar",
       "track": "Little Stinker",
-      "details": "LP-Touch Me There"
+      "details": "LP-Touch Me There",
+      "verified_timestamp": 4469.65
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 65.44
     },
     {
       "artist": "Saxon",
@@ -103,12 +114,14 @@
     {
       "artist": "Thin Lizzy",
       "track": "Still In Love With You",
-      "details": "2xLP-Live And Dangerous"
+      "details": "2xLP-Live And Dangerous",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Ten Years After",
       "track": "Hear Me Calling",
-      "details": "Symonds session 1968-12-13"
+      "details": "Symonds session 1968-12-13",
+      "verified_timestamp": 1359.65
     },
     {
       "artist": "Ten Years After",
@@ -123,12 +136,1355 @@
     {
       "artist": "Spirit",
       "track": "When I Touch You",
-      "details": "LP-12 Dreams Of Dr Sardonicus"
+      "details": "LP-12 Dreams Of Dr Sardonicus",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Saxon",
       "track": "Still Fit To Boogie",
       "details": "FRS session 23-01-80"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 7.06,
+      "end": 14.06,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 14.06,
+      "end": 28.25,
+      "text": "Well hello there. TV on the radio here, Thomas Vance. And welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 28.25,
+      "end": 35.92,
+      "text": "And tonight we have archive sessions by 10 years after. The original line up as they were in 67, 68 and 69."
+    },
+    {
+      "start": 35.92,
+      "end": 41.92,
+      "text": "Also we have the first ever BBC session by that heavy band from the sort of Midlands called Saxon."
+    },
+    {
+      "start": 41.92,
+      "end": 59.99,
+      "text": "And we've got new cuts by Utopia, Kiss, Mike Rutherford, El Shankar and Rexy."
+    },
+    {
+      "start": 61.72,
+      "end": 65.34,
+      "text": "We've got classic cuts by Lone Star, The Tangs, Thin Lizzy and Spirit, among others."
+    },
+    {
+      "start": 65.44,
+      "end": 68.68,
+      "text": "Not forgetting, of course, our Friday Night Connection, which should be good tonight."
+    },
+    {
+      "start": 69.36,
+      "end": 73.68,
+      "text": "But this evening, I think we ought to start with something by Utopia, last of the New Wave Riders."
+    },
+    {
+      "start": 74.36,
+      "end": 642.31,
+      "text": "Their new single, which is called 2000 Man, an old song written by Jagger and Richards of the Rolling Stones years and years ago."
+    },
+    {
+      "start": 642.31,
+      "end": 644.63,
+      "text": "also to be found on their album Dynasty"
+    },
+    {
+      "start": 644.63,
+      "end": 646.11,
+      "text": "and I have in front of me a date sheet"
+    },
+    {
+      "start": 646.11,
+      "end": 647.47,
+      "text": "of their European tour"
+    },
+    {
+      "start": 647.47,
+      "end": 649.39,
+      "text": "on June 25th they're going to be doing Brighton"
+    },
+    {
+      "start": 649.39,
+      "end": 651.93,
+      "text": "June 27th, June 28th, Wembley in London"
+    },
+    {
+      "start": 651.93,
+      "end": 653.11,
+      "text": "July 1st, Stafford"
+    },
+    {
+      "start": 653.11,
+      "end": 654.75,
+      "text": "and July 3rd, Edinburgh"
+    },
+    {
+      "start": 654.75,
+      "end": 658.79,
+      "text": "we played Kiss in answer to quite a number of requests"
+    },
+    {
+      "start": 658.79,
+      "end": 660.35,
+      "text": "I've got one here from Neil Kimberley"
+    },
+    {
+      "start": 660.35,
+      "end": 662.31,
+      "text": "of Rainford in Merseyside"
+    },
+    {
+      "start": 662.31,
+      "end": 662.95,
+      "text": "watcher Neil"
+    },
+    {
+      "start": 662.95,
+      "end": 664.89,
+      "text": "one from Eden the Kiss Freak"
+    },
+    {
+      "start": 664.89,
+      "end": 666.27,
+      "text": "and one from Peter Johnson"
+    },
+    {
+      "start": 666.27,
+      "end": 667.79,
+      "text": "of 72 Lacana Avenue"
+    },
+    {
+      "start": 667.79,
+      "end": 669.43,
+      "text": "Stopsley Luton in Bedfordshire"
+    },
+    {
+      "start": 669.43,
+      "end": 672.19,
+      "text": "and finally for Simon Millgate"
+    },
+    {
+      "start": 672.19,
+      "end": 674.43,
+      "text": "of Leighton Buzzard in Bedfordshire."
+    },
+    {
+      "start": 674.93,
+      "end": 677.61,
+      "text": "And before that, you heard an ace track"
+    },
+    {
+      "start": 677.61,
+      "end": 681.41,
+      "text": "from the Adventures in Utopia album by Utopia."
+    },
+    {
+      "start": 682.17,
+      "end": 687.0,
+      "text": "The track was called The Last of the New Wave Riders,"
+    },
+    {
+      "start": 687.18,
+      "end": 688.14,
+      "text": "and here's Lone Star."
+    },
+    {
+      "start": 1281.07,
+      "end": 1283.61,
+      "text": "And that was Saxon, and the first of four tonight"
+    },
+    {
+      "start": 1283.61,
+      "end": 1285.93,
+      "text": "in our first ever BBC session by them."
+    },
+    {
+      "start": 1286.59,
+      "end": 1287.91,
+      "text": "Check, first of five."
+    },
+    {
+      "start": 1288.29,
+      "end": 1289.05,
+      "text": "Bonus tonight."
+    },
+    {
+      "start": 1289.87,
+      "end": 1291.15,
+      "text": "Stallions of the Highway, that was."
+    },
+    {
+      "start": 1291.23,
+      "end": 1292.49,
+      "text": "It's a song, of course, that was kicking around"
+    },
+    {
+      "start": 1292.49,
+      "end": 1294.09,
+      "text": "in the heavy metal charts for quite some time"
+    },
+    {
+      "start": 1294.09,
+      "end": 1295.47,
+      "text": "and was, I believe, their first single."
+    },
+    {
+      "start": 1296.09,
+      "end": 1297.65,
+      "text": "And before that, you heard Lone Star"
+    },
+    {
+      "start": 1297.65,
+      "end": 1300.73,
+      "text": "and a classic cut from the 77 album Firing On All Six."
+    },
+    {
+      "start": 1301.07,
+      "end": 1302.51,
+      "text": "The track was Bells of Berlin."
+    },
+    {
+      "start": 1303.64,
+      "end": 1305.34,
+      "text": "And I played that specially for Terrence Gray"
+    },
+    {
+      "start": 1305.34,
+      "end": 1309.0,
+      "text": "of No. 91 Kill Wilkie Road, Lurgan, in County Armagh, Northern Ireland."
+    },
+    {
+      "start": 1309.72,
+      "end": 1311.2,
+      "text": "Because it seems that he and all his mates"
+    },
+    {
+      "start": 1311.2,
+      "end": 1314.46,
+      "text": "flock into MacMullan's Pub in William Street in Lurgan"
+    },
+    {
+      "start": 1314.46,
+      "end": 1315.96,
+      "text": "and listen to the show on the PA."
+    },
+    {
+      "start": 1316.8,
+      "end": 1319.78,
+      "text": "Particularly Shane and Paul and Francie and Lemmy and Martin and Yvonne,"
+    },
+    {
+      "start": 1319.88,
+      "end": 1322.46,
+      "text": "whom is loved very much by Terrence."
+    },
+    {
+      "start": 1323.04,
+      "end": 1324.7,
+      "text": "And have a wee Bushmells, actually."
+    },
+    {
+      "start": 1325.5,
+      "end": 1332.11,
+      "text": "I'd also like to say hello to somebody by the name of, I think it's Inga Clayton, who is out there in Maplewell near Barnsley."
+    },
+    {
+      "start": 1332.45,
+      "end": 1334.39,
+      "text": "Very best wishes and lots of love from Steve Graham."
+    },
+    {
+      "start": 1334.77,
+      "end": 1337.71,
+      "text": "Must also say hello to Rayan Giles and John Collier."
+    },
+    {
+      "start": 1338.07,
+      "end": 1342.23,
+      "text": "Also Greg Sitsis, that's a tongue twister, who's at Wakefield at the moment."
+    },
+    {
+      "start": 1342.69,
+      "end": 1352.09,
+      "text": "And finally, we played Lone Star for Dave, Chambo Yaskum Chalmers, Chris Pendleton, Paul Riok and Jim McNally."
+    },
+    {
+      "start": 1355.01,
+      "end": 1359.03,
+      "text": "And also for Dermot Lyle of 16 Park Road, Hamilton in Scotland."
+    },
+    {
+      "start": 1359.65,
+      "end": 1363.15,
+      "text": "Way back in 1968, ten years after, did this."
+    },
+    {
+      "start": 1363.67,
+      "end": 1727.55,
+      "text": "Way back in March 1968, they had Alvin Lee on the guitar and vocals,"
+    },
+    {
+      "start": 1727.71,
+      "end": 1729.45,
+      "text": "Leo Lyons on the bass, Rick Lee on the drums,"
+    },
+    {
+      "start": 1729.63,
+      "end": 1731.25,
+      "text": "and Chick Churchill on the keyboards,"
+    },
+    {
+      "start": 1731.35,
+      "end": 1733.31,
+      "text": "otherwise known, of course, as Ten Years After."
+    },
+    {
+      "start": 1733.89,
+      "end": 1747.14,
+      "text": "The Friday Rock Show, it's now 28 and a half minutes after ten o'clock."
+    },
+    {
+      "start": 1747.14,
+      "end": 1748.98,
+      "text": "I've got to play something for a load of people"
+    },
+    {
+      "start": 1748.98,
+      "end": 1753.18,
+      "text": "who are going round and round and round the Whitchurch airfield."
+    },
+    {
+      "start": 1753.86,
+      "end": 1759.06,
+      "text": "That is everybody who is running in the National Pedal Car Association 24-hour sponsored race for charity."
+    },
+    {
+      "start": 1759.56,
+      "end": 1765.36,
+      "text": "All the first-year engineering students at Bristol University, you can pedal nice and softly now to Tangerine Dream."
+    },
+    {
+      "start": 1765.86,
+      "end": 2610.95,
+      "text": "The solo album he's got out at the moment on Charisma, the album's called Small Creeps Day,"
+    },
+    {
+      "start": 2611.07,
+      "end": 2612.99,
+      "text": "and the track you heard there was Overnight Job."
+    },
+    {
+      "start": 2613.63,
+      "end": 2618.85,
+      "text": "Good luck to those of you who have Genesis tickets, and hard luck to those of you who didn't get them."
+    },
+    {
+      "start": 2618.85,
+      "end": 2624.03,
+      "text": "I had so many letters from people who said they waited in queues for hours and hours and hours, frequently,"
+    },
+    {
+      "start": 2624.03,
+      "end": 2628.15,
+      "text": "only to be disappointed because the tickets had all been sold out."
+    },
+    {
+      "start": 2628.63,
+      "end": 2630.75,
+      "text": "So I think the concerts are going to be absolutely magic."
+    },
+    {
+      "start": 2631.49,
+      "end": 2632.43,
+      "text": "And while we're talking about Genesis,"
+    },
+    {
+      "start": 2632.59,
+      "end": 2634.27,
+      "text": "happy birthday to Steve Hackett and Peter Gabriel"
+    },
+    {
+      "start": 2634.27,
+      "end": 2635.75,
+      "text": "because this week they've had a birthday."
+    },
+    {
+      "start": 2636.23,
+      "end": 2639.75,
+      "text": "Prior to that you had Tangerine Dream from the 76 album called Stratosphere"
+    },
+    {
+      "start": 2639.75,
+      "end": 2641.29,
+      "text": "and that was the track that we played."
+    },
+    {
+      "start": 2641.73,
+      "end": 2644.25,
+      "text": "And we played it specially for John Gorn to beckon him in Kent"
+    },
+    {
+      "start": 2644.25,
+      "end": 2646.13,
+      "text": "and he wants me to mention Big Andy"
+    },
+    {
+      "start": 2646.13,
+      "end": 2648.41,
+      "text": "and somebody I think is Hairy Andy"
+    },
+    {
+      "start": 2648.41,
+      "end": 2650.29,
+      "text": "and Pete, the hairy version"
+    },
+    {
+      "start": 2650.29,
+      "end": 2653.83,
+      "text": "and the other Andy and Martin and Richard, also hairy"
+    },
+    {
+      "start": 2653.83,
+      "end": 2657.19,
+      "text": "and Sue, whose fursuit qualities are not discussed in this communication,"
+    },
+    {
+      "start": 2657.57,
+      "end": 2659.83,
+      "text": "and all the dream freaks knocking around the world."
+    },
+    {
+      "start": 2659.97,
+      "end": 2661.27,
+      "text": "And then John goes on to say,"
+    },
+    {
+      "start": 2661.63,
+      "end": 2666.77,
+      "text": "especially those I haven't yet discovered in the female half of Langley Park's sixth form."
+    },
+    {
+      "start": 2667.35,
+      "end": 2668.33,
+      "text": "John, do you need a hand?"
+    },
+    {
+      "start": 2670.13,
+      "end": 2671.37,
+      "text": "And now here's Saxon."
+    },
+    {
+      "start": 2989.85,
+      "end": 3245.87,
+      "text": "It's Whitesnake from Love Hunter, the track of the same name,"
+    },
+    {
+      "start": 3245.87,
+      "end": 3250.69,
+      "text": "and I played that for Janet Anderson and her mum, dad, and also Vic."
+    },
+    {
+      "start": 3250.93,
+      "end": 3255.85,
+      "text": "Janet at the moment is in London, in Wimbledon, from the Isle of Wight, and feeling a bit lonely."
+    },
+    {
+      "start": 3257.24,
+      "end": 3258.3,
+      "text": "Hope it doesn't continue."
+    },
+    {
+      "start": 3258.8,
+      "end": 3266.2,
+      "text": "Alan Paulston, age 15, of Crawford, Biggar in Lanarkshire, wants me to say hello to Dave and to Julie from the Sunderland Polytechnic."
+    },
+    {
+      "start": 3266.2,
+      "end": 3272.82,
+      "text": "Also, I've got to say hello to Dave Leighton, I think it is, Tony Hammond, Steve Mullins, and everybody from the Holt School in Huddington."
+    },
+    {
+      "start": 3273.56,
+      "end": 3277.36,
+      "text": "And I also played that track for Stephen Carlin of Uddington in Glasgow."
+    },
+    {
+      "start": 3278.08,
+      "end": 3280.9,
+      "text": "And before that, you heard something by Saxon, a track called Motorcycle Man."
+    },
+    {
+      "start": 3280.9,
+      "end": 3285.46,
+      "text": "Now, last Tuesday I did a gig, definition of gig, disc jockey standing on stage playing records."
+    },
+    {
+      "start": 3286.16,
+      "end": 3290.94,
+      "text": "I actually did it at Tiffany's, which is in Coventry, which is the home of Two-Tone, and that was really amazing."
+    },
+    {
+      "start": 3291.38,
+      "end": 3296.44,
+      "text": "It was a Valentine night sort of get-together for everybody from the Henley College of Further Education,"
+    },
+    {
+      "start": 3296.66,
+      "end": 3300.7,
+      "text": "and I had a great night, and I'd like to thank you very much for being so kind to me."
+    },
+    {
+      "start": 3300.92,
+      "end": 3303.66,
+      "text": "Just to mention a few of the people who gave me bits of paper to read out."
+    },
+    {
+      "start": 3303.94,
+      "end": 3310.7,
+      "text": "Everybody at ConfTech, Huey, Deborah, Danny, John, Tim, Will, Jackie, Martin, Dub, Mark, Ashton, or possibly Ashow,"
+    },
+    {
+      "start": 3310.9,
+      "end": 3316.78,
+      "text": "sharon and sue people who work at robinson osborne and malls johnny from coventry and also"
+    },
+    {
+      "start": 3316.78,
+      "end": 3329.73,
+      "text": "craig des john jim paul and everybody the henley college engineers are now 10 years after"
+    },
+    {
+      "start": 3329.73,
+      "end": 3956.54,
+      "text": "beautiful that's the song that made him famous recorded in the bbc studios between 67 and 68"
+    },
+    {
+      "start": 3956.54,
+      "end": 3961.14,
+      "text": "that of course was 10 years after alvin lee on the lead guitar playing like a fiend the track"
+    },
+    {
+      "start": 3961.14,
+      "end": 3961.86,
+      "text": "was I'm going home."
+    },
+    {
+      "start": 3961.94,
+      "end": 3963.56,
+      "text": "Before that, I ain't seen no whiskey."
+    },
+    {
+      "start": 3963.84,
+      "end": 3965.26,
+      "text": "And the first track you heard was"
+    },
+    {
+      "start": 3965.26,
+      "end": 3966.5,
+      "text": "I feel like going home."
+    },
+    {
+      "start": 3975.73,
+      "end": 3977.27,
+      "text": "5 past 11 on the Friday Rock Show."
+    },
+    {
+      "start": 3977.33,
+      "end": 3978.45,
+      "text": "Now, a lot of people have written in"
+    },
+    {
+      "start": 3978.45,
+      "end": 3979.77,
+      "text": "and sort of put PSs on their letter."
+    },
+    {
+      "start": 3979.91,
+      "end": 3982.27,
+      "text": "You obviously have sussed that I am what's known as a voiceover."
+    },
+    {
+      "start": 3982.43,
+      "end": 3983.21,
+      "text": "I'm one of those people,"
+    },
+    {
+      "start": 3983.37,
+      "end": 3985.99,
+      "text": "those faceless sort of people that work on commercials,"
+    },
+    {
+      "start": 3986.21,
+      "end": 3987.29,
+      "text": "the voice behind the commercial."
+    },
+    {
+      "start": 3987.73,
+      "end": 3989.63,
+      "text": "And I also do things in various styles."
+    },
+    {
+      "start": 3990.63,
+      "end": 3992.09,
+      "text": "Well, I won't tell you what the products are,"
+    },
+    {
+      "start": 3992.15,
+      "end": 3993.93,
+      "text": "but, well, it's a living."
+    },
+    {
+      "start": 3994.33,
+      "end": 3995.77,
+      "text": "I've been handed here an announcement,"
+    },
+    {
+      "start": 3995.77,
+      "end": 3997.47,
+      "text": "so I thought I'd do this announcement"
+    },
+    {
+      "start": 3997.47,
+      "end": 3999.35,
+      "text": "in a very sort of low-key style."
+    },
+    {
+      "start": 3999.37,
+      "end": 4002.57,
+      "text": "And this is particularly for the girls, and this is how it goes."
+    },
+    {
+      "start": 4003.23,
+      "end": 4007.83,
+      "text": "It was St. Valentine's Day yesterday, but did you realize that 1980 is a leap year?"
+    },
+    {
+      "start": 4008.33,
+      "end": 4012.33,
+      "text": "Yes, 1980 is the year when the girls can propose to the fellas."
+    },
+    {
+      "start": 4012.83,
+      "end": 4018.87,
+      "text": "If there's someone in your life who's been a bit slow, off the mark in popping the question, then let me do it for you."
+    },
+    {
+      "start": 4019.33,
+      "end": 4023.01,
+      "text": "I'll read out your proposal on Friday the 29th of February."
+    },
+    {
+      "start": 4023.49,
+      "end": 4028.31,
+      "text": "All you have to do is to let me know your name and address, and his name, and where he lives,"
+    },
+    {
+      "start": 4028.31,
+      "end": 4031.97,
+      "text": "or where you think he's currently staying, and I'll do the rest for you."
+    },
+    {
+      "start": 4032.31,
+      "end": 4036.87,
+      "text": "So, let Radio 1 pop the question for you on the 29th of February."
+    },
+    {
+      "start": 4037.41,
+      "end": 4038.53,
+      "text": "Get your card off now."
+    },
+    {
+      "start": 4038.91,
+      "end": 4041.55,
+      "text": "You can send it direct to me, who? Him, Tommy Vance."
+    },
+    {
+      "start": 4041.91,
+      "end": 4044.11,
+      "text": "Care of Radio 1, the Friday rock show."
+    },
+    {
+      "start": 4044.63,
+      "end": 4046.77,
+      "text": "London, W1A4WW."
+    },
+    {
+      "start": 4047.35,
+      "end": 4050.21,
+      "text": "And I'll do my best to include your proposal."
+    },
+    {
+      "start": 4050.65,
+      "end": 4053.09,
+      "text": "Who knows? This year, my luck might be in."
+    },
+    {
+      "start": 4059.14,
+      "end": 4059.62,
+      "text": "Saxon."
+    },
+    {
+      "start": 4060.1,
+      "end": 4467.79,
+      "text": "Track from a great album. The album is just out on Mercury."
+    },
+    {
+      "start": 4467.79,
+      "end": 4469.39,
+      "text": "It's by El Shankar."
+    },
+    {
+      "start": 4469.65,
+      "end": 4472.81,
+      "text": "It's called Touch Me There, and the track you heard was Little Stinker."
+    },
+    {
+      "start": 4475.41,
+      "end": 4479.19,
+      "text": "It's 13 minutes and a half after 11 o'clock here."
+    },
+    {
+      "start": 4479.63,
+      "end": 4480.91,
+      "text": "And it's time for the Friday Night Connection."
+    },
+    {
+      "start": 4480.95,
+      "end": 4483.67,
+      "text": "Now, the tracks we played last week during Flashback 67 were"
+    },
+    {
+      "start": 4483.67,
+      "end": 4486.45,
+      "text": "Me and Bobby McGee by Janis Joplin from the LP Pearl,"
+    },
+    {
+      "start": 4486.59,
+      "end": 4488.93,
+      "text": "All Along the Watchtower by Jimi Hendrix from the guitar album,"
+    },
+    {
+      "start": 4488.99,
+      "end": 4490.15,
+      "text": "that's what we actually played it from,"
+    },
+    {
+      "start": 4490.53,
+      "end": 4494.13,
+      "text": "and On the Road Again by Canned Heat from the LP Boogie with Canned Heat."
+    },
+    {
+      "start": 4494.19,
+      "end": 4495.61,
+      "text": "And I said it was a two-prong question."
+    },
+    {
+      "start": 4496.17,
+      "end": 4498.53,
+      "text": "And the answer was, most people got it right, incidentally,"
+    },
+    {
+      "start": 4498.53,
+      "end": 4504.43,
+      "text": "The answer was, all of those people made their name, if you like to put it that way, at the Monterey Pop Festival."
+    },
+    {
+      "start": 4504.69,
+      "end": 4510.09,
+      "text": "And, excuse me, on the other side of the question was that they, all three of them, died in the latter part of 1970."
+    },
+    {
+      "start": 4512.34,
+      "end": 4516.66,
+      "text": "Now, unfortunately, we seem to have mislaid the card."
+    },
+    {
+      "start": 4516.98,
+      "end": 4518.45,
+      "text": "Or, actually, letter."
+    },
+    {
+      "start": 4518.99,
+      "end": 4520.99,
+      "text": "And, uh, it wasn't me."
+    },
+    {
+      "start": 4521.19,
+      "end": 4526.17,
+      "text": "It was actually somebody who's not terribly too far from me within the confines of the studio and broadcasting house at all."
+    },
+    {
+      "start": 4526.23,
+      "end": 4526.95,
+      "text": "Just get on with it."
+    },
+    {
+      "start": 4526.97,
+      "end": 4527.77,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 4527.77,
+      "end": 4528.89,
+      "text": "You know who it wasn't me."
+    },
+    {
+      "start": 4529.01,
+      "end": 4529.57,
+      "text": "It was him."
+    },
+    {
+      "start": 4529.91,
+      "end": 4534.13,
+      "text": "now i do remember the name of that person but of course if i say the name you're all going to write"
+    },
+    {
+      "start": 4534.13,
+      "end": 4539.37,
+      "text": "in and say i am so and so from such and such an address so what i'd like you to do is to find out"
+    },
+    {
+      "start": 4539.37,
+      "end": 4545.17,
+      "text": "what the connection is between these three bits of music which were put together by that certain"
+    },
+    {
+      "start": 4545.17,
+      "end": 4551.59,
+      "text": "person out there who's a name i do know but address i don't and said individual would you"
+    },
+    {
+      "start": 4551.59,
+      "end": 4556.13,
+      "text": "do me a favor write to me again and claim your 10 pound record token here comes the connection"
+    },
+    {
+      "start": 4556.81,
+      "end": 4558.69,
+      "text": "It was Tony Wilson's fault, not mine."
+    },
+    {
+      "start": 4627.96,
+      "end": 5240.12,
+      "text": "Friday Night Connection tonight."
+    },
+    {
+      "start": 5240.24,
+      "end": 5243.68,
+      "text": "Three tracks, and there is a most definite connection between the three."
+    },
+    {
+      "start": 5243.94,
+      "end": 5250.06,
+      "text": "If you think you know what it is, write it on a postcard, letter, any form of communication you care to get involved in."
+    },
+    {
+      "start": 5250.14,
+      "end": 5252.08,
+      "text": "And send it to the Friday Night Connection."
+    },
+    {
+      "start": 5252.52,
+      "end": 5255.68,
+      "text": "BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 5255.68,
+      "end": 5260.74,
+      "text": "and don't forget to put your own friday night connection on the card as well three bits of"
+    },
+    {
+      "start": 5260.74,
+      "end": 5267.04,
+      "text": "music with a theme and the person whose name that i know but i'm not at the moment divulging who put"
+    },
+    {
+      "start": 5267.04,
+      "end": 5271.78,
+      "text": "that one together please identify yourself as soon as possible and we'll dive into the piggy"
+    },
+    {
+      "start": 5271.78,
+      "end": 5287.19,
+      "text": "bank get a few bob for you i.e one 10 pound record token 26 and a half minutes after 11 o'clock have"
+    },
+    {
+      "start": 5287.19,
+      "end": 6059.94,
+      "text": "a listen to the words on this it's a great new song by saxon of course with thin lizzy from live"
+    },
+    {
+      "start": 6059.94,
+      "end": 6064.34,
+      "text": "and dangerous the track was still in love with you and it was especially for annette who has"
+    },
+    {
+      "start": 6064.34,
+      "end": 6069.68,
+      "text": "spent seven good months with alan roberts of evington in leicester and also for neil and greg"
+    },
+    {
+      "start": 6069.68,
+      "end": 6075.66,
+      "text": "and richard and steven tim and everybody in the fifth year of greg's school in easley and hans i"
+    },
+    {
+      "start": 6075.66,
+      "end": 6081.14,
+      "text": "think it is and it's also for trevor white who's over there having a holiday in belfast and before"
+    },
+    {
+      "start": 6081.14,
+      "end": 6085.56,
+      "text": "that you heard something that isn't on the saxon album it was by saxon it was called strangers in"
+    },
+    {
+      "start": 6085.56,
+      "end": 6091.54,
+      "text": "On the night, Fish, Calf and Percy of Talbot's Boarding House Bedford School in Bedford happen to like that band."
+    },
+    {
+      "start": 6092.75,
+      "end": 6095.77,
+      "text": "I've got a gig sheet here of all the gigs that Saxon are going to be doing."
+    },
+    {
+      "start": 6096.23,
+      "end": 6099.87,
+      "text": "On the 16th of Feb, that's tomorrow, they're doing the West Runston Pavilion in West London,"
+    },
+    {
+      "start": 6100.03,
+      "end": 6104.59,
+      "text": "17th of Feb, Red Car, 19th, Nottingham, 22nd, Newcastle."
+    },
+    {
+      "start": 6104.87,
+      "end": 6107.87,
+      "text": "Then the rest of the gigs I've got during February and during March as well."
+    },
+    {
+      "start": 6107.87,
+      "end": 6112.83,
+      "text": "If you'd like a copy of the gig list, just write to me and I'll copy them off and send them to you."
+    },
+    {
+      "start": 6113.43,
+      "end": 6116.21,
+      "text": "Meister here from Julian Frost of Southlands,"
+    },
+    {
+      "start": 6116.35,
+      "end": 6118.43,
+      "text": "Barrow Road, Burnham-on-Sea and Somerset,"
+    },
+    {
+      "start": 6118.53,
+      "end": 6121.61,
+      "text": "because it was he who won the Friday Night Connection tonight."
+    },
+    {
+      "start": 6121.69,
+      "end": 6122.79,
+      "text": "Thanks for the phone call, Julian."
+    },
+    {
+      "start": 6123.19,
+      "end": 6125.71,
+      "text": "You want me to give a mention to everybody at Plymouth Polytechnic?"
+    },
+    {
+      "start": 6125.91,
+      "end": 6126.47,
+      "text": "No problem."
+    },
+    {
+      "start": 6131.66,
+      "end": 6133.36,
+      "text": "More from ten years after."
+    },
+    {
+      "start": 6133.88,
+      "end": 6380.27,
+      "text": "I was in my life"
+    },
+    {
+      "start": 6380.27,
+      "end": 6383.51,
+      "text": "Gotta be, but you'll never be my wife"
+    },
+    {
+      "start": 6383.51,
+      "end": 6392.42,
+      "text": "When they got you"
+    },
+    {
+      "start": 6392.42,
+      "end": 6394.3,
+      "text": "Man, you'll never let go"
+    },
+    {
+      "start": 6394.3,
+      "end": 6400.0,
+      "text": "In the street with sparkling eyes"
+    },
+    {
+      "start": 6400.0,
+      "end": 6402.5,
+      "text": "Don't forget that you know"
+    },
+    {
+      "start": 6402.5,
+      "end": 6403.32,
+      "text": "Sad to crack"
+    },
+    {
+      "start": 6403.32,
+      "end": 6412.17,
+      "text": "When they got you"
+    },
+    {
+      "start": 6412.17,
+      "end": 6414.17,
+      "text": "Man, you'll never let them go"
+    },
+    {
+      "start": 6414.17,
+      "end": 6419.7,
+      "text": "Have to never fight"
+    },
+    {
+      "start": 6419.7,
+      "end": 6425.47,
+      "text": "I know I'm gonna treat this"
+    },
+    {
+      "start": 6425.47,
+      "end": 6426.11,
+      "text": "I know"
+    },
+    {
+      "start": 6426.11,
+      "end": 6429.57,
+      "text": "There's a time when women have got to go"
+    },
+    {
+      "start": 6429.57,
+      "end": 6432.87,
+      "text": "Woman trouble always in my mind"
+    },
+    {
+      "start": 6432.87,
+      "end": 6436.03,
+      "text": "My kind of woman I'll never find"
+    },
+    {
+      "start": 6436.03,
+      "end": 6436.91,
+      "text": "You know"
+    },
+    {
+      "start": 6436.91,
+      "end": 6440.28,
+      "text": "Yes, I know"
+    },
+    {
+      "start": 6440.28,
+      "end": 6444.58,
+      "text": "When they got you"
+    },
+    {
+      "start": 6444.58,
+      "end": 6446.64,
+      "text": "Man, you'll never let them go"
+    },
+    {
+      "start": 6446.64,
+      "end": 6528.77,
+      "text": "Alvin Lee and Ten Years After"
+    },
+    {
+      "start": 6528.77,
+      "end": 6531.09,
+      "text": "in a session they recorded in December 1968"
+    },
+    {
+      "start": 6531.09,
+      "end": 6532.53,
+      "text": "Woman Trouble and Hear Me Calling"
+    },
+    {
+      "start": 6532.53,
+      "end": 6533.97,
+      "text": "and of course now it's ten years later"
+    },
+    {
+      "start": 6533.97,
+      "end": 6535.07,
+      "text": "and a mate of mine's in the band"
+    },
+    {
+      "start": 6535.07,
+      "end": 6537.23,
+      "text": "a gentleman who plays an ace bass"
+    },
+    {
+      "start": 6537.23,
+      "end": 6539.49,
+      "text": "a gentleman by the name of Mick Hawksworth"
+    },
+    {
+      "start": 6539.49,
+      "end": 6541.25,
+      "text": "who lives in the Crystal Palace area of London"
+    },
+    {
+      "start": 6541.25,
+      "end": 6543.55,
+      "text": "Mick, if you're listening, drop round to Broadcasting House"
+    },
+    {
+      "start": 6543.55,
+      "end": 6545.37,
+      "text": "one of these days and I'll buy you a pint of lemonade"
+    },
+    {
+      "start": 6546.52,
+      "end": 6548.4,
+      "text": "Here's a cute little single."
+    },
+    {
+      "start": 6554.53,
+      "end": 6563.79,
+      "text": "Tell no lies that you gave."
+    },
+    {
+      "start": 6751.54,
+      "end": 6753.26,
+      "text": "It's a fact that I live with."
+    },
+    {
+      "start": 6754.12,
+      "end": 6756.34,
+      "text": "It's a fact that I live with."
+    },
+    {
+      "start": 6757.18,
+      "end": 6759.24,
+      "text": "It's a fact that I live with."
+    },
+    {
+      "start": 6759.9,
+      "end": 7067.82,
+      "text": "One of them 12 dreams of Dr. Sardonicus in the track was called When I Touch You."
+    },
+    {
+      "start": 7067.82,
+      "end": 7070.82,
+      "text": "And that was especially for Ross, who's a little dog who thinks the show's great."
+    },
+    {
+      "start": 7071.26,
+      "end": 7074.56,
+      "text": "Because Miss Joanna Kaminsky of 24, I think it is,"
+    },
+    {
+      "start": 7074.56,
+      "end": 7076.32,
+      "text": "Ivy Street, Crossland Moor and Huddersfield"
+    },
+    {
+      "start": 7076.32,
+      "end": 7078.72,
+      "text": "wrote and told me so. Ross, come here, boy."
+    },
+    {
+      "start": 7079.0,
+      "end": 7080.12,
+      "text": "Woof, woof. Thank you."
+    },
+    {
+      "start": 7080.64,
+      "end": 7082.68,
+      "text": "Few mentions here for people that I met up in Coventry"
+    },
+    {
+      "start": 7082.68,
+      "end": 7084.56,
+      "text": "on Tuesday. Chris and Des and Dave and John and Craig"
+    },
+    {
+      "start": 7084.56,
+      "end": 7086.14,
+      "text": "T and Jim and Woody and Paul and Tommy."
+    },
+    {
+      "start": 7086.66,
+      "end": 7088.68,
+      "text": "And also for all the heavy metal friends"
+    },
+    {
+      "start": 7088.68,
+      "end": 7090.7,
+      "text": "up there, including Wes and"
+    },
+    {
+      "start": 7090.7,
+      "end": 7092.48,
+      "text": "Nipper, and for the"
+    },
+    {
+      "start": 7092.48,
+      "end": 7094.42,
+      "text": "Hendy executives, Andy, Tracy, Duncan,"
+    },
+    {
+      "start": 7094.56,
+      "end": 7096.3,
+      "text": "Malcolm, Ian, Teresa, Neil, Mark,"
+    },
+    {
+      "start": 7096.6,
+      "end": 7097.42,
+      "text": "Nicola and Saxon."
+    },
+    {
+      "start": 7263.3,
+      "end": 7265.26,
+      "text": "Saxon and still fit to"
+    },
+    {
+      "start": 7265.26,
+      "end": 7267.12,
+      "text": "boogie. Bill Byford, Paul"
+    },
+    {
+      "start": 7267.12,
+      "end": 7269.12,
+      "text": "Quinn, Graham Oliver, Steve Dawson"
+    },
+    {
+      "start": 7269.12,
+      "end": 7271.1,
+      "text": "and Frank Gill. Nice first session"
+    },
+    {
+      "start": 7271.1,
+      "end": 7273.14,
+      "text": "for the BBC. And that's it for the"
+    },
+    {
+      "start": 7273.14,
+      "end": 7275.24,
+      "text": "Friday Rock Show this week. Hope you enjoyed Ten Years After"
+    },
+    {
+      "start": 7275.24,
+      "end": 7277.28,
+      "text": "and I hope you enjoyed Saxon. Next week"
+    },
+    {
+      "start": 7277.28,
+      "end": 7278.96,
+      "text": "we have Procol Harum"
+    },
+    {
+      "start": 7278.96,
+      "end": 7282.06,
+      "text": "and Money on"
+    },
+    {
+      "start": 7282.06,
+      "end": 7284.3,
+      "text": "not on Saturday tomorrow. Bill"
+    },
+    {
+      "start": 7284.3,
+      "end": 7286.18,
+      "text": "Bruford, Taggart of Thunderbirds, Orchestral"
+    },
+    {
+      "start": 7286.18,
+      "end": 7288.2,
+      "text": "Maneuvers in the Dark, interviewing and chatting and doing"
+    },
+    {
+      "start": 7288.2,
+      "end": 7290.22,
+      "text": "things and the Ian Hunter Band in concert"
+    },
+    {
+      "start": 7290.22,
+      "end": 7291.86,
+      "text": "between 4 and 7.30. Should be good."
+    },
+    {
+      "start": 7292.6,
+      "end": 7294.2,
+      "text": "Richard was our engineer tonight. Richard, we"
+    },
+    {
+      "start": 7294.2,
+      "end": 7296.14,
+      "text": "thank you. Our producer was Tony Wilson. Tony"
+    },
+    {
+      "start": 7296.14,
+      "end": 7297.6,
+      "text": "Wilson will now speak. Speak, Tony."
+    },
+    {
+      "start": 7297.6,
+      "end": 7300.68,
+      "text": "I must not lose the winner's cards, I must not lose the winner's cards, I must not lose the winner's cards."
+    },
+    {
+      "start": 7303.14,
+      "end": 7304.42,
+      "text": "Oh, he's a good ad-libber, isn't he?"
+    },
+    {
+      "start": 7304.78,
+      "end": 7305.46,
+      "text": "Better than I am."
+    },
+    {
+      "start": 7305.78,
+      "end": 7306.88,
+      "text": "I'll see you tomorrow at four o'clock."
+    },
+    {
+      "start": 7307.0,
+      "end": 7308.58,
+      "text": "I'm Thomas Vance in dear old London town."
+    },
+    {
+      "start": 7308.74,
+      "end": 7310.0,
+      "text": "Wherever you are, take care of yourselves."
+    },
+    {
+      "start": 7310.28,
+      "end": 7311.22,
+      "text": "Good night, and God bless."
+    },
+    {
+      "start": 7326.76,
+      "end": 7332.78,
+      "text": "It's midnight, and we're together on all wavelengths, 433, 330, 285, 275, and VHF."
+    },
+    {
+      "start": 7332.94,
+      "end": 7334.66,
+      "text": "And this is Tim Gudgeon in the Midnight Newsroom."
     }
   ]
 }

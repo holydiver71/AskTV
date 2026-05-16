@@ -27,37 +27,44 @@
     {
       "artist": "The Motors",
       "track": "Dancing The Night Away",
-      "details": "LP-The Motors"
+      "details": "LP-The Motors",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Toto",
       "track": "White Sister",
-      "details": "LP-Hydra"
+      "details": "LP-Hydra",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Comfortably Numb",
-      "details": "LP-The Wall"
+      "details": "LP-The Wall",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Kevin Ayers",
       "track": "Dr Dream Theme",
-      "details": "LP-Confessions Of Dr Dream"
+      "details": "LP-Confessions Of Dr Dream",
+      "verified_timestamp": 1561.68
     },
     {
       "artist": "Girl",
       "track": "My Number",
-      "details": "FRS session 1980-01-09"
+      "details": "FRS session 1980-01-09",
+      "verified_timestamp": 1590.11
     },
     {
       "artist": "Black Sabbath",
       "track": "Dirty Women",
-      "details": "LP-Technical Ecstasy"
+      "details": "LP-Technical Ecstasy",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Roy Harper",
       "track": "South Africa",
-      "details": "Harris session 1973-02-14"
+      "details": "Harris session 1973-02-14",
+      "verified_timestamp": 2362.39
     },
     {
       "artist": "Roy Harper",
@@ -67,7 +74,8 @@
     {
       "artist": "Rainbow",
       "track": "Kill The King",
-      "details": "LP-On Stage"
+      "details": "LP-On Stage",
+      "verified_timestamp": 3400.52
     },
     {
       "artist": "Girl",
@@ -77,7 +85,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.92
     },
     {
       "artist": "Girl",
@@ -87,12 +96,14 @@
     {
       "artist": "Uriah Heep",
       "track": "Carry On",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 4865.47
     },
     {
       "artist": "Roy Harper",
       "track": "To Many Movies",
-      "details": "LP-1974-12-05 BBC Session"
+      "details": "LP-1974-12-05 BBC Session",
+      "verified_timestamp": 2362.39
     },
     {
       "artist": "Roy Harper",
@@ -107,7 +118,8 @@
     {
       "artist": "Gary Moore",
       "track": "Back On The Streets",
-      "details": "LP-Back On The Streets"
+      "details": "LP-Back On The Streets",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Girl",
@@ -117,7 +129,8 @@
     {
       "artist": "Roy Harper",
       "track": "Referendum",
-      "details": "Peel session 1975-06-10"
+      "details": "Peel session 1975-06-10",
+      "verified_timestamp": 2362.39
     },
     {
       "artist": "Roy Harper",
@@ -127,7 +140,1200 @@
     {
       "artist": "Heldon",
       "track": "Stand By",
-      "details": "Excerpt; LP-Stand By"
+      "details": "Excerpt; LP-Stand By",
+      "verified_timestamp": 7263.73
+    }
+  ],
+  "transcript": [
+    {
+      "start": 4.98,
+      "end": 21.9,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 21.9,
+      "end": 28.9,
+      "text": "Well, how are you doing? TV and Radio Thomas Vance here. Welcome, once again, to the Friday Rock Show."
+    },
+    {
+      "start": 28.9,
+      "end": 32.9,
+      "text": "Tonight, archive sessions by a man whom some like and some do not."
+    },
+    {
+      "start": 32.9,
+      "end": 38.9,
+      "text": "He's a singer-songwriter who, since he started recording in 1966, has played with some of Britain's finest musicians."
+    },
+    {
+      "start": 38.9,
+      "end": 41.9,
+      "text": "His name is Roy Harper."
+    },
+    {
+      "start": 41.9,
+      "end": 58.66,
+      "text": "Also, we have the first ever recorded session for the BBC by Girl."
+    },
+    {
+      "start": 58.8,
+      "end": 62.32,
+      "text": "We've got classic cuts by Kevin Ayres, Black Sabbath, Rainbow and Gary Moore."
+    },
+    {
+      "start": 62.86,
+      "end": 67.4,
+      "text": "And new releases from Toto, Uriah Heep and a French band by the name of Heldon."
+    },
+    {
+      "start": 67.92,
+      "end": 70.0,
+      "text": "Not forgetting, of course, our Friday Night Connection."
+    },
+    {
+      "start": 70.26,
+      "end": 73.72,
+      "text": "And tonight, I promise you, I will play all the tracks prescribed."
+    },
+    {
+      "start": 75.27,
+      "end": 77.29,
+      "text": "This evening, we start with The Motors."
+    },
+    {
+      "start": 828.8,
+      "end": 831.78,
+      "text": "And that was a track from the new album by Toto, which is called Hydra."
+    },
+    {
+      "start": 831.78,
+      "end": 835.06,
+      "text": "It's just come out on the CBS label and the track was called White Sister."
+    },
+    {
+      "start": 835.06,
+      "end": 842.54,
+      "text": "And that's a really fine American band that includes some of the sons of some of America's greatest ever session band."
+    },
+    {
+      "start": 843.14,
+      "end": 847.22,
+      "text": "And prior to that, a track by The Motors from their 1977 debut album called The Motors."
+    },
+    {
+      "start": 847.44,
+      "end": 848.96,
+      "text": "The track was Dancing the Light Away."
+    },
+    {
+      "start": 849.68,
+      "end": 852.12,
+      "text": "Whatever happened to The Motors, they really fell by the wayside."
+    },
+    {
+      "start": 852.22,
+      "end": 854.24,
+      "text": "So indeed did Bram Tchaikovsky, The Offshoot."
+    },
+    {
+      "start": 854.96,
+      "end": 859.7,
+      "text": "Nonetheless, we played that track by The Motors for Dave Telford and Fungus Bryn Bonham"
+    },
+    {
+      "start": 859.7,
+      "end": 863.38,
+      "text": "and Crawfee Babe Duncan and John the Bank Harris and Dave and Sarah"
+    },
+    {
+      "start": 863.38,
+      "end": 865.28,
+      "text": "and Tog and Nat and Kev"
+    },
+    {
+      "start": 865.28,
+      "end": 868.56,
+      "text": "and all the good music lovers at Itchen College in Southampton."
+    },
+    {
+      "start": 874.32,
+      "end": 875.72,
+      "text": "10-14, The Floyd."
+    },
+    {
+      "start": 1557.04,
+      "end": 1558.82,
+      "text": "And that was a track that came out in 1974"
+    },
+    {
+      "start": 1558.82,
+      "end": 1561.56,
+      "text": "on an album called The Confessions of Dr. Dream."
+    },
+    {
+      "start": 1561.68,
+      "end": 1564.56,
+      "text": "It was the Dr. Dream theme by Kevin Ayres."
+    },
+    {
+      "start": 1565.54,
+      "end": 1568.16,
+      "text": "Most especially pulled out of the BBC Record Library,"
+    },
+    {
+      "start": 1568.52,
+      "end": 1571.18,
+      "text": "that home of millions of pieces of good music for Nick Bishop,"
+    },
+    {
+      "start": 1571.64,
+      "end": 1575.0,
+      "text": "at 15 Grove Avenue in Harpenden in Hertfordshire."
+    },
+    {
+      "start": 1575.74,
+      "end": 1578.82,
+      "text": "It was also for a lady by the name of Wendy in Worthing,"
+    },
+    {
+      "start": 1578.82,
+      "end": 1585.21,
+      "text": "who's in the bar as always at this time of night on a friday and before that something from the"
+    },
+    {
+      "start": 1585.21,
+      "end": 1590.11,
+      "text": "wall by of course the pink floyd for jebo for snack and also for dave three lonely and desperate"
+    },
+    {
+      "start": 1590.11,
+      "end": 1597.6,
+      "text": "lads who are well to the front of the mind of a girl called mandy also related to stephen kellett"
+    },
+    {
+      "start": 1597.6,
+      "end": 1603.76,
+      "text": "of number two kirk b road i think it is in culcheth waddington in cheshire and also for"
+    },
+    {
+      "start": 1603.76,
+      "end": 1611.01,
+      "text": "ian wallace of redcar 26 minutes after 10 o'clock it's the friday rock show and now i'd like to tell"
+    },
+    {
+      "start": 1611.01,
+      "end": 1614.71,
+      "text": "you about something that we're going to be doing on the 8th of february we're going to be starting"
+    },
+    {
+      "start": 1614.71,
+      "end": 1620.55,
+      "text": "a sort of every once in a while series which is going to be called flashback and on the february"
+    },
+    {
+      "start": 1620.55,
+      "end": 1626.35,
+      "text": "the 8th we're going to be doing flashback 67 the whole of the two-hour period of the friday rock"
+    },
+    {
+      "start": 1626.35,
+      "end": 1633.01,
+      "text": "show will be interwoven around the music of 1967 now if you can think of a track that relates to"
+    },
+    {
+      "start": 1633.01,
+      "end": 1638.15,
+      "text": "that particular year that's a favorite of yours would you let me know write it on a card and send"
+    },
+    {
+      "start": 1638.15,
+      "end": 1647.85,
+      "text": "to flashback 67 the friday rock show bbc radio 1 london w1a4 ww okay your favorite track from"
+    },
+    {
+      "start": 1647.85,
+      "end": 1656.75,
+      "text": "1967 to the friday rock show bbc radio 1 london w1a4 ww and if you can't think of one then ask"
+    },
+    {
+      "start": 1656.75,
+      "end": 2300.4,
+      "text": "your dad because i'm sure he can and now here's the first of four by girl from 1976 from the album"
+    },
+    {
+      "start": 2300.4,
+      "end": 2307.51,
+      "text": "technical ecstasy and dirty women not too often do we get around to playing black sabbath but when"
+    },
+    {
+      "start": 2307.51,
+      "end": 2312.53,
+      "text": "we do my headphones ring with appreciation as indeed i would think to the years of stewart"
+    },
+    {
+      "start": 2312.53,
+      "end": 2317.93,
+      "text": "jefferson of 11 i know that's 14 just up the road st leonard street lanark in scotland who wanted"
+    },
+    {
+      "start": 2317.93,
+      "end": 2322.27,
+      "text": "to hear that track so did tony of scunthorpe and he wants me to dedicate that to his kid"
+    },
+    {
+      "start": 2322.27,
+      "end": 2326.45,
+      "text": "who's in hospital somewhere during the month of january i hope it all gets better for you"
+    },
+    {
+      "start": 2326.45,
+      "end": 2330.26,
+      "text": "Also we've played that for John Caldicott of Brown's Green,"
+    },
+    {
+      "start": 2330.44,
+      "end": 2332.94,
+      "text": "Umberslade, Hockley Heath in the West Midlands,"
+    },
+    {
+      "start": 2333.32,
+      "end": 2337.46,
+      "text": "and for Stuart Wallace of No. 22 Elton Street, Redcar in Cleveland."
+    },
+    {
+      "start": 2339.24,
+      "end": 2342.38,
+      "text": "And before that you heard the first of four from one of our sessions tonight"
+    },
+    {
+      "start": 2342.38,
+      "end": 2346.98,
+      "text": "by Girl, who are a band who are currently on tour with UFO around the country,"
+    },
+    {
+      "start": 2347.1,
+      "end": 2350.3,
+      "text": "and I hear that with every gig they're getting better."
+    },
+    {
+      "start": 2350.6,
+      "end": 2351.76,
+      "text": "The track you heard was my number."
+    },
+    {
+      "start": 2359.19,
+      "end": 2362.39,
+      "text": "Back now to the 14th of the 2nd of 1973"
+    },
+    {
+      "start": 2362.39,
+      "end": 2365.65,
+      "text": "for the first of three archive sets from Roy Harper."
+    },
+    {
+      "start": 2839.52,
+      "end": 2871.08,
+      "text": "Roy Harper has recorded in 1973"
+    },
+    {
+      "start": 2871.8,
+      "end": 2875.5,
+      "text": "A couple of tracks from a session that he did on the 14th of the 2nd of that particular year,"
+    },
+    {
+      "start": 2875.68,
+      "end": 2878.4,
+      "text": "South Africa and Little Lady."
+    },
+    {
+      "start": 2878.92,
+      "end": 3398.87,
+      "text": "And the song that also is their single, which is called Do You Love Me."
+    },
+    {
+      "start": 3400.52,
+      "end": 3404.56,
+      "text": "And before that, you heard Kill the King from Rainbow from their album on stage."
+    },
+    {
+      "start": 3404.56,
+      "end": 3409.26,
+      "text": "And that was especially from Margaretha Pacey, who had her birthday on Wednesday."
+    },
+    {
+      "start": 3409.46,
+      "end": 3410.76,
+      "text": "Happy birthday for last Wednesday."
+    },
+    {
+      "start": 3411.42,
+      "end": 3415.22,
+      "text": "And she wants me to say hello to everybody at the Upper Six at Samuel Lloyd Comprehensive School,"
+    },
+    {
+      "start": 3415.68,
+      "end": 3417.78,
+      "text": "especially those who went to Dorchester last September,"
+    },
+    {
+      "start": 3418.04,
+      "end": 3421.24,
+      "text": "and everybody who's going to see Rainbow at Leicester in March."
+    },
+    {
+      "start": 3421.4,
+      "end": 3422.34,
+      "text": "That should be a good occasion."
+    },
+    {
+      "start": 3422.8,
+      "end": 3424.56,
+      "text": "Margareta, I hope you have a lovely birthday."
+    },
+    {
+      "start": 3424.82,
+      "end": 3425.0,
+      "text": "Really."
+    },
+    {
+      "start": 3426.77,
+      "end": 3431.61,
+      "text": "Also, Rainbow was for the Bristol University sailing team"
+    },
+    {
+      "start": 3431.61,
+      "end": 3433.81,
+      "text": "and all the supporters of The Bust,"
+    },
+    {
+      "start": 3434.37,
+      "end": 3435.33,
+      "text": "of which, of course, I'm one,"
+    },
+    {
+      "start": 3435.61,
+      "end": 3439.35,
+      "text": "especially Mal and Julian and Clintz and David and Ralph and Kate and Merv and Sue,"
+    },
+    {
+      "start": 3439.79,
+      "end": 3442.93,
+      "text": "and tell them to get back in training and to stop drinking so much."
+    },
+    {
+      "start": 3444.6,
+      "end": 3446.54,
+      "text": "It was also for Jack Russell and Tom Atherton"
+    },
+    {
+      "start": 3446.54,
+      "end": 3448.7,
+      "text": "and Toby Maudsley of Morrison House."
+    },
+    {
+      "start": 3448.7,
+      "end": 3453.74,
+      "text": "Get this, Giggleswick School, near Settle in North Yorkshire."
+    },
+    {
+      "start": 3454.3,
+      "end": 3455.78,
+      "text": "And who cares about the prefects?"
+    },
+    {
+      "start": 3456.56,
+      "end": 3461.1,
+      "text": "And finally for Neil the Hustler, the officer commanding the Marlborough Avenue platoon"
+    },
+    {
+      "start": 3461.1,
+      "end": 3465.92,
+      "text": "of the 10th Battalion of the Alabama Pheasant Pluckers."
+    },
+    {
+      "start": 3466.48,
+      "end": 3467.52,
+      "text": "Got that one out all right."
+    },
+    {
+      "start": 3467.96,
+      "end": 3469.52,
+      "text": "It's time now for our Friday Night Connection."
+    },
+    {
+      "start": 3469.6,
+      "end": 3473.02,
+      "text": "Last week the tracks we played, well, most of the tracks we played were"
+    },
+    {
+      "start": 3473.02,
+      "end": 3476.42,
+      "text": "On the Air by Peter Gabriel, Radio by Steve Hillich,"
+    },
+    {
+      "start": 3476.42,
+      "end": 3479.0,
+      "text": "And then Space Station No. 5 by Montrose."
+    },
+    {
+      "start": 3479.08,
+      "end": 3479.94,
+      "text": "But I didn't actually play that."
+    },
+    {
+      "start": 3480.06,
+      "end": 3481.34,
+      "text": "I played the wrong track."
+    },
+    {
+      "start": 3481.54,
+      "end": 3482.72,
+      "text": "But I told you what the right track was."
+    },
+    {
+      "start": 3482.78,
+      "end": 3484.18,
+      "text": "I actually played Bad Motor Scooter."
+    },
+    {
+      "start": 3484.28,
+      "end": 3486.54,
+      "text": "It should have been Space Station No. 5 by Montrose."
+    },
+    {
+      "start": 3486.94,
+      "end": 3489.46,
+      "text": "On the air, radio, Space Station No. 5."
+    },
+    {
+      "start": 3489.96,
+      "end": 3493.96,
+      "text": "The answer, radio, station, communications, etc."
+    },
+    {
+      "start": 3494.6,
+      "end": 3498.16,
+      "text": "And the winner, the person that gets the £10 record token, is Hugh Jones."
+    },
+    {
+      "start": 3498.82,
+      "end": 3499.4,
+      "text": "Well done, sir."
+    },
+    {
+      "start": 3499.92,
+      "end": 3503.74,
+      "text": "Of 256 Weyhill Road, Andover in Hampshire."
+    },
+    {
+      "start": 3504.32,
+      "end": 3504.72,
+      "text": "Hampshire."
+    },
+    {
+      "start": 3504.9,
+      "end": 3505.52,
+      "text": "Thank you, pardon me."
+    },
+    {
+      "start": 3505.52,
+      "end": 3508.06,
+      "text": "Get yourself a £10 record token, congratulations"
+    },
+    {
+      "start": 3508.06,
+      "end": 3511.26,
+      "text": "And also you've put together a Friday Night Connection of your own"
+    },
+    {
+      "start": 3511.26,
+      "end": 3513.4,
+      "text": "Three bits of music that have a connection"
+    },
+    {
+      "start": 3513.4,
+      "end": 3515.94,
+      "text": "And it starts off with my favourite track of last year"
+    },
+    {
+      "start": 3515.94,
+      "end": 4451.73,
+      "text": "The Friday Night Connection put together by Hugh Jones"
+    },
+    {
+      "start": 4451.73,
+      "end": 4455.55,
+      "text": "Of 256 Weyhill Road, Andover in Hampshire"
+    },
+    {
+      "start": 4455.55,
+      "end": 4458.21,
+      "text": "Mr Jones, it was a pleasure"
+    },
+    {
+      "start": 4458.21,
+      "end": 4462.12,
+      "text": "Somewhere within those three bits of music"
+    },
+    {
+      "start": 4462.12,
+      "end": 4464.28,
+      "text": "There is a definite connection, there is a theme"
+    },
+    {
+      "start": 4464.28,
+      "end": 4467.0,
+      "text": "There is an umbilical cord, call it what you like"
+    },
+    {
+      "start": 4467.0,
+      "end": 4470.48,
+      "text": "If you know what it is, jot down your answer on a postcard"
+    },
+    {
+      "start": 4470.48,
+      "end": 4473.34,
+      "text": "in a letter, send it on telegram, we don't mind"
+    },
+    {
+      "start": 4473.34,
+      "end": 4475.18,
+      "text": "just so long as you send it to us"
+    },
+    {
+      "start": 4475.18,
+      "end": 4476.96,
+      "text": "that is, the Friday Night Connection"
+    },
+    {
+      "start": 4476.96,
+      "end": 4479.5,
+      "text": "the Friday Rock Show, BBC Radio 1"
+    },
+    {
+      "start": 4479.5,
+      "end": 4481.64,
+      "text": "London W1A4WW"
+    },
+    {
+      "start": 4481.64,
+      "end": 4483.12,
+      "text": "but don't forget"
+    },
+    {
+      "start": 4483.12,
+      "end": 4485.54,
+      "text": "put together your own Friday Night Connection as well"
+    },
+    {
+      "start": 4485.54,
+      "end": 4487.34,
+      "text": "three bits of music with a theme"
+    },
+    {
+      "start": 4487.34,
+      "end": 4490.22,
+      "text": "and you might win yourself a £10 record token"
+    },
+    {
+      "start": 4490.22,
+      "end": 4492.12,
+      "text": "and more power to your elbow"
+    },
+    {
+      "start": 4492.12,
+      "end": 4499.9,
+      "text": "it's about 11.13 and a bit"
+    },
+    {
+      "start": 4499.9,
+      "end": 4501.38,
+      "text": "can I remind you about a programme"
+    },
+    {
+      "start": 4501.38,
+      "end": 4503.28,
+      "text": "that we're going to be doing on February the 8th"
+    },
+    {
+      "start": 4503.28,
+      "end": 4506.22,
+      "text": "which is the first of a sort of, well, a series of programs."
+    },
+    {
+      "start": 4506.6,
+      "end": 4508.44,
+      "text": "The first one is called Flashback 1967."
+    },
+    {
+      "start": 4508.84,
+      "end": 4512.0,
+      "text": "The whole two hours is going to be built around the music of 1967."
+    },
+    {
+      "start": 4512.62,
+      "end": 4515.3,
+      "text": "We'd like to know your favorite track from that particular era."
+    },
+    {
+      "start": 4515.84,
+      "end": 4518.22,
+      "text": "So if you jot that down on a postcard as well, we'd be grateful."
+    },
+    {
+      "start": 4518.36,
+      "end": 4520.58,
+      "text": "And if you'd address that postcard to Flashback 67,"
+    },
+    {
+      "start": 4521.06,
+      "end": 4524.28,
+      "text": "that would make it on an administrative level easier."
+    },
+    {
+      "start": 4525.23,
+      "end": 4526.33,
+      "text": "A bit of information here."
+    },
+    {
+      "start": 4526.33,
+      "end": 4528.49,
+      "text": "In that program, we will be featuring"
+    },
+    {
+      "start": 4528.49,
+      "end": 4530.71,
+      "text": "Session Stuff by Hendrix,"
+    },
+    {
+      "start": 4531.79,
+      "end": 4532.25,
+      "text": "Cream,"
+    },
+    {
+      "start": 4533.09,
+      "end": 4533.49,
+      "text": "Who,"
+    },
+    {
+      "start": 4533.69,
+      "end": 4536.43,
+      "text": "And the Pink Floyd, that's on February the 8th."
+    },
+    {
+      "start": 4536.85,
+      "end": 4544.42,
+      "text": "And now back to Girl."
+    },
+    {
+      "start": 4544.84,
+      "end": 4859.73,
+      "text": "It's a new single that's just come out."
+    },
+    {
+      "start": 4859.79,
+      "end": 4862.83,
+      "text": "It's on the bronze label, and it's nice to see some new product,"
+    },
+    {
+      "start": 4862.99,
+      "end": 4865.01,
+      "text": "well, newish product, if you like, by Uriah Heep."
+    },
+    {
+      "start": 4865.47,
+      "end": 4866.65,
+      "text": "A single called Carry On."
+    },
+    {
+      "start": 4866.75,
+      "end": 4869.47,
+      "text": "And before that, you heard something from our first ever session by Girl."
+    },
+    {
+      "start": 4869.91,
+      "end": 4871.87,
+      "text": "The track was lovely, Lorraine."
+    },
+    {
+      "start": 4874.62,
+      "end": 4890.47,
+      "text": "This is Frank Zappa, and you owe it to yourself"
+    },
+    {
+      "start": 4890.47,
+      "end": 4894.89,
+      "text": "to listen to Star Special on Sunday at 7 o'clock on Radio 1"
+    },
+    {
+      "start": 4894.89,
+      "end": 4900.49,
+      "text": "because it's going to be simply the best radio program you've ever heard in your life."
+    },
+    {
+      "start": 4912.13,
+      "end": 4913.33,
+      "text": "I'd say absolutely both."
+    },
+    {
+      "start": 4913.49,
+      "end": 4916.43,
+      "text": "That's Frank Zappa on Star Special this coming Sunday at 7 o'clock,"
+    },
+    {
+      "start": 4916.53,
+      "end": 4919.75,
+      "text": "275-285 and stereo, VHF."
+    },
+    {
+      "start": 4919.91,
+      "end": 4922.37,
+      "text": "Back in 74, Roy Harper did this."
+    },
+    {
+      "start": 5317.66,
+      "end": 5625.31,
+      "text": "The tracks that he recorded on the 5th of the 12th of 1974. 12 hours of sunset, and prior to that, too many movies."
+    },
+    {
+      "start": 5626.71,
+      "end": 5634.24,
+      "text": "If you read the life story of Roy Harper, you can actually, I think, understand why he sings the way that he does."
+    },
+    {
+      "start": 5634.24,
+      "end": 5647.12,
+      "text": "He renders me very contemplative. Incredibly intricate man. I don't actually think I yet understand what he's doing at all."
+    },
+    {
+      "start": 5648.54,
+      "end": 5649.64,
+      "text": "It certainly makes you think."
+    },
+    {
+      "start": 5650.42,
+      "end": 6113.36,
+      "text": "The album Back on the Streets, and the track was Back on the Streets,"
+    },
+    {
+      "start": 6113.42,
+      "end": 6115.8,
+      "text": "and I played it for Stephen Knowles, who lives at 36,"
+    },
+    {
+      "start": 6116.26,
+      "end": 6120.78,
+      "text": "I think it's Lenehan Park in St. Phil Road, Belfast, in Northern Ireland."
+    },
+    {
+      "start": 6124.3,
+      "end": 6126.8,
+      "text": "I'd also like to mention a few people who are on this card."
+    },
+    {
+      "start": 6126.9,
+      "end": 6131.66,
+      "text": "That's Jerry Peel and Matthew Shirley of Study 12, Littleton, Stowe School, Buckingham."
+    },
+    {
+      "start": 6131.98,
+      "end": 6134.62,
+      "text": "And they want to say hello to all the fellow sufferers"
+    },
+    {
+      "start": 6134.62,
+      "end": 6137.92,
+      "text": "and a special happy fourth birthday to their good mate by the name of Clank."
+    },
+    {
+      "start": 6137.92,
+      "end": 6140.92,
+      "text": "And also, I must mention this gentleman"
+    },
+    {
+      "start": 6140.92,
+      "end": 6143.1,
+      "text": "His name is Richard Hender, he's age 15"
+    },
+    {
+      "start": 6143.1,
+      "end": 6146.06,
+      "text": "This is going to be his last Friday Night Rock show for some time"
+    },
+    {
+      "start": 6146.06,
+      "end": 6148.56,
+      "text": "Because he's off to Hong Kong for the next two years"
+    },
+    {
+      "start": 6148.56,
+      "end": 6151.04,
+      "text": "Richard, I hate to tell you, but every weekend in Hong Kong"
+    },
+    {
+      "start": 6151.04,
+      "end": 6153.28,
+      "text": "I do the Top 20 show, so you can't get away"
+    },
+    {
+      "start": 6153.28,
+      "end": 6163.11,
+      "text": "19 to Midnight, and our final one by Girl"
+    },
+    {
+      "start": 6163.11,
+      "end": 6333.11,
+      "text": "That's the old King's number, called You Really Got Me"
+    },
+    {
+      "start": 6333.11,
+      "end": 6334.55,
+      "text": "Performed by Girl"
+    },
+    {
+      "start": 6334.55,
+      "end": 6336.67,
+      "text": "Who are Phil Collin on lead guitar"
+    },
+    {
+      "start": 6336.67,
+      "end": 6337.95,
+      "text": "Philip Lewis on lead vocals"
+    },
+    {
+      "start": 6337.95,
+      "end": 6339.29,
+      "text": "Jerry Laffey on guitar"
+    },
+    {
+      "start": 6339.29,
+      "end": 6340.31,
+      "text": "Simon Laffey on bass"
+    },
+    {
+      "start": 6340.31,
+      "end": 6342.09,
+      "text": "and Dave Gaynor on drums."
+    },
+    {
+      "start": 6342.29,
+      "end": 6343.61,
+      "text": "Tomorrow night you can see them in Birmingham."
+    },
+    {
+      "start": 6344.07,
+      "end": 6346.05,
+      "text": "Then they do Coventry, Sheffield, Manchester,"
+    },
+    {
+      "start": 6346.79,
+      "end": 6348.15,
+      "text": "Hanley, Bristol, Southampton,"
+    },
+    {
+      "start": 6348.25,
+      "end": 6350.29,
+      "text": "a couple of dates in London, the 5th and 6th of February."
+    },
+    {
+      "start": 6350.99,
+      "end": 6352.99,
+      "text": "And they, of course, are supporting at the moment UFO."
+    },
+    {
+      "start": 6353.35,
+      "end": 6355.43,
+      "text": "They have an album which is on the market"
+    },
+    {
+      "start": 6355.43,
+      "end": 6358.11,
+      "text": "on the Jet record label which is called Sheer Greed."
+    },
+    {
+      "start": 6358.57,
+      "end": 6360.91,
+      "text": "But may I say, and this may sound like a grovel,"
+    },
+    {
+      "start": 6360.91,
+      "end": 6362.85,
+      "text": "but it ain't, even though he is behind me."
+    },
+    {
+      "start": 6363.17,
+      "end": 6365.19,
+      "text": "I think the session as produced for this show tonight"
+    },
+    {
+      "start": 6365.19,
+      "end": 6368.47,
+      "text": "by Tony Wilson is even better than the album."
+    },
+    {
+      "start": 6369.09,
+      "end": 6370.95,
+      "text": "Back to 75 and Roy Harper."
+    },
+    {
+      "start": 6521.03,
+      "end": 6961.34,
+      "text": "And Trigger, as recorded on the 10th of June, 1975."
+    },
+    {
+      "start": 6961.72,
+      "end": 6963.4,
+      "text": "Trigger were Chris Spedding on the lead guitar,"
+    },
+    {
+      "start": 6963.54,
+      "end": 6966.32,
+      "text": "Dave Cochran on the bass, and Bill Bruford on the drums."
+    },
+    {
+      "start": 6966.86,
+      "end": 6968.22,
+      "text": "And we dug out that archive session,"
+    },
+    {
+      "start": 6968.34,
+      "end": 6971.36,
+      "text": "especially for Simon Middleton of St. Albans in Hertfordshire,"
+    },
+    {
+      "start": 6971.36,
+      "end": 6973.44,
+      "text": "for Dave Howe of Clacton-on-Sea in Essex"
+    },
+    {
+      "start": 6973.44,
+      "end": 6976.34,
+      "text": "and for Keith Chivers of Canterbury in Kent"
+    },
+    {
+      "start": 6976.34,
+      "end": 6978.54,
+      "text": "who wants to be remembered to some mates of his,"
+    },
+    {
+      "start": 6978.66,
+      "end": 6980.1,
+      "text": "Nick and Tony Ruby"
+    },
+    {
+      "start": 6980.1,
+      "end": 6983.12,
+      "text": "and also a gentleman he hasn't seen for a long, long time"
+    },
+    {
+      "start": 6983.12,
+      "end": 6984.96,
+      "text": "by the name of John Adie."
+    },
+    {
+      "start": 6985.38,
+      "end": 6987.04,
+      "text": "And we also played it for Jay Soanes,"
+    },
+    {
+      "start": 6987.22,
+      "end": 6989.54,
+      "text": "P. Soaney, Jay Waters, I think it is,"
+    },
+    {
+      "start": 6989.64,
+      "end": 6990.58,
+      "text": "and Dee Tooth."
+    },
+    {
+      "start": 6990.98,
+      "end": 6993.1,
+      "text": "And finally for Rajan Anand"
+    },
+    {
+      "start": 6993.1,
+      "end": 6995.64,
+      "text": "who lives in Port Rush in County Antrim"
+    },
+    {
+      "start": 6995.64,
+      "end": 6996.8,
+      "text": "in Northern Ireland."
+    },
+    {
+      "start": 6997.38,
+      "end": 6998.82,
+      "text": "It's coming up to five minutes to midnight"
+    },
+    {
+      "start": 6998.82,
+      "end": 7000.34,
+      "text": "and to close, here's just part"
+    },
+    {
+      "start": 7000.34,
+      "end": 7002.36,
+      "text": "of a very, very long piece of music"
+    },
+    {
+      "start": 7002.36,
+      "end": 7004.56,
+      "text": "by a French band called"
+    },
+    {
+      "start": 7004.56,
+      "end": 7005.5,
+      "text": "Heldon."
+    },
+    {
+      "start": 7006.08,
+      "end": 7259.99,
+      "text": "If you like that sort of heavy music, you'll find that on an album"
+    },
+    {
+      "start": 7259.99,
+      "end": 7261.65,
+      "text": "which is on the Egg Label."
+    },
+    {
+      "start": 7261.99,
+      "end": 7263.51,
+      "text": "And it's by Heldon,"
+    },
+    {
+      "start": 7263.73,
+      "end": 7266.09,
+      "text": "and it's called Stand By."
+    },
+    {
+      "start": 7269.42,
+      "end": 7270.76,
+      "text": "And that's it. Heavy version"
+    },
+    {
+      "start": 7270.76,
+      "end": 7272.38,
+      "text": "of the program tonight. Hope you enjoyed it."
+    },
+    {
+      "start": 7272.44,
+      "end": 7273.42,
+      "text": "We did in the studio here."
+    },
+    {
+      "start": 7274.36,
+      "end": 7276.62,
+      "text": "Now, Barclay James Harvest next week"
+    },
+    {
+      "start": 7276.62,
+      "end": 7278.92,
+      "text": "has an archive session, and a repeat of that session"
+    },
+    {
+      "start": 7278.92,
+      "end": 7279.9,
+      "text": "we had by Terranova."
+    },
+    {
+      "start": 7280.48,
+      "end": 7282.96,
+      "text": "Our engineers tonight were Eddie and Paul"
+    },
+    {
+      "start": 7282.96,
+      "end": 7287.14,
+      "text": "and John Pelaw on Monday's got The Piranhas and P.I.L."
+    },
+    {
+      "start": 7287.22,
+      "end": 7288.66,
+      "text": "He's also got the new select album"
+    },
+    {
+      "start": 7288.66,
+      "end": 7290.78,
+      "text": "and the new album by The Flying Lizards."
+    },
+    {
+      "start": 7290.98,
+      "end": 7292.28,
+      "text": "That's on Monday with Mr. Pelaw."
+    },
+    {
+      "start": 7293.12,
+      "end": 7295.4,
+      "text": "Rock on Saturday, tomorrow between 4 and 7.30,"
+    },
+    {
+      "start": 7295.48,
+      "end": 7296.96,
+      "text": "interviews with John and Vangelis,"
+    },
+    {
+      "start": 7297.08,
+      "end": 7298.18,
+      "text": "Lena Lovitch and Nazareth,"
+    },
+    {
+      "start": 7298.3,
+      "end": 7299.56,
+      "text": "plus the new Rainbow single"
+    },
+    {
+      "start": 7299.56,
+      "end": 7301.38,
+      "text": "and some new bands from Australia."
+    },
+    {
+      "start": 7302.14,
+      "end": 7304.32,
+      "text": "My name is Tommy Vance and I'm here to tell you,"
+    },
+    {
+      "start": 7304.74,
+      "end": 7305.92,
+      "text": "the whole of the country, that is,"
+    },
+    {
+      "start": 7306.22,
+      "end": 7307.92,
+      "text": "that Tony Wilson, our producer tonight,"
+    },
+    {
+      "start": 7307.98,
+      "end": 7308.84,
+      "text": "has nothing to say."
+    },
+    {
+      "start": 7310.03,
+      "end": 7311.21,
+      "text": "Go on, Tony, say nothing."
+    },
+    {
+      "start": 7311.55,
+      "end": 7311.87,
+      "text": "Nothing."
+    },
+    {
+      "start": 7312.13,
+      "end": 7312.49,
+      "text": "Thank you."
+    },
+    {
+      "start": 7313.21,
+      "end": 7316.65,
+      "text": "Wherever you are in this country of ours, wherever you are in the world, take care."
+    },
+    {
+      "start": 7316.65,
+      "end": 7318.73,
+      "text": "I'll see you at 4 o'clock tomorrow here on Radio 1."
+    },
+    {
+      "start": 7318.93,
+      "end": 7321.33,
+      "text": "From me, Tommy Vance in London, good night and God bless."
     }
   ]
 }

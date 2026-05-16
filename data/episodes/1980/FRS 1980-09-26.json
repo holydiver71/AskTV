@@ -17,52 +17,1098 @@
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Euthanasia",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Yes",
       "track": "Into The Lens",
-      "details": "LP-Drama"
+      "details": "LP-Drama",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Utopia",
       "track": "Road To Utopia",
-      "details": "LP-Adventures In Utopia"
+      "details": "LP-Adventures In Utopia",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Teaze",
       "track": "Boys Night Out",
-      "details": "LP-Body Shots"
+      "details": "LP-Body Shots",
+      "verified_timestamp": 1363.08
     },
     {
       "artist": "Gentle Giant",
       "track": "For Nobody",
-      "details": "LP-Missing Piece"
+      "details": "LP-Missing Piece",
+      "verified_timestamp": 1943.54
     },
     {
       "artist": "Jethro Tull",
       "track": "Fylingdale Flyer",
-      "details": "LP-A"
+      "details": "LP-A",
+      "verified_timestamp": 1928.88
     },
     {
       "artist": "Montrose",
       "track": "Music Man",
-      "details": "LP-Jump On It"
+      "details": "LP-Jump On It",
+      "verified_timestamp": 2458.26
     },
     {
       "artist": "Gamma",
       "track": "Mayday",
-      "details": "LP-Gamma 2"
+      "details": "LP-Gamma 2",
+      "verified_timestamp": 1971.58
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.32
     },
     {
       "artist": "Led Zeppelin",
       "track": "Paris Theatre, London 1st April 1971",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 6.0,
+      "text": "...knew him. The man's been charged with concealing stolen property. And that's all from the Radio 1 news desk at 10.03."
+    },
+    {
+      "start": 6.0,
+      "end": 16.9,
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+    },
+    {
+      "start": 16.9,
+      "end": 33.85,
+      "text": "Oh, hello there. TV on the radio here, Thomas the Vance, and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 33.85,
+      "end": 41.3,
+      "text": "Tonight, an opportunity to hear out of the archives a recording of a band that'll probably never quite sound the same again."
+    },
+    {
+      "start": 41.3,
+      "end": 46.3,
+      "text": "Recorded for Radio 1 in 1971, we have Led Zeppelin in concert."
+    },
+    {
+      "start": 59.92,
+      "end": 63.62,
+      "text": "We've got some classic cuts by Utopia, Gentle Giant and Montrose, among others."
+    },
+    {
+      "start": 63.76,
+      "end": 66.68,
+      "text": "New releases by Jethro Tull, Gamma, Yes and Tease."
+    },
+    {
+      "start": 67.32,
+      "end": 70.82,
+      "text": "And, of course, the Friday Night Connection, the answer to last week's and a brand new one."
+    },
+    {
+      "start": 75.0,
+      "end": 77.9,
+      "text": "But this evening, we start with the Tigers of Pantang."
+    },
+    {
+      "start": 78.76,
+      "end": 810.53,
+      "text": "That, of course, was Into the Lens from the album called Drama that's still in the top 30."
+    },
+    {
+      "start": 811.01,
+      "end": 813.61,
+      "text": "The revitalized Yes, and I think it's magic."
+    },
+    {
+      "start": 814.35,
+      "end": 818.88,
+      "text": "And before that, you heard the new single by the Tigers of Pantang."
+    },
+    {
+      "start": 818.98,
+      "end": 821.64,
+      "text": "The single is called Euthanasia, and I think that's a piece of music"
+    },
+    {
+      "start": 821.64,
+      "end": 824.16,
+      "text": "that was first ever heard here on the Friday Rock Show"
+    },
+    {
+      "start": 824.16,
+      "end": 825.9,
+      "text": "when we did a session with them some time ago."
+    },
+    {
+      "start": 826.93,
+      "end": 829.61,
+      "text": "And I played the Yes track for Mediel Kennard,"
+    },
+    {
+      "start": 829.71,
+      "end": 831.51,
+      "text": "who lives in Lonsdale House these days"
+    },
+    {
+      "start": 831.51,
+      "end": 833.95,
+      "text": "at Rutland Sixth Form, Barleythorpe Road in Oakham."
+    },
+    {
+      "start": 834.61,
+      "end": 837.09,
+      "text": "And also for Elizabeth and Maureen,"
+    },
+    {
+      "start": 837.43,
+      "end": 840.19,
+      "text": "and Mrs Finnegan and Peter and Mark and Sam the Dog,"
+    },
+    {
+      "start": 840.23,
+      "end": 841.41,
+      "text": "who are over there in Belfast."
+    },
+    {
+      "start": 844.7,
+      "end": 847.34,
+      "text": "It's 10.16, and this is Todd Rundgren."
+    },
+    {
+      "start": 847.34,
+      "end": 1357.3,
+      "text": "To the best of my knowledge, that album is not available in this country"
+    },
+    {
+      "start": 1357.3,
+      "end": 1359.9,
+      "text": "other than the fact that you can buy it in import shops."
+    },
+    {
+      "start": 1360.04,
+      "end": 1362.88,
+      "text": "It's by a band called Tease, recorded in Quebec in Canada."
+    },
+    {
+      "start": 1363.08,
+      "end": 1367.2,
+      "text": "The album's called Body Shots, and the track you heard there was Boys Night Out."
+    },
+    {
+      "start": 1367.66,
+      "end": 1369.9,
+      "text": "Prior to that, something from one of my all-time favorite albums."
+    },
+    {
+      "start": 1370.02,
+      "end": 1371.14,
+      "text": "I must dig it out and play it again."
+    },
+    {
+      "start": 1371.26,
+      "end": 1372.94,
+      "text": "The album's called Adventures in Utopia."
+    },
+    {
+      "start": 1373.44,
+      "end": 1376.46,
+      "text": "It's by Utopia. The track was The Road to Utopia."
+    },
+    {
+      "start": 1377.34,
+      "end": 1381.24,
+      "text": "And that especially for all the friends of a gentleman by the name of Pete Davey,"
+    },
+    {
+      "start": 1381.3,
+      "end": 1383.72,
+      "text": "who's in Biddeford and Devon, or at least was when he sent this card."
+    },
+    {
+      "start": 1383.72,
+      "end": 1384.28,
+      "text": "all his friends"
+    },
+    {
+      "start": 1384.28,
+      "end": 1385.08,
+      "text": "at Bath University"
+    },
+    {
+      "start": 1385.08,
+      "end": 1386.5,
+      "text": "especially Angus"
+    },
+    {
+      "start": 1386.5,
+      "end": 1387.14,
+      "text": "in Geordieland"
+    },
+    {
+      "start": 1387.14,
+      "end": 1387.96,
+      "text": "Bernie in Preston"
+    },
+    {
+      "start": 1387.96,
+      "end": 1388.82,
+      "text": "Sue in the Pyrenees"
+    },
+    {
+      "start": 1388.82,
+      "end": 1390.24,
+      "text": "and Sarah and Sheila"
+    },
+    {
+      "start": 1390.24,
+      "end": 1392.28,
+      "text": "and also thanks indeed"
+    },
+    {
+      "start": 1392.28,
+      "end": 1393.06,
+      "text": "to a lady by the name"
+    },
+    {
+      "start": 1393.06,
+      "end": 1394.22,
+      "text": "of Nicky Hyde"
+    },
+    {
+      "start": 1394.22,
+      "end": 1394.8,
+      "text": "who sent me"
+    },
+    {
+      "start": 1394.8,
+      "end": 1395.84,
+      "text": "Lust, Passion, Desire"
+    },
+    {
+      "start": 1395.84,
+      "end": 1396.58,
+      "text": "and Naughty Bits"
+    },
+    {
+      "start": 1396.58,
+      "end": 1398.28,
+      "text": "and demands that I mention"
+    },
+    {
+      "start": 1398.28,
+      "end": 1399.22,
+      "text": "Steve from Horsham"
+    },
+    {
+      "start": 1399.22,
+      "end": 1400.8,
+      "text": "and also Paul Godley"
+    },
+    {
+      "start": 1400.8,
+      "end": 1401.54,
+      "text": "and Simon Buxey"
+    },
+    {
+      "start": 1401.54,
+      "end": 1402.2,
+      "text": "and Andrew Killick"
+    },
+    {
+      "start": 1402.2,
+      "end": 1402.96,
+      "text": "and Gail and Helen"
+    },
+    {
+      "start": 1402.96,
+      "end": 1403.78,
+      "text": "and Steve the Second"
+    },
+    {
+      "start": 1403.78,
+      "end": 1405.06,
+      "text": "and anybody else"
+    },
+    {
+      "start": 1405.06,
+      "end": 1405.54,
+      "text": "who'll admit"
+    },
+    {
+      "start": 1405.54,
+      "end": 1406.38,
+      "text": "to knowing"
+    },
+    {
+      "start": 1406.38,
+      "end": 1407.44,
+      "text": "the said Nicky Hyde"
+    },
+    {
+      "start": 1407.44,
+      "end": 1408.2,
+      "text": "with Naughty Bits"
+    },
+    {
+      "start": 1408.2,
+      "end": 1419.36,
+      "text": "Gentle Giant"
+    },
+    {
+      "start": 1419.36,
+      "end": 1925.04,
+      "text": "That's track from"
+    },
+    {
+      "start": 1925.04,
+      "end": 1925.6,
+      "text": "the latest album"
+    },
+    {
+      "start": 1925.6,
+      "end": 1926.36,
+      "text": "by Jethro Tull"
+    },
+    {
+      "start": 1926.36,
+      "end": 1927.26,
+      "text": "the album is called"
+    },
+    {
+      "start": 1927.26,
+      "end": 1928.88,
+      "text": "A, and the track you heard was"
+    },
+    {
+      "start": 1928.88,
+      "end": 1931.34,
+      "text": "Filingdale Flyer, and I was reading the"
+    },
+    {
+      "start": 1931.34,
+      "end": 1933.32,
+      "text": "sleeve notes to that album this afternoon,"
+    },
+    {
+      "start": 1933.74,
+      "end": 1935.38,
+      "text": "and I'd really forgotten just how great"
+    },
+    {
+      "start": 1935.38,
+      "end": 1937.36,
+      "text": "a lyric writer Ian Anderson is."
+    },
+    {
+      "start": 1938.02,
+      "end": 1939.4,
+      "text": "And before that, you heard something by"
+    },
+    {
+      "start": 1939.4,
+      "end": 1941.52,
+      "text": "Gentle Giant from an album that came out some time ago."
+    },
+    {
+      "start": 1941.6,
+      "end": 1943.12,
+      "text": "The album's called The Missing Piece,"
+    },
+    {
+      "start": 1943.54,
+      "end": 1944.66,
+      "text": "and the track was for nobody,"
+    },
+    {
+      "start": 1945.2,
+      "end": 1947.36,
+      "text": "which is not true at all. It was for a couple of people,"
+    },
+    {
+      "start": 1947.48,
+      "end": 1948.92,
+      "text": "particularly for Margaret Smith,"
+    },
+    {
+      "start": 1949.28,
+      "end": 1951.36,
+      "text": "who lives at 50 St. James Avenue, Gravesend"
+    },
+    {
+      "start": 1951.36,
+      "end": 1953.48,
+      "text": "in Kent, and also for Andrew Miller"
+    },
+    {
+      "start": 1953.48,
+      "end": 1955.04,
+      "text": "of Ruel High Lanes near"
+    },
+    {
+      "start": 1955.04,
+      "end": 1959.76,
+      "text": "Trigori or Tigoni possibly down there in Cornwall. Both of whom said you don't play enough General"
+    },
+    {
+      "start": 1959.76,
+      "end": 1970.0,
+      "text": "Giant. Both of whom I trust are happy at this moment of time. 25 minutes to 11. This is Montrose."
+    },
+    {
+      "start": 1971.58,
+      "end": 2458.26,
+      "text": "Montrose's new band called Gamma from the album Gamma II. The track you heard was Mayday and before"
+    },
+    {
+      "start": 2458.26,
+      "end": 2464.84,
+      "text": "that the original Montrose. The track Music Man from the album Jump On It. A great album with one"
+    },
+    {
+      "start": 2464.84,
+      "end": 2469.84,
+      "text": "of the rudest covers I know in the whole history of music. Play specially for Richard Gibbons who"
+    },
+    {
+      "start": 2469.84,
+      "end": 2472.6,
+      "text": "who lives up there in Coatbridge, Strathclyde, in Scotland."
+    },
+    {
+      "start": 2475.6,
+      "end": 2477.24,
+      "text": "And it's time now for the Friday Night Connection."
+    },
+    {
+      "start": 2477.56,
+      "end": 2479.14,
+      "text": "Right, the tracks we played you last week were these."
+    },
+    {
+      "start": 2479.2,
+      "end": 2480.34,
+      "text": "All You Need Is Love by The Beatles,"
+    },
+    {
+      "start": 2480.64,
+      "end": 2482.14,
+      "text": "I Like To Rock by April Wine,"
+    },
+    {
+      "start": 2482.22,
+      "end": 2484.62,
+      "text": "and The Marshall Plan by Blue Oyster Cult."
+    },
+    {
+      "start": 2486.22,
+      "end": 2487.34,
+      "text": "I'm sure you recognised it."
+    },
+    {
+      "start": 2487.5,
+      "end": 2488.24,
+      "text": "Most people did."
+    },
+    {
+      "start": 2488.4,
+      "end": 2489.38,
+      "text": "The connection was this."
+    },
+    {
+      "start": 2489.76,
+      "end": 2491.56,
+      "text": "All of those three songs had little bits,"
+    },
+    {
+      "start": 2491.68,
+      "end": 2493.42,
+      "text": "little snatches of other songs in them."
+    },
+    {
+      "start": 2493.92,
+      "end": 2497.0,
+      "text": "The Beatles also sing She Loves You in All You Need Is Love,"
+    },
+    {
+      "start": 2497.0,
+      "end": 2499.34,
+      "text": "Satisfaction, a little bit of that is in I Like To Rock,"
+    },
+    {
+      "start": 2499.72,
+      "end": 2500.56,
+      "text": "and Smoke On The Water,"
+    },
+    {
+      "start": 2500.66,
+      "end": 2502.44,
+      "text": "the riff from that is in The Marshall Plan."
+    },
+    {
+      "start": 2503.63,
+      "end": 2505.49,
+      "text": "Loads and loads of people got it right."
+    },
+    {
+      "start": 2505.69,
+      "end": 2507.33,
+      "text": "Thanks for taking the time out to write to us."
+    },
+    {
+      "start": 2507.37,
+      "end": 2508.07,
+      "text": "I appreciate it."
+    },
+    {
+      "start": 2508.13,
+      "end": 2509.89,
+      "text": "But as usual, only one winner."
+    },
+    {
+      "start": 2510.09,
+      "end": 2512.07,
+      "text": "And the winner this week is James Turner,"
+    },
+    {
+      "start": 2512.25,
+      "end": 2515.69,
+      "text": "who lives in Washington, Park Bottom, Redruth in Cornwall."
+    },
+    {
+      "start": 2516.25,
+      "end": 2518.55,
+      "text": "And James gets himself a £10 record connection"
+    },
+    {
+      "start": 2518.55,
+      "end": 2521.45,
+      "text": "and very kindly has put together his own connection as well."
+    },
+    {
+      "start": 2521.99,
+      "end": 2525.29,
+      "text": "Three bits of music, and if you listen hard and you listen clear,"
+    },
+    {
+      "start": 2525.63,
+      "end": 2526.63,
+      "text": "you'll hear the connection."
+    },
+    {
+      "start": 2527.23,
+      "end": 3309.94,
+      "text": "Connection for the night, you've just heard it."
+    },
+    {
+      "start": 3309.98,
+      "end": 3311.26,
+      "text": "Do you think you know where it is?"
+    },
+    {
+      "start": 3311.26,
+      "end": 3312.6,
+      "text": "Do you think you know what it is?"
+    },
+    {
+      "start": 3312.6,
+      "end": 3319.86,
+      "text": "If any something is in there somewhere, it could be in the music, it could be in the name of the album, that's for me to know and for you to tell me next week."
+    },
+    {
+      "start": 3321.15,
+      "end": 3321.67,
+      "text": "Good luck."
+    },
+    {
+      "start": 3322.17,
+      "end": 3326.03,
+      "text": "It was put together this week by James Turner of Washington, Redruth in Cornwall."
+    },
+    {
+      "start": 3326.15,
+      "end": 3330.25,
+      "text": "Wanted me to say hello to Joe and Chris and Bobby and Fez and all his mates down there, and especially Sharon."
+    },
+    {
+      "start": 3331.01,
+      "end": 3337.78,
+      "text": "If you think you know what the Friday Night Connection is, then jot it down on a postcard or any form of communication you like and send it to"
+    },
+    {
+      "start": 3337.78,
+      "end": 3344.82,
+      "text": "The Friday Night Connection, The Friday Rock Show, Radio 1, BBC, London, W1A, 4WW."
+    },
+    {
+      "start": 3345.42,
+      "end": 3347.26,
+      "text": "The winner gets a £10 record token."
+    },
+    {
+      "start": 3354.43,
+      "end": 3356.59,
+      "text": "You're listening to The Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 3356.63,
+      "end": 3360.71,
+      "text": "I guess as everybody has heard, John Bonham, the drummer with Led Zeppelin, was found dead yesterday."
+    },
+    {
+      "start": 3360.87,
+      "end": 3365.03,
+      "text": "A terrible shame, and we racked our brains this morning to try and find a way of putting together a tribute,"
+    },
+    {
+      "start": 3365.19,
+      "end": 3366.89,
+      "text": "and we felt this was the best way of doing it."
+    },
+    {
+      "start": 3367.31,
+      "end": 3371.83,
+      "text": "We're proud to rebroadcast something that was recorded by Led Zeppelin in 1971."
+    },
+    {
+      "start": 3371.83,
+      "end": 3374.83,
+      "text": "Led Zeppelin in concert."
+    },
+    {
+      "start": 3374.83,
+      "end": 3388.09,
+      "text": "Hello."
+    },
+    {
+      "start": 3388.09,
+      "end": 4560.97,
+      "text": "This is a thing of the fourth album."
+    },
+    {
+      "start": 4560.97,
+      "end": 4564.57,
+      "text": "It's called Stairway to Heaven."
+    },
+    {
+      "start": 4564.57,
+      "end": 4678.19,
+      "text": "There's a songbird who sings"
+    },
+    {
+      "start": 4678.19,
+      "end": 4683.79,
+      "text": "Sometimes all of us give up"
+    },
+    {
+      "start": 4683.79,
+      "end": 5098.4,
+      "text": "This is usually the time when we do have a cup of tea,"
+    },
+    {
+      "start": 5098.4,
+      "end": 5101.4,
+      "text": "but I think we're going to sit down instead."
+    },
+    {
+      "start": 5101.4,
+      "end": 5107.16,
+      "text": "This is another thing from the fourth album."
+    },
+    {
+      "start": 5107.16,
+      "end": 5127.95,
+      "text": "Right, this is going to California."
+    },
+    {
+      "start": 5127.95,
+      "end": 5212.38,
+      "text": "Spoke my stuff, drank, made up my mind, going to California with an aching hand, someone told me there's a girl out there, loving her eyes, flowers, took my chances on a big jet plane, tell you that we're all the same, red and the sky was gray, I wondered how tomorrow, canyons be dandling shake, children of the sun begin,"
+    },
+    {
+      "start": 5212.38,
+      "end": 5371.54,
+      "text": "we know that as well you see right we're all in trim now I must tell you about my"
+    },
+    {
+      "start": 5371.54,
+      "end": 5423.2,
+      "text": "bottle completely gone completely gone this is a I think all that's the way"
+    },
+    {
+      "start": 5423.2,
+      "end": 5452.18,
+      "text": "Satisfied to sit here working all day long"
+    },
+    {
+      "start": 5452.18,
+      "end": 5454.67,
+      "text": "You're in the dark"
+    },
+    {
+      "start": 5454.67,
+      "end": 5478.0,
+      "text": "Why don't your eyes see me?"
+    },
+    {
+      "start": 5482.89,
+      "end": 5484.17,
+      "text": "Another game to play"
+    },
+    {
+      "start": 5484.17,
+      "end": 5488.78,
+      "text": "Fifty-five million, wait and see"
+    },
+    {
+      "start": 5488.78,
+      "end": 5573.47,
+      "text": "You, that nothing really matters"
+    },
+    {
+      "start": 5573.47,
+      "end": 5575.9,
+      "text": "All you do"
+    },
+    {
+      "start": 5575.9,
+      "end": 5605.52,
+      "text": "And look again at what you see"
+    },
+    {
+      "start": 5605.52,
+      "end": 5609.76,
+      "text": "The way it ought to stay, baby"
+    },
+    {
+      "start": 5609.76,
+      "end": 5735.09,
+      "text": "I'll say to you tomorrow"
+    },
+    {
+      "start": 5735.09,
+      "end": 5739.85,
+      "text": "Take my hand, child"
+    },
+    {
+      "start": 5739.85,
+      "end": 5741.63,
+      "text": "Come with me, yeah"
+    },
+    {
+      "start": 5741.63,
+      "end": 5747.41,
+      "text": "To a castle I will take you"
+    },
+    {
+      "start": 5747.41,
+      "end": 5752.56,
+      "text": "What's to be, they say we'll be"
+    },
+    {
+      "start": 5752.56,
+      "end": 5794.66,
+      "text": "What's to stop us, pretty baby"
+    },
+    {
+      "start": 5794.66,
+      "end": 5800.86,
+      "text": "But what is and what should never be"
+    },
+    {
+      "start": 5800.86,
+      "end": 6015.18,
+      "text": "How do you feel? A little looser?"
+    },
+    {
+      "start": 6016.59,
+      "end": 6018.19,
+      "text": "Sounds like Bridget the Midget, doesn't it?"
+    },
+    {
+      "start": 6019.94,
+      "end": 6023.08,
+      "text": "But that's the whole element behind it all"
+    },
+    {
+      "start": 6023.08,
+      "end": 6026.84,
+      "text": "is sort of the barriers down"
+    },
+    {
+      "start": 6026.84,
+      "end": 6028.72,
+      "text": "and everybody very nice and warm"
+    },
+    {
+      "start": 6028.72,
+      "end": 6031.88,
+      "text": "That's why I said 55 million or 52 million or whatever"
+    },
+    {
+      "start": 6031.88,
+      "end": 6037.14,
+      "text": "Because there's a lot of, you know, effort required"
+    },
+    {
+      "start": 6037.14,
+      "end": 6040.32,
+      "text": "Anyway, with the help of John and everybody else"
+    },
+    {
+      "start": 6040.32,
+      "end": 6042.0,
+      "text": "We're going to get by, I think"
+    },
+    {
+      "start": 6042.0,
+      "end": 6043.92,
+      "text": "I'm going to sing on the next one, if you please"
+    },
+    {
+      "start": 6043.92,
+      "end": 6046.06,
+      "text": "Say mama"
+    },
+    {
+      "start": 6046.06,
+      "end": 6048.01,
+      "text": "Brain lottery"
+    },
+    {
+      "start": 6048.01,
+      "end": 6050.42,
+      "text": "Feels so good"
+    },
+    {
+      "start": 6050.42,
+      "end": 6053.26,
+      "text": "He's got his medallions and his leather suit, I believe"
+    },
+    {
+      "start": 6053.26,
+      "end": 6056.44,
+      "text": "Yeah, I was really knocked out that so many people came to see me tonight"
+    },
+    {
+      "start": 6056.44,
+      "end": 6346.84,
+      "text": "Because I've seen him, he's got to come out"
+    },
+    {
+      "start": 6346.84,
+      "end": 6943.67,
+      "text": "Led Zeppelin has recorded in concert way back in 1971"
+    },
+    {
+      "start": 6943.67,
+      "end": 6946.29,
+      "text": "with Robert Plant, Jimmy Page, John Paul Jones"
+    },
+    {
+      "start": 6946.29,
+      "end": 6948.19,
+      "text": "and the late John Bonzo Bonham."
+    },
+    {
+      "start": 6948.89,
+      "end": 6950.37,
+      "text": "The sound balance was by Chris Lycett"
+    },
+    {
+      "start": 6950.37,
+      "end": 6951.83,
+      "text": "and it was produced by Jeff Griffin."
+    },
+    {
+      "start": 6952.43,
+      "end": 6954.53,
+      "text": "And that was specially for Robert and for Jimmy and for John"
+    },
+    {
+      "start": 6954.53,
+      "end": 6956.31,
+      "text": "and for John Bonham's family"
+    },
+    {
+      "start": 6956.31,
+      "end": 6959.11,
+      "text": "and for all Led Zeppelin fans everywhere."
+    },
+    {
+      "start": 6965.33,
+      "end": 6967.79,
+      "text": "And that's it for this edition of the Friday Rock Show."
+    },
+    {
+      "start": 6967.79,
+      "end": 6970.79,
+      "text": "if you'd like to see some really stupid legs"
+    },
+    {
+      "start": 6970.79,
+      "end": 6972.39,
+      "text": "well you can, this coming Sunday"
+    },
+    {
+      "start": 6972.39,
+      "end": 6974.33,
+      "text": "at Carrow Road in Norwich"
+    },
+    {
+      "start": 6974.33,
+      "end": 6976.21,
+      "text": "when the Radio 1 DJ football team"
+    },
+    {
+      "start": 6976.21,
+      "end": 6978.19,
+      "text": "are going to be beating the daylights"
+    },
+    {
+      "start": 6978.19,
+      "end": 6979.59,
+      "text": "out of BBC Radio Norman"
+    },
+    {
+      "start": 6979.59,
+      "end": 6982.79,
+      "text": "if you want to see some really stupid legs"
+    },
+    {
+      "start": 6982.79,
+      "end": 6983.49,
+      "text": "you can see mine"
+    },
+    {
+      "start": 6983.49,
+      "end": 6986.65,
+      "text": "as I'm supposed to be playing, playing? You're joking"
+    },
+    {
+      "start": 6986.65,
+      "end": 6991.01,
+      "text": "following the time signal"
+    },
+    {
+      "start": 6991.01,
+      "end": 6993.43,
+      "text": "for midnight, the 275285 Radio 1"
+    },
+    {
+      "start": 6993.43,
+      "end": 6995.43,
+      "text": "transmitters are going to be closing down till first thing"
+    },
+    {
+      "start": 6995.43,
+      "end": 6997.25,
+      "text": "tomorrow morning, and I'd like to remind you"
+    },
+    {
+      "start": 6997.25,
+      "end": 6999.47,
+      "text": "about rock on Saturday between 4 and 7.30"
+    },
+    {
+      "start": 6999.47,
+      "end": 7000.87,
+      "text": "tomorrow, hope to see you for that programme"
+    },
+    {
+      "start": 7000.87,
+      "end": 7003.29,
+      "text": "Mr. Wilson, comment from you. Where are you? He's gone."
+    },
+    {
+      "start": 7003.55,
+      "end": 7006.07,
+      "text": "I shall not be playing football, but I might be there."
+    },
+    {
+      "start": 7006.33,
+      "end": 7007.35,
+      "text": "Do you want to see his leg?"
+    },
+    {
+      "start": 7014.53,
+      "end": 7016.53,
+      "text": "I'm Tommy Vance, in London."
+    },
+    {
+      "start": 7017.07,
+      "end": 7018.92,
+      "text": "Wherever you are, God bless."
+    },
+    {
+      "start": 7032.32,
+      "end": 7036.08,
+      "text": "It's midnight, and we welcome VHF listeners who've now joined us on Radio 2."
+    },
+    {
+      "start": 7036.28,
+      "end": 7037.9,
+      "text": "This is Tim Gutchen in the Midnight Newsroom."
+    },
+    {
+      "start": 7038.16,
+      "end": 7041.42,
+      "text": "The headlines? Peace moves in the Middle East hit a major snag."
+    },
+    {
+      "start": 7041.96,
+      "end": 7045.46,
+      "text": "Mr. Callaghan says Labour's duty is to save the country from Thatcherism."
+    },
+    {
+      "start": 7045.9,
+      "end": 7048.5,
+      "text": "And the European Cup match, which no one will see."
+    },
+    {
+      "start": 7048.5,
+      "end": 7053.57,
+      "text": "A new diplomatic initiative to try to end the Gulf War is already in difficulties."
+    },
+    {
+      "start": 7054.23,
+      "end": 7058.87,
+      "text": "The Iranian Prime Minister, Mohammad Rajai, has said he won't negotiate with any goodwill mission."
+    },
+    {
+      "start": 7059.25,
+      "end": 7062.61,
+      "text": "And in the war itself, the Iranians claim they've lifted the siege of Kharam Shah,"
+    },
+    {
+      "start": 7063.01,
+      "end": 7064.71,
+      "text": "which has been at the centre of fierce fighting."
+    },
+    {
+      "start": 7065.27,
+      "end": 7067.37,
+      "text": "With a review of developments, here's Larry Margolis."
+    },
+    {
+      "start": 7067.73,
+      "end": 7071.73,
+      "text": "The peace mission, which is to involve President Zia of Pakistan and Habib Chatti,"
+    },
+    {
+      "start": 7071.83,
+      "end": 7073.01,
+      "text": "head of the Islamic Conference..."
     }
   ]
 }

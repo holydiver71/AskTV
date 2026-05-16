@@ -21,37 +21,44 @@
     {
       "artist": "Mountain",
       "track": "Nantucket Sleighride",
-      "details": "For Owen Coffin; LP-Nantucket Sleighride"
+      "details": "For Owen Coffin; LP-Nantucket Sleighride",
+      "verified_timestamp": 826.65
     },
     {
       "artist": "Samson",
       "track": "Walking Out on You",
-      "details": "LP-Head On"
+      "details": "LP-Head On",
+      "verified_timestamp": 823.25
     },
     {
       "artist": "Taurus",
       "track": "Fast Car",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 854.07
     },
     {
       "artist": "Judas Priest",
       "track": "United",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Black Oak Arkansas",
       "track": "Rock ’n’ Roll",
-      "details": "LP-Balls of Fire"
+      "details": "LP-Balls of Fire",
+      "verified_timestamp": 1735.0
     },
     {
       "artist": "ZZ Top",
       "track": "Tush",
-      "details": "LP-Fandango!"
+      "details": "LP-Fandango!",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Yardbirds",
       "track": "For Your Love",
-      "details": "Archive Session 1965"
+      "details": "Archive Session 1965",
+      "verified_timestamp": 1748.77
     },
     {
       "artist": "Yardbirds",
@@ -71,12 +78,14 @@
     {
       "artist": "AC/DC",
       "track": "Rocker",
-      "details": "LP-T.N.T."
+      "details": "LP-T.N.T.",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "AC/DC",
       "track": "Hells Bells",
-      "details": "LP-Back to Black"
+      "details": "LP-Back to Black",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Taurus",
@@ -86,17 +95,20 @@
     {
       "artist": "The Michael Schenker Group",
       "track": "Cry for the Nations",
-      "details": "LP-The Michael Schenker Group"
+      "details": "LP-The Michael Schenker Group",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3422.28
     },
     {
       "artist": "Yes",
       "track": "Into the Lens",
-      "details": "LP-Drama"
+      "details": "LP-Drama",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Taurus",
@@ -106,7 +118,8 @@
     {
       "artist": "Boston",
       "track": "Rock & Roll Band",
-      "details": "LP-Boston"
+      "details": "LP-Boston",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Tygers of Pan Tang",
@@ -116,12 +129,14 @@
     {
       "artist": "Tygers of Pan Tang",
       "track": "Slave to Freedom",
-      "details": "LP-Wild Cat, played from an acetate"
+      "details": "LP-Wild Cat, played from an acetate",
+      "verified_timestamp": 5866.29
     },
     {
       "artist": "Yardbirds",
       "track": "Think About It",
-      "details": "Archive Session 1968"
+      "details": "Archive Session 1968",
+      "verified_timestamp": 1748.77
     },
     {
       "artist": "Yardbirds",
@@ -136,12 +151,1440 @@
     {
       "artist": "Diamond Head",
       "track": "'Am I Evil' excerpt",
-      "details": "LP-Lightning to the Nations"
+      "details": "LP-Lightning to the Nations",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Taurus",
       "track": "Paper Chaser",
       "details": "FRS Session"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 5.01,
+      "end": 11.01,
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+    },
+    {
+      "start": 23.71,
+      "end": 28.75,
+      "text": "This is Thomas the Clown here, TV on the radio and welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 29.63,
+      "end": 34.27,
+      "text": "And this evening out of the archives from the 60s we feature one of the first and the last session"
+    },
+    {
+      "start": 34.27,
+      "end": 38.91,
+      "text": "ever recorded for the BBC by the Yardbirds. They feature Eric Clapton and Jimmy Page."
+    },
+    {
+      "start": 38.91,
+      "end": 56.9,
+      "text": "Also a repeat of our ace session by Taurus. And we got classic cuts from Black Oak Arkansas,"
+    },
+    {
+      "start": 56.9,
+      "end": 59.3,
+      "text": "ZZ Top, ACDC and Boston, among others,"
+    },
+    {
+      "start": 59.38,
+      "end": 62.42,
+      "text": "and new releases by Samson, Judas Priest, Michael Schenker,"
+    },
+    {
+      "start": 62.6,
+      "end": 64.34,
+      "text": "Tigers of Pantang and Diamondhead."
+    },
+    {
+      "start": 64.82,
+      "end": 69.4,
+      "text": "And a track from Drama, the new LP by Yes, the brand new line-up."
+    },
+    {
+      "start": 69.82,
+      "end": 72.66,
+      "text": "But this evening, we start with a classic by Mountain."
+    },
+    {
+      "start": 815.01,
+      "end": 817.91,
+      "text": "Well, I bet you money if you haven't got that album, you don't know who that is."
+    },
+    {
+      "start": 819.19,
+      "end": 823.15,
+      "text": "That was Samson, and it's a track from their new album, which is out on Gem Records."
+    },
+    {
+      "start": 823.25,
+      "end": 826.65,
+      "text": "The album's called Head On, and the track you heard was Walking Out On You."
+    },
+    {
+      "start": 826.65,
+      "end": 834.48,
+      "text": "And before that, Mountain, a real classic from Yonks Ago, Nantucket's sleigh ride to Owen Coffin."
+    },
+    {
+      "start": 835.18,
+      "end": 837.58,
+      "text": "And that was played specially for Pete and Bartley from Swansea."
+    },
+    {
+      "start": 838.2,
+      "end": 841.56,
+      "text": "And also for Robert Ingham, a.k.a. Big Bad Bob."
+    },
+    {
+      "start": 841.66,
+      "end": 845.3,
+      "text": "He lives in Grimsby and he wants me to say hello to the infamous Stella of Howell."
+    },
+    {
+      "start": 846.16,
+      "end": 850.72,
+      "text": "And also we played that track by Mountain for Andrew Harding, who lives in Hainault in Essex."
+    },
+    {
+      "start": 854.07,
+      "end": 858.61,
+      "text": "10.14 on the Friday Rock Show, here's the first of four from our repeat session by Taurus."
+    },
+    {
+      "start": 858.61,
+      "end": 1280.91,
+      "text": "The record got a terrible slating on Roundtable, I don't really know why, because I think it's one of the best records they've ever made, and ultimately it's going to become their anthem, wherever they appear live, I would imagine, everybody's going to know the words, they'll stand up and they'll sway and they'll sing it, united."
+    },
+    {
+      "start": 1281.73,
+      "end": 1290.55,
+      "text": "Judas Priest and their new single, which of course is also on their album British Steel, and before that the first of four from our repeat session by the band called Taurus, the track was Fast Car."
+    },
+    {
+      "start": 1290.55,
+      "end": 1293.5,
+      "text": "10.21 on the Friday Rock Show."
+    },
+    {
+      "start": 1293.56,
+      "end": 1295.9,
+      "text": "A nice bit of criticism about a record we played last week."
+    },
+    {
+      "start": 1296.0,
+      "end": 1298.04,
+      "text": "It comes from Stephen Ainslie of Chelmsford."
+    },
+    {
+      "start": 1298.1,
+      "end": 1299.56,
+      "text": "He just wrote P.S. on his letter."
+    },
+    {
+      "start": 1300.06,
+      "end": 1303.72,
+      "text": "Holly Course Heavy Metal Mania kept me amused for the rest of the show last night."
+    },
+    {
+      "start": 1304.1,
+      "end": 1305.88,
+      "text": "Will you have the Baron Knights on next week?"
+    },
+    {
+      "start": 1306.26,
+      "end": 1308.6,
+      "text": "If they do a heavy metal send-up, maybe we will one day."
+    },
+    {
+      "start": 1309.3,
+      "end": 1312.12,
+      "text": "Also I'd like to mention a lady who's too shy to have her name mentioned."
+    },
+    {
+      "start": 1312.26,
+      "end": 1313.78,
+      "text": "Her name is N. Onimus."
+    },
+    {
+      "start": 1314.2,
+      "end": 1317.12,
+      "text": "And I'd like to say a very good evening to another lady who's very shy."
+    },
+    {
+      "start": 1317.22,
+      "end": 1318.9,
+      "text": "But I do know her name. Her name is Helen."
+    },
+    {
+      "start": 1322.84,
+      "end": 1325.22,
+      "text": "And here's a little-known track by Black Oak, Arkansas."
+    },
+    {
+      "start": 1325.78,
+      "end": 1682.36,
+      "text": "On their one and only performance in this country last year,"
+    },
+    {
+      "start": 1682.44,
+      "end": 1683.38,
+      "text": "they really were excellent."
+    },
+    {
+      "start": 1683.52,
+      "end": 1684.92,
+      "text": "If you missed them at the Hammersmith Odeon,"
+    },
+    {
+      "start": 1685.04,
+      "end": 1687.6,
+      "text": "then you missed something that was really, really special."
+    },
+    {
+      "start": 1687.78,
+      "end": 1690.56,
+      "text": "That was ZZ Top from their album called Fandango,"
+    },
+    {
+      "start": 1690.66,
+      "end": 1691.36,
+      "text": "and the track was Tush."
+    },
+    {
+      "start": 1691.78,
+      "end": 1693.44,
+      "text": "That was specially for two strange people"
+    },
+    {
+      "start": 1693.44,
+      "end": 1694.56,
+      "text": "who have very bad handwriting,"
+    },
+    {
+      "start": 1694.88,
+      "end": 1696.44,
+      "text": "namely Tommy Vance and Tony Wilson,"
+    },
+    {
+      "start": 1696.62,
+      "end": 1699.2,
+      "text": "because it's a very favourite track of those two strange people."
+    },
+    {
+      "start": 1699.48,
+      "end": 1700.86,
+      "text": "And also it's an intriguing song"
+    },
+    {
+      "start": 1700.86,
+      "end": 1703.72,
+      "text": "because it's turning up in the sets of many, many people at the moment."
+    },
+    {
+      "start": 1704.06,
+      "end": 1705.0,
+      "text": "Many new bands."
+    },
+    {
+      "start": 1705.0,
+      "end": 1708.22,
+      "text": "For instance, it's on the B-side of the new Tigers of Pantang single."
+    },
+    {
+      "start": 1708.64,
+      "end": 1711.8,
+      "text": "That's something I must ask them about when I meet them next week for Rock on Saturday."
+    },
+    {
+      "start": 1712.26,
+      "end": 1715.12,
+      "text": "And also, in the Girl's School set, they do it twice."
+    },
+    {
+      "start": 1715.28,
+      "end": 1719.28,
+      "text": "At least Tony Wilson said they did it twice when he was watching them on stage at Folkestone."
+    },
+    {
+      "start": 1719.4,
+      "end": 1721.46,
+      "text": "I think he's in love with a lead guitarist, but that's another story."
+    },
+    {
+      "start": 1721.98,
+      "end": 1727.26,
+      "text": "And Girl's School are finishing their current tour at the Civic Hall in St Albans tomorrow night."
+    },
+    {
+      "start": 1727.44,
+      "end": 1730.88,
+      "text": "And another band is supporting them, who've been on this show, a band by the name of More."
+    },
+    {
+      "start": 1731.16,
+      "end": 1734.88,
+      "text": "Prior to that, you heard Black Oak, Arkansas, and a track from Balls of Fire."
+    },
+    {
+      "start": 1735.0,
+      "end": 1737.82,
+      "text": "The track was rock and roll, and that was for Gary and YAT"
+    },
+    {
+      "start": 1737.82,
+      "end": 1741.64,
+      "text": "and all the Hieronymus Bosch fans worldwide."
+    },
+    {
+      "start": 1748.77,
+      "end": 1751.97,
+      "text": "1029, back to 1965 and the Yardbirds."
+    },
+    {
+      "start": 1788.46,
+      "end": 1799.49,
+      "text": "For your love, for your love, for your love"
+    },
+    {
+      "start": 1799.49,
+      "end": 1855.65,
+      "text": "Mind you give, give the sun and the stars for I live"
+    },
+    {
+      "start": 1855.65,
+      "end": 1858.39,
+      "text": "For your love, choose freely with delight"
+    },
+    {
+      "start": 1858.39,
+      "end": 1863.21,
+      "text": "I'll give you diamonds bright, baby days I will excite"
+    },
+    {
+      "start": 1863.21,
+      "end": 1865.23,
+      "text": "Make a dream of me at night"
+    },
+    {
+      "start": 1865.23,
+      "end": 1869.23,
+      "text": "For your love"
+    },
+    {
+      "start": 1869.23,
+      "end": 1871.23,
+      "text": "For your love"
+    },
+    {
+      "start": 1871.23,
+      "end": 1920.04,
+      "text": "That's what I've got to say"
+    },
+    {
+      "start": 1920.04,
+      "end": 1922.04,
+      "text": "If I say thanks for spending"
+    },
+    {
+      "start": 1922.04,
+      "end": 1923.04,
+      "text": "My money"
+    },
+    {
+      "start": 1923.04,
+      "end": 1930.48,
+      "text": "That's one thing I can do without"
+    },
+    {
+      "start": 1930.48,
+      "end": 1935.23,
+      "text": "Talking"
+    },
+    {
+      "start": 1935.23,
+      "end": 1937.32,
+      "text": "That's what I've got to say"
+    },
+    {
+      "start": 1937.32,
+      "end": 1939.39,
+      "text": "Is to think I knew"
+    },
+    {
+      "start": 1939.39,
+      "end": 1944.08,
+      "text": "Things like I had a chatter"
+    },
+    {
+      "start": 1944.08,
+      "end": 1947.87,
+      "text": "Don't call me baby I'll call you"
+    },
+    {
+      "start": 1947.87,
+      "end": 1979.73,
+      "text": "That's what I've got to say"
+    },
+    {
+      "start": 1979.73,
+      "end": 1981.73,
+      "text": "If I say thanks for spending"
+    },
+    {
+      "start": 1981.73,
+      "end": 1983.73,
+      "text": "I ain't gonna say nothing yet"
+    },
+    {
+      "start": 1983.73,
+      "end": 2005.3,
+      "text": "And here's the first number on the show by that great group, the Yardbirds."
+    },
+    {
+      "start": 2005.92,
+      "end": 2300.86,
+      "text": "The Yardbirds had an archive session that featured the work of Mr. Eric Clapton on lead guitar."
+    },
+    {
+      "start": 2301.12,
+      "end": 2302.56,
+      "text": "And these are the tracks that we played for you."
+    },
+    {
+      "start": 2302.66,
+      "end": 2307.1,
+      "text": "First was For Your Love, then I'm Not Talking, then I Wish You Would, and then Heart Full of Soul."
+    },
+    {
+      "start": 2307.74,
+      "end": 2314.97,
+      "text": "And we got another session by the Yardbirds coming up later on in the program that features Mr. Jimmy Page."
+    },
+    {
+      "start": 2319.96,
+      "end": 2321.6,
+      "text": "And now here's a track by ACDC."
+    },
+    {
+      "start": 2321.6,
+      "end": 2323.98,
+      "text": "was recorded on an album called TNT"
+    },
+    {
+      "start": 2323.98,
+      "end": 2326.42,
+      "text": "that came out in Australia way back in 1975,"
+    },
+    {
+      "start": 2326.72,
+      "end": 2328.54,
+      "text": "and I don't think this track has been included"
+    },
+    {
+      "start": 2328.54,
+      "end": 2330.34,
+      "text": "on any other album that's been released."
+    },
+    {
+      "start": 2330.88,
+      "end": 2332.88,
+      "text": "In other words, I don't think it's been put out in this country."
+    },
+    {
+      "start": 2333.0,
+      "end": 2333.94,
+      "text": "It's called Rocker."
+    },
+    {
+      "start": 2810.51,
+      "end": 2813.63,
+      "text": "ACDC, from the album that jumped right in at number one this week"
+    },
+    {
+      "start": 2813.63,
+      "end": 2816.13,
+      "text": "in the top 30 album chart, the album called Back in Black."
+    },
+    {
+      "start": 2816.23,
+      "end": 2817.47,
+      "text": "The track was Harold's Bells."
+    },
+    {
+      "start": 2817.93,
+      "end": 2820.01,
+      "text": "And before that, something from an Australian import,"
+    },
+    {
+      "start": 2820.25,
+      "end": 2824.07,
+      "text": "the album called TNT that came out in 1975 featuring ACDC."
+    },
+    {
+      "start": 2824.25,
+      "end": 2825.55,
+      "text": "That track was called Rocker."
+    },
+    {
+      "start": 2825.55,
+      "end": 2829.15,
+      "text": "And incidentally, you can get both of those Australian imports,"
+    },
+    {
+      "start": 2829.27,
+      "end": 2832.29,
+      "text": "that's the Australian version of High Voltage and TNT,"
+    },
+    {
+      "start": 2832.51,
+      "end": 2834.21,
+      "text": "through Pacific Records in London."
+    },
+    {
+      "start": 2835.45,
+      "end": 2837.71,
+      "text": "Play that whole ACDC set for everybody"
+    },
+    {
+      "start": 2837.71,
+      "end": 2841.01,
+      "text": "who's going to join the sixth form at Ashington High"
+    },
+    {
+      "start": 2841.01,
+      "end": 2842.03,
+      "text": "up there in Northumberland."
+    },
+    {
+      "start": 2842.19,
+      "end": 2843.53,
+      "text": "Best wishes from Ashby Davidson."
+    },
+    {
+      "start": 2844.13,
+      "end": 2847.09,
+      "text": "And also for a gentleman by the name of Alastair Gibson"
+    },
+    {
+      "start": 2847.09,
+      "end": 2849.57,
+      "text": "who lives in Eatonwick near Windsor in Berkshire."
+    },
+    {
+      "start": 2849.67,
+      "end": 2850.97,
+      "text": "Nice part of the world, that is."
+    },
+    {
+      "start": 2851.79,
+      "end": 2854.11,
+      "text": "And for Mick Parker and Steve Brindle and Dave Knott"
+    },
+    {
+      "start": 2854.11,
+      "end": 2856.29,
+      "text": "and any of the Harwood heavies who may be listening,"
+    },
+    {
+      "start": 2856.35,
+      "end": 2862.75,
+      "text": "up there in bolton lots of best wishes from phil finch and also for donald stark who lives in"
+    },
+    {
+      "start": 2862.75,
+      "end": 2867.53,
+      "text": "glasgow and finally for everybody going into the fifth year at people's high i didn't know"
+    },
+    {
+      "start": 2867.53,
+      "end": 2871.83,
+      "text": "andy was into the school business that's pin and mike and angus and hardy best wishes from"
+    },
+    {
+      "start": 2871.83,
+      "end": 3402.01,
+      "text": "andrew connor here's taurus and you know how i'm feeling the album's coming out because there's"
+    },
+    {
+      "start": 3402.01,
+      "end": 3406.53,
+      "text": "no release date on the white label that we're playing it playing it from rather the album is"
+    },
+    {
+      "start": 3406.53,
+      "end": 3407.77,
+      "text": "by Michael Schenker"
+    },
+    {
+      "start": 3407.77,
+      "end": 3408.91,
+      "text": "and that track"
+    },
+    {
+      "start": 3408.91,
+      "end": 3409.49,
+      "text": "you heard there"
+    },
+    {
+      "start": 3409.49,
+      "end": 3409.95,
+      "text": "was called"
+    },
+    {
+      "start": 3409.95,
+      "end": 3410.69,
+      "text": "Cry for the Nation"
+    },
+    {
+      "start": 3410.69,
+      "end": 3411.85,
+      "text": "and it's coming out"
+    },
+    {
+      "start": 3411.85,
+      "end": 3413.25,
+      "text": "shortly on Chrysalis"
+    },
+    {
+      "start": 3413.25,
+      "end": 3416.23,
+      "text": "and before that"
+    },
+    {
+      "start": 3416.23,
+      "end": 3417.21,
+      "text": "you heard Taurus"
+    },
+    {
+      "start": 3417.21,
+      "end": 3418.29,
+      "text": "and the track called"
+    },
+    {
+      "start": 3418.29,
+      "end": 3419.27,
+      "text": "You Know How I'm Feeling"
+    },
+    {
+      "start": 3419.27,
+      "end": 3421.58,
+      "text": "3 minutes to 11"
+    },
+    {
+      "start": 3421.58,
+      "end": 3422.28,
+      "text": "it's time for the"
+    },
+    {
+      "start": 3422.28,
+      "end": 3423.14,
+      "text": "Friday Night Connection"
+    },
+    {
+      "start": 3423.14,
+      "end": 3423.5,
+      "text": "right"
+    },
+    {
+      "start": 3423.5,
+      "end": 3424.4,
+      "text": "the tracks we played"
+    },
+    {
+      "start": 3424.4,
+      "end": 3424.9,
+      "text": "you last week"
+    },
+    {
+      "start": 3424.9,
+      "end": 3425.38,
+      "text": "were these"
+    },
+    {
+      "start": 3425.38,
+      "end": 3426.66,
+      "text": "Parallels"
+    },
+    {
+      "start": 3426.66,
+      "end": 3427.38,
+      "text": "by Yes"
+    },
+    {
+      "start": 3427.38,
+      "end": 3428.83,
+      "text": "from Going for the One"
+    },
+    {
+      "start": 3428.83,
+      "end": 3430.03,
+      "text": "recorded in Montreux"
+    },
+    {
+      "start": 3430.03,
+      "end": 3430.63,
+      "text": "in Switzerland"
+    },
+    {
+      "start": 3430.63,
+      "end": 3432.03,
+      "text": "Smoke on the Water"
+    },
+    {
+      "start": 3432.03,
+      "end": 3432.89,
+      "text": "by Deep Purple"
+    },
+    {
+      "start": 3432.89,
+      "end": 3433.91,
+      "text": "with reference to"
+    },
+    {
+      "start": 3433.91,
+      "end": 3434.95,
+      "text": "We All Came Out"
+    },
+    {
+      "start": 3434.95,
+      "end": 3435.55,
+      "text": "to Montreux"
+    },
+    {
+      "start": 3435.55,
+      "end": 3437.25,
+      "text": "and also to Swiss Time"
+    },
+    {
+      "start": 3437.25,
+      "end": 3438.79,
+      "text": "and then Heat Strokes"
+    },
+    {
+      "start": 3438.79,
+      "end": 3439.45,
+      "text": "by Crocus"
+    },
+    {
+      "start": 3439.45,
+      "end": 3440.45,
+      "text": "from Metal Rendezvous,"
+    },
+    {
+      "start": 3440.91,
+      "end": 3442.83,
+      "text": "Crocus being a Swiss-based band."
+    },
+    {
+      "start": 3443.79,
+      "end": 3444.85,
+      "text": "And a Maltese lead singer."
+    },
+    {
+      "start": 3446.64,
+      "end": 3447.9,
+      "text": "Loads of people wrote in,"
+    },
+    {
+      "start": 3448.0,
+      "end": 3449.26,
+      "text": "and thanks to all of you who did."
+    },
+    {
+      "start": 3449.5,
+      "end": 3450.38,
+      "text": "Every letter was read,"
+    },
+    {
+      "start": 3450.42,
+      "end": 3451.66,
+      "text": "I promise you that, this afternoon."
+    },
+    {
+      "start": 3451.98,
+      "end": 3453.66,
+      "text": "But as usual, there can only be one winner"
+    },
+    {
+      "start": 3453.66,
+      "end": 3455.46,
+      "text": "because we're running short of money around here."
+    },
+    {
+      "start": 3456.08,
+      "end": 3457.64,
+      "text": "And the winner this week is Dave Bailey"
+    },
+    {
+      "start": 3457.64,
+      "end": 3459.5,
+      "text": "of number two, Ringgold's Way,"
+    },
+    {
+      "start": 3459.76,
+      "end": 3460.84,
+      "text": "Street in Somerset."
+    },
+    {
+      "start": 3460.96,
+      "end": 3461.86,
+      "text": "Dave, congratulations."
+    },
+    {
+      "start": 3462.12,
+      "end": 3463.66,
+      "text": "You get yourself a £10 record token."
+    },
+    {
+      "start": 3464.44,
+      "end": 3471.28,
+      "text": "Our compliments."
+    },
+    {
+      "start": 3471.66,
+      "end": 3473.34,
+      "text": "And now, with our compliments,"
+    },
+    {
+      "start": 3473.58,
+      "end": 3474.84,
+      "text": "here's the Friday Night Connection"
+    },
+    {
+      "start": 3474.84,
+      "end": 3476.22,
+      "text": "put together by Dave Bailey."
+    },
+    {
+      "start": 3476.58,
+      "end": 3480.92,
+      "text": "Three bits of music, and there certainly is a theme somewhere in them."
+    },
+    {
+      "start": 3481.2,
+      "end": 4207.73,
+      "text": "Street and Somerset, a nice selection and a clever idea."
+    },
+    {
+      "start": 4208.8,
+      "end": 4211.04,
+      "text": "If you think you know what the Friday Night Connection is,"
+    },
+    {
+      "start": 4211.1,
+      "end": 4214.1,
+      "text": "if it has crept into your imagination,"
+    },
+    {
+      "start": 4216.36,
+      "end": 4219.66,
+      "text": "then put down the answer on a postcard or in a letter"
+    },
+    {
+      "start": 4219.66,
+      "end": 4222.08,
+      "text": "or any form of communication you like and send it to"
+    },
+    {
+      "start": 4222.08,
+      "end": 4223.58,
+      "text": "The Friday Night Connection,"
+    },
+    {
+      "start": 4223.58,
+      "end": 4229.44,
+      "text": "The Friday Rock Show, BBC Radio 1, London, W1A 4WW."
+    },
+    {
+      "start": 4229.44,
+      "end": 4233.93,
+      "text": "You win the Friday Night Connection, you get a £10 record token."
+    },
+    {
+      "start": 4238.57,
+      "end": 4247.46,
+      "text": "Ten minutes after eleven is our time here on the Friday Rock Show."
+    },
+    {
+      "start": 4247.56,
+      "end": 4250.18,
+      "text": "And I announced on this programme some many weeks ago now"
+    },
+    {
+      "start": 4250.18,
+      "end": 4253.56,
+      "text": "that John Anderson and Rick Wakeman had left Yes"
+    },
+    {
+      "start": 4253.56,
+      "end": 4257.24,
+      "text": "and the Buggles were going to join up with the remainder of Yes."
+    },
+    {
+      "start": 4257.76,
+      "end": 4259.32,
+      "text": "There was a heck of a reaction."
+    },
+    {
+      "start": 4259.56,
+      "end": 4261.92,
+      "text": "Now, I know pretty well that the reaction was,"
+    },
+    {
+      "start": 4262.04,
+      "end": 4264.7,
+      "text": "you're joking, it's not going to work."
+    },
+    {
+      "start": 4265.16,
+      "end": 4266.86,
+      "text": "Well, now you can make your mind up"
+    },
+    {
+      "start": 4266.86,
+      "end": 4268.86,
+      "text": "because here's a track from their forthcoming album."
+    },
+    {
+      "start": 4268.88,
+      "end": 4271.88,
+      "text": "It comes out on the 22nd of this month"
+    },
+    {
+      "start": 4271.88,
+      "end": 4273.16,
+      "text": "Have a listen to this"
+    },
+    {
+      "start": 4273.16,
+      "end": 4275.8,
+      "text": "It's magical and it's called Into The Lens"
+    },
+    {
+      "start": 4275.8,
+      "end": 4789.21,
+      "text": "That's from the forthcoming album by the new line-up of Yes"
+    },
+    {
+      "start": 4789.21,
+      "end": 4791.71,
+      "text": "Downs, Horn, Howe, Squire and White"
+    },
+    {
+      "start": 4791.71,
+      "end": 4793.37,
+      "text": "The album's going to be called Drama"
+    },
+    {
+      "start": 4793.37,
+      "end": 4795.35,
+      "text": "And the track you just heard was Into The Lens"
+    },
+    {
+      "start": 4795.35,
+      "end": 4796.63,
+      "text": "Now I've got one up on you"
+    },
+    {
+      "start": 4796.63,
+      "end": 4800.85,
+      "text": "Yesterday afternoon I was invited to the office of one Foxy Fowler"
+    },
+    {
+      "start": 4800.85,
+      "end": 4801.79,
+      "text": "As he's known in the business"
+    },
+    {
+      "start": 4801.79,
+      "end": 4804.31,
+      "text": "Who's the head of promotion for Atlantic Records, their record company"
+    },
+    {
+      "start": 4804.31,
+      "end": 4806.47,
+      "text": "and he played me the whole of the album"
+    },
+    {
+      "start": 4806.47,
+      "end": 4808.81,
+      "text": "and I sat there thinking as a lot of people"
+    },
+    {
+      "start": 4808.81,
+      "end": 4812.07,
+      "text": "are going to be really sort of surprised"
+    },
+    {
+      "start": 4812.07,
+      "end": 4813.87,
+      "text": "because it works."
+    },
+    {
+      "start": 4814.23,
+      "end": 4817.03,
+      "text": "The Buggles and Yes conjoining really does work."
+    },
+    {
+      "start": 4817.29,
+      "end": 4818.71,
+      "text": "It's a masterpiece of an album"
+    },
+    {
+      "start": 4818.71,
+      "end": 4821.37,
+      "text": "but you're the people who'll decide whether you like it or not."
+    },
+    {
+      "start": 4821.93,
+      "end": 4823.77,
+      "text": "In my estimation it'll go straight to number one."
+    },
+    {
+      "start": 4824.77,
+      "end": 4826.17,
+      "text": "As soon as we get other tracks in the album"
+    },
+    {
+      "start": 4826.17,
+      "end": 4827.15,
+      "text": "I'll play them for you."
+    },
+    {
+      "start": 4827.61,
+      "end": 4830.07,
+      "text": "And may I say as well lots of luck to John Anderson"
+    },
+    {
+      "start": 4830.07,
+      "end": 4831.81,
+      "text": "in everything that he does from now on."
+    },
+    {
+      "start": 4846.35,
+      "end": 4847.97,
+      "text": "We've been humbled by our listeners."
+    },
+    {
+      "start": 4847.97,
+      "end": 4854.51,
+      "text": "we made a mistake rockers by acdc or rather rocker by acdc is on release in this country"
+    },
+    {
+      "start": 4854.51,
+      "end": 4859.77,
+      "text": "it's on the album dirty deeds done cheap just about the only album we didn't check"
+    },
+    {
+      "start": 4859.77,
+      "end": 5264.56,
+      "text": "can't win them all but we try from the album boston whatever happened to them and that was"
+    },
+    {
+      "start": 5264.56,
+      "end": 5268.88,
+      "text": "for philip hill the mole and stone the loach and amos the 14 year old heavy metal freaks from"
+    },
+    {
+      "start": 5268.88,
+      "end": 5273.54,
+      "text": "batley grammar school and also pigged in the big one and gigs in the future foray at batley grammar"
+    },
+    {
+      "start": 5273.54,
+      "end": 5278.94,
+      "text": "school as well as scoffy and lugsy and shocker the punks and also it was for everybody at ride"
+    },
+    {
+      "start": 5278.94,
+      "end": 5282.18,
+      "text": "high school over there on the isle of wight thanks for your hospitality the other night"
+    },
+    {
+      "start": 5282.18,
+      "end": 5287.6,
+      "text": "best wishes from keith button and sarah stevens i've got to say that you're the girl in the life"
+    },
+    {
+      "start": 5287.6,
+      "end": 5292.94,
+      "text": "of roger and he loves you also played that boston track for philip morgan and philip lives in andover"
+    },
+    {
+      "start": 5292.94,
+      "end": 5300.63,
+      "text": "in hans well i've been asked just to mention gordon is no it's uh michael and david gordon"
+    },
+    {
+      "start": 5300.63,
+      "end": 5302.57,
+      "text": "Lots of best wishes from Anne."
+    },
+    {
+      "start": 5303.67,
+      "end": 5307.37,
+      "text": "Prior to that, you heard something by Taurus from our repeat session by them."
+    },
+    {
+      "start": 5307.55,
+      "end": 5308.63,
+      "text": "The track was Shy Girl."
+    },
+    {
+      "start": 5310.34,
+      "end": 5313.78,
+      "text": "The Tigers of Pantang are bringing out their album very shortly,"
+    },
+    {
+      "start": 5313.98,
+      "end": 5315.34,
+      "text": "and here's a couple of tracks from it."
+    },
+    {
+      "start": 5315.78,
+      "end": 5865.11,
+      "text": "It features the Tigers of Pantang, two tracks from the album,"
+    },
+    {
+      "start": 5865.25,
+      "end": 5866.19,
+      "text": "and it's coming out shortly."
+    },
+    {
+      "start": 5866.29,
+      "end": 5869.29,
+      "text": "The first one was Wildcats, and the second one was Slave to Freedom."
+    },
+    {
+      "start": 5869.51,
+      "end": 5870.35,
+      "text": "Sorry about the jump."
+    },
+    {
+      "start": 5870.89,
+      "end": 5872.31,
+      "text": "We were playing those off acetate,"
+    },
+    {
+      "start": 5872.31,
+      "end": 5875.51,
+      "text": "and they're the worst things in the world to queue up on record turntables in studios."
+    },
+    {
+      "start": 5876.09,
+      "end": 5878.49,
+      "text": "Nonetheless, that was recorded, incidentally, when they were a four-piece."
+    },
+    {
+      "start": 5878.57,
+      "end": 5882.21,
+      "text": "Now they're a five-piece, and they incorporate another guitarist by the name of John Sykes,"
+    },
+    {
+      "start": 5882.25,
+      "end": 5884.27,
+      "text": "and he's going to be making his debut with the band at Reading."
+    },
+    {
+      "start": 5884.71,
+      "end": 5887.35,
+      "text": "Right, back into the archives, way back to 1968."
+    },
+    {
+      "start": 5887.61,
+      "end": 5890.73,
+      "text": "This session features Mr. Jimmy Page, and it's by the Yardbirds."
+    },
+    {
+      "start": 5890.73,
+      "end": 6089.38,
+      "text": "Every night she goes out with men to travel"
+    },
+    {
+      "start": 6089.38,
+      "end": 6094.18,
+      "text": "In the carnets of ecstasy"
+    },
+    {
+      "start": 6094.18,
+      "end": 6096.58,
+      "text": "Good night, sweet Josephine"
+    },
+    {
+      "start": 6096.58,
+      "end": 6098.6,
+      "text": "Listen, no one else quite like you"
+    },
+    {
+      "start": 6098.6,
+      "end": 6102.64,
+      "text": "If Josephine could, she'd give you her blood"
+    },
+    {
+      "start": 6102.64,
+      "end": 6107.36,
+      "text": "I know that she would, love to"
+    },
+    {
+      "start": 6107.36,
+      "end": 6127.98,
+      "text": "Good night, sweet Josephine, we love you to destruction"
+    },
+    {
+      "start": 6127.98,
+      "end": 6131.58,
+      "text": "Whatever she does, the police will take no action"
+    },
+    {
+      "start": 6131.58,
+      "end": 6136.38,
+      "text": "They're all in love with Josephine"
+    },
+    {
+      "start": 6136.38,
+      "end": 6140.58,
+      "text": "It's right that Josephine should do just as she pleases"
+    },
+    {
+      "start": 6140.58,
+      "end": 6144.86,
+      "text": "And whether or not you like what she's got"
+    },
+    {
+      "start": 6144.86,
+      "end": 6149.92,
+      "text": "She's guaranteed not to blame you"
+    },
+    {
+      "start": 6149.92,
+      "end": 6227.03,
+      "text": "Yardbirds one more time with that super special Yardbirds sound"
+    },
+    {
+      "start": 6227.03,
+      "end": 6229.25,
+      "text": "And a song of their own called My Baby"
+    },
+    {
+      "start": 6229.25,
+      "end": 6390.03,
+      "text": "That was the last session they ever recorded for the BBC"
+    },
+    {
+      "start": 6390.03,
+      "end": 6392.31,
+      "text": "Way back in 1968, the Yardbirds"
+    },
+    {
+      "start": 6392.31,
+      "end": 6395.95,
+      "text": "The three tracks were Think About It, Good Night Sweet Josephine and My Baby"
+    },
+    {
+      "start": 6395.95,
+      "end": 6398.45,
+      "text": "And that was specially for all Yardbirds freaks"
+    },
+    {
+      "start": 6398.45,
+      "end": 6402.25,
+      "text": "who wrote in and demanded we play something by them out of the archives."
+    },
+    {
+      "start": 6402.77,
+      "end": 6403.95,
+      "text": "Here's Diamond Head."
+    },
+    {
+      "start": 6404.85,
+      "end": 6755.24,
+      "text": "From an album that's coming out shortly on Media Records,"
+    },
+    {
+      "start": 6755.36,
+      "end": 6758.38,
+      "text": "it's by Diamond Head, and the track we played you there was called Am I Evil?"
+    },
+    {
+      "start": 6758.54,
+      "end": 6761.6,
+      "text": "And I have a feeling we're going to be playing more from that album in the weeks that follow."
+    },
+    {
+      "start": 6762.02,
+      "end": 6764.96,
+      "text": "We're going to finish tonight with a track by Taurus, which is called Paper Chaser,"
+    },
+    {
+      "start": 6765.0,
+      "end": 6767.7,
+      "text": "but just before I start to play it, let me tell you what Taurus are doing."
+    },
+    {
+      "start": 6767.7,
+      "end": 6770.72,
+      "text": "Gig-wise, on the 11th of August, the Old Kent Road at Redcar,"
+    },
+    {
+      "start": 6771.04,
+      "end": 6772.62,
+      "text": "18th of August, London Music Machine,"
+    },
+    {
+      "start": 6772.76,
+      "end": 6774.74,
+      "text": "19th and 20th of August at the London Marquee,"
+    },
+    {
+      "start": 6774.74,
+      "end": 6777.1,
+      "text": "21st of August at the Bristol Granary Club"
+    },
+    {
+      "start": 6777.1,
+      "end": 6779.1,
+      "text": "23rd, Marshall Rooms in Stroud"
+    },
+    {
+      "start": 6779.1,
+      "end": 6780.32,
+      "text": "or Stroud"
+    },
+    {
+      "start": 6780.32,
+      "end": 6782.52,
+      "text": "24th of August, Effington Park Manor"
+    },
+    {
+      "start": 6782.52,
+      "end": 6783.92,
+      "text": "Stratford-upon-Avon"
+    },
+    {
+      "start": 6783.92,
+      "end": 6787.64,
+      "text": "and also they are at the moment in the process of getting a major record deal"
+    },
+    {
+      "start": 6787.64,
+      "end": 6789.94,
+      "text": "this track has been requested by a lot of people again"
+    },
+    {
+      "start": 6789.94,
+      "end": 6791.84,
+      "text": "it's Taurus and Paper Chaser"
+    },
+    {
+      "start": 6791.84,
+      "end": 7157.14,
+      "text": "that's another of the tracks you're going to find on Metal Explosion"
+    },
+    {
+      "start": 7157.14,
+      "end": 7158.34,
+      "text": "an LP coming out soon"
+    },
+    {
+      "start": 7158.34,
+      "end": 7161.22,
+      "text": "and that's it for this edition of the Friday Rock Show"
+    },
+    {
+      "start": 7161.22,
+      "end": 7162.74,
+      "text": "which I sincerely hope you enjoyed"
+    },
+    {
+      "start": 7162.74,
+      "end": 7165.02,
+      "text": "I'd like to know what you think about the new Yes"
+    },
+    {
+      "start": 7165.02,
+      "end": 7165.88,
+      "text": "let me know in the letters"
+    },
+    {
+      "start": 7167.54,
+      "end": 7168.94,
+      "text": "Our engineer tonight was Malcolm."
+    },
+    {
+      "start": 7169.18,
+      "end": 7170.6,
+      "text": "Malcolm, we thank you for your help."
+    },
+    {
+      "start": 7172.29,
+      "end": 7174.71,
+      "text": "Our producer is Tony Wilson, who's been working since 7.30,"
+    },
+    {
+      "start": 7174.77,
+      "end": 7176.67,
+      "text": "because he also produces Annie Nightingale at the moment."
+    },
+    {
+      "start": 7176.77,
+      "end": 7178.35,
+      "text": "He's walking around with stars in his eyes."
+    },
+    {
+      "start": 7178.45,
+      "end": 7179.63,
+      "text": "I'm going to ask him why."
+    },
+    {
+      "start": 7179.73,
+      "end": 7180.81,
+      "text": "Why, Wilson, why?"
+    },
+    {
+      "start": 7181.98,
+      "end": 7183.0,
+      "text": "No, no answer."
+    },
+    {
+      "start": 7183.12,
+      "end": 7183.74,
+      "text": "Good night, everybody."
+    },
+    {
+      "start": 7184.82,
+      "end": 7185.22,
+      "text": "Gotcha."
+    },
+    {
+      "start": 7188.88,
+      "end": 7191.34,
+      "text": "Don't forget, rock on Saturday, tomorrow, 4 to 7.30."
+    },
+    {
+      "start": 7191.8,
+      "end": 7192.92,
+      "text": "I'm Tommy Vance in London."
+    },
+    {
+      "start": 7193.04,
+      "end": 7194.58,
+      "text": "Wherever you are, I wish you well."
+    },
+    {
+      "start": 7195.46,
+      "end": 7197.36,
+      "text": "Tonight, from all of us on Radio 1."
+    },
+    {
+      "start": 7197.36,
+      "end": 7199.52,
+      "text": "And God bless, and back into the clown's uniform."
     }
   ]
 }
