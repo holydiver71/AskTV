@@ -80,6 +80,34 @@ Enrichment steps will add:
 
 ---
 
+## Scripts
+
+### `scripts/download_episodes.py` — Download episodes from Mixcloud
+
+Automates downloading Friday Rock Show MP3s from Mixcloud. It scrapes the [episode checklist](https://www.dawtrina.com/music/frs/checklist.html) to find the Mixcloud URL for each broadcast, then invokes `yt-dlp` to extract and save the audio as `FRS YYYY-MM-DD.mp3`.
+
+Files are saved to `FRSAudio/Source/<year>/`.  Already-downloaded files are detected by filename and skipped automatically.
+
+**Requirements:** `yt-dlp` on PATH (`sudo apt install yt-dlp`), plus `requests`, `beautifulsoup4`, and `lxml` in the virtual environment.
+
+```bash
+# Download all 1980 episodes
+python scripts/download_episodes.py 1980
+
+# Download only March 1981
+python scripts/download_episodes.py 1981 --month 03
+
+# Preview what would be downloaded without saving anything
+python scripts/download_episodes.py 1980 --dry-run
+
+# Pass saved browser cookies if Mixcloud requires login
+python scripts/download_episodes.py 1980 --cookies-browser chrome
+```
+
+Verbose diagnostic output is printed throughout (`[FETCH]`, `[PARSE]`, `[DOWNLOAD N/TOTAL]`, `[SKIP]`, `[OK]`, `[FAIL]`, `[DONE]`), so you can see exactly what is happening at every stage.
+
+---
+
 ## Tech Stack
 
 | Layer | Tool |
@@ -137,7 +165,54 @@ Notes:
 - Use `--year` (or the script-specific flags) to scope runs to a single year or set of files where supported.
 - Logs are written to the `logs/` directory (this is ignored by Git).
 
----
+### `scripts/check_lyrics_in_transcripts.py` — Detect leftover song lyrics in transcripts
+
+Purpose: look up song lyrics (Genius) for each `track_listing` entry and check whether lyric snippets remain in the cleaned `transcript` segments. Flags are written to a JSON report (default `logs/lyrics_flags.json`) and, when requested, a `lyrics_flag` and `lyrics_match_snippet` are added to the matching `track_listing` entry in the episode JSON.
+
+Requirements:
+- `requests`, `beautifulsoup4` (install in the project virtualenv)
+- A Genius API token exported as `GENIUS_API_TOKEN` in your shell environment
+
+Important notes:
+- Run this after `scripts/clean_transcripts.py` to flag residual lyric text left in the cleaned transcripts.
+- The script uses the Genius web pages to extract lyrics; be mindful of rate limits and polite scraping. Use the `--write` flag to annotate episode JSON files in-place. Increase timing delays in the script if you hit rate limits.
+
+Basic usage examples (run from the workspace root):
+
+Single episode (report only):
+```bash
+GENIUS_API_TOKEN="YOUR_TOKEN_HERE" python3 scripts/check_lyrics_in_transcripts.py --episode 'data/episodes/1980/FRS 1980-01-04.json' --output logs/lyrics_flags.json
+```
+
+All episodes (report only):
+```bash
+GENIUS_API_TOKEN="YOUR_TOKEN_HERE" python3 scripts/check_lyrics_in_transcripts.py --episodes-dir data/episodes --output logs/lyrics_flags.json
+```
+
+All episodes and write flags back into the episode JSON files:
+```bash
+GENIUS_API_TOKEN="YOUR_TOKEN_HERE" python3 scripts/check_lyrics_in_transcripts.py --episodes-dir data/episodes --write --output logs/lyrics_flags.json
+```
+
+The output JSON contains entries like:
+
+```
+[
+  {
+    "episode": "data/episodes/1980/FRS 1980-01-04.json",
+    "track_index": 2,
+    "artist": "AC/DC",
+    "title": "Can I Sit Next To You?",
+    "genius_url": "https://genius.com/...",
+    "matched_snippet": "can i sit next to",
+    "match_type": "exact",
+    "transcript_start": 1327.9
+  }
+]
+```
+
+This `transcript_start` value is the `start` attribute of the transcript element where the match was found, so you can jump directly to the segment in the episode JSON for manual review.
+
 ---
 
 ## Licence
