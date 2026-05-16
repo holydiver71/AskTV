@@ -160,10 +160,47 @@ Output: ../FRSAudio/128kbps/1980/FRS 1980-01-04_128kps.mp3
 - Purpose: Run the multi-phase cleaner that strips hallucinations, trims extreme-duration segments, and inserts `[Music]` placeholders where appropriate. This produces the final cleaned `transcript` arrays in the episode JSON files.
 - Example: `python scripts/clean_transcripts.py --year 1980`
 
+4. Address redaction
+- Purpose: Redact listener postal addresses (house number + street name) from the cleaned transcript segments, replacing them with `[redacted address]` while preserving the area/region. The BBC Radio 1 broadcaster address is never redacted.
+- When to run: After `clean_transcripts.py`. Works on the `transcript` arrays already present in the episode JSON files.
+- Example: `python scripts/redact_addresses.py`
+
+5. Lyrics detection (optional)
+- Purpose: Cross-reference `track_listing` entries against Genius lyrics and flag any lyric snippets that remain in the cleaned transcript segments. Useful for identifying music content that Whisper transcribed rather than labelling as `[Music]`.
+- When to run: After `clean_transcripts.py` and `redact_addresses.py`. Requires a Genius API token.
+- Example: `GENIUS_API_TOKEN="YOUR_TOKEN" python scripts/check_lyrics_in_transcripts.py --episodes-dir data/episodes --output logs/lyrics_flags.json`
+
 Notes:
-- Run the steps in the above order for best results: conversion (if needed) → transcription → fingerprinting → cleaning.
+- Run the steps in the above order for best results: conversion (if needed) → transcription → fingerprinting → cleaning → address redaction → lyrics detection.
 - Use `--year` (or the script-specific flags) to scope runs to a single year or set of files where supported.
 - Logs are written to the `logs/` directory (this is ignored by Git).
+
+### `scripts/redact_addresses.py` — Redact listener postal addresses
+
+Purpose: scan every `transcript` segment in the episode JSON files and replace listener house numbers and street names with `[redacted address]`. Area, town, and region information is preserved. The BBC Radio 1 broadcaster address (`BBC Radio 1, London, W1A4WW`) is never redacted.
+
+Handles:
+- Standard numeric addresses — `224 Chester Road` → `[redacted address]`
+- Written house numbers — `Five Somerdale Gardens` → `[redacted address]`
+- `No.` / `number` prefixed addresses — `No. 5 Green Lodge Terrace`, `number 40 Queensway`
+- Flat/apartment prefixes — `Flat One, 7 Travis Place`
+- Multi-segment splits where the street name bleeds into the next transcript tag
+
+**When to run:** After `scripts/clean_transcripts.py` and before any database upload or public-facing use.
+
+Basic usage (run from the workspace root):
+
+```bash
+# Redact all 1980 episodes in-place
+python scripts/redact_addresses.py
+
+# Preview changes without writing any files
+python scripts/redact_addresses.py --dry-run
+```
+
+The script writes a log to `logs/redact_addresses.log` showing the number of redactions per episode and a grand total.
+
+---
 
 ### `scripts/check_lyrics_in_transcripts.py` — Detect leftover song lyrics in transcripts
 
