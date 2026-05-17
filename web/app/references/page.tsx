@@ -75,9 +75,9 @@ export default function ReferencesPage() {
         <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
           <p>
             The Ask Tommy knowledge base is built entirely from Tommy&apos;s own
-            words — nothing more, nothing less. Episode metadata was sourced from
+            words — nothing more, nothing less. Episode metadata and audio was sourced from
             the Fandom Wiki and Hal C.F. Astell&apos;s episode guide; the transcripts were
-            generated directly from the original broadcast recordings using
+            generated directly from those audio recordings using
             Whisper.
           </p>
           <p>
@@ -107,7 +107,7 @@ export default function ReferencesPage() {
 
         <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
           <p>
-            Ask Tommy is styled after Tommy Vance, known as "The Music
+            Ask TV is styled after Tommy Vance, "The Music
             Vendor," with a warm late-night broadcast tone, deep rock and
             metal knowledge, and understated humor.
           </p>
