@@ -57,3 +57,4 @@ urllib3==2.7.0
 yarl==1.23.0
 openai
 supabase
+curl-cffi

@@ -17,7 +17,6 @@ encoded as 128kbps MP3 files used by the rest of the pipeline.
 import argparse
 import subprocess
 from pathlib import Path
-import sys
 
 
 def convert_file(src: Path, dst: Path, bitrate: str, dry_run: bool) -> bool:

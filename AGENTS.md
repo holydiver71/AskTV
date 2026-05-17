@@ -63,3 +63,5 @@ All phase plans live in `plans/`. Each plan step has a checkbox (`- [ ]`). **Whe
 - **Tables**: `episodes`, `tracks`, `sessions`, `transcript_segments`
 - **Frontend**: Next.js + Tailwind CSS + Shadcn/UI
 - **Chatbot persona**: Tommy Vance style; every answer must cite `[YYYY-MM-DD @ HH:MM:SS]`
+
+All python code generated or changed must be linted. Do not report a task as being done until not linting issues exist in the code. 

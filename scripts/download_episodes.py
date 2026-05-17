@@ -260,7 +260,7 @@ def main() -> int:
     out_dir = OUTPUT_BASE / str(args.year)
 
     log("START", "=" * 60)
-    log("START", f"Friday Rock Show episode downloader")
+    log("START", "Friday Rock Show episode downloader")
     log("START", f"  Year   : {args.year}")
     log("START", f"  Months : {month_label}")
     log("START", f"  Output : {out_dir}")

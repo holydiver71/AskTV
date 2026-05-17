@@ -148,6 +148,20 @@ Source: ../FRSAudio/Source/1980/FRS 1980-01-04.mp3
 Output: ../FRSAudio/128kbps/1980/FRS 1980-01-04_128kps.mp3
 ```
 
+0.5 Metadata scraping (scripts/extractor.py)
+- Purpose: Scrape the Friday Rock Show Fandom Wiki to generate the initial
+  episode JSON files used throughout the pipeline. This produces
+  `data/episodes/<YEAR>/FRS YYYY-MM-DD.json` files containing `show`,
+  `sessions`, and `track_listing` data used by later steps.
+- When to run: Run this before transcription so subsequent steps can read
+  episode metadata from the JSON files.
+- Requirements: `curl-cffi`, `beautifulsoup4`, `lxml` (install into the
+  project virtualenv). Place your exported Fandom cookies at the repo root
+  as `cookies.txt` (Netscape format) so the extractor can access any pages
+  that require login.
+- Example: `python scripts/extractor.py` (edit `YEAR` at the top of the file
+  or modify the script to accept a `--year` flag).
+
 1. Transcription
 - Purpose: Run Whisper to produce raw, timestamped transcript JSON for each episode audio file.
 - Example: `python scripts/transcribe_1980.py --year 1980`
