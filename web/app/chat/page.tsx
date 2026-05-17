@@ -149,7 +149,7 @@ export default function ChatPage() {
           <div className="text-center space-y-1">
             <h1 className="text-2xl font-bold tracking-tight">Tommy Vance</h1>
             <p className="text-muted-foreground text-sm">
-              The Friday Rock Show Archive · Ask anything about the 1980 shows
+              The Friday Rock Show Archive · Ask me anything about the shows
             </p>
             <p className="text-xs text-amber-300/90">
               Temporary note: only 1980 episodes are currently available to
@@ -300,7 +300,7 @@ const QueryInput = forwardRef<
       <Button
         onClick={onSubmit}
         disabled={isLoading}
-        className="shrink-0 h-11 px-4"
+        className="shrink-0 h-[52px] px-4"
         aria-label={submitLabel}
       >
           {isLoading ? "…" : "AskTV"}

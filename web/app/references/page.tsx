@@ -43,7 +43,7 @@ export default function ReferencesPage() {
               rel="noopener noreferrer"
               className="text-sm font-medium text-primary hover:underline"
             >
-              Friday Rock Show Episode Guide ↗
+              Hal C. F. Astell's The Friday Rock Show ↗
             </a>
             <p className="text-sm text-muted-foreground leading-relaxed">
               A valuable source of episode information and broadcast history.
@@ -65,6 +65,39 @@ export default function ReferencesPage() {
             </p>
           </li>
         </ul>
+      </section>
+
+      <section className="space-y-3">
+        <h2 className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+          What&apos;s in the Knowledge Base
+        </h2>
+
+        <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
+          <p>
+            The Ask Tommy knowledge base is built entirely from Tommy&apos;s own
+            words — nothing more, nothing less. Episode metadata was sourced from
+            the Fandom Wiki and Hal C.F. Astell&apos;s episode guide; the transcripts were
+            generated directly from the original broadcast recordings using
+            Whisper.
+          </p>
+          <p>
+            Song lyrics have been stripped out so the model focuses purely on
+            Tommy&apos;s introductions, dedications, and commentary — the stuff that
+            actually makes the show special.
+          </p>
+          <p>
+            Tommy was famously generous about reading out listeners&apos; full home
+            addresses on air — a wonderfully innocent pre-internet habit. Those
+            addresses have been quietly removed. The towns and regions are kept
+            (Tommy&apos;s shout-outs to Sutton Coldfield are sacred), but specific
+            house numbers and street names are replaced with{" "}
+            <code className="text-xs bg-muted px-1 py-0.5 rounded">
+              [redacted address]
+            </code>
+            . The spirit of the dedications lives on; the stalker-enabling parts
+            do not.
+          </p>
+        </div>
       </section>
 
       <section className="space-y-3">

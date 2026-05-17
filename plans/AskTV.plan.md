@@ -85,7 +85,19 @@ Prepare and upload the enriched 1980 data to the cloud. Full step-by-step plan: 
 
 ---
 
-## 5. Phase 3: The Research UI (Next.js)
+## 5. What's Actually in the Brain? 🧠
+
+The AskTV knowledge base is built entirely from **Tommy's own words** — nothing more, nothing less. Here's how the sausage is made:
+
+- **Source material**: Episode metadata (track listings, session details) was scraped from the [Friday Rock Show Fandom Wiki](https://fridayrockshow.fandom.com/wiki) and cross-referenced with the community episode guide. The audio transcripts were generated directly from the original 1980 broadcasts using Whisper.
+- **Lyrics? Binned.** The transcripts were scrubbed of song lyrics so the model focuses purely on Tommy's introductions, dedications, and commentary — the stuff that actually makes the show special.
+- **Privacy, 1980s-style**: Tommy was famously generous about reading out listeners' full home addresses on air — a wonderfully innocent pre-internet habit. Those addresses have been quietly removed from the transcripts. The towns and regions are kept (Tommy's shout-outs to Sutton Coldfield are sacred), but specific house numbers and street names are replaced with `[redacted address]`. The *spirit* of the dedications lives on; the stalker-enabling parts do not.
+
+The result is a clean, Tommy-centric corpus: 49 episodes of rock history filtered down to the voice, personality, and encyclopaedic knowledge of the man himself.
+
+---
+
+## 6. Phase 3: The Research UI (Next.js)
 Build the frontend registry and AI interface.
 
 ### Step A: The Registry View
@@ -108,7 +120,7 @@ For the full, detailed Phase 3 execution plan see [plans/phase3.md](plans/phase3
 
 ---
 
-## 6. Technical Instructions for Copilot
+## 7. Technical Instructions for Copilot
 When executing scripts:
 1. **File Matching**: Always match MP3 and JSON files by the `YYYY-MM-DD` date string.
 2. **Error Handling**: Implement logging for failed transcriptions or Shazam mismatches.
