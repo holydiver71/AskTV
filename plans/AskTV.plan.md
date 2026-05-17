@@ -22,6 +22,7 @@ The full Phase 1 pipeline for the 1980 archive has been completed.
 * **Important Web Resources**
     * **Fandom Wiki**: https://fridayrockshow.fandom.com/wiki
     * **Episode Guide**: https://www.dawtrina.com/music/frs/checklist.html?fbclid=IwY2xjawRyhTBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeiyTIzB8zfnwqr93Dpif7vYKMSTGizrdPOTApWIsHzTR4OIudtNe7czZiBig_aem_u3RNl1-iZVDQN6xfy4Wccw
+    * **Facebook**: https://www.facebook.com/groups/170443413007183
 
 ---
 
@@ -90,6 +91,8 @@ Build the frontend registry and AI interface.
 ### Step A: The Registry View
 * **Feature**: A searchable logbook of all 1980 episodes, tracks, and sessions.
 * **Stack**: Next.js, Tailwind CSS, Shadcn/UI.
+
+For the full, detailed Phase 3 execution plan see [plans/phase3.md](plans/phase3.md).
 
 ### Step B: The RAG Chatbot
 * **Feature**: A chat interface that queries the Supabase vector store to answer questions about the 1980 shows.

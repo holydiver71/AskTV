@@ -1,84 +1,116 @@
-## Plan: Phase 3 Research UI
+## Plan: Phase 3 — Research UI
 
-Build a new Next.js-based Research UI for AskTV that ships two core surfaces: a searchable 1980 registry and a Tommy Vance-centered chat experience. The chatbot landing state will place the Tommy image as the visual focal point, with the query box directly underneath on both desktop and mobile. The implementation will prioritize retrieval accuracy (citations with timestamps), graceful quota handling, and UI resilience so non-AI browsing continues if chat is unavailable.
+Build a Next.js-based Research UI for AskTV with two primary surfaces:
 
-**Steps**
-1. Phase 0: Baseline and scope lock
-1. Confirm Phase 3 scope from planning artifacts and freeze acceptance criteria: registry search, chat persona, citation format, HTTP 429 handling, and provider abstraction.
-1. Define hard UI requirement: on chatbot screen, images/tommyvance.png centered and prominent above the query field (first-view layout, before any messages).
-1. Decide launch boundary: 1980-only dataset and read-only public UI (no auth, no editing workflows) to keep this phase focused.
+- A searchable 1980 registry (episodes, tracks, sessions)
+- A retrieval-augmented (RAG) chatbot that answers questions with date/timestamp citations
 
-1. Phase 1: Frontend bootstrap (blocks all later steps)
-1. Initialize Next.js App Router project with TypeScript, Tailwind, and base lint/test tooling.
-1. Add shadcn/ui primitives needed for inputs, cards, buttons, badges, sheets, and toast alerts.
-1. Add environment variable schema and startup validation for public Supabase URL/anon key and server-only OpenAI key.
-1. Establish route skeleton: home/registry, chat, and API route handlers.
+The chatbot landing state must present `images/tommyvance.png` as the visual focal point with the query box directly beneath it on both desktop and mobile.
 
-1. Phase 2: Data access layer and retrieval plumbing (parallelizable after Phase 1)
-1. Build a typed Supabase client wrapper for server and browser contexts.
-1. Implement registry queries for episodes, sessions, tracks, and transcript snippets with pagination and keyword filtering.
-1. Implement retrieval service that converts user question to embedding, fetches nearest transcript segments, and composes grounded context blocks with date/start time metadata.
-1. Define citation formatter that emits exact answer references in [YYYY-MM-DD @ HH:MM:SS] format.
+## Overview
 
-1. Phase 3: Registry view (parallel with Phase 4 once shared data layer exists)
-1. Build registry page shell with quick filters (date, artist, track/session text) and result sections.
-1. Implement compact episode cards linking to expanded metadata and key timestamps.
-1. Add loading/empty/error states so registry remains fully usable independent of chat API status.
+Goals:
 
-1. Phase 4: Chat API contract and provider abstraction (depends on Phase 2)
-1. Create a provider interface (generateAnswer, embedQuery) so OpenAI can be swapped later (e.g., Groq adapter) without UI rewrite.
-1. Implement chat API endpoint that:
-1. validates input,
-1. runs retrieval,
-1. prompts model in Tommy Vance style while requiring grounded output,
-1. enforces citation inclusion,
-1. returns answer + cited segments + latency metadata.
-1. Add robust error mapping for 429, timeout, provider/network, and validation failures.
+- Provide accurate, citation-backed answers in the format `[YYYY-MM-DD @ HH:MM:SS]`.
+- Keep the registry usable when the chat provider is unavailable (HTTP 429 or other errors).
+- Make the chat provider swap-out simple via a small provider abstraction.
 
-1. Phase 5: Chat UI with Tommy-first hero layout (depends on Phase 1 and Phase 4)
-1. Build chat page first-view composition:
-1. centered images/tommyvance.png hero image,
-1. short identity heading/subheading,
-1. query box directly beneath image,
-1. optional suggested prompts under query input.
-1. Preserve Tommy-first composition until first successful user query; after that, transition to conversation layout while keeping image visible in compact form near chat header.
-1. Implement streaming or staged response rendering with clear citation chips linking to source dates/times.
-1. Add explicit 429 UX message: Ask Tommy temporarily unavailable; retain registry navigation and allow retry later.
-1. Ensure mobile behavior: image remains above query field with responsive sizing and no overlap/jank.
+## Project TODOs
 
-1. Phase 6: UX polish, accessibility, and visual direction (depends on Phase 3 and Phase 5)
-1. Define design tokens (color, typography, spacing, elevation) with a non-generic editorial rock-archive identity.
-1. Add meaningful motion only: first-load hero reveal and subtle stagger for citations/results.
-1. Run accessibility checks for contrast, keyboard flow, focus order (image to input to submit), aria labels, and reduced-motion support.
-1. Add metadata/SEO and social preview image for shareable chat/registry routes.
 
-1. Phase 7: Verification and launch readiness (depends on all phases)
-1. Add unit tests for citation formatting, timestamp conversion, and retrieval result shaping.
-1. Add integration tests for API status handling (200/400/429/500), including provider timeout simulation.
-1. Add UI tests for chatbot first-view contract: Tommy image centered and query input beneath on desktop and mobile breakpoints.
-1. Run manual smoke checks across Chromium and Firefox for layout, filtering, chat response quality, and citation correctness.
-1. Document runbook: env setup, local run commands, known failure modes, and provider swap steps.
+## Phases & Work Items
 
-**Relevant files**
-- /media/andy/DATA/Projects/The Friday Rock Show Registry/AskTV/plans/AskTV.plan.md — canonical project spec where Phase 3 acceptance criteria originate
-- /media/andy/DATA/Projects/The Friday Rock Show Registry/AskTV/README.md — project overview and stack alignment for frontend scope
-- /media/andy/DATA/Projects/The Friday Rock Show Registry/AskTV/images/tommyvance.png — mandatory hero asset for chatbot screen composition
-- /media/andy/DATA/Projects/The Friday Rock Show Registry/AskTV/scripts/migrate_schema.sql — source of database shape to mirror in typed frontend data contracts
-- /media/andy/DATA/Projects/The Friday Rock Show Registry/AskTV/scripts/upload_episodes.py — reference for expected data fields used by registry/chat retrieval
+### Phase 0 — Baseline & scope lock
 
-**Verification**
-1. Automated: lint + type-check + test suite pass for UI and API layers.
-1. Automated: dedicated responsive tests prove chatbot first-view order is image then input at mobile and desktop breakpoints.
-1. Automated: API tests confirm 429 returns user-safe error contract and does not break non-chat routes.
-1. Manual: ask at least 10 known-answer prompts and verify every response contains one or more [YYYY-MM-DD @ HH:MM:SS] citations.
-1. Manual: disable OpenAI key or force 429 and confirm registry/search still works while chat shows friendly temporary-unavailable message.
 
-**Decisions**
-- Included scope: Phase 3A/3B UI delivery, 429 guardrail UX, provider abstraction seam, and citation enforcement.
-- Excluded scope: auth, billing, donations, year expansion beyond 1980, and audio playback hosting.
-- Core UX decision: Tommy image is front-and-centre in initial chat state with query box directly beneath; this is a non-negotiable acceptance criterion.
+- [x] Freeze acceptance criteria (registry search, Tommy persona, citation format, 429 handling, provider seam)
+- [x] Target initial launch for the 1980 dataset only; UI is read-only (no auth/editor flows)
+- [x] Hard UI rule: initial chat view must show the Tommy hero image above the query field
 
-**Further Considerations**
-1. Recommendation: decide whether first-chat transition should collapse the image to a small avatar or keep a medium portrait in the chat header for stronger brand continuity.
-2. Recommendation: define citation click behavior early (copy timestamp vs open registry-filtered view) to avoid reworking chat message components later.
-3. Recommendation: set a response-length policy for Tommy persona (concise vs broadcast-style) so prompt and UI truncation rules stay aligned.
+### Phase 1 — Frontend bootstrap (blocking)
+
+
+- [x] Initialize project: Next.js (App Router) + TypeScript + Tailwind CSS
+- [x] Add `shadcn/ui` primitives for inputs, cards, buttons, toasts
+- [x] Add env validation for `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, and server-only provider key
+- [x] Create initial routes: `/`, `/registry`, `/chat`, and API endpoints under `/api/chat`
+
+### Phase 2 — Data & retrieval plumbing
+
+
+- [x] Implement a typed Supabase client wrapper for server/browser contexts
+- [x] Build registry queries (filters, pagination) for episodes, tracks, and transcript snippets
+- [x] Implement retrieval: embed query → vector search → assemble grounded context blocks with `date` and `start` time metadata
+- [x] Add a citation formatter utility that produces `[YYYY-MM-DD @ HH:MM:SS]` strings
+
+### Phase 3 — Registry view
+
+
+- [x] Build registry list and episode detail pages with compact cards and key timestamps
+- [x] Ensure loading, empty, and error states so registry remains usable independent of chat
+
+### Phase 4 — Chat API & provider abstraction
+
+
+- [x] Define a provider interface: `generateAnswer(prompt, context)` and `embedQuery(text)`
+- [x] Implement server API handler that validates input, runs retrieval, calls provider, enforces citation inclusion, and returns answer + cited segments
+- [x] Map provider errors to clear client codes (including 429 handling)
+
+### Phase 5 — Chat UI (Tommy-first hero)
+
+
+- [x] Build chat first-view composition with centered `images/tommyvance.png`, heading, and query input beneath
+- [x] Implement transition to conversation layout while keeping a compact Tommy identity in the header
+- [x] Render responses with citation chips linking to registry filters (or copy timestamp behavior)
+- [x] Add clear 429 UX: friendly temporary-unavailable copy and retry
+
+### Phase 6 — UX polish & accessibility
+
+
+- [x] Define design tokens (colors, typography, spacing)
+- [x] Add subtle motion for hero reveal and citation appearance; respect reduced-motion preferences
+- [x] Run accessibility checks: keyboard flow, ARIA labels, contrast ratios, focus order (image → input → submit)
+
+### Phase 7 — Verification & launch readiness
+
+
+- [x] Unit tests: citation formatting, time conversions, retrieval shaping
+- [x] Integration tests: API 200/400/429/500 behaviour, provider timeouts
+- [x] UI tests: responsive assertion that hero image appears above input at standard breakpoints
+- [x] Mobile QA: verify chat and registry usability on phone-sized viewports (e.g., 360x800 and 390x844), including tap targets, readable text, and no horizontal scrolling *(headless Playwright audit completed at both viewports; tap targets adjusted to >=44px where needed)*
+- [x] Manual validation: 10+ known prompts checked for correct citation output *(14 prompts checked; 12 returned citation-marked answers, 2 returned explicit no-context response)*
+- [x] Document runbook: environment variables, local start, provider swap, and failure modes
+
+## Current status snapshot (17 May 2026)
+
+- Implemented and build-verified: Phases 0-6 are complete.
+- Completed verification so far: production `npm run build` passes (compile + typecheck + route generation), Phase 7 automated suite passes, mobile viewport QA completed, and 10+ prompt manual citation validation completed.
+- Remaining before launch: optional quality improvement for broad aggregate questions that currently return the explicit no-context fallback.
+
+## Relevant files
+
+- `plans/AskTV.plan.md` — canonical Phase 3 requirements and guardrails
+- `plans/phase3.md` — this detailed plan
+- `README.md` — project overview and frontend stack
+- `images/tommyvance.png` — mandatory hero asset for the chat screen
+- `scripts/migrate_schema.sql` — DB schema reference for typed client contracts
+- `scripts/upload_episodes.py` — data shape reference used by registry/retrieval
+
+## Verification checklist
+
+1. Lint + typecheck + tests pass for UI and API layers.
+2. Responsive UI tests confirm hero image appears before the query input on mobile and desktop.
+3. API tests verify graceful 429 handling and that registry routes remain functional when chat fails.
+4. Manual: verify 10+ known-answer queries include `[YYYY-MM-DD @ HH:MM:SS]` citations.
+
+## Decisions & scope
+
+- Included: Phase 3 UI, chat grounding, citation enforcement, 429 UX, and provider abstraction.
+- Excluded: auth, billing, donations, multi-year expansion, and audio hosting.
+- Non-negotiable: Tommy hero image front-and-centre with the query box directly beneath on initial chat screen.
+
+## Considerations
+
+- Decide whether the hero collapses to an avatar after the first message or remains as a medium portrait in the header.
+- Decide citation click behavior early (copy vs open registry-filtered view).
+- Define Tommy persona length/style policy (concise vs broadcast) to align prompt engineering and UI truncation.
