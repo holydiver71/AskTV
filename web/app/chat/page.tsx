@@ -27,6 +27,7 @@ export default function ChatPage() {
   const [isLoading, setIsLoading] = useState(false);
   const bottomRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLTextAreaElement>(null);
+  const shouldRefocusInput = useRef(false);
   const hasMessages = messages.length > 0;
 
   useEffect(() => {
@@ -39,6 +40,21 @@ export default function ChatPage() {
       });
     }
   }, [messages, hasMessages]);
+
+  useEffect(() => {
+    if (isLoading || !shouldRefocusInput.current) return;
+    shouldRefocusInput.current = false;
+
+    const frame = window.requestAnimationFrame(() => {
+      const el = inputRef.current;
+      if (!el) return;
+      el.focus();
+      const end = el.value.length;
+      el.setSelectionRange(end, end);
+    });
+
+    return () => window.cancelAnimationFrame(frame);
+  }, [isLoading, hasMessages, messages.length]);
 
   async function handleSubmit(question?: string) {
     const text = (question ?? input).trim();
@@ -95,8 +111,8 @@ export default function ChatPage() {
         },
       ]);
     } finally {
+      shouldRefocusInput.current = true;
       setIsLoading(false);
-      inputRef.current?.focus();
     }
   }
 

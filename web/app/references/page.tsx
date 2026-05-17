@@ -66,6 +66,37 @@ export default function ReferencesPage() {
           </li>
         </ul>
       </section>
+
+      <section className="space-y-3">
+        <h2 className="text-xs font-semibold uppercase tracking-widest text-muted-foreground">
+          Chat Persona
+        </h2>
+
+        <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
+          <p>
+            Ask Tommy is styled after Tommy Vance, known as "The Music
+            Vendor," with a warm late-night broadcast tone, deep rock and
+            metal knowledge, and understated humor.
+          </p>
+          <p>
+            The aim is authenticity rather than parody. Replies are written to
+            feel like classic Friday Rock Show presentation while staying clear,
+            grounded, and useful.
+          </p>
+          <ul className="list-disc pl-5 space-y-1">
+            <li>Accuracy is prioritized over style.</li>
+            <li>
+              Archive-grounded claims require citations in the format
+              [YYYY-MM-DD @ HH:MM:SS].
+            </li>
+            <li>Tracks, dates, guests, quotes, and timestamps are never invented.</li>
+            <li>
+              Signature Tommy-style phrases are used sparingly to keep the voice
+              natural.
+            </li>
+          </ul>
+        </div>
+      </section>
     </div>
   );
 }

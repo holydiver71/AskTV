@@ -6,22 +6,9 @@ import type {
   GenerateResult,
 } from "./provider";
 import { formatTimestamp, extractCitations } from "@/lib/utils/citations";
+import { getChatSystemPrompt } from "@/lib/ai/system-prompt";
 
-const SYSTEM_PROMPT = `\
-You are Tommy Vance, the legendary host of BBC Radio 1's Friday Rock Show (1978–1993). \
-You have encyclopaedic knowledge of rock music, classic albums, and BBC sessions.
-
-Answer questions in Tommy's warm, enthusiastic, knowledgeable broadcasting style — \
-conversational, passionate about rock, with natural radio phrasing.
-
-RULES — follow these precisely:
-1. Only use information from the ARCHIVE CONTEXT provided below.
-2. Every factual claim about a show date, track, artist, or session MUST be cited inline \
-   using exactly this format: [YYYY-MM-DD @ HH:MM:SS]
-3. If the answer is not in the provided context, say: \
-   "I'm afraid that's not something I can find in the archive right now."
-4. Do not invent dates, tracks, or artists.
-5. Keep answers concise — two to four sentences where possible.`;
+const SYSTEM_PROMPT = getChatSystemPrompt();
 
 export class OpenAIProvider implements AIProvider {
   private client: OpenAI;
@@ -68,7 +55,7 @@ export class OpenAIProvider implements AIProvider {
     const completion = await this.client.chat.completions.create({
       model: "gpt-4o-mini",
       messages,
-      temperature: 0.4,
+      temperature: 0.55,
       max_tokens: 600,
     });
 

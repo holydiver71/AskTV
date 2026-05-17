@@ -9,6 +9,7 @@ Copy `.env.example` to `.env.local` and configure:
 - `NEXT_PUBLIC_SUPABASE_URL`
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 - `OPENAI_API_KEY`
+- `ASKTV_CHAT_SYSTEM_PROMPT` (optional override for chatbot persona/system prompt)
 
 ## Local Development
 

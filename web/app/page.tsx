@@ -21,13 +21,16 @@ export default function Home() {
         </h1>
         <p className="text-muted-foreground max-w-md mx-auto text-sm leading-relaxed">
           A high-fidelity digital archive of Tommy Vance&apos;s landmark rock show.
-          Browse every episode, track, and session from 1980 — or use Ask TV.
+          Browse every episode, track, and session from the archives — or use Ask TV.
+        </p>
+        <p className="text-xs text-amber-300/90">
+          Temporary note: only 1980 episodes are currently available to research.
         </p>
       </div>
 
       <div className="flex gap-3">
         <Link href="/chat" className={cn(buttonVariants({ size: "lg" }))}>Ask TV</Link>
-        <Link href="/registry" className={cn(buttonVariants({ variant: "outline", size: "lg" }))}>Browse Registry</Link>
+        <Link href="/registry" className={cn(buttonVariants({ variant: "outline", size: "lg" }))}>The Registry</Link>
       </div>
 
       <div className="relative w-28 h-40 rounded-lg overflow-hidden shadow-2xl ring-1 ring-white/10 opacity-85">
