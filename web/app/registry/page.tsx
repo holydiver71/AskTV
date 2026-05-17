@@ -1,4 +1,4 @@
-import { getEpisodes } from "@/lib/db/episodes";
+import { getEpisodes, getEpisodeYears } from "@/lib/db/episodes";
 import { EpisodeCard } from "@/components/episode-card";
 import { RegistryFilters } from "@/components/registry-filters";
 
@@ -9,16 +9,21 @@ export const metadata = {
 export default async function RegistryPage({
   searchParams,
 }: {
-  searchParams: Promise<{ artist?: string }>;
+  searchParams: Promise<{ artist?: string; year?: string }>;
 }) {
-  const { artist } = await searchParams;
+  const { artist, year } = await searchParams;
+  const selectedYear = year?.match(/^\d{4}$/) ? year : "";
 
   let episodes: Awaited<ReturnType<typeof getEpisodes>> = [];
+  let availableYears: string[] = [];
   let error: string | null = null;
 
   try {
-    // Load all 1980 episodes (49 total) — no pagination needed yet.
-    episodes = await getEpisodes({ artist, limit: 49 });
+    // Current dataset is small enough to fetch years and episodes together.
+    [episodes, availableYears] = await Promise.all([
+      getEpisodes({ artist, year: selectedYear, limit: 250 }),
+      getEpisodeYears(),
+    ]);
   } catch (err) {
     error = "Failed to load episodes. Please try again later.";
     console.error("[registry]", err);
@@ -29,19 +34,25 @@ export default async function RegistryPage({
       <div>
         <h1 className="text-3xl font-bold tracking-tight">Episode Registry</h1>
         <p className="text-muted-foreground mt-1 text-sm">
-          1980 broadcasts
+          {selectedYear || "All years"} broadcasts
           {artist ? ` · filtered by "${artist}"` : ""} ·{" "}
           {episodes.length} episode{episodes.length !== 1 ? "s" : ""}
         </p>
       </div>
 
-      <RegistryFilters artist={artist} />
+      <RegistryFilters
+        artist={artist}
+        year={selectedYear}
+        availableYears={availableYears}
+      />
 
       {error ? (
         <p className="text-destructive text-sm">{error}</p>
       ) : episodes.length === 0 ? (
         <p className="text-muted-foreground text-sm">
-          No episodes found{artist ? ` for artist "${artist}"` : ""}.
+          No episodes found
+          {selectedYear ? ` in ${selectedYear}` : ""}
+          {artist ? ` for artist "${artist}"` : ""}.
         </p>
       ) : (
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">

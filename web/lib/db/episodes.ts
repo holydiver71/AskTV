@@ -6,6 +6,7 @@ export type { Episode, EpisodeDetail, Session, Track };
 /** Fetch a paginated list of episodes, optionally filtered by artist name. */
 export async function getEpisodes(opts?: {
   artist?: string;
+  year?: string;
   limit?: number;
   offset?: number;
 }): Promise<Episode[]> {
@@ -33,8 +34,15 @@ export async function getEpisodes(opts?: {
   let query = supabase
     .from("episodes")
     .select("id, date, title, url, comments")
-    .order("date", { ascending: false })
-    .range(offset, offset + limit - 1);
+    .order("date", { ascending: false });
+
+  if (opts?.year?.match(/^\d{4}$/)) {
+    query = query
+      .gte("date", `${opts.year}-01-01`)
+      .lte("date", `${opts.year}-12-31`);
+  }
+
+  query = query.range(offset, offset + limit - 1);
 
   if (episodeIds) {
     query = query.in("id", episodeIds);
@@ -81,6 +89,25 @@ export async function getEpisodes(opts?: {
     episode_length_seconds: maxChunkEndByEpisode.get(ep.id) ?? null,
     session_artists: sessionArtistsByEpisode.get(ep.id) ?? [],
   }));
+}
+
+/** Fetch available episode years for UI filters. */
+export async function getEpisodeYears(): Promise<string[]> {
+  const supabase = await createSupabaseServer();
+  const { data, error } = await supabase
+    .from("episodes")
+    .select("date")
+    .order("date", { ascending: false });
+
+  if (error) throw new Error(`getEpisodeYears: ${error.message}`);
+
+  return [
+    ...new Set(
+      (data ?? [])
+        .map((row) => String(row.date).slice(0, 4))
+        .filter((year) => /^\d{4}$/.test(year))
+    ),
+  ];
 }
 
 /** Fetch a single episode with its full sessions and track listing. */

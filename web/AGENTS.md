@@ -32,3 +32,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 - Prefer additive changes over broad refactors unless required.
 - Keep user-facing failures friendly and actionable (`invalid_request`, `retrieval_not_configured`, `provider_timeout`, etc.).
 - Maintain concise responses in the Tommy voice, but never at the expense of factual grounding.
+When executing scripts:
+1. **File Matching**: Always match MP3 and JSON files by the `YYYY-MM-DD` date string.
+2. **Error Handling**: Implement logging for failed transcriptions or Shazam mismatches.
+3. **Efficiency**: Use `int8` quantization for Whisper to optimize for CPU processing.

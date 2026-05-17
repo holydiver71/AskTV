@@ -135,6 +135,10 @@ export default function ChatPage() {
             <p className="text-muted-foreground text-sm">
               The Friday Rock Show Archive · Ask anything about the 1980 shows
             </p>
+            <p className="text-xs text-amber-300/90">
+              Temporary note: only 1980 episodes are currently available to
+              research.
+            </p>
           </div>
 
           {/* Query box — directly beneath the image */}

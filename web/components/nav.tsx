@@ -12,16 +12,22 @@ export function Nav() {
         </Link>
         <div className="flex items-center gap-5 text-sm">
           <Link
-            href="/registry"
-            className="text-muted-foreground hover:text-foreground transition-colors"
-          >
-            Registry
-          </Link>
-          <Link
             href="/chat"
             className="text-muted-foreground hover:text-foreground transition-colors"
           >
-            Ask Tommy
+            Ask TV
+          </Link>
+          <Link
+            href="/registry"
+            className="text-muted-foreground hover:text-foreground transition-colors"
+          >
+            The Registry
+          </Link>
+          <Link
+            href="/references"
+            className="text-muted-foreground hover:text-foreground transition-colors"
+          >
+            References
           </Link>
         </div>
       </nav>
