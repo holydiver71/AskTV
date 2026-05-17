@@ -8,3 +8,5 @@ logs/
 # Audio files (large binary assets — not tracked in git)
 FRSAudio/
 FRSAudio
+.vercel
+.env*.local
