@@ -6,6 +6,8 @@ export type Episode = {
   title: string;
   url: string | null;
   comments: string[] | null;
+  episode_length_seconds?: number | null;
+  session_artists?: string[];
 };
 
 export type Session = {

@@ -42,7 +42,45 @@ export async function getEpisodes(opts?: {
 
   const { data, error } = await query;
   if (error) throw new Error(`getEpisodes: ${error.message}`);
-  return (data as Episode[]) ?? [];
+
+  const episodes = (data as Episode[]) ?? [];
+  if (episodes.length === 0) return episodes;
+
+  const episodeRowIds = episodes.map((ep) => ep.id);
+  const [{ data: sessions }, { data: transcriptSegments }] = await Promise.all([
+    supabase
+      .from("sessions")
+      .select("episode_id, artist, position")
+      .in("episode_id", episodeRowIds)
+      .order("position"),
+    supabase
+      .from("transcript_segments")
+      .select("episode_id, chunk_end")
+      .in("episode_id", episodeRowIds),
+  ]);
+
+  const sessionArtistsByEpisode = new Map<string, string[]>();
+  for (const s of sessions ?? []) {
+    const artists = sessionArtistsByEpisode.get(s.episode_id) ?? [];
+    if (!artists.includes(s.artist)) {
+      artists.push(s.artist);
+      sessionArtistsByEpisode.set(s.episode_id, artists);
+    }
+  }
+
+  const maxChunkEndByEpisode = new Map<string, number>();
+  for (const seg of transcriptSegments ?? []) {
+    const current = maxChunkEndByEpisode.get(seg.episode_id) ?? 0;
+    if (seg.chunk_end > current) {
+      maxChunkEndByEpisode.set(seg.episode_id, seg.chunk_end);
+    }
+  }
+
+  return episodes.map((ep) => ({
+    ...ep,
+    episode_length_seconds: maxChunkEndByEpisode.get(ep.id) ?? null,
+    session_artists: sessionArtistsByEpisode.get(ep.id) ?? [],
+  }));
 }
 
 /** Fetch a single episode with its full sessions and track listing. */
