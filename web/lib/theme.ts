@@ -6,7 +6,7 @@
 //   2. Add an entry to `themes` with the HTML classes it needs
 //   3. Add a corresponding CSS class block in app/globals.css
 
-export const THEME_IDS = ["default"] as const;
+export const THEME_IDS = ["default", "radio1"] as const;
 export type ThemeId = (typeof THEME_IDS)[number];
 
 interface ThemeConfig {
@@ -17,6 +17,8 @@ interface ThemeConfig {
 
 const themes: Record<ThemeId, ThemeConfig> = {
   default: { htmlClasses: ["dark"] },
+  // Light theme — no 'dark' class, so dark: Tailwind variants do not apply.
+  radio1: { htmlClasses: ["theme-radio1"] },
 };
 
 export function getThemeClasses(id: string): string[] {
