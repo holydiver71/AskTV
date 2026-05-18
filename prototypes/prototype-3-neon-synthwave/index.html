@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friday Rock Show — Archive Transmission</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+    body {
+      background: #0D0221;
+      color: #e0e0e0;
+      font-family: 'Courier New', Courier, monospace;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── SCANLINE OVERLAY ── */
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 2px,
+        rgba(0, 0, 0, 0.06) 2px,
+        rgba(0, 0, 0, 0.06) 4px
+      );
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    /* ── MASTHEAD ── */
+    .masthead {
+      background: linear-gradient(180deg, #0D0221 0%, #120336 100%);
+      border-bottom: 2px solid #FF0090;
+      box-shadow: 0 0 30px rgba(255, 0, 144, 0.4);
+      padding: 0 32px;
+    }
+
+    .masthead-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 28px 0 0;
+    }
+
+    .masthead-grid-line {
+      height: 2px;
+      background: linear-gradient(90deg, transparent, #FF0090, #00FFE7, transparent);
+      margin-bottom: 24px;
+      opacity: 0.6;
+    }
+
+    .transmission-label {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 6px;
+      text-transform: uppercase;
+      color: #00FFE7;
+      margin-bottom: 10px;
+      text-shadow: 0 0 10px #00FFE7;
+    }
+
+    .masthead-title {
+      font-family: 'Courier New', monospace;
+      font-size: clamp(2rem, 5vw, 3.8rem);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      color: #FF0090;
+      text-shadow: 0 0 20px rgba(255, 0, 144, 0.8), 0 0 60px rgba(255, 0, 144, 0.3);
+      line-height: 1;
+    }
+
+    .masthead-sub {
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #8B00FF;
+      margin-top: 8px;
+      text-shadow: 0 0 8px rgba(139, 0, 255, 0.6);
+    }
+
+    .masthead-bottom {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 16px 0 0;
+      border-top: 1px solid rgba(255, 0, 144, 0.2);
+      margin-top: 16px;
+    }
+
+    .masthead-freq {
+      font-size: 10px;
+      letter-spacing: 3px;
+      color: #00FFE7;
+      opacity: 0.7;
+    }
+
+    .tommy-portrait {
+      height: 140px;
+      width: auto;
+      object-fit: cover;
+      border: 2px solid #FF0090;
+      box-shadow: 0 0 20px rgba(255,0,144,0.6), 0 0 50px rgba(255,0,144,0.2);
+      filter: brightness(0.85) saturate(1.3) contrast(1.1);
+      display: block;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: rgba(13, 2, 33, 0.9);
+      border-bottom: 1px solid rgba(0, 255, 231, 0.2);
+      display: flex;
+      align-items: center;
+    }
+
+    nav a {
+      display: block;
+      padding: 12px 24px;
+      color: #555;
+      text-decoration: none;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-family: 'Courier New', monospace;
+      border-right: 1px solid rgba(0, 255, 231, 0.1);
+      transition: color 0.2s, text-shadow 0.2s;
+    }
+
+    nav a:hover, nav a.active {
+      color: #00FFE7;
+      text-shadow: 0 0 10px #00FFE7;
+    }
+
+    nav .nav-right { margin-left: auto; border-left: 1px solid rgba(0, 255, 231, 0.1); border-right: none !important; }
+
+    /* ── CONTENT ── */
+    .content-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 48px 32px 80px;
+    }
+
+    /* ── SECTION HEAD ── */
+    .sec-head {
+      margin-bottom: 36px;
+    }
+
+    .sec-head-tag {
+      font-size: 9px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      color: #00FFE7;
+      text-shadow: 0 0 8px #00FFE7;
+      margin-bottom: 8px;
+    }
+
+    .sec-head h2 {
+      font-size: clamp(1.4rem, 3vw, 2rem);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: #FF0090;
+      text-shadow: 0 0 15px rgba(255, 0, 144, 0.6);
+      line-height: 1;
+    }
+
+    .sec-head-line {
+      height: 1px;
+      background: linear-gradient(90deg, #FF0090, transparent);
+      margin-top: 12px;
+      box-shadow: 0 0 6px rgba(255, 0, 144, 0.4);
+    }
+
+    /* ── EPISODES GRID ── */
+    .episodes-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 16px;
+    }
+
+    .ep-card {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      background: rgba(13, 2, 33, 0.8);
+      border: 1px solid rgba(139, 0, 255, 0.3);
+      padding: 24px;
+      position: relative;
+      transition: border-color 0.3s, box-shadow 0.3s;
+      overflow: hidden;
+    }
+
+    .ep-card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(255, 0, 144, 0.04), rgba(0, 255, 231, 0.04));
+      pointer-events: none;
+    }
+
+    .ep-card::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: linear-gradient(90deg, #FF0090, #8B00FF, #00FFE7);
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+    .ep-card:hover {
+      border-color: rgba(255, 0, 144, 0.7);
+      box-shadow: 0 0 20px rgba(255, 0, 144, 0.2), 0 0 40px rgba(255, 0, 144, 0.08), inset 0 0 20px rgba(255, 0, 144, 0.04);
+    }
+
+    .ep-card:hover::after { opacity: 1; }
+
+    .ep-num {
+      font-size: 9px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #8B00FF;
+      text-shadow: 0 0 6px rgba(139, 0, 255, 0.6);
+      margin-bottom: 12px;
+    }
+
+    .ep-date {
+      font-size: 1.3rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #00FFE7;
+      text-shadow: 0 0 10px rgba(0, 255, 231, 0.5);
+      line-height: 1.2;
+      margin-bottom: 6px;
+    }
+
+    .ep-day {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #444;
+      margin-bottom: 20px;
+    }
+
+    .ep-divider {
+      height: 1px;
+      background: rgba(0, 255, 231, 0.15);
+      margin-bottom: 16px;
+    }
+
+    .ep-stats {
+      display: flex;
+      gap: 24px;
+    }
+
+    .ep-stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .ep-stat-num {
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #FF0090;
+      text-shadow: 0 0 10px rgba(255, 0, 144, 0.6);
+      line-height: 1;
+    }
+
+    .ep-stat-lbl {
+      font-size: 8px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #333;
+      margin-top: 4px;
+    }
+
+    .ep-cta {
+      margin-top: 16px;
+      font-size: 9px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: rgba(255, 0, 144, 0);
+      transition: color 0.2s;
+    }
+
+    .ep-card:hover .ep-cta { color: #FF0090; }
+
+    /* ── FOOTER ── */
+    .site-footer {
+      background: #080015;
+      border-top: 1px solid rgba(255, 0, 144, 0.3);
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 -10px 40px rgba(255, 0, 144, 0.05);
+    }
+
+    .site-footer p { font-size: 9px; letter-spacing: 4px; text-transform: uppercase; color: #333; }
+    .site-footer a { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; color: #00FFE7; text-decoration: none; text-shadow: 0 0 8px rgba(0, 255, 231, 0.4); }
+    .site-footer a:hover { color: #FF0090; text-shadow: 0 0 8px rgba(255, 0, 144, 0.6); }
+  </style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-grid-line"></div>
+    <div class="transmission-label">&gt;&gt; TRANSMISSION ARCHIVE &gt;&gt;</div>
+    <div class="masthead-title">Friday Rock Show</div>
+    <div class="masthead-sub">BBC Radio 1 &nbsp;//&nbsp; Tommy Vance &nbsp;//&nbsp; 1980</div>
+    <div class="masthead-bottom">
+      <span class="masthead-freq">FM 97.6 // 99.0 // 99.8</span>
+      <img src="../../images/tommyvance.png" alt="Tommy Vance" class="tommy-portrait">
+      <span style="font-size:9px; letter-spacing:3px; color:#333; text-transform:uppercase;">BROADCAST ARCHIVE</span>
+    </div>
+  </div>
+</div>
+
+<nav>
+  <a href="./index.html" class="active">Registry</a>
+  <a href="./episode.html">Episode</a>
+  <a href="./chat.html">Ask TV</a>
+  <a href="../index.html" class="nav-right">← All Prototypes</a>
+</nav>
+
+<div class="content-wrap">
+
+  <div class="sec-head">
+    <div class="sec-head-tag">// archive_scan :: november–december 1980 //</div>
+    <h2>Episode Registry</h2>
+    <div class="sec-head-line"></div>
+  </div>
+
+  <div class="episodes-grid">
+
+    <a href="./episode.html" class="ep-card">
+      <div class="ep-num">// EPISODE_01 //</div>
+      <div class="ep-date">7 November<br>1980</div>
+      <div class="ep-day">Friday</div>
+      <div class="ep-divider"></div>
+      <div class="ep-stats">
+        <div class="ep-stat">
+          <span class="ep-stat-num">20</span>
+          <span class="ep-stat-lbl">tracks</span>
+        </div>
+        <div class="ep-stat">
+          <span class="ep-stat-num">3</span>
+          <span class="ep-stat-lbl">sessions</span>
+        </div>
+      </div>
+      <div class="ep-cta">ACCESS RECORD &gt;&gt;</div>
+    </a>
+
+    <a href="./episode.html" class="ep-card">
+      <div class="ep-num">// EPISODE_02 //</div>
+      <div class="ep-date">14 November<br>1980</div>
+      <div class="ep-day">Friday</div>
+      <div class="ep-divider"></div>
+      <div class="ep-stats">
+        <div class="ep-stat">
+          <span class="ep-stat-num">18</span>
+          <span class="ep-stat-lbl">tracks</span>
+        </div>
+        <div class="ep-stat">
+          <span class="ep-stat-num">2</span>
+          <span class="ep-stat-lbl">sessions</span>
+        </div>
+      </div>
+      <div class="ep-cta">ACCESS RECORD &gt;&gt;</div>
+    </a>
+
+    <a href="./episode.html" class="ep-card">
+      <div class="ep-num">// EPISODE_03 //</div>
+      <div class="ep-date">21 November<br>1980</div>
+      <div class="ep-day">Friday</div>
+      <div class="ep-divider"></div>
+      <div class="ep-stats">
+        <div class="ep-stat">
+          <span class="ep-stat-num">22</span>
+          <span class="ep-stat-lbl">tracks</span>
+        </div>
+        <div class="ep-stat">
+          <span class="ep-stat-num">4</span>
+          <span class="ep-stat-lbl">sessions</span>
+        </div>
+      </div>
+      <div class="ep-cta">ACCESS RECORD &gt;&gt;</div>
+    </a>
+
+    <a href="./episode.html" class="ep-card">
+      <div class="ep-num">// EPISODE_04 //</div>
+      <div class="ep-date">5 December<br>1980</div>
+      <div class="ep-day">Friday</div>
+      <div class="ep-divider"></div>
+      <div class="ep-stats">
+        <div class="ep-stat">
+          <span class="ep-stat-num">16</span>
+          <span class="ep-stat-lbl">tracks</span>
+        </div>
+        <div class="ep-stat">
+          <span class="ep-stat-num">2</span>
+          <span class="ep-stat-lbl">sessions</span>
+        </div>
+      </div>
+      <div class="ep-cta">ACCESS RECORD &gt;&gt;</div>
+    </a>
+
+  </div>
+
+</div>
+
+<div class="site-footer">
+  <p>Friday Rock Show // BBC Radio 1 // Archive</p>
+  <a href="./chat.html">INITIATE ASK_TV PROTOCOL &gt;&gt;</a>
+</div>
+
+</body>
+</html>

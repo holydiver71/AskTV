@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friday Rock Show — Design Prototypes</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0a0a0a;
+      color: #f0f0f0;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(135deg, #1a0a2e 0%, #0d1b3e 50%, #1a0a0a 100%);
+      border-bottom: 3px solid #cc0000;
+      padding: 60px 40px 50px;
+      text-align: center;
+    }
+
+    .header-eyebrow {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #cc0000;
+      margin-bottom: 16px;
+    }
+
+    header h1 {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 900;
+      letter-spacing: -1px;
+      color: #ffffff;
+      line-height: 1.1;
+    }
+
+    header h1 span {
+      color: #FFD700;
+    }
+
+    header p {
+      margin-top: 18px;
+      font-size: 1.05rem;
+      color: #aaa;
+      max-width: 560px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.6;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 60px 32px 80px;
+    }
+
+    .section-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #666;
+      margin-bottom: 32px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #222;
+    }
+
+    .prototypes-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 24px;
+    }
+
+    .proto-card {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      background: #141414;
+      border: 1px solid #2a2a2a;
+      border-radius: 4px;
+      overflow: hidden;
+      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .proto-card:hover {
+      transform: translateY(-4px);
+      border-color: #444;
+      box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+    }
+
+    .proto-card:hover .card-arrow {
+      transform: translateX(4px);
+    }
+
+    .card-stripe {
+      height: 6px;
+    }
+
+    .p1 .card-stripe { background: linear-gradient(90deg, #CC0000, #003087, #FFD700); }
+    .p2 .card-stripe { background: linear-gradient(90deg, #0D0D0D, #C8A951, #FF6600); }
+    .p3 .card-stripe { background: linear-gradient(90deg, #8B00FF, #FF0090, #00FFE7); }
+    .p4 .card-stripe { background: linear-gradient(90deg, #2C1810, #E8642A, #D4841A); }
+    .p5 .card-stripe { background: linear-gradient(90deg, #111, #E8001E, #FFE000); }
+
+    .card-body {
+      padding: 28px;
+    }
+
+    .card-number {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #555;
+      margin-bottom: 10px;
+    }
+
+    .card-title {
+      font-size: 1.25rem;
+      font-weight: 800;
+      color: #f0f0f0;
+      margin-bottom: 10px;
+      line-height: 1.2;
+    }
+
+    .card-desc {
+      font-size: 0.875rem;
+      color: #888;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    .p1 .card-footer { color: #CC0000; }
+    .p2 .card-footer { color: #C8A951; }
+    .p3 .card-footer { color: #FF0090; }
+    .p4 .card-footer { color: #E8642A; }
+    .p5 .card-footer { color: #E8001E; }
+    .p6 .card-stripe { background: linear-gradient(135deg, #CC0000, #003087); }
+    .p6 .card-number { color: #CC0000; }
+    .p6 .card-footer { color: #003087; }
+
+    .card-arrow {
+      display: inline-block;
+      transition: transform 0.2s ease;
+    }
+
+    .pages-badge {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-top: 14px;
+    }
+
+    .badge {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 3px 8px;
+      border-radius: 2px;
+      background: #222;
+      color: #777;
+    }
+
+    footer {
+      text-align: center;
+      padding: 32px;
+      border-top: 1px solid #1a1a1a;
+      font-size: 12px;
+      color: #444;
+      letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <p class="header-eyebrow">BBC Radio 1 &nbsp;·&nbsp; Archive Project</p>
+  <h1>Friday Rock Show<br><span>Design Prototypes</span></h1>
+  <p>Five distinct visual concepts for the Friday Rock Show episode archive and "Ask TV" chat interface.</p>
+</header>
+
+<main>
+  <p class="section-label">Six Concepts &nbsp;·&nbsp; Three Pages Each</p>
+
+  <div class="prototypes-grid">
+
+    <a href="./prototype-1-bbc80s/index.html" class="proto-card p1">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <p class="card-number">Prototype 01</p>
+        <h2 class="card-title">BBC Radio 1 — 1980s</h2>
+        <p class="card-desc">Bold Ceefax-era blocks, chunky BBC typography, and the red-blue-yellow palette of British public broadcasting in its prime.</p>
+        <div class="pages-badge">
+          <span class="badge">Registry</span>
+          <span class="badge">Episode</span>
+          <span class="badge">Chat</span>
+        </div>
+        <div class="card-footer" style="margin-top:20px;">
+          Open prototype <span class="card-arrow">→</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="./prototype-2-metal-magazine/index.html" class="proto-card p2">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <p class="card-number">Prototype 02</p>
+        <h2 class="card-title">Heavy Metal Magazine</h2>
+        <p class="card-desc">Dark, dramatic Kerrang!/Metal Hammer aesthetic. Near-black backgrounds, gold and orange accents, high-contrast editorial layout.</p>
+        <div class="pages-badge">
+          <span class="badge">Registry</span>
+          <span class="badge">Episode</span>
+          <span class="badge">Chat</span>
+        </div>
+        <div class="card-footer" style="margin-top:20px;">
+          Open prototype <span class="card-arrow">→</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="./prototype-3-neon-synthwave/index.html" class="proto-card p3">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <p class="card-number">Prototype 03</p>
+        <h2 class="card-title">Neon Synthwave</h2>
+        <p class="card-desc">1980s retrowave energy — deep purple backgrounds, hot pink and cyan neon glows, scanline textures, and blinking terminal cursors.</p>
+        <div class="pages-badge">
+          <span class="badge">Registry</span>
+          <span class="badge">Episode</span>
+          <span class="badge">Chat</span>
+        </div>
+        <div class="card-footer" style="margin-top:20px;">
+          Open prototype <span class="card-arrow">→</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="./prototype-4-vinyl-warmth/index.html" class="proto-card p4">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <p class="card-number">Prototype 04</p>
+        <h2 class="card-title">Vinyl Warmth</h2>
+        <p class="card-desc">Warm cream, orange and brown tones evoking a beloved record store. Serif typography, analog warmth, and the feel of a well-loved sleeve.</p>
+        <div class="pages-badge">
+          <span class="badge">Registry</span>
+          <span class="badge">Episode</span>
+          <span class="badge">Chat</span>
+        </div>
+        <div class="card-footer" style="margin-top:20px;">
+          Open prototype <span class="card-arrow">→</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="./prototype-5-editorial/index.html" class="proto-card p5">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <p class="card-number">Prototype 05</p>
+        <h2 class="card-title">Bold Editorial</h2>
+        <p class="card-desc">NME/music press meets modern web. Electric red, white and black with yellow highlights. Strong typographic hierarchy and punchy layout.</p>
+        <div class="pages-badge">
+          <span class="badge">Registry</span>
+          <span class="badge">Episode</span>
+          <span class="badge">Chat</span>
+        </div>
+        <div class="card-footer" style="margin-top:20px;">
+          Open prototype <span class="card-arrow">→</span>
+        </div>
+      </div>
+    </a>
+
+    <a href="./prototype-6-bbc-editorial/index.html" class="proto-card p6">
+      <div class="card-stripe"></div>
+      <div class="card-body">
+        <p class="card-number">Prototype 06</p>
+        <h2 class="card-title">BBC × Editorial</h2>
+        <p class="card-desc">Iteration: the BBC Radio 1 header combined with a clean white editorial body. Bold typography, white space, and BBC colours throughout.</p>
+        <div class="pages-badge">
+          <span class="badge">Registry</span>
+          <span class="badge">Episode</span>
+          <span class="badge">Chat</span>
+        </div>
+        <div class="card-footer" style="margin-top:20px;">
+          Open prototype <span class="card-arrow">→</span>
+        </div>
+      </div>
+    </a>
+
+  </div>
+</main>
+
+<footer>
+  Friday Rock Show Archive &nbsp;·&nbsp; BBC Radio 1 &nbsp;·&nbsp; Design Explorations
+</footer>
+
+</body>
+</html>

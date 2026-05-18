@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ask TV — Friday Rock Show</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #ffffff;
+      color: #111111;
+      font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .site-header { background: #E8001E; flex-shrink: 0; }
+
+    .header-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand-title { font-size: 1.2rem; font-weight: 900; color: #fff; }
+    .brand-sub { font-size: 10px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-top: 3px; }
+
+    .chat-mode-badge {
+      background: #FFE000;
+      color: #111;
+      padding: 6px 14px;
+      font-size: 11px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    .tommy-portrait {
+      height: 52px;
+      width: 52px;
+      object-fit: cover;
+      border: 3px solid #FFE000;
+      display: block;
+    }
+
+    .nav-bar { background: #111; border-bottom: 3px solid #E8001E; flex-shrink: 0; }
+    .nav-inner { max-width: 1100px; margin: 0 auto; padding: 0 32px; display: flex; }
+
+    nav a {
+      display: block;
+      padding: 12px 22px;
+      color: #888;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      border-right: 1px solid #222;
+      transition: color 0.15s, background 0.15s;
+    }
+
+    nav a:first-child { border-left: 1px solid #222; }
+    nav a:hover, nav a.active { color: #fff; background: #E8001E; }
+    nav .nav-right { margin-left: auto; border-left: 1px solid #222; border-right: none !important; }
+
+    /* ── CHAT ── */
+    .chat-body {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      background: #f9f9f9;
+    }
+
+    .msg-row { display: flex; gap: 16px; align-items: flex-start; max-width: 800px; }
+    .msg-row.user-row { flex-direction: row-reverse; margin-left: auto; }
+
+    .msg-avatar-col { flex-shrink: 0; }
+
+    .msg-avatar {
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 900;
+      letter-spacing: 1px;
+    }
+
+    .msg-avatar.tommy { background: #E8001E; color: #fff; }
+    .msg-avatar.user { background: #111; color: #fff; }
+
+    .msg-label {
+      font-size: 10px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    .msg-label.tommy-lbl { color: #E8001E; }
+    .msg-label.user-lbl { color: #111; }
+    .msg-row.user-row .msg-label { text-align: right; }
+
+    .msg-bubble {
+      padding: 16px 20px;
+      font-size: 15px;
+      line-height: 1.65;
+    }
+
+    .msg-bubble.tommy-bbl {
+      background: #ffffff;
+      border: 1px solid #e0e0e0;
+      border-top: 3px solid #E8001E;
+      color: #111;
+    }
+
+    .msg-bubble.user-bbl {
+      background: #111;
+      color: #fff;
+    }
+
+    .citation {
+      display: inline-block;
+      background: #FFE000;
+      color: #111;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      padding: 2px 10px;
+      margin-top: 10px;
+    }
+
+    /* ── INPUT AREA ── */
+    .chat-input-area {
+      background: #fff;
+      border-top: 4px solid #111;
+      padding: 18px 32px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .chat-input-area input {
+      flex: 1;
+      background: #f5f5f5;
+      border: 1px solid #e0e0e0;
+      border-bottom: 2px solid #111;
+      color: #111;
+      padding: 12px 16px;
+      font-size: 15px;
+      font-family: inherit;
+      outline: none;
+      transition: border-bottom-color 0.15s;
+    }
+
+    .chat-input-area input:focus { border-bottom-color: #E8001E; }
+    .chat-input-area input::placeholder { color: #aaa; }
+
+    .send-btn {
+      background: #E8001E;
+      color: #fff;
+      border: none;
+      padding: 13px 28px;
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      cursor: pointer;
+      font-family: inherit;
+      transition: background 0.15s;
+    }
+
+    .send-btn:hover { background: #111; }
+
+    .typing-dots span { display: inline-block; animation: blink 1.2s infinite; }
+    .typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+    .typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes blink { 0%, 80%, 100% { opacity: 0.2; } 40% { opacity: 1; } }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <div class="brand-title">Friday Rock Show</div>
+      <div class="brand-sub">BBC Radio 1 &nbsp;·&nbsp; Archive</div>
+    </div>
+    <img src="../../images/tommyvance.png" alt="Tommy Vance" class="tommy-portrait">
+    <div class="chat-mode-badge">Ask TV</div>
+  </div>
+</header>
+
+<div class="nav-bar">
+  <div class="nav-inner">
+    <nav>
+      <a href="./index.html">Registry</a>
+      <a href="./episode.html">Episode</a>
+      <a href="./chat.html" class="active">Ask TV</a>
+      <a href="../index.html" class="nav-right">← All Prototypes</a>
+    </nav>
+  </div>
+</div>
+
+<div class="chat-body" id="chatBody">
+
+  <div class="msg-row user-row">
+    <div class="msg-avatar-col">
+      <div class="msg-avatar user">You</div>
+    </div>
+    <div class="msg-content">
+      <div class="msg-label user-lbl">You</div>
+      <div class="msg-bubble user-bbl">Which artists appeared on the 7th November 1980 show?</div>
+    </div>
+  </div>
+
+  <div class="msg-row">
+    <div class="msg-avatar-col">
+      <div class="msg-avatar tommy">TV</div>
+    </div>
+    <div class="msg-content">
+      <div class="msg-label tommy-lbl">Tommy Vance</div>
+      <div class="msg-bubble tommy-bbl">
+        Ah, great question! On that Friday night — 7th November 1980 — I spun tracks from Saxon, Hawkwind, Hibiscus, Rush, Ozzy Osbourne, Thin Lizzy, Scorpions, Jon Anderson, and the Eagles. We also had three superb sessions: Hibiscus recording fresh from the studio, and two archive sessions from John Mayall &amp; The Bluesbreakers.
+        <div><span class="citation">1980-11-07 @ 00:09:00</span></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="chat-input-area">
+  <input type="text" id="chatInput" placeholder="Ask Tommy about the Friday Rock Show..." />
+  <button class="send-btn" onclick="sendMessage()">Send</button>
+</div>
+
+<script>
+  const MOCK_REPLIES = [
+    "That's a cracking question! The Friday Rock Show ran for years and we had so many extraordinary sessions. Let me dig into the archive for you...",
+    "Good question. Those November 1980 shows were particularly special — the heavy metal scene was really hitting its stride. New Wave of British Heavy Metal was absolutely on fire.",
+    "Ah yes, now you're talking! The archive recordings from those sessions are among the most treasured in the collection. Hibiscus in particular were a revelation that autumn.",
+    "I remember it well. Friday nights on Radio 1 were something else entirely — listeners would be tuned in right across the country. What a time to be alive!"
+  ];
+
+  let replyIndex = 0;
+
+  function sendMessage() {
+    const input = document.getElementById('chatInput');
+    const chatBody = document.getElementById('chatBody');
+    const text = input.value.trim();
+    if (!text) return;
+
+    const userRow = document.createElement('div');
+    userRow.className = 'msg-row user-row';
+    userRow.innerHTML = `
+      <div class="msg-avatar-col"><div class="msg-avatar user">You</div></div>
+      <div class="msg-content">
+        <div class="msg-label user-lbl">You</div>
+        <div class="msg-bubble user-bbl">${escHtml(text)}</div>
+      </div>`;
+    chatBody.appendChild(userRow);
+
+    const typingRow = document.createElement('div');
+    typingRow.className = 'msg-row';
+    typingRow.innerHTML = `
+      <div class="msg-avatar-col"><div class="msg-avatar tommy">TV</div></div>
+      <div class="msg-content">
+        <div class="msg-label tommy-lbl">Tommy Vance</div>
+        <div class="msg-bubble tommy-bbl"><span class="typing-dots"><span>●</span><span>●</span><span>●</span></span></div>
+      </div>`;
+    chatBody.appendChild(typingRow);
+    chatBody.scrollTop = chatBody.scrollHeight;
+    input.value = '';
+
+    setTimeout(() => {
+      typingRow.remove();
+      const reply = MOCK_REPLIES[replyIndex % MOCK_REPLIES.length];
+      replyIndex++;
+      const replyRow = document.createElement('div');
+      replyRow.className = 'msg-row';
+      replyRow.innerHTML = `
+        <div class="msg-avatar-col"><div class="msg-avatar tommy">TV</div></div>
+        <div class="msg-content">
+          <div class="msg-label tommy-lbl">Tommy Vance</div>
+          <div class="msg-bubble tommy-bbl">${escHtml(reply)}</div>
+        </div>`;
+      chatBody.appendChild(replyRow);
+      chatBody.scrollTop = chatBody.scrollHeight;
+    }, 1400);
+  }
+
+  function escHtml(str) {
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  document.getElementById('chatInput').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') sendMessage();
+  });
+</script>
+
+</body>
+</html>

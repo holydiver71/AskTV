@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7 November 1980 — Friday Rock Show</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #1a1a1a;
+      color: #ffffff;
+      font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif;
+    }
+
+    .bbc-topbar {
+      background: #CC0000;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 52px;
+    }
+
+    .bbc-logo { display: flex; gap: 4px; align-items: center; }
+
+    .bbc-box {
+      background: #ffffff;
+      color: #CC0000;
+      font-size: 15px;
+      font-weight: 900;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .bbc-r1 {
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 900;
+      margin-left: 10px;
+      letter-spacing: 1px;
+    }
+
+    .bbc-freq { color: #ffaaaa; font-size: 12px; font-weight: 700; letter-spacing: 2px; font-family: Arial, sans-serif; }
+
+    .show-header {
+      background: #003087;
+      padding: 28px 32px 24px;
+      border-bottom: 8px solid #FFD700;
+    }
+
+    .show-title { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 900; text-transform: uppercase; letter-spacing: 2px; color: #ffffff; line-height: 1; }
+    .show-subtitle { margin-top: 8px; font-size: 13px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #FFD700; font-family: Arial, sans-serif; }
+
+    nav {
+      background: #222;
+      border-bottom: 2px solid #CC0000;
+      display: flex;
+      align-items: center;
+    }
+
+    nav a {
+      display: block;
+      padding: 14px 24px;
+      color: #ccc;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+      border-right: 1px solid #333;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    nav a:hover, nav a.active { background: #CC0000; color: #fff; }
+
+    /* ── EPISODE HERO ── */
+    .ep-hero {
+      background: #111;
+      border-bottom: 6px solid #CC0000;
+      padding: 32px;
+      display: flex;
+      align-items: flex-start;
+      gap: 40px;
+    }
+
+    .ep-date-block {
+      background: #CC0000;
+      padding: 16px 22px;
+      flex-shrink: 0;
+      text-align: center;
+    }
+
+    .ep-date-day { font-size: 10px; font-weight: 900; letter-spacing: 3px; text-transform: uppercase; color: #ffaaaa; margin-bottom: 4px; font-family: Arial, sans-serif; }
+    .ep-date-num { font-size: 2.8rem; font-weight: 900; line-height: 1; color: #fff; }
+    .ep-date-month { font-size: 13px; font-weight: 900; letter-spacing: 2px; text-transform: uppercase; color: #ffaaaa; margin-top: 4px; font-family: Arial, sans-serif; }
+    .ep-date-year { font-size: 18px; font-weight: 900; color: #FFD700; margin-top: 2px; }
+
+    .ep-meta { flex: 1; }
+
+    .ep-meta h2 {
+      font-size: clamp(1.3rem, 3vw, 1.8rem);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #fff;
+      margin-bottom: 12px;
+    }
+
+    .ep-stats-row {
+      display: flex;
+      gap: 32px;
+      margin-bottom: 16px;
+    }
+
+    .ep-stat-item {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .ep-stat-num { font-size: 2rem; font-weight: 900; color: #FFD700; line-height: 1; }
+    .ep-stat-lbl { font-size: 9px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #666; margin-top: 3px; font-family: Arial, sans-serif; }
+
+    .ep-notice {
+      background: #FFD700;
+      color: #111;
+      padding: 10px 14px;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      font-family: Arial, sans-serif;
+      display: inline-block;
+      margin-top: 4px;
+    }
+
+    /* ── MAIN CONTENT ── */
+    main {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 36px 24px 64px;
+    }
+
+    /* ── SECTION HEADERS ── */
+    .section-divider {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      margin: 36px 0 20px;
+      border-top: 4px solid #CC0000;
+      padding-top: 14px;
+    }
+
+    .section-divider h3 {
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #CC0000;
+    }
+
+    .section-divider .sec-count {
+      margin-left: auto;
+      background: #003087;
+      color: #FFD700;
+      font-size: 9px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ── SESSIONS ── */
+    .sessions-list { display: flex; flex-direction: column; gap: 12px; }
+
+    .session-card {
+      background: #1e1e1e;
+      border: 1px solid #2a2a2a;
+      border-left: 6px solid #003087;
+      padding: 16px 20px;
+    }
+
+    .session-artist {
+      font-size: 1rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #FFD700;
+      margin-bottom: 6px;
+    }
+
+    .session-detail {
+      font-size: 12px;
+      color: #aaa;
+      line-height: 1.6;
+      font-weight: 400;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ── TRACK LISTING — CEEFAX STYLE ── */
+    .track-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+    }
+
+    .track-table thead tr {
+      background: #CC0000;
+    }
+
+    .track-table thead th {
+      padding: 8px 12px;
+      font-size: 9px;
+      font-weight: 900;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #fff;
+      text-align: left;
+    }
+
+    .track-table thead th:last-child { text-align: right; }
+
+    .track-table tbody tr {
+      background: #1a1a1a;
+      border-bottom: 1px solid #222;
+      transition: background 0.1s;
+    }
+
+    .track-table tbody tr:hover { background: #242424; }
+
+    .track-table tbody tr.ceefax-alt { background: #151515; }
+
+    .track-table td {
+      padding: 10px 12px;
+      font-size: 12px;
+      color: #ccc;
+      vertical-align: middle;
+    }
+
+    .track-table td.track-num {
+      color: #FFD700;
+      font-weight: 900;
+      width: 36px;
+    }
+
+    .track-table td.track-artist {
+      color: #fff;
+      font-weight: 700;
+      width: 240px;
+    }
+
+    .track-table td.track-title {
+      color: #aaa;
+    }
+
+    .track-table td.track-ts {
+      text-align: right;
+      color: #003087;
+      background: #003087;
+      color: #FFD700;
+      font-weight: 700;
+      font-size: 11px;
+      letter-spacing: 1px;
+      white-space: nowrap;
+    }
+
+    .track-table td.track-ts.empty {
+      background: transparent;
+      color: transparent;
+    }
+
+    .track-system {
+      color: #555 !important;
+      font-style: italic;
+    }
+
+    /* ── FOOTER ── */
+    .page-footer {
+      background: #111;
+      border-top: 4px solid #CC0000;
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .page-footer a {
+      color: #888;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+    }
+
+    .page-footer a:hover { color: #CC0000; }
+  </style>
+</head>
+<body>
+
+<div class="bbc-topbar">
+  <div class="bbc-logo">
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">C</div>
+    <span class="bbc-r1">RADIO 1</span>
+  </div>
+  <div class="bbc-freq">FM 97.6 · 99.0 · 99.8</div>
+</div>
+
+<div class="show-header">
+  <h1 class="show-title">Friday Rock Show</h1>
+  <p class="show-subtitle">Presented by Tommy Vance &nbsp;·&nbsp; BBC Radio 1 &nbsp;·&nbsp; Archive</p>
+</div>
+
+<nav>
+  <a href="./index.html">Episode Registry</a>
+  <a href="./episode.html" class="active">Episode Detail</a>
+  <a href="./chat.html">Ask TV</a>
+  <a href="../index.html" style="margin-left:auto; border-left: 1px solid #333; border-right:none;">← All Prototypes</a>
+</nav>
+
+<div class="ep-hero">
+  <div class="ep-date-block">
+    <div class="ep-date-day">Friday</div>
+    <div class="ep-date-num">7</div>
+    <div class="ep-date-month">November</div>
+    <div class="ep-date-year">1980</div>
+  </div>
+  <div class="ep-meta">
+    <h2>Friday Rock Show</h2>
+    <div class="ep-stats-row">
+      <div class="ep-stat-item">
+        <span class="ep-stat-num">20</span>
+        <span class="ep-stat-lbl">Tracks</span>
+      </div>
+      <div class="ep-stat-item">
+        <span class="ep-stat-num">3</span>
+        <span class="ep-stat-lbl">Sessions</span>
+      </div>
+    </div>
+    <div class="ep-notice">⚠ The first 15 minutes and last 10 minutes of this show are missing.</div>
+  </div>
+</div>
+
+<main>
+
+  <div class="section-divider">
+    <h3>Sessions</h3>
+    <span class="sec-count">3 Sessions</span>
+  </div>
+
+  <div class="sessions-list">
+
+    <div class="session-card">
+      <div class="session-artist">Hibiscus</div>
+      <div class="session-detail">Recorded 1980-10-15. First transmission. No known commercial release.</div>
+    </div>
+
+    <div class="session-card">
+      <div class="session-artist">John Mayall &amp; The Bluesbreakers</div>
+      <div class="session-detail">Archive session recorded 26th April 1965, with a line-up including John McVie and Eric Clapton. First broadcast on Saturday Club on the Light Programme.</div>
+    </div>
+
+    <div class="session-card">
+      <div class="session-artist">John Mayall &amp; The Bluesbreakers</div>
+      <div class="session-detail">Archive session recorded 23rd January 1967, with McVie, Peter Green and Aynsley Dunbar. First broadcast on Saturday Club on the Light Programme.</div>
+    </div>
+
+  </div>
+
+  <div class="section-divider">
+    <h3>Track Listing</h3>
+    <span class="sec-count">20 Tracks</span>
+  </div>
+
+  <table class="track-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Artist</th>
+        <th>Track</th>
+        <th>Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="ceefax-alt">
+        <td class="track-num">1</td>
+        <td class="track-artist track-system">—</td>
+        <td class="track-system">tape starts</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr>
+        <td class="track-num">2</td>
+        <td class="track-artist">John Mayall &amp; The Bluesbreakers</td>
+        <td class="track-title">Crawling Up a Hill</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">3</td>
+        <td class="track-artist">John Mayall &amp; The Bluesbreakers</td>
+        <td class="track-title">Crocodile Walk</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr>
+        <td class="track-num">4</td>
+        <td class="track-artist">John Mayall &amp; The Bluesbreakers</td>
+        <td class="track-title">Bye Bye Bird</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">5</td>
+        <td class="track-artist">Saxon</td>
+        <td class="track-title">Taking Your Chances</td>
+        <td class="track-ts">00:09:00</td>
+      </tr>
+      <tr>
+        <td class="track-num">6</td>
+        <td class="track-artist">Hawkwind</td>
+        <td class="track-title">Motor Way City</td>
+        <td class="track-ts">00:15:00</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">7</td>
+        <td class="track-artist">Hibiscus</td>
+        <td class="track-title">White Knight</td>
+        <td class="track-ts">00:20:38</td>
+      </tr>
+      <tr>
+        <td class="track-num">8</td>
+        <td class="track-artist">Rush</td>
+        <td class="track-title">The Trees</td>
+        <td class="track-ts">00:27:00</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">9</td>
+        <td class="track-artist track-system">—</td>
+        <td class="track-system">Friday Night Connection</td>
+        <td class="track-ts">00:32:38</td>
+      </tr>
+      <tr>
+        <td class="track-num">10</td>
+        <td class="track-artist">Hibiscus</td>
+        <td class="track-title">I See the Sun</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">11</td>
+        <td class="track-artist">Ozzy Osbourne</td>
+        <td class="track-title">Mr. Crowley</td>
+        <td class="track-ts">01:02:19</td>
+      </tr>
+      <tr>
+        <td class="track-num">12</td>
+        <td class="track-artist">Thin Lizzy</td>
+        <td class="track-title">Emerald</td>
+        <td class="track-ts">01:03:00</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">13</td>
+        <td class="track-artist">Scorpions</td>
+        <td class="track-title">He's a Woman - She's a Man</td>
+        <td class="track-ts">01:10:39</td>
+      </tr>
+      <tr>
+        <td class="track-num">14</td>
+        <td class="track-artist">John Mayall &amp; The Bluesbreakers</td>
+        <td class="track-title">Riding on the L and N</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">15</td>
+        <td class="track-artist">John Mayall &amp; The Bluesbreakers</td>
+        <td class="track-title">Sitting in the Rain</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr>
+        <td class="track-num">16</td>
+        <td class="track-artist">John Mayall &amp; The Bluesbreakers</td>
+        <td class="track-title">Leaping Christine</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">17</td>
+        <td class="track-artist">Jon Anderson</td>
+        <td class="track-title">For You, For Me</td>
+        <td class="track-ts">01:29:54</td>
+      </tr>
+      <tr>
+        <td class="track-num">18</td>
+        <td class="track-artist">Eagles</td>
+        <td class="track-title">Hotel California</td>
+        <td class="track-ts">01:24:00</td>
+      </tr>
+      <tr class="ceefax-alt">
+        <td class="track-num">19</td>
+        <td class="track-artist">Hibiscus</td>
+        <td class="track-title">Quilta</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+      <tr>
+        <td class="track-num">20</td>
+        <td class="track-artist track-system">—</td>
+        <td class="track-system">tape ends</td>
+        <td class="track-ts empty">—</td>
+      </tr>
+    </tbody>
+  </table>
+
+</main>
+
+<div class="page-footer">
+  <a href="./index.html">← Back to Registry</a>
+  <a href="./chat.html">Ask TV about this episode →</a>
+</div>
+
+</body>
+</html>

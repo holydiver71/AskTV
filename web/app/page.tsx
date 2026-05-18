@@ -4,20 +4,20 @@ import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
 export const metadata = {
-  title: "AskTV — The Friday Rock Show Archive",
+  title: "AskTV — The Friday Rock Show Revival",
   description:
     "A searchable digital archive of Tommy Vance's Friday Rock Show on BBC Radio 1. Browse every episode, track, and session from 1980 — or ask TV.",
 };
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center px-4 py-16 text-center gap-8">
+    <div className="flex flex-col flex-1 items-center justify-start md:justify-center px-4 pt-8 pb-10 md:py-16 text-center gap-6 md:gap-8">
       <div className="space-y-3">
         <p className="font-mono text-xs text-muted-foreground tracking-widest uppercase">
           BBC Radio 1 · 1978–1993
         </p>
-        <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
-          The Friday Rock Show
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight whitespace-nowrap">
+          The Friday Rock Show Revival
         </h1>
         <p className="text-muted-foreground max-w-md mx-auto text-sm leading-relaxed">
           A high-fidelity digital archive of Tommy Vance&apos;s landmark rock show.
