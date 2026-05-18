@@ -7,7 +7,7 @@ Set in `web/.env.local`:
 - `NEXT_PUBLIC_SUPABASE_URL`
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 - `OPENAI_API_KEY`
-- `AskTV_CHAT_SYSTEM_PROMPT` (optional; override default Tommy persona/system prompt)
+- `ASKTV_CHAT_SYSTEM_PROMPT` (optional; override default Tommy persona/system prompt)
 
 Validation is enforced in `lib/env.ts`.
 

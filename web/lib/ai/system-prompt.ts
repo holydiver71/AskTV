@@ -40,10 +40,10 @@ If no relevant evidence is present, say:
 
 /**
  * Allows prompt changes without code edits.
- * Set AskTV_CHAT_SYSTEM_PROMPT in .env.local to override the default persona prompt.
+ * Set ASKTV_CHAT_SYSTEM_PROMPT in .env.local to override the default persona prompt.
  */
 export function getChatSystemPrompt(): string {
-  const customPrompt = process.env.AskTV_CHAT_SYSTEM_PROMPT?.trim();
+  const customPrompt = process.env.ASKTV_CHAT_SYSTEM_PROMPT?.trim();
   return customPrompt && customPrompt.length > 0
     ? customPrompt
     : DEFAULT_SYSTEM_PROMPT;
