@@ -300,14 +300,14 @@ const QueryInput = forwardRef<
         onKeyDown={onKeyDown}
         placeholder="Ask Tommy about the Friday Rock Show..."
         aria-label={inputLabel}
-        className="flex-1 bg-background px-4 py-4 text-sm text-foreground placeholder:text-muted-foreground outline-none"
+        className="flex-1 bg-background px-4 py-4 text-sm text-foreground placeholder:text-muted-foreground outline-none border border-border rounded-sm"
         disabled={isLoading}
       />
       <button
         onClick={onSubmit}
         disabled={isLoading || !value.trim()}
         aria-label={submitLabel}
-        className="bg-primary text-primary-foreground px-6 text-[11px] font-black tracking-[2px] uppercase hover:bg-primary/90 transition-colors disabled:opacity-50 shrink-0"
+        className="bg-primary text-primary-foreground px-6 text-[11px] font-black tracking-[2px] hover:bg-primary/90 transition-colors disabled:opacity-50 shrink-0"
       >
         {isLoading ? "…" : "AskTV"}
       </button>
