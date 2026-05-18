@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friday Rock Show — Archive</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0D0D0D;
+      color: #e0e0e0;
+      font-family: Georgia, 'Times New Roman', serif;
+      min-height: 100vh;
+    }
+
+    /* Noise texture overlay */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");
+      pointer-events: none;
+      z-index: 0;
+      opacity: 0.5;
+    }
+
+    * { position: relative; z-index: 1; }
+
+    /* ── MASTHEAD ── */
+    .masthead {
+      background: #0D0D0D;
+      border-bottom: 3px solid #C8A951;
+      padding: 0;
+    }
+
+    .masthead-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 32px 32px 0;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand-name {
+      font-family: Impact, 'Arial Black', sans-serif;
+      font-size: clamp(2.5rem, 6vw, 4.5rem);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: -2px;
+      color: #ffffff;
+      line-height: 0.9;
+    }
+
+    .brand-name em {
+      color: #C8A951;
+      font-style: normal;
+    }
+
+    .brand-sub {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #666;
+      margin-top: 8px;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .masthead-meta {
+      text-align: right;
+      padding-bottom: 10px;
+    }
+
+    .masthead-meta .issue {
+      font-size: 11px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #C8A951;
+      font-family: Arial, sans-serif;
+    }
+
+    .masthead-meta .stars {
+      font-size: 18px;
+      color: #C8A951;
+      letter-spacing: 2px;
+    }
+
+    .tommy-portrait {
+      height: 150px;
+      width: auto;
+      object-fit: cover;
+      border: 3px solid #C8A951;
+      box-shadow: 0 0 24px rgba(200,169,81,0.35), 4px 4px 0 #FF6600;
+      filter: contrast(1.1) brightness(0.88);
+      display: block;
+    }
+
+    .tommy-caption {
+      font-size: 8px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #C8A951;
+      text-align: center;
+      margin-top: 6px;
+      font-family: Arial, sans-serif;
+    }
+
+    .nav-strip {
+      background: #1a1a1a;
+      border-bottom: 1px solid #2a2a2a;
+    }
+
+    .nav-strip-inner {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 32px;
+      display: flex;
+      align-items: center;
+      gap: 0;
+    }
+
+    nav a {
+      display: block;
+      padding: 13px 22px;
+      color: #888;
+      text-decoration: none;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+      border-right: 1px solid #2a2a2a;
+      transition: color 0.15s, background 0.15s;
+    }
+
+    nav a:first-child { border-left: 1px solid #2a2a2a; }
+    nav a:hover, nav a.active { color: #C8A951; background: #111; }
+
+    nav .nav-right {
+      margin-left: auto;
+      border-left: 1px solid #2a2a2a;
+      border-right: none !important;
+    }
+
+    /* ── CONTENT ── */
+    .content-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 48px 32px 80px;
+    }
+
+    /* ── SECTION HEADER ── */
+    .sec-head {
+      margin-bottom: 32px;
+    }
+
+    .sec-head-label {
+      display: inline-block;
+      background: #C8A951;
+      color: #000;
+      font-family: Impact, 'Arial Black', sans-serif;
+      font-size: 10px;
+      font-weight: 900;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      padding: 4px 12px;
+      margin-bottom: 10px;
+    }
+
+    .sec-head h2 {
+      font-family: Impact, 'Arial Black', sans-serif;
+      font-size: clamp(1.8rem, 4vw, 3rem);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: -1px;
+      color: #ffffff;
+      line-height: 1;
+    }
+
+    .sec-head p {
+      margin-top: 8px;
+      font-size: 13px;
+      color: #666;
+      letter-spacing: 1px;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ── EPISODE CARDS ── */
+    .episodes-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 2px;
+    }
+
+    .ep-card {
+      display: flex;
+      align-items: stretch;
+      text-decoration: none;
+      color: inherit;
+      background: #141414;
+      border: 1px solid #1f1f1f;
+      transition: background 0.2s, border-color 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .ep-card::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(200,169,81,0.05) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    .ep-card:hover {
+      background: #1a1a1a;
+      border-color: #333;
+    }
+
+    .ep-card:hover .ep-border { opacity: 1; }
+
+    .ep-border {
+      width: 5px;
+      flex-shrink: 0;
+      opacity: 0.7;
+      transition: opacity 0.2s;
+    }
+
+    .ep-c1 .ep-border { background: #C8A951; }
+    .ep-c2 .ep-border { background: #FF6600; }
+    .ep-c3 .ep-border { background: #8B0000; }
+    .ep-c4 .ep-border { background: #C8A951; }
+
+    .ep-inner {
+      flex: 1;
+      padding: 24px 28px;
+      display: flex;
+      align-items: center;
+      gap: 28px;
+    }
+
+    .ep-number-badge {
+      font-family: Impact, 'Arial Black', sans-serif;
+      font-size: 3rem;
+      font-weight: 900;
+      color: #1f1f1f;
+      line-height: 1;
+      width: 60px;
+      flex-shrink: 0;
+      transition: color 0.2s;
+    }
+
+    .ep-card:hover .ep-number-badge { color: #2a2a2a; }
+
+    .ep-info { flex: 1; }
+
+    .ep-label {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #C8A951;
+      margin-bottom: 6px;
+      font-family: Arial, sans-serif;
+    }
+
+    .ep-date {
+      font-family: Impact, 'Arial Black', sans-serif;
+      font-size: 1.5rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #fff;
+      line-height: 1;
+    }
+
+    .ep-day {
+      font-size: 12px;
+      color: #555;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-top: 4px;
+      font-family: Arial, sans-serif;
+    }
+
+    .ep-stats-col {
+      display: flex;
+      gap: 32px;
+      text-align: right;
+    }
+
+    .ep-stat {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+    }
+
+    .ep-stat-num {
+      font-family: Impact, 'Arial Black', sans-serif;
+      font-size: 2rem;
+      font-weight: 900;
+      line-height: 1;
+      color: #C8A951;
+    }
+
+    .ep-stat-lbl {
+      font-size: 8px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #444;
+      margin-top: 3px;
+      font-family: Arial, sans-serif;
+    }
+
+    .ep-arrow {
+      font-size: 20px;
+      color: #333;
+      padding: 0 16px;
+      display: flex;
+      align-items: center;
+      transition: color 0.2s;
+      font-family: sans-serif;
+    }
+
+    .ep-card:hover .ep-arrow { color: #C8A951; }
+
+    /* ── FOOTER ── */
+    .site-footer {
+      background: #080808;
+      border-top: 3px solid #C8A951;
+      padding: 24px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 100%;
+    }
+
+    .site-footer p {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #333;
+      font-family: Arial, sans-serif;
+    }
+
+    .site-footer a {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #C8A951;
+      text-decoration: none;
+      font-family: Arial, sans-serif;
+    }
+
+    .site-footer a:hover { color: #FF6600; }
+  </style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div>
+      <div class="brand-name">Friday <em>Rock</em> Show</div>
+      <div class="brand-sub">BBC Radio 1 &nbsp;★&nbsp; Archive Collection &nbsp;★&nbsp; Tommy Vance</div>
+    </div>
+    <div class="masthead-meta">
+      <div class="issue">Archive &nbsp;·&nbsp; 1980</div>
+      <div class="stars">★★★★★</div>
+    </div>
+    <div>
+      <img src="../../images/tommyvance.png" alt="Tommy Vance" class="tommy-portrait">
+      <div class="tommy-caption">Tommy Vance</div>
+    </div>
+  </div>
+</div>
+
+<div class="nav-strip">
+  <div class="nav-strip-inner">
+    <nav>
+      <a href="./index.html" class="active">Episode Registry</a>
+      <a href="./episode.html">Episode Detail</a>
+      <a href="./chat.html">Ask TV</a>
+      <a href="../index.html" class="nav-right">← All Prototypes</a>
+    </nav>
+  </div>
+</div>
+
+<div class="content-wrap">
+
+  <div class="sec-head">
+    <div class="sec-head-label">★ Episode Registry</div>
+    <h2>November — December<br>1980</h2>
+    <p>Four broadcasts from the golden era of British heavy rock. Archived, catalogued, immortalised.</p>
+  </div>
+
+  <div class="episodes-grid">
+
+    <a href="./episode.html" class="ep-card ep-c1">
+      <div class="ep-border"></div>
+      <div class="ep-inner">
+        <div class="ep-number-badge">01</div>
+        <div class="ep-info">
+          <div class="ep-label">★ Broadcast</div>
+          <div class="ep-date">7 November 1980</div>
+          <div class="ep-day">Friday</div>
+        </div>
+        <div class="ep-stats-col">
+          <div class="ep-stat">
+            <span class="ep-stat-num">20</span>
+            <span class="ep-stat-lbl">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-num">3</span>
+            <span class="ep-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="ep-arrow">›</div>
+    </a>
+
+    <a href="./episode.html" class="ep-card ep-c2">
+      <div class="ep-border"></div>
+      <div class="ep-inner">
+        <div class="ep-number-badge">02</div>
+        <div class="ep-info">
+          <div class="ep-label">★ Broadcast</div>
+          <div class="ep-date">14 November 1980</div>
+          <div class="ep-day">Friday</div>
+        </div>
+        <div class="ep-stats-col">
+          <div class="ep-stat">
+            <span class="ep-stat-num">18</span>
+            <span class="ep-stat-lbl">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-num">2</span>
+            <span class="ep-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="ep-arrow">›</div>
+    </a>
+
+    <a href="./episode.html" class="ep-card ep-c3">
+      <div class="ep-border"></div>
+      <div class="ep-inner">
+        <div class="ep-number-badge">03</div>
+        <div class="ep-info">
+          <div class="ep-label">★ Broadcast</div>
+          <div class="ep-date">21 November 1980</div>
+          <div class="ep-day">Friday</div>
+        </div>
+        <div class="ep-stats-col">
+          <div class="ep-stat">
+            <span class="ep-stat-num">22</span>
+            <span class="ep-stat-lbl">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-num">4</span>
+            <span class="ep-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="ep-arrow">›</div>
+    </a>
+
+    <a href="./episode.html" class="ep-card ep-c4">
+      <div class="ep-border"></div>
+      <div class="ep-inner">
+        <div class="ep-number-badge">04</div>
+        <div class="ep-info">
+          <div class="ep-label">★ Broadcast</div>
+          <div class="ep-date">5 December 1980</div>
+          <div class="ep-day">Friday</div>
+        </div>
+        <div class="ep-stats-col">
+          <div class="ep-stat">
+            <span class="ep-stat-num">16</span>
+            <span class="ep-stat-lbl">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-num">2</span>
+            <span class="ep-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="ep-arrow">›</div>
+    </a>
+
+  </div>
+
+</div>
+
+<div class="site-footer">
+  <p>Friday Rock Show Archive &nbsp;·&nbsp; BBC Radio 1</p>
+  <a href="./chat.html">Ask TV about any episode →</a>
+</div>
+
+</body>
+</html>

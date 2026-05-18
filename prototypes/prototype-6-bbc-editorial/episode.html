@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7 November 1980 — Friday Rock Show</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #ffffff;
+      color: #111111;
+      font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ══════════════════════════════════════
+       BBC HEADER
+    ══════════════════════════════════════ */
+    .bbc-topbar {
+      background: #CC0000;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 52px;
+    }
+
+    .bbc-logo { display: flex; gap: 4px; align-items: center; }
+
+    .bbc-box {
+      background: #ffffff;
+      color: #CC0000;
+      font-size: 15px;
+      font-weight: 900;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Arial Black', Arial, sans-serif;
+    }
+
+    .bbc-r1 { color: #ffffff; font-size: 15px; font-weight: 900; margin-left: 10px; letter-spacing: 1px; font-family: 'Arial Black', Arial, sans-serif; }
+    .bbc-freq { color: #ffaaaa; font-size: 12px; font-weight: 700; letter-spacing: 2px; font-family: Arial, sans-serif; }
+
+    .show-header {
+      background: #003087;
+      padding: 24px 32px;
+      border-bottom: 8px solid #FFD700;
+    }
+
+    .show-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+
+    .show-title { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 900; text-transform: uppercase; letter-spacing: 2px; color: #ffffff; line-height: 1; font-family: 'Arial Black', Arial, sans-serif; }
+    .show-subtitle { margin-top: 8px; font-size: 13px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #FFD700; font-family: Arial, sans-serif; }
+
+    .radio1-logo { height: 80px; width: auto; object-fit: contain; display: block; }
+
+    .dial-bar { background: #111; padding: 10px 32px; display: flex; align-items: center; gap: 6px; border-bottom: 2px solid #1e1e1e; overflow: hidden; }
+    .dial-label { font-size: 9px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #CC0000; white-space: nowrap; margin-right: 8px; font-family: Arial, sans-serif; }
+    .dial-track { flex: 1; height: 4px; background: repeating-linear-gradient(90deg, #333 0px, #333 2px, #444 2px, #444 8px); position: relative; }
+    .dial-needle { position: absolute; left: 37%; top: -6px; width: 2px; height: 16px; background: #FFD700; }
+    .dial-freqs { font-size: 9px; color: #555; letter-spacing: 2px; font-family: Arial, sans-serif; white-space: nowrap; }
+
+    nav {
+      background: #222;
+      border-bottom: 3px solid #CC0000;
+      display: flex;
+      align-items: center;
+    }
+
+    nav a {
+      display: block;
+      padding: 13px 24px;
+      color: #999;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+      border-right: 1px solid #333;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    nav a:hover, nav a.active { background: #CC0000; color: #fff; }
+    nav a.nav-right { margin-left: auto; border-left: 1px solid #333; border-right: none; }
+
+    /* ══════════════════════════════════════
+       EDITORIAL EPISODE BODY
+    ══════════════════════════════════════ */
+    .content-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 52px 32px 80px;
+    }
+
+    /* Giant display date */
+    .ep-display-date {
+      font-size: clamp(3rem, 8vw, 6rem);
+      font-weight: 900;
+      line-height: 0.9;
+      letter-spacing: -4px;
+      color: #111;
+      margin-bottom: 20px;
+    }
+
+    .ep-display-date span { display: block; color: #CC0000; }
+    .ep-display-date .yr { font-size: 0.45em; letter-spacing: -1px; color: #888; }
+
+    /* Meta bar */
+    .ep-meta-bar {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .ep-meta-item { display: flex; align-items: baseline; gap: 6px; }
+    .ep-meta-num { font-size: 2.2rem; font-weight: 900; color: #111; letter-spacing: -1px; }
+    .ep-meta-lbl { font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #888; }
+
+    /* Notice */
+    .ep-notice {
+      background: #FFD700;
+      color: #111;
+      padding: 10px 18px;
+      font-size: 12px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 40px;
+    }
+
+    .heavy-rule { height: 4px; background: #111; margin-bottom: 40px; }
+
+    /* Two-column layout */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 56px;
+      align-items: start;
+    }
+
+    /* Section heads */
+    .sec-head {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 20px;
+    }
+
+    .sec-head h3 {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #CC0000;
+      white-space: nowrap;
+    }
+
+    .sec-head-count {
+      background: #003087;
+      color: #FFD700;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      padding: 3px 10px;
+      font-family: Arial, sans-serif;
+    }
+
+    .sec-head-rule { flex: 1; height: 1px; background: #e0e0e0; }
+
+    /* Sessions — editorial pull-quote style */
+    .session-item {
+      padding: 16px 20px;
+      border-left: 4px solid #CC0000;
+      margin-bottom: 14px;
+      background: #fafafa;
+    }
+
+    .session-artist { font-size: 1rem; font-weight: 900; color: #111; margin-bottom: 5px; }
+    .session-detail { font-size: 13px; color: #666; line-height: 1.65; }
+
+    /* Track table — clean editorial style with BBC colour accents */
+    .track-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .track-table thead tr { border-bottom: 3px solid #CC0000; }
+
+    .track-table thead th {
+      padding: 8px 10px;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #888;
+      text-align: left;
+    }
+
+    .track-table thead th:last-child { text-align: right; }
+
+    .track-table tbody tr {
+      background: #fff;
+      border-bottom: 1px solid #f0f0f0;
+      transition: background 0.1s;
+    }
+
+    .track-table tbody tr:nth-child(even) { background: #fafafa; }
+    .track-table tbody tr:hover { background: #fff5f5; }
+
+    .track-table td { padding: 8px 10px; font-size: 12px; vertical-align: middle; }
+    .track-table td.t-num { font-size: 11px; font-weight: 700; color: #ccc; width: 28px; }
+    .track-table td.t-artist { font-weight: 700; color: #111; }
+    .track-table td.t-title { color: #666; }
+
+    .track-table td.t-ts {
+      text-align: right;
+      font-size: 11px;
+      font-weight: 900;
+      color: #fff;
+      background: #003087;
+      white-space: nowrap;
+      letter-spacing: 0.5px;
+      padding: 8px 10px;
+    }
+
+    .track-table td.t-ts.empty { background: transparent; color: transparent; }
+    .track-system { color: #bbb !important; font-style: italic; }
+
+    /* Highlight session artist rows */
+    .track-table tr.highlight-row td.t-artist { color: #CC0000; font-weight: 900; }
+
+    /* Footer */
+    .bbc-footer-bar {
+      background: #003087;
+      border-top: 4px solid #CC0000;
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .bbc-footer-bar .footer-logo { display: flex; gap: 4px; align-items: center; }
+    .footer-bbc-box { background: #CC0000; color: #fff; font-size: 11px; font-weight: 900; width: 22px; height: 22px; display: flex; align-items: center; justify-content: center; font-family: 'Arial Black', Arial, sans-serif; }
+    .bbc-footer-bar a { color: #FFD700; text-decoration: none; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; font-family: Arial, sans-serif; }
+    .bbc-footer-bar a:hover { color: #fff; }
+  </style>
+</head>
+<body>
+
+<!-- BBC HEADER -->
+<div class="bbc-topbar">
+  <div class="bbc-logo">
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">C</div>
+    <span class="bbc-r1">RADIO 1</span>
+  </div>
+  <div class="bbc-freq">FM 97.6 · 99.0 · 99.8</div>
+</div>
+
+<div class="show-header">
+  <div class="show-header-inner">
+    <div>
+      <h1 class="show-title">Friday Rock Show</h1>
+      <p class="show-subtitle">Presented by Tommy Vance &nbsp;·&nbsp; BBC Radio 1 &nbsp;·&nbsp; Archive</p>
+    </div>
+    <img src="../../images/Radio1-275-285.jpg" alt="BBC Radio 1 — 275 285" class="radio1-logo">
+  </div>
+</div>
+
+<div class="dial-bar">
+  <span class="dial-label">Tuner</span>
+  <div class="dial-track"><div class="dial-needle"></div></div>
+  <span class="dial-freqs">88 · 90 · 92 · 94 · 97.6 · 99 · 100 · 102 · 104</span>
+</div>
+
+<nav>
+  <a href="./index.html">Episode Registry</a>
+  <a href="./episode.html" class="active">Episode Detail</a>
+  <a href="./chat.html">Ask TV</a>
+  <a href="../index.html" class="nav-right">← All Prototypes</a>
+</nav>
+
+<!-- EDITORIAL EPISODE BODY -->
+<div class="content-wrap">
+
+  <div class="ep-display-date">
+    Friday,
+    <span>7 November</span>
+    <span class="yr">1980</span>
+  </div>
+
+  <div class="ep-meta-bar">
+    <div class="ep-meta-item">
+      <span class="ep-meta-num">20</span>
+      <span class="ep-meta-lbl">Tracks</span>
+    </div>
+    <div class="ep-meta-item">
+      <span class="ep-meta-num">3</span>
+      <span class="ep-meta-lbl">Sessions</span>
+    </div>
+    <div class="ep-meta-item">
+      <span class="ep-meta-num" style="font-size:1.1rem; color:#888;">Tommy Vance</span>
+      <span class="ep-meta-lbl">Presenter</span>
+    </div>
+  </div>
+
+  <div class="ep-notice">⚠ The first 15 minutes and last 10 minutes of this show are missing from the archive.</div>
+
+  <div class="heavy-rule"></div>
+
+  <div class="two-col">
+
+    <!-- SESSIONS -->
+    <div>
+      <div class="sec-head">
+        <h3>Sessions</h3>
+        <div class="sec-head-rule"></div>
+        <span class="sec-head-count">3</span>
+      </div>
+
+      <div class="session-item">
+        <div class="session-artist">Hibiscus</div>
+        <div class="session-detail">Recorded 1980-10-15. First transmission. No known commercial release.</div>
+      </div>
+
+      <div class="session-item">
+        <div class="session-artist">John Mayall &amp; The Bluesbreakers</div>
+        <div class="session-detail">Archive session recorded 26th April 1965, with a line-up including John McVie and Eric Clapton. First broadcast on Saturday Club on the Light Programme.</div>
+      </div>
+
+      <div class="session-item">
+        <div class="session-artist">John Mayall &amp; The Bluesbreakers</div>
+        <div class="session-detail">Archive session recorded 23rd January 1967, with McVie, Peter Green and Aynsley Dunbar. First broadcast on Saturday Club on the Light Programme.</div>
+      </div>
+    </div>
+
+    <!-- TRACKS -->
+    <div>
+      <div class="sec-head">
+        <h3>Track Listing</h3>
+        <div class="sec-head-rule"></div>
+        <span class="sec-head-count">20</span>
+      </div>
+
+      <table class="track-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Artist</th>
+            <th>Track</th>
+            <th>Time</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="t-num">1</td><td colspan="2" class="t-artist track-system">— tape starts</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">2</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Crawling Up a Hill</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">3</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Crocodile Walk</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">4</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Bye Bye Bird</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">5</td><td class="t-artist">Saxon</td><td class="t-title">Taking Your Chances</td><td class="t-ts">00:09:00</td></tr>
+          <tr><td class="t-num">6</td><td class="t-artist">Hawkwind</td><td class="t-title">Motor Way City</td><td class="t-ts">00:15:00</td></tr>
+          <tr class="highlight-row"><td class="t-num">7</td><td class="t-artist">Hibiscus</td><td class="t-title">White Knight</td><td class="t-ts">00:20:38</td></tr>
+          <tr><td class="t-num">8</td><td class="t-artist">Rush</td><td class="t-title">The Trees</td><td class="t-ts">00:27:00</td></tr>
+          <tr><td class="t-num">9</td><td colspan="2" class="t-artist track-system">— Friday Night Connection</td><td class="t-ts">00:32:38</td></tr>
+          <tr class="highlight-row"><td class="t-num">10</td><td class="t-artist">Hibiscus</td><td class="t-title">I See the Sun</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">11</td><td class="t-artist">Ozzy Osbourne</td><td class="t-title">Mr. Crowley</td><td class="t-ts">01:02:19</td></tr>
+          <tr><td class="t-num">12</td><td class="t-artist">Thin Lizzy</td><td class="t-title">Emerald</td><td class="t-ts">01:03:00</td></tr>
+          <tr><td class="t-num">13</td><td class="t-artist">Scorpions</td><td class="t-title">He's a Woman - She's a Man</td><td class="t-ts">01:10:39</td></tr>
+          <tr><td class="t-num">14</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Riding on the L and N</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">15</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Sitting in the Rain</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">16</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Leaping Christine</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">17</td><td class="t-artist">Jon Anderson</td><td class="t-title">For You, For Me</td><td class="t-ts">01:29:54</td></tr>
+          <tr><td class="t-num">18</td><td class="t-artist">Eagles</td><td class="t-title">Hotel California</td><td class="t-ts">01:24:00</td></tr>
+          <tr class="highlight-row"><td class="t-num">19</td><td class="t-artist">Hibiscus</td><td class="t-title">Quilta</td><td class="t-ts empty">—</td></tr>
+          <tr><td class="t-num">20</td><td colspan="2" class="t-artist track-system">— tape ends</td><td class="t-ts empty">—</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+
+</div>
+
+<div class="bbc-footer-bar">
+  <div class="footer-logo">
+    <div class="footer-bbc-box">B</div>
+    <div class="footer-bbc-box">B</div>
+    <div class="footer-bbc-box">C</div>
+  </div>
+  <div style="display:flex; gap:32px;">
+    <a href="./index.html">← Back to Registry</a>
+    <a href="./chat.html">Ask TV about this episode →</a>
+  </div>
+</div>
+
+</body>
+</html>

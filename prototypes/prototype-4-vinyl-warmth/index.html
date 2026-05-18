@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friday Rock Show — Record Archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #F5F0E8;
+      color: #2C1810;
+      font-family: 'Lora', Georgia, serif;
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    .site-header {
+      background: #2C1810;
+      padding: 0;
+    }
+
+    .header-top {
+      background: #E8642A;
+      height: 6px;
+    }
+
+    .header-inner {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 36px 32px 32px;
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand-eyebrow {
+      font-family: 'Lora', serif;
+      font-size: 11px;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #E8642A;
+      margin-bottom: 10px;
+    }
+
+    .brand-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(2.2rem, 5vw, 3.5rem);
+      font-weight: 900;
+      color: #F5F0E8;
+      line-height: 1;
+    }
+
+    .brand-title em {
+      color: #E8642A;
+      font-style: italic;
+    }
+
+    .brand-sub {
+      font-family: 'Lora', serif;
+      font-size: 12px;
+      letter-spacing: 2px;
+      color: #8a6a55;
+      margin-top: 8px;
+    }
+
+    .header-meta {
+      text-align: right;
+    }
+
+    .header-meta-label {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #555;
+      margin-bottom: 6px;
+    }
+
+    .header-meta-val {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #D4841A;
+    }
+
+    .tommy-portrait {
+      width: 110px;
+      height: 110px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #E8642A;
+      box-shadow: 0 4px 20px rgba(44,24,16,0.4);
+      display: block;
+    }
+
+    /* ── NAV ── */
+    .nav-wrap {
+      background: #3a2218;
+      border-bottom: 3px solid #E8642A;
+    }
+
+    .nav-inner {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 0 32px;
+      display: flex;
+      align-items: center;
+    }
+
+    nav a {
+      display: block;
+      padding: 14px 22px;
+      color: #8a6a55;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: 'Lora', serif;
+      transition: color 0.2s;
+    }
+
+    nav a:hover, nav a.active { color: #E8642A; }
+    nav .nav-right { margin-left: auto; }
+
+    /* ── CONTENT ── */
+    .content-wrap {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 52px 32px 80px;
+    }
+
+    /* ── SHELF HEADER ── */
+    .shelf-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 36px;
+      padding-bottom: 16px;
+      border-bottom: 2px solid #D4841A;
+    }
+
+    .shelf-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.8rem;
+      font-weight: 700;
+      color: #2C1810;
+    }
+
+    .shelf-sub {
+      font-size: 13px;
+      color: #8a7060;
+      margin-top: 4px;
+    }
+
+    .shelf-count {
+      font-size: 12px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #D4841A;
+    }
+
+    /* ── RECORD SLEEVE CARDS ── */
+    .sleeves-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .sleeve-card {
+      display: flex;
+      align-items: stretch;
+      text-decoration: none;
+      color: inherit;
+      background: #EDE8DF;
+      border: 1px solid #D8D0C4;
+      border-bottom: none;
+      transition: background 0.2s, box-shadow 0.2s;
+      position: relative;
+    }
+
+    .sleeve-card:first-child { border-radius: 4px 4px 0 0; }
+    .sleeve-card:last-child { border-bottom: 1px solid #D8D0C4; border-radius: 0 0 4px 4px; }
+
+    .sleeve-card:hover {
+      background: #F0EAE0;
+      box-shadow: 0 2px 12px rgba(44,24,16,0.12);
+      z-index: 1;
+    }
+
+    /* The "spine" of the record sleeve */
+    .sleeve-spine {
+      width: 14px;
+      flex-shrink: 0;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .sp1 .sleeve-spine { background: #E8642A; }
+    .sp2 .sleeve-spine { background: #2D5A1B; }
+    .sp3 .sleeve-spine { background: #D4841A; }
+    .sp4 .sleeve-spine { background: #2C1810; }
+
+    .sleeve-spine-text {
+      position: absolute;
+      bottom: 12px;
+      left: 50%;
+      transform: translateX(-50%) rotate(-90deg);
+      white-space: nowrap;
+      font-size: 7px;
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: rgba(245,240,232,0.7);
+      transform-origin: center;
+    }
+
+    /* The vinyl label circle */
+    .sleeve-label {
+      width: 80px;
+      height: 80px;
+      flex-shrink: 0;
+      margin: 20px 20px 20px 14px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 2px 8px rgba(44,24,16,0.25);
+    }
+
+    .sp1 .sleeve-label { background: radial-gradient(circle at 40% 40%, #c04a1a, #7a2a08); }
+    .sp2 .sleeve-label { background: radial-gradient(circle at 40% 40%, #3a7a25, #1a3a0e); }
+    .sp3 .sleeve-label { background: radial-gradient(circle at 40% 40%, #e09820, #8a5a08); }
+    .sp4 .sleeve-label { background: radial-gradient(circle at 40% 40%, #5a3020, #2C1810); }
+
+    .sleeve-label::before {
+      content: '';
+      position: absolute;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: rgba(245,240,232,0.6);
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+
+    /* Vinyl groove lines */
+    .sleeve-label::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      background: repeating-radial-gradient(circle, transparent 0, transparent 3px, rgba(0,0,0,0.08) 3px, rgba(0,0,0,0.08) 4px);
+    }
+
+    .sleeve-label-num {
+      position: relative;
+      z-index: 2;
+      font-size: 11px;
+      font-weight: 700;
+      color: rgba(245,240,232,0.9);
+      letter-spacing: 1px;
+      font-family: 'Lora', serif;
+    }
+
+    /* Card body */
+    .sleeve-body {
+      flex: 1;
+      padding: 22px 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .sleeve-info { flex: 1; }
+
+    .sleeve-ep-label {
+      font-size: 10px;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #E8642A;
+      margin-bottom: 6px;
+    }
+
+    .sleeve-date {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: #2C1810;
+      line-height: 1.1;
+    }
+
+    .sleeve-day {
+      font-size: 11px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #9a8070;
+      margin-top: 4px;
+    }
+
+    .sleeve-stats {
+      display: flex;
+      gap: 28px;
+      text-align: right;
+    }
+
+    .sleeve-stat { display: flex; flex-direction: column; align-items: flex-end; }
+    .sleeve-stat-num {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #2C1810;
+      line-height: 1;
+    }
+
+    .sp1 .sleeve-stat-num { color: #E8642A; }
+    .sp2 .sleeve-stat-num { color: #2D5A1B; }
+    .sp3 .sleeve-stat-num { color: #D4841A; }
+    .sp4 .sleeve-stat-num { color: #2C1810; }
+
+    .sleeve-stat-lbl {
+      font-size: 9px;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-top: 3px;
+    }
+
+    .sleeve-arrow {
+      font-size: 20px;
+      color: #c8b8a8;
+      padding: 0 12px;
+      display: flex;
+      align-items: center;
+      transition: color 0.2s;
+    }
+
+    .sleeve-card:hover .sleeve-arrow { color: #E8642A; }
+
+    /* ── FOOTER ── */
+    .site-footer {
+      background: #2C1810;
+      border-top: 3px solid #E8642A;
+      padding: 24px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .site-footer p { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: #6a4a38; font-family: 'Lora', serif; }
+    .site-footer a { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: #E8642A; text-decoration: none; font-family: 'Lora', serif; }
+    .site-footer a:hover { color: #D4841A; }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-top"></div>
+  <div class="header-inner">
+    <div>
+      <div class="brand-eyebrow">♦ BBC Radio 1 Archive ♦</div>
+      <div class="brand-title">Friday <em>Rock</em> Show</div>
+      <div class="brand-sub">Presented by Tommy Vance &nbsp;·&nbsp; A Living Archive</div>
+    </div>
+    <div class="header-meta" style="display:flex; align-items:center; gap:20px;">
+      <div>
+        <div class="header-meta-label">Collection</div>
+        <div class="header-meta-val">1980 Episodes</div>
+      </div>
+      <img src="../../images/tommyvance.png" alt="Tommy Vance" class="tommy-portrait">
+    </div>
+  </div>
+</header>
+
+<div class="nav-wrap">
+  <div class="nav-inner">
+    <nav>
+      <a href="./index.html" class="active">Episode Shelf</a>
+      <a href="./episode.html">Episode Detail</a>
+      <a href="./chat.html">Ask TV</a>
+      <a href="../index.html" class="nav-right">← All Prototypes</a>
+    </nav>
+  </div>
+</div>
+
+<div class="content-wrap">
+
+  <div class="shelf-header">
+    <div>
+      <div class="shelf-title">November — December 1980</div>
+      <div class="shelf-sub">Four broadcasts from the golden era</div>
+    </div>
+    <div class="shelf-count">4 Episodes on Shelf</div>
+  </div>
+
+  <div class="sleeves-list">
+
+    <a href="./episode.html" class="sleeve-card sp1">
+      <div class="sleeve-spine">
+        <span class="sleeve-spine-text">Friday Rock Show</span>
+      </div>
+      <div class="sleeve-label">
+        <span class="sleeve-label-num">01</span>
+      </div>
+      <div class="sleeve-body">
+        <div class="sleeve-info">
+          <div class="sleeve-ep-label">♦ Episode One</div>
+          <div class="sleeve-date">7 November 1980</div>
+          <div class="sleeve-day">Friday</div>
+        </div>
+        <div class="sleeve-stats">
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">20</span>
+            <span class="sleeve-stat-lbl">Tracks</span>
+          </div>
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">3</span>
+            <span class="sleeve-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="sleeve-arrow">›</div>
+    </a>
+
+    <a href="./episode.html" class="sleeve-card sp2">
+      <div class="sleeve-spine">
+        <span class="sleeve-spine-text">Friday Rock Show</span>
+      </div>
+      <div class="sleeve-label">
+        <span class="sleeve-label-num">02</span>
+      </div>
+      <div class="sleeve-body">
+        <div class="sleeve-info">
+          <div class="sleeve-ep-label">♦ Episode Two</div>
+          <div class="sleeve-date">14 November 1980</div>
+          <div class="sleeve-day">Friday</div>
+        </div>
+        <div class="sleeve-stats">
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">18</span>
+            <span class="sleeve-stat-lbl">Tracks</span>
+          </div>
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">2</span>
+            <span class="sleeve-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="sleeve-arrow">›</div>
+    </a>
+
+    <a href="./episode.html" class="sleeve-card sp3">
+      <div class="sleeve-spine">
+        <span class="sleeve-spine-text">Friday Rock Show</span>
+      </div>
+      <div class="sleeve-label">
+        <span class="sleeve-label-num">03</span>
+      </div>
+      <div class="sleeve-body">
+        <div class="sleeve-info">
+          <div class="sleeve-ep-label">♦ Episode Three</div>
+          <div class="sleeve-date">21 November 1980</div>
+          <div class="sleeve-day">Friday</div>
+        </div>
+        <div class="sleeve-stats">
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">22</span>
+            <span class="sleeve-stat-lbl">Tracks</span>
+          </div>
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">4</span>
+            <span class="sleeve-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="sleeve-arrow">›</div>
+    </a>
+
+    <a href="./episode.html" class="sleeve-card sp4">
+      <div class="sleeve-spine">
+        <span class="sleeve-spine-text">Friday Rock Show</span>
+      </div>
+      <div class="sleeve-label">
+        <span class="sleeve-label-num">04</span>
+      </div>
+      <div class="sleeve-body">
+        <div class="sleeve-info">
+          <div class="sleeve-ep-label">♦ Episode Four</div>
+          <div class="sleeve-date">5 December 1980</div>
+          <div class="sleeve-day">Friday</div>
+        </div>
+        <div class="sleeve-stats">
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">16</span>
+            <span class="sleeve-stat-lbl">Tracks</span>
+          </div>
+          <div class="sleeve-stat">
+            <span class="sleeve-stat-num">2</span>
+            <span class="sleeve-stat-lbl">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="sleeve-arrow">›</div>
+    </a>
+
+  </div>
+
+</div>
+
+<div class="site-footer">
+  <p>♦ Friday Rock Show Archive &nbsp;·&nbsp; BBC Radio 1</p>
+  <a href="./chat.html">Ask Tommy about any episode →</a>
+</div>
+
+</body>
+</html>

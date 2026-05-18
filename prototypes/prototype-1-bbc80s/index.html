@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Friday Rock Show — Episode Registry</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #1a1a1a;
+      color: #ffffff;
+      font-family: 'Arial Black', 'Arial Bold', Arial, sans-serif;
+    }
+
+    /* ── TOP BAR ── */
+    .bbc-topbar {
+      background: #CC0000;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 52px;
+    }
+
+    .bbc-logo {
+      display: flex;
+      gap: 4px;
+      align-items: center;
+    }
+
+    .bbc-box {
+      background: #ffffff;
+      color: #CC0000;
+      font-size: 15px;
+      font-weight: 900;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      letter-spacing: -1px;
+    }
+
+    .bbc-r1 {
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 900;
+      margin-left: 10px;
+      letter-spacing: 1px;
+    }
+
+    .bbc-freq {
+      color: #ffaaaa;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ── SHOW HEADER ── */
+    .show-header {
+      background: #003087;
+      padding: 28px 32px 24px;
+      border-bottom: 8px solid #FFD700;
+    }
+
+    .show-title {
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #ffffff;
+      line-height: 1;
+    }
+
+    .show-subtitle {
+      margin-top: 8px;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #FFD700;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ── DIAL DECORATION ── */
+    .dial-bar {
+      background: #111;
+      padding: 10px 32px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      border-bottom: 2px solid #333;
+      overflow: hidden;
+    }
+
+    .dial-label {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #CC0000;
+      white-space: nowrap;
+      margin-right: 8px;
+    }
+
+    .dial-track {
+      flex: 1;
+      height: 4px;
+      background: repeating-linear-gradient(90deg, #333 0px, #333 2px, #444 2px, #444 8px);
+      position: relative;
+    }
+
+    .dial-needle {
+      position: absolute;
+      left: 37%;
+      top: -6px;
+      width: 2px;
+      height: 16px;
+      background: #FFD700;
+    }
+
+    .dial-freqs {
+      font-size: 9px;
+      color: #666;
+      letter-spacing: 2px;
+      font-family: Arial, sans-serif;
+      white-space: nowrap;
+    }
+
+    /* ── NAV ── */
+    nav {
+      background: #222;
+      border-bottom: 2px solid #CC0000;
+      display: flex;
+      align-items: center;
+      gap: 0;
+    }
+
+    nav a {
+      display: block;
+      padding: 14px 24px;
+      color: #ccc;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+      border-right: 1px solid #333;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    nav a:hover, nav a.active {
+      background: #CC0000;
+      color: #fff;
+    }
+
+    /* ── MAIN ── */
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 36px 24px 64px;
+    }
+
+    .section-head {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      margin-bottom: 28px;
+    }
+
+    .section-head-bar {
+      background: #CC0000;
+      height: 32px;
+      width: 8px;
+      margin-right: 14px;
+    }
+
+    .section-head h2 {
+      font-size: 14px;
+      font-weight: 900;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      color: #ffffff;
+    }
+
+    .section-head .count {
+      margin-left: auto;
+      font-size: 11px;
+      color: #FFD700;
+      font-weight: 700;
+      letter-spacing: 2px;
+      font-family: Arial, sans-serif;
+    }
+
+    /* ── EPISODE CARDS ── */
+    .episodes-list {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .episode-card {
+      display: flex;
+      align-items: stretch;
+      text-decoration: none;
+      color: inherit;
+      background: #1e1e1e;
+      border: 1px solid #2a2a2a;
+      border-top: none;
+      transition: background 0.15s;
+    }
+
+    .episode-card:first-child {
+      border-top: 1px solid #2a2a2a;
+    }
+
+    .episode-card:hover {
+      background: #252525;
+    }
+
+    .episode-card:hover .card-accent { opacity: 1; }
+
+    .card-accent {
+      width: 10px;
+      flex-shrink: 0;
+      opacity: 0.85;
+      transition: opacity 0.15s;
+    }
+
+    .ep1 .card-accent { background: #CC0000; }
+    .ep2 .card-accent { background: #003087; }
+    .ep3 .card-accent { background: #FFD700; }
+    .ep4 .card-accent { background: #CC0000; }
+
+    .card-inner {
+      flex: 1;
+      padding: 20px 24px;
+      display: flex;
+      align-items: center;
+      gap: 24px;
+    }
+
+    .ep-num {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      color: #555;
+      font-family: Arial, sans-serif;
+      width: 32px;
+      flex-shrink: 0;
+    }
+
+    .ep-date {
+      flex: 1;
+    }
+
+    .ep-date-main {
+      font-size: 1.05rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #fff;
+    }
+
+    .ep-date-day {
+      font-size: 11px;
+      font-weight: 700;
+      color: #666;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-top: 2px;
+      font-family: Arial, sans-serif;
+    }
+
+    .ep-stats {
+      display: flex;
+      gap: 24px;
+      text-align: right;
+    }
+
+    .ep-stat {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-end;
+    }
+
+    .ep-stat-val {
+      font-size: 1.4rem;
+      font-weight: 900;
+      color: #FFD700;
+      line-height: 1;
+    }
+
+    .ep-stat-label {
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #555;
+      margin-top: 3px;
+      font-family: Arial, sans-serif;
+    }
+
+    .card-arrow-col {
+      padding: 0 20px;
+      display: flex;
+      align-items: center;
+      color: #444;
+      font-size: 18px;
+      transition: color 0.15s;
+    }
+
+    .episode-card:hover .card-arrow-col { color: #CC0000; }
+
+    /* ── FOOTER ── */
+    .page-footer {
+      background: #111;
+      border-top: 4px solid #CC0000;
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .page-footer a {
+      color: #888;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+    }
+
+    .page-footer a:hover { color: #CC0000; }
+
+    .show-header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .tommy-portrait {
+      height: 130px;
+      width: auto;
+      object-fit: cover;
+      border: 4px solid #FFD700;
+      display: block;
+    }
+
+    .footer-logo {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .footer-bbc-box {
+      background: #CC0000;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 900;
+      width: 22px;
+      height: 22px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+<div class="bbc-topbar">
+  <div class="bbc-logo">
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">C</div>
+    <span class="bbc-r1">RADIO 1</span>
+  </div>
+  <div class="bbc-freq">FM 97.6 · 99.0 · 99.8</div>
+</div>
+
+<div class="show-header">
+  <div class="show-header-inner">
+    <div>
+      <h1 class="show-title">Friday Rock Show</h1>
+      <p class="show-subtitle">Presented by Tommy Vance &nbsp;·&nbsp; BBC Radio 1 &nbsp;·&nbsp; Archive</p>
+    </div>
+    <img src="../../images/tommyvance.png" alt="Tommy Vance" class="tommy-portrait">
+  </div>
+</div>
+
+<div class="dial-bar">
+  <span class="dial-label">Tuner</span>
+  <div class="dial-track">
+    <div class="dial-needle"></div>
+  </div>
+  <span class="dial-freqs">88 · 90 · 92 · 94 · 97.6 · 99 · 100 · 102 · 104</span>
+</div>
+
+<nav>
+  <a href="./index.html" class="active">Episode Registry</a>
+  <a href="./episode.html">Episode Detail</a>
+  <a href="./chat.html">Ask TV</a>
+  <a href="../index.html" style="margin-left:auto; border-left: 1px solid #333; border-right:none;">← All Prototypes</a>
+</nav>
+
+<main>
+  <div class="section-head">
+    <div class="section-head-bar"></div>
+    <h2>November–December 1980</h2>
+    <span class="count">4 Episodes</span>
+  </div>
+
+  <div class="episodes-list">
+
+    <a href="./episode.html" class="episode-card ep1">
+      <div class="card-accent"></div>
+      <div class="card-inner">
+        <span class="ep-num">01</span>
+        <div class="ep-date">
+          <div class="ep-date-main">7 November 1980</div>
+          <div class="ep-date-day">Friday</div>
+        </div>
+        <div class="ep-stats">
+          <div class="ep-stat">
+            <span class="ep-stat-val">20</span>
+            <span class="ep-stat-label">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-val">3</span>
+            <span class="ep-stat-label">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-arrow-col">›</div>
+    </a>
+
+    <a href="./episode.html" class="episode-card ep2">
+      <div class="card-accent"></div>
+      <div class="card-inner">
+        <span class="ep-num">02</span>
+        <div class="ep-date">
+          <div class="ep-date-main">14 November 1980</div>
+          <div class="ep-date-day">Friday</div>
+        </div>
+        <div class="ep-stats">
+          <div class="ep-stat">
+            <span class="ep-stat-val">18</span>
+            <span class="ep-stat-label">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-val">2</span>
+            <span class="ep-stat-label">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-arrow-col">›</div>
+    </a>
+
+    <a href="./episode.html" class="episode-card ep3">
+      <div class="card-accent"></div>
+      <div class="card-inner">
+        <span class="ep-num">03</span>
+        <div class="ep-date">
+          <div class="ep-date-main">21 November 1980</div>
+          <div class="ep-date-day">Friday</div>
+        </div>
+        <div class="ep-stats">
+          <div class="ep-stat">
+            <span class="ep-stat-val">22</span>
+            <span class="ep-stat-label">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-val">4</span>
+            <span class="ep-stat-label">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-arrow-col">›</div>
+    </a>
+
+    <a href="./episode.html" class="episode-card ep4">
+      <div class="card-accent"></div>
+      <div class="card-inner">
+        <span class="ep-num">04</span>
+        <div class="ep-date">
+          <div class="ep-date-main">5 December 1980</div>
+          <div class="ep-date-day">Friday</div>
+        </div>
+        <div class="ep-stats">
+          <div class="ep-stat">
+            <span class="ep-stat-val">16</span>
+            <span class="ep-stat-label">Tracks</span>
+          </div>
+          <div class="ep-stat">
+            <span class="ep-stat-val">2</span>
+            <span class="ep-stat-label">Sessions</span>
+          </div>
+        </div>
+      </div>
+      <div class="card-arrow-col">›</div>
+    </a>
+
+  </div>
+</main>
+
+<div class="page-footer">
+  <div class="footer-logo">
+    <div class="footer-bbc-box">B</div>
+    <div class="footer-bbc-box">B</div>
+    <div class="footer-bbc-box">C</div>
+  </div>
+  <a href="./chat.html">Ask TV about any episode →</a>
+</div>
+
+</body>
+</html>

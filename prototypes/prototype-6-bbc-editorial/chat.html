@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ask TV — Friday Rock Show</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #ffffff;
+      color: #111111;
+      font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    /* ══════════════════════════════════════
+       BBC HEADER
+    ══════════════════════════════════════ */
+    .bbc-topbar {
+      background: #CC0000;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 24px;
+      height: 52px;
+      flex-shrink: 0;
+    }
+
+    .bbc-logo { display: flex; gap: 4px; align-items: center; }
+
+    .bbc-box {
+      background: #ffffff;
+      color: #CC0000;
+      font-size: 15px;
+      font-weight: 900;
+      width: 30px;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Arial Black', Arial, sans-serif;
+    }
+
+    .bbc-r1 { color: #ffffff; font-size: 15px; font-weight: 900; margin-left: 10px; letter-spacing: 1px; font-family: 'Arial Black', Arial, sans-serif; }
+    .bbc-freq { color: #ffaaaa; font-size: 12px; font-weight: 700; letter-spacing: 2px; font-family: Arial, sans-serif; }
+
+    .show-header {
+      background: #003087;
+      padding: 20px 32px;
+      border-bottom: 8px solid #FFD700;
+      flex-shrink: 0;
+    }
+
+    .show-header-inner { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+
+    .show-title { font-size: clamp(1.4rem, 3vw, 2rem); font-weight: 900; text-transform: uppercase; letter-spacing: 2px; color: #ffffff; line-height: 1; font-family: 'Arial Black', Arial, sans-serif; }
+    .show-subtitle { margin-top: 6px; font-size: 12px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #FFD700; font-family: Arial, sans-serif; }
+
+    .tommy-portrait { height: 90px; width: auto; object-fit: cover; border: 4px solid #FFD700; display: block; }
+
+    .dial-bar { background: #111; padding: 8px 32px; display: flex; align-items: center; gap: 6px; border-bottom: 2px solid #1e1e1e; overflow: hidden; flex-shrink: 0; }
+    .dial-label { font-size: 9px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #CC0000; white-space: nowrap; margin-right: 8px; font-family: Arial, sans-serif; }
+    .dial-track { flex: 1; height: 3px; background: repeating-linear-gradient(90deg, #333 0px, #333 2px, #444 2px, #444 8px); position: relative; }
+    .dial-needle { position: absolute; left: 37%; top: -5px; width: 2px; height: 13px; background: #FFD700; }
+    .dial-freqs { font-size: 9px; color: #555; letter-spacing: 2px; font-family: Arial, sans-serif; white-space: nowrap; }
+
+    nav {
+      background: #222;
+      border-bottom: 3px solid #CC0000;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    nav a {
+      display: block;
+      padding: 12px 24px;
+      color: #999;
+      text-decoration: none;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-family: Arial, sans-serif;
+      border-right: 1px solid #333;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    nav a:hover, nav a.active { background: #CC0000; color: #fff; }
+    nav a.nav-right { margin-left: auto; border-left: 1px solid #333; border-right: none; }
+
+    /* ══════════════════════════════════════
+       EDITORIAL CHAT BODY
+    ══════════════════════════════════════ */
+    .chat-body {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      background: #f9f9f9;
+    }
+
+    .msg-row { display: flex; gap: 16px; align-items: flex-start; max-width: 800px; }
+    .msg-row.user-row { flex-direction: row-reverse; margin-left: auto; }
+
+    .msg-avatar {
+      width: 40px;
+      height: 40px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 11px;
+      font-weight: 900;
+      letter-spacing: 1px;
+    }
+
+    .msg-avatar.tommy { background: #CC0000; color: #fff; }
+    .msg-avatar.user { background: #111; color: #fff; }
+
+    .msg-label {
+      font-size: 10px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+    }
+
+    .msg-label.tommy-lbl { color: #CC0000; }
+    .msg-label.user-lbl { color: #111; }
+    .msg-row.user-row .msg-label { text-align: right; }
+
+    .msg-bubble {
+      padding: 16px 20px;
+      font-size: 15px;
+      line-height: 1.65;
+    }
+
+    .msg-bubble.tommy-bbl {
+      background: #ffffff;
+      border: 1px solid #e0e0e0;
+      border-top: 3px solid #CC0000;
+      color: #111;
+    }
+
+    .msg-bubble.user-bbl {
+      background: #003087;
+      color: #FFD700;
+    }
+
+    .citation {
+      display: inline-block;
+      background: #FFD700;
+      color: #111;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 1px;
+      padding: 2px 10px;
+      margin-top: 10px;
+    }
+
+    /* Input area */
+    .chat-input-area {
+      background: #fff;
+      border-top: 4px solid #111;
+      padding: 18px 32px;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .chat-input-area input {
+      flex: 1;
+      background: #f5f5f5;
+      border: 1px solid #e0e0e0;
+      border-bottom: 3px solid #CC0000;
+      color: #111;
+      padding: 12px 16px;
+      font-size: 15px;
+      font-family: inherit;
+      outline: none;
+      transition: border-bottom-color 0.15s;
+    }
+
+    .chat-input-area input:focus { border-bottom-color: #003087; }
+    .chat-input-area input::placeholder { color: #aaa; }
+
+    .send-btn {
+      background: #CC0000;
+      color: #fff;
+      border: none;
+      padding: 13px 28px;
+      font-size: 12px;
+      font-weight: 900;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      cursor: pointer;
+      font-family: 'Arial Black', Arial, sans-serif;
+      transition: background 0.15s;
+    }
+
+    .send-btn:hover { background: #003087; }
+
+    .typing-dots span { display: inline-block; animation: blink 1.2s infinite; }
+    .typing-dots span:nth-child(2) { animation-delay: 0.2s; }
+    .typing-dots span:nth-child(3) { animation-delay: 0.4s; }
+    @keyframes blink { 0%, 80%, 100% { opacity: 0.2; } 40% { opacity: 1; } }
+  </style>
+</head>
+<body>
+
+<!-- BBC HEADER -->
+<div class="bbc-topbar">
+  <div class="bbc-logo">
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">B</div>
+    <div class="bbc-box">C</div>
+    <span class="bbc-r1">RADIO 1</span>
+  </div>
+  <div class="bbc-freq">FM 97.6 · 99.0 · 99.8</div>
+</div>
+
+<div class="show-header">
+  <div class="show-header-inner">
+    <div>
+      <h1 class="show-title">Friday Rock Show</h1>
+      <p class="show-subtitle">Ask TV &nbsp;·&nbsp; Tommy Vance Archive</p>
+    </div>
+    <img src="../../images/tommyvance.png" alt="Tommy Vance" class="tommy-portrait">
+  </div>
+</div>
+
+<div class="dial-bar">
+  <span class="dial-label">Tuner</span>
+  <div class="dial-track"><div class="dial-needle"></div></div>
+  <span class="dial-freqs">88 · 90 · 92 · 94 · 97.6 · 99 · 100 · 102 · 104</span>
+</div>
+
+<nav>
+  <a href="./index.html">Episode Registry</a>
+  <a href="./episode.html">Episode Detail</a>
+  <a href="./chat.html" class="active">Ask TV</a>
+  <a href="../index.html" class="nav-right">← All Prototypes</a>
+</nav>
+
+<!-- EDITORIAL CHAT -->
+<div class="chat-body" id="chatBody">
+
+  <div class="msg-row user-row">
+    <div class="msg-avatar user">You</div>
+    <div class="msg-content">
+      <div class="msg-label user-lbl">You</div>
+      <div class="msg-bubble user-bbl">Which artists appeared on the 7th November 1980 show?</div>
+    </div>
+  </div>
+
+  <div class="msg-row">
+    <div class="msg-avatar tommy">TV</div>
+    <div class="msg-content">
+      <div class="msg-label tommy-lbl">Tommy Vance</div>
+      <div class="msg-bubble tommy-bbl">
+        Ah, great question! On that Friday night — 7th November 1980 — I spun tracks from Saxon, Hawkwind, Hibiscus, Rush, Ozzy Osbourne, Thin Lizzy, Scorpions, Jon Anderson, and the Eagles. We also had three superb sessions: Hibiscus recording fresh from the studio, and two archive sessions from John Mayall &amp; The Bluesbreakers.
+        <div><span class="citation">1980-11-07 @ 00:09:00</span></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="chat-input-area">
+  <input type="text" id="chatInput" placeholder="Ask Tommy about the Friday Rock Show..." />
+  <button class="send-btn" onclick="sendMessage()">Send</button>
+</div>
+
+<script>
+  const MOCK_REPLIES = [
+    "That's a cracking question! The Friday Rock Show ran for years and we had so many extraordinary sessions. Let me dig into the archive for you...",
+    "Good question. Those November 1980 shows were particularly special — the heavy metal scene was really hitting its stride. New Wave of British Heavy Metal was absolutely on fire.",
+    "Ah yes, now you're talking! The archive recordings from those sessions are among the most treasured in the collection. Hibiscus in particular were a revelation that autumn.",
+    "I remember it well. Friday nights on Radio 1 were something else entirely — listeners would be tuned in right across the country. What a time to be alive!"
+  ];
+
+  let replyIndex = 0;
+
+  function sendMessage() {
+    const input = document.getElementById('chatInput');
+    const chatBody = document.getElementById('chatBody');
+    const text = input.value.trim();
+    if (!text) return;
+
+    const userRow = document.createElement('div');
+    userRow.className = 'msg-row user-row';
+    userRow.innerHTML = `
+      <div class="msg-avatar user">You</div>
+      <div class="msg-content">
+        <div class="msg-label user-lbl">You</div>
+        <div class="msg-bubble user-bbl">${escHtml(text)}</div>
+      </div>`;
+    chatBody.appendChild(userRow);
+
+    const typingRow = document.createElement('div');
+    typingRow.className = 'msg-row';
+    typingRow.innerHTML = `
+      <div class="msg-avatar tommy">TV</div>
+      <div class="msg-content">
+        <div class="msg-label tommy-lbl">Tommy Vance</div>
+        <div class="msg-bubble tommy-bbl"><span class="typing-dots"><span>●</span><span>●</span><span>●</span></span></div>
+      </div>`;
+    chatBody.appendChild(typingRow);
+    chatBody.scrollTop = chatBody.scrollHeight;
+    input.value = '';
+
+    setTimeout(() => {
+      typingRow.remove();
+      const reply = MOCK_REPLIES[replyIndex % MOCK_REPLIES.length];
+      replyIndex++;
+      const replyRow = document.createElement('div');
+      replyRow.className = 'msg-row';
+      replyRow.innerHTML = `
+        <div class="msg-avatar tommy">TV</div>
+        <div class="msg-content">
+          <div class="msg-label tommy-lbl">Tommy Vance</div>
+          <div class="msg-bubble tommy-bbl">${escHtml(reply)}</div>
+        </div>`;
+      chatBody.appendChild(replyRow);
+      chatBody.scrollTop = chatBody.scrollHeight;
+    }, 1400);
+  }
+
+  function escHtml(str) {
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  document.getElementById('chatInput').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') sendMessage();
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>7 November 1980 — Archive Transmission</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #0D0221;
+      color: #e0e0e0;
+      font-family: 'Courier New', Courier, monospace;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    body::after {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.06) 2px, rgba(0,0,0,0.06) 4px);
+      pointer-events: none;
+      z-index: 9999;
+    }
+
+    .masthead {
+      background: linear-gradient(180deg, #0D0221 0%, #120336 100%);
+      border-bottom: 2px solid #FF0090;
+      box-shadow: 0 0 30px rgba(255,0,144,0.4);
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .brand-title { font-size: 1.2rem; font-weight: 700; text-transform: uppercase; letter-spacing: 4px; color: #FF0090; text-shadow: 0 0 15px rgba(255,0,144,0.7); }
+    .brand-sub { font-size: 9px; letter-spacing: 3px; color: #8B00FF; margin-top: 4px; }
+
+    nav {
+      background: rgba(13,2,33,0.9);
+      border-bottom: 1px solid rgba(0,255,231,0.2);
+      display: flex;
+    }
+
+    nav a {
+      display: block;
+      padding: 12px 24px;
+      color: #555;
+      text-decoration: none;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 3px;
+      text-transform: uppercase;
+      font-family: 'Courier New', monospace;
+      border-right: 1px solid rgba(0,255,231,0.1);
+      transition: color 0.2s, text-shadow 0.2s;
+    }
+
+    nav a:hover, nav a.active { color: #00FFE7; text-shadow: 0 0 10px #00FFE7; }
+    nav .nav-right { margin-left: auto; border-left: 1px solid rgba(0,255,231,0.1); border-right: none !important; }
+
+    /* ── CONTENT ── */
+    .content-wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 48px 32px 80px;
+    }
+
+    /* ── EPISODE HERO ── */
+    .ep-hero {
+      margin-bottom: 48px;
+      padding-bottom: 36px;
+      border-bottom: 1px solid rgba(255,0,144,0.2);
+    }
+
+    .ep-tag {
+      font-size: 9px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      color: #8B00FF;
+      text-shadow: 0 0 6px rgba(139,0,255,0.6);
+      margin-bottom: 10px;
+    }
+
+    .ep-date {
+      font-size: clamp(2.2rem, 5vw, 4rem);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      color: #00FFE7;
+      text-shadow: 0 0 20px rgba(0,255,231,0.7), 0 0 60px rgba(0,255,231,0.2);
+      line-height: 1;
+    }
+
+    .ep-stats-bar {
+      display: flex;
+      gap: 40px;
+      margin-top: 20px;
+      align-items: center;
+    }
+
+    .ep-stat-item { display: flex; flex-direction: column; }
+    .ep-stat-num { font-size: 2.2rem; font-weight: 700; color: #FF0090; text-shadow: 0 0 12px rgba(255,0,144,0.7); line-height: 1; }
+    .ep-stat-lbl { font-size: 9px; letter-spacing: 4px; text-transform: uppercase; color: #333; margin-top: 4px; }
+
+    .ep-notice {
+      margin-top: 20px;
+      background: rgba(255, 0, 144, 0.08);
+      border: 1px solid rgba(255, 0, 144, 0.4);
+      border-left: 3px solid #FF0090;
+      padding: 12px 18px;
+      font-size: 12px;
+      color: #FF0090;
+      display: inline-block;
+    }
+
+    /* ── SECTION HEADS ── */
+    .sec-head {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      margin: 40px 0 20px;
+    }
+
+    .sec-head-tag {
+      font-size: 9px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+      color: #00FFE7;
+      text-shadow: 0 0 6px #00FFE7;
+      white-space: nowrap;
+    }
+
+    .sec-head-line { flex: 1; height: 1px; background: rgba(0,255,231,0.15); }
+
+    /* ── SESSIONS ── */
+    .session-card {
+      background: rgba(13,2,33,0.6);
+      border: 1px solid rgba(139,0,255,0.3);
+      border-left: 3px solid #8B00FF;
+      padding: 18px 22px;
+      margin-bottom: 10px;
+      position: relative;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .session-card:hover {
+      border-color: rgba(139,0,255,0.7);
+      box-shadow: 0 0 15px rgba(139,0,255,0.15);
+    }
+
+    .session-artist {
+      font-size: 1rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #FF0090;
+      text-shadow: 0 0 8px rgba(255,0,144,0.5);
+      margin-bottom: 6px;
+    }
+
+    .session-detail { font-size: 12px; color: #666; line-height: 1.7; }
+
+    /* ── TRACK TABLE — SCANLINE STYLE ── */
+    .track-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: 'Courier New', monospace;
+    }
+
+    .track-table thead tr { background: rgba(0,255,231,0.05); border-bottom: 1px solid rgba(0,255,231,0.3); }
+
+    .track-table thead th {
+      padding: 10px 14px;
+      font-size: 9px;
+      font-weight: 700;
+      letter-spacing: 4px;
+      text-transform: uppercase;
+      color: #00FFE7;
+      text-align: left;
+      text-shadow: 0 0 8px rgba(0,255,231,0.5);
+    }
+
+    .track-table thead th:last-child { text-align: right; }
+
+    .track-table tbody tr {
+      background: rgba(13,2,33,0.4);
+      border-bottom: 1px solid rgba(139,0,255,0.1);
+      transition: background 0.1s;
+    }
+
+    .track-table tbody tr:hover { background: rgba(255,0,144,0.05); }
+    .track-table tbody tr.alt-row { background: rgba(13,2,33,0.7); }
+
+    .track-table td { padding: 9px 14px; font-size: 11px; color: #888; vertical-align: middle; }
+    .track-table td.t-num { color: #8B00FF; font-size: 10px; width: 36px; }
+    .track-table td.t-artist { color: #e0e0e0; }
+    .track-table td.t-title { color: #666; }
+    .track-table td.t-ts { text-align: right; color: #00FFE7; text-shadow: 0 0 6px rgba(0,255,231,0.5); font-size: 10px; letter-spacing: 1px; white-space: nowrap; }
+    .track-table td.t-ts.empty { color: transparent; text-shadow: none; }
+    .track-system { color: #333 !important; font-style: italic; }
+
+    /* ── FOOTER ── */
+    .site-footer {
+      background: #080015;
+      border-top: 1px solid rgba(255,0,144,0.3);
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .site-footer a { font-size: 9px; letter-spacing: 3px; text-transform: uppercase; color: #00FFE7; text-decoration: none; text-shadow: 0 0 8px rgba(0,255,231,0.4); }
+    .site-footer a:hover { color: #FF0090; text-shadow: 0 0 8px rgba(255,0,144,0.6); }
+  </style>
+</head>
+<body>
+
+<div class="masthead">
+  <div>
+    <div class="brand-title">Friday Rock Show</div>
+    <div class="brand-sub">BBC RADIO 1 // TOMMY VANCE // ARCHIVE</div>
+  </div>
+  <div style="font-size:9px; letter-spacing:4px; color:#333; text-transform:uppercase;">TRANSMISSION LOG</div>
+</div>
+
+<nav>
+  <a href="./index.html">Registry</a>
+  <a href="./episode.html" class="active">Episode</a>
+  <a href="./chat.html">Ask TV</a>
+  <a href="../index.html" class="nav-right">← All Prototypes</a>
+</nav>
+
+<div class="content-wrap">
+
+  <div class="ep-hero">
+    <div class="ep-tag">// BROADCAST_RECORD // 1980-11-07 //</div>
+    <div class="ep-date">7 November 1980</div>
+    <div class="ep-stats-bar">
+      <div class="ep-stat-item">
+        <span class="ep-stat-num">20</span>
+        <span class="ep-stat-lbl">tracks</span>
+      </div>
+      <div class="ep-stat-item">
+        <span class="ep-stat-num">3</span>
+        <span class="ep-stat-lbl">sessions</span>
+      </div>
+      <div class="ep-stat-item">
+        <span class="ep-stat-num" style="font-size:1rem; color:#8B00FF; text-shadow: 0 0 8px rgba(139,0,255,0.6);">FRIDAY</span>
+        <span class="ep-stat-lbl">broadcast day</span>
+      </div>
+    </div>
+    <div class="ep-notice">ALERT: First 15 minutes missing from archive. Last 10 minutes missing.</div>
+  </div>
+
+  <div class="sec-head">
+    <span class="sec-head-tag">// SESSIONS_LOG //</span>
+    <div class="sec-head-line"></div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-artist">Hibiscus</div>
+    <div class="session-detail">Recorded 1980-10-15. First transmission. No known commercial release.</div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-artist">John Mayall &amp; The Bluesbreakers</div>
+    <div class="session-detail">Archive session recorded 26th April 1965, with a line-up including John McVie and Eric Clapton. First broadcast on Saturday Club on the Light Programme.</div>
+  </div>
+
+  <div class="session-card">
+    <div class="session-artist">John Mayall &amp; The Bluesbreakers</div>
+    <div class="session-detail">Archive session recorded 23rd January 1967, with McVie, Peter Green and Aynsley Dunbar. First broadcast on Saturday Club on the Light Programme.</div>
+  </div>
+
+  <div class="sec-head">
+    <span class="sec-head-tag">// TRACK_LISTING // 20 TRACKS //</span>
+    <div class="sec-head-line"></div>
+  </div>
+
+  <table class="track-table">
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Artist</th>
+        <th>Track</th>
+        <th>Timestamp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td class="t-num">01</td><td class="t-artist track-system">—</td><td class="track-system">tape starts</td><td class="t-ts empty">—</td></tr>
+      <tr class="alt-row"><td class="t-num">02</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Crawling Up a Hill</td><td class="t-ts empty">—</td></tr>
+      <tr><td class="t-num">03</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Crocodile Walk</td><td class="t-ts empty">—</td></tr>
+      <tr class="alt-row"><td class="t-num">04</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Bye Bye Bird</td><td class="t-ts empty">—</td></tr>
+      <tr><td class="t-num">05</td><td class="t-artist">Saxon</td><td class="t-title">Taking Your Chances</td><td class="t-ts">00:09:00</td></tr>
+      <tr class="alt-row"><td class="t-num">06</td><td class="t-artist">Hawkwind</td><td class="t-title">Motor Way City</td><td class="t-ts">00:15:00</td></tr>
+      <tr><td class="t-num">07</td><td class="t-artist">Hibiscus</td><td class="t-title">White Knight</td><td class="t-ts">00:20:38</td></tr>
+      <tr class="alt-row"><td class="t-num">08</td><td class="t-artist">Rush</td><td class="t-title">The Trees</td><td class="t-ts">00:27:00</td></tr>
+      <tr><td class="t-num">09</td><td class="t-artist track-system">—</td><td class="track-system">Friday Night Connection</td><td class="t-ts">00:32:38</td></tr>
+      <tr class="alt-row"><td class="t-num">10</td><td class="t-artist">Hibiscus</td><td class="t-title">I See the Sun</td><td class="t-ts empty">—</td></tr>
+      <tr><td class="t-num">11</td><td class="t-artist">Ozzy Osbourne</td><td class="t-title">Mr. Crowley</td><td class="t-ts">01:02:19</td></tr>
+      <tr class="alt-row"><td class="t-num">12</td><td class="t-artist">Thin Lizzy</td><td class="t-title">Emerald</td><td class="t-ts">01:03:00</td></tr>
+      <tr><td class="t-num">13</td><td class="t-artist">Scorpions</td><td class="t-title">He's a Woman - She's a Man</td><td class="t-ts">01:10:39</td></tr>
+      <tr class="alt-row"><td class="t-num">14</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Riding on the L and N</td><td class="t-ts empty">—</td></tr>
+      <tr><td class="t-num">15</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Sitting in the Rain</td><td class="t-ts empty">—</td></tr>
+      <tr class="alt-row"><td class="t-num">16</td><td class="t-artist">John Mayall &amp; The Bluesbreakers</td><td class="t-title">Leaping Christine</td><td class="t-ts empty">—</td></tr>
+      <tr><td class="t-num">17</td><td class="t-artist">Jon Anderson</td><td class="t-title">For You, For Me</td><td class="t-ts">01:29:54</td></tr>
+      <tr class="alt-row"><td class="t-num">18</td><td class="t-artist">Eagles</td><td class="t-title">Hotel California</td><td class="t-ts">01:24:00</td></tr>
+      <tr><td class="t-num">19</td><td class="t-artist">Hibiscus</td><td class="t-title">Quilta</td><td class="t-ts empty">—</td></tr>
+      <tr class="alt-row"><td class="t-num">20</td><td class="t-artist track-system">—</td><td class="track-system">tape ends</td><td class="t-ts empty">—</td></tr>
+    </tbody>
+  </table>
+
+</div>
+
+<div class="site-footer">
+  <a href="./index.html">&lt;&lt; BACK TO REGISTRY</a>
+  <a href="./chat.html">INITIATE ASK_TV &gt;&gt;</a>
+</div>
+
+</body>
+</html>
