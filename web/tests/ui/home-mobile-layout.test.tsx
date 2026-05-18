@@ -19,4 +19,16 @@ describe("Homepage mobile layout", () => {
 
     expect(screen.getByText("Open menu")).toBeInTheDocument();
   });
+
+  it("keeps the main homepage heading on one line on mobile", () => {
+    render(<Home />);
+
+    const heading = screen.getByRole("heading", {
+      level: 1,
+      name: "The Friday Rock Show",
+    });
+
+    expect(heading).toHaveClass("text-3xl");
+    expect(heading).toHaveClass("whitespace-nowrap");
+  });
 });

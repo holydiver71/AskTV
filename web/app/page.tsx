@@ -16,7 +16,7 @@ export default function Home() {
         <p className="font-mono text-xs text-muted-foreground tracking-widest uppercase">
           BBC Radio 1 · 1978–1993
         </p>
-        <h1 className="text-4xl md:text-5xl font-bold tracking-tight">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight whitespace-nowrap">
           The Friday Rock Show
         </h1>
         <p className="text-muted-foreground max-w-md mx-auto text-sm leading-relaxed">
