@@ -4,6 +4,8 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { Nav } from "@/components/nav";
 import { Toaster } from "@/components/ui/sonner";
+import { env } from "@/lib/env";
+import { getThemeClasses } from "@/lib/theme";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -21,6 +23,8 @@ export const metadata: Metadata = {
     "A searchable digital archive of Tommy Vance's Friday Rock Show on BBC Radio 1. Browse every episode, track, and session from 1980.",
 };
 
+const themeClasses = getThemeClasses(env.ASK_TV_THEME);
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -29,7 +33,12 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased dark`}
+      className={[
+        geistSans.variable,
+        geistMono.variable,
+        "h-full antialiased",
+        ...themeClasses,
+      ].join(" ")}
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
         <Nav />

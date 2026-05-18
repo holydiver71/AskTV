@@ -96,6 +96,12 @@
   --sidebar-ring: oklch(0.708 0 0);
 }
 
+/* ─────────────────────────────────────────────────────────────────────────
+   THEME: default  (ASK_TV_THEME=default)
+   Applied via the `dark` class on <html> — see lib/theme.ts.
+   To add a new theme, create a new CSS class block below and register it
+   in lib/theme.ts + app/globals.css.
+   ───────────────────────────────────────────────────────────────────────── */
 .dark {
   --background: oklch(0.145 0 0);
   --foreground: oklch(0.985 0 0);
@@ -184,6 +190,25 @@
     transform: translateY(0);
   }
 }
+
+/* ─────────────────────────────────────────────────────────────────────────
+   ADDITIONAL THEMES
+   Each theme is a single CSS class that overrides the design tokens above.
+   Register the class name in lib/theme.ts so the env var wires it up.
+
+   Example — to add a "bbc-editorial" theme:
+
+   .theme-bbc-editorial {
+     --background:          oklch(...);
+     --foreground:          oklch(...);
+     --primary:             oklch(...);
+     ... (all tokens from :root above)
+   }
+
+   Then in lib/theme.ts add:
+     "bbc-editorial": { htmlClasses: ["theme-bbc-editorial"] }
+   And set ASK_TV_THEME=bbc-editorial in your environment.
+   ───────────────────────────────────────────────────────────────────────── */
 
 @media (prefers-reduced-motion: reduce) {
   *,

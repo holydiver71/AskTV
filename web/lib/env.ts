@@ -10,6 +10,7 @@ const schema = z.object({
     .min(1, "NEXT_PUBLIC_SUPABASE_ANON_KEY is required"),
   OPENAI_API_KEY: z.string().min(1, "OPENAI_API_KEY is required"),
   ASKTV_CHAT_SYSTEM_PROMPT: z.string().optional(),
+  ASK_TV_THEME: z.string().optional().default("default"),
 });
 
 function validateEnv() {
