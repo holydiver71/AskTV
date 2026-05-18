@@ -12,7 +12,8 @@
     {
       "artist": "AC/DC",
       "track": "Rock And Roll Damnation",
-      "details": "LP-If You Want Blood You've Got It; Atlantic"
+      "details": "LP-If You Want Blood You've Got It; Atlantic",
+      "verified_timestamp": 617.3
     },
     {
       "artist": "Blue Oyster Cult",
@@ -22,32 +23,38 @@
     {
       "artist": "Elvis Costello & The Attractions",
       "track": "'I Just Don't Know What To Do With Myself '",
-      "details": "Peel Session 1978-10-23"
+      "details": "Peel Session 1978-10-23",
+      "verified_timestamp": 619.88
     },
     {
       "artist": "Bob Marley & The Wailers",
       "track": "Jamming",
-      "details": "2xLP-Babylon By Bus; Island"
+      "details": "2xLP-Babylon By Bus; Island",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Santana",
       "track": "Jingo",
-      "details": "LP-Santana; CBS"
+      "details": "LP-Santana; CBS",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Racing Cars",
       "track": "Moonshine Fandango",
-      "details": "Peel Session 1976-09-09"
+      "details": "Peel Session 1976-09-09",
+      "verified_timestamp": 1324.52
     },
     {
       "artist": "Neil Young",
       "track": "Look Out For My Love",
-      "details": "LP-Comes A Time; Reprise"
+      "details": "LP-Comes A Time; Reprise",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Peter Frampton",
       "track": "Baby I Love Your Way",
-      "details": "LP-Frampton; A&M"
+      "details": "LP-Frampton; A&M",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Elvis Costello & The Attractions",
@@ -57,12 +64,14 @@
     {
       "artist": "The Outlaws",
       "track": "A Real Good Feeling",
-      "details": "LP-Playin' To Win; Arista"
+      "details": "LP-Playin' To Win; Arista",
+      "verified_timestamp": 2264.7
     },
     {
       "artist": "Siouxsie & The Banshees",
       "track": "Jigsaw Feeling",
-      "details": "LP-The Scream; Polydor"
+      "details": "LP-The Scream; Polydor",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Racing Cars",
@@ -72,17 +81,20 @@
     {
       "artist": "Bob Dylan",
       "track": "Mr Bojangles",
-      "details": "LP-Dylan; CBS"
+      "details": "LP-Dylan; CBS",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Brand X",
       "track": "Deadly Nightshade",
-      "details": "LP-Masques; Charisma"
+      "details": "LP-Masques; Charisma",
+      "verified_timestamp": 4027.56
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 53.15
     },
     {
       "artist": "Elvis Costello & The Attractions",
@@ -92,12 +104,14 @@
     {
       "artist": "Trevor Rabin",
       "track": "Getting To Know You Better",
-      "details": "LP-Trevor Rabin; Chrysalis"
+      "details": "LP-Trevor Rabin; Chrysalis",
+      "verified_timestamp": 5177.9
     },
     {
       "artist": "Kate And Anna Mcgarrigle",
       "track": "Na Cl",
-      "details": "LP-Pronto Monto; Warner Bros."
+      "details": "LP-Pronto Monto; Warner Bros.",
+      "verified_timestamp": 1292.6
     },
     {
       "artist": "Peter Gabriel",
@@ -107,7 +121,8 @@
     {
       "artist": "The Clash",
       "track": "Last Gang In Town",
-      "details": "LP-Give 'Em Enough Rope; CBS"
+      "details": "LP-Give 'Em Enough Rope; CBS",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Racing Cars",
@@ -117,7 +132,8 @@
     {
       "artist": "City Boy",
       "track": "The World Loves A Dancer",
-      "details": "LP-Book Early; Vertigo"
+      "details": "LP-Book Early; Vertigo",
+      "verified_timestamp": 6397.96
     },
     {
       "artist": "Racing Cars",
@@ -132,7 +148,8 @@
     {
       "artist": "Ted Nugent",
       "track": "Weekend Warrior",
-      "details": "LP-Weekend Warriors; Epic"
+      "details": "LP-Weekend Warriors; Epic",
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [

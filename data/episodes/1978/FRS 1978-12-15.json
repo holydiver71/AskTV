@@ -22,7 +22,8 @@
     {
       "artist": "UFO",
       "track": "Hot And Ready",
-      "details": "LP-Obsession; Chrysalis"
+      "details": "LP-Obsession; Chrysalis",
+      "verified_timestamp": 585.77
     },
     {
       "artist": "Kirby",
@@ -32,27 +33,32 @@
     {
       "artist": "Lone Star",
       "track": "Flying In The Reel",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 607.77
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Red House",
-      "details": "LP-Are You Experienced; Track"
+      "details": "LP-Are You Experienced; Track",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "The Flys",
       "track": "Waikiki Beach Refugees",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1212.43
     },
     {
       "artist": "Status Quo",
       "track": "Accident Prone",
-      "details": "LP-If You Can't Stand The Heat; Vertigo"
+      "details": "LP-If You Can't Stand The Heat; Vertigo",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Van Morrison",
       "track": "Wavelength",
-      "details": "LP-Wavelength; Warner Brothers"
+      "details": "LP-Wavelength; Warner Brothers",
+      "verified_timestamp": 1817.4
     },
     {
       "artist": "Manassas",
@@ -72,7 +78,8 @@
     {
       "artist": "Wreckless Eric",
       "track": "I Wish It Would Rain",
-      "details": "LP-The Wonderful World Of Wreckless Eric; Stiff"
+      "details": "LP-The Wonderful World Of Wreckless Eric; Stiff",
+      "verified_timestamp": 3447.78
     },
     {
       "artist": "Lone Star",
@@ -82,12 +89,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 55.3
     },
     {
       "artist": "Gary Moore",
       "track": "Fanatical Fascists",
-      "details": "LP-Back On The Streets; MCA"
+      "details": "LP-Back On The Streets; MCA",
+      "verified_timestamp": 4861.34
     },
     {
       "artist": "The Flys",
@@ -97,17 +106,20 @@
     {
       "artist": "Jean-Luc Ponty",
       "track": "Tarantula",
-      "details": "LP-Imaginary Voyage; Atlantic"
+      "details": "LP-Imaginary Voyage; Atlantic",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Judas Priest",
       "track": "Beyond The Realms Of Death",
-      "details": "LP-Stained Class; CBS"
+      "details": "LP-Stained Class; CBS",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "David Bowie",
       "track": "Fame",
-      "details": "2xLP-Stage; RCA"
+      "details": "2xLP-Stage; RCA",
+      "verified_timestamp": 6040.36
     },
     {
       "artist": "Kraftwerk",

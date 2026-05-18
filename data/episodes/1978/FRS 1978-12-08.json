@@ -21,7 +21,8 @@
     {
       "artist": "Ted Nugent",
       "track": "Stormtroopin",
-      "details": "2xLP-Double Live Gonzo; Epic"
+      "details": "2xLP-Double Live Gonzo; Epic",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Steely Dan",
@@ -31,12 +32,14 @@
     {
       "artist": "XTC",
       "track": "Meccanik Dancing",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 798.9
     },
     {
       "artist": "Robin Trower",
       "track": "'It's Only Money'",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 960.15
     },
     {
       "artist": "Champion",
@@ -56,12 +59,14 @@
     {
       "artist": "Genesis",
       "track": "Ripples",
-      "details": "LP-A Trick Of The Tail; Charisma"
+      "details": "LP-A Trick Of The Tail; Charisma",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Set The Controls For The Heart Of The Sun",
-      "details": "LP-A Saucerful Of Secrets; Columbia"
+      "details": "LP-A Saucerful Of Secrets; Columbia",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "XTC",
@@ -71,12 +76,14 @@
     {
       "artist": "Gene Simmons",
       "track": "Radioactive",
-      "details": "LP-Gene Simmons; Casablanca"
+      "details": "LP-Gene Simmons; Casablanca",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Paul Stanley",
       "track": "Tonight You Belong To Me",
-      "details": "LP-Paul Stanley; Casablanca"
+      "details": "LP-Paul Stanley; Casablanca",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Robin Trower",
@@ -91,7 +98,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 55.66
     },
     {
       "artist": "Public Image Ltd",
@@ -116,7 +124,8 @@
     {
       "artist": "Gary Boyle",
       "track": "Electric Glide",
-      "details": "LP-Electric Glide; Gull"
+      "details": "LP-Electric Glide; Gull",
+      "verified_timestamp": 6105.55
     },
     {
       "artist": "Robin Trower",
@@ -126,7 +135,8 @@
     {
       "artist": "Barclay James Harvest",
       "track": "Turning In Circles",
-      "details": "LP-XII; Polydor"
+      "details": "LP-XII; Polydor",
+      "verified_timestamp": 6529.05
     },
     {
       "artist": "XTC",
@@ -136,7 +146,8 @@
     {
       "artist": "Eddie & The Hot Rods",
       "track": "Do Anything You Wanna Do",
-      "details": "LP-Life On The Line; Island"
+      "details": "LP-Life On The Line; Island",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

@@ -33,7 +33,8 @@
     {
       "artist": "Be Bop Deluxe",
       "track": "Sister Seagull",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 569.58
     },
     {
       "artist": "The Cars",
@@ -48,7 +49,8 @@
     {
       "artist": "X Ray Spex",
       "track": "Age",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1390.6
     },
     {
       "artist": "Jethro Tull",
@@ -68,7 +70,8 @@
     {
       "artist": "Eric Clapton",
       "track": "I'll Make Love To You Anytime (LP-Backless) (RSO)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Be Bop Deluxe",
@@ -93,7 +96,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 50.91
     },
     {
       "artist": "Be Bop Deluxe",
