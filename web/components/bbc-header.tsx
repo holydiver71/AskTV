@@ -17,7 +17,7 @@ export function BBCHeader() {
             The Friday Rock Show Revival
           </h1>
           <p className="text-[#FFD700] text-[11px] font-bold tracking-[3px] uppercase mt-2">
-            Tommy Vance · The voice of Friday nights, live again
+            On 275 and 285, the spirit of Tommy Vance lives on
           </p>
         </div>
         <Image
