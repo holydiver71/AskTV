@@ -10,17 +10,6 @@ const navLinks = [
 export function BBCHeader() {
   return (
     <header className="shrink-0">
-      {/* BBC red topbar */}
-      <div className="bg-[#CC0000] flex items-center justify-between px-6 h-[52px]">
-        <div className="flex items-center gap-1">
-          <span className="bg-white text-[#CC0000] text-[13px] font-black w-[28px] h-[28px] flex items-center justify-center font-sans">B</span>
-          <span className="bg-white text-[#CC0000] text-[13px] font-black w-[28px] h-[28px] flex items-center justify-center font-sans">B</span>
-          <span className="bg-white text-[#CC0000] text-[13px] font-black w-[28px] h-[28px] flex items-center justify-center font-sans">C</span>
-          <span className="text-white text-[15px] font-black ml-2 tracking-widest">RADIO 1</span>
-        </div>
-        <span className="text-[#ffaaaa] text-[11px] font-bold tracking-[3px]">MW 275 · 285</span>
-      </div>
-
       {/* Blue show header */}
       <div className="bg-[#003087] border-b-[6px] border-[#FFD700] px-6 py-5 flex items-center justify-between gap-4">
         <div>
