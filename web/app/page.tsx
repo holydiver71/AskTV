@@ -11,7 +11,7 @@ export const metadata = {
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center px-4 py-16 text-center gap-8">
+    <div className="flex flex-col flex-1 items-center justify-start md:justify-center px-4 pt-8 pb-10 md:py-16 text-center gap-6 md:gap-8">
       <div className="space-y-3">
         <p className="font-mono text-xs text-muted-foreground tracking-widest uppercase">
           BBC Radio 1 · 1978–1993
