@@ -4,6 +4,7 @@ import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { Nav } from "@/components/nav";
 import { BBCHeader } from "@/components/bbc-header";
+import { Footer } from "@/components/footer";
 import { Toaster } from "@/components/ui/sonner";
 import { env } from "@/lib/env";
 import { getThemeClasses } from "@/lib/theme";
@@ -45,6 +46,7 @@ export default function RootLayout({
         {env.ASK_TV_THEME === "radio1" ? <BBCHeader /> : <Nav />}
         <Analytics />
         <main className="flex flex-col flex-1 min-h-0">{children}</main>
+        <Footer />
         <Toaster />
       </body>
     </html>
