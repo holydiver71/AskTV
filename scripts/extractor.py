@@ -336,7 +336,7 @@ def extract_comments_from_show(show_lines: list[str], date_str: str | None) -> l
     return comments
 
 
-def create_stubs_from_audio(output_dir: Path, year: str) -> int:
+def create_stubs_from_audio(output_dir: Path, year: str | None) -> int:
     """Scan FRSAudio/Source/{year} for MP3s without JSON and create stubs.
 
     Returns the number of stub files created.
