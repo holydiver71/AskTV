@@ -14,7 +14,7 @@ export function BBCHeader() {
       <div className="bg-[#003087] border-b-[6px] border-[#FFD700] px-6 py-5 flex items-center justify-between gap-4">
         <div>
           <h1 className="text-white font-black text-[clamp(1rem,3vw,2rem)] uppercase tracking-[2px] leading-none whitespace-nowrap">
-            AskTV · The Friday Rock Show Revival
+            The Friday Rock Show Revival
           </h1>
         </div>
         <Image
