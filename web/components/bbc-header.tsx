@@ -16,7 +16,7 @@ export function BBCHeader() {
           <h1 className="text-white font-black text-[clamp(1rem,3vw,2rem)] uppercase tracking-[2px] leading-none whitespace-nowrap">
             The Friday Rock Show Revival
           </h1>
-          <p className="text-[#FFD700] text-[11px] font-bold tracking-[3px] uppercase mt-2">
+          <p className="text-[#FFD700] text-[11px] font-bold tracking-[1px] mt-2">
             On 275 and 285, the spirit of Tommy Vance lives on
           </p>
         </div>
