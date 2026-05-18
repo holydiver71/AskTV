@@ -1,0 +1,66 @@
+{
+  "title": "FRS 1982-01-01",
+  "url": "https://fridayrockshow.fandom.com/wiki/01_January_1982",
+  "show": {
+    "date": "1982-01-01",
+    "comments": []
+  },
+  "sessions": [
+    {
+      "artist": "Deep Purple",
+      "details": "California Jam concert 1974"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Rolling Stones",
+      "track": "When The Whip Comes Down (LP - Some Girls) Rolling Stones",
+      "details": null
+    },
+    {
+      "artist": "Foghat",
+      "track": "Love Zone (LP - Girls To Chat & Boys To Bounce) Bearsville",
+      "details": null
+    },
+    {
+      "artist": "Gillan",
+      "track": "Restless (single) Virgin",
+      "details": null
+    },
+    {
+      "artist": "Scorpions",
+      "track": "Lady Starlight (LP - Animal Magnetism) Harvest",
+      "details": null
+    },
+    {
+      "artist": "Sammy Hagar",
+      "track": "Piece Of My Heart (single) Geffen",
+      "details": null
+    },
+    {
+      "artist": "Last Flight",
+      "track": "Dance To The Music (V/A LP - The Friday Rock Show) BBC",
+      "details": null
+    },
+    {
+      "artist": "Lynyrd Skynyrd",
+      "track": "Sweet Home Alabama (LP - One More From The Road) MCA",
+      "details": null
+    },
+    {
+      "artist": "Accept",
+      "track": "Starlight (LP - Breaker) Metronome Brain",
+      "details": null
+    },
+    {
+      "artist": "Grand Prix",
+      "track": "Keep On Believing (7\") RCA",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    }
+  ]
+}

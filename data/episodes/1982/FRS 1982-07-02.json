@@ -1,0 +1,59 @@
+{
+  "title": "FRS 1982-07-02",
+  "url": "https://fridayrockshow.fandom.com/wiki/02_July_1982",
+  "show": {
+    "date": "1982-07-02",
+    "comments": [
+      "Repeat of Judas Priest's concert at Hammersmith Odeon 21st November 1981 on the 'World Wide Blitz' tour in support of Point Of Entry",
+      "Given the file lengths, presumably there are some tracks missing before the Friday Night Connection."
+    ]
+  },
+  "sessions": [],
+  "track_listing": [
+    {
+      "artist": "Scorpions",
+      "track": "Can't Live Without You (LP - Blackout) Harvest",
+      "details": null
+    },
+    {
+      "artist": "Pat Travers Band",
+      "track": "Snortin' Whiskey, Drinkin' Cocaine (LP - Crash And Burn) Polydor",
+      "details": null
+    },
+    {
+      "artist": "Crosby, Stills & Nash",
+      "track": "Too Much Love To Hide (LP - Daylight Again) Atlantic",
+      "details": null
+    },
+    {
+      "artist": "Bob Dylan",
+      "track": "Hurricane (LP - Desire) Columbia",
+      "details": null
+    },
+    {
+      "artist": "Ted Nugent",
+      "track": "Fightin' Words (LP - Nugent) Atlantic",
+      "details": null
+    },
+    {
+      "artist": "Samson",
+      "track": "Losing My Grip (LP - Shock Tactics) RCA",
+      "details": null
+    },
+    {
+      "artist": "Frank Zappa",
+      "track": "Valley Girl (LP - Ship Arriving Too Late To Save A Drowning Witch) Barking Pumpkin",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Judas Priest",
+      "track": "Live Hammersmith Odeon",
+      "details": null
+    }
+  ]
+}

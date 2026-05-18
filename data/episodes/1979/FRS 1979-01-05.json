@@ -1,0 +1,27 @@
+{
+  "title": "FRS 1979-01-05",
+  "url": "https://fridayrockshow.fandom.com/wiki/05_January_1979",
+  "show": {
+    "date": "1979-01-05",
+    "comments": [
+      "In the previous week's show (29 December 1978) TV promised \"the Friday Night Connection, loads of classic tracks\" and the session artists below. Beyond that, no other information is currently available."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": null,
+      "details": "Renaissance"
+    },
+    {
+      "artist": "Lene",
+      "details": "Lovich"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    }
+  ]
+}

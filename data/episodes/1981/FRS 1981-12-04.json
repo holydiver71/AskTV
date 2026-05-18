@@ -1,0 +1,93 @@
+{
+  "title": "FRS 1981-12-04",
+  "url": "https://fridayrockshow.fandom.com/wiki/04_December_1981",
+  "show": {
+    "date": "1981-12-04",
+    "comments": [
+      "Everyone answered the FNC correctly from last week, TV cannot recall seeing a wrong answer.",
+      "Tony Wilson was out of the studio in Maida Vale 4 mixing Budgie."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Bitches Sin Recorded for FRS",
+      "details": "repeat Tx. First Tx 16 October 1981"
+    },
+    {
+      "artist": "National Health Archive session",
+      "details": null
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "AC/DC",
+      "track": "For Those About To Rock",
+      "details": null
+    },
+    {
+      "artist": "Holocaust",
+      "track": "Heavy Metal Mania",
+      "details": null
+    },
+    {
+      "artist": "Kiss",
+      "track": "The Oath",
+      "details": "LP-The Elder"
+    },
+    {
+      "artist": "Kiss",
+      "track": "Fanfare",
+      "details": "LP-The Elder"
+    },
+    {
+      "artist": "National Health",
+      "track": "Paracelsus",
+      "details": "1975 Session"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Molly Hatchet",
+      "track": "Bloody Reunion",
+      "details": "LP - Take No Prisoners"
+    },
+    {
+      "artist": "Ted Nugent",
+      "track": "Motor City Madhouse",
+      "details": "LP - Great Gonzos"
+    },
+    {
+      "artist": "Bitches Sin",
+      "track": "Down The Road",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Deep Purple",
+      "track": "I Need Love",
+      "details": "LP - Come Taste The Band"
+    },
+    {
+      "artist": "National Health",
+      "track": "Agrippa",
+      "details": "1976 session"
+    },
+    {
+      "artist": "Thin Lizzy",
+      "track": "Angel Of Death",
+      "details": "LP - Renegade"
+    },
+    {
+      "artist": "Bitches Sin",
+      "track": "Strangers On The Shore",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "The Rods",
+      "track": "Nothing Going On In The City",
+      "details": "LP - The Rods"
+    }
+  ]
+}

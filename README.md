@@ -108,6 +108,35 @@ Verbose diagnostic output is printed throughout (`[FETCH]`, `[PARSE]`, `[DOWNLOA
 
 ---
 
+### `scripts/join_parts.py` — Join split episode parts
+
+Purpose: Some downloads are split into two files (Part 1 / Part 2). Run this
+script after `scripts/download_episodes.py` and before `scripts/convert.py` to
+concatenate `Pt1` + `Pt2` into a single episode file `FRS YYYY-MM-DD.mp3` in
+the same `FRSAudio/Source/<year>/` folder.
+
+Requirements: `ffmpeg` on your PATH.
+
+Basic usage (run from the workspace root):
+
+```bash
+# Preview — do not write files
+python scripts/join_parts.py --year 1979 --dry-run
+
+# Join all pairs for 1979
+python scripts/join_parts.py --year 1979
+
+# Overwrite existing outputs
+python scripts/join_parts.py --year 1979 --overwrite
+```
+
+Notes:
+- Handles mixed-case `Pt1` / `pt1` and filenames with extra text after the part marker.
+- Skips pairs where the counterpart is missing and prints warnings.
+- Uses ffmpeg's concat demuxer (`-f concat -safe 0 -i list.txt -c copy`) for lossless
+  concatenation (no re-encode).
+
+
 ## Tech Stack
 
 | Layer | Tool |

@@ -32,6 +32,7 @@ YEAR: str | None = None
 REPO_ROOT = Path(__file__).resolve().parent.parent
 COOKIES_FILE = REPO_ROOT / "cookies.txt"
 OUTPUT_DIR: Path | None = None
+SKIP_EXISTING: bool = False
 DELAY_SECONDS = 1.0          # polite delay between requests
 
 HEADERS = {
@@ -335,6 +336,53 @@ def extract_comments_from_show(show_lines: list[str], date_str: str | None) -> l
     return comments
 
 
+def create_stubs_from_audio(output_dir: Path, year: str) -> int:
+    """Scan FRSAudio/Source/{year} for MP3s without JSON and create stubs.
+
+    Returns the number of stub files created.
+    """
+    if not year:
+        return 0
+    audio_dir = REPO_ROOT.parent / "FRSAudio" / "Source" / str(year)
+    if not audio_dir.exists():
+        print(f"  Audio source directory not found: {audio_dir}")
+        return 0
+
+    pattern = re.compile(r"FRS\s*(\d{4}-\d{2}-\d{2})", re.IGNORECASE)
+    created = 0
+
+    for p in sorted(audio_dir.iterdir()):
+        if not p.is_file():
+            continue
+        if p.suffix.lower() != ".mp3":
+            continue
+        m = pattern.search(p.name)
+        if not m:
+            continue
+        date_str = m.group(1)
+        json_name = f"FRS {date_str}.json"
+        json_path = output_dir / json_name
+        if json_path.exists():
+            continue
+
+        stub = {
+            "title": f"FRS {date_str}",
+            "url": "",
+            "show": {"date": date_str, "comments": []},
+            "sessions": [],
+            "track_listing": [],
+        }
+        try:
+            with json_path.open("w", encoding="utf-8") as fh:
+                json.dump(stub, fh, ensure_ascii=False, indent=2)
+            print(f"  Stub created: {json_name} (from {p.name})")
+            created += 1
+        except Exception as exc:
+            print(f"  WARNING: could not write stub {json_name}: {exc}")
+
+    return created
+
+
 def main() -> None:
     if OUTPUT_DIR is None:
         raise RuntimeError("OUTPUT_DIR is not set — please provide a year via --year")
@@ -366,6 +414,10 @@ def main() -> None:
             continue
         filename = f"FRS {date_str}.json"
         output_path = OUTPUT_DIR / filename
+        if SKIP_EXISTING and output_path.exists():
+            print(f"  Skipping existing: {output_path.name}")
+            skip_count += 1
+            continue
         comments = extract_comments_from_show(sections.get("show", []), date_str)
         episode_data = {
             "title": f"FRS {date_str}",
@@ -382,11 +434,20 @@ def main() -> None:
         print(f"  Written: {output_path.name}")
         success_count += 1
     print(f"\nDone. {success_count} episode(s) written to {OUTPUT_DIR}, {skip_count} skipped.")
+    # After creating JSONs from the wiki, scan the audio source folder for
+    # MP3 files that don't yet have a corresponding JSON and create stub files.
+    try:
+        created = create_stubs_from_audio(OUTPUT_DIR, YEAR)
+        if created:
+            print(f"Created {created} stub JSON file(s) for audio-only episodes.")
+    except Exception as exc:  # defensive: don't fail the whole run for this
+        print(f"  WARNING: failed to create stub JSONs from audio: {exc}")
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="FRS episode extractor — requires a year argument (e.g. 1980)")
     parser.add_argument("--year", "-y", required=True, help="Year to extract (YYYY)")
+    parser.add_argument("--skip-existing", action="store_true", help="Skip writing JSON files that already exist")
     args = parser.parse_args()
 
     # Validate year format
@@ -395,5 +456,7 @@ if __name__ == "__main__":
 
     YEAR = args.year
     OUTPUT_DIR = REPO_ROOT / "data" / "episodes" / str(YEAR)
+    if getattr(args, "skip_existing", False):
+        SKIP_EXISTING = True
     print(f"Extractor running for year: {YEAR}")
     main()

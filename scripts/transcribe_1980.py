@@ -118,7 +118,8 @@ def atomic_write(path: Path, data: dict) -> None:
 def main() -> int:
     signal.signal(signal.SIGINT, handle_sigint)
 
-    parser = argparse.ArgumentParser(description="Transcribe 1980 MP3s and append transcript to JSON files.")
+    parser = argparse.ArgumentParser(description="Transcribe MP3s for a given year and append transcript to JSON files.")
+    parser.add_argument("--year", "-y", default="1980", help="Year to process (YYYY)")
     parser.add_argument("mp3", nargs="?", help="Optional path or filename of a single MP3 to process")
     parser.add_argument(
         "--retranscribe",
@@ -127,8 +128,13 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    AUDIO_DIR = Path("FRSAudio/128kbps/1980/")
-    JSON_DIR = Path("data/episodes/1980/")
+    year = args.year
+    if not re.fullmatch(r"\d{4}", year):
+        print("Error: --year must be a 4-digit year, e.g. 1980")
+        return 2
+
+    AUDIO_DIR = Path(f"FRSAudio/128kbps/{year}/")
+    JSON_DIR = Path(f"data/episodes/{year}/")
     LOG_FILE = Path("logs/transcription_errors.log")
 
     # Ensure logs directory exists before anything can fail

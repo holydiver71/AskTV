@@ -1,0 +1,126 @@
+{
+  "title": "FRS 1981-05-22",
+  "url": "https://fridayrockshow.fandom.com/wiki/22_May_1981",
+  "show": {
+    "date": "1981-05-22",
+    "comments": [
+      "Tommy has been in Germany for a couple of days."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Pink Floyd",
+      "details": "Recorded 1967-09-25 (Peel Session #1). First TX on Top Gear 1967-10-01. No known commercial release (but several unofficial ones)."
+    },
+    {
+      "artist": "Pink Floyd",
+      "details": "Recorded 1968-06-25 (Peel Session #3). First TX on Top Gear 1968-08-11. No known commercial release (but several unofficial ones). TV: \"Rescued from oblivion by somebody (Mike Cowley) with sharp ears.\""
+    },
+    {
+      "artist": "Last Flight (rpt)",
+      "details": "Recorded 1981-02-18. First TX 20 March 1981. 'Dance To The Music' available on The Friday Rock Show (BBC)."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Rainbow",
+      "track": "Stargazer",
+      "details": "LP-Rising; Oyster"
+    },
+    {
+      "artist": "Fortress",
+      "track": "Mystery",
+      "details": "LP-Hands In The Till; Atlantic"
+    },
+    {
+      "artist": "Last Flight",
+      "track": "I Am Ready",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Bill Nelson",
+      "track": "Banal",
+      "details": "LP-Quit Dreaming And Get On The Beam; Mercury"
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "The Massed Gadgets Of Hercules",
+      "details": "A Saucerful Of Secrets; Peel Session #3"
+    },
+    {
+      "artist": "Kiss",
+      "track": "Cold Gin",
+      "details": "2xLP-Alive!; Casablanca"
+    },
+    {
+      "artist": "Samson",
+      "track": "Riding With The Angels",
+      "details": "LP-Shock Tactics; RCA"
+    },
+    {
+      "artist": "Hunt",
+      "track": "What Good Is Love",
+      "details": "LP-Back On The Hunt; Logo"
+    },
+    {
+      "artist": "Last Flight",
+      "track": "Dance To The Music",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Grateful Dead",
+      "track": "Althea",
+      "details": "LP-Go To Heaven; Arista"
+    },
+    {
+      "artist": "UFO",
+      "track": "Love To Love",
+      "details": "LP-Lights Out; Chrysalis"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Last Flight",
+      "track": "Everybody Find Some",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Handsome Beasts",
+      "track": "Breaker",
+      "details": "7\"; Heavy Metal"
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "Gnome",
+      "details": "Peel Session #1"
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "Matilda Mother",
+      "details": "Peel Session #1"
+    },
+    {
+      "artist": "Elton John",
+      "track": "Fascist Faces",
+      "details": "LP-The Fox; Rocket Record Company"
+    },
+    {
+      "artist": "Asylum",
+      "track": "Nowhere To Run",
+      "details": "Compilation LP-Battle Of The Bands"
+    },
+    {
+      "artist": "Last Flight",
+      "track": "Headlines",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Blue Öyster Cult",
+      "track": "Astronomy",
+      "details": "LP-Some Enchanted Evening; CBS"
+    }
+  ]
+}

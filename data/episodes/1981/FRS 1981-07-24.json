@@ -1,0 +1,57 @@
+{
+  "title": "FRS 1981-07-24",
+  "url": "https://fridayrockshow.fandom.com/wiki/24_July_1981",
+  "show": {
+    "date": "1981-07-24",
+    "comments": [
+      "Only the session tracks have been shared, taken from the Gumtree Tapes."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Niagara Recorded 1981-07-10 for Friday Rock Show",
+      "details": "First TX 1981-07-24"
+    },
+    {
+      "artist": "Whitesnake Recorded 1979-03-29 for Andy Peebles",
+      "details": "First TX is unknown."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Niagara",
+      "track": "Crossfire",
+      "details": "Session"
+    },
+    {
+      "artist": "Niagara",
+      "track": "Victim Of Love",
+      "details": "Session"
+    },
+    {
+      "artist": "Niagara",
+      "track": "Cold Eyes",
+      "details": "Session"
+    },
+    {
+      "artist": "Whitesnake",
+      "track": "Love To Keep You Warm",
+      "details": "Session"
+    },
+    {
+      "artist": "Whitesnake",
+      "track": "'Belgian Tom's Hat Trick'",
+      "details": "Session"
+    },
+    {
+      "artist": "Whitesnake",
+      "track": "Trouble",
+      "details": "Session"
+    },
+    {
+      "artist": "Whitesnake",
+      "track": "'Ain't No Love In The Heart Of The City'",
+      "details": "Session"
+    }
+  ]
+}

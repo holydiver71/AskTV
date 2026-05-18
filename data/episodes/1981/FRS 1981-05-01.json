@@ -1,0 +1,112 @@
+{
+  "title": "FRS 1981-05-01",
+  "url": "https://fridayrockshow.fandom.com/wiki/01_May_1981",
+  "show": {
+    "date": "1981-05-01",
+    "comments": [
+      "(Introduction to show, interesting comments, etc.)"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Gong",
+      "details": "Recorded May 1973 (possibly in Paris, France). No known commercial release."
+    },
+    {
+      "artist": "Dedringer",
+      "details": "Recorded 1981-04-15. No known commercial release."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Taurus",
+      "track": "Paper Chaser",
+      "details": "Compilation LP-Metal Explosion From The Friday Rock Show; BBC"
+    },
+    {
+      "artist": "Ken Hensley",
+      "track": "No More",
+      "details": "LP-Free Spirit; Bronze"
+    },
+    {
+      "artist": "Dedringer",
+      "track": "Innocent",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Bad Company",
+      "track": "'Can't Get Enough (LP-Bad Company)' (Island)",
+      "details": null
+    },
+    {
+      "artist": "Tubes",
+      "track": "Sushi Girl",
+      "details": "LP-The Completion Backward Principle; Capitol"
+    },
+    {
+      "artist": "Tygers Of Pan Tang",
+      "track": "'Don't Stop By (LP-Spellbound)' (MCA)",
+      "details": null
+    },
+    {
+      "artist": "Gong",
+      "track": "'Can't Kill Me'",
+      "details": "1973 Session"
+    },
+    {
+      "artist": "Dedringer",
+      "track": "Long Time",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Wild Horses",
+      "track": "'New York City (LP-Stand Your Ground)' (EMI)250px|right",
+      "details": null
+    },
+    {
+      "artist": "Frank Marino & Mahogany Rush",
+      "track": "All Along The Watchtower",
+      "details": "LP-Tales Of The Unexpected; Columbia"
+    },
+    {
+      "artist": "Rush",
+      "track": "Red Barchetta",
+      "details": "LP-Moving Pictures; Mercury"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Billy Squier",
+      "track": "'Lonely Is The Night (LP-Don't Say No)' (Capitol)",
+      "details": null
+    },
+    {
+      "artist": "Roger Taylor",
+      "track": "'My Country 1 & 2 (LP-Roger Taylor's Fun In Space)' (EMI)",
+      "details": null
+    },
+    {
+      "artist": "Dedringer",
+      "track": "So Still",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Scorpions",
+      "track": "'We'll Burn The Sky (LP-Taken By Force)' (RCA Victor)",
+      "details": null
+    },
+    {
+      "artist": "Gong",
+      "track": "Zero The Hero & The Orgasm Witch",
+      "details": "1973 Session"
+    },
+    {
+      "artist": "Dedringer",
+      "track": "Maxine",
+      "details": "FRS Session"
+    }
+  ]
+}
