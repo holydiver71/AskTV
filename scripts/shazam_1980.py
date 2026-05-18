@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Phase 1B — Shazam Music Fingerprinting for 1980 episodes.
+"""Phase 1B — Shazam Music Fingerprinting for FRS episodes by year.
 
-Probes each 1980 MP3 every 180 seconds with a 15-second audio slice,
+Probes each year's MP3s every 180 seconds with a 15-second audio slice,
 identifies tracks via ShazamIO, fuzzy-matches against track_listing entries,
 and writes verified_timestamp (seconds float) to matched entries.
 
-Run from the workspace root:
-    python scripts/shazam_1980.py
+Run from the workspace root, for example:
+    python scripts/shazam_1980.py --year 1980
 """
 from __future__ import annotations
 
@@ -28,10 +28,10 @@ from shazamio import Shazam
 # Constants
 # ---------------------------------------------------------------------------
 
-AUDIO_DIR = Path(
-    "/media/andy/DATA/Projects/The Friday Rock Show Registry/FRSAudio/128kbps/1980/"
+AUDIO_ROOT = Path(
+    "/media/andy/DATA/Projects/The Friday Rock Show Registry/FRSAudio/128kbps/"
 )
-JSON_DIR = Path("data/episodes/1980/")
+JSON_BASE = Path("data/episodes/")
 LOG_DIR = Path("logs/")
 LOG_FILE = LOG_DIR / "shazam.log"
 
@@ -398,15 +398,30 @@ async def main(single_mp3: Path | None = None) -> None:
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Shazam fingerprinting for FRS episodes")
+    parser = argparse.ArgumentParser(description="Shazam fingerprinting for FRS episodes by year")
+    parser.add_argument(
+        "--year",
+        type=str,
+        default="1980",
+        metavar="YYYY",
+        help="Four-digit year to process (default: 1980)",
+    )
     parser.add_argument(
         "--mp3",
         type=Path,
         default=None,
         metavar="FILE",
-        help="Process a single MP3 file instead of the full 1980 directory",
+        help="Process a single MP3 file instead of the full year's directory",
     )
     args = parser.parse_args()
+
+    year = args.year
+    if not re.match(r"^\d{4}$", year):
+        sys.exit(f"Error: invalid year: {year} — expected four digits, e.g. 1980")
+
+    # Construct year-specific paths (defaults to 1980 for backwards compatibility)
+    AUDIO_DIR = AUDIO_ROOT / year
+    JSON_DIR = JSON_BASE / year
 
     if args.mp3 is not None and not args.mp3.exists():
         sys.exit(f"Error: file not found: {args.mp3}")

@@ -55,7 +55,11 @@ export async function getEpisodes(opts?: {
   if (episodes.length === 0) return episodes;
 
   const episodeRowIds = episodes.map((ep) => ep.id);
-  const [{ data: sessions }, { data: transcriptSegments }] = await Promise.all([
+  const [
+    { data: sessions },
+    { data: transcriptSegments },
+    { data: tracksRows },
+  ] = await Promise.all([
     supabase
       .from("sessions")
       .select("episode_id, artist, position")
@@ -64,6 +68,10 @@ export async function getEpisodes(opts?: {
     supabase
       .from("transcript_segments")
       .select("episode_id, chunk_end")
+      .in("episode_id", episodeRowIds),
+    supabase
+      .from("tracks")
+      .select("episode_id")
       .in("episode_id", episodeRowIds),
   ]);
 
@@ -84,10 +92,17 @@ export async function getEpisodes(opts?: {
     }
   }
 
+  const trackCountByEpisode = new Map<string, number>();
+  for (const t of tracksRows ?? []) {
+    const current = trackCountByEpisode.get(t.episode_id) ?? 0;
+    trackCountByEpisode.set(t.episode_id, current + 1);
+  }
+
   return episodes.map((ep) => ({
     ...ep,
     episode_length_seconds: maxChunkEndByEpisode.get(ep.id) ?? null,
     session_artists: sessionArtistsByEpisode.get(ep.id) ?? [],
+    track_count: trackCountByEpisode.get(ep.id) ?? 0,
   }));
 }
 

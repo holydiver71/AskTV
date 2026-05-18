@@ -3,7 +3,7 @@ import Image from "next/image";
 import { ChatResetLink } from "@/components/chat-reset-link";
 
 const navLinks = [
-  { href: "/registry", label: "The Registry" },
+  { href: "/registry", label: "The Music Vendor" },
   { href: "/references", label: "References" },
 ];
 

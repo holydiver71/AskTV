@@ -3,7 +3,7 @@ import { EpisodeCard } from "@/components/episode-card";
 import { RegistryFilters } from "@/components/registry-filters";
 
 export const metadata = {
-  title: "Episode Registry — The Friday Rock Show Archive",
+  title: "The Music Vendor — The Friday Rock Show Archive",
 };
 
 export default async function RegistryPage({
@@ -29,15 +29,13 @@ export default async function RegistryPage({
     console.error("[registry]", err);
   }
 
+  // Show registry in ascending date order (oldest first)
+  episodes = episodes.sort((a, b) => a.date.localeCompare(b.date));
+
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 space-y-6">
       <div>
-        <h1 className="text-3xl font-bold tracking-tight">Episode Registry</h1>
-        <p className="text-muted-foreground mt-1 text-sm">
-          {selectedYear || "All years"} broadcasts
-          {artist ? ` · filtered by "${artist}"` : ""} ·{" "}
-          {episodes.length} episode{episodes.length !== 1 ? "s" : ""}
-        </p>
+        <h1 className="text-3xl font-bold tracking-tight">The Music Vendor</h1>
       </div>
 
       <RegistryFilters
@@ -45,6 +43,23 @@ export default async function RegistryPage({
         year={selectedYear}
         availableYears={availableYears}
       />
+
+      {/* Year / Count header (matches prototype layout) */}
+      <div className="flex items-end justify-between border-b border-border pb-4">
+        <div>
+          <h2 className="text-2xl sm:text-3xl font-semibold tracking-tight">
+            {selectedYear || "All years"}
+            {artist ? (
+              <span className="text-2xl sm:text-3xl font-semibold text-muted-foreground ml-3">· filtered by "{artist}"</span>
+            ) : null}
+          </h2>
+        </div>
+
+        <div className="text-right">
+          <div className="text-4xl sm:text-5xl font-extrabold text-amber-400 leading-none">{String(episodes.length).padStart(2, "0")}</div>
+          <div className="uppercase text-xs tracking-widest text-muted-foreground">Episodes on record</div>
+        </div>
+      </div>
 
       {error ? (
         <p className="text-destructive text-sm">{error}</p>
@@ -55,11 +70,12 @@ export default async function RegistryPage({
           {artist ? ` for artist "${artist}"` : ""}.
         </p>
       ) : (
-        <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {episodes.map((ep) => (
-            <EpisodeCard key={ep.id} episode={ep} />
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-2">
+          {episodes.map((ep, i) => (
+            <EpisodeCard key={ep.id} episode={ep} index={i + 1} />
           ))}
         </div>
+      
       )}
     </div>
   );
