@@ -43,7 +43,7 @@ export default function ReferencesPage() {
               rel="noopener noreferrer"
               className="text-sm font-medium text-primary hover:underline"
             >
-              Hal C. F. Astell's The Friday Rock Show ↗
+              Hal C. F. Astell&apos;s The Friday Rock Show ↗
             </a>
             <p className="text-sm text-muted-foreground leading-relaxed">
               A valuable source of episode information and broadcast history.
@@ -107,8 +107,8 @@ export default function ReferencesPage() {
 
         <div className="space-y-3 text-sm text-muted-foreground leading-relaxed">
           <p>
-            Ask TV is styled after Tommy Vance, "The Music
-            Vendor," with a warm late-night broadcast tone, deep rock and
+            Ask TV is styled after Tommy Vance, &quot;The Music
+            Vendor,&quot; with a warm late-night broadcast tone, deep rock and
             metal knowledge, and understated humor.
           </p>
           <p>

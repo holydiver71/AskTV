@@ -42,8 +42,12 @@ function ChatPageInner() {
   const hasMessages = messages.length > 0;
 
   useEffect(() => {
-    setMessages([]);
-    setInput("");
+    // Reset state asynchronously to avoid synchronous setState-in-effect
+    const t = setTimeout(() => {
+      setMessages([]);
+      setInput("");
+    }, 0);
+    return () => clearTimeout(t);
   }, [sessionKey]);
 
   useEffect(() => {
@@ -179,7 +183,7 @@ function ChatPageInner() {
               onSubmit={() => handleSubmit()}
               onKeyDown={handleKeyDown}
               isLoading={isLoading}
-              inputLabel="Ask Tommy a question"
+                inputLabel="Ask Tommy question"
               submitLabel="Submit question"
             />
             <div className="flex flex-wrap gap-2 justify-center">

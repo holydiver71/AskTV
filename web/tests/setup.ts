@@ -15,7 +15,14 @@ vi.mock("next/image", () => ({
     priority?: boolean;
     sizes?: string;
   }) =>
-    React.createElement("img", { alt, ...props }),
+    React.createElement("img", {
+      alt,
+      // preserve layout-related props as data attributes so tests can inspect them
+      "data-fill": fill ? "true" : undefined,
+      "data-priority": priority ? "true" : undefined,
+      "data-sizes": sizes,
+      ...props,
+    }),
 }));
 
 if (typeof window !== "undefined") {
@@ -37,3 +44,19 @@ if (typeof window !== "undefined") {
     Element.prototype.scrollIntoView = vi.fn();
   }
 }
+
+// Mock next/navigation hooks used by client components in tests
+vi.mock("next/navigation", () => {
+  return {
+    useRouter: () => ({
+      push: vi.fn(),
+      replace: vi.fn(),
+      pathname: "/",
+      prefetch: vi.fn().mockResolvedValue(undefined),
+    }),
+    useSearchParams: () => ({
+      // return object with a `get` method used by components
+      get: (key: string) => null,
+    }),
+  };
+});
