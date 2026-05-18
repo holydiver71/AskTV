@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Ask TV — The Friday Rock Show Registry",
+  title: "AskTV — The Friday Rock Show Revival",
   description:
     "A searchable digital archive of Tommy Vance's Friday Rock Show on BBC Radio 1. Browse every episode, track, and session from 1980.",
 };
