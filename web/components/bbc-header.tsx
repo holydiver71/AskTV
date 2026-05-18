@@ -18,7 +18,7 @@ export function BBCHeader() {
           <span className="bg-white text-[#CC0000] text-[13px] font-black w-[28px] h-[28px] flex items-center justify-center font-sans">C</span>
           <span className="text-white text-[15px] font-black ml-2 tracking-widest">RADIO 1</span>
         </div>
-        <span className="text-[#ffaaaa] text-[11px] font-bold tracking-[3px]">FM 97.6 · 99.0 · 99.8</span>
+        <span className="text-[#ffaaaa] text-[11px] font-bold tracking-[3px]">MW 275 · 285</span>
       </div>
 
       {/* Blue show header */}
