@@ -14,10 +14,10 @@ export function BBCHeader() {
       <div className="bg-[#003087] border-b-[6px] border-[#FFD700] px-6 py-5 flex items-center justify-between gap-4">
         <div>
           <h1 className="text-white font-black text-[clamp(1.6rem,4vw,2.6rem)] uppercase tracking-[2px] leading-none">
-            Friday Rock Show
+            Ask TV
           </h1>
           <p className="text-[#FFD700] text-[11px] font-bold tracking-[3px] uppercase mt-2">
-            Presented by Tommy Vance · BBC Radio 1 · Archive
+            The Friday Rock Show Registry
           </p>
         </div>
         <Image
