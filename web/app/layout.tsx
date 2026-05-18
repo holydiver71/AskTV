@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { Nav } from "@/components/nav";
+import { BBCHeader } from "@/components/bbc-header";
 import { Toaster } from "@/components/ui/sonner";
 import { env } from "@/lib/env";
 import { getThemeClasses } from "@/lib/theme";
@@ -41,7 +42,7 @@ export default function RootLayout({
       ].join(" ")}
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
-        <Nav />
+        {env.ASK_TV_THEME === "radio1" ? <BBCHeader /> : <Nav />}
         <Analytics />
         <main className="flex flex-col flex-1 min-h-0">{children}</main>
         <Toaster />
