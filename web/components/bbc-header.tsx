@@ -1,8 +1,8 @@
 import Link from "next/link";
 import Image from "next/image";
+import { ChatResetLink } from "@/components/chat-reset-link";
 
 const navLinks = [
-  { href: "/chat", label: "Ask TV" },
   { href: "/registry", label: "The Registry" },
   { href: "/references", label: "References" },
 ];
@@ -33,6 +33,9 @@ export function BBCHeader() {
       {/* Dark nav bar with red bottom border */}
       <nav className="bg-[#222] border-b-[3px] border-[#CC0000]">
         <div className="flex items-center">
+          <ChatResetLink className="px-6 py-3 text-[11px] font-bold tracking-[2px] uppercase text-[#999] border-r border-[#333] hover:bg-[#CC0000] hover:text-white transition-colors">
+            Ask TV
+          </ChatResetLink>
           {navLinks.map((link) => (
             <Link
               key={link.href}

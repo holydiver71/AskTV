@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect, forwardRef } from "react";
+import { useSearchParams } from "next/navigation";
 import Image from "next/image";
 import { CitationChip } from "@/components/citation-chip";
 import { stripCitations } from "@/lib/utils/citations";
@@ -21,6 +22,9 @@ const SUGGESTED_PROMPTS = [
 ];
 
 export default function ChatPage() {
+  const searchParams = useSearchParams();
+  const sessionKey = searchParams.get("t");
+
   const [messages, setMessages] = useState<ChatMessage[]>([]);
   const [input, setInput] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -28,6 +32,11 @@ export default function ChatPage() {
   const inputRef = useRef<HTMLInputElement>(null);
   const shouldRefocusInput = useRef(false);
   const hasMessages = messages.length > 0;
+
+  useEffect(() => {
+    setMessages([]);
+    setInput("");
+  }, [sessionKey]);
 
   useEffect(() => {
     if (hasMessages) {
