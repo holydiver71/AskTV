@@ -27,6 +27,11 @@ export function formatCitation(date: string, chunkStart: number): string {
 
 const CITATION_RE = /\[(\d{4}-\d{2}-\d{2})\s*@\s*(\d{2}:\d{2}:\d{2})\]/g;
 
+/** Remove inline citation markers from a string, leaving surrounding text intact. */
+export function stripCitations(text: string): string {
+  return text.replace(/\s*\[\d{4}-\d{2}-\d{2}\s*@\s*\d{2}:\d{2}:\d{2}\]/g, "").trim();
+}
+
 /**
  * Parse inline citation markers from an AI answer and enrich them with the
  * matching context block text where possible.

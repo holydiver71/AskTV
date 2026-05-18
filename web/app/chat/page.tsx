@@ -3,6 +3,7 @@
 import { useState, useRef, useEffect, forwardRef } from "react";
 import Image from "next/image";
 import { CitationChip } from "@/components/citation-chip";
+import { stripCitations } from "@/lib/utils/citations";
 import type { Citation } from "@/lib/utils/citations";
 
 type ChatMessage = {
@@ -215,7 +216,7 @@ export default function ChatPage() {
                       <div className="border-t-2 border-primary mt-1 pt-3">
                         <div className="border border-border bg-card p-4 text-sm">
                           <p className="whitespace-pre-wrap leading-relaxed text-card-foreground">
-                            {msg.content}
+                            {stripCitations(msg.content)}
                           </p>
                           {msg.citations && msg.citations.length > 0 && (
                             <div className="flex flex-wrap gap-1.5 mt-3">
