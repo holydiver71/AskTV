@@ -95,21 +95,17 @@ export default async function EpisodeDetailPage({
               Presenter
             </span>
           </div>
-        </div>
-
-        {/* Fandom link — above archive note, right-aligned */}
-        {episode.url && (
-          <div className="flex justify-end mb-1">
+          {episode.url && (
             <a
               href={episode.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
+              className="ml-auto text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
             >
               Fandom Wiki ↗
             </a>
-          </div>
-        )}
+          )}
+        </div>
 
         {/* Archive note */}
         {episode.comments && episode.comments.length > 0 && (
