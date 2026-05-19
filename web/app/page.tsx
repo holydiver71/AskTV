@@ -12,6 +12,10 @@ export const metadata = {
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-start md:justify-center px-4 pt-8 pb-10 md:py-16 text-center gap-6 md:gap-8">
+      <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight whitespace-nowrap">
+        The Friday Rock Show
+      </h1>
+
       <div className="relative w-56 h-72 sm:w-64 sm:h-80 md:w-72 md:h-96 rounded-xl overflow-hidden shadow-2xl ring-1 ring-white/10">
         <Image
           src="/tommyvance.png"
