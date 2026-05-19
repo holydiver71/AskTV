@@ -351,14 +351,14 @@ async def process_episode(
 # Main entry point
 # ---------------------------------------------------------------------------
 
-async def main(single_mp3: Path | None = None) -> None:
+async def main(audio_dir: Path, json_dir: Path, single_mp3: Path | None = None) -> None:
     if single_mp3 is not None:
         mp3_files = [single_mp3]
     else:
-        mp3_files = sorted(AUDIO_DIR.glob("*.mp3"))
+        mp3_files = sorted(audio_dir.glob("*.mp3"))
 
     if not mp3_files:
-        log.error(f"No MP3 files found in {AUDIO_DIR}")
+        log.error(f"No MP3 files found in {audio_dir}")
         return
 
     episodes: list[tuple[str, Path, Path]] = []
@@ -368,7 +368,7 @@ async def main(single_mp3: Path | None = None) -> None:
             log.warning(f"Could not extract date from {mp3_path.name} — skipping")
             continue
         date = match.group()
-        json_path = JSON_DIR / f"FRS {date}.json"
+        json_path = json_dir / f"FRS {date}.json"
         if not json_path.exists():
             log.warning(f"[{date}] JSON not found: {json_path} — skipping")
             continue
@@ -400,33 +400,45 @@ async def main(single_mp3: Path | None = None) -> None:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Shazam fingerprinting for FRS episodes by year")
     parser.add_argument(
-        "--year",
+        "--year", "-y",
         type=str,
-        default="1980",
+        nargs="+",
+        default=["1980"],
         metavar="YYYY",
-        help="Four-digit year to process (default: 1980)",
+        help="One or more four-digit years to process (e.g. --year 1980 1981 1982)",
     )
     parser.add_argument(
         "--mp3",
         type=Path,
         default=None,
         metavar="FILE",
-        help="Process a single MP3 file instead of the full year's directory",
+        help="Process a single MP3 file instead of the full year's directory (single year only)",
     )
     args = parser.parse_args()
 
-    year = args.year
-    if not re.match(r"^\d{4}$", year):
-        sys.exit(f"Error: invalid year: {year} — expected four digits, e.g. 1980")
+    years = sorted(set(args.year))
+    for y in years:
+        if not re.match(r"^\d{4}$", y):
+            sys.exit(f"Error: invalid year: {y} — expected four digits, e.g. 1980")
 
-    # Construct year-specific paths (defaults to 1980 for backwards compatibility)
-    AUDIO_DIR = AUDIO_ROOT / year
-    JSON_DIR = JSON_BASE / year
+    if args.mp3 is not None and len(years) > 1:
+        sys.exit("Error: --mp3 cannot be combined with multiple --year values")
 
     if args.mp3 is not None and not args.mp3.exists():
         sys.exit(f"Error: file not found: {args.mp3}")
 
-    try:
-        asyncio.run(main(single_mp3=args.mp3))
-    except KeyboardInterrupt:
-        print("\nInterrupt received — stopping after current episode.")
+    grand_total = 0
+    for year in years:
+        audio_dir = AUDIO_ROOT / year
+        json_dir = JSON_BASE / year
+        log.info(f"\n{'=' * 60}")
+        log.info(f"Processing year {year}  |  {audio_dir}")
+        log.info("=" * 60)
+        try:
+            asyncio.run(main(audio_dir=audio_dir, json_dir=json_dir, single_mp3=args.mp3))
+        except KeyboardInterrupt:
+            print("\nInterrupt received — stopping after current episode.")
+            break
+
+    if len(years) > 1:
+        log.info(f"\nAll years complete: {', '.join(years)}")

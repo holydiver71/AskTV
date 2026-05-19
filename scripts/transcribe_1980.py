@@ -118,9 +118,9 @@ def atomic_write(path: Path, data: dict) -> None:
 def main() -> int:
     signal.signal(signal.SIGINT, handle_sigint)
 
-    parser = argparse.ArgumentParser(description="Transcribe MP3s for a given year and append transcript to JSON files.")
-    parser.add_argument("--year", "-y", default="1980", help="Year to process (YYYY)")
-    parser.add_argument("mp3", nargs="?", help="Optional path or filename of a single MP3 to process")
+    parser = argparse.ArgumentParser(description="Transcribe MP3s for one or more years and append transcript to JSON files.")
+    parser.add_argument("--year", "-y", nargs="+", default=["1980"], metavar="YYYY", help="One or more years to process (e.g. --year 1980 1981 1982)")
+    parser.add_argument("mp3", nargs="?", help="Optional path or filename of a single MP3 to process (single year only)")
     parser.add_argument(
         "--retranscribe",
         action="store_true",
@@ -128,123 +128,155 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    year = args.year
-    if not re.fullmatch(r"\d{4}", year):
-        print("Error: --year must be a 4-digit year, e.g. 1980")
+    years = sorted(set(args.year))
+    for y in years:
+        if not re.fullmatch(r"\d{4}", y):
+            print(f"Error: --year must be 4-digit years, e.g. 1980: got '{y}'")
+            return 2
+
+    if args.mp3 and len(years) > 1:
+        print("Error: a single MP3 path cannot be combined with multiple --year values")
         return 2
 
-    AUDIO_DIR = Path(f"FRSAudio/128kbps/{year}/")
-    JSON_DIR = Path(f"data/episodes/{year}/")
     LOG_FILE = Path("logs/transcription_errors.log")
-
-    # Ensure logs directory exists before anything can fail
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
-    # ── Model load ──────────────────────────────────────────────────────────
+    # ── Model load (once for all years) ────────────────────────────────────
     print("Loading Whisper model (large-v3 · CPU · int8)...")
     t_model = time.perf_counter()
     model = WhisperModel("large-v3", device="cpu", compute_type="int8")
     print(f"Model ready  [{fmt_duration(time.perf_counter() - t_model)}]\n")
 
-    # ── File discovery ──────────────────────────────────────────────────────
-    if args.mp3:
-        candidate = Path(args.mp3)
-        if not candidate.exists():
-            candidate_in_dir = AUDIO_DIR / args.mp3
-            if candidate_in_dir.exists():
-                candidate = candidate_in_dir
-            else:
-                print(f"ERROR: Specified MP3 not found: {args.mp3}")
-                return 2
-        mp3s = [candidate]
-    else:
-        mp3s = sorted(AUDIO_DIR.glob("*.mp3"))
-
-    total = len(mp3s)
-    if total == 0:
-        print("No MP3s found to process.")
-        return 1
-
-    print(f"Found {total} MP3(s) to process.")
-    print("─" * 52)
-
-    # ── Main loop ───────────────────────────────────────────────────────────
-    processed = skipped = errors = 0
+    grand_processed = grand_skipped = grand_errors = 0
     t_run = time.perf_counter()
 
-    for idx, mp3 in enumerate(mp3s, start=1):
+    for year in years:
+        AUDIO_DIR = Path(f"FRSAudio/128kbps/{year}/")
+        JSON_DIR = Path(f"data/episodes/{year}/")
+
+        print(f"\n{'═' * 52}")
+        print(f"Year: {year}  |  Audio: {AUDIO_DIR}  |  JSON: {JSON_DIR}")
+        print("═" * 52)
+
+        # ── File discovery ──────────────────────────────────────────────────
+        if args.mp3:
+            candidate = Path(args.mp3)
+            if not candidate.exists():
+                candidate_in_dir = AUDIO_DIR / args.mp3
+                if candidate_in_dir.exists():
+                    candidate = candidate_in_dir
+                else:
+                    print(f"ERROR: Specified MP3 not found: {args.mp3}")
+                    return 2
+            mp3s = [candidate]
+        else:
+            mp3s = sorted(AUDIO_DIR.glob("*.mp3"))
+
+        total = len(mp3s)
+        if total == 0:
+            print(f"No MP3s found in {AUDIO_DIR} — skipping.")
+            continue
+
+        print(f"Found {total} MP3(s) to process.")
+        print("─" * 52)
+
+        # ── Year loop ───────────────────────────────────────────────────────
+        processed = skipped = errors = 0
+
+        for idx, mp3 in enumerate(mp3s, start=1):
+            if STOP_REQUESTED:
+                print("\nStopping before next file.")
+                break
+
+            date = find_date_in_name(mp3.name)
+            display = date or mp3.name
+            print(f"\n[{idx}/{total}] {display}")
+
+            if not date:
+                msg = f"Skipping {mp3} — couldn't extract date from filename"
+                print(f"  WARNING: {msg}")
+                log_error(LOG_FILE, msg)
+                errors += 1
+                continue
+
+            json_path = JSON_DIR / f"FRS {date}.json"
+            if not json_path.exists():
+                msg = f"No JSON found for {date} (expected {json_path})"
+                print(f"  WARNING: {msg}")
+                log_error(LOG_FILE, msg)
+                errors += 1
+                continue
+
+            print(f"  JSON     : {json_path.name}")
+
+            try:
+                with open(json_path, "r", encoding="utf-8") as fh:
+                    data = json.load(fh)
+            except Exception as exc:
+                msg = f"Failed to read {json_path}: {exc}"
+                print(f"  ERROR: {msg}")
+                log_error(LOG_FILE, msg)
+                errors += 1
+                continue
+
+            if "transcript" in data and not args.retranscribe:
+                print(f"  Skipped  — already transcribed ({len(data['transcript'])} segments)")
+                skipped += 1
+                continue
+            elif "transcript" in data and args.retranscribe:
+                print(f"  Re-transcribing (had {len(data['transcript'])} segments)...")
+
+            try:
+                t_file = time.perf_counter()
+                segments = transcribe_file(model, mp3)
+                data["transcript"] = segments
+                print(f"  Writing JSON ({len(segments)} segments)...", end=" ", flush=True)
+                atomic_write(json_path, data)
+                elapsed = fmt_duration(time.perf_counter() - t_file)
+                print(f"done  [{elapsed}]")
+                processed += 1
+            except Exception as exc:
+                msg = f"Error transcribing {mp3}: {exc}"
+                print(f"  ERROR: {msg}")
+                log_error(LOG_FILE, msg)
+                errors += 1
+                continue
+
+            if STOP_REQUESTED:
+                print("Stop requested — exiting cleanly.")
+                break
+
+        # ── Per-year summary ────────────────────────────────────────────────
+        print(f"\n{'─' * 52}")
+        print(f"Year {year} complete")
+        print(f"  Processed : {processed}")
+        print(f"  Skipped   : {skipped}  (already had transcript)")
+        print(f"  Errors    : {errors}")
+        if errors:
+            print(f"  Log       : {LOG_FILE}")
+        print("─" * 52)
+
+        grand_processed += processed
+        grand_skipped += skipped
+        grand_errors += errors
+
         if STOP_REQUESTED:
-            print("\nStopping before next file.")
             break
 
-        date = find_date_in_name(mp3.name)
-        display = date or mp3.name
-        print(f"\n[{idx}/{total}] {display}")
-
-        if not date:
-            msg = f"Skipping {mp3} — couldn't extract date from filename"
-            print(f"  WARNING: {msg}")
-            log_error(LOG_FILE, msg)
-            errors += 1
-            continue
-
-        json_path = JSON_DIR / f"FRS {date}.json"
-        if not json_path.exists():
-            msg = f"No JSON found for {date} (expected {json_path})"
-            print(f"  WARNING: {msg}")
-            log_error(LOG_FILE, msg)
-            errors += 1
-            continue
-
-        print(f"  JSON     : {json_path.name}")
-
-        try:
-            with open(json_path, "r", encoding="utf-8") as fh:
-                data = json.load(fh)
-        except Exception as exc:
-            msg = f"Failed to read {json_path}: {exc}"
-            print(f"  ERROR: {msg}")
-            log_error(LOG_FILE, msg)
-            errors += 1
-            continue
-
-        if "transcript" in data and not args.retranscribe:
-            print(f"  Skipped  — already transcribed ({len(data['transcript'])} segments)")
-            skipped += 1
-            continue
-        elif "transcript" in data and args.retranscribe:
-            print(f"  Re-transcribing (had {len(data['transcript'])} segments)...")
-
-        try:
-            t_file = time.perf_counter()
-            segments = transcribe_file(model, mp3)
-            data["transcript"] = segments
-            print(f"  Writing JSON ({len(segments)} segments)...", end=" ", flush=True)
-            atomic_write(json_path, data)
-            elapsed = fmt_duration(time.perf_counter() - t_file)
-            print(f"done  [{elapsed}]")
-            processed += 1
-        except Exception as exc:
-            msg = f"Error transcribing {mp3}: {exc}"
-            print(f"  ERROR: {msg}")
-            log_error(LOG_FILE, msg)
-            errors += 1
-            continue
-
-        if STOP_REQUESTED:
-            print("Stop requested — exiting cleanly.")
-            break
-
-    # ── Summary ─────────────────────────────────────────────────────────────
+    # ── Grand total (shown only for multiple years) ─────────────────────────
     total_time = fmt_duration(time.perf_counter() - t_run)
-    print(f"\n{'─' * 52}")
-    print(f"Run complete  [{total_time}]")
-    print(f"  Processed : {processed}")
-    print(f"  Skipped   : {skipped}  (already had transcript — use --retranscribe to overwrite)")
-    print(f"  Errors    : {errors}")
-    if errors:
-        print(f"  Log       : {LOG_FILE}")
-    print("─" * 52)
+    if len(years) > 1:
+        print(f"\n{'═' * 52}")
+        print(f"Grand total across {len(years)} year(s): {', '.join(years)}  [{total_time}]")
+        print(f"  Processed : {grand_processed}")
+        print(f"  Skipped   : {grand_skipped}  (already had transcript — use --retranscribe to overwrite)")
+        print(f"  Errors    : {grand_errors}")
+        if grand_errors:
+            print(f"  Log       : {LOG_FILE}")
+        print("═" * 52)
+    else:
+        print(f"\nTotal time: {total_time}")
+
     return 0
 
 
