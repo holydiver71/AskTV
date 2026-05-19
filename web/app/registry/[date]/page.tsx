@@ -97,36 +97,34 @@ export default async function EpisodeDetailPage({
           </div>
         </div>
 
-        {/* Notice bar + Fandom link */}
-        {((episode.comments && episode.comments.length > 0) || episode.url) && (
-          <div className="mb-10">
-            {episode.comments && episode.comments.length > 0 && (
-              <div className="flex items-baseline gap-4 bg-[#FFD700] px-4 py-3">
-                <span className="shrink-0 text-[9px] font-black tracking-[2px] uppercase text-[#003087]">
-                  Archive Note
-                </span>
-                <span className="text-xs font-bold text-[#111]">
-                  {episode.comments.join(" · ")}
-                </span>
-              </div>
-            )}
-            {episode.url && (
-              <div className="flex justify-end pt-1.5">
-                <a
-                  href={episode.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
-                >
-                  Fandom Wiki ↗
-                </a>
-              </div>
-            )}
+        {/* Fandom link — above archive note, right-aligned */}
+        {episode.url && (
+          <div className="flex justify-end mb-1">
+            <a
+              href={episode.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
+            >
+              Fandom Wiki ↗
+            </a>
+          </div>
+        )}
+
+        {/* Archive note */}
+        {episode.comments && episode.comments.length > 0 && (
+          <div className="flex items-baseline gap-4 bg-[#FFD700] px-4 py-3">
+            <span className="shrink-0 text-[9px] font-black tracking-[2px] uppercase text-[#003087]">
+              Archive Note
+            </span>
+            <span className="text-xs font-bold text-[#111]">
+              {episode.comments.join(" · ")}
+            </span>
           </div>
         )}
 
         {/* Transcript */}
-        <div className="mb-8">
+        <div className="mt-8 mb-8">
           <TranscriptSection date={episode.date} />
         </div>
 
