@@ -96,7 +96,7 @@ export default async function EpisodeDetailPage({
         </div>
 
         {/* Notice bar + Fandom link */}
-        {(episode.comments?.length > 0 || episode.url) && (
+        {((episode.comments && episode.comments.length > 0) || episode.url) && (
           <div className="mb-10">
             {episode.comments && episode.comments.length > 0 && (
               <div className="flex items-baseline gap-4 bg-[#FFD700] px-4 py-3">
