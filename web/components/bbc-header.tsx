@@ -38,18 +38,22 @@ export function BBCHeader() {
       {/* Dark nav bar with red bottom border */}
       <nav className="bg-[#222] border-b-[3px] border-[#CC0000]">
         <div className="flex items-center">
-          <ChatResetLink className="px-6 py-3 text-[11px] font-bold tracking-[2px] uppercase text-[#999] border-r border-[#333] hover:bg-[#CC0000] hover:text-white transition-colors">
+          <ChatResetLink className="px-3 md:px-6 py-2 md:py-3 text-[10px] md:text-[11px] font-bold tracking-[1px] md:tracking-[2px] uppercase text-[#999] border-r border-[#333] hover:bg-[#CC0000] hover:text-white transition-colors whitespace-nowrap">
             Ask TV
           </ChatResetLink>
-          {navLinks.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              className="px-6 py-3 text-[11px] font-bold tracking-[2px] uppercase text-[#999] border-r border-[#333] hover:bg-[#CC0000] hover:text-white transition-colors"
-            >
-              {link.label}
-            </Link>
-          ))}
+          <Link
+            href="/registry"
+            className="px-3 md:px-6 py-2 md:py-3 text-[10px] md:text-[11px] font-bold tracking-[1px] md:tracking-[2px] uppercase text-[#999] border-r border-[#333] hover:bg-[#CC0000] hover:text-white transition-colors whitespace-nowrap"
+          >
+            <span className="md:hidden">Vendor</span>
+            <span className="hidden md:inline">The Music Vendor</span>
+          </Link>
+          <Link
+            href="/references"
+            className="px-3 md:px-6 py-2 md:py-3 text-[10px] md:text-[11px] font-bold tracking-[1px] md:tracking-[2px] uppercase text-[#999] border-r border-[#333] hover:bg-[#CC0000] hover:text-white transition-colors whitespace-nowrap"
+          >
+            References
+          </Link>
         </div>
       </nav>
     </header>

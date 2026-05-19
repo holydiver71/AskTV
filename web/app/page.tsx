@@ -12,7 +12,7 @@ export const metadata = {
 export default function Home() {
   return (
     <div className="flex flex-col flex-1 items-center justify-start md:justify-center px-4 pt-4 pb-10 md:py-16 text-center gap-6 md:gap-8">
-      <h1 className="text-2xl sm:text-3xl font-black uppercase tracking-[2px] whitespace-nowrap">
+      <h1 className="text-[clamp(0.85rem,4vw,1.5rem)] font-black uppercase tracking-[2px] whitespace-nowrap">
         The Friday Rock Show
       </h1>
 
