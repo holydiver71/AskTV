@@ -1,6 +1,5 @@
 import { getEpisode } from "@/lib/db/episodes";
 import { notFound } from "next/navigation";
-import Link from "next/link";
 import { formatTimestamp } from "@/lib/utils/citations";
 import { CollapsibleSection } from "@/components/collapsible-section";
 import { TranscriptSection } from "@/components/transcript-section";
@@ -41,13 +40,6 @@ export default async function EpisodeDetailPage({
   return (
     <>
       <div className="max-w-[1100px] mx-auto w-full px-4 sm:px-8 pt-10 pb-20">
-        {/* Back link */}
-        <Link
-          href="/registry"
-          className="text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
-        >
-          ← Registry
-        </Link>
 
         {/* Giant display date */}
         <div
@@ -219,34 +211,6 @@ export default async function EpisodeDetailPage({
 
       </div>
 
-      {/* Episode footer */}
-      <div className="bg-[#003087] border-t-4 border-[#CC0000] px-4 sm:px-8 py-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-        <div className="flex gap-1">
-          {(["B", "B", "C"] as const).map((l, i) => (
-            <div
-              key={i}
-              className="bg-[#CC0000] text-white text-[11px] font-black w-[22px] h-[22px] flex items-center justify-center"
-              style={{ fontFamily: "'Arial Black', Arial, sans-serif" }}
-            >
-              {l}
-            </div>
-          ))}
-        </div>
-        <div className="flex flex-col sm:flex-row gap-4 sm:gap-8">
-          <Link
-            href="/registry"
-            className="text-[#FFD700] text-[11px] font-bold tracking-[2px] uppercase hover:text-white transition-colors"
-          >
-            ← Back to Registry
-          </Link>
-          <Link
-            href={`/chat?q=Tell me about the ${episode.date} broadcast`}
-            className="text-[#FFD700] text-[11px] font-bold tracking-[2px] uppercase hover:text-white transition-colors"
-          >
-            Ask TV about this episode →
-          </Link>
-        </div>
-      </div>
     </>
   );
 }
