@@ -35,7 +35,12 @@ export default async function RegistryPage({
   return (
     <div className="max-w-4xl mx-auto px-4 py-8 space-y-6">
       <div>
-        <h1 className="text-3xl font-bold tracking-tight">The Music Vendor</h1>
+        <h1
+          className="font-black text-[#111] leading-[0.9]"
+          style={{ fontSize: "clamp(2rem, 5vw, 3.5rem)", letterSpacing: "-2px" }}
+        >
+          The Music Vendor
+        </h1>
       </div>
 
       <RegistryFilters
