@@ -2,6 +2,7 @@ import { getEpisode } from "@/lib/db/episodes";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { formatTimestamp } from "@/lib/utils/citations";
+import { CollapsibleSection } from "@/components/collapsible-section";
 
 export async function generateMetadata({
   params,
@@ -134,16 +135,7 @@ export default async function EpisodeDetailPage({
         >
           {/* Sessions */}
           {hasSessions && (
-            <div>
-              <div className="flex items-center gap-3.5 mb-5">
-                <h3 className="text-[11px] font-bold tracking-[3px] uppercase text-[#CC0000] whitespace-nowrap">
-                  Sessions
-                </h3>
-                <div className="flex-1 h-px bg-[#e0e0e0]" />
-                <span className="bg-[#003087] text-white text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
-                  {episode.sessions.length}
-                </span>
-              </div>
+            <CollapsibleSection title="Sessions" count={episode.sessions.length}>
               <div className="space-y-3.5">
                 {episode.sessions.map((s) => (
                   <div
@@ -161,21 +153,12 @@ export default async function EpisodeDetailPage({
                   </div>
                 ))}
               </div>
-            </div>
+            </CollapsibleSection>
           )}
 
           {/* Tracks */}
           {hasTracks && (
-            <div>
-              <div className="flex items-center gap-3.5 mb-5">
-                <h3 className="text-[11px] font-bold tracking-[3px] uppercase text-[#CC0000] whitespace-nowrap">
-                  Track Listing
-                </h3>
-                <div className="flex-1 h-px bg-[#e0e0e0]" />
-                <span className="bg-[#003087] text-white text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
-                  {episode.tracks.length}
-                </span>
-              </div>
+            <CollapsibleSection title="Track Listing" count={episode.tracks.length}>
               <table className="w-full border-collapse">
                 <thead>
                   <tr className="border-b-[3px] border-[#CC0000]">
@@ -230,7 +213,7 @@ export default async function EpisodeDetailPage({
                   })}
                 </tbody>
               </table>
-            </div>
+            </CollapsibleSection>
           )}
         </div>
 
