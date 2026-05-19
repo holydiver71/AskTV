@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { formatTimestamp } from "@/lib/utils/citations";
 import { CollapsibleSection } from "@/components/collapsible-section";
+import { TranscriptSection } from "@/components/transcript-section";
 
 export async function generateMetadata({
   params,
@@ -123,6 +124,11 @@ export default async function EpisodeDetailPage({
             )}
           </div>
         )}
+
+        {/* Transcript */}
+        <div className="mb-8">
+          <TranscriptSection date={episode.date} />
+        </div>
 
         {/* Heavy rule */}
         <div className="h-1 bg-[#111] mb-10" />
