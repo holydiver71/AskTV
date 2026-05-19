@@ -1,31 +1,44 @@
 #!/usr/bin/env python3
-"""Download Friday Rock Show MP3 episodes from Mixcloud via yt-dlp.
-
-Scrapes the episode checklist at dawtrina.com to find Mixcloud URLs for the
-requested year/month, then downloads each one with yt-dlp, saving files as
-FRS YYYY-MM-DD.mp3.
+"""Download Friday Rock Show MP3 episodes from Mixcloud via yt-dlp,
+or from the Fandom wiki (Mega/Mediafire/YouTube/Mixcloud) via --fandom.
 
 Examples:
   python scripts/download_episodes.py 1980
   python scripts/download_episodes.py 1981 --month 03
   python scripts/download_episodes.py 1980 --month 01 --dry-run
+  python scripts/download_episodes.py 1987 --fandom --dry-run
+  python scripts/download_episodes.py 1987 --fandom --month 01
 
 Output directory: /media/andy/DATA/Projects/The Friday Rock Show Registry/FRSAudio/Source/<year>/
+Log file (fandom path): <output_dir>/download-fandom-<year>.log
 
 Requirements:
   - yt-dlp available on PATH (sudo apt install yt-dlp  or  pip install yt-dlp)
-  - requests, beautifulsoup4  (pip install requests beautifulsoup4 lxml)
+  - requests, beautifulsoup4, lxml  (pip install requests beautifulsoup4 lxml)
+  - curl_cffi  (pip install curl-cffi)   [--fandom path only]
+  - cookies.txt (Netscape format) at repo root  [--fandom path only]
 """
 from __future__ import annotations
 
 import argparse
+import http.cookiejar
+import re
 import subprocess
 import sys
+import time
+import urllib.parse
 from datetime import datetime
 from pathlib import Path
+from typing import TextIO
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
+
+try:
+    from curl_cffi import requests as cffi_requests
+    _CFFI_AVAILABLE = True
+except ImportError:
+    _CFFI_AVAILABLE = False
 
 
 CHECKLIST_URL = "https://www.dawtrina.com/music/frs/checklist.html"
@@ -35,18 +48,50 @@ OUTPUT_BASE = Path(
 YEAR_MIN = 1978
 YEAR_MAX = 1993
 
+FANDOM_BASE_URL = "https://fridayrockshow.fandom.com"
+REPO_ROOT = Path(__file__).resolve().parent.parent
+FANDOM_DELAY = 1.0
+
+DOWNLOAD_SOURCES: dict[str, str] = {
+    "mega.nz": "Mega",
+    "mediafire.com": "Mediafire",
+    "youtube.com": "YouTube",
+    "youtu.be": "YouTube",
+    "mixcloud.com": "Mixcloud",
+}
+
+_FANDOM_MONTHS = {
+    "january": "01", "february": "02", "march": "03", "april": "04",
+    "may": "05", "june": "06", "july": "07", "august": "08",
+    "september": "09", "october": "10", "november": "11", "december": "12",
+}
+
+FANDOM_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept-Language": "en-GB,en;q=0.9",
+}
+
 
 # ---------------------------------------------------------------------------
 # Logging
 # ---------------------------------------------------------------------------
 
+_log_file: TextIO | None = None
+
+
 def log(tag: str, msg: str) -> None:
-    """Print a tagged diagnostic line immediately (unbuffered)."""
-    print(f"[{tag}] {msg}", flush=True)
+    """Print a tagged diagnostic line to stdout and (if open) the log file."""
+    line = f"[{tag}] {msg}"
+    print(line, flush=True)
+    if _log_file is not None:
+        print(line, flush=True, file=_log_file)
 
 
 # ---------------------------------------------------------------------------
-# Parsing
+# Mixcloud / dawtrina path
 # ---------------------------------------------------------------------------
 
 def parse_date(day_mon: str, year: int) -> str | None:
@@ -59,7 +104,7 @@ def parse_date(day_mon: str, year: int) -> str | None:
 
 
 def fetch_episodes(year: int) -> list[tuple[str, str]]:
-    """Fetch the checklist and return (iso_date, mixcloud_url) pairs for *year*.
+    """Fetch the dawtrina checklist and return (iso_date, mixcloud_url) pairs for *year*.
 
     Episodes with no Mixcloud link are silently omitted from the results.
     """
@@ -78,7 +123,6 @@ def fetch_episodes(year: int) -> list[tuple[str, str]]:
     tables = soup.find_all("table")
     log("PARSE", f"Found {len(tables)} HTML table(s) on the page")
 
-    # The main episode data table is the largest one
     main_table = max(tables, key=lambda t: len(t.find_all("tr")))
     all_rows = main_table.find_all("tr")
     log("PARSE", f"Main data table has {len(all_rows)} row(s) — scanning for year {year} …")
@@ -96,13 +140,11 @@ def fetch_episodes(year: int) -> list[tuple[str, str]]:
 
         texts = [c.get_text(strip=True) for c in cells]
 
-        # ── Year-marker row: a single cell whose text is exactly the year ────
         if len(texts) == 1 and texts[0] == str(year):
             log("PARSE", f"Found year section marker: {year}")
             in_year = True
             continue
 
-        # ── Leaving this year's section: next single-cell year marker ────────
         if (
             in_year
             and len(texts) == 1
@@ -115,11 +157,9 @@ def fetch_episodes(year: int) -> list[tuple[str, str]]:
         if not in_year:
             continue
 
-        # ── Header row ────────────────────────────────────────────────────────
         if texts[0] == "#":
             continue
 
-        # ── Skip note-only rows (no episode number or too few cells) ─────────
         if not texts[0].strip() or len(texts) < 4:
             continue
 
@@ -132,9 +172,6 @@ def fetch_episodes(year: int) -> list[tuple[str, str]]:
             parse_errors += 1
             continue
 
-        # ── Look for a Mixcloud link (href contains mixcloud.com) ─────────────
-        # Some rows also have YouTube links; we want only the Mixcloud one.
-        # The anchor text is "Mixcloud" for the Mixcloud link.
         mixcloud_url: str | None = None
         for a_tag in row.find_all("a"):
             href = a_tag.get("href", "")
@@ -161,16 +198,173 @@ def fetch_episodes(year: int) -> list[tuple[str, str]]:
 
 
 # ---------------------------------------------------------------------------
+# Fandom path — session
+# ---------------------------------------------------------------------------
+
+def build_fandom_session(cookies_file: Path):
+    """Build a curl_cffi session with browser impersonation and Fandom cookies."""
+    if not _CFFI_AVAILABLE:
+        raise RuntimeError(
+            "curl_cffi is required for the --fandom path.\n"
+            "Install with:  pip install curl-cffi"
+        )
+    session = cffi_requests.Session(impersonate="chrome124")
+    session.headers.update(FANDOM_HEADERS)
+
+    if not cookies_file.exists():
+        raise FileNotFoundError(
+            f"Cookie file not found: {cookies_file}\n"
+            "Export your browser cookies for fridayrockshow.fandom.com in Netscape "
+            "format and save them as cookies.txt at the repo root."
+        )
+
+    jar = http.cookiejar.MozillaCookieJar(str(cookies_file))
+    try:
+        jar.load(ignore_discard=True, ignore_expires=True)
+    except http.cookiejar.LoadError as exc:
+        raise RuntimeError(f"Failed to load cookies from {cookies_file}: {exc}") from exc
+
+    session.cookies = jar  # type: ignore[assignment]
+    return session
+
+
+# ---------------------------------------------------------------------------
+# Fandom path — scraping
+# ---------------------------------------------------------------------------
+
+def _fandom_parse_date(title: str) -> str | None:
+    """Parse a wiki page title like '13_February_1987' → '1987-02-13'."""
+    title = title.replace("_", " ")
+    m = re.search(
+        r"(\d{1,2})\s+(January|February|March|April|May|June|July|August|"
+        r"September|October|November|December)\s+(\d{4})",
+        title,
+        re.IGNORECASE,
+    )
+    if not m:
+        return None
+    day = int(m.group(1))
+    month = _FANDOM_MONTHS[m.group(2).lower()]
+    year_str = m.group(3)
+    return f"{year_str}-{month}-{day:02d}"
+
+
+def get_fandom_episode_links(session, year: int) -> list[tuple[str, str]]:
+    """Return [(iso_date, '/wiki/DD_Month_YYYY'), ...] for *year* from the Fandom wiki."""
+    year_url = f"{FANDOM_BASE_URL}/wiki/{year}"
+    log("FANDOM", f"Fetching year index: {year_url}")
+
+    resp = session.get(year_url, timeout=30)
+    resp.raise_for_status()
+
+    soup = BeautifulSoup(resp.text, "lxml")
+
+    section_heading = None
+    for heading in soup.find_all(re.compile(r"^h[1-6]$")):
+        text = heading.get_text(strip=True).lower()
+        if "shows shared" in text or "list of frs dates" in text:
+            section_heading = heading
+            log("FANDOM", f"Found section: '{heading.get_text(strip=True)}'")
+            break
+
+    if section_heading is None:
+        raise RuntimeError(
+            f"Could not find 'Shows Shared' or 'List of FRS Dates' section on {year_url}"
+        )
+
+    heading_level = int(section_heading.name[1])
+    seen: set[str] = set()
+    links: list[tuple[str, str]] = []
+
+    for sibling in section_heading.find_next_siblings():
+        if not isinstance(sibling, Tag):
+            continue
+        if sibling.name and re.match(r"^h[1-6]$", sibling.name):
+            if int(sibling.name[1]) <= heading_level:
+                break
+        for a in sibling.find_all("a", href=True):
+            raw_href = str(a.get("href", ""))
+            parsed = urllib.parse.urlparse(raw_href)
+            path = parsed.path or ""
+            if not path.startswith("/wiki/"):
+                continue
+            title = urllib.parse.unquote(path.removeprefix("/wiki/"))
+            if ":" in title or title.strip() == str(year):
+                continue
+            if parsed.fragment:
+                continue
+            iso_date = _fandom_parse_date(title)
+            if iso_date is None:
+                continue
+            wiki_path = f"/wiki/{title}"
+            if wiki_path not in seen:
+                seen.add(wiki_path)
+                links.append((iso_date, wiki_path))
+
+    links.sort(key=lambda x: x[0])
+    log("FANDOM", f"Found {len(links)} episode link(s) for year {year}")
+    return links
+
+
+def get_fandom_download_urls(session, episode_path: str) -> list[tuple[str, str]]:
+    """Return [(source_label, url), ...] for all known download links on an episode page."""
+    episode_url = f"{FANDOM_BASE_URL}{episode_path}"
+    resp = session.get(episode_url, timeout=30)
+    resp.raise_for_status()
+
+    soup = BeautifulSoup(resp.text, "lxml")
+    seen_urls: set[str] = set()
+    results: list[tuple[str, str]] = []
+
+    for a in soup.find_all("a", href=True):
+        href = str(a.get("href", ""))
+        if href in seen_urls:
+            continue
+        for domain, label in DOWNLOAD_SOURCES.items():
+            if domain in href:
+                seen_urls.add(href)
+                results.append((label, href))
+                break
+
+    return results
+
+
+def fetch_fandom_episodes(
+    year: int, cookies_file: Path
+) -> list[tuple[str, list[tuple[str, str]]]]:
+    """Return [(iso_date, [(source_label, url), ...]), ...] for *year* from the Fandom wiki."""
+    session = build_fandom_session(cookies_file)
+    episode_links = get_fandom_episode_links(session, year)
+    results: list[tuple[str, list[tuple[str, str]]]] = []
+
+    total = len(episode_links)
+    for idx, (iso_date, wiki_path) in enumerate(episode_links, start=1):
+        log("FANDOM", f"[{idx}/{total}] Fetching episode page: {wiki_path}")
+        time.sleep(FANDOM_DELAY)
+        try:
+            download_urls = get_fandom_download_urls(session, wiki_path)
+        except Exception as exc:
+            log("FANDOM", f"  WARNING: could not fetch {wiki_path}: {exc}")
+            download_urls = []
+        results.append((iso_date, download_urls))
+
+    no_links = sum(1 for _, urls in results if not urls)
+    log("FANDOM", f"Episode scrape complete: {total} episode(s), {no_links} with no download links")
+    return results
+
+
+# ---------------------------------------------------------------------------
 # Download
 # ---------------------------------------------------------------------------
 
 def download_episode(
     iso_date: str,
-    mixcloud_url: str,
+    url: str,
     out_path: Path,
     cookies_browser: str | None,
+    source_label: str = "",
 ) -> bool:
-    """Run yt-dlp to download *mixcloud_url* as MP3 to *out_path*.
+    """Run yt-dlp to download *url* as MP3 to *out_path*.
 
     Returns True on success, False on failure.
     Raises FileNotFoundError if yt-dlp is not on PATH.
@@ -184,7 +378,7 @@ def download_episode(
     ]
     if cookies_browser:
         cmd += ["--cookies-from-browser", cookies_browser]
-    cmd.append(mixcloud_url)
+    cmd.append(url)
 
     log("CMD", " ".join(cmd))
 
@@ -192,15 +386,16 @@ def download_episode(
 
     if result.returncode == 0:
         size_mb = out_path.stat().st_size / (1024 * 1024) if out_path.exists() else 0.0
-        log("OK", f"Saved → {out_path}  ({size_mb:.1f} MB)")
+        source_tag = f" [{source_label}]" if source_label else ""
+        log("OK", f"Saved → {out_path}  ({size_mb:.1f} MB){source_tag}")
         return True
 
-    # ── Failure: show the last few lines of yt-dlp stderr ────────────────────
     stderr_lines = result.stderr.strip().splitlines() if result.stderr.strip() else []
     tail = stderr_lines[-5:] if len(stderr_lines) > 5 else stderr_lines
-    log("FAIL", f"{iso_date}  {mixcloud_url}  (yt-dlp exit {result.returncode})")
+    source_tag = f"  [{source_label}]" if source_label else ""
+    log("BROKEN", f"{iso_date}{source_tag}  {url}  (yt-dlp exit {result.returncode})")
     for line in tail:
-        log("FAIL", f"  yt-dlp: {line}")
+        log("BROKEN", f"  yt-dlp: {line}")
     return False
 
 
@@ -209,15 +404,19 @@ def download_episode(
 # ---------------------------------------------------------------------------
 
 def main() -> int:
+    global _log_file
+
     parser = argparse.ArgumentParser(
-        description="Download Friday Rock Show MP3s from Mixcloud.",
+        description="Download Friday Rock Show MP3s from Mixcloud or the Fandom wiki.",
         epilog=(
             "Examples:\n"
             "  %(prog)s 1980\n"
             "  %(prog)s 1981 --month 03\n"
-            "  %(prog)s 1980 --month 01 --dry-run\n\n"
-            "If Mixcloud requires authentication, supply --cookies-browser chrome\n"
-            "(or firefox, edge, etc.) to read saved login cookies automatically."
+            "  %(prog)s 1980 --month 01 --dry-run\n"
+            "  %(prog)s 1987 --fandom --dry-run\n"
+            "  %(prog)s 1987 --fandom --month 01\n\n"
+            "For the --fandom path, ensure cookies.txt (Netscape format) is at the repo root.\n"
+            "For the Mixcloud path, supply --cookies-browser chrome to read saved login cookies."
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
@@ -242,13 +441,22 @@ def main() -> int:
         metavar="BROWSER",
         help="Pass saved login cookies from BROWSER to yt-dlp (e.g. chrome, firefox)",
     )
+    parser.add_argument(
+        "--fandom",
+        action="store_true",
+        help="Download from the Fandom wiki (Mega/Mediafire/YouTube/Mixcloud) instead of dawtrina.com",
+    )
+    parser.add_argument(
+        "--cookies-file",
+        metavar="PATH",
+        default=str(REPO_ROOT / "cookies.txt"),
+        help="Netscape cookies.txt for the Fandom wiki (default: <repo-root>/cookies.txt)",
+    )
     args = parser.parse_args()
 
-    # ── Validate year ─────────────────────────────────────────────────────────
     if not YEAR_MIN <= args.year <= YEAR_MAX:
         parser.error(f"year must be between {YEAR_MIN} and {YEAR_MAX}")
 
-    # ── Validate month ────────────────────────────────────────────────────────
     month_filter: int | None = None
     month_label = "all months"
     if args.month:
@@ -258,107 +466,222 @@ def main() -> int:
         month_label = f"month {args.month}"
 
     out_dir = OUTPUT_BASE / str(args.year)
+    source_name = "Fandom wiki" if args.fandom else "dawtrina.com / Mixcloud"
 
-    log("START", "=" * 60)
-    log("START", "Friday Rock Show episode downloader")
-    log("START", f"  Year   : {args.year}")
-    log("START", f"  Months : {month_label}")
-    log("START", f"  Output : {out_dir}")
-    log("START", f"  Dry run: {args.dry_run}")
-    if args.cookies_browser:
-        log("START", f"  Cookies: from browser '{args.cookies_browser}'")
-    log("START", "=" * 60)
-
-    # ── Fetch and parse the checklist ─────────────────────────────────────────
-    try:
-        episodes = fetch_episodes(args.year)
-    except Exception as exc:
-        log("FAIL", f"Could not retrieve episode list: {exc}")
-        return 1
-
-    if not episodes:
-        log("DONE", f"No episodes with Mixcloud links found for year {args.year}.")
-        return 0
-
-    # ── Apply month filter ────────────────────────────────────────────────────
-    if month_filter is not None:
-        before = len(episodes)
-        episodes = [
-            (d, u)
-            for d, u in episodes
-            if datetime.fromisoformat(d).month == month_filter
-        ]
-        log(
-            "PARSE",
-            f"Month filter ({args.month}): {before} episode(s) → {len(episodes)} after filtering",
-        )
-
-    if not episodes:
-        log("DONE", f"No episodes found for year={args.year} month={args.month}.")
-        return 0
-
-    log("START", f"{len(episodes)} episode(s) to process")
-
-    # ── Create output directory ───────────────────────────────────────────────
-    if not args.dry_run:
+    if args.fandom:
         out_dir.mkdir(parents=True, exist_ok=True)
-        log("START", f"Output directory ready: {out_dir}")
+        log_path = out_dir / f"download-fandom-{args.year}.log"
+        _log_file = log_path.open("a", encoding="utf-8")
 
-    # ── Download loop ─────────────────────────────────────────────────────────
-    total = len(episodes)
-    downloaded = 0
-    skipped = 0
-    failed = 0
+    try:
+        log("START", "=" * 60)
+        log("START", "Friday Rock Show episode downloader")
+        log("START", f"  Year   : {args.year}")
+        log("START", f"  Months : {month_label}")
+        log("START", f"  Output : {out_dir}")
+        log("START", f"  Source : {source_name}")
+        log("START", f"  Dry run: {args.dry_run}")
+        if args.cookies_browser:
+            log("START", f"  Cookies: from browser '{args.cookies_browser}'")
+        if args.fandom:
+            log("START", f"  Cookies file: {args.cookies_file}")
+            log("START", f"  Log file    : {out_dir / f'download-fandom-{args.year}.log'}")
+        log("START", "=" * 60)
 
-    for idx, (iso_date, mixcloud_url) in enumerate(episodes, start=1):
-        filename = f"FRS {iso_date}.mp3"
-        out_path = out_dir / filename
+        # ── Fandom path ────────────────────────────────────────────────────────
+        if args.fandom:
+            try:
+                fandom_episodes = fetch_fandom_episodes(args.year, Path(args.cookies_file))
+            except FileNotFoundError as exc:
+                log("FAIL", str(exc))
+                return 1
+            except Exception as exc:
+                log("FAIL", f"Could not retrieve Fandom episode list: {exc}")
+                return 1
 
-        log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
-        log(f"DOWNLOAD {idx}/{total}", f"URL : {mixcloud_url}")
-        log(f"DOWNLOAD {idx}/{total}", f"File: {out_path}")
+            if month_filter is not None:
+                before = len(fandom_episodes)
+                fandom_episodes = [
+                    (d, urls)
+                    for d, urls in fandom_episodes
+                    if datetime.fromisoformat(d).month == month_filter
+                ]
+                log(
+                    "PARSE",
+                    f"Month filter ({args.month}): {before} → {len(fandom_episodes)} episode(s)",
+                )
 
-        # ── Skip if already downloaded ────────────────────────────────────────
-        if out_path.exists():
-            size_mb = out_path.stat().st_size / (1024 * 1024)
-            log("SKIP", f"Already exists ({size_mb:.1f} MB) — {out_path}")
-            skipped += 1
-            continue
+            total = len(fandom_episodes)
+            if total == 0:
+                log("DONE", f"No episodes found for year={args.year} month={args.month}.")
+                return 0
 
-        # ── Dry run ───────────────────────────────────────────────────────────
-        if args.dry_run:
-            log("OK", f"[DRY-RUN] Would download → {out_path}")
-            downloaded += 1
-            continue
+            log("START", f"{total} episode(s) to process")
+            if not args.dry_run:
+                out_dir.mkdir(parents=True, exist_ok=True)
 
-        # ── Actual download ───────────────────────────────────────────────────
+            downloaded = 0
+            skipped = 0
+            failed = 0
+            no_links = 0
+            broken_links = 0
+
+            for idx, (iso_date, source_url_pairs) in enumerate(fandom_episodes, start=1):
+                log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
+
+                if not source_url_pairs:
+                    log("SKIP", f"{iso_date} — no download links found on episode page")
+                    no_links += 1
+                    skipped += 1
+                    continue
+
+                source_names = ", ".join(label for label, _ in source_url_pairs)
+                log(f"DOWNLOAD {idx}/{total}", f"Files : {len(source_url_pairs)} ({source_names})")
+                for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
+                    log(f"DOWNLOAD {idx}/{total}", f"File {file_idx}: {src}  → {url}")
+
+                multi = len(source_url_pairs) > 1
+                episode_downloaded = 0
+                episode_failed = 0
+
+                for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
+                    filename = f"FRS {iso_date} ({file_idx}).mp3" if multi else f"FRS {iso_date}.mp3"
+                    out_path = out_dir / filename
+
+                    if out_path.exists():
+                        size_mb = out_path.stat().st_size / (1024 * 1024)
+                        log("SKIP", f"Already exists ({size_mb:.1f} MB) — {out_path}")
+                        skipped += 1
+                        continue
+
+                    if args.dry_run:
+                        log("OK", f"[DRY-RUN] [{src}] Would download → {out_path}")
+                        episode_downloaded += 1
+                        continue
+
+                    try:
+                        success = download_episode(
+                            iso_date, url, out_path, args.cookies_browser, src
+                        )
+                    except FileNotFoundError:
+                        log("FAIL", "yt-dlp executable not found on PATH.")
+                        log("FAIL", "  Install with:  sudo apt install yt-dlp")
+                        log("FAIL", "            or:  pip install yt-dlp")
+                        return 1
+                    except Exception as exc:
+                        log("FAIL", f"{iso_date} [{src}]: unexpected error: {exc}")
+                        episode_failed += 1
+                        continue
+
+                    if success:
+                        episode_downloaded += 1
+                    else:
+                        episode_failed += 1
+                        broken_links += 1
+
+                downloaded += episode_downloaded
+                failed += episode_failed
+
+            log("DONE", "=" * 60)
+            log("DONE", f"Run complete for year={args.year}  months={month_label}  source=Fandom")
+            log("DONE", f"  Downloaded    : {downloaded}")
+            log("DONE", f"  Skipped       : {skipped}  (already on disk or no links)")
+            log("DONE", f"  No links found: {no_links}")
+            log("DONE", f"  Broken links  : {broken_links}")
+            log("DONE", f"  Failed        : {failed}")
+            log("DONE", f"  Total episodes: {total}")
+            log("DONE", "=" * 60)
+
+            return 0 if failed == 0 else 1
+
+        # ── Mixcloud / dawtrina path ───────────────────────────────────────────
         try:
-            success = download_episode(iso_date, mixcloud_url, out_path, args.cookies_browser)
-        except FileNotFoundError:
-            log("FAIL", "yt-dlp executable not found on PATH.")
-            log("FAIL", "  Install with:  sudo apt install yt-dlp")
-            log("FAIL", "            or:  pip install yt-dlp")
-            return 1
+            episodes = fetch_episodes(args.year)
         except Exception as exc:
-            log("FAIL", f"{iso_date}: unexpected error: {exc}")
-            failed += 1
-            continue
+            log("FAIL", f"Could not retrieve episode list: {exc}")
+            return 1
 
-        if success:
-            downloaded += 1
-        else:
-            failed += 1
+        if not episodes:
+            log("DONE", f"No episodes with Mixcloud links found for year {args.year}.")
+            return 0
 
-    # ── Summary ───────────────────────────────────────────────────────────────
-    log("DONE", "=" * 60)
-    log("DONE", f"Run complete for year={args.year}  months={month_label}")
-    log("DONE", f"  Downloaded : {downloaded}")
-    log("DONE", f"  Skipped    : {skipped}  (already on disk)")
-    log("DONE", f"  Failed     : {failed}")
-    log("DONE", f"  Total      : {total}")
-    log("DONE", "=" * 60)
+        if month_filter is not None:
+            before = len(episodes)
+            episodes = [
+                (d, u)
+                for d, u in episodes
+                if datetime.fromisoformat(d).month == month_filter
+            ]
+            log(
+                "PARSE",
+                f"Month filter ({args.month}): {before} episode(s) → {len(episodes)} after filtering",
+            )
 
-    return 0 if failed == 0 else 1
+        if not episodes:
+            log("DONE", f"No episodes found for year={args.year} month={args.month}.")
+            return 0
+
+        log("START", f"{len(episodes)} episode(s) to process")
+
+        if not args.dry_run:
+            out_dir.mkdir(parents=True, exist_ok=True)
+            log("START", f"Output directory ready: {out_dir}")
+
+        total = len(episodes)
+        downloaded = 0
+        skipped = 0
+        failed = 0
+
+        for idx, (iso_date, mixcloud_url) in enumerate(episodes, start=1):
+            filename = f"FRS {iso_date}.mp3"
+            out_path = out_dir / filename
+
+            log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
+            log(f"DOWNLOAD {idx}/{total}", f"URL : {mixcloud_url}")
+            log(f"DOWNLOAD {idx}/{total}", f"File: {out_path}")
+
+            if out_path.exists():
+                size_mb = out_path.stat().st_size / (1024 * 1024)
+                log("SKIP", f"Already exists ({size_mb:.1f} MB) — {out_path}")
+                skipped += 1
+                continue
+
+            if args.dry_run:
+                log("OK", f"[DRY-RUN] Would download → {out_path}")
+                downloaded += 1
+                continue
+
+            try:
+                success = download_episode(iso_date, mixcloud_url, out_path, args.cookies_browser)
+            except FileNotFoundError:
+                log("FAIL", "yt-dlp executable not found on PATH.")
+                log("FAIL", "  Install with:  sudo apt install yt-dlp")
+                log("FAIL", "            or:  pip install yt-dlp")
+                return 1
+            except Exception as exc:
+                log("FAIL", f"{iso_date}: unexpected error: {exc}")
+                failed += 1
+                continue
+
+            if success:
+                downloaded += 1
+            else:
+                failed += 1
+
+        log("DONE", "=" * 60)
+        log("DONE", f"Run complete for year={args.year}  months={month_label}")
+        log("DONE", f"  Downloaded : {downloaded}")
+        log("DONE", f"  Skipped    : {skipped}  (already on disk)")
+        log("DONE", f"  Failed     : {failed}")
+        log("DONE", f"  Total      : {total}")
+        log("DONE", "=" * 60)
+
+        return 0 if failed == 0 else 1
+
+    finally:
+        if _log_file is not None:
+            _log_file.close()
+            _log_file = None
 
 
 if __name__ == "__main__":
