@@ -32,10 +32,7 @@ export default function Home() {
           BBC Radio 1 · 1978–1993
         </p>
         <p className="text-muted-foreground max-w-sm mx-auto text-sm leading-relaxed">
-          Every track Tommy Vance ever played on the Friday Rock Show — catalogued, searchable, citable.
-        </p>
-        <p className="text-xs text-amber-300/90">
-          Temporary note: only 1980 episodes are currently available to research.
+          Every archived episode of The Friday Rock Show — catalogued, searchable, citable.
         </p>
       </div>
 
@@ -43,6 +40,10 @@ export default function Home() {
         <Link href="/chat" className={cn(buttonVariants({ size: "lg" }))}>Ask TV</Link>
         <Link href="/registry" className={cn(buttonVariants({ variant: "outline", size: "lg" }))}>The Music Vendor</Link>
       </div>
+
+      <p className="text-xs text-[#003087] font-semibold">
+        Temporary note: only 1980 episodes are currently available to research.
+      </p>
     </div>
   );
 }
