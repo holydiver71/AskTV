@@ -3,11 +3,12 @@
 or from the Fandom wiki (Mega/Mediafire/YouTube/Mixcloud) via --fandom.
 
 Examples:
-  python scripts/download_episodes.py 1980
-  python scripts/download_episodes.py 1981 --month 03
-  python scripts/download_episodes.py 1980 --month 01 --dry-run
-  python scripts/download_episodes.py 1987 --fandom --dry-run
-  python scripts/download_episodes.py 1987 --fandom --month 01
+  python scripts/download_episodes.py --year 1980
+  python scripts/download_episodes.py --year 1981 --month 03
+  python scripts/download_episodes.py --year 1980 --month 01 --dry-run
+  python scripts/download_episodes.py --year 1987 --fandom --dry-run
+  python scripts/download_episodes.py --year 1987 --fandom --month 01
+  python scripts/download_episodes.py --year 1986 1987 1988 --fandom
 
 Output directory: /media/andy/DATA/Projects/The Friday Rock Show Registry/FRSAudio/Source/<year>/
 Log file (fandom path): <output_dir>/download-fandom-<year>.log
@@ -330,10 +331,9 @@ def get_fandom_download_urls(session, episode_path: str) -> list[tuple[str, str]
 
 
 def fetch_fandom_episodes(
-    year: int, cookies_file: Path
+    year: int, session
 ) -> list[tuple[str, list[tuple[str, str]]]]:
     """Return [(iso_date, [(source_label, url), ...]), ...] for *year* from the Fandom wiki."""
-    session = build_fandom_session(cookies_file)
     episode_links = get_fandom_episode_links(session, year)
     results: list[tuple[str, list[tuple[str, str]]]] = []
 
@@ -410,21 +410,23 @@ def main() -> int:
         description="Download Friday Rock Show MP3s from Mixcloud or the Fandom wiki.",
         epilog=(
             "Examples:\n"
-            "  %(prog)s 1980\n"
-            "  %(prog)s 1981 --month 03\n"
-            "  %(prog)s 1980 --month 01 --dry-run\n"
-            "  %(prog)s 1987 --fandom --dry-run\n"
-            "  %(prog)s 1987 --fandom --month 01\n\n"
+            "  %(prog)s --year 1980\n"
+            "  %(prog)s --year 1981 --month 03\n"
+            "  %(prog)s --year 1980 --month 01 --dry-run\n"
+            "  %(prog)s --year 1987 --fandom --dry-run\n"
+            "  %(prog)s --year 1986 1987 1988 --fandom\n\n"
             "For the --fandom path, ensure cookies.txt (Netscape format) is at the repo root.\n"
             "For the Mixcloud path, supply --cookies-browser chrome to read saved login cookies."
         ),
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument(
-        "year",
+        "--year", "-y",
         type=int,
+        nargs="+",
         metavar="YEAR",
-        help=f"4-digit broadcast year ({YEAR_MIN}–{YEAR_MAX})",
+        required=True,
+        help=f"One or more 4-digit broadcast years ({YEAR_MIN}–{YEAR_MAX})",
     )
     parser.add_argument(
         "--month",
@@ -454,8 +456,10 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    if not YEAR_MIN <= args.year <= YEAR_MAX:
-        parser.error(f"year must be between {YEAR_MIN} and {YEAR_MAX}")
+    years = sorted(set(args.year))
+    for y in years:
+        if not YEAR_MIN <= y <= YEAR_MAX:
+            parser.error(f"year must be between {YEAR_MIN} and {YEAR_MAX}: got {y}")
 
     month_filter: int | None = None
     month_label = "all months"
@@ -465,88 +469,195 @@ def main() -> int:
         month_filter = int(args.month)
         month_label = f"month {args.month}"
 
-    out_dir = OUTPUT_BASE / str(args.year)
     source_name = "Fandom wiki" if args.fandom else "dawtrina.com / Mixcloud"
 
+    # Build fandom session once for all years
+    fandom_session = None
     if args.fandom:
-        out_dir.mkdir(parents=True, exist_ok=True)
-        log_path = out_dir / f"download-fandom-{args.year}.log"
-        _log_file = log_path.open("a", encoding="utf-8")
+        try:
+            fandom_session = build_fandom_session(Path(args.cookies_file))
+        except (FileNotFoundError, RuntimeError) as exc:
+            print(f"[FAIL] {exc}", flush=True)
+            return 1
 
-    try:
-        log("START", "=" * 60)
-        log("START", "Friday Rock Show episode downloader")
-        log("START", f"  Year   : {args.year}")
-        log("START", f"  Months : {month_label}")
-        log("START", f"  Output : {out_dir}")
-        log("START", f"  Source : {source_name}")
-        log("START", f"  Dry run: {args.dry_run}")
-        if args.cookies_browser:
-            log("START", f"  Cookies: from browser '{args.cookies_browser}'")
+    grand_episodes = grand_downloaded = grand_skipped = grand_failed = 0
+    grand_no_links = grand_broken = 0
+    any_failed = False
+
+    for year in years:
+        out_dir = OUTPUT_BASE / str(year)
+
         if args.fandom:
-            log("START", f"  Cookies file: {args.cookies_file}")
-            log("START", f"  Log file    : {out_dir / f'download-fandom-{args.year}.log'}")
-        log("START", "=" * 60)
+            out_dir.mkdir(parents=True, exist_ok=True)
+            log_path = out_dir / f"download-fandom-{year}.log"
+            _log_file = log_path.open("a", encoding="utf-8")
 
-        # ── Fandom path ────────────────────────────────────────────────────────
-        if args.fandom:
-            try:
-                fandom_episodes = fetch_fandom_episodes(args.year, Path(args.cookies_file))
-            except FileNotFoundError as exc:
-                log("FAIL", str(exc))
-                return 1
-            except Exception as exc:
-                log("FAIL", f"Could not retrieve Fandom episode list: {exc}")
-                return 1
+        try:
+            log("START", "=" * 60)
+            log("START", "Friday Rock Show episode downloader")
+            log("START", f"  Year   : {year}")
+            log("START", f"  Months : {month_label}")
+            log("START", f"  Output : {out_dir}")
+            log("START", f"  Source : {source_name}")
+            log("START", f"  Dry run: {args.dry_run}")
+            if args.cookies_browser:
+                log("START", f"  Cookies: from browser '{args.cookies_browser}'")
+            if args.fandom:
+                log("START", f"  Cookies file: {args.cookies_file}")
+                log("START", f"  Log file    : {out_dir / f'download-fandom-{year}.log'}")
+            log("START", "=" * 60)
 
-            if month_filter is not None:
-                before = len(fandom_episodes)
-                fandom_episodes = [
-                    (d, urls)
-                    for d, urls in fandom_episodes
-                    if datetime.fromisoformat(d).month == month_filter
-                ]
-                log(
-                    "PARSE",
-                    f"Month filter ({args.month}): {before} → {len(fandom_episodes)} episode(s)",
-                )
-
-            total = len(fandom_episodes)
-            if total == 0:
-                log("DONE", f"No episodes found for year={args.year} month={args.month}.")
-                return 0
-
-            log("START", f"{total} episode(s) to process")
-            if not args.dry_run:
-                out_dir.mkdir(parents=True, exist_ok=True)
-
-            downloaded = 0
-            skipped = 0
-            failed = 0
-            no_links = 0
-            broken_links = 0
-
-            for idx, (iso_date, source_url_pairs) in enumerate(fandom_episodes, start=1):
-                log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
-
-                if not source_url_pairs:
-                    log("SKIP", f"{iso_date} — no download links found on episode page")
-                    no_links += 1
-                    skipped += 1
+            # ── Fandom path ────────────────────────────────────────────────────
+            if args.fandom:
+                try:
+                    fandom_episodes = fetch_fandom_episodes(year, fandom_session)
+                except Exception as exc:
+                    log("FAIL", f"Could not retrieve Fandom episode list: {exc}")
+                    any_failed = True
                     continue
 
-                source_names = ", ".join(label for label, _ in source_url_pairs)
-                log(f"DOWNLOAD {idx}/{total}", f"Files : {len(source_url_pairs)} ({source_names})")
-                for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
-                    log(f"DOWNLOAD {idx}/{total}", f"File {file_idx}: {src}  → {url}")
+                if month_filter is not None:
+                    before = len(fandom_episodes)
+                    fandom_episodes = [
+                        (d, urls)
+                        for d, urls in fandom_episodes
+                        if datetime.fromisoformat(d).month == month_filter
+                    ]
+                    log(
+                        "PARSE",
+                        f"Month filter ({args.month}): {before} → {len(fandom_episodes)} episode(s)",
+                    )
 
-                multi = len(source_url_pairs) > 1
-                episode_downloaded = 0
-                episode_failed = 0
+                total = len(fandom_episodes)
+                if total == 0:
+                    log("DONE", f"No episodes found for year={year} month={args.month}.")
+                    continue
 
-                for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
-                    filename = f"FRS {iso_date} ({file_idx}).mp3" if multi else f"FRS {iso_date}.mp3"
+                log("START", f"{total} episode(s) to process")
+                if not args.dry_run:
+                    out_dir.mkdir(parents=True, exist_ok=True)
+
+                downloaded = skipped = failed = no_links = broken_links = 0
+
+                for idx, (iso_date, source_url_pairs) in enumerate(fandom_episodes, start=1):
+                    log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
+
+                    if not source_url_pairs:
+                        log("SKIP", f"{iso_date} — no download links found on episode page")
+                        no_links += 1
+                        skipped += 1
+                        continue
+
+                    source_names = ", ".join(label for label, _ in source_url_pairs)
+                    log(f"DOWNLOAD {idx}/{total}", f"Files : {len(source_url_pairs)} ({source_names})")
+                    for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
+                        log(f"DOWNLOAD {idx}/{total}", f"File {file_idx}: {src}  → {url}")
+
+                    multi = len(source_url_pairs) > 1
+                    episode_downloaded = episode_failed = 0
+
+                    for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
+                        filename = f"FRS {iso_date} ({file_idx}).mp3" if multi else f"FRS {iso_date}.mp3"
+                        out_path = out_dir / filename
+
+                        if out_path.exists():
+                            size_mb = out_path.stat().st_size / (1024 * 1024)
+                            log("SKIP", f"Already exists ({size_mb:.1f} MB) — {out_path}")
+                            skipped += 1
+                            continue
+
+                        if args.dry_run:
+                            log("OK", f"[DRY-RUN] [{src}] Would download → {out_path}")
+                            episode_downloaded += 1
+                            continue
+
+                        try:
+                            success = download_episode(
+                                iso_date, url, out_path, args.cookies_browser, src
+                            )
+                        except FileNotFoundError:
+                            log("FAIL", "yt-dlp executable not found on PATH.")
+                            log("FAIL", "  Install with:  sudo apt install yt-dlp")
+                            log("FAIL", "            or:  pip install yt-dlp")
+                            return 1
+                        except Exception as exc:
+                            log("FAIL", f"{iso_date} [{src}]: unexpected error: {exc}")
+                            episode_failed += 1
+                            continue
+
+                        if success:
+                            episode_downloaded += 1
+                        else:
+                            episode_failed += 1
+                            broken_links += 1
+
+                    downloaded += episode_downloaded
+                    failed += episode_failed
+
+                log("DONE", "=" * 60)
+                log("DONE", f"Run complete for year={year}  months={month_label}  source=Fandom")
+                log("DONE", f"  Downloaded    : {downloaded}")
+                log("DONE", f"  Skipped       : {skipped}  (already on disk or no links)")
+                log("DONE", f"  No links found: {no_links}")
+                log("DONE", f"  Broken links  : {broken_links}")
+                log("DONE", f"  Failed        : {failed}")
+                log("DONE", f"  Total episodes: {total}")
+                log("DONE", "=" * 60)
+
+                grand_episodes += total
+                grand_downloaded += downloaded
+                grand_skipped += skipped
+                grand_failed += failed
+                grand_no_links += no_links
+                grand_broken += broken_links
+                if failed > 0:
+                    any_failed = True
+
+            else:
+                # ── Mixcloud / dawtrina path ───────────────────────────────────
+                try:
+                    episodes = fetch_episodes(year)
+                except Exception as exc:
+                    log("FAIL", f"Could not retrieve episode list: {exc}")
+                    any_failed = True
+                    continue
+
+                if not episodes:
+                    log("DONE", f"No episodes with Mixcloud links found for year {year}.")
+                    continue
+
+                if month_filter is not None:
+                    before = len(episodes)
+                    episodes = [
+                        (d, u)
+                        for d, u in episodes
+                        if datetime.fromisoformat(d).month == month_filter
+                    ]
+                    log(
+                        "PARSE",
+                        f"Month filter ({args.month}): {before} episode(s) → {len(episodes)} after filtering",
+                    )
+
+                if not episodes:
+                    log("DONE", f"No episodes found for year={year} month={args.month}.")
+                    continue
+
+                log("START", f"{len(episodes)} episode(s) to process")
+
+                if not args.dry_run:
+                    out_dir.mkdir(parents=True, exist_ok=True)
+                    log("START", f"Output directory ready: {out_dir}")
+
+                total = len(episodes)
+                downloaded = skipped = failed = 0
+
+                for idx, (iso_date, mixcloud_url) in enumerate(episodes, start=1):
+                    filename = f"FRS {iso_date}.mp3"
                     out_path = out_dir / filename
+
+                    log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
+                    log(f"DOWNLOAD {idx}/{total}", f"URL : {mixcloud_url}")
+                    log(f"DOWNLOAD {idx}/{total}", f"File: {out_path}")
 
                     if out_path.exists():
                         size_mb = out_path.stat().st_size / (1024 * 1024)
@@ -555,133 +666,67 @@ def main() -> int:
                         continue
 
                     if args.dry_run:
-                        log("OK", f"[DRY-RUN] [{src}] Would download → {out_path}")
-                        episode_downloaded += 1
+                        log("OK", f"[DRY-RUN] Would download → {out_path}")
+                        downloaded += 1
                         continue
 
                     try:
-                        success = download_episode(
-                            iso_date, url, out_path, args.cookies_browser, src
-                        )
+                        success = download_episode(iso_date, mixcloud_url, out_path, args.cookies_browser)
                     except FileNotFoundError:
                         log("FAIL", "yt-dlp executable not found on PATH.")
                         log("FAIL", "  Install with:  sudo apt install yt-dlp")
                         log("FAIL", "            or:  pip install yt-dlp")
                         return 1
                     except Exception as exc:
-                        log("FAIL", f"{iso_date} [{src}]: unexpected error: {exc}")
-                        episode_failed += 1
+                        log("FAIL", f"{iso_date}: unexpected error: {exc}")
+                        failed += 1
                         continue
 
                     if success:
-                        episode_downloaded += 1
+                        downloaded += 1
                     else:
-                        episode_failed += 1
-                        broken_links += 1
+                        failed += 1
 
-                downloaded += episode_downloaded
-                failed += episode_failed
+                log("DONE", "=" * 60)
+                log("DONE", f"Run complete for year={year}  months={month_label}")
+                log("DONE", f"  Downloaded : {downloaded}")
+                log("DONE", f"  Skipped    : {skipped}  (already on disk)")
+                log("DONE", f"  Failed     : {failed}")
+                log("DONE", f"  Total      : {total}")
+                log("DONE", "=" * 60)
 
-            log("DONE", "=" * 60)
-            log("DONE", f"Run complete for year={args.year}  months={month_label}  source=Fandom")
-            log("DONE", f"  Downloaded    : {downloaded}")
-            log("DONE", f"  Skipped       : {skipped}  (already on disk or no links)")
-            log("DONE", f"  No links found: {no_links}")
-            log("DONE", f"  Broken links  : {broken_links}")
-            log("DONE", f"  Failed        : {failed}")
-            log("DONE", f"  Total episodes: {total}")
-            log("DONE", "=" * 60)
+                grand_episodes += total
+                grand_downloaded += downloaded
+                grand_skipped += skipped
+                grand_failed += failed
+                if failed > 0:
+                    any_failed = True
 
-            return 0 if failed == 0 else 1
+        finally:
+            if _log_file is not None:
+                _log_file.close()
+                _log_file = None
 
-        # ── Mixcloud / dawtrina path ───────────────────────────────────────────
-        try:
-            episodes = fetch_episodes(args.year)
-        except Exception as exc:
-            log("FAIL", f"Could not retrieve episode list: {exc}")
-            return 1
+    # Grand total across all years (stdout only; per-year log files already closed)
+    if len(years) > 1:
+        year_range = ", ".join(str(y) for y in years)
+        print(f"[TOTAL] {'=' * 60}", flush=True)
+        print(f"[TOTAL] Grand total across {len(years)} year(s): {year_range}", flush=True)
+        if args.fandom:
+            print(f"[TOTAL]   Downloaded    : {grand_downloaded}", flush=True)
+            print(f"[TOTAL]   Skipped       : {grand_skipped}  (already on disk or no links)", flush=True)
+            print(f"[TOTAL]   No links found: {grand_no_links}", flush=True)
+            print(f"[TOTAL]   Broken links  : {grand_broken}", flush=True)
+            print(f"[TOTAL]   Failed        : {grand_failed}", flush=True)
+            print(f"[TOTAL]   Total episodes: {grand_episodes}", flush=True)
+        else:
+            print(f"[TOTAL]   Downloaded : {grand_downloaded}", flush=True)
+            print(f"[TOTAL]   Skipped    : {grand_skipped}  (already on disk)", flush=True)
+            print(f"[TOTAL]   Failed     : {grand_failed}", flush=True)
+            print(f"[TOTAL]   Total      : {grand_episodes}", flush=True)
+        print(f"[TOTAL] {'=' * 60}", flush=True)
 
-        if not episodes:
-            log("DONE", f"No episodes with Mixcloud links found for year {args.year}.")
-            return 0
-
-        if month_filter is not None:
-            before = len(episodes)
-            episodes = [
-                (d, u)
-                for d, u in episodes
-                if datetime.fromisoformat(d).month == month_filter
-            ]
-            log(
-                "PARSE",
-                f"Month filter ({args.month}): {before} episode(s) → {len(episodes)} after filtering",
-            )
-
-        if not episodes:
-            log("DONE", f"No episodes found for year={args.year} month={args.month}.")
-            return 0
-
-        log("START", f"{len(episodes)} episode(s) to process")
-
-        if not args.dry_run:
-            out_dir.mkdir(parents=True, exist_ok=True)
-            log("START", f"Output directory ready: {out_dir}")
-
-        total = len(episodes)
-        downloaded = 0
-        skipped = 0
-        failed = 0
-
-        for idx, (iso_date, mixcloud_url) in enumerate(episodes, start=1):
-            filename = f"FRS {iso_date}.mp3"
-            out_path = out_dir / filename
-
-            log(f"DOWNLOAD {idx}/{total}", f"Date: {iso_date}")
-            log(f"DOWNLOAD {idx}/{total}", f"URL : {mixcloud_url}")
-            log(f"DOWNLOAD {idx}/{total}", f"File: {out_path}")
-
-            if out_path.exists():
-                size_mb = out_path.stat().st_size / (1024 * 1024)
-                log("SKIP", f"Already exists ({size_mb:.1f} MB) — {out_path}")
-                skipped += 1
-                continue
-
-            if args.dry_run:
-                log("OK", f"[DRY-RUN] Would download → {out_path}")
-                downloaded += 1
-                continue
-
-            try:
-                success = download_episode(iso_date, mixcloud_url, out_path, args.cookies_browser)
-            except FileNotFoundError:
-                log("FAIL", "yt-dlp executable not found on PATH.")
-                log("FAIL", "  Install with:  sudo apt install yt-dlp")
-                log("FAIL", "            or:  pip install yt-dlp")
-                return 1
-            except Exception as exc:
-                log("FAIL", f"{iso_date}: unexpected error: {exc}")
-                failed += 1
-                continue
-
-            if success:
-                downloaded += 1
-            else:
-                failed += 1
-
-        log("DONE", "=" * 60)
-        log("DONE", f"Run complete for year={args.year}  months={month_label}")
-        log("DONE", f"  Downloaded : {downloaded}")
-        log("DONE", f"  Skipped    : {skipped}  (already on disk)")
-        log("DONE", f"  Failed     : {failed}")
-        log("DONE", f"  Total      : {total}")
-        log("DONE", "=" * 60)
-
-        return 0 if failed == 0 else 1
-
-    finally:
-        if _log_file is not None:
-            _log_file.close()
-            _log_file = None
+    return 0 if not any_failed else 1
 
 
 if __name__ == "__main__":
