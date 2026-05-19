@@ -11,20 +11,21 @@ export function BBCHeader() {
   return (
     <header className="shrink-0">
       {/* Blue show header */}
-      <div className="bg-[#003087] border-b-[6px] border-[#FFD700] px-6 py-5 flex items-center justify-between gap-4">
-        <div>
-          <h1 className="text-white font-black text-[clamp(1rem,3vw,2rem)] uppercase tracking-[2px] leading-none whitespace-nowrap">
-            The Friday Rock Show Revival
+      <div className="bg-[#003087] border-b-[6px] border-[#FFD700] px-4 md:px-6 py-4 md:py-5 flex items-center justify-between gap-3">
+        <div className="min-w-0 flex-1">
+          <h1 className="text-white font-black text-[clamp(1.2rem,5vw,2rem)] uppercase tracking-[2px] leading-none">
+            <span className="md:hidden">FRS Revival</span>
+            <span className="hidden md:inline">The Friday Rock Show Revival</span>
           </h1>
-          <p className="text-[#FFD700] text-[11px] font-bold tracking-[1px] mt-2">
+          <p className="text-[#FFD700] text-[11px] font-bold tracking-[1px] mt-2 leading-snug">
             On 275 and 285, the spirit of Tommy Vance lives on
           </p>
         </div>
         <Image
           src="/Radio1-275-285.jpg"
           alt="BBC Radio 1 — 275 285"
-          width={80}
-          height={80}
+          width={70}
+          height={70}
           className="shrink-0 object-contain"
           priority
         />
