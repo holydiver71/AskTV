@@ -123,7 +123,7 @@ export default async function EpisodeDetailPage({
                   Sessions
                 </h3>
                 <div className="flex-1 h-px bg-[#e0e0e0]" />
-                <span className="bg-[#003087] text-[#FFD700] text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
+                <span className="bg-[#003087] text-white text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
                   {episode.sessions.length}
                 </span>
               </div>
@@ -155,7 +155,7 @@ export default async function EpisodeDetailPage({
                   Track Listing
                 </h3>
                 <div className="flex-1 h-px bg-[#e0e0e0]" />
-                <span className="bg-[#003087] text-[#FFD700] text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
+                <span className="bg-[#003087] text-white text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
                   {episode.tracks.length}
                 </span>
               </div>
