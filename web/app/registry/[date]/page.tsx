@@ -52,8 +52,9 @@ export default async function EpisodeDetailPage({
           className="mt-6 mb-5 font-black leading-[0.9]"
           style={{ fontSize: "clamp(3rem, 8vw, 6rem)", letterSpacing: "-4px" }}
         >
-          <span className="block text-[#111]">{weekday},</span>
-          <span className="block text-[#CC0000]">{dayMonth}</span>
+          <span className="block text-[#111]">
+            {weekday}, <span className="text-[#CC0000]">{dayMonth}</span>
+          </span>
           <span
             className="block text-[#888]"
             style={{ fontSize: "0.45em", letterSpacing: "-1px" }}
