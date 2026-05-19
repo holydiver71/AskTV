@@ -18,7 +18,6 @@ const SUGGESTED_PROMPTS = [
   "What AC/DC session did Tommy play in 1980?",
   "When did Iron Maiden first appear on the Friday Rock Show?",
   "What tracks did Motörhead have in 1980?",
-  "Which bands had BBC sessions in the first half of 1980?",
 ];
 
 export default function ChatPage() {

@@ -38,7 +38,7 @@ export default function Home() {
 
       <div className="flex gap-3">
         <Link href="/chat" className={cn(buttonVariants({ size: "lg" }))}>Ask TV</Link>
-        <Link href="/registry" className={cn(buttonVariants({ variant: "outline", size: "lg" }))}>The Music Vendor</Link>
+        <Link href="/registry" className={cn(buttonVariants({ variant: "outline", size: "lg" }), "bg-[#003087] text-white border-[#003087] hover:bg-[#003087]/90 hover:text-white")}>The Music Vendor</Link>
       </div>
 
       <p className="text-xs text-[#003087] font-semibold">

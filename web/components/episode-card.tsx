@@ -36,10 +36,10 @@ export function EpisodeCard({
 
   return (
     <Link href={`/registry/${episode.date}`}>
-      <Card className="group relative h-full transition-colors duration-200 cursor-pointer overflow-hidden bg-background hover:bg-amber-50">
+      <Card className="group relative h-full transition-colors duration-200 cursor-pointer overflow-hidden bg-background hover:bg-[#003087]/5 border-l-[3px] border-l-[#003087]">
         {index != null && (
           <div
-            className="pointer-events-none absolute top-1 right-3 text-5xl sm:text-6xl font-extrabold text-muted-foreground/10 leading-none transition-colors group-hover:text-amber-400"
+            className="pointer-events-none absolute top-1 right-3 text-5xl sm:text-6xl font-extrabold text-muted-foreground/10 leading-none transition-colors group-hover:text-[#CC0000]"
             style={{ transform: `scale(${scale})`, transformOrigin: "right top" }}
           >
             {idxStr}
