@@ -50,7 +50,7 @@ export default async function EpisodeDetailPage({
         {/* Giant display date */}
         <div
           className="mt-6 mb-5 font-black leading-[0.9]"
-          style={{ fontSize: "clamp(3rem, 8vw, 6rem)", letterSpacing: "-4px" }}
+          style={{ fontSize: "clamp(2rem, 5vw, 3.5rem)", letterSpacing: "-2px" }}
         >
           <span className="block text-[#111]">
             {weekday}, <span className="text-[#CC0000]">{dayMonth}</span>
@@ -123,7 +123,7 @@ export default async function EpisodeDetailPage({
                   Sessions
                 </h3>
                 <div className="flex-1 h-px bg-[#e0e0e0]" />
-                <span className="bg-[#003087] text-[#FFD700] text-[9px] font-bold tracking-[2px] uppercase px-2.5 py-[3px]">
+                <span className="bg-[#003087] text-[#FFD700] text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
                   {episode.sessions.length}
                 </span>
               </div>
@@ -155,7 +155,7 @@ export default async function EpisodeDetailPage({
                   Track Listing
                 </h3>
                 <div className="flex-1 h-px bg-[#e0e0e0]" />
-                <span className="bg-[#003087] text-[#FFD700] text-[9px] font-bold tracking-[2px] uppercase px-2.5 py-[3px]">
+                <span className="bg-[#003087] text-[#FFD700] text-[13px] font-black tracking-normal px-3 py-1 min-w-[28px] text-center">
                   {episode.tracks.length}
                 </span>
               </div>
