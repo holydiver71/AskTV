@@ -97,8 +97,13 @@ export default async function EpisodeDetailPage({
 
         {/* Notice bar */}
         {episode.comments && episode.comments.length > 0 && (
-          <div className="inline-flex items-center gap-2 bg-[#FFD700] text-[#111] px-4 py-2.5 text-xs font-bold mb-10">
-            ⚠ {episode.comments.join(" · ")}
+          <div className="flex items-baseline gap-4 bg-[#FFD700] px-4 py-3 mb-10">
+            <span className="shrink-0 text-[9px] font-black tracking-[2px] uppercase text-[#003087]">
+              Archive Note
+            </span>
+            <span className="text-xs font-bold text-[#111]">
+              {episode.comments.join(" · ")}
+            </span>
           </div>
         )}
 
