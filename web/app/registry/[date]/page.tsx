@@ -95,24 +95,36 @@ export default async function EpisodeDetailPage({
           </div>
         </div>
 
-        {/* Notice bar */}
-        {episode.comments && episode.comments.length > 0 && (
-          <div className="flex items-baseline gap-4 bg-[#FFD700] px-4 py-3 mb-10">
-            <span className="shrink-0 text-[9px] font-black tracking-[2px] uppercase text-[#003087]">
-              Archive Note
-            </span>
-            <span className="text-xs font-bold text-[#111]">
-              {episode.comments.join(" · ")}
-            </span>
+        {/* Notice bar + Fandom link */}
+        {(episode.comments?.length > 0 || episode.url) && (
+          <div className="mb-10">
+            {episode.comments && episode.comments.length > 0 && (
+              <div className="flex items-baseline gap-4 bg-[#FFD700] px-4 py-3">
+                <span className="shrink-0 text-[9px] font-black tracking-[2px] uppercase text-[#003087]">
+                  Archive Note
+                </span>
+                <span className="text-xs font-bold text-[#111]">
+                  {episode.comments.join(" · ")}
+                </span>
+              </div>
+            )}
+            {episode.url && (
+              <div className="flex justify-end pt-1.5">
+                <a
+                  href={episode.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
+                >
+                  Fandom Wiki ↗
+                </a>
+              </div>
+            )}
           </div>
         )}
 
         {/* Heavy rule */}
-        <div
-          className={`h-1 bg-[#111] ${
-            episode.comments && episode.comments.length > 0 ? "" : "mt-10"
-          } mb-10`}
-        />
+        <div className="h-1 bg-[#111] mb-10" />
 
         {/* Two-column layout */}
         <div
@@ -222,19 +234,6 @@ export default async function EpisodeDetailPage({
           )}
         </div>
 
-        {/* Fandom link */}
-        {episode.url && (
-          <div className="mt-10 pt-6 border-t border-[#e0e0e0]">
-            <a
-              href={episode.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[10px] font-bold tracking-[3px] uppercase text-[#888] hover:text-[#CC0000] transition-colors"
-            >
-              Fandom Wiki ↗
-            </a>
-          </div>
-        )}
       </div>
 
       {/* Episode footer */}
