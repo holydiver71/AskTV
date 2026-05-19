@@ -87,7 +87,7 @@ export default function ReferencesPage() {
       {/* What's in the knowledge base */}
       <section className="mb-12">
         <SectionHead title="What's in the Knowledge Base" />
-        <div className="pl-5 border-l-4 border-[#CC0000] bg-[#fafafa] py-4 pr-5 space-y-3 text-sm text-[#444] leading-relaxed">
+        <div className="space-y-3 text-sm text-[#444] leading-relaxed">
           <p>
             The Ask Tommy knowledge base is built entirely from Tommy&apos;s own
             words — nothing more, nothing less. Episode metadata and audio was
@@ -105,12 +105,8 @@ export default function ReferencesPage() {
             home addresses on air — a wonderfully innocent pre-internet habit.
             Those addresses have been quietly removed. The towns and regions are
             kept (Tommy&apos;s shout-outs to Sutton Coldfield are sacred), but
-            specific house numbers and street names are replaced with{" "}
-            <code className="text-xs bg-[#003087] text-white px-1.5 py-0.5 font-mono">
-              [redacted address]
-            </code>
-            . The spirit of the dedications lives on; the stalker-enabling parts
-            do not.
+            specific house numbers and street names are redacted. The spirit
+            of the dedications lives on; the stalker-enabling parts do not.
           </p>
         </div>
       </section>
