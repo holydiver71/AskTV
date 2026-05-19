@@ -16,12 +16,12 @@ export default function Home() {
         The Friday Rock Show
       </h1>
 
-      <div className="relative w-56 h-72 sm:w-64 sm:h-80 md:w-72 md:h-96 rounded-xl overflow-hidden shadow-2xl ring-1 ring-white/10">
+      <div className="relative w-[202px] h-[259px] sm:w-64 sm:h-80 md:w-72 md:h-96 rounded-xl overflow-hidden shadow-2xl ring-1 ring-white/10">
         <Image
           src="/tommyvance.png"
           alt="Tommy Vance"
           fill
-          sizes="(max-width: 640px) 224px, (max-width: 768px) 256px, 288px"
+          sizes="(max-width: 640px) 202px, (max-width: 768px) 256px, 288px"
           className="object-cover object-top"
           priority
         />
