@@ -1,9 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { OpenAIProvider } from "@/lib/ai/openai-provider";
-import { matchTranscriptSegments } from "@/lib/db/retrieval";
+import { matchHybrid } from "@/lib/db/retrieval";
 import { shapeContextBlocks } from "@/lib/ai/context";
-import { extractCitations, formatCitation } from "@/lib/utils/citations";
+import {
+  extractCitations,
+  formatCitation,
+  formatMetadataCitation,
+} from "@/lib/utils/citations";
 
 const requestSchema = z.object({
   message: z.string().min(1).max(1000),
@@ -53,10 +57,10 @@ export async function POST(request: NextRequest) {
     // 1. Embed the user question.
     const embedding = await getProvider().embedQuery(message);
 
-    // 2. Retrieve the most relevant transcript segments.
+    // 2. Retrieve the most relevant transcript and metadata matches.
     let matches;
     try {
-        matches = await matchTranscriptSegments(embedding, 12, 0.35);
+        matches = await matchHybrid(embedding, 12, 0.35);
     } catch (err) {
       if (isMissingRetrievalFunctionError(err)) {
         return NextResponse.json(
@@ -122,7 +126,10 @@ function isQuotaError(err: unknown): boolean {
 
 function isMissingRetrievalFunctionError(err: unknown): boolean {
   if (!(err instanceof Error)) return false;
-  return err.message.includes("match_transcript_segments");
+  return (
+    err.message.includes("match_transcript_segments") ||
+    err.message.includes("match_hybrid")
+  );
 }
 
 function isProviderTimeoutError(err: unknown): boolean {
@@ -142,8 +149,8 @@ function isProviderTimeoutError(err: unknown): boolean {
 
 function ensureAnswerHasCitations(
   answer: string,
-  citations: Array<{ date: string; chunkStart: number; text: string; formatted: string }>,
-  context: Array<{ date: string; chunkStart: number; chunkEnd: number; text: string }>
+  citations: Array<{ date: string; chunkStart: number | null; text: string; formatted: string }>,
+  context: Array<{ date: string; chunkStart: number | null; chunkEnd: number | null; text: string; sourceType?: string }>
 ) {
   if (citations.length > 0) {
     return { answer, citations };
@@ -155,7 +162,13 @@ function ensureAnswerHasCitations(
 
   // Safety net: append up to two nearest context citations when the model
   // forgot to include inline citation markers.
-  const fallbackCitations = context.slice(0, 2).map((c) => formatCitation(c.date, c.chunkStart));
+  const fallbackCitations = context.slice(0, 2).map((c) => {
+    if (c.chunkStart !== null) {
+      return formatCitation(c.date, c.chunkStart);
+    }
+    const sourceType = c.sourceType === "session" ? "session" : "track";
+    return formatMetadataCitation(c.date, sourceType);
+  });
   const answerWithCitations = `${answer.trim()} ${fallbackCitations.join(" ")}`.trim();
   const extracted = extractCitations(answerWithCitations, context);
 

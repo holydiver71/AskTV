@@ -52,3 +52,21 @@ export type SegmentMatch = {
   date: string;         // joined from episodes
   similarity: number;
 };
+
+/** Source of a retrieved knowledge chunk. */
+export type SourceType = "transcript" | "track" | "session";
+
+/**
+ * Unified retrieval match returned by the match_hybrid RPC function.
+ * chunk_start / chunk_end are null for metadata rows that have no timestamp.
+ */
+export type UnifiedMatch = {
+  id: string;
+  episode_id: string;
+  source_type: SourceType;
+  chunk_start: number | null;
+  chunk_end: number | null;
+  text: string;
+  date: string;
+  similarity: number;
+};

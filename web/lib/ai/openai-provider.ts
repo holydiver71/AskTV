@@ -34,10 +34,24 @@ export class OpenAIProvider implements AIProvider {
     const contextText =
       context.length > 0
         ? context
-            .map(
-              (c) =>
-                `[${c.date} @ ${formatTimestamp(c.chunkStart)}]\n${c.text}`
-            )
+            .map((c) => {
+              const sourceType = c.sourceType ?? "transcript";
+              if (sourceType === "transcript") {
+                const ts = c.chunkStart !== null
+                  ? formatTimestamp(c.chunkStart)
+                  : "??:??:??";
+                return `[TRANSCRIPT ${c.date} @ ${ts}]\n${c.text}`;
+              }
+              if (sourceType === "track") {
+                const label =
+                  c.chunkStart !== null
+                    ? `TRACK LISTING ${c.date} @ ${formatTimestamp(c.chunkStart)}`
+                    : `TRACK LISTING ${c.date}`;
+                return `[${label}]\n${c.text}`;
+              }
+              // session
+              return `[SESSION ${c.date}]\n${c.text}`;
+            })
             .join("\n\n---\n\n")
         : "(No archive context found for this query.)";
 
