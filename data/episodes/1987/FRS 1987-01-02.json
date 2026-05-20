@@ -1,0 +1,33 @@
+{
+  "title": "FRS 1987-01-02",
+  "url": "https://fridayrockshow.fandom.com/wiki/02_January_1987",
+  "show": {
+    "date": "1987-01-02",
+    "comments": [
+      "90 minutes of the show, with the beginning and middle edited out."
+    ]
+  },
+  "sessions": [],
+  "track_listing": [
+    {
+      "artist": "Iron Maiden",
+      "track": "Caught Somewhere In Time",
+      "details": "LP-Somewhere In Time; EMI"
+    },
+    {
+      "artist": "Sword",
+      "track": "Stoned Again",
+      "details": "LP-Metalized; GWR"
+    },
+    {
+      "artist": "Hearn' Aid",
+      "track": "Stars (Extended Version)",
+      "details": "12\"; Vertigo"
+    },
+    {
+      "artist": null,
+      "track": "tape edit",
+      "details": null
+    }
+  ]
+}

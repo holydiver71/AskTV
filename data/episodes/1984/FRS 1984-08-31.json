@@ -1,0 +1,89 @@
+{
+  "title": "FRS 1984-08-31",
+  "url": "https://fridayrockshow.fandom.com/wiki/31_August_1984",
+  "show": {
+    "date": "1984-08-31",
+    "comments": [
+      "Incomplete show, missing at least the Pink Floyd in concert tracks",
+      "Some tracks at the end of the tape are from the 17th August 1984 show."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "None",
+      "details": "tonight"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Iron Maiden",
+      "track": "‘Flash Of The Blade’",
+      "details": "LP - Powerslave"
+    },
+    {
+      "artist": "Iron Maiden",
+      "track": "‘The Duellists’",
+      "details": "LP - Powerslave"
+    },
+    {
+      "artist": "Robert Plant",
+      "track": "‘Burning Down One Side’",
+      "details": "LP - Pictures At Eleven"
+    },
+    {
+      "artist": "Money",
+      "track": "‘Starmaker’",
+      "details": "LP - Trust Me"
+    },
+    {
+      "artist": null,
+      "track": "Possible missing track",
+      "details": null
+    },
+    {
+      "artist": "Perennial",
+      "track": "‘Caught In The Ruts’",
+      "details": "LP - In My Dreams"
+    },
+    {
+      "artist": "Elf",
+      "track": "‘Black Swampy Water’",
+      "details": "LP - Trying To Burn The Sun"
+    },
+    {
+      "artist": "Dio",
+      "track": "‘Breathless’",
+      "details": "LP - The Last In Line"
+    },
+    {
+      "artist": null,
+      "track": "Tape Flip silence then into intro of…",
+      "details": null
+    },
+    {
+      "artist": "Jack Starr",
+      "track": "‘Scorcher / Wild In The Streets’",
+      "details": "LP - Out Of The Darkness"
+    },
+    {
+      "artist": "KISS",
+      "track": "‘Heaven’s On Fire’",
+      "details": "LP - Animalize"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Tape fades out, then fades back part way through…",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "The rest of the following tracks are from the FRS of 17 August 1984 (dated by the answers to the preceding week’s Friday Night Connection)",
+      "details": null
+    }
+  ]
+}

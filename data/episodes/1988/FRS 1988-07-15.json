@@ -1,0 +1,43 @@
+{
+  "title": "FRS 1988-07-15",
+  "url": "https://fridayrockshow.fandom.com/wiki/15_July_1988",
+  "show": {
+    "date": "1988-07-15",
+    "comments": [
+      "A Jethro Tull special celebrating 20 years."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": null,
+      "details": "None"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Slayer",
+      "track": "South Of Heaven",
+      "details": "LP-South Of Heaven; Def Jam"
+    },
+    {
+      "artist": "Slayer",
+      "track": "Silent Scream",
+      "details": "LP-South Of Heaven; Def Jam"
+    },
+    {
+      "artist": "Whitesnake",
+      "track": "Walking In The Shadow Of The Blues",
+      "details": "LP-Lovehunter; United Artists"
+    },
+    {
+      "artist": "Uriah Heep",
+      "track": "July Morning",
+      "details": "2xLP-Uriah Heep Live; Bronze"
+    },
+    {
+      "artist": "Van Halen",
+      "track": "'When It's Love (LP-OU812)' (Warner Brothers)",
+      "details": null
+    }
+  ]
+}

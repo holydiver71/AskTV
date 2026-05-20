@@ -1,0 +1,43 @@
+{
+  "title": "FRS 1991-08-23",
+  "url": "https://fridayrockshow.fandom.com/wiki/23_August_1991",
+  "show": {
+    "date": "1991-08-23",
+    "comments": [
+      "Session artist for this show came from Ark, consisting of Steve Harris (guitar synthesiser), Pete Wheatley (guitar), Gel Newey (bass), Paul Rodgers (drums) and Ant Short (vocals, flute)"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Ark",
+      "details": "Recorded: 1991-07-12."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Ark",
+      "track": "Train",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Ark",
+      "track": "Cover Me With Rain",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Ark",
+      "track": "Message To The World",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Ark",
+      "track": "Celebrate",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Ark",
+      "track": "Scientific Jingle",
+      "details": "FRS session"
+    }
+  ]
+}

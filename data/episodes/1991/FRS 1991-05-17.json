@@ -1,0 +1,38 @@
+{
+  "title": "FRS 1991-05-17",
+  "url": "https://fridayrockshow.fandom.com/wiki/17_May_1991",
+  "show": {
+    "date": "1991-05-17",
+    "comments": [
+      "Only the session with TV links are available on the audio."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Burlesque",
+      "details": "recorded 1991-04-19"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Burlesque",
+      "track": "Friends",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Burlesque",
+      "track": "Say It's Alright",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Burlesque",
+      "track": "The Man In Me",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Burlesque",
+      "track": "Branded",
+      "details": "FRS session"
+    }
+  ]
+}

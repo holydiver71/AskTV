@@ -1,0 +1,107 @@
+{
+  "title": "FRS 1983-08-19",
+  "url": "https://fridayrockshow.fandom.com/wiki/19_August_1983",
+  "show": {
+    "date": "1983-08-19",
+    "comments": [
+      "The recording is the complete show with some tracks edit out but Tommy's announcements still included, the missing tracks are all referenced. The tracks from the Connection are also missing, but the answer to the previous weeks connection is given."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Accept",
+      "details": "1. Recorded: 1983-07-03"
+    },
+    {
+      "artist": "Brand X",
+      "details": "Recorded for John Peel's show: 1976-07-15"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "AC/DC",
+      "track": "Flick Of The Switch (album - Flick Of The Switch) Atlantic",
+      "details": null
+    },
+    {
+      "artist": "Boston",
+      "track": "Foreplay/Longtime (album - Boston) Epic",
+      "details": null
+    },
+    {
+      "artist": "Accept",
+      "track": "Flash Rocking Man",
+      "details": "FRS session"
+    },
+    {
+      "artist": "ZZ Top",
+      "track": "Sharp Dressed Man",
+      "details": "Edited out"
+    },
+    {
+      "artist": "Genesis",
+      "track": "Mama",
+      "details": "Single"
+    },
+    {
+      "artist": "Brand X",
+      "track": "Why Should I Lend You Mine (Peel session) (edited out)",
+      "details": null
+    },
+    {
+      "artist": "Accept",
+      "track": "Fast As A Shark",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Loverboy",
+      "track": "Passion Pit",
+      "details": "edited out"
+    },
+    {
+      "artist": "Dio",
+      "track": "Straight Through The Heart",
+      "details": null
+    },
+    {
+      "artist": "Diamond Head",
+      "track": "Making Music",
+      "details": "edited out"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection Answer to last weeks but all tracks not played.",
+      "details": null
+    },
+    {
+      "artist": "Accept",
+      "track": "Princess Of The Dawn",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Little Steven And The Disciples Of Soul",
+      "track": "Solidarity",
+      "details": null
+    },
+    {
+      "artist": "Brand X",
+      "track": "Malaga Virgin",
+      "details": "Peel session"
+    },
+    {
+      "artist": "Status Quo",
+      "track": "Ol' Rag Blues",
+      "details": "Single"
+    },
+    {
+      "artist": "Y&T",
+      "track": "Straight Through The Heart (album - Mean Streak) A&M",
+      "details": null
+    },
+    {
+      "artist": "Accept",
+      "track": "Son Of A Bitch",
+      "details": "FRS session"
+    }
+  ]
+}

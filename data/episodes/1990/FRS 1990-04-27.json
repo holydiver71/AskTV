@@ -1,0 +1,121 @@
+{
+  "title": "FRS 1990-04-27",
+  "url": "https://fridayrockshow.fandom.com/wiki/27_April_1990",
+  "show": {
+    "date": "1990-04-27",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "Tommy announces that Radio 1 will be broadcasting the entire Monsters of Rock festival on 18th August live and lists the bands playing. More information about that broadcast (and links to recordings), which was presented by Tommy, Richard Skinner and Mick Wall, can be found on this special Donington 1990 page.",
+      "This show includes four tracks from Giant that were recorded live at Edwards No 8 in Birmingham, but were broadcast in two pairs of two as if they were a session, a word Tommy also uses at the end of the show.",
+      "The Rock War on the show was a final, so the winner from those three got a guaranteed session. Tortoise Corpse won, beating Artisan (second) and Panama (third)."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Giant",
+      "details": "1. Recorded: 1990-03-13"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Raging Slab",
+      "track": "Don't Dog Me",
+      "details": null
+    },
+    {
+      "artist": "Cross",
+      "track": "Power to Love",
+      "details": null
+    },
+    {
+      "artist": "Black Crowes",
+      "track": "Thick n' Thin",
+      "details": null
+    },
+    {
+      "artist": "Love/Hate",
+      "track": "Blackout in the Red Room",
+      "details": null
+    },
+    {
+      "artist": "Giant",
+      "track": "I Can't Get Close Enough",
+      "details": "live"
+    },
+    {
+      "artist": "Giant",
+      "track": "It Takes Two",
+      "details": "live"
+    },
+    {
+      "artist": "Yngwie Malmsteen",
+      "track": "Making Love",
+      "details": "Edit"
+    },
+    {
+      "artist": "Dio",
+      "track": "Born On The Sun",
+      "details": null
+    },
+    {
+      "artist": "Y&T",
+      "track": "Go For The Throat",
+      "details": "live"
+    },
+    {
+      "artist": "Tortoise Corpse",
+      "track": "We Kill (demo) (Rock War Act)",
+      "details": null
+    },
+    {
+      "artist": "Artisan",
+      "track": "Reach Out (demo) (Rock War Act)",
+      "details": null
+    },
+    {
+      "artist": "Panama",
+      "track": "Rocks Off (demo) (Rock War Act)",
+      "details": null
+    },
+    {
+      "artist": "Sanctuary",
+      "track": "Mirror Black",
+      "details": null
+    },
+    {
+      "artist": "Slaughter",
+      "track": "Burning Bridges",
+      "details": null
+    },
+    {
+      "artist": "Riff",
+      "track": "No Mercy",
+      "details": null
+    },
+    {
+      "artist": "Gamma Ray",
+      "track": "Space Eater",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Giant",
+      "track": "Stranger to Me",
+      "details": "live"
+    },
+    {
+      "artist": "Giant",
+      "track": "No Way Out",
+      "details": "live"
+    },
+    {
+      "artist": "Tigertailz",
+      "track": "Love Overload",
+      "details": null
+    }
+  ]
+}

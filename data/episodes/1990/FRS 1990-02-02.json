@@ -1,0 +1,72 @@
+{
+  "title": "FRS 1990-02-02",
+  "url": "https://fridayrockshow.fandom.com/wiki/02_February_1990",
+  "show": {
+    "date": "1990-02-02",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "First broadcast of a session by Rock War winners China White, who won their final on 24 November 1989.",
+      "The Rock War features Predator from Birmingham, High Treason from St. Ives and Sweet Sin from Manchester. Sweet Sin won, with High Treason second and Predator third.",
+      "Interview with Fish, who was in Rome on a promotional tour.",
+      "Date confirmed by the Rock War. Tommy mentions at the beginning that this is Round 2 Week 1, which means 02 February 1990. That's backed up by Sweet Sin being on the final three weeks later on 23 February 1990."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "China White",
+      "details": "one and only. Recorded: 1990-01-05. No known commercial release."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Saxon",
+      "track": "'This Town Rocks (LP-Rock 'N Roll Gypsies)' (Enigma)",
+      "details": null
+    },
+    {
+      "artist": "Vow Wow",
+      "track": "Rock Me Now",
+      "details": "7\"; Arista"
+    },
+    {
+      "artist": "Little Angels",
+      "track": "Kicking Up Dust",
+      "details": "7\"; Polydor"
+    },
+    {
+      "artist": null,
+      "track": "Commercial proudly proclaiming that Radio 1 is commercial free",
+      "details": null
+    },
+    {
+      "artist": "China White",
+      "track": "Live The Nightmare",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Mortal Sin",
+      "track": "I Am Immortal",
+      "details": "LP-Face Of Despair; Vertigo"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "track": "Mr. Brownstone",
+      "details": "LP-Appetite For Destruction; Geffen"
+    },
+    {
+      "artist": null,
+      "track": "trailer for Saturday Sequence",
+      "details": null
+    },
+    {
+      "artist": "Faith No More",
+      "track": "Epic",
+      "details": "LP-The Real Thing; Slash/London"
+    },
+    {
+      "artist": "China White",
+      "track": "Cry Freedom",
+      "details": "FRS Session"
+    }
+  ]
+}

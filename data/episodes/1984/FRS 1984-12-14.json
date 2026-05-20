@@ -1,0 +1,39 @@
+{
+  "title": "FRS 1984-12-14",
+  "url": "https://fridayrockshow.fandom.com/wiki/14_December_1984",
+  "show": {
+    "date": "1984-12-14",
+    "comments": []
+  },
+  "sessions": [
+    {
+      "artist": "Phil Lynott And Grand Slam",
+      "details": "recorded at the Kerrang Weekender in Caister October 1984."
+    },
+    {
+      "artist": "Spider",
+      "details": "recorded at the Kerrang Weekender in Caister October 1984."
+    },
+    {
+      "artist": "Motorhead",
+      "details": "recorded at the Kerrang Weekender in Caister October 1984."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Phil Lynott And Grand Slam",
+      "track": "Recorded at the Kerrang Weekender in Caister",
+      "details": null
+    },
+    {
+      "artist": "Spider",
+      "track": "Recorded at the Kerrang Weekender in Caister",
+      "details": null
+    },
+    {
+      "artist": "Motorhead",
+      "track": "Recorded at the Kerrang Weekender in Caister",
+      "details": null
+    }
+  ]
+}

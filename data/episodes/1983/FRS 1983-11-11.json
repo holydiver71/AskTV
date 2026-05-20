@@ -1,0 +1,50 @@
+{
+  "title": "FRS 1983-11-11",
+  "url": "https://fridayrockshow.fandom.com/wiki/11_November_1983",
+  "show": {
+    "date": "1983-11-11",
+    "comments": [
+      "Complete show",
+      "Features ZZ Top live at Monsters Of Rock 1983",
+      "Next week's show is the 5th birthday special."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Pretty Things: Recorded 17th December 1974 in Maida Vale 4 produced by Tony Wilson",
+      "details": "First broadcast on John Peel Show 6th January 1975."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Yes",
+      "track": "Hold On (LP - 90125) ATCO",
+      "details": null
+    },
+    {
+      "artist": "Yes",
+      "track": "It Can Happen (LP - 90125) ATCO",
+      "details": null
+    },
+    {
+      "artist": "Heavy Pettin",
+      "track": "Rock Me (7\") Polydor",
+      "details": null
+    },
+    {
+      "artist": "AC/DC",
+      "track": "Hell Ain't A Bad Place To Be (LP - Let There Be Rock) ATCO",
+      "details": null
+    },
+    {
+      "artist": "Pretty Things",
+      "track": "Bride Of God",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Pretty Things",
+      "track": "Silk Torpedo",
+      "details": "FRS session"
+    }
+  ]
+}

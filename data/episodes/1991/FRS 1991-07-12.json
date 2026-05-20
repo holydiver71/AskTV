@@ -1,0 +1,55 @@
+{
+  "title": "FRS 1991-07-12",
+  "url": "https://fridayrockshow.fandom.com/wiki/12_July_1991",
+  "show": {
+    "date": "1991-07-12",
+    "comments": [
+      "TV mentions at the beginning of the show that there will be Crash 'N Burn, Extreme, Anthrax, Almighty, Wolfsbane, Almighty, Pantera, L.A. Guns, White Trash, Alice Cooper, Faith No More and more.",
+      "TV says that Extreme's More Than Words is number 1 in the American singles chart.",
+      "Audio clips of the show are available on the Radio Rewind site."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Throbs",
+      "details": "1. Recorded at the Hammersmith Odeon"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Metallica",
+      "track": "Harvester Of Sorrow (album - ...And Justice For All) Elektra",
+      "details": null
+    },
+    {
+      "artist": "Dare",
+      "track": "We Don't Need A Reason (single) A&M",
+      "details": null
+    },
+    {
+      "artist": "Alice Cooper",
+      "track": "Burning Our Bed (album - Hey Stoopid) Epic",
+      "details": null
+    },
+    {
+      "artist": "Faith No More",
+      "track": "The Perfect Crime (v/a album - Bill & Ted's Bogus Journey) Interscope",
+      "details": null
+    },
+    {
+      "artist": "Crash N' Burn",
+      "track": "Ride The Rainbow (album - Fever) RCA",
+      "details": null
+    },
+    {
+      "artist": "Anthrax",
+      "track": "Milk (Ode To Billy) (album - Attack Of The Killer B's) Island",
+      "details": null
+    },
+    {
+      "artist": "Extreme",
+      "track": "More Than Words (single) A&M",
+      "details": null
+    }
+  ]
+}

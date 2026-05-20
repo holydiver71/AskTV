@@ -360,11 +360,15 @@ def fetch_fandom_episodes(
 def download_episode(
     iso_date: str,
     url: str,
-    out_path: Path,
+    out_path: Path | str,
     cookies_browser: str | None,
     source_label: str = "",
+    no_overwrites: bool = False,
 ) -> bool:
     """Run yt-dlp to download *url* as MP3 to *out_path*.
+
+    *out_path* may be a concrete Path or a yt-dlp output template string
+    (e.g. ``/some/dir/%(title)s.%(ext)s``).
 
     Returns True on success, False on failure.
     Raises FileNotFoundError if yt-dlp is not on PATH.
@@ -376,6 +380,8 @@ def download_episode(
         "--no-playlist",
         "-o", str(out_path),
     ]
+    if no_overwrites:
+        cmd.append("--no-overwrites")
     if cookies_browser:
         cmd += ["--cookies-from-browser", cookies_browser]
     cmd.append(url)
@@ -385,7 +391,8 @@ def download_episode(
     result = subprocess.run(cmd, capture_output=True, text=True)
 
     if result.returncode == 0:
-        size_mb = out_path.stat().st_size / (1024 * 1024) if out_path.exists() else 0.0
+        resolved = Path(str(out_path))
+        size_mb = resolved.stat().st_size / (1024 * 1024) if resolved.exists() else 0.0
         source_tag = f" [{source_label}]" if source_label else ""
         log("OK", f"Saved → {out_path}  ({size_mb:.1f} MB){source_tag}")
         return True
@@ -534,8 +541,9 @@ def main() -> int:
                     continue
 
                 log("START", f"{total} episode(s) to process")
+                fandom_out_dir = out_dir / "fandom"
                 if not args.dry_run:
-                    out_dir.mkdir(parents=True, exist_ok=True)
+                    fandom_out_dir.mkdir(parents=True, exist_ok=True)
 
                 downloaded = skipped = failed = no_links = broken_links = 0
 
@@ -553,27 +561,21 @@ def main() -> int:
                     for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
                         log(f"DOWNLOAD {idx}/{total}", f"File {file_idx}: {src}  → {url}")
 
-                    multi = len(source_url_pairs) > 1
                     episode_downloaded = episode_failed = 0
 
                     for file_idx, (src, url) in enumerate(source_url_pairs, start=1):
-                        filename = f"FRS {iso_date} ({file_idx}).mp3" if multi else f"FRS {iso_date}.mp3"
-                        out_path = out_dir / filename
-
-                        if out_path.exists():
-                            size_mb = out_path.stat().st_size / (1024 * 1024)
-                            log("SKIP", f"Already exists ({size_mb:.1f} MB) — {out_path}")
-                            skipped += 1
-                            continue
+                        # Use yt-dlp's %(title)s template so the source filename is preserved.
+                        out_template = str(fandom_out_dir / "%(title)s.%(ext)s")
 
                         if args.dry_run:
-                            log("OK", f"[DRY-RUN] [{src}] Would download → {out_path}")
+                            log("OK", f"[DRY-RUN] [{src}] Would download → {out_template}")
                             episode_downloaded += 1
                             continue
 
                         try:
                             success = download_episode(
-                                iso_date, url, out_path, args.cookies_browser, src
+                                iso_date, url, out_template, args.cookies_browser, src,
+                                no_overwrites=True,
                             )
                         except FileNotFoundError:
                             log("FAIL", "yt-dlp executable not found on PATH.")

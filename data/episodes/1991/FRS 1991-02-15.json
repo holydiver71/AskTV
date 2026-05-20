@@ -1,0 +1,38 @@
+{
+  "title": "FRS 1991-02-15",
+  "url": "https://fridayrockshow.fandom.com/wiki/15_February_1991",
+  "show": {
+    "date": "1991-02-15",
+    "comments": [
+      "Only the session with TV links are available on the audio."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Taliesin",
+      "details": "recorded 1991-01-25"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Taliesin",
+      "track": "Taliesin",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Taliesin",
+      "track": "Twice Born",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Taliesin",
+      "track": "Die By The Sword",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Taliesin",
+      "track": "From A Distant World",
+      "details": "FRS session"
+    }
+  ]
+}

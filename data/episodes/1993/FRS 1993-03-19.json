@@ -1,0 +1,34 @@
+{
+  "title": "FRS 1993-03-19",
+  "url": "https://fridayrockshow.fandom.com/wiki/19_March_1993",
+  "show": {
+    "date": "1993-03-19",
+    "comments": [
+      "12 minutes from the show featuring Venom, part of a Chase session and TV introducing the putting our house in order project - from which he plays Thunder.",
+      "There is some silences in the audio."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Chase",
+      "details": "(repeated session)"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Venom",
+      "track": "Warhead (album - The Best Of Venom - In Memorium) Music Club",
+      "details": null
+    },
+    {
+      "artist": "Chase",
+      "track": "Fight",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Thunder",
+      "track": "Gimme Shelter (v/a album - Gimme Shelter) Food",
+      "details": null
+    }
+  ]
+}

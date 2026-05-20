@@ -1,0 +1,38 @@
+{
+  "title": "FRS 1991-07-05",
+  "url": "https://fridayrockshow.fandom.com/wiki/05_July_1991",
+  "show": {
+    "date": "1991-07-05",
+    "comments": [
+      "Only the session tracks are available"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "State Of Shock",
+      "details": "1. Recorded: 1991-06-14"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "State Of Shock",
+      "track": "Walls Of Fear",
+      "details": "FRS session"
+    },
+    {
+      "artist": "State Of Shock",
+      "track": "Summer Fate",
+      "details": "FRS session"
+    },
+    {
+      "artist": "State Of Shock",
+      "track": "Lucid Sleep",
+      "details": "FRS session"
+    },
+    {
+      "artist": "State Of Shock",
+      "track": "Dead End Maze",
+      "details": "FRS session"
+    }
+  ]
+}

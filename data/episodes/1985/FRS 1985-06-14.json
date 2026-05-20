@@ -1,0 +1,54 @@
+{
+  "title": "FRS 1985-06-14",
+  "url": "https://fridayrockshow.fandom.com/wiki/14_June_1985",
+  "show": {
+    "date": "1985-06-14",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "This show listing is not complete, as it's missing most of it.",
+      "Tommy announces there is a good chance that Fish will be in the studio for next Thursday's Into The Music show and invites listeners to write in with questions for Fish."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Lyin' Rampant",
+      "details": "one and only. Recorded: unknown. No known commercial release."
+    },
+    {
+      "artist": "Pet Hate",
+      "details": "one and only (rpt). Recorded: 1985-03-08. Broadcast: 12 April 1985. No known commercial release."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Ratt",
+      "track": "Lay It Down",
+      "details": "12\"; Atlantic"
+    },
+    {
+      "artist": "Lyin' Rampant",
+      "track": "Time Again",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Pet Hate",
+      "track": "Cry Of The Wild",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Marillion",
+      "track": "Blind Curve",
+      "details": "LP-Misplaced Childhood; EMI"
+    },
+    {
+      "artist": "Trash",
+      "track": "'Rock Me...Rock You! (LP-Burnin' Rock)' (Atlantic)",
+      "details": null
+    },
+    {
+      "artist": "Pet Hate",
+      "track": "Love Me Madly",
+      "details": "FRS Session"
+    }
+  ]
+}

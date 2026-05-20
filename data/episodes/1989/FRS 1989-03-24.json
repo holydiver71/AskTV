@@ -1,0 +1,52 @@
+{
+  "title": "FRS 1989-03-24",
+  "url": "https://fridayrockshow.fandom.com/wiki/24_March_1989",
+  "show": {
+    "date": "1989-03-24",
+    "comments": [
+      "File is an incomplete show"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Vixen: Live At The Hammersmith Odeon",
+      "details": "First Recorded: 1989-02-18"
+    },
+    {
+      "artist": "Scorpions: Live At The Hammersmith Odeon",
+      "details": "First Recorded: 1989-02-18"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Van Halen",
+      "track": "Feels So Good (7\") Warner Brothers",
+      "details": null
+    },
+    {
+      "artist": "Dickey Betts Band",
+      "track": "Time To Roll (LP - Pattern Disruptive) Epic",
+      "details": null
+    },
+    {
+      "artist": "Kingdom Come",
+      "track": "Gotta Go (LP - In Your Face) Polydor",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Alan Freeman's Rock Show promo",
+      "details": null
+    },
+    {
+      "artist": "Johnny Diesel & The Injectors",
+      "track": "Soul Revival (7\") Chrysalis",
+      "details": null
+    },
+    {
+      "artist": "Gary Moore",
+      "track": "Empty Rooms (LP - Victims Of The Future) 10 Records",
+      "details": null
+    }
+  ]
+}

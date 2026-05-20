@@ -1,0 +1,41 @@
+{
+  "title": "FRS 1987-04-03",
+  "url": "https://fridayrockshow.fandom.com/wiki/03_April_1987",
+  "show": {
+    "date": "1987-04-03",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "Live: Crimson Glory, Metal Church and Anthrax from the Hammersmith Odeon 15 Feb 1987.",
+      "Date confirmed: news after the show reports on the sale of the Duchess of Windsor's jewellery by Sotheby's on 2 Apr 1987.",
+      "Tommy announces that Flotsam and Jetsam and Megadeth will be broadcast on 24 Apr 1987."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Crimson Glory",
+      "details": "Metal Church and Anthrax performances from the Hammersmith Odeon. 'I Am The Law' and 'Madhouse' available on 7\"-I Am The Law (Island)."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": null,
+      "track": "Crimson Glory. Recorded at Hammersmith on 15 February 1987",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Metal Church. Recorded at Hammersmith on 15 February 1987",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Anthrax. Recorded at Hammersmith on 15 February 1987",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "news",
+      "details": null
+    }
+  ]
+}

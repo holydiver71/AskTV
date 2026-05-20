@@ -12,5 +12,5 @@
     "tsBuildInfoFile": "node_modules/.cache/tsbuildinfo"
   },
   "include": ["web/**/*", "scripts/**/*"],
-  "exclude": ["node_modules", "dist", "build"]
+  "exclude": ["node_modules", "dist", "build", "**/*.config.*"]
 }

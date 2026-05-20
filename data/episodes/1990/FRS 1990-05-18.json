@@ -1,0 +1,53 @@
+{
+  "title": "FRS 1990-05-18",
+  "url": "https://fridayrockshow.fandom.com/wiki/18_May_1990",
+  "show": {
+    "date": "1990-05-18",
+    "comments": [
+      "The audio has the first 36 minutes of the show."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Sian",
+      "details": "1. Recorded: 1989-11-24. First Broadcast: 12 January 1990"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Bonham",
+      "track": "Wait For You (7\") Epic",
+      "details": null
+    },
+    {
+      "artist": "Fastway",
+      "track": "Big Bad Girls (7\") Legacy",
+      "details": null
+    },
+    {
+      "artist": "No Sweat",
+      "track": "Lean On Me (LP - No Sweat) London",
+      "details": null
+    },
+    {
+      "artist": "Saracen",
+      "track": "Crusader (LP - Heroes, Saints & Fools) Nucleus",
+      "details": null
+    },
+    {
+      "artist": "Sian",
+      "track": "Loser In Love",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Dio",
+      "track": "Hey Angel (LP - Lock Up The Wolves) Reprise",
+      "details": null
+    },
+    {
+      "artist": "Dio",
+      "track": "Walk On Water (LP - Lock Up The Wolves) Reprise",
+      "details": null
+    }
+  ]
+}

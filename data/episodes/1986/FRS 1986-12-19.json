@@ -1,0 +1,96 @@
+{
+  "title": "FRS 1986-12-19",
+  "url": "https://fridayrockshow.fandom.com/wiki/19_December_1986",
+  "show": {
+    "date": "1986-12-19",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "This show listing is not complete, as it's missing the second hour.",
+      "Intro mentions tracks by Raw Power, Hexx, Krokus, Detente, Led Zeppelin, Deep Switch and Manowar.",
+      "\"Right mate, it's the last rocking night before Christmas, and I'm going to take this opportunity to fill your stocking till it bursts at the seams. Talking of stockings, tonight we have a repeat of the latest session by Girlschool.\""
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Girlschool",
+      "details": "#2 (rpt). Recorded: 1986-10-17. First TX: 14 November 1986. No known commercial release."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Brighton Rock",
+      "track": "Young, Wild And Free",
+      "details": "LP-Young, Wild And Free; WEA"
+    },
+    {
+      "artist": "Ted Nugent",
+      "track": "Snakeskin Cowboys",
+      "details": "2xLP-Anthology; Raw Power"
+    },
+    {
+      "artist": "Madison",
+      "track": "'Can't Take It (LP-Best In Show)' (Sonet)",
+      "details": null
+    },
+    {
+      "artist": "Diamond Rexx",
+      "track": "All I Need",
+      "details": "LP-Land Of The Damned; Island"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Death On Two Legs",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Castle Blak",
+      "track": "Glory Hole",
+      "details": "LP-Another Dark Carnival; Stiff Kitten"
+    },
+    {
+      "artist": null,
+      "track": "Ian Dury / Steve Wright AIDS awareness sweeper",
+      "details": null
+    },
+    {
+      "artist": "Outlaws",
+      "track": "'Devil's Road (LP-On The Run Again)' (Raw Power)",
+      "details": null
+    },
+    {
+      "artist": "Billy Squier",
+      "track": "Break The Silence",
+      "details": "LP-Enough Is Enough; Capitol"
+    },
+    {
+      "artist": "Cryptic Slaughter",
+      "track": "Lowlife",
+      "details": "LP-Convicted; Death / Metal Blade"
+    },
+    {
+      "artist": "Pantera",
+      "track": "Daughters Of The Queen",
+      "details": "LP-I Am The Night; Metal Magic"
+    },
+    {
+      "artist": "Girlschool",
+      "track": "Turn It Up",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Vow Wow",
+      "track": "Love Walks",
+      "details": "CD-Cyclone; Eastworld"
+    },
+    {
+      "artist": "Bon Jovi",
+      "track": "Without Love",
+      "details": "LP-Slippery When Wet; Vertigo / Phonogram"
+    },
+    {
+      "artist": "Magnum",
+      "track": "Back To Earth",
+      "details": "LP-Vintage Magnum; Jet"
+    }
+  ]
+}

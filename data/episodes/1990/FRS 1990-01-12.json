@@ -1,0 +1,75 @@
+{
+  "title": "FRS 1990-01-12",
+  "url": "https://fridayrockshow.fandom.com/wiki/12_January_1990",
+  "show": {
+    "date": "1990-01-12",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "Interview with Dan Reed of Dan Reed Network.",
+      "The Rock War features Primeval from Canterbury, Ignorance from somewhere and Lord Crucifier from Halifax. Ignorance won, with Lord Crucifier second and Primeval third.",
+      "Date confirmed at the end of the show when Tommy mentions some gigs. One is a Bon Jovi charity gig in London 'on Wednesday' which was recorded for broadcast; that was at the Hammersmith Odeon on 10 Jan 1990. The other is Dan Reed Network at the Astoria in London 'this coming Thursday'; that was 18 Jan 1990."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Lisa Dominique",
+      "details": "one and only (rpt). Recorded: 1989-08-11. First TX: 15 September 1989"
+    },
+    {
+      "artist": "Sian",
+      "details": "one and only. Recorded: 1989-11-24."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Ian Hunter & Mick Ronson",
+      "track": "Big Time",
+      "details": "LP-Y U I Orta; Mercury"
+    },
+    {
+      "artist": "Quireboys",
+      "track": "Hey You",
+      "details": "7\"; Parlophone"
+    },
+    {
+      "artist": "Lisa Dominique",
+      "track": "'Rock 'n' Roll Lady'",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Lisa Dominique",
+      "track": "All Fall Down",
+      "details": "FRS Session"
+    },
+    {
+      "artist": "Michael Schenker Group",
+      "track": "Samurai",
+      "details": "LP-Assault Attack; Chrysalis"
+    },
+    {
+      "artist": "Giant",
+      "track": "The Big Pitch",
+      "details": "LP-Last Of The Runways; A&M"
+    },
+    {
+      "artist": null,
+      "track": "Interview with Dan Reed",
+      "details": null
+    },
+    {
+      "artist": "Dan Reed Network",
+      "track": "Tiger In A Dress",
+      "details": "LP-Slam; Mercury"
+    },
+    {
+      "artist": "Dan Reed Network",
+      "track": "'Tamin' The Wild Nights Mistakenly announced by TV as Forgot To Make Her Mine (previous track on the album). (LP-Dan Reed Network)' (Mercury)",
+      "details": null
+    },
+    {
+      "artist": "Dan Reed Network",
+      "track": "Come Back Baby",
+      "details": "LP-Slam; Mercury"
+    }
+  ]
+}

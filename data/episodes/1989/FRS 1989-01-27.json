@@ -1,0 +1,51 @@
+{
+  "title": "FRS 1989-01-27",
+  "url": "https://fridayrockshow.fandom.com/wiki/27_January_1989",
+  "show": {
+    "date": "1989-01-27",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "Hal: \"Date is not certain but everything ties to Feb 1989. Tesla have a new album and Scorpions have a new single, both released in Feb 1989. The latter are touring, with dates starting on 18 Feb. The Dogs d'Amour will be supporting Hunter/Ronson on 15 Feb and they're releasing How Come It Never Rains as a single; that was also Feb 1989. So, this is close to but before 15 Feb 1989. It isn't either 3 or 10 Feb 1989, so must be 27 Jan 1989.\"",
+      "After the Skid Row track, Tommy mentions that Gary Moore will hopefully be on the show soon.",
+      "The upcoming Saturday Rock Show will feature Led Zeppelin at the Playhouse."
+    ]
+  },
+  "sessions": [],
+  "track_listing": [
+    {
+      "artist": "Scorpions",
+      "track": "Passion Rules The Game",
+      "details": "7\"; Harvest"
+    },
+    {
+      "artist": "Tesla",
+      "track": "Did It For The Money",
+      "details": "LP-The Great Radio Controversy; Geffen"
+    },
+    {
+      "artist": "Poison",
+      "track": "Every Rose Has Its Thorn",
+      "details": "7\"; Capitol/Enigma"
+    },
+    {
+      "artist": "Def Leppard",
+      "track": "Rocket",
+      "details": "CD-Hysteria; Bludgeon Riffola/Phonogram"
+    },
+    {
+      "artist": "Gary Moore",
+      "track": "Led Clones",
+      "details": "LP-After The War; Virgin"
+    },
+    {
+      "artist": "Skid Row",
+      "track": "Rattlesnake Shake",
+      "details": "LP-Skid Row; Atlantic/Underground"
+    },
+    {
+      "artist": null,
+      "track": "Alan Freeman Saturday Rock Show trailer",
+      "details": null
+    }
+  ]
+}

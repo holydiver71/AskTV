@@ -1,0 +1,48 @@
+{
+  "title": "FRS 1991-09-13",
+  "url": "https://fridayrockshow.fandom.com/wiki/13_September_1991",
+  "show": {
+    "date": "1991-09-13",
+    "comments": [
+      "TV introduces the Cumbria Rock Festival Part 2"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "None",
+      "details": "but live sets from the Cumbria Rock Festival."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "FM",
+      "track": "Live Concert at the Cumbria Rock Festival",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "News",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "TV interviews with FM",
+      "details": null
+    },
+    {
+      "artist": "Atom Seed",
+      "track": "Live Concert at the Cumbria Rock Festival",
+      "details": "File a fades out, file b fades in"
+    },
+    {
+      "artist": null,
+      "track": "Jimi Hendrix Stone Free trailer (File b ends)",
+      "details": null
+    },
+    {
+      "artist": "Wolfsbane",
+      "track": "Live Concert at the Cumbria Rock Festival",
+      "details": "Files c & d begin"
+    }
+  ]
+}

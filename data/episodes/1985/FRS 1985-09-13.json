@@ -1,0 +1,60 @@
+{
+  "title": "FRS 1985-09-13",
+  "url": "https://fridayrockshow.fandom.com/wiki/13_September_1985",
+  "show": {
+    "date": "1985-09-13",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "This show listing is not complete, as it's missing most of it.",
+      "This listing is taken from a poor quality recording that seems to be at least partly copied from other tapes with edits between tracks. It begins with tracks from Lemmy's show on 19 April 1985, progresses to what I presume is the 13th September 1985 show (from the Lyin' Rampant session tracks and no Pet Hate session tracks), then parts of what can be firmly dated to 20 July 1984 and finally a track that isn't from a Friday Rock Show. Fun times. So, best guess here."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Lyin' Rampant",
+      "details": "1. Recorded: unknown"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": null,
+      "track": "Joe Walsh - Good Man Down",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Lee Aaron - Evil Game",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Pretty Maids - Red Hot and Heavy",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Lyin' Rampant - Kill 'em All (session)",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Randy California - Shane",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Scorpions - Blackout",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Lonnie Mack - Hound Dog Man",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Lyin' Rampant - Crazee (session)",
+      "details": null
+    }
+  ]
+}

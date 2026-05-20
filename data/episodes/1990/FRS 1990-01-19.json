@@ -1,0 +1,39 @@
+{
+  "title": "FRS 1990-01-19",
+  "url": "https://fridayrockshow.fandom.com/wiki/19_January_1990",
+  "show": {
+    "date": "1990-01-19",
+    "comments": [
+      "Edited recording from the Friday Rock Show consisting only the Xentrix session with some Tommy Vance links.",
+      "Vance mentions at the beginning of the audio that there will be tracks from Skid Row, Eric Clapton, Ten Years After, Thunder, Almighty, ASAP, Saxon, Sabotage, Quireboys, Faith No More, Loverboy, Motley Crue, and three bands fighting out in the Rock War from Leicester, Birmingham and Nottingham on the show."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Xentrix",
+      "details": "1. Recorded: 1989-12-01"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Xentrix",
+      "track": "Nobody’s Perfect",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Xentrix",
+      "track": "Dark Enemy",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Xentrix",
+      "track": "Interrogate",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Xentrix",
+      "track": "Ghostbusters",
+      "details": "FRS session"
+    }
+  ]
+}

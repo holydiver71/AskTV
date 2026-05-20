@@ -1,0 +1,39 @@
+{
+  "title": "FRS 1987-01-09",
+  "url": "https://fridayrockshow.fandom.com/wiki/09_January_1987",
+  "show": {
+    "date": "1987-01-09",
+    "comments": [
+      "Audio consists only of Vixen's session with Tommy Vance links.",
+      "Beginning of show: \"Well hello there, this is TV on the radio, Thomas Vance, the music vendor, welcome to the Friday Rock Show. We have a new session tonight, it's by a band from York and they're called Vixen. Now Charon from Germany, Cloven Hoof, well they're English, the Beastie Boys and Megadeth are from the States. In the show tonight, we have them. We also have tracks by the Doors, Ravage, Europe, Tony MacAlpine, Lion, Adrenalin O.D., UFO and Boston. Plus we feature five tracks from the new LP by Deep Purple, along some good comments from two members of the band, Ian Gillan, Jon Lord.\""
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Vixen",
+      "details": "one and only session. Recorded date unknown. No known commercial release."
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Vixen",
+      "track": "Midas Touch",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Vixen",
+      "track": "High School Fox",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Vixen",
+      "track": "Call Of The Wild",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Vixen",
+      "track": "Silver Arrow",
+      "details": "FRS session"
+    }
+  ]
+}

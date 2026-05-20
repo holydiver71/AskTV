@@ -1,0 +1,48 @@
+{
+  "title": "FRS 1992-11-13",
+  "url": "https://fridayrockshow.fandom.com/wiki/13_November_1992",
+  "show": {
+    "date": "1992-11-13",
+    "comments": [
+      "File contains only 30 minutes of the show"
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Soundgarden",
+      "details": "1. Recorded: 1992-06-12. First Broadcast: 10 July 1992"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Soundgarden",
+      "track": "I Can't Give You Anything",
+      "details": "FRS session"
+    },
+    {
+      "artist": "Scat Opera",
+      "track": "Inferiority Complex - I.C. (album - Four Gone Confusion) Music For Nations",
+      "details": null
+    },
+    {
+      "artist": "Pink Floyd",
+      "track": "Comfortably Numb (Box Set - Shine On) EMI",
+      "details": null
+    },
+    {
+      "artist": "Rush",
+      "track": "Time Stand Still (album - Hold Your Fire) Anthem",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Tommy Vance counts down the top 30 rock album charts",
+      "details": null
+    },
+    {
+      "artist": "Bon Jovi",
+      "track": "Dry County (album - Keep The Faith) Mercury",
+      "details": null
+    }
+  ]
+}

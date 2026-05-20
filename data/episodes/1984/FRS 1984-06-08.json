@@ -1,0 +1,69 @@
+{
+  "title": "FRS 1984-06-08",
+  "url": "https://fridayrockshow.fandom.com/wiki/08_June_1984",
+  "show": {
+    "date": "1984-06-08",
+    "comments": [
+      "Andy Batten-Foster sits in, as he will for the next three shows.",
+      "A shorter show than normal which covers just the top rock singles chart and a repeat of Suzi Quatro’s set at Reading 1983."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": null,
+      "details": "None"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Little Steven",
+      "track": "Out Of The Darkness",
+      "details": "single"
+    },
+    {
+      "artist": "Cars",
+      "track": "You Might Think",
+      "details": "LP - Heartbeat City"
+    },
+    {
+      "artist": "Jim Steinman",
+      "track": "Tonight Is What It Means To Be Young",
+      "details": "Streets Of Fire OST"
+    },
+    {
+      "artist": "Twisted Sister",
+      "track": "We’re Not Gonna Take It",
+      "details": "LP - Stay Hungry"
+    },
+    {
+      "artist": "Marillion",
+      "track": "Assassing",
+      "details": "LP - Fugazi"
+    },
+    {
+      "artist": "Status Quo",
+      "track": "Going Down Town Tonight",
+      "details": "LP - Back To Back"
+    },
+    {
+      "artist": "Ozzy Osbourne",
+      "track": "Bark At The Moon",
+      "details": "B side of So Tired single"
+    },
+    {
+      "artist": "Queen",
+      "track": "I Want To Break Free",
+      "details": "LP - The Works"
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Suzi Quatro, recorded at the 1983 Reading Festival",
+      "details": null
+    }
+  ]
+}

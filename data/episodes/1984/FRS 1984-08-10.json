@@ -1,0 +1,104 @@
+{
+  "title": "FRS 1984-08-10",
+  "url": "https://fridayrockshow.fandom.com/wiki/10_August_1984",
+  "show": {
+    "date": "1984-08-10",
+    "comments": [
+      "Incomplete show.",
+      "Tape cuts in part way through Motorhead track. A time check after My Apollo shows the recording starts about 10:04pm. Motorhead is probably the first track played in the FM section of the show."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Shy (repeat)",
+      "details": "Recorded 1984-05-11, First TX 25 May 1984"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Motorhead",
+      "track": "Killed by Death",
+      "details": "single"
+    },
+    {
+      "artist": "Ted Nugent",
+      "track": "Flesh & Blood",
+      "details": null
+    },
+    {
+      "artist": "Mama's Boys",
+      "track": "Mama, We're All Crazee Now",
+      "details": null
+    },
+    {
+      "artist": "Shy",
+      "track": "My Apollo",
+      "details": "session track"
+    },
+    {
+      "artist": "Jefferson Starship",
+      "track": "Live and Let Live",
+      "details": null
+    },
+    {
+      "artist": "The Enid",
+      "track": "Under the Summer Stars/Adieu",
+      "details": null
+    },
+    {
+      "artist": "Tokyo Blade",
+      "track": "Lightning Strikes",
+      "details": null
+    },
+    {
+      "artist": "Kick Axe",
+      "track": "Heavy Metal Shuffle",
+      "details": null
+    },
+    {
+      "artist": "Shy",
+      "track": "Behind Closed Doors",
+      "details": "session track"
+    },
+    {
+      "artist": "Y&T",
+      "track": "Break Out Tonight",
+      "details": null
+    },
+    {
+      "artist": "Greg Lake",
+      "track": "It Hurts",
+      "details": "featuring Gary Moore"
+    },
+    {
+      "artist": "Billy Squier",
+      "track": "Rock Me Tonight",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Friday Night Connection",
+      "details": null
+    },
+    {
+      "artist": "Armed Forces",
+      "track": "Let There Be Metal",
+      "details": null
+    },
+    {
+      "artist": "Judas Priest",
+      "track": "The Ripper",
+      "details": null
+    },
+    {
+      "artist": "Shy",
+      "track": "Was I Wrong?",
+      "details": "session track"
+    },
+    {
+      "artist": null,
+      "track": "tape cuts out 12 seconds into unknown track",
+      "details": null
+    }
+  ]
+}

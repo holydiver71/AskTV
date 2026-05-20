@@ -1,0 +1,61 @@
+{
+  "title": "FRS 1984-08-17",
+  "url": "https://fridayrockshow.fandom.com/wiki/17_August_1984",
+  "show": {
+    "date": "1984-08-17",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "This show listing is not complete, as it's missing most of it.",
+      "From Mötley Crüe onwards is the music sweep for the Castle Donington Monsters of Rock festival in 1984. Tracks by Gary Moore, Scorpions and Van Halen would therefore populate the final gap.",
+      "This tape also includes Helloween's Metal Invaders, Blue Öyster Cult's Hot Rails to Hell and Rush's Passage to Bangkok, before the Mötley Crüe track, but, while they are recordings from the Friday Rock Show, I can't be sure that they're from this particular one because they're edited in and there are gaps."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": "Underground",
+      "details": "Zero"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Mötley Crüe",
+      "track": "Shout At The Devil",
+      "details": "LP-Shout At The Devil; Elektra"
+    },
+    {
+      "artist": "Accept",
+      "track": "Balls To The Wall",
+      "details": "LP-Balls To The Wall; Portrait"
+    },
+    {
+      "artist": "Y & T",
+      "track": "I Believe In You",
+      "details": "LP-Earthshaker; A&M"
+    },
+    {
+      "artist": "AC/DC",
+      "track": "For Those About to Rock (We Salute You)",
+      "details": "LP-For Those About To Rock We Salute You; Atlantic"
+    },
+    {
+      "artist": null,
+      "track": "TV wraps the show",
+      "details": null
+    },
+    {
+      "artist": "Bob Dylan",
+      "track": "‘Sara’ (LP - Desire) CBS",
+      "details": null
+    },
+    {
+      "artist": "Helloween",
+      "track": "‘Metal Invaders’ (v/a LP - Death Metal) Noise (Note - some heavy static masks TV’s announcement)",
+      "details": null
+    },
+    {
+      "artist": "Blue Oyster Cult",
+      "track": "Hot Rails To Hell (LP - Tyranny And Mutation) CBS",
+      "details": null
+    }
+  ]
+}

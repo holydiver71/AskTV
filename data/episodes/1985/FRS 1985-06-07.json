@@ -1,0 +1,43 @@
+{
+  "title": "FRS 1985-06-07",
+  "url": "https://fridayrockshow.fandom.com/wiki/07_June_1985",
+  "show": {
+    "date": "1985-06-07",
+    "comments": [
+      "An incomplete episode, featuring part of a live concert from the Firm."
+    ]
+  },
+  "sessions": [
+    {
+      "artist": null,
+      "details": "None"
+    }
+  ],
+  "track_listing": [
+    {
+      "artist": "Lee Aaron",
+      "track": "Evil Game (LP - Call Of The Wild) Attic",
+      "details": null
+    },
+    {
+      "artist": "Deep Purple",
+      "track": "Perfect Strangers (LP - Perfect Strangers) Polydor",
+      "details": null
+    },
+    {
+      "artist": "Pretty Maids",
+      "track": "Red, Hot And Heavy (LP - Red, Hot And Heavy) CBS",
+      "details": null
+    },
+    {
+      "artist": "Van Halen",
+      "track": "Hot For Teacher (LP - 1984) Warner Bros.",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "Firm, recorded at Hammersmith Odeon",
+      "details": null
+    }
+  ]
+}

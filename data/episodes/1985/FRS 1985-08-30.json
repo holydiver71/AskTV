@@ -1,0 +1,56 @@
+{
+  "title": "FRS 1985-08-30",
+  "url": "https://fridayrockshow.fandom.com/wiki/30_August_1985",
+  "show": {
+    "date": "1985-08-30",
+    "comments": [
+      "Information of tracklisting from Hal C F Astell's website.",
+      "Concert by Bryan Adams, recorded at the Hammersmith Odeon on 20 Apr 1985. This is a repeat broadcast; it first aired on 24 May 1985. Hal adds, \"On this one, things get quieter during This Time and stay almost silent for the next two tracks. The show ends just into the Loverboy track.\"",
+      "Date confirmed by birthdays. A lady writes in to erroneously wish Joe Elliott of Def Leppard a happy birthday for 31 Aug (he was actually born on 1 Aug). Tommy adds a happy birthday to John Peel (born on 30 Aug).",
+      "The intro mentions additional tracks by Malice, Ruffians and Tormé. After the Helix track, Tommy also states that he'll end the show with another track from Gary Moore's new album."
+    ]
+  },
+  "sessions": [],
+  "track_listing": [
+    {
+      "artist": "Gary Moore",
+      "track": "Run For Cover",
+      "details": "CD-Run For Cover; 10"
+    },
+    {
+      "artist": "Helix",
+      "track": "Deep Cuts The Knife",
+      "details": "7\"; Capitol"
+    },
+    {
+      "artist": "Onslaught",
+      "track": "Death Metal",
+      "details": "LP-Power From Hell; Children Of The Revolution"
+    },
+    {
+      "artist": "Rio",
+      "track": "'I Don't Wanna Be The Fool (7\")' (Music For Nations) Hal's track listing states this is Don't Wanna Be Your Fool, but this was by Quiet Riot and released three years later.",
+      "details": null
+    },
+    {
+      "artist": "Dio",
+      "track": "Like The Beat Of A Heart",
+      "details": "LP-Sacred Head; Phonogram"
+    },
+    {
+      "artist": "Robin George",
+      "track": "'Don't Turn Away (LP-Dangerous Music)' (Bronze)",
+      "details": null
+    },
+    {
+      "artist": "Loverboy",
+      "track": "'Friday Night (CD-Lovin' Every Minute Of It)' (CBS)",
+      "details": null
+    },
+    {
+      "artist": null,
+      "track": "(gap)",
+      "details": null
+    }
+  ]
+}
