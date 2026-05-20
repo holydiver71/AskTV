@@ -8,7 +8,7 @@ export type ContextBlock = {
 
 export type Citation = {
   date: string;
-  chunkStart: number;
+  chunkStart: number | null;
   text: string;
   formatted: string;  // "[YYYY-MM-DD @ HH:MM:SS]"
 };

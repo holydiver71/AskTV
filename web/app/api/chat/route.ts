@@ -8,6 +8,7 @@ import {
   formatCitation,
   formatMetadataCitation,
 } from "@/lib/utils/citations";
+import type { ContextBlock, Citation } from "@/lib/utils/citations";
 
 const requestSchema = z.object({
   message: z.string().min(1).max(1000),
@@ -149,8 +150,8 @@ function isProviderTimeoutError(err: unknown): boolean {
 
 function ensureAnswerHasCitations(
   answer: string,
-  citations: Array<{ date: string; chunkStart: number | null; text: string; formatted: string }>,
-  context: Array<{ date: string; chunkStart: number | null; chunkEnd: number | null; text: string; sourceType?: string }>
+  citations: Citation[],
+  context: ContextBlock[]
 ) {
   if (citations.length > 0) {
     return { answer, citations };
