@@ -8,6 +8,8 @@ relational rows into Supabase:
   sessions          — session features listed in each episode
   tracks            — track listing (with verified_timestamp where present)
   transcript_segments — ~60-second text windows (no embeddings yet)
+  metadata_chunks   — embeddable text documents derived from tracks/sessions
+                       (no embeddings yet; vectorise_metadata.py fills them)
 
 Re-running is safe: episodes upsert on (date), child rows are deleted and
 re-inserted for any episode that is re-processed.
@@ -105,6 +107,38 @@ def build_chunks(transcript: list[dict]) -> list[dict]:
     return chunks
 
 
+def build_track_chunk_text(ep_date: str, t: dict) -> str:
+    """Build a searchable text document for a single track row."""
+    artist  = t.get("artist") or ""
+    track   = t.get("track")  or ""
+    details = t.get("details") or ""
+    ts      = t.get("verified_timestamp")
+
+    parts = [f"{ep_date}."]
+    if artist:
+        parts.append(f"Artist: {artist}.")
+    if track:
+        parts.append(f"Track: {track}.")
+    if details:
+        parts.append(f"Details: {details}.")
+    if ts is not None:
+        parts.append(f"Verified timestamp: {ts}.")
+    return " ".join(parts)
+
+
+def build_session_chunk_text(ep_date: str, s: dict) -> str:
+    """Build a searchable text document for a single session row."""
+    artist  = s.get("artist")  or ""
+    details = s.get("details") or ""
+
+    parts = [f"{ep_date}."]
+    if artist:
+        parts.append(f"Session artist: {artist}.")
+    if details:
+        parts.append(f"Details: {details}.")
+    return " ".join(parts)
+
+
 def upsert_episode(sb: Client, ep_data: dict) -> str:
     """
     Upsert an episodes row. Returns the episode UUID.
@@ -126,10 +160,10 @@ def upsert_episode(sb: Client, ep_data: dict) -> str:
 
 def replace_children(sb: Client, episode_id: str, ep_data: dict) -> dict:
     """
-    Delete and re-insert sessions, tracks, and transcript_segments for this
-    episode. Deletion cascades are defined in the schema, but we do explicit
-    deletes here so the function is self-contained.
-    Returns counts {sessions, tracks, segments}.
+    Delete and re-insert sessions, tracks, transcript_segments, and
+    metadata_chunks for this episode. Deletion cascades are defined in the
+    schema, but we do explicit deletes here so the function is self-contained.
+    Returns counts {sessions, tracks, segments, metadata_chunks}.
     """
     # -- sessions ----------------------------------------------------------
     sb.table("sessions").delete().eq("episode_id", episode_id).execute()
@@ -185,10 +219,42 @@ def replace_children(sb: Client, episode_id: str, ep_data: dict) -> dict:
                 segment_rows[start : start + batch]
             ).execute()
 
+    # -- metadata_chunks (tracks + sessions) --------------------------------
+    ep_date = ep_data["show"]["date"]
+    sb.table("metadata_chunks").delete().eq("episode_id", episode_id).execute()
+    chunk_rows: list[dict] = []
+
+    for t in ep_data.get("track_listing") or []:
+        track = t.get("track") or ""
+        if not track:
+            continue
+        chunk_rows.append({
+            "episode_id":  episode_id,
+            "source_type": "track",
+            "date":        ep_date,
+            "chunk_start": t.get("verified_timestamp"),
+            "chunk_end":   None,
+            "text":        build_track_chunk_text(ep_date, t),
+        })
+
+    for s in ep_data.get("sessions") or []:
+        chunk_rows.append({
+            "episode_id":  episode_id,
+            "source_type": "session",
+            "date":        ep_date,
+            "chunk_start": None,
+            "chunk_end":   None,
+            "text":        build_session_chunk_text(ep_date, s),
+        })
+
+    if chunk_rows:
+        sb.table("metadata_chunks").insert(chunk_rows).execute()
+
     return {
-        "sessions": len(session_rows),
-        "tracks":   len(track_rows),
-        "segments": len(segment_rows),
+        "sessions":       len(session_rows),
+        "tracks":         len(track_rows),
+        "segments":       len(segment_rows),
+        "metadata_chunks": len(chunk_rows),
     }
 
 
@@ -213,7 +279,7 @@ def main(episodes_dir: Path) -> None:
         log.error("No FRS *.json files found in %s", episodes_dir)
         sys.exit(1)
 
-    total = {"episodes": 0, "sessions": 0, "tracks": 0, "segments": 0}
+    total = {"episodes": 0, "sessions": 0, "tracks": 0, "segments": 0, "metadata_chunks": 0}
     errors: list[str] = []
 
     for path in json_files:
@@ -230,26 +296,29 @@ def main(episodes_dir: Path) -> None:
             counts = replace_children(sb, episode_id, ep_data)
 
             log.info(
-                "%s  →  ep:%s  sessions:%d  tracks:%d  segments:%d",
+                "%s  →  ep:%s  sessions:%d  tracks:%d  segments:%d  meta:%d",
                 ep_date,
                 episode_id[:8],
                 counts["sessions"],
                 counts["tracks"],
                 counts["segments"],
+                counts["metadata_chunks"],
             )
 
             total["episodes"] += 1
             total["sessions"] += counts["sessions"]
             total["tracks"]   += counts["tracks"]
             total["segments"] += counts["segments"]
+            total["metadata_chunks"] += counts["metadata_chunks"]
 
         except Exception as exc:
             log.error("FAILED %s: %s", path.name, exc)
             errors.append(f"{path.name}: {exc}")
 
     log.info(
-        "Done. episodes=%d  sessions=%d  tracks=%d  segments=%d",
-        total["episodes"], total["sessions"], total["tracks"], total["segments"],
+        "Done. episodes=%d  sessions=%d  tracks=%d  segments=%d  meta=%d",
+        total["episodes"], total["sessions"], total["tracks"],
+        total["segments"], total["metadata_chunks"],
     )
     if errors:
         log.warning("%d file(s) failed — see errors above", len(errors))

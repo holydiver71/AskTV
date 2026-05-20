@@ -1,8 +1,9 @@
 export type ContextBlock = {
   date: string;      // "YYYY-MM-DD"
-  chunkStart: number; // seconds
-  chunkEnd: number;
+  chunkStart: number | null; // seconds; null for metadata rows without a timestamp
+  chunkEnd: number | null;
   text: string;
+  sourceType?: "transcript" | "track" | "session";
 };
 
 export type Citation = {
