@@ -125,7 +125,7 @@ def main(batch_size: int, dry_run: bool) -> None:
         "OPENAI_API_KEY": oai_key,
     }.items() if not v]
     if missing:
-        log.error("Missing env vars: %s", ", ".join(missing))
+        log.error("Missing %d required env var(s) — set them in .env", len(missing))
         sys.exit(1)
 
     sb: Client = create_client(sb_url, sb_key)  # type: ignore[arg-type]
