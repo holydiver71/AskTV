@@ -61,7 +61,7 @@ export async function POST(request: NextRequest) {
     // 2. Retrieve the most relevant transcript and metadata matches.
     let matches;
     try {
-        matches = await matchHybrid(embedding, message, 12, 0.35);
+        matches = await matchHybrid(embedding, extractFtsKeywords(message), 12, 0.35);
     } catch (err) {
       if (isMissingRetrievalFunctionError(err)) {
         return NextResponse.json(
@@ -131,6 +131,29 @@ function isMissingRetrievalFunctionError(err: unknown): boolean {
     err.message.includes("match_transcript_segments") ||
     err.message.includes("match_hybrid")
   );
+}
+
+/**
+ * Strip dates, question words, and common stop words from a user message so
+ * the remainder can be used as a PostgreSQL full-text search query.
+ *
+ * e.g. "who won the record token on 29/08/1980?" → "record token"
+ */
+function extractFtsKeywords(message: string): string {
+  return message
+    // Remove dates: DD/MM/YYYY, MM-DD-YYYY, YYYY-MM-DD, bare years
+    .replace(/\b\d{1,2}[\/.\-]\d{1,2}[\/.\-]\d{2,4}\b/g, "")
+    .replace(/\b\d{4}[\/.\-]\d{1,2}[\/.\-]\d{1,2}\b/g, "")
+    .replace(/\b(19|20)\d{2}\b/g, "")
+    // Remove common question / auxiliary words
+    .replace(
+      /\b(who|what|when|where|why|how|did|does|was|were|is|are|has|have|had|been|be|the|a|an|on|in|at|for|of|to|from|by|with|get|got|win|won|play|played|broadcast|show|episode|date|about|can|could|would|should|do|i|me|my|you|your)\b/gi,
+      ""
+    )
+    // Collapse whitespace and strip punctuation
+    .replace(/[?!.,;:"']/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function isProviderTimeoutError(err: unknown): boolean {
