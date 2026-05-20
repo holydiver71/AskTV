@@ -76,6 +76,7 @@ export async function matchTranscriptSegments(
  */
 export async function matchHybrid(
   queryEmbedding: number[],
+  queryText = "",
   matchCount = 12,
   matchThreshold = 0.35
 ): Promise<UnifiedMatch[]> {
@@ -86,6 +87,7 @@ export async function matchHybrid(
 
   const { data, error } = await supabase.rpc("match_hybrid", {
     query_embedding: queryEmbedding,
+    query_text: queryText,
     match_count: matchCount,
     match_threshold: matchThreshold,
   });

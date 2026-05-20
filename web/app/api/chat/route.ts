@@ -61,7 +61,7 @@ export async function POST(request: NextRequest) {
     // 2. Retrieve the most relevant transcript and metadata matches.
     let matches;
     try {
-        matches = await matchHybrid(embedding, 12, 0.35);
+        matches = await matchHybrid(embedding, message, 12, 0.35);
     } catch (err) {
       if (isMissingRetrievalFunctionError(err)) {
         return NextResponse.json(
