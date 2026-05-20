@@ -78,7 +78,7 @@ def fetch_unembedded(sb: Client) -> list[dict]:
               .range(offset, offset + PAGE_SIZE - 1)
               .execute()
         )
-        batch = result.data or []
+        batch: list[dict] = result.data or []  # type: ignore[assignment]
         rows.extend(batch)
         if len(batch) < PAGE_SIZE:
             break

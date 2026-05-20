@@ -155,7 +155,8 @@ def upsert_episode(sb: Client, ep_data: dict) -> str:
           .upsert(row, on_conflict="date")
           .execute()
     )
-    return result.data[0]["id"]
+    data: list[dict] = result.data  # type: ignore[assignment]
+    return str(data[0]["id"])
 
 
 def replace_children(sb: Client, episode_id: str, ep_data: dict) -> dict:
