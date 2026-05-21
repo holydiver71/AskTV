@@ -29,7 +29,7 @@ from pathlib import Path
 # Config
 # ---------------------------------------------------------------------------
 
-JSON_DIR = Path("data/episodes/1980/")
+EPISODES_ROOT = Path("data/episodes/")
 LOG_DIR = Path("logs/")
 LOG_FILE = LOG_DIR / "redact_addresses.log"
 
@@ -88,10 +88,11 @@ _ADDR_WRITTEN = re.compile(
 # ---------------------------------------------------------------------------
 # Pattern C: "No." / "number" prefix + digit + Title-Case words
 # Catches non-standard street types too: "No. 40 Queensway", "No. 90 Lime Kiln"
+# Also handles comma after house number: "No. 17, Cardington Close"
 # ---------------------------------------------------------------------------
 _ADDR_PREFIX = re.compile(
     _FLAT_PREFIX +
-    rf"\b(?:No\.?\s+|number\s+)(\d{{1,4}})\s+"
+    rf"\b(?:No\.?\s+|number\s+)(\d{{1,4}})[,\s]+"
     rf"{_STREET_NAME_BODY}"
 )
 
@@ -235,10 +236,27 @@ def process_file(path: Path, dry_run: bool = False) -> int:
 
 def main() -> None:
     dry_run = "--dry-run" in sys.argv
-    episode_files = sorted(JSON_DIR.glob("*.json"))
+
+    # Optional --year YYYY filter; defaults to all years.
+    year_filter: str | None = None
+    for i, arg in enumerate(sys.argv[1:], 1):
+        if arg == "--year" and i < len(sys.argv) - 1:
+            year_filter = sys.argv[i + 1]
+
+    if year_filter:
+        search_roots = [EPISODES_ROOT / year_filter]
+    else:
+        search_roots = (
+            sorted(EPISODES_ROOT.iterdir()) if EPISODES_ROOT.exists() else []
+        )
+        search_roots = [p for p in search_roots if p.is_dir()]
+
+    episode_files: list[Path] = []
+    for root in search_roots:
+        episode_files.extend(sorted(root.glob("*.json")))
 
     if not episode_files:
-        _log(f"No JSON files found in {JSON_DIR}")
+        _log(f"No JSON files found under {EPISODES_ROOT}")
         sys.exit(1)
 
     total = 0
@@ -247,7 +265,9 @@ def main() -> None:
         total += count
 
     mode = "DRY RUN — " if dry_run else ""
-    _log(f"\n{mode}Total redactions across {len(episode_files)} episodes: {total}")
+    _log(
+        f"\n{mode}Total redactions across {len(episode_files)} episodes: {total}"
+    )
 
 
 if __name__ == "__main__":
