@@ -113,6 +113,56 @@ export async function matchHybrid(
   throw new Error(`Retrieval failed: ${error.message}`);
 }
 
+/**
+ * Full-text search within a single episode's transcript segments.
+ *
+ * Used as a targeted fallback when the user mentions a specific date:
+ * hybrid vector search can crowd out FTS matches (which score lower) when
+ * many metadata vector matches compete for the same LIMIT slots. Running a
+ * separate episode-scoped FTS search and merging the results guarantees the
+ * right chunks are always surfaced.
+ */
+export async function searchEpisodeByFts(
+  episodeDate: string, // YYYY-MM-DD
+  keywords: string,
+  limit = 4
+): Promise<UnifiedMatch[]> {
+  const supabase = createClient(
+    process.env.NEXT_PUBLIC_SUPABASE_URL!,
+    process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+  );
+
+  const { data: episode } = await supabase
+    .from("episodes")
+    .select("id")
+    .eq("date", episodeDate)
+    .maybeSingle();
+
+  if (!episode) return [];
+
+  const { data, error } = await supabase
+    .from("transcript_segments")
+    .select("id, episode_id, chunk_start, chunk_end, text")
+    .eq("episode_id", episode.id)
+    .textSearch("text", keywords, { type: "websearch", config: "english" })
+    .limit(limit);
+
+  if (error || !data) return [];
+
+  return data.map((row) => ({
+    id: row.id,
+    episode_id: row.episode_id,
+    source_type: "transcript" as const,
+    chunk_start: row.chunk_start,
+    chunk_end: row.chunk_end,
+    text: row.text,
+    date: episodeDate,
+    // Score above typical metadata vector noise (~0.43) so these chunks
+    // rank near the top of the merged context.
+    similarity: 0.5,
+  }));
+}
+
 type LegacySegmentMatch = {
   episode_date: string;
   chunk_start: number;

@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { OpenAIProvider } from "@/lib/ai/openai-provider";
-import { matchHybrid } from "@/lib/db/retrieval";
+import { matchHybrid, searchEpisodeByFts } from "@/lib/db/retrieval";
+import type { UnifiedMatch } from "@/lib/types/database";
 import { shapeContextBlocks } from "@/lib/ai/context";
 import {
   extractCitations,
@@ -59,9 +60,26 @@ export async function POST(request: NextRequest) {
     const embedding = await getProvider().embedQuery(message);
 
     // 2. Retrieve the most relevant transcript and metadata matches.
-    let matches;
+    let matches: UnifiedMatch[];
     try {
-        matches = await matchHybrid(embedding, extractFtsKeywords(message), 12, 0.35);
+      const ftsKeywords = extractFtsKeywords(message);
+      matches = await matchHybrid(embedding, ftsKeywords, 12, 0.35);
+
+      // When the query names a specific date, guarantee that episode's
+      // transcript chunks are included even if they were crowded out of
+      // the hybrid search's LIMIT by higher-scoring metadata vectors.
+      if (ftsKeywords.length >= 3) {
+        const mentionedDate = extractMentionedDate(message);
+        if (mentionedDate) {
+          const episodeFts = await searchEpisodeByFts(mentionedDate, ftsKeywords, 4);
+          if (episodeFts.length > 0) {
+            const seenIds = new Set(matches.map((m) => m.id));
+            const newChunks = episodeFts.filter((m) => !seenIds.has(m.id));
+            // Prepend so they appear early in context (higher priority)
+            matches = [...newChunks, ...matches];
+          }
+        }
+      }
     } catch (err) {
       if (isMissingRetrievalFunctionError(err)) {
         return NextResponse.json(
@@ -139,6 +157,30 @@ function isMissingRetrievalFunctionError(err: unknown): boolean {
  *
  * e.g. "who won the record token on 29/08/1980?" → "record token"
  */
+/**
+ * Parse a specific date mentioned in the user's message and return it
+ * as YYYY-MM-DD.  Handles DD/MM/YYYY, D/M/YYYY, and ISO YYYY-MM-DD.
+ */
+function extractMentionedDate(message: string): string | null {
+  // DD/MM/YYYY or D/M/YYYY (including . and - separators)
+  const dmyMatch = message.match(
+    /\b(\d{1,2})[\/.\-](\d{1,2})[\/.\-](\d{4})\b/
+  );
+  if (dmyMatch) {
+    const [, d, m, y] = dmyMatch;
+    return `${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}`;
+  }
+  // YYYY-MM-DD
+  const isoMatch = message.match(
+    /\b(\d{4})[\/.\-](\d{1,2})[\/.\-](\d{1,2})\b/
+  );
+  if (isoMatch) {
+    const [, y, m, d] = isoMatch;
+    return `${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}`;
+  }
+  return null;
+}
+
 function extractFtsKeywords(message: string): string {
   return message
     // Remove dates: DD/MM/YYYY, MM-DD-YYYY, YYYY-MM-DD, bare years
