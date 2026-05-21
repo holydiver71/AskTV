@@ -126,7 +126,8 @@ def strip_hallucinations(data: dict) -> tuple[dict, int]:
         norm = _normalise(seg.get("text", ""))
         # find run
         j = i + 1
-        while j < len(transcript) and transcript[j].get("type") != "music" and _normalise(transcript[j].get("text", "")) == norm:
+        while (j < len(transcript) and transcript[j].get("type") != "music"
+               and _normalise(transcript[j].get("text", "")) == norm):
             j += 1
         run_len = j - i
         if run_len >= _HALLUCINATION_MIN_RUN:
@@ -416,25 +417,12 @@ def process_file(json_path: Path) -> bool:
             f"[{date}] Phase 2 active — {len(windows)} verified track window(s) computed"
         )
 
-        # Steps 7-10: replace lyric segments with a single music placeholder
-        # Rebuild transcript: keep segments outside all windows, then insert
-        # a placeholder for EVERY non-degenerate window (even those whose
-        # enclosed segments were already stripped by Phase-1b hallucination
-        # removal — the gap must still be marked with a music placeholder).
-        new_transcript = []
-        total_muzzled = 0
-        for seg in transcript:
-            enclosed = any(
-                seg["start"] >= w["start"] and seg["end"] <= w["end"]
-                for w in windows
-                if w["end"] > w["start"]
-            )
-            if enclosed:
-                total_muzzled += 1
-            else:
-                new_transcript.append(seg)
+        # Steps 7-10: insert a [Music] placeholder for every non-degenerate
+        # window WITHOUT removing any existing segments.  Segments within the
+        # window are left in place for manual review; lyric removal will be
+        # done later after visual checks.
+        new_transcript = list(transcript)
 
-        # Always add a placeholder for every non-degenerate window
         for w in windows:
             if w["end"] <= w["start"]:
                 continue
@@ -445,21 +433,21 @@ def process_file(json_path: Path) -> bool:
                 "type": "music",
             })
             track_label = f"'{w['artist']} – {w['track']}'" if w["artist"] else f"'{w['track']}'"
-            muzzled_in_window = sum(
+            segs_in_window = sum(
                 1 for s in transcript
                 if s["start"] >= w["start"] and s["end"] <= w["end"]
             )
-            if muzzled_in_window:
-                _log(f"[{date}] Muzzled {muzzled_in_window} segment(s) in window anchored by {track_label} [{w['start']:.1f}–{w['end']:.1f}s]")
+            _log(
+                f"[{date}] Inserted placeholder for {track_label} "
+                f"[{w['start']:.1f}–{w['end']:.1f}s] "
+                f"({segs_in_window} segment(s) overlap, kept for review)"
+            )
 
         # Sort by start time so placeholders land in the right position
         new_transcript.sort(key=lambda s: float(s["start"]))
 
         active_windows = sum(1 for w in windows if w["end"] > w["start"])
-        _log(
-            f"[{date}] Total muzzled: {total_muzzled} segment(s) → "
-            f"{active_windows} placeholder(s) inserted"
-        )
+        _log(f"[{date}] {active_windows} music placeholder(s) inserted; no segments removed")
         data["transcript"] = new_transcript
         modified = True
 
