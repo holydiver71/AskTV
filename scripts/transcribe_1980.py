@@ -133,6 +133,12 @@ def main() -> int:
         default=5.0,
         help="Seconds to sleep between files when processing a batch (default: 5)",
     )
+    parser.add_argument(
+        "--powercap",
+        type=int,
+        metavar="WATTS",
+        help="Optional: set GPU power cap in watts while this script runs (requires root)",
+    )
     args = parser.parse_args()
 
     years = sorted(set(args.year))
@@ -148,11 +154,58 @@ def main() -> int:
     LOG_FILE = Path("logs/transcription_errors.log")
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
 
+    # Powercap handling (opt-in)
+    powercap_applied = False
+    gpu_power = None
+    if args.powercap is not None:
+        # Require root privileges when attempting to change hardware limits
+        try:
+            if os.geteuid() != 0:
+                print("Error: setting a GPU power cap requires root privileges.")
+                print("Run this script with sudo when using --powercap.")
+                return 3
+        except AttributeError:
+            # os.geteuid is not available on some platforms; fall back to id check
+            import subprocess as _sub
+
+            uid = _sub.run(["id", "-u"], capture_output=True).stdout.decode().strip()
+            if uid != "0":
+                print("Error: setting a GPU power cap requires root privileges.")
+                print("Run this script with sudo when using --powercap.")
+                return 3
+
     # ── Model load (once for all years) ────────────────────────────────────
-    print("Loading Whisper model (large-v3 · CPU · int8)...")
-    t_model = time.perf_counter()
-    model = WhisperModel("large-v3", device="cpu", compute_type="int8")
-    print(f"Model ready  [{fmt_duration(time.perf_counter() - t_model)}]\n")
+    try:
+        if args.powercap is not None:
+            # Import the helper (sibling module when running script from `scripts/`)
+            try:
+                import gpu_power
+            except Exception as exc:  # pragma: no cover - environment dependent
+                print(f"Error: failed to import GPU power helper: {exc}")
+                return 4
+            print(f"Applying GPU power cap: {args.powercap}W")
+            try:
+                gpu_power.set_gpu_power_limit(int(args.powercap))
+                powercap_applied = True
+            except Exception as exc:
+                print(f"Error applying GPU power cap: {exc}")
+                return 5
+
+        print("Loading Whisper model (large-v3 · CPU · int8)...")
+        t_model = time.perf_counter()
+        model = WhisperModel("large-v3", device="cpu", compute_type="int8")
+        print(f"Model ready  [{fmt_duration(time.perf_counter() - t_model)}]\n")
+    except Exception:
+        # Ensure we attempt to reset the cap if model loading failed
+        if powercap_applied:
+            try:
+                if gpu_power is not None:
+                    gpu_power.reset_gpu_power_limit()
+                else:
+                    print("Warning: GPU helper unavailable; could not reset power limit.")
+            except Exception:
+                pass
+        raise
 
     grand_processed = grand_skipped = grand_errors = 0
     t_run = time.perf_counter()
@@ -275,6 +328,17 @@ def main() -> int:
 
         if STOP_REQUESTED:
             break
+
+    # Ensure GPU settings are restored on exit
+    if args.powercap is not None and powercap_applied:
+        try:
+            if gpu_power is not None:
+                gpu_power.reset_gpu_power_limit()
+            else:
+                print("Warning: GPU helper unavailable; could not reset power limit.")
+            print("GPU settings restored to factory defaults.")
+        except Exception as exc:
+            print(f"Warning: failed to fully restore GPU settings: {exc}")
 
     # ── Grand total (shown only for multiple years) ─────────────────────────
     total_time = fmt_duration(time.perf_counter() - t_run)
