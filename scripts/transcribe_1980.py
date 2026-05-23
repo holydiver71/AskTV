@@ -126,6 +126,13 @@ def main() -> int:
         action="store_true",
         help="Re-transcribe files that already have a transcript (overwrites existing transcript)",
     )
+    parser.add_argument(
+        "--pause",
+        "-p",
+        type=float,
+        default=5.0,
+        help="Seconds to sleep between files when processing a batch (default: 5)",
+    )
     args = parser.parse_args()
 
     years = sorted(set(args.year))
@@ -241,6 +248,12 @@ def main() -> int:
                 log_error(LOG_FILE, msg)
                 errors += 1
                 continue
+
+            # Optional pause between files to avoid saturating CPU/IO.
+            pause = float(args.pause) if hasattr(args, "pause") else 0.0
+            if pause > 0 and idx < total:
+                print(f"  Pausing {pause:.1f}s before next file...")
+                time.sleep(pause)
 
             if STOP_REQUESTED:
                 print("Stop requested — exiting cleanly.")
