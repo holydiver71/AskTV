@@ -21,22 +21,26 @@
     {
       "artist": "Led Zeppelin",
       "track": "Kashmir",
-      "details": "LP-Physical Grafitti"
+      "details": "LP-Physical Grafitti",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Kiss",
       "track": "Dirty Living",
-      "details": "LP-Dynasty"
+      "details": "LP-Dynasty",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Simple Minds",
       "track": "Chelsea Girl",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Genesis",
       "track": "The Musical Box",
-      "details": "Bob Harris Session 1971-05-10"
+      "details": "Bob Harris Session 1971-05-10",
+      "verified_timestamp": 1094.85
     },
     {
       "artist": "Genesis",
@@ -46,42 +50,50 @@
     {
       "artist": "Neil Young",
       "track": "Hey Hey My My",
-      "details": "Into The Black; LP-Rust Never Sleeps"
+      "details": "Into The Black; LP-Rust Never Sleeps",
+      "verified_timestamp": 2949.84
     },
     {
       "artist": "Pink Floyd",
       "track": "Nile Song",
-      "details": "LP-More"
+      "details": "LP-More",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Kansas",
       "track": "On The Other Side",
-      "details": "LP-Monolith"
+      "details": "LP-Monolith",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Nick Lowe",
       "track": "Cracking Up",
-      "details": "LP-Labour Of Lust"
+      "details": "LP-Labour Of Lust",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 56.05
     },
     {
       "artist": "Joni Mitchell",
       "track": "Dry Cleaner From Des Moines",
-      "details": "LP-Mingus"
+      "details": "LP-Mingus",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Hot Tuna",
       "track": "Song From The Stainless Cymbal",
-      "details": "LP-Hoppkorv"
+      "details": "LP-Hoppkorv",
+      "verified_timestamp": 5256.98
     },
     {
       "artist": "Genesis",
       "track": "Twilight Alehouse",
-      "details": "Peel Session 1972-09-25"
+      "details": "Peel Session 1972-09-25",
+      "verified_timestamp": 1094.85
     },
     {
       "artist": "Genesis",
@@ -96,12 +108,14 @@
     {
       "artist": "Def Leppard",
       "track": "Getcha Rocks Off",
-      "details": "7\" EP-The Def Leppard EP"
+      "details": "7\" EP-The Def Leppard EP",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Queen",
       "track": "Tie You Mother Down",
-      "details": "LP-Live Killers"
+      "details": "LP-Live Killers",
+      "verified_timestamp": 7267.06
     }
   ],
   "transcript": [

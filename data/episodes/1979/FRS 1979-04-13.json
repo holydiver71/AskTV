@@ -18,22 +18,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 528.18
     },
     {
       "artist": "Michael Chapman",
       "track": "Blue Season",
-      "details": "LP-Life On The Ceiling; Criminal Records"
+      "details": "LP-Life On The Ceiling; Criminal Records",
+      "verified_timestamp": 1304.11
     },
     {
       "artist": "John Miles",
       "track": "We All Fall Down",
-      "details": "LP-MMPH - More Miles Per Hour; Decca"
+      "details": "LP-MMPH - More Miles Per Hour; Decca",
+      "verified_timestamp": 1299.39
     },
     {
       "artist": "Graham Parker",
       "track": "Local Girls",
-      "details": "LP-Squeezing Out Sparks; Vertigo"
+      "details": "LP-Squeezing Out Sparks; Vertigo",
+      "verified_timestamp": 1816.27
     },
     {
       "artist": "Boston",
@@ -43,7 +47,8 @@
     {
       "artist": "Steve Hillage",
       "track": "Garden Of Paradise",
-      "details": "LP-Rainbow Dome Musick; Virgin"
+      "details": "LP-Rainbow Dome Musick; Virgin",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Pink Floyd",

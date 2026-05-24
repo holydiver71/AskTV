@@ -25,22 +25,26 @@
     {
       "artist": "Rush",
       "track": "Finding My Way",
-      "details": "LP-Archives"
+      "details": "LP-Archives",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Ted Nugent",
       "track": "Saddlesore",
-      "details": "LP-State Of Shock"
+      "details": "LP-State Of Shock",
+      "verified_timestamp": 602.47
     },
     {
       "artist": "Barclay James Harvest",
       "track": "Suicide",
-      "details": "LP-Octoberon"
+      "details": "LP-Octoberon",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "New England",
       "track": "'Don't Ever Want to Lose You'",
-      "details": "LP-New England"
+      "details": "LP-New England",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Genesis",
@@ -50,7 +54,8 @@
     {
       "artist": "Deep Purple",
       "track": "Painter",
-      "details": "1969 MK I Session"
+      "details": "1969 MK I Session",
+      "verified_timestamp": 2178.51
     },
     {
       "artist": "Deep Purple",
@@ -65,47 +70,56 @@
     {
       "artist": "Deep Purple",
       "track": "Speed King",
-      "details": "1969 MK II Session"
+      "details": "1969 MK II Session",
+      "verified_timestamp": 2178.51
     },
     {
       "artist": "Dire Straits",
       "track": "Communique",
-      "details": "LP-Communique"
+      "details": "LP-Communique",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Special AKA",
       "track": "Gangsters",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 3506.11
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 71.18
     },
     {
       "artist": "Deep Purple",
       "track": "Child In Time",
-      "details": "1970 Session"
+      "details": "1970 Session",
+      "verified_timestamp": 2178.51
     },
     {
       "artist": "Nils Lofgren",
       "track": "No Mercy",
-      "details": "LP-Nils"
+      "details": "LP-Nils",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Pink Fairies",
       "track": "Heavenly Man",
-      "details": "LP-Never Never Land"
+      "details": "LP-Never Never Land",
+      "verified_timestamp": 5724.34
     },
     {
       "artist": "Dave Edmunds",
       "track": "Bad Is Bad",
-      "details": "LP-Repeat When Necessary"
+      "details": "LP-Repeat When Necessary",
+      "verified_timestamp": 6217.89
     },
     {
       "artist": "Climax Blues Band",
       "track": "Fat City",
-      "details": "LP-Real To Reel"
+      "details": "LP-Real To Reel",
+      "verified_timestamp": 6207.67
     },
     {
       "artist": "Deep Purple",
@@ -125,7 +139,8 @@
     {
       "artist": "Enid",
       "track": "Dambusters March/Land Of Hope And Glory",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 7295.08
     }
   ],
   "transcript": [

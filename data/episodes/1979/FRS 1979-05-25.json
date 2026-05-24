@@ -31,127 +31,152 @@
     {
       "artist": "Blue Oyster Cult",
       "track": "'Don't Fear The Reaper'",
-      "details": null
+      "details": null,
+      "verified_timestamp": 725.84
     },
     {
       "artist": "The Band with Eric Clapton",
       "track": "Further On Up The Road",
-      "details": "LP-Last Waltz"
+      "details": "LP-Last Waltz",
+      "verified_timestamp": 696.44
     },
     {
       "artist": "Judie Tzuke",
       "track": "Katiera Island",
-      "details": "LP-Welcome To The Cruise"
+      "details": "LP-Welcome To The Cruise",
+      "verified_timestamp": 1276.98
     },
     {
       "artist": "Ian Dury",
       "track": "'Don't Ask Me'",
-      "details": "LP-Do It Yourself"
+      "details": "LP-Do It Yourself",
+      "verified_timestamp": 1274.98
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Stone Free",
-      "details": "Saturday Club 1967-02-13"
+      "details": "Saturday Club 1967-02-13",
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Hey Joe",
-      "details": "Saturday Club 1967-02-13"
+      "details": "Saturday Club 1967-02-13",
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Love Or Confusion",
-      "details": "Saturday Club 1967-02-13"
+      "details": "Saturday Club 1967-02-13",
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Foxy Lady",
-      "details": "Saturday Club 1967-02-13"
+      "details": "Saturday Club 1967-02-13",
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Invaders",
       "track": "Girls In Action",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2734.45
     },
     {
       "artist": "Robert Palmer",
       "track": "Doctor Doctor",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2731.23
     },
     {
       "artist": "Devo",
       "track": "The Day My Baby Gave Me A Surprise",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 95.76
     },
     {
       "artist": "Ohio Players",
       "track": "Take De Funk Off Fly",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4562.39
     },
     {
       "artist": "Ronnie Wood",
       "track": "We All Get Old",
-      "details": "LP-Gimme Some Neck"
+      "details": "LP-Gimme Some Neck",
+      "verified_timestamp": 4551.53
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Radio One Jingle",
-      "details": "Top Gear 1967-12-15"
+      "details": "Top Gear 1967-12-15",
+      "verified_timestamp": 66.86
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Voodoo Chile",
-      "details": "Happening For Lulu 1969-01-04"
+      "details": "Happening For Lulu 1969-01-04",
+      "verified_timestamp": 4657.23
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Hey Joe",
-      "details": "Happening For Lulu 1969-01-04"
+      "details": "Happening For Lulu 1969-01-04",
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Sunshine Of Your Love",
-      "details": "Happening For Lulu 1969-01-04"
+      "details": "Happening For Lulu 1969-01-04",
+      "verified_timestamp": 4657.23
     },
     {
       "artist": "Jimi Hendrix with Stevie Wonder",
       "track": "In The Midnight Hour Jam",
-      "details": "Top Gear 1967-10-06"
+      "details": "Top Gear 1967-10-06",
+      "verified_timestamp": 5204.8
     },
     {
       "artist": "Brand X",
       "track": "Black Moon",
-      "details": "LP-Masques"
+      "details": "LP-Masques",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Doors",
       "track": "Riders On The Storm",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Can You Please Crawl Out Your Window",
-      "details": "World Service Rhythm & Blues 1967-10-17"
+      "details": "World Service Rhythm & Blues 1967-10-17",
+      "verified_timestamp": 7151.48
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Hoochie Coochie Man",
-      "details": "World Service Rhythm & Blues 1967-10-17"
+      "details": "World Service Rhythm & Blues 1967-10-17",
+      "verified_timestamp": 7149.18
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Driving South",
-      "details": "World Service Rhythm & Blues 1967-10-17"
+      "details": "World Service Rhythm & Blues 1967-10-17",
+      "verified_timestamp": 7147.38
     },
     {
       "artist": "Alice Cooper",
       "track": "Schools Out",
-      "details": null
+      "details": null,
+      "verified_timestamp": 7313.06
     }
   ],
   "transcript": [

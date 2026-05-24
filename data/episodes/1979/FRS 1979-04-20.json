@@ -23,47 +23,56 @@
     {
       "artist": "Rolling Stones",
       "track": "Sympathy For The Devil",
-      "details": "LP-Beggar's Banquet"
+      "details": "LP-Beggar's Banquet",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Ironhorse",
       "track": "Old Fashioned",
-      "details": "LP-Ironhorse"
+      "details": "LP-Ironhorse",
+      "verified_timestamp": 244.3
     },
     {
       "artist": "John Miles",
       "track": "Oh Dear",
-      "details": "1979 Session"
+      "details": "1979 Session",
+      "verified_timestamp": 282.73
     },
     {
       "artist": "Manfred Mann",
       "track": "Visionary Mountains",
-      "details": "LP-Nightingales And Bombers"
+      "details": "LP-Nightingales And Bombers",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Simple Minds",
       "track": "Someone",
-      "details": "LP-Life In A Day"
+      "details": "LP-Life In A Day",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Montrose",
       "track": "Bad Motor Scooter",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Family",
       "track": "See Through Windows",
-      "details": "Saturday Club 1968-09-03"
+      "details": "Saturday Club 1968-09-03",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Family",
       "track": "'The Weaver's Answer'",
-      "details": "Saturday Club 1968-09-03"
+      "details": "Saturday Club 1968-09-03",
+      "verified_timestamp": 2245.28
     },
     {
       "artist": "Family",
       "track": "Breeze",
-      "details": "Saturday Club 1968-09-03"
+      "details": "Saturday Club 1968-09-03",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "John Miles",
@@ -73,12 +82,14 @@
     {
       "artist": "Robert Fripp",
       "track": "Exposure",
-      "details": "LP-Exposure"
+      "details": "LP-Exposure",
+      "verified_timestamp": 3580.26
     },
     {
       "artist": "Bruford",
       "track": "Sahara Of Snow Pts 1 & 2",
-      "details": "LP-One Of A Kind"
+      "details": "LP-One Of A Kind",
+      "verified_timestamp": 3539.56
     },
     {
       "artist": "John Miles",
@@ -88,22 +99,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3875.05
     },
     {
       "artist": "Family",
       "track": "The Cat And The Rat",
-      "details": "Top Gear 1969-07-28"
+      "details": "Top Gear 1969-07-28",
+      "verified_timestamp": 5538.02
     },
     {
       "artist": "Family",
       "track": "Wheels",
-      "details": "Top Gear 1969-07-28"
+      "details": "Top Gear 1969-07-28",
+      "verified_timestamp": 5538.02
     },
     {
       "artist": "Family",
       "track": "No Mules Fool",
-      "details": "Top Gear 1969-07-28"
+      "details": "Top Gear 1969-07-28",
+      "verified_timestamp": 5538.02
     },
     {
       "artist": "Thin Lizzy",
@@ -113,12 +128,14 @@
     {
       "artist": "Robin Trower",
       "track": "'I'm Out To Get You'",
-      "details": "LP-Caravan To Midnight"
+      "details": "LP-Caravan To Midnight",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "David Bowie",
       "track": "Boys Keep Swinging",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "John Miles",

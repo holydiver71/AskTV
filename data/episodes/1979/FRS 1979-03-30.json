@@ -22,7 +22,8 @@
     {
       "artist": "Golden Earring",
       "track": "Radar Love",
-      "details": "LP-Moontan; Track Record"
+      "details": "LP-Moontan; Track Record",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Bram Tchaikovsky",
@@ -32,27 +33,32 @@
     {
       "artist": "Man",
       "track": "Day And Night",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 383.3
     },
     {
       "artist": "Ashra",
       "track": "Phantasus",
-      "details": "LP-Correlations; Virgin"
+      "details": "LP-Correlations; Virgin",
+      "verified_timestamp": 1534.62
     },
     {
       "artist": "Scorpions",
       "track": "Is There Anybody There?",
-      "details": "LP-Lovedrive; Harvest"
+      "details": "LP-Lovedrive; Harvest",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Skids",
       "track": "Walk On The Wild Side",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1573.08
     },
     {
       "artist": "Sex Pistols",
       "track": "Silly Thing",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
@@ -67,12 +73,14 @@
     {
       "artist": "Carlos Santana & Buddy Miles",
       "track": "Them Changes",
-      "details": "LP-Carlos Santana & Buddy Miles! Live!; CBS"
+      "details": "LP-Carlos Santana & Buddy Miles! Live!; CBS",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Devadip (Carlos Santana)",
       "track": "Song For Devadip",
-      "details": "LP-Oneness, Silver Dreams - Golden Reality; CBS"
+      "details": "LP-Oneness, Silver Dreams - Golden Reality; CBS",
+      "verified_timestamp": 2994.89
     },
     {
       "artist": "Skids",
@@ -82,7 +90,8 @@
     {
       "artist": "Simple Minds",
       "track": "Life In A Day",
-      "details": "7\"; Zoom; tape flip in the middle of this"
+      "details": "7\"; Zoom; tape flip in the middle of this",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Man",
@@ -92,12 +101,14 @@
     {
       "artist": "Vangelis",
       "track": "Chung Kuo",
-      "details": "LP-China; Polydor"
+      "details": "LP-China; Polydor",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 25.88
     },
     {
       "artist": "Skids",
@@ -107,7 +118,8 @@
     {
       "artist": "UK",
       "track": "Nothing To Lose",
-      "details": "LP-Danger Money; Polydor"
+      "details": "LP-Danger Money; Polydor",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Man",
@@ -117,7 +129,8 @@
     {
       "artist": "The Boyzz",
       "track": "Back To Kansas",
-      "details": "LP-Too Wild To Tame; Epic"
+      "details": "LP-Too Wild To Tame; Epic",
+      "verified_timestamp": 6950.34
     }
   ],
   "transcript": [

@@ -23,77 +23,92 @@
     {
       "artist": "Joe Walsh",
       "track": "Rocky Mountain Way",
-      "details": "LP-You Can't Argue With A Sick Mind"
+      "details": "LP-You Can't Argue With A Sick Mind",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Siouxsie & The Banshees",
       "track": "Staircase",
-      "details": "Mystery; 7\" Single"
+      "details": "Mystery; 7\" Single",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Neil Young",
       "track": "A Man Needs A Maid",
-      "details": "LP-Harvest"
+      "details": "LP-Harvest",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Crazy Horse",
       "track": "Downhill",
-      "details": "LP-Crazy Moon"
+      "details": "LP-Crazy Moon",
+      "verified_timestamp": 1628.58
     },
     {
       "artist": "Black Sabbath",
       "track": "After Forever",
-      "details": "LP-Masters Of Reality"
+      "details": "LP-Masters Of Reality",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Cream",
       "track": "'Cat's Squirrel'",
-      "details": "World Service Rhythm & Blues 1966-12-09"
+      "details": "World Service Rhythm & Blues 1966-12-09",
+      "verified_timestamp": 2469.76
     },
     {
       "artist": "Cream",
       "track": "Train Time",
-      "details": "World Service Rhythm & Blues 1966-12-09"
+      "details": "World Service Rhythm & Blues 1966-12-09",
+      "verified_timestamp": 2468.04
     },
     {
       "artist": "Cream",
       "track": "Hey Lordy Mama",
-      "details": "World Service Rhythm & Blues 1966-12-09"
+      "details": "World Service Rhythm & Blues 1966-12-09",
+      "verified_timestamp": 2466.46
     },
     {
       "artist": "Cream",
       "track": "'I'm So Glad'",
-      "details": "World Service Rhythm & Blues 1966-12-09"
+      "details": "World Service Rhythm & Blues 1966-12-09",
+      "verified_timestamp": 2462.62
     },
     {
       "artist": "Thin Lizzy",
       "track": "Get Out Of Here",
-      "details": "LP-Black Rose"
+      "details": "LP-Black Rose",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Ian Hunter",
       "track": "Is There Life After Death",
-      "details": "LP-You're Never Alone With A Schizophrenic"
+      "details": "LP-You're Never Alone With A Schizophrenic",
+      "verified_timestamp": 2947.19
     },
     {
       "artist": "Blue Cheer",
       "track": "Summertime Blues",
-      "details": "LP-Vincebus Eruptum"
+      "details": "LP-Vincebus Eruptum",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Jefferson Starship",
       "track": "Ride The Tiger",
-      "details": "LP-Gold"
+      "details": "LP-Gold",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.19
     },
     {
       "artist": "Tubes",
       "track": "Telecide",
-      "details": "LP-Remote Control"
+      "details": "LP-Remote Control",
+      "verified_timestamp": 5238.1
     },
     {
       "artist": "Cream",
@@ -128,17 +143,20 @@
     {
       "artist": "Flys",
       "track": "Name Dropping",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 6592.63
     },
     {
       "artist": "Fripp and Eno",
       "track": "Evening Star",
-      "details": "LP-Evening Star"
+      "details": "LP-Evening Star",
+      "verified_timestamp": 6925.02
     },
     {
       "artist": "Scorpions",
       "track": "Loving You Sunday Morning",
-      "details": "LP-Lovedrive"
+      "details": "LP-Lovedrive",
+      "verified_timestamp": 7267.45
     }
   ],
   "transcript": [

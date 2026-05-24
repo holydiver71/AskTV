@@ -21,7 +21,8 @@
     {
       "artist": "Dixie Dregs",
       "track": "Take It Off The Top",
-      "details": "LP-What If; Capricorn"
+      "details": "LP-What If; Capricorn",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Rolling Stones",
@@ -31,37 +32,44 @@
     {
       "artist": "Magazine",
       "track": "Burst",
-      "details": "Peel Session #2"
+      "details": "Peel Session #2",
+      "verified_timestamp": 596.74
     },
     {
       "artist": "King Crimson",
       "track": "The Court Of The Crimson King",
-      "details": "LP-In The Court Of The Crimson King; Island"
+      "details": "LP-In The Court Of The Crimson King; Island",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Frankie Miller",
       "track": "'Ain't Got No Money'",
-      "details": "Peel Session #2"
+      "details": "Peel Session #2",
+      "verified_timestamp": 1459.53
     },
     {
       "artist": "Deep Purple",
       "track": "Highway Star",
-      "details": "LP-Made In Japan; Purple Records"
+      "details": "LP-Made In Japan; Purple Records",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Cheap Trick",
       "track": "Surrender",
-      "details": "LP-Cheap Trick At Budokan; Epic"
+      "details": "LP-Cheap Trick At Budokan; Epic",
+      "verified_timestamp": 2356.85
     },
     {
       "artist": "Kevin Coyne",
       "track": "'Don't Blame Mandy' (LP-Millionaires And Teddy Bears) (Virgin)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2549.27
     },
     {
       "artist": "Montrose",
       "track": "Space Station #5",
-      "details": "LP-Montrose; Warner Bros."
+      "details": "LP-Montrose; Warner Bros.",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Magazine",
@@ -76,7 +84,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.44
     },
     {
       "artist": "Magazine",
@@ -86,7 +95,8 @@
     {
       "artist": "Bob Dylan",
       "track": "Sad Eyed Lady Of The Lowlands",
-      "details": "2xLP-Blonde On Blonde; CBS"
+      "details": "2xLP-Blonde On Blonde; CBS",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Magazine",
@@ -96,12 +106,14 @@
     {
       "artist": "Aerosmith",
       "track": "Walk This Way",
-      "details": "2xLP-Live Bootleg; CBS"
+      "details": "2xLP-Live Bootleg; CBS",
+      "verified_timestamp": 5700.61
     },
     {
       "artist": "Dave Edmunds & Rockpile",
       "track": "I Hear You Knocking",
-      "details": "Live At The Bottom Line"
+      "details": "Live At The Bottom Line",
+      "verified_timestamp": 5767.36
     },
     {
       "artist": "Frankie Miller",
@@ -111,7 +123,8 @@
     {
       "artist": "Bill Nelson's Red Noise",
       "track": "The Atom Age",
-      "details": "LP-Sound On Sound; Harvest"
+      "details": "LP-Sound On Sound; Harvest",
+      "verified_timestamp": 6131.07
     },
     {
       "artist": "Elvis Costello",
@@ -121,7 +134,8 @@
     {
       "artist": "Lynyrd Skynyrd",
       "track": "Free Bird",
-      "details": "LP-Pronounced 'Lĕh-'nérd 'Skin-'nérd; MCA"
+      "details": "LP-Pronounced 'Lĕh-'nérd 'Skin-'nérd; MCA",
+      "verified_timestamp": 6480.0
     }
   ],
   "transcript": [

@@ -23,12 +23,14 @@
     {
       "artist": "Weather Report",
       "track": "Gibraltar",
-      "details": "LP-Black Market; CBS"
+      "details": "LP-Black Market; CBS",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Queen",
       "track": "Spread Your Wings",
-      "details": "Peel Session #3"
+      "details": "Peel Session #3",
+      "verified_timestamp": 198.42
     },
     {
       "artist": "Eddie & The Hot Rods",
@@ -38,17 +40,20 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 731.82
     },
     {
       "artist": "Alternative TV",
       "track": "Love Lies Limp",
-      "details": "Peel Session #1"
+      "details": "Peel Session #1",
+      "verified_timestamp": 173.69
     },
     {
       "artist": "Boyzz",
       "track": "Hoochie Koochie",
-      "details": "LP-Too Wild To Tame; Epic"
+      "details": "LP-Too Wild To Tame; Epic",
+      "verified_timestamp": 2693.85
     },
     {
       "artist": "Who",
@@ -63,7 +68,8 @@
     {
       "artist": "Gruppo Sportivo",
       "track": "I Said No!",
-      "details": "LP-Back To 78; Epic"
+      "details": "LP-Back To 78; Epic",
+      "verified_timestamp": 3178.62
     },
     {
       "artist": "Alternative TV",
@@ -73,12 +79,14 @@
     {
       "artist": "Neutrons",
       "track": "Dance Of The Psychedelic Lounge Lizards",
-      "details": "LP-Black Hole Star; United Artists"
+      "details": "LP-Black Hole Star; United Artists",
+      "verified_timestamp": 3551.78
     },
     {
       "artist": "Kansas",
       "track": "Dust In The Wind",
-      "details": "2xLP-Two For The Show; Kirshner"
+      "details": "2xLP-Two For The Show; Kirshner",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Queen",

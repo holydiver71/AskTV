@@ -21,42 +21,50 @@
     {
       "artist": "Bad Company",
       "track": "‘Deal With The Preacher’",
-      "details": "LP - Straight Shooter"
+      "details": "LP - Straight Shooter",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Bram Tchaikovski",
       "track": "‘Girl Of My Dreams’",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Streetwalkers",
       "track": "‘Get Out Of My Life Woman’",
-      "details": "Peel Session 1974-06-27"
+      "details": "Peel Session 1974-06-27",
+      "verified_timestamp": 649.84
     },
     {
       "artist": "Tom Robinson",
       "track": "‘Bully For You’",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 1390.46
     },
     {
       "artist": "Thin Lizzy",
       "track": "‘The Warrior’",
-      "details": "Peel Session 1976-02-12"
+      "details": "Peel Session 1976-02-12",
+      "verified_timestamp": 1371.18
     },
     {
       "artist": "Moody Blues",
       "track": "‘Legend Of A Mind’",
-      "details": "LP - In Search Of The Lost Chord"
+      "details": "LP - In Search Of The Lost Chord",
+      "verified_timestamp": 2117.89
     },
     {
       "artist": "Outsiders",
       "track": "‘Keep The Pain Inside’",
-      "details": "LP - Closer"
+      "details": "LP - Closer",
+      "verified_timestamp": 2110.87
     },
     {
       "artist": "Motorhead",
       "track": "‘Overkill’",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Streetwalkers",
@@ -76,12 +84,14 @@
     {
       "artist": "Frank Zappa",
       "track": "‘Dancing Fool’",
-      "details": "LP - Sheik Yerbouti"
+      "details": "LP - Sheik Yerbouti",
+      "verified_timestamp": 3208.28
     },
     {
       "artist": "Eddie and The Hot Rods",
       "track": "‘Power And the Glory’",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 3400.88
     },
     {
       "artist": "Streetwalkers",
@@ -91,17 +101,20 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 49.89
     },
     {
       "artist": "Roxy Music",
       "track": "‘Strong Through The Years’",
-      "details": "LP - Manifesto"
+      "details": "LP - Manifesto",
+      "verified_timestamp": 5360.93
     },
     {
       "artist": "Roxy Music",
       "track": "‘Ain't That So’",
-      "details": "LP - Manifesto"
+      "details": "LP - Manifesto",
+      "verified_timestamp": 5358.27
     },
     {
       "artist": "Thin Lizzy",
@@ -121,12 +134,14 @@
     {
       "artist": "Buzzcocks",
       "track": "‘Everybody's Happy Nowadays’",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 6645.24
     },
     {
       "artist": "Velvet Underground",
       "track": "‘Beginning To See The Light’",
-      "details": "LP - 1969 Velvet Underground Live With Lou Reed"
+      "details": "LP - 1969 Velvet Underground Live With Lou Reed",
+      "verified_timestamp": 6640.76
     },
     {
       "artist": "Thin Lizzy",
@@ -136,7 +151,8 @@
     {
       "artist": "Cheap Trick",
       "track": "‘Clock Strikes Ten’",
-      "details": "LP - Budokan"
+      "details": "LP - Budokan",
+      "verified_timestamp": 7234.16
     }
   ],
   "transcript": [

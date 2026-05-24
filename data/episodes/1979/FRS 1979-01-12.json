@@ -26,37 +26,44 @@
     {
       "artist": "The Byrds",
       "track": "Eight Miles High",
-      "details": "LP-Fifth Dimension; CBS"
+      "details": "LP-Fifth Dimension; CBS",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Only Ones",
       "track": "Miles From Nowhere",
-      "details": "Peel Session #3"
+      "details": "Peel Session #3",
+      "verified_timestamp": 742.17
     },
     {
       "artist": "Rod Argent",
       "track": "Smiling",
-      "details": "LP-Moving Home; MCA"
+      "details": "LP-Moving Home; MCA",
+      "verified_timestamp": 1246.07
     },
     {
       "artist": "Little Feat",
       "track": "Long Distance Love",
-      "details": "LP-The Last Record Album; Warner Brothers"
+      "details": "LP-The Last Record Album; Warner Brothers",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Stretch",
       "track": "'Can't Judge A Book'",
-      "details": "Peel Session #1"
+      "details": "Peel Session #1",
+      "verified_timestamp": 1799.62
     },
     {
       "artist": "Bill Nelson's Red Noise",
       "track": "Out Of Touch",
-      "details": "LP-Sound On Sound; Harvest"
+      "details": "LP-Sound On Sound; Harvest",
+      "verified_timestamp": 2401.45
     },
     {
       "artist": "Barclay James Harvest",
       "track": "Rock N Roll Star",
-      "details": "LP-Octoberon; Polydor"
+      "details": "LP-Octoberon; Polydor",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Only Ones",
@@ -81,7 +88,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 48.86
     },
     {
       "artist": "Johnny Guitar Watson",
@@ -91,7 +99,8 @@
     {
       "artist": "Firefall",
       "track": "Get You Back",
-      "details": "LP-Elan; Atlantic"
+      "details": "LP-Elan; Atlantic",
+      "verified_timestamp": 4928.72
     },
     {
       "artist": "Only Ones",
@@ -101,12 +110,14 @@
     {
       "artist": "Syd Barrett",
       "track": "Effervescing Elephant",
-      "details": "LP-Barrett; Harvest"
+      "details": "LP-Barrett; Harvest",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Jethro Tull",
       "track": "Locomotive Breath",
-      "details": "LP-Aqualung; Chrysalis"
+      "details": "LP-Aqualung; Chrysalis",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Stretch",
@@ -116,12 +127,14 @@
     {
       "artist": "Elvis Costello & The Attractions",
       "track": "Moods For Moderns",
-      "details": "LP-Armed Forces; Radar"
+      "details": "LP-Armed Forces; Radar",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "It's A Beautiful Day",
       "track": "White Bird",
-      "details": "LP-It's A Beautiful Day; CBS"
+      "details": "LP-It's A Beautiful Day; CBS",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Only Ones",
@@ -136,7 +149,8 @@
     {
       "artist": "Uriah Heep",
       "track": "Look At Yourself",
-      "details": "2xLP-Uriah Heep Live; Bronze"
+      "details": "2xLP-Uriah Heep Live; Bronze",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

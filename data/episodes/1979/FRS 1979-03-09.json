@@ -48,7 +48,8 @@
     {
       "artist": "David Bowie",
       "track": "‘Ziggy Stardust’",
-      "details": "Peel Session 1972-01-11"
+      "details": "Peel Session 1972-01-11",
+      "verified_timestamp": 1082.67
     },
     {
       "artist": "David Bowie",
@@ -93,7 +94,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3413.87
     },
     {
       "artist": null,
@@ -108,7 +110,8 @@
     {
       "artist": "Carlos Santana",
       "track": "‘Life Is Just A Passing Parade’ (LP-Oneness, Silver Dreams-Golden Reality) (CBS)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4877.06
     },
     {
       "artist": null,
@@ -118,7 +121,8 @@
     {
       "artist": "David Bowie",
       "track": "‘John, I'm Only Dancing’",
-      "details": "1972-09-21 Session"
+      "details": "1972-09-21 Session",
+      "verified_timestamp": 1082.67
     },
     {
       "artist": "David Bowie",
@@ -138,7 +142,8 @@
     {
       "artist": "Rick Wakeman",
       "track": "‘Rhapsody In Blue’ (2xLP-Rhapsodies) (A&M)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5701.16
     },
     {
       "artist": "Rick Wakeman",

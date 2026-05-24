@@ -32,47 +32,56 @@
     {
       "artist": "Herbie Hancock",
       "track": "Honey From The Jar",
-      "details": "LP-Feets Don't Fail Me Now; CBS"
+      "details": "LP-Feets Don't Fail Me Now; CBS",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Little Feat",
       "track": "Oh Atlanta",
-      "details": "LP-Feats Don't Fail Me Now; Warner Bros"
+      "details": "LP-Feats Don't Fail Me Now; Warner Bros",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "The Yardbirds",
       "track": "Over Under Sideways Down",
-      "details": "1966 Session"
+      "details": "1966 Session",
+      "verified_timestamp": 711.38
     },
     {
       "artist": "Wreckless Eric",
       "track": "Be Stiff",
-      "details": "LP-V/A - Be Stiff; Stiff"
+      "details": "LP-V/A - Be Stiff; Stiff",
+      "verified_timestamp": 1074.45
     },
     {
       "artist": "Camel",
       "track": "Never Let Go",
-      "details": "LP-Camel; MCA"
+      "details": "LP-Camel; MCA",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Average White Band",
       "track": "Feel No Fret",
-      "details": "LP-Feel No Fret; RCA"
+      "details": "LP-Feel No Fret; RCA",
+      "verified_timestamp": 1844.36
     },
     {
       "artist": "Brand X",
       "track": "The Ancient Mysteries",
-      "details": "Peel Session #1"
+      "details": "Peel Session #1",
+      "verified_timestamp": 685.8
     },
     {
       "artist": "J Geils Band",
       "track": "I Could Hurt You",
-      "details": "LP-Sanctuary; EMI America"
+      "details": "LP-Sanctuary; EMI America",
+      "verified_timestamp": 2955.98
     },
     {
       "artist": "Focus",
       "track": "Red Sky At Night",
-      "details": "LP-Ship Of Memories; Harvest"
+      "details": "LP-Ship Of Memories; Harvest",
+      "verified_timestamp": 2364.2
     },
     {
       "artist": "The Yardbirds",
@@ -82,17 +91,20 @@
     {
       "artist": "McGuinn, Clark & Hillman",
       "track": "Sad Boy",
-      "details": "LP-McGuinn, Clark & Hillman; Capitol"
+      "details": "LP-McGuinn, Clark & Hillman; Capitol",
+      "verified_timestamp": 3425.61
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3431.25
     },
     {
       "artist": "Van Halen",
       "track": "Running With The Devil",
-      "details": "LP-Van Halen; Warner Bros"
+      "details": "LP-Van Halen; Warner Bros",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Sweet",
@@ -112,7 +124,8 @@
     {
       "artist": "Grand Hotel",
       "track": "Do Not Disturb",
-      "details": "LP-Do Not Disturb; CBS"
+      "details": "LP-Do Not Disturb; CBS",
+      "verified_timestamp": 5556.15
     },
     {
       "artist": "Brand X",
@@ -122,7 +135,8 @@
     {
       "artist": "Eddie Money",
       "track": "Nightmare",
-      "details": "LP-Life For The Taking; CBS"
+      "details": "LP-Life For The Taking; CBS",
+      "verified_timestamp": 6555.14
     }
   ],
   "transcript": [
