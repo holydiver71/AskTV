@@ -215,9 +215,10 @@
       "text": "here is Rory Gallagher."
     },
     {
-      "start": 79.4,
-      "end": 107.68,
-      "text": "You know something?"
+      "start": 69.08,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 108.2,
@@ -246,8 +247,14 @@
     },
     {
       "start": 122.47,
-      "end": 710.69,
+      "end": 126.67,
       "text": "8 Miles High, a really classic track"
+    },
+    {
+      "start": 540.0,
+      "end": 710.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 710.69,
@@ -300,6 +307,12 @@
       "text": "And now, let's hear something from the only ones."
     },
     {
+      "start": 744.33,
+      "end": 1241.07,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1239.74,
       "end": 1242.77,
       "text": "There's one of the real talents in the United Kingdom."
@@ -338,6 +351,12 @@
       "start": 1262.93,
       "end": 1263.87,
       "text": "Mike, this is for you."
+    },
+    {
+      "start": 1263.87,
+      "end": 1794.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1799.62,
@@ -406,8 +425,20 @@
     },
     {
       "start": 1847.79,
-      "end": 2378.22,
+      "end": 1852.59,
       "text": "Beautiful piece of music by Barclay James Harvest."
+    },
+    {
+      "start": 1852.59,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2378.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2378.8,
@@ -496,8 +527,14 @@
     },
     {
       "start": 2430.98,
-      "end": 2908.83,
+      "end": 2433.98,
       "text": "Written by George Harrison."
+    },
+    {
+      "start": 2433.98,
+      "end": 2910.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2910.71,
@@ -746,7 +783,7 @@
     },
     {
       "start": 4437.26,
-      "end": 4924.04,
+      "end": 4448.06,
       "text": "why don't you do it right now it's 11 16 and here's johnny guitar watson track that's really"
     },
     {
@@ -771,8 +808,26 @@
     },
     {
       "start": 4942.26,
-      "end": 5495.22,
+      "end": 4951.26,
       "text": "session by the only ones. Ian Anderson and Jethro Tull, which of course was Aqualung,"
+    },
+    {
+      "start": 4951.26,
+      "end": 5215.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5220.0,
+      "end": 5395.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5400.0,
+      "end": 5495.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5495.52,
@@ -831,8 +886,14 @@
     },
     {
       "start": 5556.06,
-      "end": 5897.56,
+      "end": 5559.06,
       "text": "more from Stretch. Elvis Costello"
+    },
+    {
+      "start": 5760.0,
+      "end": 5897.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5897.56,
@@ -881,8 +942,14 @@
     },
     {
       "start": 5915.44,
-      "end": 6290.66,
+      "end": 5918.44,
       "text": "state. He brings it back."
+    },
+    {
+      "start": 5940.0,
+      "end": 6290.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6290.76,
@@ -906,7 +973,7 @@
     },
     {
       "start": 6300.78,
-      "end": 6492.32,
+      "end": 6306.18,
       "text": "Put together in the BBC Studios just last December,"
     },
     {
@@ -951,8 +1018,14 @@
     },
     {
       "start": 6702.9,
-      "end": 7073.22,
+      "end": 6707.7,
       "text": "And look at yourselves, especially for Alan Roy"
+    },
+    {
+      "start": 6840.0,
+      "end": 7073.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7073.22,

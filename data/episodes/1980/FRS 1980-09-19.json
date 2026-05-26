@@ -131,8 +131,26 @@
       "type": "music"
     },
     {
+      "start": 71.78,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 180.0,
       "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 550.98,
       "text": "[Music]",
       "type": "music"
     },
@@ -354,8 +372,26 @@
       "type": "music"
     },
     {
+      "start": 711.66,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 720.0,
       "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1260.0,
+      "end": 1410.39,
       "text": "[Music]",
       "type": "music"
     },
@@ -484,6 +520,12 @@
       "start": 1996.85,
       "end": 2009.45,
       "text": "we hope we get out there with kids anyway this is a song called killers this is one where the boys"
+    },
+    {
+      "start": 2009.45,
+      "end": 3703.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2009.45,
@@ -714,6 +756,18 @@
     {
       "start": 6660.0,
       "end": 6835.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6660.0,
+      "end": 6835.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6840.0,
+      "end": 7027.38,
       "text": "[Music]",
       "type": "music"
     },

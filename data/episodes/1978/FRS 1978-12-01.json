@@ -148,8 +148,14 @@
     },
     {
       "start": 59.25,
-      "end": 544.74,
+      "end": 70.05,
       "text": "get yourself a 10 pound record token it's cold outside but in here the music's hot magic little"
+    },
+    {
+      "start": 70.05,
+      "end": 544.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 544.74,
@@ -213,8 +219,14 @@
     },
     {
       "start": 598.57,
-      "end": 786.57,
+      "end": 603.37,
       "text": "The 11th of March 1975, they recorded that"
+    },
+    {
+      "start": 603.37,
+      "end": 786.57,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 786.57,
@@ -233,7 +245,7 @@
     },
     {
       "start": 793.63,
-      "end": 1347.02,
+      "end": 796.63,
       "text": "Way back in 1970,"
     },
     {
@@ -402,9 +414,10 @@
       "text": "She's so afraid."
     },
     {
-      "start": 1445.63,
-      "end": 1495.05,
-      "text": "She's not the rage."
+      "start": 1445.35,
+      "end": 1552.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1495.63,
@@ -597,11 +610,6 @@
       "text": "process around"
     },
     {
-      "start": 1708.76,
-      "end": 1757.95,
-      "text": "make out"
-    },
-    {
       "start": 1757.95,
       "end": 1763.54,
       "text": "little street car"
@@ -693,8 +701,14 @@
     },
     {
       "start": 2510.84,
-      "end": 2708.86,
+      "end": 2521.04,
       "text": "from the lp backless eric clapton and his orchestra and the new album is out on rso"
+    },
+    {
+      "start": 2520.0,
+      "end": 2853.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2708.86,
@@ -703,7 +717,7 @@
     },
     {
       "start": 2714.16,
-      "end": 2853.26,
+      "end": 2724.96,
       "text": "bebop deluxe that was bebop deluxe and i think all made in heaven actually it wasn't it was"
     },
     {
@@ -733,7 +747,7 @@
     },
     {
       "start": 2875.18,
-      "end": 3328.68,
+      "end": 2885.38,
       "text": "On the stands at Tester Tire, it first came out in 1967, Nico and the Velvet Underground"
     },
     {
@@ -763,7 +777,7 @@
     },
     {
       "start": 3346.28,
-      "end": 3543.17,
+      "end": 3353.48,
       "text": "Polly Styrene and her mob, known as X-ray specs and germ-free adolescence."
     },
     {
@@ -953,7 +967,7 @@
     },
     {
       "start": 3674.24,
-      "end": 4461.11,
+      "end": 3683.24,
       "text": "pieces of music that have a very definite connection so says jim cleave of jarrow"
     },
     {
@@ -993,7 +1007,7 @@
     },
     {
       "start": 4576.38,
-      "end": 4698.96,
+      "end": 4582.98,
       "text": "A bit of history from a band who are no more"
     },
     {
@@ -1215,11 +1229,6 @@
       "start": 4979.45,
       "end": 4980.67,
       "text": "Fancy a bit of Dr John?"
-    },
-    {
-      "start": 4980.69,
-      "end": 5045.78,
-      "text": "Thank you."
     }
   ]
 }

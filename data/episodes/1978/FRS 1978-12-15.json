@@ -175,8 +175,14 @@
     },
     {
       "start": 70.02,
-      "end": 577.49,
+      "end": 81.42,
       "text": "That's a guy who used to be in Elmer Gantry's Velvet Opera some time ago when they were around,"
+    },
+    {
+      "start": 81.42,
+      "end": 577.55,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 577.55,
@@ -240,8 +246,14 @@
     },
     {
       "start": 611.17,
-      "end": 934.2,
+      "end": 617.17,
       "text": "Produced by Tony Wilson way back in January of 1976."
+    },
+    {
+      "start": 617.17,
+      "end": 934.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 934.46,
@@ -295,8 +307,14 @@
     },
     {
       "start": 961.75,
-      "end": 1186.69,
+      "end": 965.95,
       "text": "It's good. It was very good indeed."
+    },
+    {
+      "start": 1080.0,
+      "end": 1186.83,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1186.83,
@@ -355,8 +373,20 @@
     },
     {
       "start": 1216.41,
-      "end": 1746.69,
+      "end": 1224.21,
       "text": "Quite amazing to remember that they were actually formed way back in 1962,"
+    },
+    {
+      "start": 1224.21,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1746.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1746.69,
@@ -415,8 +445,14 @@
     },
     {
       "start": 1817.4,
-      "end": 2120.13,
+      "end": 1822.8,
       "text": "And the title track from the album called Wavelength."
+    },
+    {
+      "start": 1822.8,
+      "end": 2120.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2120.69,
@@ -480,7 +516,7 @@
     },
     {
       "start": 2149.53,
-      "end": 2643.32,
+      "end": 2154.33,
       "text": "The unit they were when they were out."
     },
     {
@@ -540,7 +576,7 @@
     },
     {
       "start": 2673.99,
-      "end": 2868.4,
+      "end": 2685.39,
       "text": "from the radio one studios they had the flies and a thing called name dropping something that we all"
     },
     {
@@ -560,12 +596,12 @@
     },
     {
       "start": 2879.32,
-      "end": 3040.62,
+      "end": 2882.32,
       "text": "...that I sung so clear..."
     },
     {
       "start": 3040.62,
-      "end": 3444.06,
+      "end": 3046.62,
       "text": "...and he's getting his wish most of the time, unfortunately."
     },
     {
@@ -605,8 +641,14 @@
     },
     {
       "start": 3474.77,
-      "end": 3782.1,
+      "end": 3484.37,
       "text": "Lone Star, and the second of three really good tracks we've got on the programme tonight."
+    },
+    {
+      "start": 3484.37,
+      "end": 3782.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3782.18,
@@ -725,7 +767,7 @@
     },
     {
       "start": 3907.09,
-      "end": 4621.58,
+      "end": 3911.29,
       "text": "That's a little bit harder this week."
     },
     {
@@ -775,7 +817,7 @@
     },
     {
       "start": 4677.79,
-      "end": 4854.26,
+      "end": 4682.59,
       "text": "That man used to be in Thin Lizzy."
     },
     {
@@ -810,8 +852,14 @@
     },
     {
       "start": 4866.55,
-      "end": 5070.06,
+      "end": 4874.95,
       "text": "we did play that off the album a couple of weeks ago I think"
+    },
+    {
+      "start": 4874.95,
+      "end": 5070.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5070.06,
@@ -910,8 +958,14 @@
     },
     {
       "start": 5117.14,
-      "end": 5366.34,
+      "end": 5120.14,
       "text": "Nice to hear that again."
+    },
+    {
+      "start": 5220.0,
+      "end": 5366.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5366.46,
@@ -959,8 +1013,14 @@
       "text": "And I'll get Tony Wilson to read it for me, because I can't read."
     },
     {
+      "start": 5400.0,
+      "end": 6035.36,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5456.59,
-      "end": 6040.36,
+      "end": 5459.59,
       "text": "A couple of classic tracks."
     },
     {
@@ -1010,8 +1070,14 @@
     },
     {
       "start": 6064.7,
-      "end": 6399.33,
+      "end": 6068.3,
       "text": "Father sends his regards to you"
+    },
+    {
+      "start": 6068.3,
+      "end": 7084.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6399.33,
@@ -1020,7 +1086,7 @@
     },
     {
       "start": 6408.41,
-      "end": 6558.14,
+      "end": 6419.21,
       "text": "and that's our final track from the flyers very nice session gentlemen it was called love and a"
     },
     {
@@ -1030,7 +1096,7 @@
     },
     {
       "start": 6564.88,
-      "end": 7069.04,
+      "end": 6575.68,
       "text": "this is the song she said absolutely beautiful she said as recorded back in 1976 that was lone"
     },
     {

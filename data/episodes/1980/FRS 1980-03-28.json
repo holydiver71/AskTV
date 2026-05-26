@@ -155,8 +155,26 @@
       "type": "music"
     },
     {
+      "start": 83.06,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 180.0,
       "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 636.97,
       "text": "[Music]",
       "type": "music"
     },
@@ -263,6 +281,12 @@
       "type": "music"
     },
     {
+      "start": 720.0,
+      "end": 1270.96,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1270.96,
       "end": 1274.2,
       "text": "It always sounds as fresh as the first day I ever heard it."
@@ -349,6 +373,18 @@
       "type": "music"
     },
     {
+      "start": 1440.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1963.25,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1800.0,
       "end": 1963.25,
       "text": "[Music]",
@@ -412,6 +448,18 @@
     {
       "start": 2004.83,
       "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2004.83,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2624.01,
       "text": "[Music]",
       "type": "music"
     },
@@ -918,6 +966,12 @@
       "type": "music"
     },
     {
+      "start": 3541.6,
+      "end": 3910.88,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3910.88,
       "end": 3913.58,
       "text": "And tomorrow on Rock on Saturday, 4 o'clock here on Radio 1"
@@ -1271,6 +1325,12 @@
       "start": 6437.88,
       "end": 6439.98,
       "text": "It's called If You Believe Me."
+    },
+    {
+      "start": 6439.98,
+      "end": 6978.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6439.98,

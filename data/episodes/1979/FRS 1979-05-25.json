@@ -252,8 +252,14 @@
     },
     {
       "start": 104.62,
-      "end": 696.24,
+      "end": 108.22,
       "text": "Nice bit of boogie that was."
+    },
+    {
+      "start": 108.22,
+      "end": 691.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 696.44,
@@ -299,6 +305,12 @@
       "start": 716.92,
       "end": 720.49,
       "text": "You can still share the T-shirts any time you like."
+    },
+    {
+      "start": 720.49,
+      "end": 720.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 723.8,
@@ -352,8 +364,14 @@
     },
     {
       "start": 749.66,
-      "end": 1261.08,
+      "end": 752.66,
       "text": "Quite amazing, really."
+    },
+    {
+      "start": 752.66,
+      "end": 1261.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1261.16,
@@ -447,8 +465,14 @@
     },
     {
       "start": 1335.79,
-      "end": 2138.46,
+      "end": 1338.79,
       "text": "Hear that again?"
+    },
+    {
+      "start": 1338.79,
+      "end": 2133.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2138.6,
@@ -527,8 +551,14 @@
     },
     {
       "start": 2186.76,
-      "end": 2718.11,
+      "end": 2189.76,
       "text": "That band, they're so inventive"
+    },
+    {
+      "start": 2189.76,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2718.11,
@@ -717,8 +747,14 @@
     },
     {
       "start": 2891.88,
-      "end": 3868.19,
+      "end": 2897.28,
       "text": "That's what I call an inventive choice of music"
+    },
+    {
+      "start": 2897.28,
+      "end": 3868.19,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3868.19,
@@ -832,7 +868,7 @@
     },
     {
       "start": 3930.86,
-      "end": 4546.52,
+      "end": 3933.86,
       "text": "Type of track there."
     },
     {
@@ -982,8 +1018,14 @@
     },
     {
       "start": 4657.23,
-      "end": 5182.68,
+      "end": 4662.63,
       "text": "Sunshine of your love, Hey Joe and Voodoo Child."
+    },
+    {
+      "start": 4662.63,
+      "end": 5183.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5183.1,
@@ -1031,6 +1073,12 @@
       "text": "but essentially it's just a jam."
     },
     {
+      "start": 5210.78,
+      "end": 5509.02,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5509.02,
       "end": 5511.34,
       "text": "That's Stevie Wonder on drums and Jimi Hendrix on the guitar."
@@ -1074,6 +1122,18 @@
       "start": 5530.0,
       "end": 5533.38,
       "text": "And now for something entirely different by Brand X."
+    },
+    {
+      "start": 5580.0,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6197.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6197.52,
@@ -1136,11 +1196,6 @@
       "text": "This was recorded on the 17th of the 10th, 1967."
     },
     {
-      "start": 6398.1,
-      "end": 6493.64,
-      "text": "Santa's friends, boy Charles is coming."
-    },
-    {
       "start": 6494.1,
       "end": 6497.0,
       "text": "He's gonna be a son of a gun."
@@ -1179,6 +1234,12 @@
       "start": 7154.18,
       "end": 7156.6,
       "text": "from a classic, classic man."
+    },
+    {
+      "start": 7156.6,
+      "end": 7308.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7313.06,

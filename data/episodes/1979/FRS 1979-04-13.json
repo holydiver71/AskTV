@@ -158,6 +158,12 @@
       "text": "this Sunday on Radio 1 at 7pm."
     },
     {
+      "start": 624.07,
+      "end": 1294.39,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1293.33,
       "end": 1294.83,
       "text": "That's one of the many fine musicians"
@@ -289,8 +295,14 @@
     },
     {
       "start": 1390.62,
-      "end": 1803.41,
+      "end": 1394.22,
       "text": "That's Boston with their new single,"
+    },
+    {
+      "start": 1394.22,
+      "end": 1803.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1803.51,
@@ -349,8 +361,20 @@
     },
     {
       "start": 1836.98,
-      "end": 2171.84,
+      "end": 1842.98,
       "text": "And that's Steve Hillage from the album Rainbow Dome Music,"
+    },
+    {
+      "start": 1842.98,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2172.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2172.62,
@@ -379,7 +403,7 @@
     },
     {
       "start": 2308.61,
-      "end": 5424.65,
+      "end": 2320.61,
       "text": "The Pink Floyd, as recorded on Saturday the 16th of November, 1974, at Wembley, doing Dark Side of the Moon."
     },
     {

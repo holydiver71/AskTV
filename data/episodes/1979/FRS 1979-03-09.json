@@ -209,7 +209,7 @@
     },
     {
       "start": 81.39,
-      "end": 444.44,
+      "end": 92.19,
       "text": "And that was a track by The Skids from their new album, which is called Scared to Dance."
     },
     {
@@ -319,7 +319,7 @@
     },
     {
       "start": 532.14,
-      "end": 1045.91,
+      "end": 536.34,
       "text": "Tonight and tomorrow night, they're at Wembley"
     },
     {
@@ -419,8 +419,14 @@
     },
     {
       "start": 1105.11,
-      "end": 1993.28,
+      "end": 1111.71,
       "text": "And that's the track that, to the best of our knowledge,"
+    },
+    {
+      "start": 1111.71,
+      "end": 1993.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1993.34,
@@ -498,13 +504,8 @@
       "text": "Here's Frank Zappa."
     },
     {
-      "start": 2048.49,
-      "end": 2110.16,
-      "text": "...motion picture and television engineer."
-    },
-    {
       "start": 2110.5,
-      "end": 2668.2,
+      "end": 2120.7,
       "text": "I first heard that cut, I honestly thought I was listening to a soundtrack of Seaside Special."
     },
     {
@@ -574,7 +575,7 @@
     },
     {
       "start": 2734.59,
-      "end": 3381.62,
+      "end": 2737.59,
       "text": "Norman Brothers Band there,"
     },
     {
@@ -689,8 +690,14 @@
     },
     {
       "start": 3450.14,
-      "end": 4240.78,
+      "end": 3453.74,
       "text": "And that's tonight's Friday Night Connection,"
+    },
+    {
+      "start": 3453.74,
+      "end": 4240.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4240.78,
@@ -984,13 +991,8 @@
     },
     {
       "start": 4373.8,
-      "end": 4606.29,
+      "end": 4377.4,
       "text": "We saw posters on the wall"
-    },
-    {
-      "start": 4606.29,
-      "end": 4667.76,
-      "text": "Got myself a steady job"
     },
     {
       "start": 4667.76,
@@ -1004,7 +1006,7 @@
     },
     {
       "start": 4677.43,
-      "end": 4873.76,
+      "end": 4684.03,
       "text": "Carla Santana from the album that's just come out on CBS"
     },
     {
@@ -1429,8 +1431,14 @@
     },
     {
       "start": 5085.83,
-      "end": 5591.03,
+      "end": 5089.43,
       "text": "Three numbers there by David Bowie,"
+    },
+    {
+      "start": 5089.43,
+      "end": 5591.19,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5591.19,
@@ -1644,8 +1652,14 @@
     },
     {
       "start": 5702.8,
-      "end": 6037.34,
+      "end": 5707.6,
       "text": "I think you might be laying yourself open"
+    },
+    {
+      "start": 5707.6,
+      "end": 6037.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6037.34,
@@ -1834,7 +1848,7 @@
     },
     {
       "start": 6120.5,
-      "end": 6420.08,
+      "end": 6125.3,
       "text": "Rick, do you use dubbing on your fingers?"
     },
     {
@@ -2394,7 +2408,7 @@
     },
     {
       "start": 6990.55,
-      "end": 7283.8,
+      "end": 7000.75,
       "text": "It's The Flasher from the album that's going to be coming out in April by Rick Wakeman."
     },
     {

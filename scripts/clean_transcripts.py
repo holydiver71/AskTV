@@ -11,6 +11,7 @@ Run from the workspace root:
 """
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import re
@@ -25,6 +26,7 @@ from pathlib import Path
 JSON_DIR = Path("data/episodes/1980/")
 LOG_DIR = Path("logs/")
 LOG_FILE = LOG_DIR / "clean_transcripts.log"
+DRY_RUN = False
 
 _ELLIPSIS_RE = re.compile(r"^[.\s]*$")  # empty, whitespace-only, or pure dots
 
@@ -54,6 +56,9 @@ def _log(message: str) -> None:
 
 
 def _atomic_write(path: Path, data: dict) -> None:
+    if DRY_RUN:
+        print(f"[DRY-RUN] Would write {path}")
+        return
     tmp = path.with_suffix(path.suffix + ".tmp")
     with open(tmp, "w", encoding="utf-8") as fh:
         json.dump(data, fh, ensure_ascii=False, indent=2)
@@ -463,6 +468,22 @@ def process_file(json_path: Path) -> bool:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(
+        description="Clean raw Whisper transcripts in two phases.",
+        epilog="Phase 1: strip ellipsis and hallucination runs. Phase 2: insert [Music] placeholders.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument("--json-dir", default="data/episodes/1980/", help="Directory with JSON episode files")
+    parser.add_argument("--log-dir", default="logs/", help="Directory for logs")
+    parser.add_argument("--dry-run", action="store_true", help="Do not write changes; show actions only")
+    args = parser.parse_args()
+
+    global JSON_DIR, LOG_DIR, LOG_FILE, DRY_RUN
+    JSON_DIR = Path(args.json_dir)
+    LOG_DIR = Path(args.log_dir)
+    LOG_FILE = LOG_DIR / "clean_transcripts.log"
+    DRY_RUN = bool(args.dry_run)
+
     json_files = sorted(JSON_DIR.glob("*.json"))
     if not json_files:
         print(f"No JSON files found in {JSON_DIR}")

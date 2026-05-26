@@ -143,6 +143,12 @@
       "type": "music"
     },
     {
+      "start": 85.36,
+      "end": 698.11,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 701.01,
       "end": 703.11,
       "text": "That's indeed all his albums called Peter Gabriel."
@@ -264,6 +270,12 @@
       "type": "music"
     },
     {
+      "start": 767.97,
+      "end": 1179.01,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1179.01,
       "end": 1180.31,
       "text": "Absolute piece of recorded magic"
@@ -302,6 +314,12 @@
       "start": 1196.45,
       "end": 1199.05,
       "text": "Order one coffee now."
+    },
+    {
+      "start": 1199.05,
+      "end": 1199.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1199.05,
@@ -416,8 +434,26 @@
       "type": "music"
     },
     {
+      "start": 1272.99,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1440.0,
       "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1936.04,
       "text": "[Music]",
       "type": "music"
     },
@@ -716,6 +752,12 @@
       "start": 6793.01,
       "end": 6799.61,
       "text": "The Scorpions and their current single, which is called The Zoo,"
+    },
+    {
+      "start": 6799.61,
+      "end": 7018.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6799.61,
