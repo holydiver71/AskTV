@@ -56,5 +56,22 @@
       "track": "Lyin' Rampant - Crazee (session)",
       "details": null
     }
+  ],
+  "transcript": [
+    {
+      "start": 260.66,
+      "end": 266.66,
+      "text": "From his new album, which has just come out on the Warner Brothers label, the album is called The Confessor. The track was Good Man Down."
+    },
+    {
+      "start": 266.66,
+      "end": 1340.81,
+      "text": "From the album called Restless, just come out on the Vertigo record label, the track was called Sane."
+    },
+    {
+      "start": 1340.81,
+      "end": 2241.76,
+      "text": "Session by them, that was called Crazy."
+    }
   ]
 }

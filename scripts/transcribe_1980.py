@@ -147,9 +147,38 @@ def main() -> int:
             print(f"Error: --year must be 4-digit years, e.g. 1980: got '{y}'")
             return 2
 
-    if args.mp3 and len(years) > 1:
-        print("Error: a single MP3 path cannot be combined with multiple --year values")
-        return 2
+    # If a single MP3 path is provided, try to resolve it up-front and
+    # infer the correct year so the script "just works" on that one file.
+    single_candidate: Path | None = None
+    if args.mp3:
+        candidate = Path(args.mp3)
+        if not candidate.exists():
+            # Try locating the filename inside the provided years' audio dirs
+            found = None
+            for y in years:
+                p = Path(f"FRSAudio/128kbps/{y}") / args.mp3
+                if p.exists():
+                    found = p
+                    break
+            if found:
+                candidate = found
+            else:
+                print(f"ERROR: Specified MP3 not found: {args.mp3}")
+                return 2
+
+        # Try to extract the date from the filename and set years accordingly
+        date = find_date_in_name(candidate.name)
+        if date:
+            years = [date[:4]]
+        else:
+            # Fall back to scanning parent folders for a 4-digit year
+            for p in candidate.parents:
+                m = re.search(r"\b(19\d{2}|20\d{2})\b", p.name)
+                if m:
+                    years = [m.group(1)]
+                    break
+
+        single_candidate = candidate
 
     LOG_FILE = Path("logs/transcription_errors.log")
     LOG_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -219,16 +248,8 @@ def main() -> int:
         print("═" * 52)
 
         # ── File discovery ──────────────────────────────────────────────────
-        if args.mp3:
-            candidate = Path(args.mp3)
-            if not candidate.exists():
-                candidate_in_dir = AUDIO_DIR / args.mp3
-                if candidate_in_dir.exists():
-                    candidate = candidate_in_dir
-                else:
-                    print(f"ERROR: Specified MP3 not found: {args.mp3}")
-                    return 2
-            mp3s = [candidate]
+        if single_candidate is not None:
+            mp3s = [single_candidate]
         else:
             mp3s = sorted(AUDIO_DIR.glob("*.mp3"))
 
