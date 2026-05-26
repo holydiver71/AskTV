@@ -30,11 +30,12 @@ import time
 import urllib.parse
 from datetime import datetime
 from pathlib import Path
-from typing import TextIO
+from typing import Any, TextIO
 
 import requests
 from bs4 import BeautifulSoup, Tag
 
+cffi_requests: Any = None
 try:
     from curl_cffi import requests as cffi_requests
     _CFFI_AVAILABLE = True
@@ -175,7 +176,7 @@ def fetch_episodes(year: int) -> list[tuple[str, str]]:
 
         mixcloud_url: str | None = None
         for a_tag in row.find_all("a"):
-            href = a_tag.get("href", "")
+            href = str(a_tag.get("href", ""))
             if "mixcloud.com" in href and a_tag.get_text(strip=True) == "Mixcloud":
                 mixcloud_url = href
                 break

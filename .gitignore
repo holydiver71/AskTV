@@ -10,3 +10,4 @@ FRSAudio/
 FRSAudio
 .vercel
 .env*.local
+scripts/check_moo_links.py
