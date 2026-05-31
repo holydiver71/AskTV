@@ -38,12 +38,14 @@
     {
       "artist": "Crys",
       "track": "'Rocking Along' -",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 3664.99
     },
     {
       "artist": "Molly Hatchet",
       "track": "'On The Prowl' (LP - No Guts...No Glory) Epic",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1947.78
     },
     {
       "artist": "King Crimson",
@@ -73,7 +75,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.77
     },
     {
       "artist": "UFO",
@@ -98,7 +101,8 @@
     {
       "artist": null,
       "track": "Staff Selection -",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5499.3
     },
     {
       "artist": "John Mayall (with Eric Clapton)",
@@ -113,7 +117,8 @@
     {
       "artist": "Crys",
       "track": "Pendoncwyr",
-      "details": "Headbanger; FRS session"
+      "details": "Headbanger; FRS session",
+      "verified_timestamp": 3664.99
     },
     {
       "artist": "Le Griffe",

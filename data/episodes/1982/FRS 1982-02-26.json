@@ -37,27 +37,32 @@
     {
       "artist": "Marillion",
       "track": "Forgotten Sons",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1416.42
     },
     {
       "artist": "38 Special",
       "track": "'Stone Cold Believer",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1998.78
     },
     {
       "artist": "38 Special",
       "track": "First Time Around",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1998.78
     },
     {
       "artist": "38 Special",
       "track": "Turn It On",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1998.78
     },
     {
       "artist": "Krokus",
       "track": "'Bad Boys Rag Dolls' (LP - One Vice At A Time) Arista",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2827.66
     },
     {
       "artist": "Battleaxe",
@@ -77,7 +82,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 60.42
     },
     {
       "artist": "Marillion",
@@ -107,7 +113,8 @@
     {
       "artist": null,
       "track": "Tommy concludes the show by announcing that the Enid's manager had received 520 letters regarding their cassette which would be mailed out soon, and that Tony Wilson wasn't in the studio as he was at Maida Vale recording a session with Tytan which would be broadcast soon.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6932.74
     }
   ],
   "transcript": [

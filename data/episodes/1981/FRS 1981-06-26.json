@@ -22,27 +22,32 @@
     {
       "artist": "Megaton",
       "track": "Aluminium Lady",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 732.87
     },
     {
       "artist": "Budgie",
       "track": "Breaking All The House Rules",
-      "details": "LP-Bandolier"
+      "details": "LP-Bandolier",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Peter Frampton",
       "track": "Breaking All The Rules",
-      "details": "LP-Breaking All The Rules"
+      "details": "LP-Breaking All The Rules",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Dedringer",
       "track": "So Still The Night",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 759.39
     },
     {
       "artist": "Hatfield And The North",
       "track": "Aigrette",
-      "details": "John Peel Session 19/03/1974"
+      "details": "John Peel Session 19/03/1974",
+      "verified_timestamp": 1581.68
     },
     {
       "artist": "Hatfield And The North",
@@ -57,17 +62,20 @@
     {
       "artist": "Rose Tattoo",
       "track": "Rock N Roll Outlaw",
-      "details": "single; Carrere"
+      "details": "single; Carrere",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Blue Oyster Cult",
       "track": "Vengeance",
-      "details": "The Pact; LP-Fire Of Unknown Origin"
+      "details": "The Pact; LP-Fire Of Unknown Origin",
+      "verified_timestamp": 2602.24
     },
     {
       "artist": "Styx",
       "track": "Lonely Child",
-      "details": "LP-Equinox; A&M"
+      "details": "LP-Equinox; A&M",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Dedringer",
@@ -82,27 +90,32 @@
     {
       "artist": "Manfred Mann's Earth Band",
       "track": "Mighty Quinn",
-      "details": "LP-Watch"
+      "details": "LP-Watch",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Saga",
       "track": "Someone Should",
-      "details": "LP-Silent Knight; Polydor"
+      "details": "LP-Silent Knight; Polydor",
+      "verified_timestamp": 3251.71
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.36
     },
     {
       "artist": "Mick Fleetwood feat Peter Green",
       "track": "Rattlesnake Shake",
-      "details": "LP-The Visitor"
+      "details": "LP-The Visitor",
+      "verified_timestamp": 5450.04
     },
     {
       "artist": "Stray",
       "track": "After The Storm",
-      "details": "LP-Saturday Morning Pictures; Transatlantic"
+      "details": "LP-Saturday Morning Pictures; Transatlantic",
+      "verified_timestamp": 5430.26
     },
     {
       "artist": "Girlschool",

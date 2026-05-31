@@ -19,27 +19,32 @@
     {
       "artist": "Ocean",
       "track": "Aristo",
-      "details": "LP-Ocean; Barclay"
+      "details": "LP-Ocean; Barclay",
+      "verified_timestamp": 739.11
     },
     {
       "artist": "Krokus",
       "track": "Streamer",
-      "details": "LP-Metal Rendez-vous; Arista"
+      "details": "LP-Metal Rendez-vous; Arista",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Rush",
       "track": "Bastille Day",
-      "details": "LP-Rush Through Time; Mercury"
+      "details": "LP-Rush Through Time; Mercury",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Vardis",
       "track": "'Let's Go'",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1213.57
     },
     {
       "artist": "Rick Wakeman",
       "track": "Anne of Cleves",
-      "details": "1973 Session"
+      "details": "1973 Session",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Peter Frampton",
@@ -49,7 +54,8 @@
     {
       "artist": "Duran Duran",
       "track": "Careless Memory",
-      "details": "LP-Duran Duran; EMI"
+      "details": "LP-Duran Duran; EMI",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Vardis",
@@ -64,22 +70,26 @@
     {
       "artist": "Rick Wakeman",
       "track": "Catherine Howard",
-      "details": "1973 Session"
+      "details": "1973 Session",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 58.12
     },
     {
       "artist": "Jon And Vangelis",
       "track": "The Mayflower",
-      "details": "LP-The Friends Of Mr. Cairo; Polydor"
+      "details": "LP-The Friends Of Mr. Cairo; Polydor",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Blackfoot",
       "track": "Diary Of A Workingman",
-      "details": "LP-Marauder; ATCO"
+      "details": "LP-Marauder; ATCO",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Vardis",
@@ -89,27 +99,32 @@
     {
       "artist": "Byron Band",
       "track": "Rebecca",
-      "details": "7\"; Creole"
+      "details": "7\"; Creole",
+      "verified_timestamp": 5785.44
     },
     {
       "artist": "Uriah Heep",
       "track": "High Priestess",
-      "details": "LP-Salisbury; Vertigo"
+      "details": "LP-Salisbury; Vertigo",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Foreigner",
       "track": "Woman In Black",
-      "details": "LP-4; Atlantic"
+      "details": "LP-4; Atlantic",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Rick Wakeman",
       "track": "Catherine Parr",
-      "details": "1973 Session"
+      "details": "1973 Session",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Motörhead",
       "track": "Bomber",
-      "details": "LP-Bomber; Bronze"
+      "details": "LP-Bomber; Bronze",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Vardis",

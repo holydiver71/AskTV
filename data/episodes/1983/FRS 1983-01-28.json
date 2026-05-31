@@ -32,7 +32,8 @@
     {
       "artist": "Crys",
       "track": "Pendoncwyr",
-      "details": "Headbanger; FRS session"
+      "details": "Headbanger; FRS session",
+      "verified_timestamp": 583.26
     },
     {
       "artist": "Eloy",
@@ -42,7 +43,8 @@
     {
       "artist": "Fleetwood Mac",
       "track": "Long Grey Mare",
-      "details": "Top Gear session"
+      "details": "Top Gear session",
+      "verified_timestamp": 1274.61
     },
     {
       "artist": "Fleetwood Mac",
@@ -67,7 +69,8 @@
     {
       "artist": "Crys",
       "track": "Its About Time",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 583.26
     },
     {
       "artist": "Rainbow",
@@ -87,12 +90,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 62.8
     },
     {
       "artist": "Crys",
       "track": "Merched Gwillt A Gwin",
-      "details": "Wild Women & Wine; FRS session"
+      "details": "Wild Women & Wine; FRS session",
+      "verified_timestamp": 583.26
     },
     {
       "artist": "Neil Young",

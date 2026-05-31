@@ -15,17 +15,22 @@
     {
       "artist": "James Gang",
       "track": "Standing In The Rain",
-      "details": "LP-Bang"
+      "details": "LP-Bang",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "AC DC",
       "track": "The Girls Got Rhythm",
-      "details": "LP-Highway To Hell"
+      "details": "LP-Highway To Hell",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Judas Priest",
       "track": "The Ripper",
-      "details": "LP-Unleashed In The East"
+      "details": "LP-Unleashed In The East",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "never turn your back on",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Judas Priest",
@@ -35,62 +40,80 @@
     {
       "artist": "Skyhooks",
       "track": "Women In Uniform",
-      "details": "LP-Guilty Until Proven Insane"
+      "details": "LP-Guilty Until Proven Insane",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Bob Dylan",
       "track": "Change My Way Of Thinking",
-      "details": "LP-Slow Train Coming"
+      "details": "LP-Slow Train Coming",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Cream",
       "track": "Sunshine Of Your Love",
-      "details": "LP-Heavy Cream"
+      "details": "LP-Heavy Cream",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the sunshine of your love",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Gary Numan",
       "track": "M.E.",
-      "details": "LP-Pleasure Principle"
+      "details": "LP-Pleasure Principle",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Tangerine Dream",
       "track": "Cloudburst Flight",
-      "details": "LP-Force Majeure"
+      "details": "LP-Force Majeure",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Byrds",
       "track": "Eight Miles High",
-      "details": "LP-5th Dimension"
+      "details": "LP-5th Dimension",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "eight miles high is a",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "City Boy",
       "track": "The Day The Earth Caught Fire",
-      "details": "LP-The Day The Earth Caught Fire"
+      "details": "LP-The Day The Earth Caught Fire",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the day the earth caught",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.88
     },
     {
       "artist": "Tycoon",
       "track": "Too Late New York City",
-      "details": "LP-Tycoon"
+      "details": "LP-Tycoon",
+      "verified_timestamp": 4248.81
     },
     {
       "artist": "Molly Hatchet",
       "track": "'Dreams I'll Never See'",
-      "details": "LP-Molly Hatchet Live"
+      "details": "LP-Molly Hatchet Live",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "Police",
       "track": "Message In A Bottle",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
       "track": "Steve Hackett live at Reading Festival",
-      "details": null
+      "details": null,
+      "verified_timestamp": 42.3
     }
   ],
   "transcript": [

@@ -18,12 +18,14 @@
     {
       "artist": "Little Richard",
       "track": "Lucille",
-      "details": null
+      "details": null,
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Brenda Lee",
       "track": "Sweet Nothings",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Jerry Lee Lewis",
@@ -33,12 +35,14 @@
     {
       "artist": "Chuck Berry",
       "track": "Let It Rock",
-      "details": null
+      "details": null,
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Little Richard",
       "track": "Good Golly Miss Molly",
-      "details": null
+      "details": null,
+      "verified_timestamp": 566.92
     },
     {
       "artist": "Wanda Jackson",
@@ -48,27 +52,32 @@
     {
       "artist": "Everly Brothers",
       "track": "Love Hurts",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Eddie Cochran",
       "track": "Something Else",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Chuck Berry",
       "track": "Nadine",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Everly Brothers",
       "track": "Man With Money",
-      "details": "LP-Beat & Soul; Warner Bros."
+      "details": "LP-Beat & Soul; Warner Bros.",
+      "verified_timestamp": 1312.54
     },
     {
       "artist": "Beatles",
       "track": "Boys",
-      "details": "LP-Please Please Me; Parlophone"
+      "details": "LP-Please Please Me; Parlophone",
+      "verified_timestamp": 1.36
     },
     {
       "artist": "Big Three",
@@ -78,27 +87,32 @@
     {
       "artist": "Beatles",
       "track": "Money",
-      "details": "LP-With The Beatles; Parlophone"
+      "details": "LP-With The Beatles; Parlophone",
+      "verified_timestamp": 152.04
     },
     {
       "artist": "Rolling Stones",
       "track": "I Wanna Be Your Man",
-      "details": "2xLP-Rolled Gold - The Very Best Of the Rolling Stones; Decca"
+      "details": "2xLP-Rolled Gold - The Very Best Of the Rolling Stones; Decca",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Yardbirds",
       "track": "Too Much Monkey Business",
-      "details": "LP-Five Live Yardbirds; Columbia"
+      "details": "LP-Five Live Yardbirds; Columbia",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Birds",
       "track": "How Can It Be",
-      "details": "7\"-No Good Without You Baby; Decca"
+      "details": "7\"-No Good Without You Baby; Decca",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Led Zeppelin",
       "track": "Rock And Roll",
-      "details": "LP-Untitled; Atlantic"
+      "details": "LP-Untitled; Atlantic",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Who",
@@ -108,7 +122,8 @@
     {
       "artist": "Jimi Hendrix",
       "track": "Purple Haze",
-      "details": "3x Compilation LP-Woodstock - Music From The Original Soundtrack And More; Atlantic"
+      "details": "3x Compilation LP-Woodstock - Music From The Original Soundtrack And More; Atlantic",
+      "verified_timestamp": 2996.37
     },
     {
       "artist": "MC5",
@@ -118,7 +133,8 @@
     {
       "artist": "Deep Purple",
       "track": "Speed King",
-      "details": "LP-Deep Purple In Rock; Harvest"
+      "details": "LP-Deep Purple In Rock; Harvest",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "AC/DC",
@@ -128,7 +144,8 @@
     {
       "artist": "Jeff Beck",
       "track": "Rock My Plimsoul",
-      "details": "7\"-Tallyman; Decca"
+      "details": "7\"-Tallyman; Decca",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "AC/DC",
@@ -138,42 +155,50 @@
     {
       "artist": "MC5",
       "track": "Back In the USA",
-      "details": "LP-Back In The USA; Atlantic"
+      "details": "LP-Back In The USA; Atlantic",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Dave Edmunds",
       "track": "Promised Land",
-      "details": "LP-Rockpile; Regal Zonophone/EMI"
+      "details": "LP-Rockpile; Regal Zonophone/EMI",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Status Quo",
       "track": "Mystery Song",
-      "details": "LP-Blue For You; Vertigo"
+      "details": "LP-Blue For You; Vertigo",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Thin Lizzy",
       "track": "Are You Ready",
-      "details": "2xLP-Live And Dangerous; Vertigo"
+      "details": "2xLP-Live And Dangerous; Vertigo",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Judas Priest",
       "track": "Breaking The Law",
-      "details": "LP-British Steel; CBS"
+      "details": "LP-British Steel; CBS",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Damned",
       "track": "New Rose",
-      "details": "LP-Damned Damned Damned; Stiff"
+      "details": "LP-Damned Damned Damned; Stiff",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Pat Benatar",
       "track": "Promises In The Dark",
-      "details": "LP-Precious Time; Chrysalis"
+      "details": "LP-Precious Time; Chrysalis",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Rock Goddess",
       "track": "Heartache",
-      "details": "LP-Rock Goddess; A&M"
+      "details": "LP-Rock Goddess; A&M",
+      "verified_timestamp": 6224.76
     },
     {
       "artist": "Girlschool",
@@ -188,12 +213,14 @@
     {
       "artist": "Wendy O. Williams & Lemmy",
       "track": "Stand By Your Man",
-      "details": "7\"; Bronze"
+      "details": "7\"; Bronze",
+      "verified_timestamp": 6950.58
     },
     {
       "artist": "Motörhead",
       "track": "Masterplan",
-      "details": null
+      "details": null,
+      "verified_timestamp": 7149.9
     }
   ],
   "transcript": [

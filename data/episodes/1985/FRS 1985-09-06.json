@@ -17,7 +17,8 @@
     {
       "artist": "Savatage",
       "track": "Hard For Love",
-      "details": "LP-Power Of The Night; Atlantic"
+      "details": "LP-Power Of The Night; Atlantic",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Saga",
@@ -27,32 +28,38 @@
     {
       "artist": "Nick Mason & Rick Fenn",
       "track": "And The Address",
-      "details": "LP-Profiles; Columbia"
+      "details": "LP-Profiles; Columbia",
+      "verified_timestamp": 589.88
     },
     {
       "artist": "Bad Company",
       "track": "Seagull",
-      "details": "LP-Bad Company; Swan Song"
+      "details": "LP-Bad Company; Swan Song",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Firm",
       "track": "Make Or Break",
-      "details": "LP-The Firm; Atlantic"
+      "details": "LP-The Firm; Atlantic",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": null,
       "track": "Drummond tries to play a session track from Tygers Of Pan Tang, but it starts breaking and then restarts",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2809.58
     },
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Waiting",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1304.44
     },
     {
       "artist": "Motley Crue",
       "track": "Smokin' In The Boys Room (LP - Theatre Of Pain) Elektra",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1926.34
     },
     {
       "artist": "Deep Purple",
@@ -62,7 +69,8 @@
     {
       "artist": "Cheap Trick",
       "track": "Standing On The Edge",
-      "details": "LP-Standing On The Edge; Epic"
+      "details": "LP-Standing On The Edge; Epic",
+      "verified_timestamp": 2250.22
     },
     {
       "artist": null,
@@ -72,7 +80,8 @@
     {
       "artist": "Loverboy",
       "track": "Lovin' Every Minute Of It (LP - Lovin' Every Minute Of It) CBS",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2589.37
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -82,7 +91,8 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3058.37
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -132,7 +142,8 @@
     {
       "artist": "Spellbound",
       "track": "Burnin' Love (LP - Breaking The Spell) Sonet",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6800.17
     },
     {
       "artist": "Jeff Beck",

@@ -13,7 +13,9 @@
     {
       "artist": "Samson",
       "track": "Saturday, August 29, 1981",
-      "details": null
+      "details": null,
+      "verified_timestamp": 0
+
     },
     {
       "artist": "Trust",

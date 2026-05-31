@@ -23,7 +23,8 @@
     {
       "artist": "Motörhead",
       "track": "Shine (single – Shine) Bronze",
-      "details": null
+      "details": null,
+      "verified_timestamp": 736.15
     },
     {
       "artist": null,
@@ -83,7 +84,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection (only the first and third tracks are on the tape)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3603.75
     },
     {
       "artist": "Wildlife",
@@ -93,7 +95,8 @@
     {
       "artist": "Frank Zappa",
       "track": "The Man From Utopia Meets Mary Lou (7” Single) EMI",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Supertramp",

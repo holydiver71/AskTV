@@ -33,22 +33,26 @@
     {
       "artist": "Rush",
       "track": "Red Sector A",
-      "details": "LP - Grace Under Pressure"
+      "details": "LP - Grace Under Pressure",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "The Church",
       "track": "One Day",
-      "details": "LP - Seance"
+      "details": "LP - Seance",
+      "verified_timestamp": 485.55
     },
     {
       "artist": "Lita Ford",
       "track": "Gotta Let Go",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Johnny Winter",
       "track": "Don't Take Advantage Of Me",
-      "details": "LP - Guitar Slinger"
+      "details": "LP - Guitar Slinger",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Baby Tuckoo",
@@ -63,17 +67,20 @@
     {
       "artist": "Roger Chapman",
       "track": "How, How, How",
-      "details": "LP - The Shadow Knows"
+      "details": "LP - The Shadow Knows",
+      "verified_timestamp": 2013.67
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2018.57
     },
     {
       "artist": null,
       "track": "Repeat Of Climax Blues Band Live At Reading 1983",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5018.55
     }
   ],
   "transcript": [

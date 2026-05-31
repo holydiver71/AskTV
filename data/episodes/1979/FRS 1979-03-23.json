@@ -23,27 +23,33 @@
     {
       "artist": "Motorhead",
       "track": "Overkill",
-      "details": "LP-Overkill; Bronze"
+      "details": "LP-Overkill; Bronze",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "UFO",
       "track": "Shoot Shoot",
-      "details": "7\" Single from \"Strangers In The Night\"; Chrysalis"
+      "details": "7\" Single from \"Strangers In The Night\"; Chrysalis",
+      "verified_timestamp": 57.69
     },
     {
       "artist": "Genesis",
       "track": "Burning Rope",
-      "details": "LP-And Then There Were Three; Charisma"
+      "details": "LP-And Then There Were Three; Charisma",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Tom Robinson",
       "track": "All Right, All Night",
-      "details": "Peel Session #2 1979-03-05"
+      "details": "Peel Session #2 1979-03-05",
+      "verified_timestamp": 1174.35
     },
     {
       "artist": "Jethro Tull",
       "track": "Beggars Farm",
-      "details": "Top Gear Session 1968-11-05"
+      "details": "Top Gear Session 1968-11-05",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "1 you re taking chances"
     },
     {
       "artist": "Jethro Tull",
@@ -53,17 +59,22 @@
     {
       "artist": "Jethro Tull",
       "track": "Stormy Monday Blues",
-      "details": "Top Gear Session 1968-11-05"
+      "details": "Top Gear Session 1968-11-05",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "won t you bring her",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Bram Tchaikovski",
       "track": "Nobody Knows",
-      "details": "LP-Strange Man Changed Man; Radar"
+      "details": "LP-Strange Man Changed Man; Radar",
+      "verified_timestamp": 2606.11
     },
     {
       "artist": "Judas Priest",
       "track": "Tyrant",
-      "details": "LP-Sad Wings Of Destiny; Gull"
+      "details": "LP-Sad Wings Of Destiny; Gull",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Tom Robinson",
@@ -73,17 +84,22 @@
     {
       "artist": "Ian Hunter",
       "track": "Cleveland Rocks",
-      "details": "LP-You're Never Alone With A Schizophrenic; Chrysalis"
+      "details": "LP-You're Never Alone With A Schizophrenic; Chrysalis",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "y all tonight this is",
+      "verified_timestamp": 3338.37
     },
     {
       "artist": "Van Halen",
       "track": "Somebody Get Me A Doctor",
-      "details": "LP-Van Halen II; Warner Brothers"
+      "details": "LP-Van Halen II; Warner Brothers",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 26.07
     },
     {
       "artist": "Tom Robinson",
@@ -93,7 +109,8 @@
     {
       "artist": "Graham Parker",
       "track": "Nobody Hurts You",
-      "details": "LP-Squeezing Out Sparks; Vertigo"
+      "details": "LP-Squeezing Out Sparks; Vertigo",
+      "verified_timestamp": 5320.86
     },
     {
       "artist": "Journey",
@@ -103,12 +120,15 @@
     {
       "artist": "Jethro Tull",
       "track": "Living In The Past",
-      "details": "Top Gear Session 1969-06-16"
+      "details": "Top Gear Session 1969-06-16",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Jethro Tull",
       "track": "A New Day Yesterday",
-      "details": "Top Gear Session 1969-06-16"
+      "details": "Top Gear Session 1969-06-16",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "my first and last time"
     },
     {
       "artist": "Jethro Tull",
@@ -123,7 +143,8 @@
     {
       "artist": "Dixie Dregs",
       "track": "Punk Sandwich",
-      "details": "LP-Night Of The Living Dregs; Capricorn"
+      "details": "LP-Night Of The Living Dregs; Capricorn",
+      "verified_timestamp": 6668.02
     },
     {
       "artist": "Tom Robinson",
@@ -133,12 +154,16 @@
     {
       "artist": "Adrian Gurvitz",
       "track": "The Way That I Feel",
-      "details": "LP-Sweet Vendetta; Jet"
+      "details": "LP-Sweet Vendetta; Jet",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Peter Frampton",
       "track": "Feel Like I Do",
-      "details": "2xLP-Frampton Comes Alive; A&M"
+      "details": "2xLP-Frampton Comes Alive; A&M",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "do you feel like we",
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [

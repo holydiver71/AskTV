@@ -22,52 +22,62 @@
     {
       "artist": "Rods",
       "track": "Rock Hard",
-      "details": "LP-The Rods; Arista"
+      "details": "LP-The Rods; Arista",
+      "verified_timestamp": 502.0
     },
     {
       "artist": "Michael Schenker Group",
       "track": "But I Want More",
-      "details": "LP-MSG; Chrysalis"
+      "details": "LP-MSG; Chrysalis",
+      "verified_timestamp": 1422.21
     },
     {
       "artist": "Genesis",
       "track": "Abacab",
-      "details": "LP-Abacab; Charisma"
+      "details": "LP-Abacab; Charisma",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "King Crimson",
       "track": "Discipline",
-      "details": "LP-Discipline; EG / Polydor"
+      "details": "LP-Discipline; EG / Polydor",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "King Crimson",
       "track": "The Great Deceiver",
-      "details": "LP-Starless And Bible Black; Island"
+      "details": "LP-Starless And Bible Black; Island",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Niagara",
       "track": "Crossfire",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 2532.55
     },
     {
       "artist": "T. Rex & Marc Bolan",
       "track": "Jeepster",
-      "details": "7\"; Cube"
+      "details": "7\"; Cube",
+      "verified_timestamp": 2088.25
     },
     {
       "artist": "Gary Moore",
       "track": "Nuclear Attack",
-      "details": "12\"; Jet"
+      "details": "12\"; Jet",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Greg Lake",
       "track": "Nuclear Attack",
-      "details": "LP-Greg Lake; Chrysalis"
+      "details": "LP-Greg Lake; Chrysalis",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Budgie",
       "track": "Homicidal Suicidal",
-      "details": "LP-Best Of Budgie; Cube"
+      "details": "LP-Best Of Budgie; Cube",
+      "verified_timestamp": 4081.32
     },
     {
       "artist": "Niagara",
@@ -77,12 +87,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4087.34
     },
     {
       "artist": "Bob Seger & The Silver Bullet Band",
       "track": "Night Moves",
-      "details": "2xLP-Night Moves; Capitol"
+      "details": "2xLP-Night Moves; Capitol",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Niagara",
@@ -97,12 +109,14 @@
     {
       "artist": "Tangerine Dream",
       "track": "Pilots Of Purple Twilight",
-      "details": "LP-Exit; Virgin"
+      "details": "LP-Exit; Virgin",
+      "verified_timestamp": 6170.14
     },
     {
       "artist": "Saxon",
       "track": "Denim And Leather",
-      "details": "LP-Denim And Leather; Carrere"
+      "details": "LP-Denim And Leather; Carrere",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Niagara",
@@ -112,7 +126,8 @@
     {
       "artist": "Jimi Hendrix",
       "track": "All Along The Watchtower",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

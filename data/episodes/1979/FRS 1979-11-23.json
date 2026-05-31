@@ -27,17 +27,20 @@
     {
       "artist": "Sammy Hagar",
       "track": "'This Planet's On Fire'",
-      "details": "LP-Street Machine"
+      "details": "LP-Street Machine",
+      "verified_timestamp": 526.75
     },
     {
       "artist": "Def Leppard",
       "track": "Rock Brigade",
-      "details": "FRS session 1979-10-03"
+      "details": "FRS session 1979-10-03",
+      "verified_timestamp": 509.05
     },
     {
       "artist": "Jeff Beck Group",
       "track": "Hi Ho Silver Lining",
-      "details": "Saturday Club session 1967-03-07"
+      "details": "Saturday Club session 1967-03-07",
+      "verified_timestamp": 559.04
     },
     {
       "artist": "Jeff Beck Group",
@@ -57,17 +60,21 @@
     {
       "artist": "Pink Floyd",
       "track": "In The Flesh",
-      "details": "LP-The Wall"
+      "details": "LP-The Wall",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Hey You",
-      "details": "LP-The Wall"
+      "details": "LP-The Wall",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Queen",
       "track": "Spread Your Wings",
-      "details": "Peel session 1977-10-28"
+      "details": "Peel session 1977-10-28",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you know who you are"
     },
     {
       "artist": "Queen",
@@ -77,12 +84,14 @@
     {
       "artist": "Tom Petty",
       "track": "You Tell Me",
-      "details": "LP-Damn The Torpedoes"
+      "details": "LP-Damn The Torpedoes",
+      "verified_timestamp": 3233.1
     },
     {
       "artist": "Skids",
       "track": "Hymns From A Haunted Ballroom",
-      "details": "B Side of 7” Single 'Working For The Yankee Dollar'"
+      "details": "B Side of 7” Single 'Working For The Yankee Dollar'",
+      "verified_timestamp": 3208.0
     },
     {
       "artist": "Def Leppard",
@@ -97,12 +106,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.67
     },
     {
       "artist": "Jeff Beck",
       "track": "Going Down",
-      "details": "Peel session 1971-12-14"
+      "details": "Peel session 1971-12-14",
+      "verified_timestamp": 559.04
     },
     {
       "artist": "Jeff Beck",
@@ -117,7 +128,8 @@
     {
       "artist": "Rick Derringer",
       "track": "It Must Be Love",
-      "details": "LP-Guitars And Women"
+      "details": "LP-Guitars And Women",
+      "verified_timestamp": 5746.63
     },
     {
       "artist": "Queen",
@@ -127,17 +139,20 @@
     {
       "artist": "Queen",
       "track": "We Will Rock You",
-      "details": "Peel session 1977-10-28"
+      "details": "Peel session 1977-10-28",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Aerosmith",
       "track": "Kings And Queens",
-      "details": "LP-Draw The Line"
+      "details": "LP-Draw The Line",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Hawkwind",
       "track": "Lord Of Light",
-      "details": "LP-Doremi Fasol Latido"
+      "details": "LP-Doremi Fasol Latido",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Def Leppard",

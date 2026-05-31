@@ -20,22 +20,26 @@
     {
       "artist": "AC/DC",
       "track": "‘Shoot To Thrill’’",
-      "details": "LP - Back In Black"
+      "details": "LP - Back In Black",
+      "verified_timestamp": 674.35
     },
     {
       "artist": "Queensryche",
       "track": "‘Take Hold Of The Flame’",
-      "details": "LP - The Warning"
+      "details": "LP - The Warning",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Dokken",
       "track": "‘Don’t Close Your Eyes’",
-      "details": "LP - Tooth And Nail"
+      "details": "LP - Tooth And Nail",
+      "verified_timestamp": 1157.23
     },
     {
       "artist": "Badlands",
       "track": "‘Badlands 53rd State’",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 679.15
     },
     {
       "artist": "Scorched Earth",
@@ -45,7 +49,8 @@
     {
       "artist": "Boston",
       "track": "‘More Than A Feeling’",
-      "details": "LP - Boston"
+      "details": "LP - Boston",
+      "verified_timestamp": 1733.94
     },
     {
       "artist": "Waysted",
@@ -80,7 +85,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 53.82
     },
     {
       "artist": "Tangerine Dream",
@@ -90,27 +96,32 @@
     {
       "artist": "Partners In Crime",
       "track": "Hold On",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 668.34
     },
     {
       "artist": "Kiss",
       "track": "‘Under the Gun’",
-      "details": "LP - Animalize"
+      "details": "LP - Animalize",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Dave Edmonds",
       "track": "‘Steel Claw’",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Edgar Winter",
       "track": "‘Tobacco Road’",
-      "details": "LP - Entrance"
+      "details": "LP - Entrance",
+      "verified_timestamp": 2433.87
     },
     {
       "artist": "Rose Tattoo",
       "track": "‘Branded’",
-      "details": "LP - Scarred For Life"
+      "details": "LP - Scarred For Life",
+      "verified_timestamp": 3037.24
     },
     {
       "artist": "Badlands",

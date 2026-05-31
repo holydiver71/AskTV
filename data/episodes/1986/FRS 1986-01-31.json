@@ -21,17 +21,20 @@
     {
       "artist": "Molly Hatchet",
       "track": "Boogie No More",
-      "details": "2xLP-Double Trouble Live; Epic"
+      "details": "2xLP-Double Trouble Live; Epic",
+      "verified_timestamp": 724.14
     },
     {
       "artist": "Fastway",
       "track": "The World Waits For You",
-      "details": "7\"; CBS"
+      "details": "7\"; CBS",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Spider",
       "track": "Mind, Heart, Body And Soul",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1296.92
     },
     {
       "artist": "Jade",
@@ -41,17 +44,20 @@
     {
       "artist": "ZZ Top",
       "track": "Stages",
-      "details": "7\"; Warner Bros."
+      "details": "7\"; Warner Bros.",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Kiss",
       "track": "King Of The Night Time World",
-      "details": "LP-Destroyer; Casablanca"
+      "details": "LP-Destroyer; Casablanca",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Iron Maiden",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1307.48
     },
     {
       "artist": "Iron Maiden",
@@ -76,12 +82,14 @@
     {
       "artist": "Cherry Bombz",
       "track": "Hot Girls In Love",
-      "details": "12\"; Lick"
+      "details": "12\"; Lick",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3362.15
     },
     {
       "artist": "Spider",
@@ -111,7 +119,8 @@
     {
       "artist": "Marillion",
       "track": "Charting The Single",
-      "details": "7\"-He Knows You Know; EMI"
+      "details": "7\"-He Knows You Know; EMI",
+      "verified_timestamp": 6445.26
     },
     {
       "artist": "Spider",
@@ -122,6 +131,1258 @@
       "artist": "Rush",
       "track": "'Countdown (LP-Signals)' (Mercury) Last-minute addition to the show as a tribute to the Space Shuttle Challenger disaster on January 28.",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 697.14,
+      "end": 704.9,
+      "text": "That's what I call a really good single. It's by Fastway. It's out at the moment. It's called The World Waits For You."
+    },
+    {
+      "start": 704.9,
+      "end": 712.06,
+      "text": "And it's out on the CBS record label. 13 minutes past 10, The Rock Show. Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 712.06,
+      "end": 717.31,
+      "text": "Before that, something from a new double album set that's out that is well worth the investment."
+    },
+    {
+      "start": 717.31,
+      "end": 720.14,
+      "text": "If you're into Southern boogie, that is."
+    },
+    {
+      "start": 720.14,
+      "end": 724.14,
+      "text": "The band that performed back in 1975 in Jacksonville in Florida, Molly Hatchet."
+    },
+    {
+      "start": 724.14,
+      "end": 730.2,
+      "text": "The albums are called Double Trouble Live. The track was Boogie No More."
+    },
+    {
+      "start": 730.2,
+      "end": 734.12,
+      "text": "Claire Robinson, how are you? She lives at Brow Lane, or Brew Lane, possibly."
+    },
+    {
+      "start": 734.84,
+      "end": 737.02,
+      "text": "Shelf, which is near Halifax in West Yorkshire."
+    },
+    {
+      "start": 737.58,
+      "end": 739.38,
+      "text": "And Claire says, dear Tom, say a big hello."
+    },
+    {
+      "start": 739.88,
+      "end": 744.92,
+      "text": "Hello to my best friend Louise Haig, who's moving away from Shelf in the near future."
+    },
+    {
+      "start": 745.54,
+      "end": 747.94,
+      "text": "Will you please tell Louise that I'm going to miss her a lot?"
+    },
+    {
+      "start": 750.7,
+      "end": 754.86,
+      "text": "And please, also, will you tell Calvin Wright to hurry up and phone me? Thank you, Tom."
+    },
+    {
+      "start": 762.34,
+      "end": 765.48,
+      "text": "The Molly Hatcher track was also for a gentleman who's approaching the Big 20."
+    },
+    {
+      "start": 765.92,
+      "end": 768.4,
+      "text": "His 20th birthday. Don't actually know what the date is."
+    },
+    {
+      "start": 769.0,
+      "end": 772.48,
+      "text": "But it's for Ian Bradwell from his brother, Stu."
+    },
+    {
+      "start": 772.96,
+      "end": 1286.0,
+      "text": "With a lady on the throat is Sweet Marie Black."
+    },
+    {
+      "start": 1286.14,
+      "end": 1287.3,
+      "text": "The name of the band are Jade."
+    },
+    {
+      "start": 1288.02,
+      "end": 1289.48,
+      "text": "They come from Canada."
+    },
+    {
+      "start": 1289.88,
+      "end": 1293.7,
+      "text": "That was the title track of an album that's out on the Roadrunner record label here in the UK."
+    },
+    {
+      "start": 1294.32,
+      "end": 1296.2,
+      "text": "It's called If You're Man Enough."
+    },
+    {
+      "start": 1296.54,
+      "end": 1296.8,
+      "text": "Fine."
+    },
+    {
+      "start": 1296.92,
+      "end": 1298.38,
+      "text": "Before that, the first of four by Spider."
+    },
+    {
+      "start": 1298.72,
+      "end": 1303.4,
+      "text": "A new session by them, the guys who are giving you their mind, their heart, their body, and their soul."
+    },
+    {
+      "start": 1303.5,
+      "end": 1307.48,
+      "text": "At eight minutes time, you'll hear the first two of four tonight in the program."
+    },
+    {
+      "start": 1307.48,
+      "end": 1310.72,
+      "text": "recorded back in November 1979 by Iron Maiden."
+    },
+    {
+      "start": 1311.2,
+      "end": 1312.88,
+      "text": "Their first ever radio session."
+    },
+    {
+      "start": 1313.26,
+      "end": 1314.88,
+      "text": "For us, of course, on the Friday Rock Show."
+    },
+    {
+      "start": 1315.3,
+      "end": 1316.84,
+      "text": "ZZ Top here. Stages."
+    },
+    {
+      "start": 1719.7,
+      "end": 1721.62,
+      "text": "Recorded that back in 1976."
+    },
+    {
+      "start": 1722.28,
+      "end": 1725.68,
+      "text": "The King of the Nighttime World from the album Destroyer."
+    },
+    {
+      "start": 1726.95,
+      "end": 1729.09,
+      "text": "At exactly 10.30, that was for Simon Preston,"
+    },
+    {
+      "start": 1729.59,
+      "end": 1731.77,
+      "text": "who's a Kiss fan in Lancashire and loves them."
+    },
+    {
+      "start": 1733.36,
+      "end": 1735.47,
+      "text": "Good luck to you. Happy birthday."
+    },
+    {
+      "start": 1737.02,
+      "end": 1738.3,
+      "text": "Before Kiss, you heard ZZ Top."
+    },
+    {
+      "start": 1738.3,
+      "end": 1740.46,
+      "text": "Their lady's single. They're masters, those guys."
+    },
+    {
+      "start": 1740.46,
+      "end": 1742.8,
+      "text": "ZZ Top Singular's called Stages"
+    },
+    {
+      "start": 1742.8,
+      "end": 1749.09,
+      "text": "Hello to Bally, the ACDC madman"
+    },
+    {
+      "start": 1749.09,
+      "end": 1750.31,
+      "text": "And hello to Jim the Hippie"
+    },
+    {
+      "start": 1750.31,
+      "end": 1752.47,
+      "text": "Up there in Carl Tyne"
+    },
+    {
+      "start": 1752.47,
+      "end": 1753.65,
+      "text": "In Glasgow"
+    },
+    {
+      "start": 1753.65,
+      "end": 1757.84,
+      "text": "Little letter here from, I think it's Paper Mill Cottages"
+    },
+    {
+      "start": 1757.84,
+      "end": 1760.4,
+      "text": "Somewhere near Reddish in Worcestershire"
+    },
+    {
+      "start": 1760.4,
+      "end": 1762.24,
+      "text": "Says dear Tom, it's from Cam and Suggs"
+    },
+    {
+      "start": 1762.24,
+      "end": 1764.34,
+      "text": "Incidentally, like the show, very noisy, very nice"
+    },
+    {
+      "start": 1764.34,
+      "end": 1765.96,
+      "text": "Say hello, indeed hi"
+    },
+    {
+      "start": 1765.96,
+      "end": 1767.96,
+      "text": "To all Lee Aaron fans all over the place"
+    },
+    {
+      "start": 1767.96,
+      "end": 1769.97,
+      "text": "And also could you tell us"
+    },
+    {
+      "start": 1769.97,
+      "end": 1771.65,
+      "text": "If the Lee Aaron fan club is still going"
+    },
+    {
+      "start": 1771.65,
+      "end": 1772.83,
+      "text": "I honestly don't know"
+    },
+    {
+      "start": 1773.41,
+      "end": 1775.17,
+      "text": "Have to write to the record company, I would think."
+    },
+    {
+      "start": 1775.29,
+      "end": 1777.11,
+      "text": "But gentlemen, good evening to you. Hope you're well."
+    },
+    {
+      "start": 1779.6,
+      "end": 1780.88,
+      "text": "Now, let's wallow in nostalgia."
+    },
+    {
+      "start": 1781.1,
+      "end": 1786.54,
+      "text": "Back in November in 1979, we recorded this session by a band called Iron Maiden."
+    },
+    {
+      "start": 1786.76,
+      "end": 1788.28,
+      "text": "It was their original line-up, of course."
+    },
+    {
+      "start": 1788.74,
+      "end": 1790.06,
+      "text": "We have four numbers in the show tonight."
+    },
+    {
+      "start": 1790.14,
+      "end": 1791.96,
+      "text": "The first two you'll hear right now."
+    },
+    {
+      "start": 1792.04,
+      "end": 1796.44,
+      "text": "The first one is Iron Maiden, and the second, Running Free, out of the archives,"
+    },
+    {
+      "start": 1796.56,
+      "end": 1798.44,
+      "text": "as requested by you, Maiden."
+    },
+    {
+      "start": 2216.89,
+      "end": 2217.61,
+      "text": "And we certainly did."
+    },
+    {
+      "start": 2217.69,
+      "end": 2220.97,
+      "text": "That was first, as I said, put out way back in 1979."
+    },
+    {
+      "start": 2220.97,
+      "end": 2226.63,
+      "text": "It was recorded on the 14th of the 11th, 1979, by Iron Maiden producer Tony Wilson,"
+    },
+    {
+      "start": 2226.87,
+      "end": 2228.71,
+      "text": "and in the studios it made a veil."
+    },
+    {
+      "start": 2228.81,
+      "end": 2234.15,
+      "text": "The original line-up, Paul D'Anno, Steve Harris, David Murray, Tony Parsons, and Doug Sampson."
+    },
+    {
+      "start": 2234.33,
+      "end": 2237.81,
+      "text": "The two tracks he heard were Running Free and Iron Maiden, two more to follow."
+    },
+    {
+      "start": 2237.99,
+      "end": 2239.83,
+      "text": "Back to Spider now, this is going to be their new single."
+    },
+    {
+      "start": 2240.25,
+      "end": 2241.81,
+      "text": "Comes out Monday, Feb 3rd."
+    },
+    {
+      "start": 2241.87,
+      "end": 2243.69,
+      "text": "More details about Spider after you hear them."
+    },
+    {
+      "start": 2244.13,
+      "end": 2245.77,
+      "text": "Gimme, gimme, gimme it all."
+    },
+    {
+      "start": 2679.95,
+      "end": 2680.43,
+      "text": "Seducer."
+    },
+    {
+      "start": 2680.69,
+      "end": 2683.91,
+      "text": "It's from their album Caught in the Act on the Thunderbolt record label."
+    },
+    {
+      "start": 2683.91,
+      "end": 2689.28,
+      "text": "track was called don't fall in love rock and roll and before that from our session by them spider"
+    },
+    {
+      "start": 2689.28,
+      "end": 2696.08,
+      "text": "and gimme gimme gimme it all which is the actual title of their first single on prt records that"
+    },
+    {
+      "start": 2696.08,
+      "end": 2700.32,
+      "text": "comes out on monday the 3rd of february you just heard the session track the single as i said it"
+    },
+    {
+      "start": 2700.32,
+      "end": 2705.22,
+      "text": "will be out on monday 3rd of february and the first 5 000 copies include a free double-sided"
+    },
+    {
+      "start": 2705.22,
+      "end": 2711.76,
+      "text": "single which includes two tracks from the krang weekender which the bbc recorded remember and"
+    },
+    {
+      "start": 2711.76,
+      "end": 2714.66,
+      "text": "and Spider will be touring the UK from March 10th"
+    },
+    {
+      "start": 2714.66,
+      "end": 2716.5,
+      "text": "to promote the album Raise the Banner."
+    },
+    {
+      "start": 2716.98,
+      "end": 2719.62,
+      "text": "And the album's coming out on March 17th,"
+    },
+    {
+      "start": 2719.62,
+      "end": 2721.12,
+      "text": "also on PRT Records, now you know."
+    },
+    {
+      "start": 2721.2,
+      "end": 2723.14,
+      "text": "An update there on Spider, what they're up to."
+    },
+    {
+      "start": 2723.88,
+      "end": 2725.66,
+      "text": "And in that track, Gimme Gimme, Gimme It All,"
+    },
+    {
+      "start": 2726.1,
+      "end": 2728.52,
+      "text": "honestly, they really don't stop for tea, do they, those lads?"
+    },
+    {
+      "start": 2729.34,
+      "end": 2735.15,
+      "text": "He's really churning it out there, going at a rapid rate of knots."
+    },
+    {
+      "start": 2735.31,
+      "end": 2737.25,
+      "text": "It's 13 and a half minutes to 11."
+    },
+    {
+      "start": 2737.43,
+      "end": 2738.83,
+      "text": "Said he, trying to sound like an announcer."
+    },
+    {
+      "start": 2739.31,
+      "end": 2741.59,
+      "text": "Knickers, that's the only time in my whole career"
+    },
+    {
+      "start": 2741.59,
+      "end": 2742.79,
+      "text": "I've been able to say it on the air."
+    },
+    {
+      "start": 2742.79,
+      "end": 2757.73,
+      "text": "Knickers. I'm giving some away. That's why I can say it. Honest. I've got three pairs of knickers here, and I must say they're very comfortable. Also, three signed LPs and three posters. In other words, three people can win one pair of knickers, one signed LP, and one poster."
+    },
+    {
+      "start": 2757.73,
+      "end": 2760.45,
+      "text": "The act are Motley Crue, okay?"
+    },
+    {
+      "start": 2760.85,
+      "end": 2765.37,
+      "text": "Motley Crue are the act, but of course, there's a bit of a catch and a bit of a competition."
+    },
+    {
+      "start": 2766.05,
+      "end": 2772.17,
+      "text": "I'm going to read you the titles of all the tracks that are on their album, which is called Theatre of Pain."
+    },
+    {
+      "start": 2772.49,
+      "end": 2781.79,
+      "text": "What you have to work out is which is the song title that is emblazoned, printed, across the front of the knickers, okay?"
+    },
+    {
+      "start": 2782.05,
+      "end": 2784.07,
+      "text": "Because just one song title is."
+    },
+    {
+      "start": 2784.75,
+      "end": 2788.27,
+      "text": "Song titles, Motley Crue album, Theatre of Pain, here they are."
+    },
+    {
+      "start": 2788.55,
+      "end": 2796.93,
+      "text": "City Boy Blues, Smokin' in the Boys' Room, Louder Than Hell, Keep Your Eye on the Money, Home Sweet Home."
+    },
+    {
+      "start": 2797.45,
+      "end": 2805.83,
+      "text": "Tonight, We Need a Lover, Use It or Lose It, Save Our Souls, Raise Your Hands to Rock, and Fight for Your Rights."
+    },
+    {
+      "start": 2806.09,
+      "end": 2812.71,
+      "text": "Now, they are the titles of all the songs on the Theatre of Pain album that's out with Motley Crue."
+    },
+    {
+      "start": 2812.71,
+      "end": 2817.45,
+      "text": "Just one of those titles is emblazoned across the front of these knickers I'm holding."
+    },
+    {
+      "start": 2818.15,
+      "end": 2822.29,
+      "text": "Aha, you have to work out which one I'll leave you to cogitate"
+    },
+    {
+      "start": 2822.29,
+      "end": 2825.25,
+      "text": "while we get a bit of Motley Crue going here."
+    },
+    {
+      "start": 2825.99,
+      "end": 3259.33,
+      "text": "12 Incher, they are the Cherry Bombs featuring Anita,"
+    },
+    {
+      "start": 3259.45,
+      "end": 3261.17,
+      "text": "who used to be in Toto Quelo, Honest."
+    },
+    {
+      "start": 3261.57,
+      "end": 3264.29,
+      "text": "The Cherry Bombs there, it's out on the Lick record label"
+    },
+    {
+      "start": 3264.29,
+      "end": 3267.23,
+      "text": "and it's called Hot Girls In Love, or at least that track was."
+    },
+    {
+      "start": 3267.29,
+      "end": 3270.39,
+      "text": "And before that you heard from the album, actually the CD version of the album,"
+    },
+    {
+      "start": 3270.79,
+      "end": 3273.57,
+      "text": "Theatre of Pain, Motley Crue, Smokin' in the Boys' Room."
+    },
+    {
+      "start": 3273.63,
+      "end": 3275.03,
+      "text": "That's out on the Elektra record label."
+    },
+    {
+      "start": 3275.13,
+      "end": 3278.71,
+      "text": "Once again, I'm here to tell you that I have three pairs of Motley Crue knickers."
+    },
+    {
+      "start": 3279.05,
+      "end": 3282.83,
+      "text": "Three signed LPs, American copies, and three posters as well."
+    },
+    {
+      "start": 3282.91,
+      "end": 3283.87,
+      "text": "So three people can win."
+    },
+    {
+      "start": 3283.93,
+      "end": 3288.45,
+      "text": "One pair of knickers, one signed LP, and one poster of Motley Crue."
+    },
+    {
+      "start": 3288.55,
+      "end": 3289.61,
+      "text": "If they can work this out."
+    },
+    {
+      "start": 3289.73,
+      "end": 3290.63,
+      "text": "Here it goes once again."
+    },
+    {
+      "start": 3291.05,
+      "end": 3291.81,
+      "text": "This is the competition."
+    },
+    {
+      "start": 3291.99,
+      "end": 3292.43,
+      "text": "Pay attention."
+    },
+    {
+      "start": 3293.33,
+      "end": 3295.67,
+      "text": "Now, these knickers that I have in my hand, do you see them?"
+    },
+    {
+      "start": 3296.11,
+      "end": 3296.63,
+      "text": "Very nice."
+    },
+    {
+      "start": 3296.81,
+      "end": 3297.57,
+      "text": "Black, incidentally."
+    },
+    {
+      "start": 3297.57,
+      "end": 3300.99,
+      "text": "they have a song title emblazoned right across the front."
+    },
+    {
+      "start": 3301.21,
+      "end": 3302.55,
+      "text": "I'm going to read you all the song titles"
+    },
+    {
+      "start": 3302.55,
+      "end": 3304.65,
+      "text": "that are featured on the album Theatre of Pain."
+    },
+    {
+      "start": 3305.37,
+      "end": 3308.19,
+      "text": "Only one song title is on the front of the knickers."
+    },
+    {
+      "start": 3309.01,
+      "end": 3311.27,
+      "text": "City Boy Blues, Smokin' in the Boys' Room,"
+    },
+    {
+      "start": 3311.77,
+      "end": 3314.35,
+      "text": "Louder Than Hell, Keep Your Eye on the Money,"
+    },
+    {
+      "start": 3314.97,
+      "end": 3317.45,
+      "text": "Home Sweet Home, Tonight We Need a Lover,"
+    },
+    {
+      "start": 3317.79,
+      "end": 3320.17,
+      "text": "Use It or Lose It, Save Our Souls,"
+    },
+    {
+      "start": 3320.55,
+      "end": 3323.87,
+      "text": "Raise Your Hands to Rock, and Fight for Your Rights."
+    },
+    {
+      "start": 3325.15,
+      "end": 3326.31,
+      "text": "If you can work it out,"
+    },
+    {
+      "start": 3326.31,
+      "end": 3334.37,
+      "text": "what you have to do is to send in your answer to knickers vance the friday rock show bbc radio one"
+    },
+    {
+      "start": 3334.37,
+      "end": 3342.09,
+      "text": "london w1a4 ww once again answers postcard back of an envelope whatever you like as long as it's"
+    },
+    {
+      "start": 3342.09,
+      "end": 3351.6,
+      "text": "written to knickers vance the friday rock show bbc radio one london w1a4 ww i think i better"
+    },
+    {
+      "start": 3351.6,
+      "end": 3362.15,
+      "text": "to take these off now or somebody might start talking three minutes to 11 the friday rock show"
+    },
+    {
+      "start": 3362.15,
+      "end": 3367.95,
+      "text": "this is bbc radio one it's time to lie back and enjoy it and why not what better garment to wear"
+    },
+    {
+      "start": 3367.95,
+      "end": 3373.14,
+      "text": "than a pair of motley crew knickers right 20 minutes of music or thereabouts put together by"
+    },
+    {
+      "start": 3373.14,
+      "end": 3382.44,
+      "text": "mr fleming lord of henry when i think queens park oswestry in shropshire watch fleming he says dear"
+    },
+    {
+      "start": 3382.44,
+      "end": 3387.24,
+      "text": "Thomas, I am sending you 20 fairly varied minutes of music,"
+    },
+    {
+      "start": 3387.36,
+      "end": 3390.2,
+      "text": "including a few words of warning from a Mr. Ian Gillan,"
+    },
+    {
+      "start": 3390.3,
+      "end": 3392.3,
+      "text": "which I think a lot of people would like to hear."
+    },
+    {
+      "start": 3392.74,
+      "end": 3399.48,
+      "text": "I'd appreciate it if you would say hello to Ben and Kev and Mark"
+    },
+    {
+      "start": 3399.48,
+      "end": 3401.52,
+      "text": "and Hawk fans everywhere."
+    },
+    {
+      "start": 3407.93,
+      "end": 3411.33,
+      "text": "Now, courtesy of Mr. Fleming Lord of Oswestry in Shropshire,"
+    },
+    {
+      "start": 3411.79,
+      "end": 3414.83,
+      "text": "here's his selection of music so you can lie back."
+    },
+    {
+      "start": 3415.21,
+      "end": 3415.73,
+      "text": "Enjoy it."
+    },
+    {
+      "start": 4087.98,
+      "end": 4589.58,
+      "text": "From future shock, about a 1981,"
+    },
+    {
+      "start": 4589.58,
+      "end": 4595.46,
+      "text": "the track was no laughing in heaven and doing a bit of acting there and that was just part of"
+    },
+    {
+      "start": 4595.46,
+      "end": 4599.24,
+      "text": "the feature called lie back and enjoy that was put together tonight by mr fleming lord"
+    },
+    {
+      "start": 4599.24,
+      "end": 4605.18,
+      "text": "of queen's park oswest mr lord writes on his letter any chance of the monday to friday rock"
+    },
+    {
+      "start": 4605.18,
+      "end": 4613.28,
+      "text": "show i'd say two chances dog's chance no chance nobody else fancy getting together or lie back"
+    },
+    {
+      "start": 4613.28,
+      "end": 4617.74,
+      "text": "and enjoy the feature about 20 minutes of music it would be would suffice varied if you can or"
+    },
+    {
+      "start": 4617.74,
+      "end": 4621.99,
+      "text": "you know your choice but not the same artist that's what i'd prefer not to have and actually"
+    },
+    {
+      "start": 4621.99,
+      "end": 4629.01,
+      "text": "so do the people who listen so varied artists please send your choice to lie back and enjoy it"
+    },
+    {
+      "start": 4629.01,
+      "end": 4636.55,
+      "text": "the friday rock show bbc radio 1 london w1a4 ww okay lie back and enjoy it the friday rock show"
+    },
+    {
+      "start": 4636.55,
+      "end": 4646.99,
+      "text": "bbc radio 1 london w1a4 ww 20 minutes or thereabouts of music to make the nation well"
+    },
+    {
+      "start": 4646.99,
+      "end": 5213.15,
+      "text": "just lie back enjoy it's just come out on the virgin record label that track was moving around"
+    },
+    {
+      "start": 5213.15,
+      "end": 5218.23,
+      "text": "and it's a good album and before that from our session by them the boogie boys from scouse land"
+    },
+    {
+      "start": 5218.23,
+      "end": 5231.3,
+      "text": "spider i'm not the only one 128 and i've been gray of gorse hill stratford manchester thomas"
+    },
+    {
+      "start": 5231.3,
+      "end": 5239.69,
+      "text": "get together a name check for my pen pals eric upfold steven thomas nicola ryrie i think it is"
+    },
+    {
+      "start": 5239.69,
+      "end": 5241.01,
+      "text": "R-Y-R-I-E."
+    },
+    {
+      "start": 5241.57,
+      "end": 5242.27,
+      "text": "Amanda Price."
+    },
+    {
+      "start": 5242.39,
+      "end": 5243.07,
+      "text": "Rachel Pollitt."
+    },
+    {
+      "start": 5243.41,
+      "end": 5244.33,
+      "text": "Pietro Machetto."
+    },
+    {
+      "start": 5244.99,
+      "end": 5245.81,
+      "text": "Ian Catherwood."
+    },
+    {
+      "start": 5246.01,
+      "end": 5247.31,
+      "text": "Paul McDermott."
+    },
+    {
+      "start": 5248.01,
+      "end": 5248.47,
+      "text": "Gibbo."
+    },
+    {
+      "start": 5248.75,
+      "end": 5249.17,
+      "text": "Glint."
+    },
+    {
+      "start": 5249.41,
+      "end": 5250.05,
+      "text": "Paul Waite."
+    },
+    {
+      "start": 5250.19,
+      "end": 5250.77,
+      "text": "Dougie Watson."
+    },
+    {
+      "start": 5251.67,
+      "end": 5252.17,
+      "text": "A.D."
+    },
+    {
+      "start": 5252.27,
+      "end": 5253.75,
+      "text": "And my fiancé, Robert Thomas."
+    },
+    {
+      "start": 5254.33,
+      "end": 5255.39,
+      "text": "Also hello to my sister."
+    },
+    {
+      "start": 5255.65,
+      "end": 5256.29,
+      "text": "There you go, Jean."
+    },
+    {
+      "start": 5256.55,
+      "end": 5257.21,
+      "text": "You've got the lot in."
+    },
+    {
+      "start": 5259.72,
+      "end": 5261.1,
+      "text": "Winchester College, Winchester."
+    },
+    {
+      "start": 5261.62,
+      "end": 5264.22,
+      "text": "Dear Tommy, it's my birthday on Friday."
+    },
+    {
+      "start": 5264.38,
+      "end": 5265.12,
+      "text": "I'm 14."
+    },
+    {
+      "start": 5265.38,
+      "end": 5266.2,
+      "text": "Place of my unmaiden."
+    },
+    {
+      "start": 5266.2,
+      "end": 5269.56,
+      "text": "We're going to, in a second, give a mention to all my mates at Winchester College."
+    },
+    {
+      "start": 5270.18,
+      "end": 5271.18,
+      "text": "How do you hope you have the time?"
+    },
+    {
+      "start": 5271.32,
+      "end": 5272.26,
+      "text": "It doesn't matter if you don't."
+    },
+    {
+      "start": 5272.58,
+      "end": 5273.4,
+      "text": "Give up the good work."
+    },
+    {
+      "start": 5273.5,
+      "end": 5274.6,
+      "text": "Happy birthday, James Thomas."
+    },
+    {
+      "start": 5274.96,
+      "end": 5275.62,
+      "text": "He's 13."
+    },
+    {
+      "start": 5276.68,
+      "end": 5278.62,
+      "text": "Probably under the covers with the radio at the moment."
+    },
+    {
+      "start": 5279.18,
+      "end": 5280.38,
+      "text": "Just like I used to be."
+    },
+    {
+      "start": 5281.4,
+      "end": 5283.14,
+      "text": "Dear Tom, can you play some real metal for me?"
+    },
+    {
+      "start": 5283.2,
+      "end": 5285.3,
+      "text": "Anything by Slayer, Venom, Piledriver, Metallica?"
+    },
+    {
+      "start": 5285.38,
+      "end": 5286.48,
+      "text": "Well, we got some of that in tonight."
+    },
+    {
+      "start": 5287.57,
+      "end": 5290.73,
+      "text": "Say hello to Dave, Sick Mother Ward,"
+    },
+    {
+      "start": 5291.05,
+      "end": 5293.63,
+      "text": "Paul Purvey Robbins, Nick the Cat,"
+    },
+    {
+      "start": 5294.19,
+      "end": 5295.87,
+      "text": "Jem Slayer Maniac,"
+    },
+    {
+      "start": 5296.37,
+      "end": 5298.47,
+      "text": "Rick Spud, Chris Alex,"
+    },
+    {
+      "start": 5298.47,
+      "end": 5304.06,
+      "text": "All the best from Dom Watson of Chichester."
+    },
+    {
+      "start": 5810.07,
+      "end": 5814.93,
+      "text": "Paul D'Anno, Steve Harris, David Murray, Tony Parsons, and Doug Sampson,"
+    },
+    {
+      "start": 5815.11,
+      "end": 5818.23,
+      "text": "the tracks for Sanctuary, and Transylvania, the instrumental."
+    },
+    {
+      "start": 5818.83,
+      "end": 5821.45,
+      "text": "Any ideas as to what you'd like to hear out of our archives,"
+    },
+    {
+      "start": 5821.57,
+      "end": 5825.05,
+      "text": "and they're good, and they're extensive, here at the Friday Rock Show."
+    },
+    {
+      "start": 5825.55,
+      "end": 5828.57,
+      "text": "If you have any ideas, jot it down on a postcard, back of an envelope,"
+    },
+    {
+      "start": 5828.75,
+      "end": 5833.29,
+      "text": "whatever you care to employ, and send it to the idea that is Archive,"
+    },
+    {
+      "start": 5833.77,
+      "end": 5838.29,
+      "text": "Friday Rock Show, BBC Radio 1, London, W1A, 4WW,"
+    },
+    {
+      "start": 5838.29,
+      "end": 5840.83,
+      "text": "And at your bidding, we'll go delving."
+    },
+    {
+      "start": 6445.26,
+      "end": 6446.1,
+      "text": "Chardon the single."
+    },
+    {
+      "start": 6447.11,
+      "end": 6450.05,
+      "text": "And that was for all the good friends of Leslie Moffat, the hare,"
+    },
+    {
+      "start": 6450.67,
+      "end": 6454.13,
+      "text": "and Angela Hunter, the specs of Fleming Road,"
+    },
+    {
+      "start": 6454.57,
+      "end": 6456.09,
+      "text": "and I think it's Hamilcombe Road,"
+    },
+    {
+      "start": 6456.51,
+      "end": 6457.81,
+      "text": "Deltill, Lanarkshire and Scotland."
+    },
+    {
+      "start": 6457.97,
+      "end": 6459.41,
+      "text": "All the friends of those good people, OK?"
+    },
+    {
+      "start": 6459.73,
+      "end": 6461.29,
+      "text": "Especially Kenny McEwan."
+    },
+    {
+      "start": 6461.63,
+      "end": 6464.95,
+      "text": "The final one here by Spider from their session tonight."
+    },
+    {
+      "start": 6465.19,
+      "end": 6465.87,
+      "text": "It's a good one."
+    },
+    {
+      "start": 6466.27,
+      "end": 6468.43,
+      "text": "It's called Need To Know About You."
+    },
+    {
+      "start": 6469.07,
+      "end": 6699.76,
+      "text": "Best work they've ever done, that is."
+    },
+    {
+      "start": 6699.76,
+      "end": 6702.22,
+      "text": "and they've got an album coming out in March with those tracks on it."
+    },
+    {
+      "start": 6702.3,
+      "end": 6705.54,
+      "text": "They are Sniffer, Brian Burrows, Robbie Burrows, and Cole Harkness."
+    },
+    {
+      "start": 6705.68,
+      "end": 6707.16,
+      "text": "They are, of course, Spider."
+    },
+    {
+      "start": 6707.36,
+      "end": 6708.54,
+      "text": "They've got a single coming out this Monday."
+    },
+    {
+      "start": 6708.88,
+      "end": 6711.02,
+      "text": "The track is called on the single, Gimme Gimme It All,"
+    },
+    {
+      "start": 6711.34,
+      "end": 6713.82,
+      "text": "and also the first 5,000 people who get to the shops fast enough"
+    },
+    {
+      "start": 6713.82,
+      "end": 6715.46,
+      "text": "will get a free single that goes along with it"
+    },
+    {
+      "start": 6715.46,
+      "end": 6718.06,
+      "text": "that features some tracks that were recorded by the Friday Rock Show"
+    },
+    {
+      "start": 6718.06,
+      "end": 6720.2,
+      "text": "at the crying Weekender."
+    },
+    {
+      "start": 6720.96,
+      "end": 6722.04,
+      "text": "That's an update on Spider."
+    },
+    {
+      "start": 6722.16,
+      "end": 6724.16,
+      "text": "Oh, and they're going to be touring, did I tell you this, in March."
+    },
+    {
+      "start": 6725.04,
+      "end": 6728.8,
+      "text": "I wasn't going to play this next track until I came into the studios tonight,"
+    },
+    {
+      "start": 6728.8,
+      "end": 6731.24,
+      "text": "and just before I did, popped in the office, fed the cat,"
+    },
+    {
+      "start": 6731.66,
+      "end": 6733.42,
+      "text": "you know, did the budgies, toenails, the usual stuff,"
+    },
+    {
+      "start": 6733.86,
+      "end": 6734.68,
+      "text": "and I found this letter."
+    },
+    {
+      "start": 6735.06,
+      "end": 6738.74,
+      "text": "It's from Aidan Dixon and Andrew Seaman of West Wycombe and Kent."
+    },
+    {
+      "start": 6738.8,
+      "end": 6740.94,
+      "text": "Dear Tommy, nobody could have remained unmoved"
+    },
+    {
+      "start": 6740.94,
+      "end": 6744.16,
+      "text": "by the tragic deaths of the seven Challenger shuttle crew members"
+    },
+    {
+      "start": 6744.16,
+      "end": 6745.84,
+      "text": "on Tuesday of this month."
+    },
+    {
+      "start": 6746.02,
+      "end": 6747.96,
+      "text": "Although it may seem maudlin or even morbid,"
+    },
+    {
+      "start": 6748.28,
+      "end": 6750.98,
+      "text": "so soon after the event we suggest you play one track on your show"
+    },
+    {
+      "start": 6750.98,
+      "end": 6754.48,
+      "text": "as a tribute to those brave men and women who lost their lives."
+    },
+    {
+      "start": 6754.56,
+      "end": 6756.84,
+      "text": "The track, of course, is Countdown by Rush."
+    },
+    {
+      "start": 6757.38,
+      "end": 6760.82,
+      "text": "It's a song that we think sums up all the awe and excitement"
+    },
+    {
+      "start": 6760.82,
+      "end": 6763.3,
+      "text": "everyone in the whole world ought to feel"
+    },
+    {
+      "start": 6763.3,
+      "end": 6765.42,
+      "text": "at the efforts currently being made to open up space"
+    },
+    {
+      "start": 6765.42,
+      "end": 6767.1,
+      "text": "for the eventual good of mankind."
+    },
+    {
+      "start": 6767.54,
+      "end": 6770.4,
+      "text": "Despite the awful events at Cape Canaveral, we hope you agree."
+    },
+    {
+      "start": 6770.78,
+      "end": 6772.26,
+      "text": "And I do, wholeheartedly."
+    },
+    {
+      "start": 6868.64,
+      "end": 7078.94,
+      "text": "I hope your life is going very well for you."
+    },
+    {
+      "start": 7078.96,
+      "end": 7082.61,
+      "text": "Friday Rock Show is a Tony Wilson production."
+    },
+    {
+      "start": 7083.53,
+      "end": 7088.95,
+      "text": "Now following the midnight pips you will hear on FM Stereo Radio 2"
+    },
+    {
+      "start": 7088.95,
+      "end": 7090.97,
+      "text": "or Medium Wave, the Radio 1 News."
+    },
+    {
+      "start": 7091.59,
+      "end": 7096.1,
+      "text": "I'm sure you've noticed the most pleasant of nights around our country"
+    },
+    {
+      "start": 7096.1,
+      "end": 7101.83,
+      "text": "is blustery, there's snow, there's ice, it's dangerous."
+    },
+    {
+      "start": 7102.29,
+      "end": 7103.61,
+      "text": "Particularly on the roads, take care."
+    },
+    {
+      "start": 7104.21,
+      "end": 7105.01,
+      "text": "I'm Tommy Vance."
+    },
+    {
+      "start": 7105.25,
+      "end": 7108.77,
+      "text": "On behalf of all the people on the music side of Radio 1, I wish you well."
+    },
+    {
+      "start": 7109.45,
+      "end": 7110.13,
+      "text": "See you next week."
     }
   ]
 }

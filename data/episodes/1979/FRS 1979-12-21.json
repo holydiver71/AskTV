@@ -33,27 +33,34 @@
     {
       "artist": "Kiss",
       "track": "Deuce",
-      "details": "LP - Alive"
+      "details": "LP - Alive",
+      "verified_timestamp": 566.61
     },
     {
       "artist": "UFO",
       "track": "This Fire Burns Tonight",
-      "details": "LP - No Place to Run"
+      "details": "LP - No Place to Run",
+      "verified_timestamp": 559.69
     },
     {
       "artist": "The Rolling Stones",
       "track": "Sympathy for the Devil",
-      "details": "LP - Beggars Banquet"
+      "details": "LP - Beggars Banquet",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "The Ramones",
       "track": "Rock ’n’ Roll High School",
-      "details": "LP - End of the Century"
+      "details": "LP - End of the Century",
+      "verified_timestamp": 616.22
     },
     {
       "artist": "The Moody Blues",
       "track": "Go Now",
-      "details": "session 1965-04"
+      "details": "session 1965-04",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "we ve already said so",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "The Moody Blues",
@@ -63,32 +70,43 @@
     {
       "artist": "The Moody Blues",
       "track": "I’ll Go Crazy",
-      "details": "session 1965-04"
+      "details": "session 1965-04",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "cause i love you i"
     },
     {
       "artist": "Terra Nova",
       "track": "Saints and Sinners",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1660.81
     },
     {
       "artist": "Joe Walsh",
       "track": "Meadows",
-      "details": "LP - The Smoker You Drink, the Player You Get"
+      "details": "LP - The Smoker You Drink, the Player You Get",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the smoker you drink the",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Tom Petty & The Heartbreakers",
       "track": "Even the Losers",
-      "details": "LP - Damn the Torpedoes"
+      "details": "LP - Damn the Torpedoes",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Night",
       "track": "You Ain’t Pretty Enough",
-      "details": "LP - Night"
+      "details": "LP - Night",
+      "verified_timestamp": 2834.12
     },
     {
       "artist": "The Moody Blues",
       "track": "Don’t Let Me Be Misunderstood",
-      "details": "session 1967"
+      "details": "session 1967",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i feel a little mad",
+      "verified_timestamp": 1140.1
     },
     {
       "artist": "The Moody Blues",
@@ -98,7 +116,9 @@
     {
       "artist": "The Moody Blues",
       "track": "Leave This Man Alone",
-      "details": "session 1967"
+      "details": "session 1967",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "ah leave this man alone"
     },
     {
       "artist": "Terra Nova",
@@ -108,7 +128,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.2
     },
     {
       "artist": "Terra Nova",
@@ -118,7 +139,8 @@
     {
       "artist": "Ian North",
       "track": "She Kills Me",
-      "details": "LP - Neo"
+      "details": "LP - Neo",
+      "verified_timestamp": 4998.5
     },
     {
       "artist": "The Moody Blues",
@@ -133,22 +155,29 @@
     {
       "artist": "UFO",
       "track": "Lettin’ Go",
-      "details": "LP - No Place to Run"
+      "details": "LP - No Place to Run",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "UFO",
       "track": "Gone in the Night",
-      "details": "LP - No Place to Run"
+      "details": "LP - No Place to Run",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "re gone in the night",
+      "verified_timestamp": 1629.6
     },
     {
       "artist": "The Moody Blues",
       "track": "Dr. Livingstone, I Presume",
-      "details": "session 1968"
+      "details": "session 1968",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "livingston i presume stepping out"
     },
     {
       "artist": "The Moody Blues",
       "track": "Voices in the Sky",
-      "details": "session 1968"
+      "details": "session 1968",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "The Moody Blues",
@@ -163,7 +192,8 @@
     {
       "artist": "Motörhead",
       "track": "On Parole",
-      "details": "LP - On Parole"
+      "details": "LP - On Parole",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

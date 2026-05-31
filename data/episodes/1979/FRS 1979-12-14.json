@@ -23,37 +23,48 @@
     {
       "artist": "Molly Hatchet",
       "track": "'Flirtin' with Disaster'",
-      "details": "LP-Flirtin' with Disaster"
+      "details": "LP-Flirtin' with Disaster",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "me i don t know",
+      "verified_timestamp": 600.6
     },
     {
       "artist": "Iron Maiden",
       "track": "Iron Maiden",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 586.73
     },
     {
       "artist": "The Jimi Hendrix Experience",
       "track": "Stone Free",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "A. Moore",
       "track": "War",
-      "details": "LP-Flying Doesn't Help"
+      "details": "LP-Flying Doesn't Help",
+      "verified_timestamp": 1378.14
     },
     {
       "artist": "Damned",
       "track": "'I Just Can't Be Happy Today'",
-      "details": "Peel session"
+      "details": "Peel session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "just can t be happy",
+      "verified_timestamp": 1358.79
     },
     {
       "artist": "It's a Beautiful Day",
       "track": "White Bird",
-      "details": "LP-It's a Beautiful Day"
+      "details": "LP-It's a Beautiful Day",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Led Zeppelin",
       "track": "Thank You",
-      "details": "LP-Led Zeppelin II"
+      "details": "LP-Led Zeppelin II",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Iron Maiden",
@@ -68,7 +79,8 @@
     {
       "artist": "Jackson Browne",
       "track": "Before the Deluge",
-      "details": "LP-No Nukes compilation"
+      "details": "LP-No Nukes compilation",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Bruce Springsteen & The E-Street Band",
@@ -78,27 +90,32 @@
     {
       "artist": "Radio Actors",
       "track": "Nuclear Waste",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 3616.34
     },
     {
       "artist": "Damned",
       "track": "'I'm So Bored'",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1358.79
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.64
     },
     {
       "artist": "UFO",
       "track": "Too Hot to Handle",
-      "details": "Peel session"
+      "details": "Peel session",
+      "verified_timestamp": 2077.06
     },
     {
       "artist": "UFO",
       "track": "Try Me",
-      "details": "Session; Peel session"
+      "details": "Session; Peel session",
+      "verified_timestamp": 2077.06
     },
     {
       "artist": "UFO",
@@ -108,7 +125,8 @@
     {
       "artist": "Frank Zappa",
       "track": "Packard Goose",
-      "details": "excerpt; LP-Joe's Garage Acts II & III"
+      "details": "excerpt; LP-Joe's Garage Acts II & III",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Iron Maiden",
@@ -118,7 +136,8 @@
     {
       "artist": "UK",
       "track": "'Caesar's Palace Blues'",
-      "details": "LP-Night After Night"
+      "details": "LP-Night After Night",
+      "verified_timestamp": 5963.99
     },
     {
       "artist": "Damned",
@@ -128,7 +147,8 @@
     {
       "artist": "Van Halen",
       "track": "'Runnin' With the Devil'",
-      "details": "LP-Van Halen"
+      "details": "LP-Van Halen",
+      "verified_timestamp": 6425.47
     },
     {
       "artist": "Iron Maiden",
@@ -138,7 +158,8 @@
     {
       "artist": "Neil Young & Crazy Horse",
       "track": "The Loner",
-      "details": "LP-Live Rust"
+      "details": "LP-Live Rust",
+      "verified_timestamp": 6980.03
     }
   ],
   "transcript": [

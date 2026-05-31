@@ -25,17 +25,20 @@
     {
       "artist": "Saxon",
       "track": "Strong Arm Of The Law",
-      "details": "LP - The Eagle Has Landed"
+      "details": "LP - The Eagle Has Landed",
+      "verified_timestamp": 630.72
     },
     {
       "artist": "Rolling Stones",
       "track": "Under My Thumb",
-      "details": "LP - Still Life"
+      "details": "LP - Still Life",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Heavy Pettin",
       "track": "Shout It Out",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 687.72
     },
     {
       "artist": "Nightwing",
@@ -45,7 +48,8 @@
     {
       "artist": "Deep Purple",
       "track": "Blood Sucker",
-      "details": "BBC Session 1970-04-21"
+      "details": "BBC Session 1970-04-21",
+      "verified_timestamp": 1316.59
     },
     {
       "artist": "Deep Purple",
@@ -60,12 +64,14 @@
     {
       "artist": "38 Special",
       "track": "Back Door Stranger",
-      "details": "LP - Special Forces"
+      "details": "LP - Special Forces",
+      "verified_timestamp": 2488.01
     },
     {
       "artist": "Rage",
       "track": "Only Child",
-      "details": "LP - Nice n Dirty"
+      "details": "LP - Nice n Dirty",
+      "verified_timestamp": 2480.93
     },
     {
       "artist": "Heavy Pettin",
@@ -80,17 +86,20 @@
     {
       "artist": "Cheetah",
       "track": "Nite",
-      "details": "LP - Rock n Roll Women"
+      "details": "LP - Rock n Roll Women",
+      "verified_timestamp": 1932.75
     },
     {
       "artist": "Frankie Miller",
       "track": "'Don't Stop'",
-      "details": "B-side of Dream The Dream single"
+      "details": "B-side of Dream The Dream single",
+      "verified_timestamp": 3481.58
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 57.88
     },
     {
       "artist": "Heavy Pettin",
@@ -105,17 +114,20 @@
     {
       "artist": "Jon Anderson",
       "track": "Olympia",
-      "details": "LP - Animation"
+      "details": "LP - Animation",
+      "verified_timestamp": 5983.19
     },
     {
       "artist": "Chris Squire",
       "track": "Lucky Seven",
-      "details": "LP - Fish Out Of Water"
+      "details": "LP - Fish Out Of Water",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Deep Purple",
       "track": "Into The Fire",
-      "details": "BBC Session 1970-09-23"
+      "details": "BBC Session 1970-09-23",
+      "verified_timestamp": 1316.59
     },
     {
       "artist": "Deep Purple",

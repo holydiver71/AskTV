@@ -27,37 +27,44 @@
     {
       "artist": "Rainbow",
       "track": "All Night Long",
-      "details": "2xCD-The Best Of Rainbow; Polydor"
+      "details": "2xCD-The Best Of Rainbow; Polydor",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Quiet Riot",
       "track": "Winners Take All",
-      "details": "7\"; Epic"
+      "details": "7\"; Epic",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Dirty Strangers",
       "track": "Survival Dance",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 837.66
     },
     {
       "artist": "Tokyo Blade",
       "track": "Night Of The Blade",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1083.02
     },
     {
       "artist": "Survivor",
       "track": "Broken Promises",
-      "details": "LP-Vital Signs; Scotti Bros."
+      "details": "LP-Vital Signs; Scotti Bros.",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Aces High",
-      "details": "7\"; EMI"
+      "details": "7\"; EMI",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Bad Company",
       "track": "Run With The Pack",
-      "details": "LP-Run With The Pack; Island"
+      "details": "LP-Run With The Pack; Island",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Dirty Strangers",
@@ -82,7 +89,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 69.58
     },
     {
       "artist": "Tokyo Blade",
@@ -117,7 +125,8 @@
     {
       "artist": "Tokyo Blade",
       "track": "‘Love Struck’",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1083.02
     },
     {
       "artist": null,
@@ -127,7 +136,8 @@
     {
       "artist": "Dirty Strangers",
       "track": "‘What Do You Do With Your Life?’",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 837.66
     },
     {
       "artist": "ZZ Top",

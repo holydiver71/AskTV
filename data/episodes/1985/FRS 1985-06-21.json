@@ -32,7 +32,8 @@
     {
       "artist": "Mountain",
       "track": "Theme For an Imaginary Western (LP - Climbing!) Windfall",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1321.41
     },
     {
       "artist": "Mountain",
@@ -42,7 +43,8 @@
     {
       "artist": "Mama's Boys",
       "track": "Crazy Daisy's House of Dreams (LP - Mama's Boys) Jive",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6456.03
     },
     {
       "artist": "Mama's Boys",
@@ -72,7 +74,8 @@
     {
       "artist": "Meat Loaf",
       "track": "You Took The Words Right Out Of My Mouth (Hot Summer Night) (LP - Bat Out Of Hell) Epic",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3780.0
     },
     {
       "artist": null,
@@ -87,12 +90,14 @@
     {
       "artist": "Meat Loaf",
       "track": "Bad Attitude (LP - Bad Attitude) Arista",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4140.64
     },
     {
       "artist": "Meat Loaf",
       "track": "I'm Gonna Love Her For The Both Of Us (LP - Dead Ringer) Epic",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5038.74
     },
     {
       "artist": "Scorpions",
@@ -117,17 +122,20 @@
     {
       "artist": "Deep Purple",
       "track": "Perfect Strangers (LP - Perfect Strangers) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6432.07
     },
     {
       "artist": "Deep Purple",
       "track": "Woman From Tokyo (LP - Who Do We Thnk We Are) Purple",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4514.99
     },
     {
       "artist": "Deep Purple",
       "track": "Smoke on the Water (LP - Machine Head) Purple",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4457.82
     },
     {
       "artist": null,

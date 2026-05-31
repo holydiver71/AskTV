@@ -12,7 +12,8 @@
     {
       "artist": "Mercyful Fate",
       "track": "Evil",
-      "details": "LP - Melissa"
+      "details": "LP - Melissa",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Frank Zappa",
@@ -27,7 +28,8 @@
     {
       "artist": "IQ",
       "track": "Awake And Nervous",
-      "details": "LP - Tales From The Lush Attic"
+      "details": "LP - Tales From The Lush Attic",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "AC/DC",
@@ -42,17 +44,20 @@
     {
       "artist": "TSA",
       "track": "Dreamers Secrets",
-      "details": "Single - TSA"
+      "details": "Single - TSA",
+      "verified_timestamp": 2410.21
     },
     {
       "artist": "Yardbirds",
       "track": "Over Under Sideways Down (LP - Roger The Engineer) Edsel",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2831.95
     },
     {
       "artist": "Emerson",
       "track": "Something Special",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 3761.59
     },
     {
       "artist": "Big Jim Sullivan",
@@ -62,7 +67,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 39.74
     },
     {
       "artist": null,

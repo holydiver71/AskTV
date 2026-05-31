@@ -23,7 +23,8 @@
     {
       "artist": null,
       "track": "Jon Lord interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2976.88
     },
     {
       "artist": "Deep Purple",
@@ -33,7 +34,8 @@
     {
       "artist": null,
       "track": "Jon Lord interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2976.88
     },
     {
       "artist": "Jon Lord",
@@ -58,12 +60,14 @@
     {
       "artist": "Gillan",
       "track": "The Maelstrom (LP - Future Shock) Virgin",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2794.12
     },
     {
       "artist": null,
       "track": "Ian Paice interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5311.07
     },
     {
       "artist": "Whitesnake",
@@ -73,7 +77,8 @@
     {
       "artist": null,
       "track": "Ian Paice interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5311.07
     },
     {
       "artist": "Deep Purple",
@@ -98,7 +103,8 @@
     {
       "artist": null,
       "track": "Ritchie Blackmore interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 487.02
     },
     {
       "artist": "Rainbow",
@@ -108,7 +114,8 @@
     {
       "artist": null,
       "track": "Ritchie Blackmore interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 487.02
     },
     {
       "artist": "Deep Purple",
@@ -118,7 +125,8 @@
     {
       "artist": null,
       "track": "Ritchie Blackmore interview",
-      "details": null
+      "details": null,
+      "verified_timestamp": 487.02
     },
     {
       "artist": "Deep Purple",

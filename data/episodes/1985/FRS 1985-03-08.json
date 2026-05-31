@@ -28,7 +28,8 @@
     {
       "artist": "King Kobra",
       "track": "Ready To Strike",
-      "details": "LP-Ready To Strike; Capitol"
+      "details": "LP-Ready To Strike; Capitol",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Whitesnake",
@@ -38,7 +39,8 @@
     {
       "artist": "Scorched Earth",
       "track": "Where Do We Go From Here",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1481.0
     },
     {
       "artist": "Coney Hatch",
@@ -48,22 +50,26 @@
     {
       "artist": "Raven",
       "track": "When The Going Gets Tough",
-      "details": "LP-Stay Hard; Atlantic"
+      "details": "LP-Stay Hard; Atlantic",
+      "verified_timestamp": 2002.55
     },
     {
       "artist": "Damascus",
       "track": "Something On My Mind",
-      "details": "12\"; self release"
+      "details": "12\"; self release",
+      "verified_timestamp": 2061.93
     },
     {
       "artist": "Uli Jon Roth",
       "track": "Neptunian Love",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 2586.79
     },
     {
       "artist": "Dio",
       "track": "Evil Eyes",
-      "details": "LP-The Last In Line; Vertigo"
+      "details": "LP-The Last In Line; Vertigo",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Scorched Earth",
@@ -73,7 +79,8 @@
     {
       "artist": "Q5",
       "track": "Missing In Action",
-      "details": "LP-Steel The Light; Music For Nations"
+      "details": "LP-Steel The Light; Music For Nations",
+      "verified_timestamp": 3307.28
     },
     {
       "artist": "TNT",
@@ -83,7 +90,8 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3659.24
     },
     {
       "artist": "Uli Jon Roth",
@@ -93,17 +101,20 @@
     {
       "artist": "Terraplane",
       "track": "I Survive",
-      "details": "7\"; Epic"
+      "details": "7\"; Epic",
+      "verified_timestamp": 5532.11
     },
     {
       "artist": "Jefferson Starship",
       "track": "No Way Out",
-      "details": "7\"; RCA"
+      "details": "7\"; RCA",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "REO Speedwagon",
       "track": "'Can't Fight This Feeling (7\")' (Epic)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Scorched Earth",
@@ -113,12 +124,14 @@
     {
       "artist": "Warrior",
       "track": "Fighting For The Earth",
-      "details": "LP-Fighting For The Earth; 10"
+      "details": "LP-Fighting For The Earth; 10",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "John Paul Jones",
       "track": "Crackback",
-      "details": "LP-Music From The Film Scream For Help; Atlantic"
+      "details": "LP-Music From The Film Scream For Help; Atlantic",
+      "verified_timestamp": 7118.79
     },
     {
       "artist": null,

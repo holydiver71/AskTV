@@ -28,17 +28,20 @@
     {
       "artist": "Dio",
       "track": "We Rock",
-      "details": "LP - Last In Line"
+      "details": "LP - Last In Line",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Gillan",
       "track": "If You Believe Me",
-      "details": "LP - Metal Explosion"
+      "details": "LP - Metal Explosion",
+      "verified_timestamp": 818.77
     },
     {
       "artist": "Van Stephenson",
       "track": "Modern Day Delilah",
-      "details": "LP - Righteous Anger"
+      "details": "LP - Righteous Anger",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Baby Tuckoo",
@@ -48,22 +51,26 @@
     {
       "artist": "Garrison",
       "track": "The First Time",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1333.25
     },
     {
       "artist": "Box Of Frogs",
       "track": "The Edge",
-      "details": "LP - Box Of Frogs; Epic"
+      "details": "LP - Box Of Frogs; Epic",
+      "verified_timestamp": 1867.88
     },
     {
       "artist": "Spider",
       "track": "Breakaway",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 2377.98
     },
     {
       "artist": "Di'Anno",
       "track": "Road Rat",
-      "details": "LP - Di'Anno"
+      "details": "LP - Di'Anno",
+      "verified_timestamp": 2369.18
     },
     {
       "artist": "Baby Tuckoo",
@@ -73,17 +80,20 @@
     {
       "artist": "Myofist",
       "track": "Evil Cold",
-      "details": "LP - Thunder In Rock"
+      "details": "LP - Thunder In Rock",
+      "verified_timestamp": 2916.01
     },
     {
       "artist": "Roger Taylor",
       "track": "'It's An Illusion'",
-      "details": "LP - Strange Frontier"
+      "details": "LP - Strange Frontier",
+      "verified_timestamp": 2944.07
     },
     {
       "artist": "Little Steven",
       "track": "Out Of The Darkness",
-      "details": "LP - Voice Of America"
+      "details": "LP - Voice Of America",
+      "verified_timestamp": 3417.73
     },
     {
       "artist": "Garrison",
@@ -103,12 +113,14 @@
     {
       "artist": "Heavy Pettin",
       "track": "Rock Me",
-      "details": "LP - Lettin' Loose"
+      "details": "LP - Lettin' Loose",
+      "verified_timestamp": 4030.65
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 42.59
     },
     {
       "artist": "Orion The Hunter",
@@ -128,12 +140,14 @@
     {
       "artist": "Fastway",
       "track": "Station",
-      "details": "LP - All Fired Up"
+      "details": "LP - All Fired Up",
+      "verified_timestamp": 2407.59
     },
     {
       "artist": "Silhouette",
       "track": "I Can Take A Hint",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 6745.23
     },
     {
       "artist": "Baby Tuckoo",
@@ -143,7 +157,8 @@
     {
       "artist": "Dio",
       "track": "One Night In The City",
-      "details": "LP - The Last In Line"
+      "details": "LP - The Last In Line",
+      "verified_timestamp": 6721.31
     },
     {
       "artist": null,

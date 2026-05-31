@@ -25,17 +25,20 @@
     {
       "artist": "Meat Loaf",
       "track": "Peel Out",
-      "details": "LP-Dead Ringer; Epic"
+      "details": "LP-Dead Ringer; Epic",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Steve Hackett",
       "track": "Spectral Mornings",
-      "details": "LP-Spectral Mornings; Charisma"
+      "details": "LP-Spectral Mornings; Charisma",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Starfighters",
       "track": "'Devil's Drivin'",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 845.8
     },
     {
       "artist": "Anvil",
@@ -45,7 +48,8 @@
     {
       "artist": "Faces",
       "track": "Cindy Incidentally",
-      "details": "Radio 1 Club Session"
+      "details": "Radio 1 Club Session",
+      "verified_timestamp": 1403.07
     },
     {
       "artist": "Faces",
@@ -65,7 +69,8 @@
     {
       "artist": "Robin Trower",
       "track": "Too Rolling Stoned",
-      "details": "LP-Bridge Of Sighs; Chrysalis"
+      "details": "LP-Bridge Of Sighs; Chrysalis",
+      "verified_timestamp": 2691.13
     },
     {
       "artist": "Starfighters",
@@ -75,7 +80,8 @@
     {
       "artist": "Michael Schenker Group",
       "track": "Attack Of The Mad Axeman",
-      "details": "LP-MSG; Chrysalis"
+      "details": "LP-MSG; Chrysalis",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
@@ -85,12 +91,14 @@
     {
       "artist": "Bitch",
       "track": "First Bite",
-      "details": "7\"; Rutland"
+      "details": "7\"; Rutland",
+      "verified_timestamp": 1415.61
     },
     {
       "artist": "Rose Tattoo",
       "track": "Suicide City",
-      "details": "LP-Assault & Battery; Carrere"
+      "details": "LP-Assault & Battery; Carrere",
+      "verified_timestamp": 4649.13
     },
     {
       "artist": "Starfighters",
@@ -105,7 +113,8 @@
     {
       "artist": "Faces",
       "track": "Browned Off",
-      "details": "Sounds Of The Seventies Session"
+      "details": "Sounds Of The Seventies Session",
+      "verified_timestamp": 1403.07
     },
     {
       "artist": "Faces",
@@ -120,7 +129,8 @@
     {
       "artist": "Rolling Stones",
       "track": "Hang Fire",
-      "details": "LP-Tattoo You; Rolling Stones"
+      "details": "LP-Tattoo You; Rolling Stones",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Starfighters",
@@ -130,17 +140,20 @@
     {
       "artist": "Tangerine Dream",
       "track": "Exit",
-      "details": "LP-Exit; Virgin"
+      "details": "LP-Exit; Virgin",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Joan Armatrading",
       "track": "No Love",
-      "details": "LP-Walk Under Ladders; A&M"
+      "details": "LP-Walk Under Ladders; A&M",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Running Free",
-      "details": "12\"-Maiden Japan; EMI"
+      "details": "12\"-Maiden Japan; EMI",
+      "verified_timestamp": 6905.4
     },
     {
       "artist": null,

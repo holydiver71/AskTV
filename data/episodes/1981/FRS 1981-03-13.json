@@ -19,37 +19,44 @@
     {
       "artist": "Rush",
       "track": "The Spirit Of Radio",
-      "details": "LP-Permanent Waves; Mercury"
+      "details": "LP-Permanent Waves; Mercury",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Pat Travers",
       "track": "New Age Music",
-      "details": "LP-Radio Active; Mercury"
+      "details": "LP-Radio Active; Mercury",
+      "verified_timestamp": 685.64
     },
     {
       "artist": "Sweet Savage",
       "track": "Into The Night",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 772.53
     },
     {
       "artist": "Praying Mantis",
       "track": "Flirting With Suicide",
-      "details": "LP-Time Tells No Lies; Arista"
+      "details": "LP-Time Tells No Lies; Arista",
+      "verified_timestamp": 1325.1
     },
     {
       "artist": "Spirit",
       "track": "Dark Eyed Woman",
-      "details": "LP-Clear; CBS"
+      "details": "LP-Clear; CBS",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Pink Fairies",
       "track": "Right On Fight On",
-      "details": "LP-What A Bunch Of Sweeties; Polydor"
+      "details": "LP-What A Bunch Of Sweeties; Polydor",
+      "verified_timestamp": 28.35
     },
     {
       "artist": "Chevy",
       "track": "Skybird",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1923.96
     },
     {
       "artist": "Diamond Head",
@@ -59,12 +66,14 @@
     {
       "artist": "Wishbone Ash",
       "track": "Underground",
-      "details": "7\"; MCA"
+      "details": "7\"; MCA",
+      "verified_timestamp": 3261.52
     },
     {
       "artist": "Led Zeppelin",
       "track": "Kashmir",
-      "details": "2xLP-Physical Graffiti; Swan Song"
+      "details": "2xLP-Physical Graffiti; Swan Song",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Sweet Savage",
@@ -79,7 +88,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.58
     },
     {
       "artist": "Chevy",
@@ -99,7 +109,8 @@
     {
       "artist": "Rainbow",
       "track": "Starstruck",
-      "details": "LP-Rising; Oyster"
+      "details": "LP-Rising; Oyster",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Chevy",
@@ -109,17 +120,20 @@
     {
       "artist": "Tygers Of Pan Tang",
       "track": "The Story So Far",
-      "details": "7\"; MCA"
+      "details": "7\"; MCA",
+      "verified_timestamp": 6292.87
     },
     {
       "artist": "Saxon",
       "track": "And The Bands Played On",
-      "details": "7\"; Carrere"
+      "details": "7\"; Carrere",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Saxon",
       "track": "747 (Strangers In The Night)",
-      "details": "LP-Wheels Of Steel; Carrere"
+      "details": "LP-Wheels Of Steel; Carrere",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Sweet Savage",

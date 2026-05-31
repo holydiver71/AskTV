@@ -21,17 +21,20 @@
     {
       "artist": "Taurus",
       "track": "Paper Chaser",
-      "details": "Compilation LP-Metal Explosion From The Friday Rock Show; BBC"
+      "details": "Compilation LP-Metal Explosion From The Friday Rock Show; BBC",
+      "verified_timestamp": 731.28
     },
     {
       "artist": "Ken Hensley",
       "track": "No More",
-      "details": "LP-Free Spirit; Bronze"
+      "details": "LP-Free Spirit; Bronze",
+      "verified_timestamp": 699.17
     },
     {
       "artist": "Dedringer",
       "track": "Innocent",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 761.78
     },
     {
       "artist": "Bad Company",
@@ -41,7 +44,8 @@
     {
       "artist": "Tubes",
       "track": "Sushi Girl",
-      "details": "LP-The Completion Backward Principle; Capitol"
+      "details": "LP-The Completion Backward Principle; Capitol",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -51,7 +55,8 @@
     {
       "artist": "Gong",
       "track": "'Can't Kill Me'",
-      "details": "1973 Session"
+      "details": "1973 Session",
+      "verified_timestamp": 708.08
     },
     {
       "artist": "Dedringer",
@@ -61,22 +66,26 @@
     {
       "artist": "Wild Horses",
       "track": "'New York City (LP-Stand Your Ground)' (EMI)250px|right",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3569.74
     },
     {
       "artist": "Frank Marino & Mahogany Rush",
       "track": "All Along The Watchtower",
-      "details": "LP-Tales Of The Unexpected; Columbia"
+      "details": "LP-Tales Of The Unexpected; Columbia",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Rush",
       "track": "Red Barchetta",
-      "details": "LP-Moving Pictures; Mercury"
+      "details": "LP-Moving Pictures; Mercury",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.84
     },
     {
       "artist": "Billy Squier",

@@ -19,7 +19,8 @@
     {
       "artist": "Fastway",
       "track": "Steal The Show",
-      "details": "LP - All Fired Up"
+      "details": "LP - All Fired Up",
+      "verified_timestamp": 5.44
     },
     {
       "artist": "Mama's Boys",
@@ -29,22 +30,26 @@
     {
       "artist": "Chariot",
       "track": "Love Or Leave Me",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 447.48
     },
     {
       "artist": "Raven",
       "track": "'Hard Ride",
-      "details": "LP - Rock Until You Drop"
+      "details": "LP - Rock Until You Drop",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Roger Glover",
       "track": "The Mask",
-      "details": "LP -  Mask"
+      "details": "LP -  Mask",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Night Ranger",
       "track": "Sister Christian",
-      "details": "7\" Single from Midnight Madness; MCA"
+      "details": "7\" Single from Midnight Madness; MCA",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Thor",
@@ -54,37 +59,44 @@
     {
       "artist": "Yes",
       "track": "It Can Happen",
-      "details": "7\" Single from 90125; Atco"
+      "details": "7\" Single from 90125; Atco",
+      "verified_timestamp": 1683.9
     },
     {
       "artist": "Chariot",
       "track": "Vigilante",
-      "details": "FRS session 1984-05-25"
+      "details": "FRS session 1984-05-25",
+      "verified_timestamp": 447.48
     },
     {
       "artist": "Box Of Frogs",
       "track": "Back Where I Started",
-      "details": "7\" Single from Box Of Frogs; Epic"
+      "details": "7\" Single from Box Of Frogs; Epic",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Maineeaxe",
       "track": "Gonna Make You Rock",
-      "details": "7\" Single from Shout It Out; Powerstation"
+      "details": "7\" Single from Shout It Out; Powerstation",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Black Angels",
       "track": "Fate Of Emotion",
-      "details": "LP-Kick Down; Gull"
+      "details": "LP-Kick Down; Gull",
+      "verified_timestamp": 2514.12
     },
     {
       "artist": "Dio",
       "track": "Egypt",
-      "details": "The Chains Are On; LP-The Last In Line; Vertigo"
+      "details": "The Chains Are On; LP-The Last In Line; Vertigo",
+      "verified_timestamp": 2514.12
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3096.34
     },
     {
       "artist": "Roger Waters",
@@ -99,22 +111,26 @@
     {
       "artist": "Franke And The Knockouts",
       "track": "Carrie Why",
-      "details": "LP-Makin' The Point; MCA"
+      "details": "LP-Makin' The Point; MCA",
+      "verified_timestamp": 4733.09
     },
     {
       "artist": "Cutty Sark",
       "track": "Vultures In the Air",
-      "details": "LP-Die Tonight; Mausoleum"
+      "details": "LP-Die Tonight; Mausoleum",
+      "verified_timestamp": 4792.25
     },
     {
       "artist": "Little Steven",
       "track": "The Disappeared Ones",
-      "details": "LP - Voice Of America"
+      "details": "LP - Voice Of America",
+      "verified_timestamp": 5536.68
     },
     {
       "artist": "Paul Di'Anno",
       "track": "Heartuser",
-      "details": "LP - Di'Anno"
+      "details": "LP - Di'Anno",
+      "verified_timestamp": 5557.08
     },
     {
       "artist": "Utopia",
@@ -129,17 +145,20 @@
     {
       "artist": "Accept",
       "track": "Do It",
-      "details": "LP - Metal Masters"
+      "details": "LP - Metal Masters",
+      "verified_timestamp": 441.64
     },
     {
       "artist": "Golden Earring",
       "track": "Clear Night Moonlight",
-      "details": "LP - N.E.W.S."
+      "details": "LP - N.E.W.S.",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "JJ Cale",
       "track": "After Midnight",
-      "details": "LP - Special Edition"
+      "details": "LP - Special Edition",
+      "verified_timestamp": 6660.0
     }
   ],
   "transcript": [

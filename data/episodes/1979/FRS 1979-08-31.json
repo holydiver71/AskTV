@@ -15,62 +15,75 @@
     {
       "artist": "Joe Walsh",
       "track": "Rocky Mountain Way",
-      "details": "LP-Can't Argue With A Sick Mind"
+      "details": "LP-Can't Argue With A Sick Mind",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "The A's",
       "track": "After Last Night",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 740.74
     },
     {
       "artist": "Gary Numan",
       "track": "Airlane",
-      "details": "LP-Pleasure Principle"
+      "details": "LP-Pleasure Principle",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "The Who",
       "track": "5:15",
-      "details": "2xLP-Quadrophenia"
+      "details": "2xLP-Quadrophenia",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Van Morrison",
       "track": "Bright Side Of The Road",
-      "details": "LP-Into The Music"
+      "details": "LP-Into The Music",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Neil Young",
       "track": "Hey Hey My My",
-      "details": "Into The Black; LP-Rust Never Sleeps"
+      "details": "Into The Black; LP-Rust Never Sleeps",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "hey hey my my into"
     },
     {
       "artist": "AC/DC",
       "track": "Walk All Over You",
-      "details": "LP-Highway To Hell"
+      "details": "LP-Highway To Hell",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Herman Brood",
       "track": "Saturday Night",
-      "details": "LP-Herman Brood And His Wild Romance"
+      "details": "LP-Herman Brood And His Wild Romance",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.41
     },
     {
       "artist": "Pink Floyd",
       "track": "Shine On You Crazy Diamond Pts 1 to 5",
-      "details": "LP-Wish You Were Here"
+      "details": "LP-Wish You Were Here",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Rory Gallagher",
       "track": "Public Enemy Number 1",
-      "details": "LP-Top Prioroty"
+      "details": "LP-Top Prioroty",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Jimi Hendrix",
       "track": "Purple Haze",
-      "details": "LP-Are You Experienced"
+      "details": "LP-Are You Experienced",
+      "verified_timestamp": 1860.94
     },
     {
       "artist": null,

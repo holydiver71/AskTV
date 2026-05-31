@@ -50,7 +50,8 @@
     {
       "artist": "Rolling Stones",
       "track": "Everybody Needs Somebody To Love",
-      "details": "Top Gear session"
+      "details": "Top Gear session",
+      "verified_timestamp": 1470.22
     },
     {
       "artist": "Rolling Stones",
@@ -85,22 +86,26 @@
     {
       "artist": "Rolling Stones",
       "track": "Mercy, Mercy",
-      "details": "Yeh! Yeh! session"
+      "details": "Yeh! Yeh! session",
+      "verified_timestamp": 1470.22
     },
     {
       "artist": "Rolling Stones",
       "track": "Cry To Me",
-      "details": "Saturday Club session"
+      "details": "Saturday Club session",
+      "verified_timestamp": 1470.22
     },
     {
       "artist": "Rolling Stones",
       "track": "(I Can't Get No) Satisfaction (Saturday Club session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 68.6
     },
     {
       "artist": "Rolling Stones",
@@ -110,7 +115,9 @@
     {
       "artist": "Rolling Stones",
       "track": "The Spider And The Fly",
-      "details": "Yeh! Yeh! session"
+      "details": "Yeh! Yeh! session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i can t get no"
     },
     {
       "artist": "Rolling Stones",

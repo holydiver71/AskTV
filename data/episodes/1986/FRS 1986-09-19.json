@@ -17,12 +17,14 @@
     {
       "artist": null,
       "track": "Rough Cutt - Bad Reputation",
-      "details": null
+      "details": null,
+      "verified_timestamp": 523.53
     },
     {
       "artist": null,
       "track": "TT Quick - Metal of Honor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
@@ -32,7 +34,8 @@
     {
       "artist": null,
       "track": "Rolling Stones - 2,000 Light Years from Home",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": null,
@@ -47,7 +50,8 @@
     {
       "artist": null,
       "track": "Saxon - Rock the Nations",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1620.0
     },
     {
       "artist": null,
@@ -57,22 +61,26 @@
     {
       "artist": null,
       "track": "Vinnie Vincent's Invasion - Shoot U Full of Love",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2629.82
     },
     {
       "artist": null,
       "track": "Angus - Heavyweight Warrior",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3289.8
     },
     {
       "artist": null,
       "track": "Excalibur - Early in the Morning (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3277.72
     },
     {
       "artist": null,
       "track": "Forcefield - Smoke on the Water",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3343.48
     },
     {
       "artist": null,
@@ -82,22 +90,26 @@
     {
       "artist": null,
       "track": "Scorpions - Robotman (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4794.7
     },
     {
       "artist": null,
       "track": "Saracen - Rock of Ages",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4140.0
     },
     {
       "artist": null,
       "track": "Iron Maiden - Wrathchild",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
       "track": "Whitesnake - Would I Lie to You",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,
@@ -112,12 +124,14 @@
     {
       "artist": null,
       "track": "Iron Maiden - Caught Somewhere in Time",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5580.0
     },
     {
       "artist": null,
       "track": "Iron Maiden - The Loneliness of the Long Distance Runner",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5940.0
     },
     {
       "artist": null,
@@ -127,12 +141,1940 @@
     {
       "artist": null,
       "track": "Queensryche - Prophecy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6660.0
     },
     {
       "artist": null,
       "track": "Excalibur - Death's Door (session)",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.62,
+      "end": 9.62,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 12.62,
+      "end": 25.69,
+      "text": "Well, hello there. This is TV on the Radio, Thomas Vance, the music vendor. This is the Friday Rock Show."
+    },
+    {
+      "start": 26.69,
+      "end": 39.58,
+      "text": "GT Quick, The Rolling Stones, Angus, Forcefield, Voivod, Cinderella, Wasp, Rough Cut, Agnostic Front. Just some of the names you will hear tonight."
+    },
+    {
+      "start": 52.74,
+      "end": 54.94,
+      "text": "plus two tracks from the latest Saxon album"
+    },
+    {
+      "start": 54.94,
+      "end": 58.28,
+      "text": "and two tracks from the latest Iron Maiden as well."
+    },
+    {
+      "start": 60.08,
+      "end": 63.36,
+      "text": "Van Halen, Scorpion, Saddison, Iron Maiden and Whitesnake,"
+    },
+    {
+      "start": 63.5,
+      "end": 66.0,
+      "text": "they are the bands who feature in Lie Back and Enjoy It."
+    },
+    {
+      "start": 66.58,
+      "end": 70.1,
+      "text": "We also repeat the extremely good session by Excalibur."
+    },
+    {
+      "start": 115.26,
+      "end": 122.06,
+      "text": "Choose the time, pick the place, be on time, don't be late tonight, yeah."
+    },
+    {
+      "start": 123.02,
+      "end": 127.23,
+      "text": "And she's fast, and she wants it to last"
+    },
+    {
+      "start": 127.23,
+      "end": 128.17,
+      "text": "All night"
+    },
+    {
+      "start": 128.17,
+      "end": 135.07,
+      "text": "She's a shabby, but she gets the last laugh"
+    },
+    {
+      "start": 135.07,
+      "end": 136.69,
+      "text": "All the time"
+    },
+    {
+      "start": 136.69,
+      "end": 510.03,
+      "text": "Title track from an album that's just come out on the Megaforce Worldwide record label,"
+    },
+    {
+      "start": 510.17,
+      "end": 512.01,
+      "text": "T.T. Quick, the name of the band out of the States,"
+    },
+    {
+      "start": 512.49,
+      "end": 513.67,
+      "text": "out of North America there."
+    },
+    {
+      "start": 513.91,
+      "end": 515.99,
+      "text": "Metal of Honor, Metal of Honor it's called."
+    },
+    {
+      "start": 516.09,
+      "end": 516.95,
+      "text": "Good album, actually."
+    },
+    {
+      "start": 517.11,
+      "end": 518.35,
+      "text": "That's a better track than I thought it was."
+    },
+    {
+      "start": 518.73,
+      "end": 520.27,
+      "text": "I played it in the office the other day."
+    },
+    {
+      "start": 520.41,
+      "end": 521.11,
+      "text": "Yesterday, in fact."
+    },
+    {
+      "start": 521.65,
+      "end": 522.77,
+      "text": "Sounds even better on the radio."
+    },
+    {
+      "start": 523.53,
+      "end": 524.13,
+      "text": "Rough Cut."
+    },
+    {
+      "start": 524.13,
+      "end": 526.37,
+      "text": "before that, from their new album, that's out on Warner"
+    },
+    {
+      "start": 526.37,
+      "end": 528.51,
+      "text": "Brothers Records now, Once You is the album"
+    },
+    {
+      "start": 528.51,
+      "end": 530.09,
+      "text": "title, Bad Reputation was the track"
+    },
+    {
+      "start": 530.09,
+      "end": 532.35,
+      "text": "Tam and Andy in Leeds say keep on"
+    },
+    {
+      "start": 532.35,
+      "end": 534.27,
+      "text": "rocking, William turned to, gonna please"
+    },
+    {
+      "start": 534.27,
+      "end": 536.25,
+      "text": "play something by Saxon for Steve and Sean in"
+    },
+    {
+      "start": 536.25,
+      "end": 538.37,
+      "text": "Kakodi, in Fife also, my mate"
+    },
+    {
+      "start": 538.37,
+      "end": 540.33,
+      "text": "Steely, who's away from"
+    },
+    {
+      "start": 540.33,
+      "end": 542.19,
+      "text": "home in Perth doing his cook or something"
+    },
+    {
+      "start": 542.19,
+      "end": 544.37,
+      "text": "doing his what, his cook, if not"
+    },
+    {
+      "start": 544.37,
+      "end": 546.49,
+      "text": "Saxon, anything of your choice, blah blah blah, no problem"
+    },
+    {
+      "start": 546.49,
+      "end": 548.31,
+      "text": "two tracks by Saxon coming up in about"
+    },
+    {
+      "start": 548.31,
+      "end": 550.33,
+      "text": "20 minutes time or thereabouts, also"
+    },
+    {
+      "start": 550.33,
+      "end": 552.49,
+      "text": "keep up the thrashing, says Paul"
+    },
+    {
+      "start": 552.49,
+      "end": 560.23,
+      "text": "jimmy simpkins now of the royal air force who wants to say hello to mark and andy andy jeg that is"
+    },
+    {
+      "start": 560.23,
+      "end": 563.79,
+      "text": "simpkins sac is in anglesey"
+    },
+    {
+      "start": 664.95,
+      "end": 691.56,
+      "text": "I don't even care."
+    },
+    {
+      "start": 726.73,
+      "end": 728.49,
+      "text": "what you please"
+    },
+    {
+      "start": 728.49,
+      "end": 733.14,
+      "text": "now stop"
+    },
+    {
+      "start": 733.14,
+      "end": 734.78,
+      "text": "that's not me"
+    },
+    {
+      "start": 734.78,
+      "end": 737.4,
+      "text": "cause I want what you're giving"
+    },
+    {
+      "start": 737.4,
+      "end": 741.25,
+      "text": "to do is"
+    },
+    {
+      "start": 741.25,
+      "end": 743.03,
+      "text": "what you please"
+    },
+    {
+      "start": 743.03,
+      "end": 745.96,
+      "text": "ooh, something bad"
+    },
+    {
+      "start": 745.96,
+      "end": 746.34,
+      "text": "happened"
+    },
+    {
+      "start": 746.34,
+      "end": 749.98,
+      "text": "I'm on the break"
+    },
+    {
+      "start": 749.98,
+      "end": 752.6,
+      "text": "like an earthquake"
+    },
+    {
+      "start": 752.6,
+      "end": 753.38,
+      "text": "coming"
+    },
+    {
+      "start": 753.38,
+      "end": 756.42,
+      "text": "ooh, I got to"
+    },
+    {
+      "start": 756.42,
+      "end": 757.9,
+      "text": "sink it, sink it, sink it"
+    },
+    {
+      "start": 770.65,
+      "end": 1116.75,
+      "text": "There's one out of the archives"
+    },
+    {
+      "start": 1116.75,
+      "end": 1119.51,
+      "text": "Zodiac Mind Warp, it wasn't"
+    },
+    {
+      "start": 1119.51,
+      "end": 1120.69,
+      "text": "It was actually the Rolling Stones"
+    },
+    {
+      "start": 1120.69,
+      "end": 1123.49,
+      "text": "And a track that they recorded, oh, about 1967"
+    },
+    {
+      "start": 1123.49,
+      "end": 1126.45,
+      "text": "Called Two Thousand Light Years Away From Home"
+    },
+    {
+      "start": 1126.45,
+      "end": 1129.65,
+      "text": "And I played that for Gene and Andy in Liverpool"
+    },
+    {
+      "start": 1129.65,
+      "end": 1131.33,
+      "text": "Send me a nice postcard of a surfer here"
+    },
+    {
+      "start": 1131.33,
+      "end": 1133.45,
+      "text": "They actually asked me to play Wild Horses"
+    },
+    {
+      "start": 1133.45,
+      "end": 1135.63,
+      "text": "But I bottled out in the end and played that instead"
+    },
+    {
+      "start": 1135.63,
+      "end": 1136.87,
+      "text": "I think, I don't know why"
+    },
+    {
+      "start": 1136.87,
+      "end": 1139.15,
+      "text": "I just felt that it would be more acceptable"
+    },
+    {
+      "start": 1139.15,
+      "end": 1141.61,
+      "text": "within the context of this programme, or whatever you like."
+    },
+    {
+      "start": 1141.73,
+      "end": 1144.43,
+      "text": "But, Gene and Andy, if you liked Wild Horses by Stones,"
+    },
+    {
+      "start": 1144.47,
+      "end": 1145.89,
+      "text": "you would have liked that one as well, I hope."
+    },
+    {
+      "start": 1146.37,
+      "end": 1148.97,
+      "text": "Before that, you heard Wasp, their new single."
+    },
+    {
+      "start": 1149.29,
+      "end": 1152.43,
+      "text": "Out on Capitol Records, it's called 95 and Nasty."
+    },
+    {
+      "start": 1153.21,
+      "end": 1156.93,
+      "text": "I'm actually having lunch, I'm told, with Blackie Lawless next Wednesday."
+    },
+    {
+      "start": 1157.37,
+      "end": 1159.45,
+      "text": "Oh, and incidentally, we'll be recording Wasp on their tour."
+    },
+    {
+      "start": 1159.93,
+      "end": 1161.91,
+      "text": "But having lunch with Blackie Lawless next Wednesday,"
+    },
+    {
+      "start": 1161.97,
+      "end": 1162.67,
+      "text": "that's a bit of a worry."
+    },
+    {
+      "start": 1162.75,
+      "end": 1164.91,
+      "text": "I'm not going to order liver and bacon."
+    },
+    {
+      "start": 1164.91,
+      "end": 1166.23,
+      "text": "It'd probably make me wary."
+    },
+    {
+      "start": 1166.87,
+      "end": 1511.77,
+      "text": "...forms. It's 10.25. This is the Friday Rock Show, BBC Radio 1."
+    },
+    {
+      "start": 1511.83,
+      "end": 1513.85,
+      "text": "You heard there, Agnostic Front from the States,"
+    },
+    {
+      "start": 1513.93,
+      "end": 1515.27,
+      "text": "the album now released in this country,"
+    },
+    {
+      "start": 1515.65,
+      "end": 1517.39,
+      "text": "on the Rough Justice record label."
+    },
+    {
+      "start": 1517.55,
+      "end": 1518.89,
+      "text": "Caused for alarm, the album title,"
+    },
+    {
+      "start": 1519.43,
+      "end": 1521.91,
+      "text": "and you experienced along with Agnostic Front,"
+    },
+    {
+      "start": 1522.41,
+      "end": 1523.87,
+      "text": "a toxic shot. Good album."
+    },
+    {
+      "start": 1524.31,
+      "end": 1525.57,
+      "text": "Prior to that, you heard Excalibur."
+    },
+    {
+      "start": 1525.57,
+      "end": 1528.37,
+      "text": "It's one of four that we're playing tonight by that band,"
+    },
+    {
+      "start": 1528.45,
+      "end": 1529.95,
+      "text": "a repeat session. Good band."
+    },
+    {
+      "start": 1530.41,
+      "end": 1533.51,
+      "text": "Very young band. In fact, nobody in the band, I think, is over 19."
+    },
+    {
+      "start": 1534.01,
+      "end": 1536.97,
+      "text": "And they're not signed for publishing or record deals or anything."
+    },
+    {
+      "start": 1537.51,
+      "end": 1540.45,
+      "text": "So, if you're a part of the greater recording industry"
+    },
+    {
+      "start": 1540.45,
+      "end": 1542.63,
+      "text": "and you liked what you heard from Excalibur,"
+    },
+    {
+      "start": 1542.67,
+      "end": 1543.91,
+      "text": "the track you heard was called Hot For Love,"
+    },
+    {
+      "start": 1544.19,
+      "end": 1544.61,
+      "text": "stay tuned."
+    },
+    {
+      "start": 1544.71,
+      "end": 1545.39,
+      "text": "Three more to come,"
+    },
+    {
+      "start": 1545.85,
+      "end": 1546.85,
+      "text": "and you can always write to us"
+    },
+    {
+      "start": 1546.85,
+      "end": 1547.97,
+      "text": "and we'll send you their phone number."
+    },
+    {
+      "start": 1548.39,
+      "end": 1551.29,
+      "text": "This is the title track from the new Saxon album."
+    },
+    {
+      "start": 1551.73,
+      "end": 1833.46,
+      "text": "Another brand new Saxon track follows the news."
+    },
+    {
+      "start": 1833.6,
+      "end": 1834.18,
+      "text": "It's 10.30."
+    },
+    {
+      "start": 1834.76,
+      "end": 1841.39,
+      "text": "Ian Parkinson reporting."
+    },
+    {
+      "start": 1841.77,
+      "end": 1844.59,
+      "text": "Two express trains collided in Staffordshire tonight"
+    },
+    {
+      "start": 1844.59,
+      "end": 1847.19,
+      "text": "at Colwich, about ten miles south of Stafford."
+    },
+    {
+      "start": 1847.45,
+      "end": 1849.13,
+      "text": "It's known that two people are dead."
+    },
+    {
+      "start": 1849.43,
+      "end": 1851.05,
+      "text": "More than 60 people have been injured."
+    },
+    {
+      "start": 1851.23,
+      "end": 1853.71,
+      "text": "Nearly 20 of them are said to be seriously hurt."
+    },
+    {
+      "start": 1854.07,
+      "end": 1856.69,
+      "text": "The accident happened just after half past six this evening."
+    },
+    {
+      "start": 1857.01,
+      "end": 1860.13,
+      "text": "It involved the five o'clock train from London Euston to Manchester"
+    },
+    {
+      "start": 1860.13,
+      "end": 1862.87,
+      "text": "and the twenty past five from Liverpool to Euston."
+    },
+    {
+      "start": 1863.19,
+      "end": 1866.37,
+      "text": "One of those who died was the driver of the Liverpool to London train."
+    },
+    {
+      "start": 1866.71,
+      "end": 1868.13,
+      "text": "This report from Bob Sinkinson."
+    },
+    {
+      "start": 1868.31,
+      "end": 1871.4,
+      "text": "The two trains collided on a bridge which spans a narrow road"
+    },
+    {
+      "start": 1871.4,
+      "end": 1874.46,
+      "text": "that passes through the tiny Staffordshire village of Colwick."
+    },
+    {
+      "start": 1874.58,
+      "end": 1876.7,
+      "text": "Two of the derailed coaches came within inches"
+    },
+    {
+      "start": 1876.7,
+      "end": 1879.46,
+      "text": "of toppling down an embankment on the properties below."
+    },
+    {
+      "start": 1879.46,
+      "end": 1883.46,
+      "text": "One witness said it was a miracle there weren't more casualties."
+    },
+    {
+      "start": 1883.46,
+      "end": 1887.87,
+      "text": "Slights set up by rescue workers revealed piles of twisted metal"
+    },
+    {
+      "start": 1887.87,
+      "end": 1890.87,
+      "text": "and coaches, some rearing upwards, on top of one another."
+    },
+    {
+      "start": 1890.87,
+      "end": 1894.19,
+      "text": "It's believed 300 passengers were on the two trains."
+    },
+    {
+      "start": 1894.19,
+      "end": 1899.3,
+      "text": "Survivors spoke of, and coaches,"
+    },
+    {
+      "start": 1899.3,
+      "end": 1905.54,
+      "text": "ambulances and buses are faring the injured and stranded away from the scene."
+    },
+    {
+      "start": 1905.54,
+      "end": 1909.86,
+      "text": "Local residents have been providing endless supplies of coffee and tea"
+    },
+    {
+      "start": 1909.86,
+      "end": 1913.15,
+      "text": "with a local village hall being used as a rec centre."
+    },
+    {
+      "start": 1913.15,
+      "end": 1916.91,
+      "text": "Some of the passengers described what happened after the two trains collided."
+    },
+    {
+      "start": 1917.39,
+      "end": 1936.7,
+      "text": "...compartments and north to Manchester slowed down and then we just heard a bang and..."
+    },
+    {
+      "start": 1936.7,
+      "end": 1942.66,
+      "text": "Everybody seemed to be very calm. I was quite surprised and it seemed to be well organised."
+    },
+    {
+      "start": 1943.1,
+      "end": 1947.58,
+      "text": "Everybody was helping, everyone was so helpful here."
+    },
+    {
+      "start": 1947.58,
+      "end": 1952.58,
+      "text": "I was amazed just how many people came to our rescue."
+    },
+    {
+      "start": 1953.02,
+      "end": 1956.94,
+      "text": "Staffordshire Police have issued an emergency telephone number for people to ring."
+    },
+    {
+      "start": 1956.94,
+      "end": 1962.14,
+      "text": "The code for Stafford is 0785, and the number is 49222."
+    },
+    {
+      "start": 1962.42,
+      "end": 1965.4,
+      "text": "That's 0785 49222."
+    },
+    {
+      "start": 1965.72,
+      "end": 1968.84,
+      "text": "Other news, President Reagan had a meeting at the White House this evening"
+    },
+    {
+      "start": 1968.84,
+      "end": 1971.16,
+      "text": "with the Soviet Foreign Minister, Edvard Shevardnadze,"
+    },
+    {
+      "start": 1971.3,
+      "end": 1974.62,
+      "text": "who's in Washington for two days of talks with the Secretary of State, George Shultz."
+    },
+    {
+      "start": 1974.94,
+      "end": 1979.18,
+      "text": "The White House indicated later that the President had expressed his anger to Mr. Shevardnadze"
+    },
+    {
+      "start": 1979.18,
+      "end": 1984.1,
+      "text": "over the detention of the American journalist, Nicholas Danilov, in Moscow on spying charges."
+    },
+    {
+      "start": 1984.82,
+      "end": 1987.64,
+      "text": "An inquest jury has returned verdicts of accidental death"
+    },
+    {
+      "start": 1987.64,
+      "end": 1991.22,
+      "text": "on the 55 people who died in the Manchester airport disaster last summer."
+    },
+    {
+      "start": 1991.6,
+      "end": 1994.52,
+      "text": "The coroner said safety changes had already been made by the airlines"
+    },
+    {
+      "start": 1994.52,
+      "end": 1997.26,
+      "text": "and he was convinced that air travel would now be safer."
+    },
+    {
+      "start": 1997.86,
+      "end": 2000.84,
+      "text": "The Greater Manchester Police Authority has called for a judicial review"
+    },
+    {
+      "start": 2000.84,
+      "end": 2003.38,
+      "text": "of events leading to the suspension earlier this year"
+    },
+    {
+      "start": 2003.38,
+      "end": 2005.32,
+      "text": "of the Deputy Chief Constable, John Stalker."
+    },
+    {
+      "start": 2005.66,
+      "end": 2009.0,
+      "text": "The authority decided not to question the Chief Constable, James Anderton,"
+    },
+    {
+      "start": 2009.26,
+      "end": 2010.64,
+      "text": "about his conduct in the affair."
+    },
+    {
+      "start": 2010.98,
+      "end": 2012.38,
+      "text": "That's it. There's more news on one at midnight."
+    },
+    {
+      "start": 2014.1,
+      "end": 2621.94,
+      "text": "That's the new band that's put together by Vinnie Vincent, the ex-kisser."
+    },
+    {
+      "start": 2622.8,
+      "end": 2625.2,
+      "text": "Vinnie Vincent's Invasion, just been released in this country,"
+    },
+    {
+      "start": 2625.28,
+      "end": 2627.44,
+      "text": "has been high in the import charts for some time,"
+    },
+    {
+      "start": 2627.52,
+      "end": 2629.4,
+      "text": "but just been released here on the Chrysalis record label."
+    },
+    {
+      "start": 2629.82,
+      "end": 2632.82,
+      "text": "Vinnie Vincent's Invasion, shot you, full of love."
+    },
+    {
+      "start": 2632.82,
+      "end": 2636.38,
+      "text": "Before that, Saxon, and a track from their new album, just out as well,"
+    },
+    {
+      "start": 2636.48,
+      "end": 2637.18,
+      "text": "that's out on EMI."
+    },
+    {
+      "start": 2637.78,
+      "end": 2640.84,
+      "text": "Rock the Nations is the album title, the track you heard was called Battle Cry."
+    },
+    {
+      "start": 2641.0,
+      "end": 2642.46,
+      "text": "It's 16 and a half minutes to 11."
+    },
+    {
+      "start": 2642.84,
+      "end": 2644.22,
+      "text": "Little note here from a lady who said,"
+    },
+    {
+      "start": 2644.3,
+      "end": 2645.16,
+      "text": "I think it's a lady."
+    },
+    {
+      "start": 2645.62,
+      "end": 2646.0,
+      "text": "Yeah, it is."
+    },
+    {
+      "start": 2646.18,
+      "end": 2647.96,
+      "text": "Tracy Atkinson is sweet 17."
+    },
+    {
+      "start": 2648.76,
+      "end": 2650.34,
+      "text": "Please play anything worth listening to"
+    },
+    {
+      "start": 2650.34,
+      "end": 2652.9,
+      "text": "for all the heavies absolutely everywhere."
+    },
+    {
+      "start": 2653.44,
+      "end": 2656.36,
+      "text": "Once a banger, always a banger."
+    },
+    {
+      "start": 2656.86,
+      "end": 2657.62,
+      "text": "I'll agree with that."
+    },
+    {
+      "start": 2658.38,
+      "end": 2660.26,
+      "text": "Also say hello to Mark the..."
+    },
+    {
+      "start": 2660.26,
+      "end": 2661.36,
+      "text": "I can't say that."
+    },
+    {
+      "start": 2662.08,
+      "end": 2663.48,
+      "text": "Mark the Flatulence."
+    },
+    {
+      "start": 2663.58,
+      "end": 2664.32,
+      "text": "I could say that, couldn't I?"
+    },
+    {
+      "start": 2664.32,
+      "end": 2667.86,
+      "text": "An all-night crew at Safeways, Bond Street and Headingley."
+    },
+    {
+      "start": 2668.48,
+      "end": 2669.5,
+      "text": "Especially Mark and Pete,"
+    },
+    {
+      "start": 2669.5,
+      "end": 2674.36,
+      "text": "who should now be making rude gestures to all females"
+    },
+    {
+      "start": 2674.36,
+      "end": 2676.6,
+      "text": "walking past the window, this time of night."
+    },
+    {
+      "start": 2677.18,
+      "end": 2678.84,
+      "text": "Thank you, Tracy. Tracy lives in Leeds."
+    },
+    {
+      "start": 2679.2,
+      "end": 2682.58,
+      "text": "Here's a little query from Adrian Wilkins of Lewis."
+    },
+    {
+      "start": 2683.44,
+      "end": 2686.92,
+      "text": "Dear Tom, I heard Gary Moore the other night on the show,"
+    },
+    {
+      "start": 2687.58,
+      "end": 2689.2,
+      "text": "and it was good. Yes, it was good, wasn't it?"
+    },
+    {
+      "start": 2689.24,
+      "end": 2691.28,
+      "text": "I really enjoyed that. Excellent set."
+    },
+    {
+      "start": 2691.96,
+      "end": 2692.84,
+      "text": "Brilliantly recorded."
+    },
+    {
+      "start": 2693.6,
+      "end": 2695.7,
+      "text": "And Adrian goes on to say, did I get it right?"
+    },
+    {
+      "start": 2695.74,
+      "end": 2697.06,
+      "text": "I heard a track called The Loner."
+    },
+    {
+      "start": 2697.18,
+      "end": 2699.18,
+      "text": "You did. That was the last track he played."
+    },
+    {
+      "start": 2699.5,
+      "end": 2701.74,
+      "text": "Questions that Adrian asks are thus."
+    },
+    {
+      "start": 2702.3,
+      "end": 2703.66,
+      "text": "Have I got the title right? Yes, you have."
+    },
+    {
+      "start": 2703.7,
+      "end": 2704.46,
+      "text": "It was called The Loner."
+    },
+    {
+      "start": 2704.74,
+      "end": 2706.48,
+      "text": "Is it available on record? If so, which one?"
+    },
+    {
+      "start": 2707.0,
+      "end": 2709.58,
+      "text": "Actually, it isn't available on record at the moment,"
+    },
+    {
+      "start": 2709.72,
+      "end": 2712.7,
+      "text": "but as far as I recollect, Gary actually said when he introduced it"
+    },
+    {
+      "start": 2712.7,
+      "end": 2714.96,
+      "text": "that it will be on his next album."
+    },
+    {
+      "start": 2715.14,
+      "end": 2716.58,
+      "text": "It was gorgeous, really."
+    },
+    {
+      "start": 2716.62,
+      "end": 2719.06,
+      "text": "A real classic guitar bit, The Loner."
+    },
+    {
+      "start": 2719.56,
+      "end": 2721.94,
+      "text": "Best of my knowledge, Adrian, it will be on his next album."
+    },
+    {
+      "start": 2722.02,
+      "end": 2723.84,
+      "text": "When's that coming out? I haven't the faintest idea."
+    },
+    {
+      "start": 2724.28,
+      "end": 2726.14,
+      "text": "But as soon as it appears, we'll play it."
+    },
+    {
+      "start": 2726.88,
+      "end": 2728.06,
+      "text": "This is Angus."
+    },
+    {
+      "start": 2772.34,
+      "end": 2815.29,
+      "text": "White warriors are ready, for their return, when dawn breaks free, white warriors are ready, for their return, he came away, the victims get slaughtered, let there be no mistake."
+    },
+    {
+      "start": 3257.88,
+      "end": 3267.7,
+      "text": "That's our session band of the evening, Excalibur, a very young band, the track was called Early in the Morning, two more to come from them, I also have a list of some gigs they're doing during October, and one they're doing on the 1st of November."
+    },
+    {
+      "start": 3267.7,
+      "end": 3270.66,
+      "text": "and they're still looking for an offer from record companies and publishers"
+    },
+    {
+      "start": 3270.66,
+      "end": 3272.48,
+      "text": "and so if you're interested let us know"
+    },
+    {
+      "start": 3272.48,
+      "end": 3274.54,
+      "text": "we'll let Excalibur know and I'll let you know"
+    },
+    {
+      "start": 3274.54,
+      "end": 3276.52,
+      "text": "where they're going to appear later on in the programme"
+    },
+    {
+      "start": 3276.52,
+      "end": 3277.72,
+      "text": "it's 6 minutes to 11"
+    },
+    {
+      "start": 3277.72,
+      "end": 3279.84,
+      "text": "Excalibur we're doing early in the morning"
+    },
+    {
+      "start": 3279.84,
+      "end": 3282.44,
+      "text": "before that you heard a Dutch band, it's on the Megaton label"
+    },
+    {
+      "start": 3282.44,
+      "end": 3284.48,
+      "text": "it's the band called Angus"
+    },
+    {
+      "start": 3284.48,
+      "end": 3286.14,
+      "text": "or are the band called Angus I guess"
+    },
+    {
+      "start": 3286.14,
+      "end": 3288.06,
+      "text": "Megaton label's a Dutch label"
+    },
+    {
+      "start": 3288.06,
+      "end": 3289.8,
+      "text": "Track of Doom is the album title"
+    },
+    {
+      "start": 3289.8,
+      "end": 3291.7,
+      "text": "the track you heard was called Heavyweight Warrior"
+    },
+    {
+      "start": 3291.7,
+      "end": 3293.92,
+      "text": "everybody's got prejudices, haven't they?"
+    },
+    {
+      "start": 3294.26,
+      "end": 3296.3,
+      "text": "I certainly have, one of the prejudices I have"
+    },
+    {
+      "start": 3296.3,
+      "end": 3300.38,
+      "text": "in terms of music. I find it very difficult. I really have to make an effort to listen"
+    },
+    {
+      "start": 3300.38,
+      "end": 3305.52,
+      "text": "to other people's versions of rock classics. But every once in a while I think a band can"
+    },
+    {
+      "start": 3305.52,
+      "end": 3309.76,
+      "text": "add to a rock classic. I heard something today which isn't so much a rock classic but a pop"
+    },
+    {
+      "start": 3309.76,
+      "end": 3315.02,
+      "text": "classic. It had a great version of Good Vibrations, which is, just in case you were never into"
+    },
+    {
+      "start": 3315.02,
+      "end": 3319.6,
+      "text": "it, a Beach Boys thing. Good Vibrations, a Beach Boys absolute classic. I heard a version"
+    },
+    {
+      "start": 3319.6,
+      "end": 3324.88,
+      "text": "today by Psychic TV, which is superb and really ought to be played on the radio, but"
+    },
+    {
+      "start": 3324.88,
+      "end": 3326.2,
+      "text": "I haven't heard it on the radio yet."
+    },
+    {
+      "start": 3326.3,
+      "end": 3326.9,
+      "text": "It's a bit of a shame."
+    },
+    {
+      "start": 3327.42,
+      "end": 3328.88,
+      "text": "Stairway to Heaven by the Far Corporation."
+    },
+    {
+      "start": 3329.0,
+      "end": 3329.94,
+      "text": "I thought they added to it."
+    },
+    {
+      "start": 3330.16,
+      "end": 3330.62,
+      "text": "It was good."
+    },
+    {
+      "start": 3330.74,
+      "end": 3332.96,
+      "text": "Some people will think I'm being sacrilegious in saying that."
+    },
+    {
+      "start": 3333.34,
+      "end": 3334.3,
+      "text": "I don't believe I am."
+    },
+    {
+      "start": 3334.62,
+      "end": 3335.48,
+      "text": "Have a listen to this."
+    },
+    {
+      "start": 3335.76,
+      "end": 3336.78,
+      "text": "Again, it's a classic."
+    },
+    {
+      "start": 3337.14,
+      "end": 3339.68,
+      "text": "But again, I think this band add to it."
+    },
+    {
+      "start": 3339.96,
+      "end": 3342.64,
+      "text": "They don't detract from its greatness and they do it justice."
+    },
+    {
+      "start": 3343.48,
+      "end": 3345.42,
+      "text": "Forcefield and Smoke on the Water."
+    },
+    {
+      "start": 3346.42,
+      "end": 3589.11,
+      "text": "On the President record label, Forcefield are Ray Fennec"
+    },
+    {
+      "start": 3589.11,
+      "end": 3591.5,
+      "text": "and a fella called Ike Nossel."
+    },
+    {
+      "start": 3591.58,
+      "end": 3592.66,
+      "text": "Well, Ike Nossel I don't know at all."
+    },
+    {
+      "start": 3592.66,
+      "end": 3594.8,
+      "text": "Ray Fennec is an excellent guitarist."
+    },
+    {
+      "start": 3594.84,
+      "end": 3595.9,
+      "text": "He's been around for a long time."
+    },
+    {
+      "start": 3596.24,
+      "end": 3597.24,
+      "text": "Superb guitarist."
+    },
+    {
+      "start": 3597.82,
+      "end": 3598.5,
+      "text": "Hi, Mr. Fennec."
+    },
+    {
+      "start": 3598.58,
+      "end": 3599.38,
+      "text": "I haven't seen you for years."
+    },
+    {
+      "start": 3599.9,
+      "end": 3602.42,
+      "text": "Also playing on that, Cozy Powell and Neil Murray."
+    },
+    {
+      "start": 3603.42,
+      "end": 3603.9,
+      "text": "Good version."
+    },
+    {
+      "start": 3604.2,
+      "end": 3606.32,
+      "text": "The vocalist is a fellow called Peter Prescott."
+    },
+    {
+      "start": 3606.72,
+      "end": 3607.16,
+      "text": "Nice one."
+    },
+    {
+      "start": 3607.76,
+      "end": 3608.96,
+      "text": "Horsefield, Smug on the Water."
+    },
+    {
+      "start": 3609.64,
+      "end": 3610.78,
+      "text": "Exactly 11 o'clock."
+    },
+    {
+      "start": 3613.37,
+      "end": 3616.17,
+      "text": "And it's time to lie back and enjoy."
+    },
+    {
+      "start": 3617.53,
+      "end": 3620.57,
+      "text": "Right, got a letter here from a fellow by the name of Reed."
+    },
+    {
+      "start": 3620.87,
+      "end": 3624.09,
+      "text": "Ian Reed, who's from Knox Road in Norwich."
+    },
+    {
+      "start": 3624.09,
+      "end": 3624.49,
+      "text": "at the moment."
+    },
+    {
+      "start": 3625.47,
+      "end": 3626.89,
+      "text": "Oh, Ian, thanks for the letter."
+    },
+    {
+      "start": 3627.09,
+      "end": 3629.15,
+      "text": "He says, having been introduced to heavy metal bands"
+    },
+    {
+      "start": 3629.15,
+      "end": 3632.09,
+      "text": "by such groups as Saxon, Iron Maiden, Scorpions and ACDC,"
+    },
+    {
+      "start": 3632.63,
+      "end": 3634.41,
+      "text": "I find thrash a bit boring,"
+    },
+    {
+      "start": 3634.79,
+      "end": 3637.09,
+      "text": "as the groups all seem to be trying the same formula."
+    },
+    {
+      "start": 3637.53,
+      "end": 3639.75,
+      "text": "Which is true, but I think if you listen beneath all the speed,"
+    },
+    {
+      "start": 3640.25,
+      "end": 3641.53,
+      "text": "you'll hear some extremely good playing."
+    },
+    {
+      "start": 3641.63,
+      "end": 3642.29,
+      "text": "But, there you go."
+    },
+    {
+      "start": 3642.29,
+      "end": 3645.33,
+      "text": "The vocalists just don't seem to have the individuality"
+    },
+    {
+      "start": 3645.33,
+      "end": 3649.31,
+      "text": "of Bruce Dickinson, Biff or Klaus of the Scorpions."
+    },
+    {
+      "start": 3649.43,
+      "end": 3651.25,
+      "text": "Anyway, enough of my views to the point of this letter."
+    },
+    {
+      "start": 3651.91,
+      "end": 3653.47,
+      "text": "He says, as you will guess from the above,"
+    },
+    {
+      "start": 3653.47,
+      "end": 3661.29,
+      "text": "It doesn't feature any new HM groups, but as the music was what, uh, what turned me on to rock originally, I think it might appeal to others."
+    },
+    {
+      "start": 3661.83,
+      "end": 3667.71,
+      "text": "This, then, is Lie Back and Enjoy It, as put together by Ian Reid of Norwich."
+    },
+    {
+      "start": 3668.35,
+      "end": 4759.41,
+      "text": "That was Lie Back and Enjoy It, put together by Ian Reid at the moment of Knox Road in Norwich."
+    },
+    {
+      "start": 4759.53,
+      "end": 4762.95,
+      "text": "Nice selection. What a line-up. That was the best line-up, I think, of Whitesnake ever."
+    },
+    {
+      "start": 4763.69,
+      "end": 4767.27,
+      "text": "David Coverdale, John Law, Bernie Marsden, Nicky Moody, Neil Murray and Ian Pace."
+    },
+    {
+      "start": 4767.27,
+      "end": 4768.91,
+      "text": "All umpteen times live, they were."
+    },
+    {
+      "start": 4768.91,
+      "end": 4772.17,
+      "text": "Turkey Herb was Will I Lie to You"
+    },
+    {
+      "start": 4772.17,
+      "end": 4773.57,
+      "text": "from the album Come and Get It"
+    },
+    {
+      "start": 4773.57,
+      "end": 4774.47,
+      "text": "came out in 1981"
+    },
+    {
+      "start": 4774.47,
+      "end": 4775.57,
+      "text": "Whitesnake"
+    },
+    {
+      "start": 4775.57,
+      "end": 4778.33,
+      "text": "Rothschild"
+    },
+    {
+      "start": 4778.33,
+      "end": 4779.09,
+      "text": "Iron Maiden"
+    },
+    {
+      "start": 4779.09,
+      "end": 4780.11,
+      "text": "the original line-up"
+    },
+    {
+      "start": 4780.11,
+      "end": 4780.79,
+      "text": "or more or less"
+    },
+    {
+      "start": 4780.79,
+      "end": 4782.17,
+      "text": "1981 the album"
+    },
+    {
+      "start": 4782.17,
+      "end": 4782.79,
+      "text": "came out"
+    },
+    {
+      "start": 4782.79,
+      "end": 4783.83,
+      "text": "it was called Killers"
+    },
+    {
+      "start": 4783.83,
+      "end": 4786.02,
+      "text": "Saracen"
+    },
+    {
+      "start": 4786.02,
+      "end": 4786.88,
+      "text": "also from 81"
+    },
+    {
+      "start": 4786.88,
+      "end": 4788.08,
+      "text": "from the album Heroes"
+    },
+    {
+      "start": 4788.08,
+      "end": 4789.82,
+      "text": "Saints and Fools"
+    },
+    {
+      "start": 4789.82,
+      "end": 4791.6,
+      "text": "the track was Rock of Ages"
+    },
+    {
+      "start": 4791.6,
+      "end": 4793.54,
+      "text": "from Tokyo Tapes"
+    },
+    {
+      "start": 4793.54,
+      "end": 4794.7,
+      "text": "came out in 1978"
+    },
+    {
+      "start": 4794.7,
+      "end": 4795.4,
+      "text": "Scorps"
+    },
+    {
+      "start": 4795.4,
+      "end": 4796.14,
+      "text": "Scorpions"
+    },
+    {
+      "start": 4796.14,
+      "end": 4797.16,
+      "text": "Robot Man"
+    },
+    {
+      "start": 4797.16,
+      "end": 4799.62,
+      "text": "started off with Van Halen"
+    },
+    {
+      "start": 4799.62,
+      "end": 4803.7,
+      "text": "from the album Van Halen, their first album, 1978, Eruption."
+    },
+    {
+      "start": 4805.69,
+      "end": 4809.97,
+      "text": "Ian Reid, the £12 record token will go to the other address, OK?"
+    },
+    {
+      "start": 4810.43,
+      "end": 4812.39,
+      "text": "As requested in your letter, and he also says,"
+    },
+    {
+      "start": 4812.47,
+      "end": 4815.83,
+      "text": "Mr Reid, would you please wish Anne a very happy birthday"
+    },
+    {
+      "start": 4815.83,
+      "end": 4817.07,
+      "text": "for the 26th of September?"
+    },
+    {
+      "start": 4817.51,
+      "end": 4820.27,
+      "text": "Please tell Anne that Ian loves her very, very much indeed"
+    },
+    {
+      "start": 4820.27,
+      "end": 4822.27,
+      "text": "and is missing her like mad."
+    },
+    {
+      "start": 4823.3,
+      "end": 4825.92,
+      "text": "Reid, take care of yourself and thanks for your selection."
+    },
+    {
+      "start": 4828.84,
+      "end": 4829.62,
+      "text": "That's the crack of it."
+    },
+    {
+      "start": 4830.14,
+      "end": 4832.08,
+      "text": "Found about 20 minutes of music, nice and hairy,"
+    },
+    {
+      "start": 4832.22,
+      "end": 4833.62,
+      "text": "kick it, uh, punchy."
+    },
+    {
+      "start": 4834.49,
+      "end": 4837.15,
+      "text": "And send your selection to Lie Back and Enjoy It."
+    },
+    {
+      "start": 4837.75,
+      "end": 4838.63,
+      "text": "The Friday Rock Show."
+    },
+    {
+      "start": 4839.11,
+      "end": 4842.11,
+      "text": "BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4842.85,
+      "end": 4844.16,
+      "text": "The Friday Rock Show."
+    },
+    {
+      "start": 4844.78,
+      "end": 4847.96,
+      "text": "BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4848.68,
+      "end": 4851.02,
+      "text": "The feature is Lie Back and Enjoy It."
+    },
+    {
+      "start": 4851.42,
+      "end": 4854.8,
+      "text": "Radio 1! Radio 1!"
+    },
+    {
+      "start": 4854.8,
+      "end": 5393.08,
+      "text": "I know it's not everybody's cup of tea, but I love it."
+    },
+    {
+      "start": 5393.59,
+      "end": 5395.91,
+      "text": "It's from an album that's out on the Combat Noise record label."
+    },
+    {
+      "start": 5396.55,
+      "end": 5397.21,
+      "text": "It's an import."
+    },
+    {
+      "start": 5397.53,
+      "end": 5398.49,
+      "text": "The band are from Canada."
+    },
+    {
+      "start": 5398.65,
+      "end": 5399.99,
+      "text": "They're called Voivod."
+    },
+    {
+      "start": 5400.43,
+      "end": 5402.37,
+      "text": "The album is called just Roar."
+    },
+    {
+      "start": 5403.09,
+      "end": 5404.85,
+      "text": "As in raw, but extended a bit."
+    },
+    {
+      "start": 5404.99,
+      "end": 5406.27,
+      "text": "The track there was called To The Death."
+    },
+    {
+      "start": 5406.33,
+      "end": 5407.71,
+      "text": "It's a really great thrash album."
+    },
+    {
+      "start": 5408.17,
+      "end": 5409.13,
+      "text": "It's exactly 11.30."
+    },
+    {
+      "start": 5409.21,
+      "end": 5410.33,
+      "text": "Before that, you heard Excalibur."
+    },
+    {
+      "start": 5410.67,
+      "end": 5412.63,
+      "text": "From our repeat session that we're putting out by then,"
+    },
+    {
+      "start": 5412.67,
+      "end": 5413.87,
+      "text": "we first put it out in July."
+    },
+    {
+      "start": 5414.47,
+      "end": 5415.53,
+      "text": "Come On And Rock was the track."
+    },
+    {
+      "start": 5415.61,
+      "end": 5417.51,
+      "text": "And just read you a bit off the recording report here."
+    },
+    {
+      "start": 5418.29,
+      "end": 5419.87,
+      "text": "Producer on the session was Dale Griffin."
+    },
+    {
+      "start": 5419.87,
+      "end": 5422.95,
+      "text": "And he says, Tommy and Tony, pleasant and very young band."
+    },
+    {
+      "start": 5423.19,
+      "end": 5424.03,
+      "text": "None over 19."
+    },
+    {
+      "start": 5424.47,
+      "end": 5425.85,
+      "text": "The next Def Leppard, maybe."
+    },
+    {
+      "start": 5425.85,
+      "end": 5429.99,
+      "text": "Very keen to discuss their future with record companies, music publishers and so on and so forth."
+    },
+    {
+      "start": 5430.57,
+      "end": 5432.95,
+      "text": "And then I look over here and I see that they're still looking for offers."
+    },
+    {
+      "start": 5433.45,
+      "end": 5439.03,
+      "text": "So if any record companies are interested in Excalibur, just, you know, give us a bell."
+    },
+    {
+      "start": 5439.35,
+      "end": 5442.15,
+      "text": "Not so much a bell, write us a note and I'll give you their phone number."
+    },
+    {
+      "start": 5442.27,
+      "end": 5444.01,
+      "text": "Give you the phone number actually of the lead guitarist."
+    },
+    {
+      "start": 5444.67,
+      "end": 5448.31,
+      "text": "Now, Excalibur are doing gigs. 16th of October, they're at Nottingham."
+    },
+    {
+      "start": 5449.21,
+      "end": 5453.45,
+      "text": "17th, Loughborough. 25th, Sutton and Ashfield. 27th, Barnsley."
+    },
+    {
+      "start": 5453.45,
+      "end": 5455.33,
+      "text": "30th, Oldham"
+    },
+    {
+      "start": 5455.33,
+      "end": 5456.83,
+      "text": "31st, Carlisle"
+    },
+    {
+      "start": 5456.83,
+      "end": 5459.35,
+      "text": "November 1st, Excalibur are in"
+    },
+    {
+      "start": 5459.35,
+      "end": 5460.69,
+      "text": "Wishaw in Scotland"
+    },
+    {
+      "start": 5460.69,
+      "end": 5463.09,
+      "text": "and we have one more track to come by them"
+    },
+    {
+      "start": 5463.09,
+      "end": 5465.3,
+      "text": "Iron Maiden, next week"
+    },
+    {
+      "start": 5465.3,
+      "end": 5467.64,
+      "text": "on the programme, Bruce Dickinson will be on the show"
+    },
+    {
+      "start": 5467.64,
+      "end": 5469.84,
+      "text": "for at least an hour"
+    },
+    {
+      "start": 5469.84,
+      "end": 5471.9,
+      "text": "playing various Iron Maiden tracks"
+    },
+    {
+      "start": 5471.9,
+      "end": 5474.14,
+      "text": "and also some oldies that he happens to like"
+    },
+    {
+      "start": 5474.14,
+      "end": 5476.44,
+      "text": "things that he liked when he was a bit of a nipper"
+    },
+    {
+      "start": 5476.44,
+      "end": 5477.16,
+      "text": "a kid"
+    },
+    {
+      "start": 5477.16,
+      "end": 5479.7,
+      "text": "we have a copy of the Iron Maiden album"
+    },
+    {
+      "start": 5479.7,
+      "end": 5482.12,
+      "text": "we have it here, I'm going to play two tracks from it"
+    },
+    {
+      "start": 5482.12,
+      "end": 5483.2,
+      "text": "and they go like this"
+    },
+    {
+      "start": 5483.2,
+      "end": 6317.21,
+      "text": "well if you just rolled in from the pub you've missed two extremely good tracks but i'm sure"
+    },
+    {
+      "start": 6317.21,
+      "end": 6321.51,
+      "text": "you hear them again 51 minutes and 18 seconds of music there is on the album the album is called"
+    },
+    {
+      "start": 6321.51,
+      "end": 6325.87,
+      "text": "somewhere in time it's the latest album by iron maiden the loneliness of the long distance runner"
+    },
+    {
+      "start": 6325.87,
+      "end": 6329.27,
+      "text": "the track you heard that was the last one the first track was caught somewhere in time"
+    },
+    {
+      "start": 6329.27,
+      "end": 6334.03,
+      "text": "good album good stuff from iron maiden bruce dickinson on this program next week for about"
+    },
+    {
+      "start": 6334.03,
+      "end": 6339.73,
+      "text": "an hour playing uh stuff he likes you know and also stuff from the new album and stuff from maybe"
+    },
+    {
+      "start": 6339.73,
+      "end": 6343.81,
+      "text": "some of the old albums as well don't miss it next week bruce dickinson on the friday rock show"
+    },
+    {
+      "start": 6343.81,
+      "end": 6360.79,
+      "text": "hi pete drummond here reminding you that one of the most successful bands from down under"
+    },
+    {
+      "start": 6360.79,
+      "end": 6383.76,
+      "text": "appears on this week's in concert yes i'm talking about in excess yes don't miss a great in concert"
+    },
+    {
+      "start": 6383.76,
+      "end": 6389.5,
+      "text": "starting at 6 30 this saturday on radio one and stereo fm when it's in excess from the royal"
+    },
+    {
+      "start": 6389.5,
+      "end": 6394.8,
+      "text": "albert hall in fact us australians wouldn't give a albert hall for any other band"
+    },
+    {
+      "start": 6397.66,
+      "end": 6401.7,
+      "text": "Ah, you tell them, Rambai. It's now 14 minutes to midnight."
+    },
+    {
+      "start": 6402.52,
+      "end": 6403.86,
+      "text": "This is an interesting record."
+    },
+    {
+      "start": 6404.42,
+      "end": 6407.36,
+      "text": "JC, Joe and Fink are three prisoners."
+    },
+    {
+      "start": 6407.82,
+      "end": 6410.24,
+      "text": "They're in for life. Wormwood Scrubs is their current home."
+    },
+    {
+      "start": 6410.36,
+      "end": 6411.26,
+      "text": "Home for a long time, too."
+    },
+    {
+      "start": 6411.76,
+      "end": 6413.8,
+      "text": "Dave Bruce, whom I met today, is a very nice geezer."
+    },
+    {
+      "start": 6414.12,
+      "end": 6417.82,
+      "text": "Tug Wilson and Jay McCorrell are some of the prison warders in there."
+    },
+    {
+      "start": 6418.06,
+      "end": 6421.5,
+      "text": "Collectively, they've got a band together and they call themselves the Scrubs."
+    },
+    {
+      "start": 6421.82,
+      "end": 6423.16,
+      "text": "This is their single, Battle."
+    },
+    {
+      "start": 6423.16,
+      "end": 7088.9,
+      "text": "now there's a band i think who deserve a break they are paul mcbride steve blades now i'm gonna"
+    },
+    {
+      "start": 7088.9,
+      "end": 7095.46,
+      "text": "try and get this name right paul solinskic i guess paul anyways on the guitar mark hawthorne"
+    },
+    {
+      "start": 7095.46,
+      "end": 7101.94,
+      "text": "on the bass and mick dobson they're all over under just about 19 years of age right and i think the"
+    },
+    {
+      "start": 7101.94,
+      "end": 7106.86,
+      "text": "session is absolutely superb they do not have a record deal they haven't got a publishing deal"
+    },
+    {
+      "start": 7106.86,
+      "end": 7110.98,
+      "text": "so if anybody out there would like to give them a break drop me a line here radio one i'll make"
+    },
+    {
+      "start": 7110.98,
+      "end": 7114.92,
+      "text": "sure that uh they get your name and number because i think they deserve it really i do"
+    },
+    {
+      "start": 7114.92,
+      "end": 7120.22,
+      "text": "excalibur is what they're called death's door was the track that you heard there before that"
+    },
+    {
+      "start": 7120.22,
+      "end": 7124.24,
+      "text": "a previously unreleased track that's on the b side of the queen's reich single the a side is"
+    },
+    {
+      "start": 7124.24,
+      "end": 7127.34,
+      "text": "going to get close to you the track you heard was called prophecy and before that something"
+    },
+    {
+      "start": 7127.34,
+      "end": 7131.32,
+      "text": "which is put together by some people who are in the scrubs three guys who are in the scrubs as"
+    },
+    {
+      "start": 7131.32,
+      "end": 7135.36,
+      "text": "prisoners and three gentlemen who are there as warders. They are called The Scrubs. The"
+    },
+    {
+      "start": 7135.36,
+      "end": 7139.66,
+      "text": "track was called Battle. It's a single that's on the Anubis record label. All the money"
+    },
+    {
+      "start": 7139.66,
+      "end": 7146.88,
+      "text": "earned from it will go to charity. Good luck. Oh, a little message here. Tim Green. At the"
+    },
+    {
+      "start": 7146.88,
+      "end": 7151.64,
+      "text": "moment in Glasgow, even though you're in Glasgow and your wife of six weeks is in Denmark,"
+    },
+    {
+      "start": 7151.96,
+      "end": 7155.7,
+      "text": "she's thinking of you and she misses you. She looks forward to seeing you soon. Kings"
+    },
+    {
+      "start": 7155.7,
+      "end": 7162.46,
+      "text": "Norton in Birmingham. Happy birthday to Dunk, who's 18 years of age, from Paul Benz,"
+    },
+    {
+      "start": 7162.46,
+      "end": 7170.94,
+      "text": "peter happy birthday to catherine from richard her brother of al woody park in leeds that's it"
+    },
+    {
+      "start": 7170.94,
+      "end": 7174.06,
+      "text": "for this edition of the friday rock show which i trust you've enjoyed wherever you happen to be"
+    },
+    {
+      "start": 7174.7,
+      "end": 7177.26,
+      "text": "the friday rock show is a tony wilson production"
+    },
+    {
+      "start": 7182.09,
+      "end": 7185.45,
+      "text": "don't forget next week bruce dickinson is on the show for an hour"
+    },
+    {
+      "start": 7185.45,
+      "end": 7189.69,
+      "text": "solid good music his choice and stuff off the new album as well following the midnight pips"
+    },
+    {
+      "start": 7189.69,
+      "end": 7197.88,
+      "text": "you will hear on fm stereo radio 2 on medium wave radio 1 news this is thomas vance wherever you are"
+    },
+    {
+      "start": 7197.88,
+      "end": 7203.98,
+      "text": "you're all right enjoying your life see you next week from all of us on the music side god bless"
+    },
+    {
+      "start": 7203.98,
+      "end": 7204.44,
+      "text": "good night"
     }
   ]
 }

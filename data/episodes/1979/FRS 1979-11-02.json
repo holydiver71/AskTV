@@ -23,32 +23,38 @@
     {
       "artist": "Ian Hunter",
       "track": "Cleveland Rocks",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 914.05
     },
     {
       "artist": "Damned",
       "track": "Plan 9 Channel 7",
-      "details": "LP-Machine Gun Etiquette"
+      "details": "LP-Machine Gun Etiquette",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Moody Blues",
       "track": "Watching And Waiting",
-      "details": "LP-To Our Children's Children's Children"
+      "details": "LP-To Our Children's Children's Children",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Samson",
       "track": "Six Foot Under",
-      "details": "FRS session 1979-10-17"
+      "details": "FRS session 1979-10-17",
+      "verified_timestamp": 926.54
     },
     {
       "artist": "Cream",
       "track": "Crossroads",
-      "details": "LP-Wheels Of Fire"
+      "details": "LP-Wheels Of Fire",
+      "verified_timestamp": 1369.95
     },
     {
       "artist": "Beatles",
       "track": "'\"From Us To You\" with Fluff Freeman",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1399.57
     },
     {
       "artist": "Samson",
@@ -58,27 +64,32 @@
     {
       "artist": "Martha And The Muffins",
       "track": "Cheeses And Gum",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2715.58
     },
     {
       "artist": "Velvet Underground",
       "track": "Heroin",
-      "details": "LP-Velvet underground And Nico"
+      "details": "LP-Velvet underground And Nico",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Gloria Mundi",
       "track": "Temporary Hell",
-      "details": "LP-Word Is Out"
+      "details": "LP-Word Is Out",
+      "verified_timestamp": 3672.32
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 79.3
     },
     {
       "artist": "Steve Howe",
       "track": "Pennants",
-      "details": "LP-Steve Howe Album"
+      "details": "LP-Steve Howe Album",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Samson",
@@ -88,12 +99,14 @@
     {
       "artist": "Janis Joplin (Big Brother And The Holding Company)",
       "track": "Piece Of My Heart",
-      "details": "LP-Cheap Thrills"
+      "details": "LP-Cheap Thrills",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Beatles",
       "track": "'I'm A Loser'",
-      "details": "Top Gear session 1964-11-17"
+      "details": "Top Gear session 1964-11-17",
+      "verified_timestamp": 1400.61
     },
     {
       "artist": "Beatles",
@@ -108,7 +121,9 @@
     {
       "artist": "Beatles",
       "track": "'Everybody's Trying To Be My Baby'",
-      "details": "Top Gear session 1964-11-17"
+      "details": "Top Gear session 1964-11-17",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "everybody s trying to be"
     },
     {
       "artist": "Beatles",
@@ -118,7 +133,8 @@
     {
       "artist": "Alvin Lee",
       "track": "Sitting Here",
-      "details": "LP-Ten Years Later - Ride On"
+      "details": "LP-Ten Years Later - Ride On",
+      "verified_timestamp": 6770.86
     },
     {
       "artist": "Samson",

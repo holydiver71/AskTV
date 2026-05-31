@@ -21,12 +21,14 @@
     {
       "artist": "Beatles",
       "track": "Helter Skelter",
-      "details": "2xLP-The Beatles AKA The White Album; Apple"
+      "details": "2xLP-The Beatles AKA The White Album; Apple",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "UFO",
       "track": "Doctor Doctor",
-      "details": "2xLP-Strangers In The Night; Chrysalis"
+      "details": "2xLP-Strangers In The Night; Chrysalis",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "White Spirit",
@@ -36,22 +38,26 @@
     {
       "artist": "Pat Travers",
       "track": "(I Just Want To) Live It My Way",
-      "details": "LP-Radio Active; Polydor"
+      "details": "LP-Radio Active; Polydor",
+      "verified_timestamp": 1210.59
     },
     {
       "artist": "Whitesnake",
       "track": "Would I Lie To You?",
-      "details": "advance play from Come And Get It"
+      "details": "advance play from Come And Get It",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Steppenwolf",
       "track": "Born To Be Wild",
-      "details": "OST LP-Songs Performed In The Motion Picture Easy Rider; MCA"
+      "details": "OST LP-Songs Performed In The Motion Picture Easy Rider; MCA",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Steve Gibbons Band",
       "track": "'He Gave His Life To Rock 'N' Roll'",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1835.92
     },
     {
       "artist": "Steve Gibbons Band",
@@ -61,22 +67,26 @@
     {
       "artist": "Ted Nugent",
       "track": "My Love Is Like A Tire Iron",
-      "details": "LP-Intensities In 10 Cities; Epic"
+      "details": "LP-Intensities In 10 Cities; Epic",
+      "verified_timestamp": 3003.67
     },
     {
       "artist": "White Spirit",
       "track": "Midnight Chaser",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 68.32
     },
     {
       "artist": "Loverboy",
       "track": "Turn Me Loose",
-      "details": "LP-Loverboy; CBS"
+      "details": "LP-Loverboy; CBS",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "Judas Priest",
@@ -91,12 +101,14 @@
     {
       "artist": "Mountain",
       "track": "Nantucket Sleighride (To Owen Coffin)",
-      "details": "LP-Nantucket Sleighride; Island"
+      "details": "LP-Nantucket Sleighride; Island",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Exposer",
       "track": "Rock Japan",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 5728.61
     },
     {
       "artist": "Rose Tattoo",
@@ -121,12 +133,14 @@
     {
       "artist": "Outlaws",
       "track": "Angels Hide",
-      "details": "LP-Ghost Riders; Arista"
+      "details": "LP-Ghost Riders; Arista",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "AC/DC",
       "track": "What Do You Do For Money Honey",
-      "details": "LP-Back In Black; Atlantic"
+      "details": "LP-Back In Black; Atlantic",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

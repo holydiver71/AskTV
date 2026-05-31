@@ -18,12 +18,14 @@
     {
       "artist": "Jon & Vangelis",
       "track": "Curious Electric (CD - Short Stories) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 852.39
     },
     {
       "artist": "Def Leppard",
       "track": "Billy's Got A Gun (CD - Pyromania) Vertigo",
-      "details": null
+      "details": null,
+      "verified_timestamp": 843.76
     },
     {
       "artist": "Asia",
@@ -53,7 +55,8 @@
     {
       "artist": "Kiss",
       "track": "Is That You? (CD - Unmasked) Casablanca",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2715.65
     },
     {
       "artist": "The Moody Blues",

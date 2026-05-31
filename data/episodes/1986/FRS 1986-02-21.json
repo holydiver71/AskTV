@@ -25,22 +25,26 @@
     {
       "artist": "ZZ Top",
       "track": "Stages",
-      "details": "7\"; Warner Bros."
+      "details": "7\"; Warner Bros.",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "So What?",
       "track": "Good Luck To You",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 391.57
     },
     {
       "artist": "Pallas",
       "track": "Just A Memory",
-      "details": "LP-The Wedge; Harvest"
+      "details": "LP-The Wedge; Harvest",
+      "verified_timestamp": 798.21
     },
     {
       "artist": "Samson",
       "track": "Vice Versa",
-      "details": "7\"; GEM"
+      "details": "7\"; GEM",
+      "verified_timestamp": 1366.94
     },
     {
       "artist": "So What?",
@@ -50,12 +54,14 @@
     {
       "artist": null,
       "track": "Slade, recorded at the Reading Festival in 1980",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4133.83
     },
     {
       "artist": "Wendy O. Williams",
       "track": "Pedal To The Metal",
-      "details": "LP-Kommander Of Kaos; Zebra"
+      "details": "LP-Kommander Of Kaos; Zebra",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "So What?",
@@ -65,17 +71,20 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4705.08
     },
     {
       "artist": "AC/DC",
       "track": "Whole Lotta Rosie",
-      "details": "LP-Live From The Atlantic Studios; Atlantic"
+      "details": "LP-Live From The Atlantic Studios; Atlantic",
+      "verified_timestamp": 5703.34
     },
     {
       "artist": "Chariot",
       "track": "Meet My Match",
-      "details": "LP-Burning Ambition; Shades"
+      "details": "LP-Burning Ambition; Shades",
+      "verified_timestamp": 6256.18
     },
     {
       "artist": "So What?",
@@ -85,17 +94,1361 @@
     {
       "artist": "Black Sabbath",
       "track": "Turn To Stone",
-      "details": "LP-Seventh Star; Vertigo"
+      "details": "LP-Seventh Star; Vertigo",
+      "verified_timestamp": 6704.27
     },
     {
       "artist": "Queensrÿche",
       "track": "Queen Of The Reich",
-      "details": "12\"-Queensrÿche; EMI America"
+      "details": "12\"-Queensrÿche; EMI America",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Ratt",
       "track": "'You're In Love (LP-Invasion Of Your Privacy)' (Atlantic)",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.2,
+      "end": 10.2,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 10.2,
+      "end": 32.46,
+      "text": "Hello there, this is TV on the Radio. Thomas Vance here, the music vendor. Welcome once again to the Friday Rock Show."
+    },
+    {
+      "start": 32.46,
+      "end": 41.42,
+      "text": "And out of the archives tonight, we have extracted the tape that holds the performance of Slade as the Wolverhampton Rockers were back at Reading in 1980."
+    },
+    {
+      "start": 41.42,
+      "end": 45.42,
+      "text": "Also, we repeat our session by So What."
+    },
+    {
+      "start": 58.88,
+      "end": 61.74,
+      "text": "Classics by Samson, Maiden, Venom, Boston and Ozzy."
+    },
+    {
+      "start": 61.84,
+      "end": 64.9,
+      "text": "Plus a rare track by ACDC featuring the late Bon Scott."
+    },
+    {
+      "start": 66.28,
+      "end": 71.76,
+      "text": "New releases, Rainbow, ZZ, Alice, Wendy O, Chariot, Black Sabbath and Rat."
+    },
+    {
+      "start": 391.57,
+      "end": 392.53,
+      "text": "That's what it's all about."
+    },
+    {
+      "start": 392.71,
+      "end": 702.5,
+      "text": "Of course, it's called Stages."
+    },
+    {
+      "start": 703.98,
+      "end": 705.34,
+      "text": "It's 11 and a half and it's past ten."
+    },
+    {
+      "start": 705.4,
+      "end": 707.68,
+      "text": "The Friday Rock Show, BBC Radio 1."
+    },
+    {
+      "start": 708.22,
+      "end": 715.38,
+      "text": "Okay, before ZZ, you heard Rainbow from a new double album that's just come out."
+    },
+    {
+      "start": 715.5,
+      "end": 717.68,
+      "text": "The album is called Final Vinyl."
+    },
+    {
+      "start": 717.68,
+      "end": 722.08,
+      "text": "The track was long lived rock and roll, a version that was recorded in 1978 in Georgia, the USA."
+    },
+    {
+      "start": 723.04,
+      "end": 726.48,
+      "text": "Good double album it is, as they describe it on the back of it."
+    },
+    {
+      "start": 726.54,
+      "end": 729.84,
+      "text": "All tracks are new versions of songs previously released."
+    },
+    {
+      "start": 730.93,
+      "end": 731.73,
+      "text": "Well worth your money."
+    },
+    {
+      "start": 732.69,
+      "end": 735.59,
+      "text": "Not the nice thing about it, it features the three vocalists,"
+    },
+    {
+      "start": 735.69,
+      "end": 737.95,
+      "text": "Joe Lynn Turner, Graham Bonnet and Dio."
+    },
+    {
+      "start": 741.05,
+      "end": 745.04,
+      "text": "Taylor, Luke, a very happy 21st birthday from Alison."
+    },
+    {
+      "start": 745.42,
+      "end": 747.0,
+      "text": "Birthday comes up the 24th of Feb."
+    },
+    {
+      "start": 747.38,
+      "end": 750.0,
+      "text": "Certainly, Alison says, do you feel happy birthday?"
+    },
+    {
+      "start": 750.0,
+      "end": 750.64,
+      "text": "So do I."
+    },
+    {
+      "start": 752.21,
+      "end": 756.48,
+      "text": "Well, I used to do a plea on this year's programme for Ian Haywood,"
+    },
+    {
+      "start": 756.62,
+      "end": 757.9,
+      "text": "who's residing somewhere."
+    },
+    {
+      "start": 758.78,
+      "end": 760.38,
+      "text": "He's actually in the nick, let's be honest."
+    },
+    {
+      "start": 762.1,
+      "end": 764.22,
+      "text": "Fluff has ridden in. Now, Fluff's in Dundee, and she says,"
+    },
+    {
+      "start": 764.28,
+      "end": 767.14,
+      "text": "look, Ian Haywood, she, I've got to tell you,"
+    },
+    {
+      "start": 767.16,
+      "end": 769.06,
+      "text": "is desperate to hear from you very soon."
+    },
+    {
+      "start": 769.64,
+      "end": 771.96,
+      "text": "She's going crazy without the scribes."
+    },
+    {
+      "start": 772.8,
+      "end": 775.3,
+      "text": "So, Ian Haywood, who's residing at Her Majesty's Pleasure,"
+    },
+    {
+      "start": 775.54,
+      "end": 777.94,
+      "text": "somewhere, would you do me a favour and write to Fluff?"
+    },
+    {
+      "start": 778.66,
+      "end": 781.31,
+      "text": "Maria Whalebone wants me to say hello"
+    },
+    {
+      "start": 781.31,
+      "end": 782.93,
+      "text": "to some good mates of hers in Bermondsey."
+    },
+    {
+      "start": 782.93,
+      "end": 788.11,
+      "text": "Claire Snort, I think it is, Sarah Scutt, Paul McCarroll, and everybody else who knows Maria Wailbone."
+    },
+    {
+      "start": 788.75,
+      "end": 792.08,
+      "text": "And hello to David Scutt, as well."
+    },
+    {
+      "start": 795.51,
+      "end": 797.79,
+      "text": "Session band, they are called So What."
+    },
+    {
+      "start": 798.21,
+      "end": 1304.39,
+      "text": "In fact, it's called Just a Memory. It's by Palace."
+    },
+    {
+      "start": 1304.55,
+      "end": 1307.17,
+      "text": "It's from the album called The Wedge, which is out on EMI."
+    },
+    {
+      "start": 1307.41,
+      "end": 1308.95,
+      "text": "At the moment, of course, Palace are on the road."
+    },
+    {
+      "start": 1309.19,
+      "end": 1311.81,
+      "text": "Tonight, they're at London's Marquis, as indeed are they tomorrow night."
+    },
+    {
+      "start": 1312.51,
+      "end": 1313.45,
+      "text": "25th, they're at Redcard."
+    },
+    {
+      "start": 1313.53,
+      "end": 1316.93,
+      "text": "Then they do Leicester, Nottingham, Liverpool, Dudley, Dunstable, Penzance, and Southampton."
+    },
+    {
+      "start": 1317.01,
+      "end": 1318.47,
+      "text": "I've never seen them, but my goodness."
+    },
+    {
+      "start": 1318.47,
+      "end": 1323.11,
+      "text": "A lot of people have, and a lot of people write in and say that they have to this programme"
+    },
+    {
+      "start": 1323.11,
+      "end": 1325.55,
+      "text": "And say just how good they are, I must get to see them"
+    },
+    {
+      "start": 1325.55,
+      "end": 1326.85,
+      "text": "The album is immaculate"
+    },
+    {
+      "start": 1326.85,
+      "end": 1328.87,
+      "text": "Palace's album is called The Wedge"
+    },
+    {
+      "start": 1328.87,
+      "end": 1330.11,
+      "text": "Before that you heard So What"
+    },
+    {
+      "start": 1330.11,
+      "end": 1334.73,
+      "text": "Our session band tonight come from Scotland, been down in the south of the UK for the last year or so"
+    },
+    {
+      "start": 1334.73,
+      "end": 1337.33,
+      "text": "Tour details and more music by them to follow"
+    },
+    {
+      "start": 1337.33,
+      "end": 1342.5,
+      "text": "Little letter here from Chris Wilmot"
+    },
+    {
+      "start": 1342.5,
+      "end": 1344.34,
+      "text": "Chris Wilmot of Wells in Somerset"
+    },
+    {
+      "start": 1344.34,
+      "end": 1347.9,
+      "text": "Give a mention for me, because it was my 16th birthday on the 19th of this month"
+    },
+    {
+      "start": 1347.9,
+      "end": 1351.44,
+      "text": "Please play something by Iron Maid, nationally wanted phantom of the opera."
+    },
+    {
+      "start": 1352.04,
+      "end": 1355.26,
+      "text": "I haven't got it in the old studio, but I will mention the lads,"
+    },
+    {
+      "start": 1355.34,
+      "end": 1358.04,
+      "text": "Angus and Adam, I think it is, who are into some metal,"
+    },
+    {
+      "start": 1358.16,
+      "end": 1359.98,
+      "text": "and anybody else who may be listening in from Wales."
+    },
+    {
+      "start": 1360.68,
+      "end": 1361.72,
+      "text": "Hello to Chris, happy birthday."
+    },
+    {
+      "start": 1361.86,
+      "end": 1363.06,
+      "text": "Thought you might like to hear this, actually."
+    },
+    {
+      "start": 1363.4,
+      "end": 1366.76,
+      "text": "This is Samson, recorded in 1980, but featuring Bruce Dickinson."
+    },
+    {
+      "start": 1366.94,
+      "end": 1369.78,
+      "text": "Just been released as a single on Capitol, Vice Versa."
+    },
+    {
+      "start": 1385.11,
+      "end": 1814.73,
+      "text": "They're called So What."
+    },
+    {
+      "start": 1814.87,
+      "end": 1816.07,
+      "text": "That track was called I Don't Know Why,"
+    },
+    {
+      "start": 1816.07,
+      "end": 1817.81,
+      "text": "and at midnight tonight, don't go to the back door,"
+    },
+    {
+      "start": 1818.25,
+      "end": 1820.79,
+      "text": "looking for somebody with a lump of coal, because it ain't that time of the year."
+    },
+    {
+      "start": 1821.15,
+      "end": 1823.81,
+      "text": "You also heard included in that song a little bit of Auld Lang Syne."
+    },
+    {
+      "start": 1824.35,
+      "end": 1828.95,
+      "text": "Prior to that, Samson, as they were back in 1980 when they had Bruce Dickinson as their lead singer."
+    },
+    {
+      "start": 1829.41,
+      "end": 1832.69,
+      "text": "The single has just been released called Vice Versa on the Capitol record label,"
+    },
+    {
+      "start": 1833.07,
+      "end": 1835.31,
+      "text": "and looking at the back of the album, or rather back of the single,"
+    },
+    {
+      "start": 1835.41,
+      "end": 1837.15,
+      "text": "I see there is going to be an album issued as well."
+    },
+    {
+      "start": 1837.67,
+      "end": 1841.05,
+      "text": "An album called Head Tactics, but I don't know when it's coming out."
+    },
+    {
+      "start": 1841.59,
+      "end": 1842.65,
+      "text": "They were a good band as well."
+    },
+    {
+      "start": 1842.65,
+      "end": 1844.75,
+      "text": "Well, Samson, where are you, Paul? What's happening?"
+    },
+    {
+      "start": 1845.23,
+      "end": 1847.29,
+      "text": "Good Bruce? Well, he's just a millionaire now, isn't he?"
+    },
+    {
+      "start": 1848.25,
+      "end": 1855.85,
+      "text": "...to enjoy music like this, or even a bit more like this."
+    },
+    {
+      "start": 1856.95,
+      "end": 1862.05,
+      "text": "Then don't tune to the Dixie Peach Midnight Relish Show this Saturday night at 9.30,"
+    },
+    {
+      "start": 1862.29,
+      "end": 1864.67,
+      "text": "because we like ours like this."
+    },
+    {
+      "start": 1865.53,
+      "end": 1870.58,
+      "text": "Wait, and a bit more of this."
+    },
+    {
+      "start": 1870.96,
+      "end": 1874.02,
+      "text": "...our features."
+    },
+    {
+      "start": 1874.26,
+      "end": 1876.94,
+      "text": "In Session is one of Britain's best up-and-coming groups,"
+    },
+    {
+      "start": 1877.2,
+      "end": 1879.36,
+      "text": "Terraplane, and live, according to the act,"
+    },
+    {
+      "start": 1879.68,
+      "end": 1902.95,
+      "text": "you too, Relish Show."
+    },
+    {
+      "start": 1903.39,
+      "end": 1905.66,
+      "text": "She shaves."
+    },
+    {
+      "start": 1907.13,
+      "end": 1907.53,
+      "text": "She shaves."
+    },
+    {
+      "start": 1907.53,
+      "end": 1924.13,
+      "text": "It is 28 minutes to 11 o'clock."
+    },
+    {
+      "start": 1924.21,
+      "end": 1925.53,
+      "text": "Now we go back into the archives."
+    },
+    {
+      "start": 1925.69,
+      "end": 1926.75,
+      "text": "It was Reading 1980."
+    },
+    {
+      "start": 1927.07,
+      "end": 1929.31,
+      "text": "To the best of my recollection, it was sort of late afternoon"
+    },
+    {
+      "start": 1929.31,
+      "end": 1931.93,
+      "text": "when four guys from Wolverhampton hit the stage"
+    },
+    {
+      "start": 1931.93,
+      "end": 1934.01,
+      "text": "and reasserted themselves as excellent."
+    },
+    {
+      "start": 1934.83,
+      "end": 1937.43,
+      "text": "From Reading 1980, Slade."
+    },
+    {
+      "start": 1938.03,
+      "end": 4116.63,
+      "text": "The stage was absolutely littered with toilet rolls."
+    },
+    {
+      "start": 4116.63,
+      "end": 4119.17,
+      "text": "They chucked them at the audience, the audience chucked them back."
+    },
+    {
+      "start": 4119.27,
+      "end": 4120.99,
+      "text": "No bottles, no agro, no nothing."
+    },
+    {
+      "start": 4121.59,
+      "end": 4122.87,
+      "text": "That was the revival of Slade."
+    },
+    {
+      "start": 4122.93,
+      "end": 4124.45,
+      "text": "For three years, they'd been in the doldrums."
+    },
+    {
+      "start": 4124.49,
+      "end": 4126.19,
+      "text": "After they came back from the States in 1977,"
+    },
+    {
+      "start": 4126.19,
+      "end": 4128.71,
+      "text": "really in this country nobody really wanted to know"
+    },
+    {
+      "start": 4128.71,
+      "end": 4130.37,
+      "text": "though they did do quite a lot of club work"
+    },
+    {
+      "start": 4130.37,
+      "end": 4132.19,
+      "text": "their records didn't get a look in anywhere"
+    },
+    {
+      "start": 4132.19,
+      "end": 4133.83,
+      "text": "and then they were booked on the"
+    },
+    {
+      "start": 4133.83,
+      "end": 4135.93,
+      "text": "on the Reading Festival Bill in 1980"
+    },
+    {
+      "start": 4135.93,
+      "end": 4138.47,
+      "text": "and they just came back with a thump"
+    },
+    {
+      "start": 4138.47,
+      "end": 4140.15,
+      "text": "and I'm so glad that we recorded them"
+    },
+    {
+      "start": 4140.15,
+      "end": 4142.11,
+      "text": "it was a really great day"
+    },
+    {
+      "start": 4142.11,
+      "end": 4143.67,
+      "text": "and if you were there you'll know what I mean"
+    },
+    {
+      "start": 4143.67,
+      "end": 4145.69,
+      "text": "and if you listen to the audience just there"
+    },
+    {
+      "start": 4145.69,
+      "end": 4146.73,
+      "text": "the way the audience responded"
+    },
+    {
+      "start": 4146.73,
+      "end": 4149.59,
+      "text": "that was genuine affection and enthusiasm"
+    },
+    {
+      "start": 4149.59,
+      "end": 4151.81,
+      "text": "one of Britain's greatest ever bands"
+    },
+    {
+      "start": 4151.81,
+      "end": 4154.41,
+      "text": "I think I've been a fan of theirs since way back when"
+    },
+    {
+      "start": 4154.95,
+      "end": 4157.79,
+      "text": "Noddy Holder, Dave Hill, Jimmy Lee, and Don Powell."
+    },
+    {
+      "start": 4158.21,
+      "end": 4159.21,
+      "text": "The Slade."
+    },
+    {
+      "start": 4160.07,
+      "end": 4185.79,
+      "text": "Fast 11, seriously, if you have any thoughts"
+    },
+    {
+      "start": 4185.79,
+      "end": 4189.01,
+      "text": "about something that you've heard on this program over the years"
+    },
+    {
+      "start": 4189.01,
+      "end": 4190.61,
+      "text": "on a Friday night, the Friday Rock Show,"
+    },
+    {
+      "start": 4190.75,
+      "end": 4192.55,
+      "text": "some archive material that we've recorded,"
+    },
+    {
+      "start": 4192.95,
+      "end": 4194.51,
+      "text": "concert material, session material,"
+    },
+    {
+      "start": 4194.95,
+      "end": 4197.47,
+      "text": "if you have any thoughts at all, do write and let us know"
+    },
+    {
+      "start": 4197.47,
+      "end": 4200.61,
+      "text": "because we go out and into the archives, rather,"
+    },
+    {
+      "start": 4201.23,
+      "end": 4202.85,
+      "text": "entirely on what you say."
+    },
+    {
+      "start": 4202.95,
+      "end": 4205.35,
+      "text": "If you say you want Slade, if we get enough letters that say Slade,"
+    },
+    {
+      "start": 4205.53,
+      "end": 4206.43,
+      "text": "we put them on the air."
+    },
+    {
+      "start": 4206.43,
+      "end": 4208.01,
+      "text": "might we put Whitesnake on the air."
+    },
+    {
+      "start": 4208.37,
+      "end": 4211.19,
+      "text": "If there's an act you would like us to get out of our archives"
+    },
+    {
+      "start": 4211.19,
+      "end": 4216.21,
+      "text": "that you think it deserves another airing on this here programme,"
+    },
+    {
+      "start": 4216.47,
+      "end": 4218.63,
+      "text": "do let me know, because we do take notice of you."
+    },
+    {
+      "start": 4218.73,
+      "end": 4220.45,
+      "text": "We do not just bin the letters."
+    },
+    {
+      "start": 4221.89,
+      "end": 4223.37,
+      "text": "Why, too, the archives."
+    },
+    {
+      "start": 4224.33,
+      "end": 4228.45,
+      "text": "The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4228.69,
+      "end": 4230.03,
+      "text": "And I look forward to getting your letter."
+    },
+    {
+      "start": 4230.61,
+      "end": 4683.3,
+      "text": "And that track called I've Got To Go."
+    },
+    {
+      "start": 4683.4,
+      "end": 4685.1,
+      "text": "And before that, Wendy O'Williams."
+    },
+    {
+      "start": 4685.1,
+      "end": 4687.96,
+      "text": "from a new and very tasty album called"
+    },
+    {
+      "start": 4687.96,
+      "end": 4689.52,
+      "text": "Commander of Chaos."
+    },
+    {
+      "start": 4689.98,
+      "end": 4691.94,
+      "text": "The Wendy O. Williams track was peddled to the metal"
+    },
+    {
+      "start": 4691.94,
+      "end": 4694.84,
+      "text": "and it's just come out in the UK on the Zebra record label."
+    },
+    {
+      "start": 4696.72,
+      "end": 4697.96,
+      "text": "I've interviewed Wendy O. Williams."
+    },
+    {
+      "start": 4698.1,
+      "end": 4699.74,
+      "text": "I can't remember what colour her eyes are."
+    },
+    {
+      "start": 4700.78,
+      "end": 4702.48,
+      "text": "She actually is a very, very charming woman."
+    },
+    {
+      "start": 4702.7,
+      "end": 4703.26,
+      "text": "Very charming."
+    },
+    {
+      "start": 4703.9,
+      "end": 4705.02,
+      "text": "It is 18 minutes past 11."
+    },
+    {
+      "start": 4705.08,
+      "end": 4706.96,
+      "text": "It's time for the feature called Lie Back and Enjoy It."
+    },
+    {
+      "start": 4708.26,
+      "end": 4712.34,
+      "text": "The person who gets the 12-pound record token this week"
+    },
+    {
+      "start": 4712.34,
+      "end": 4715.84,
+      "text": "is Steve D. Woods of South Breton, Peterborough, Cambridgeshire."
+    },
+    {
+      "start": 4715.98,
+      "end": 4717.08,
+      "text": "Steve, thanks for your card."
+    },
+    {
+      "start": 4717.08,
+      "end": 4718.26,
+      "text": "he just wrote this"
+    },
+    {
+      "start": 4718.26,
+      "end": 4718.68,
+      "text": "dear TV"
+    },
+    {
+      "start": 4718.68,
+      "end": 4719.7,
+      "text": "listening to your show tonight"
+    },
+    {
+      "start": 4719.7,
+      "end": 4721.1,
+      "text": "and I said to myself"
+    },
+    {
+      "start": 4721.1,
+      "end": 4721.9,
+      "text": "let's have a go"
+    },
+    {
+      "start": 4721.9,
+      "end": 4722.76,
+      "text": "at this live back"
+    },
+    {
+      "start": 4722.76,
+      "end": 4723.64,
+      "text": "and enjoy thing"
+    },
+    {
+      "start": 4723.64,
+      "end": 4725.0,
+      "text": "it sounds easy"
+    },
+    {
+      "start": 4725.0,
+      "end": 4725.72,
+      "text": "wrong"
+    },
+    {
+      "start": 4725.72,
+      "end": 4727.3,
+      "text": "so after three hours"
+    },
+    {
+      "start": 4727.3,
+      "end": 4728.42,
+      "text": "and twenty different tracks"
+    },
+    {
+      "start": 4728.42,
+      "end": 4730.08,
+      "text": "here is my final choice"
+    },
+    {
+      "start": 4730.08,
+      "end": 4732.34,
+      "text": "at the end of the card"
+    },
+    {
+      "start": 4732.34,
+      "end": 4732.7,
+      "text": "he says"
+    },
+    {
+      "start": 4732.7,
+      "end": 4733.34,
+      "text": "tar very much"
+    },
+    {
+      "start": 4733.34,
+      "end": 4734.08,
+      "text": "could you please say"
+    },
+    {
+      "start": 4734.08,
+      "end": 4734.4,
+      "text": "hello"
+    },
+    {
+      "start": 4734.4,
+      "end": 4736.0,
+      "text": "to all the inmates"
+    },
+    {
+      "start": 4736.0,
+      "end": 4736.9,
+      "text": "of the still"
+    },
+    {
+      "start": 4736.9,
+      "end": 4738.1,
+      "text": "in Peterborough"
+    },
+    {
+      "start": 4738.1,
+      "end": 4739.19,
+      "text": "hello to the inmates"
+    },
+    {
+      "start": 4739.19,
+      "end": 4740.13,
+      "text": "of the still in Peterborough"
+    },
+    {
+      "start": 4740.13,
+      "end": 4741.61,
+      "text": "from Steve Woods"
+    },
+    {
+      "start": 4741.61,
+      "end": 4743.03,
+      "text": "and this is the feature"
+    },
+    {
+      "start": 4743.03,
+      "end": 4744.25,
+      "text": "live back and enjoy it"
+    },
+    {
+      "start": 4744.25,
+      "end": 4745.25,
+      "text": "put together by him"
+    },
+    {
+      "start": 4745.25,
+      "end": 4747.04,
+      "text": "it is forty minutes long"
+    },
+    {
+      "start": 4747.4,
+      "end": 4747.82,
+      "text": "It's good."
+    },
+    {
+      "start": 5599.33,
+      "end": 5601.05,
+      "text": "That was Lie Back and Enjoy It,"
+    },
+    {
+      "start": 5601.09,
+      "end": 5603.01,
+      "text": "put together by Steve Woods of Tysdale,"
+    },
+    {
+      "start": 5603.25,
+      "end": 5604.85,
+      "text": "South Breton, Peterborough and Cambridgeshire."
+    },
+    {
+      "start": 5605.23,
+      "end": 5606.71,
+      "text": "Peter, nice one."
+    },
+    {
+      "start": 5607.13,
+      "end": 5608.59,
+      "text": "The music you heard was, rather,"
+    },
+    {
+      "start": 5608.75,
+      "end": 5609.89,
+      "text": "Venom, Black Metal,"
+    },
+    {
+      "start": 5610.11,
+      "end": 5612.15,
+      "text": "title track from their album that came out in 1982,"
+    },
+    {
+      "start": 5612.73,
+      "end": 5613.69,
+      "text": "Rock and Roll Band."
+    },
+    {
+      "start": 5613.91,
+      "end": 5615.13,
+      "text": "That came out in 1976."
+    },
+    {
+      "start": 5615.39,
+      "end": 5616.23,
+      "text": "It was by Boston."
+    },
+    {
+      "start": 5616.85,
+      "end": 5618.09,
+      "text": "From the album called Boston,"
+    },
+    {
+      "start": 5618.53,
+      "end": 5619.31,
+      "text": "Ozzy Osbourne,"
+    },
+    {
+      "start": 5619.45,
+      "end": 5621.51,
+      "text": "a single from 1983, So Tired,"
+    },
+    {
+      "start": 5622.19,
+      "end": 5623.67,
+      "text": "Iron Maiden from 1980,"
+    },
+    {
+      "start": 5624.11,
+      "end": 5626.99,
+      "text": "and Iron Maiden from the album Iron Maiden."
+    },
+    {
+      "start": 5627.45,
+      "end": 5628.13,
+      "text": "You guessed it."
+    },
+    {
+      "start": 5628.69,
+      "end": 5633.71,
+      "text": "You fancy a crack at the feature called Lie Back and Enjoy It?"
+    },
+    {
+      "start": 5633.81,
+      "end": 5636.47,
+      "text": "Up to 20 minutes, or 22 minutes if you like, of music."
+    },
+    {
+      "start": 5637.01,
+      "end": 5641.17,
+      "text": "Varied as possible, interesting as possible, but your choice, right?"
+    },
+    {
+      "start": 5641.71,
+      "end": 5645.07,
+      "text": "Send along your suggestion to Lie Back and Enjoy It."
+    },
+    {
+      "start": 5645.53,
+      "end": 5651.93,
+      "text": "The Friday Rock Show, BBC Radio 1, Broadcasting House, London, W1A4WW."
+    },
+    {
+      "start": 5652.39,
+      "end": 5653.39,
+      "text": "Lie Back and Enjoy It."
+    },
+    {
+      "start": 5653.85,
+      "end": 5658.61,
+      "text": "The Friday Rock Show, BBC Radio 1, Broadcasting House, London, W1A4WW."
+    },
+    {
+      "start": 5658.61,
+      "end": 5671.25,
+      "text": "your selection on the air you get a 12 pound record token and the delight of knowing that"
+    },
+    {
+      "start": 5671.25,
+      "end": 5674.97,
+      "text": "the rest of the nation who's into rock music that is because if they ain't they ain't listening to"
+    },
+    {
+      "start": 5674.97,
+      "end": 5681.75,
+      "text": "this you can bet your life actually do lie back and enjoy it huma is it h huma i think or huma"
+    },
+    {
+      "start": 5681.75,
+      "end": 5703.34,
+      "text": "600 quid oh dear okay who handed out the beer we have a song about the biggest fattest lady"
+    },
+    {
+      "start": 5703.34,
+      "end": 5717.82,
+      "text": "in the world and she's from a tasmanian devil 305 pounds and it's called a whole lot of rosie"
+    },
+    {
+      "start": 5721.6,
+      "end": 6256.18,
+      "text": "they are chariot the new album is called burning ambition it's just come out on the shades record"
+    },
+    {
+      "start": 6256.18,
+      "end": 6260.18,
+      "text": "label the tracking hope is called meet my match before that a version of a whole lot of rosie"
+    },
+    {
+      "start": 6260.18,
+      "end": 6266.1,
+      "text": "recorded back in 1978 by acdc from an album that was never commercially released the album was"
+    },
+    {
+      "start": 6266.1,
+      "end": 6269.78,
+      "text": "called live from the atlantic studios it was actually designed as a radio broadcast"
+    },
+    {
+      "start": 6269.78,
+      "end": 6272.48,
+      "text": "though it was pressed as a record, ACDC, eh?"
+    },
+    {
+      "start": 6272.54,
+      "end": 6274.46,
+      "text": "Six years ago, Ponscott died."
+    },
+    {
+      "start": 6274.7,
+      "end": 6275.42,
+      "text": "Here's to his memory."
+    },
+    {
+      "start": 6275.82,
+      "end": 6276.32,
+      "text": "Lovely fella."
+    },
+    {
+      "start": 6276.52,
+      "end": 6278.1,
+      "text": "Lunatic, drank too much, great singer."
+    },
+    {
+      "start": 6278.78,
+      "end": 6281.14,
+      "text": "I was reminded, of course, by, about the event,"
+    },
+    {
+      "start": 6281.28,
+      "end": 6283.16,
+      "text": "the unfortunate event, I remember it so well."
+    },
+    {
+      "start": 6283.68,
+      "end": 6284.2,
+      "text": "I really do."
+    },
+    {
+      "start": 6284.8,
+      "end": 6287.08,
+      "text": "I was reminded by Cy and Steve Butcher,"
+    },
+    {
+      "start": 6287.36,
+      "end": 6289.0,
+      "text": "who asked me to play a good track for them,"
+    },
+    {
+      "start": 6289.2,
+      "end": 6291.96,
+      "text": "and also by Miles Ellison of Reading,"
+    },
+    {
+      "start": 6292.56,
+      "end": 6293.82,
+      "text": "and who else wanted the ACDC?"
+    },
+    {
+      "start": 6293.82,
+      "end": 6297.64,
+      "text": "Wilson Logan, and wanted me to play it for Janie McPhail,"
+    },
+    {
+      "start": 6297.64,
+      "end": 6300.04,
+      "text": "episode 20th birthday on the 17th of Feb"
+    },
+    {
+      "start": 6300.04,
+      "end": 6302.86,
+      "text": "and finally for all the lads in Grenville House"
+    },
+    {
+      "start": 6302.86,
+      "end": 6304.82,
+      "text": "anything by ACDC or Iron Maiden"
+    },
+    {
+      "start": 6304.82,
+      "end": 6306.36,
+      "text": "from Legs Jenkins"
+    },
+    {
+      "start": 6306.36,
+      "end": 6308.1,
+      "text": "that was a great version of Hold Out a Rosie"
+    },
+    {
+      "start": 6308.1,
+      "end": 6309.2,
+      "text": "really was"
+    },
+    {
+      "start": 6309.2,
+      "end": 6310.7,
+      "text": "the final one by So What"
+    },
+    {
+      "start": 6310.7,
+      "end": 6311.96,
+      "text": "I'll Be Your Friend"
+    },
+    {
+      "start": 6311.96,
+      "end": 6702.45,
+      "text": "featuring Tony Iommi"
+    },
+    {
+      "start": 6702.45,
+      "end": 6704.27,
+      "text": "the album is called 7th Star"
+    },
+    {
+      "start": 6704.27,
+      "end": 6705.39,
+      "text": "the track there was turned to stone"
+    },
+    {
+      "start": 6705.39,
+      "end": 6706.31,
+      "text": "Glenn Hughes on the vocals"
+    },
+    {
+      "start": 6706.31,
+      "end": 6707.95,
+      "text": "before that you heard So What"
+    },
+    {
+      "start": 6707.95,
+      "end": 6709.01,
+      "text": "our session band of the evening"
+    },
+    {
+      "start": 6709.01,
+      "end": 6709.73,
+      "text": "they're from Scotland"
+    },
+    {
+      "start": 6709.73,
+      "end": 6711.47,
+      "text": "though they've been living down south for the last year"
+    },
+    {
+      "start": 6711.47,
+      "end": 6712.88,
+      "text": "of course I'll Be Your Friend"
+    },
+    {
+      "start": 6712.88,
+      "end": 6714.04,
+      "text": "little bit of details about them"
+    },
+    {
+      "start": 6714.04,
+      "end": 6715.44,
+      "text": "right they're going to tour with Spider"
+    },
+    {
+      "start": 6716.02,
+      "end": 6718.5,
+      "text": "The tour starts on the 12th of March, touring with Spider,"
+    },
+    {
+      "start": 6718.62,
+      "end": 6720.54,
+      "text": "including five or six gigs in Scotland."
+    },
+    {
+      "start": 6720.76,
+      "end": 6723.06,
+      "text": "I must say the band, So What, are looking forward to going back home"
+    },
+    {
+      "start": 6723.06,
+      "end": 6725.46,
+      "text": "and playing to all those mates of theirs up there."
+    },
+    {
+      "start": 6725.9,
+      "end": 6728.06,
+      "text": "They're also doing a gig tomorrow, Saturday,"
+    },
+    {
+      "start": 6728.62,
+      "end": 6731.18,
+      "text": "The Swan, in Fulham Broadway, in dear old London town."
+    },
+    {
+      "start": 6731.6,
+      "end": 6733.18,
+      "text": "That's the details about So What."
+    },
+    {
+      "start": 6733.32,
+      "end": 6734.84,
+      "text": "Thank you, Tom, thank you, Rod, thank you, Des,"
+    },
+    {
+      "start": 6735.18,
+      "end": 6736.62,
+      "text": "and thank you, Jerry, as well."
+    },
+    {
+      "start": 6737.46,
+      "end": 6738.36,
+      "text": "Queensreich here."
+    },
+    {
+      "start": 6738.96,
+      "end": 7181.32,
+      "text": "On the Atlantic record label, before that,"
+    },
+    {
+      "start": 7181.66,
+      "end": 7183.18,
+      "text": "Queensreich and Queen of the Reich,"
+    },
+    {
+      "start": 7183.4,
+      "end": 7185.38,
+      "text": "requested by Robert Barclay of White Cross,"
+    },
+    {
+      "start": 7185.38,
+      "end": 7191.54,
+      "text": "West Lothian in Scotland for his mates Magoo, Big Stevie, Charlie and Dave who always moans when we go to gigs."
+    },
+    {
+      "start": 7192.34,
+      "end": 7196.9,
+      "text": "Don't forget next Friday on Channel 4, next Friday on Channel 4, the Tube Heavy Rock Special."
+    },
+    {
+      "start": 7197.5,
+      "end": 7202.04,
+      "text": "Latest information is, though it could change, Aussie UFO and Cherry Bombs playing live."
+    },
+    {
+      "start": 7202.38,
+      "end": 7206.78,
+      "text": "Also you'll have Maiden Sabbath ACDC Bon Scott featuring there incidentally an old bit of film."
+    },
+    {
+      "start": 7207.18,
+      "end": 7211.04,
+      "text": "Zeppelin with the last Bonham interview and Rainbow, that's the crying top five."
+    },
+    {
+      "start": 7211.04,
+      "end": 7213.6,
+      "text": "some footage on Hendrix and Brian Jones,"
+    },
+    {
+      "start": 7213.96,
+      "end": 7217.0,
+      "text": "video film of Vow Wow Heart, Alcatraz and Brian Adams,"
+    },
+    {
+      "start": 7217.52,
+      "end": 7220.74,
+      "text": "all on Channel 4 next Friday, the Heavy Rock Special."
+    },
+    {
+      "start": 7221.56,
+      "end": 7223.52,
+      "text": "This has been the Friday Rock Show on BBC Radio 1,"
+    },
+    {
+      "start": 7223.56,
+      "end": 7226.18,
+      "text": "produced by Tony Wilson, who's made an instant editorial decision."
+    },
+    {
+      "start": 7226.64,
+      "end": 7229.76,
+      "text": "In the month of April, we'll play the whole of the ACDC,"
+    },
+    {
+      "start": 7230.18,
+      "end": 7232.58,
+      "text": "live at the Atlantic Studios set so there."
+    },
+    {
+      "start": 7233.56,
+      "end": 7235.66,
+      "text": "Hope you enjoyed the programme tonight."
+    },
+    {
+      "start": 7236.02,
+      "end": 7237.74,
+      "text": "Take great care of yourself in this cold weather."
+    },
+    {
+      "start": 7237.74,
+      "end": 7244.84,
+      "text": "in the midnight pips news on medium wave on fm stereo radio 2 i'm tommy vance i wish you well"
+    },
+    {
+      "start": 7244.84,
+      "end": 7246.08,
+      "text": "god bless good night"
     }
   ]
 }

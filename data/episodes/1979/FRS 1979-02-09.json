@@ -86,7 +86,9 @@
     {
       "artist": "The Yardbirds",
       "track": "Baby, Scratch My Back",
-      "details": "1966 Session"
+      "details": "1966 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "concerns you you re the"
     },
     {
       "artist": "McGuinn, Clark & Hillman",
@@ -323,22 +325,22 @@
     {
       "start": 1862.58,
       "end": 1875.17,
-      "text": "of number 62 zedland road i think it is london e3 5rb lots of communications about the other"
+      "text": "of number [redacted address] i think it is london e3 5rb lots of communications about the other"
     },
     {
       "start": 1875.17,
       "end": 1879.95,
-      "text": "session we got on the program tonight one from ian stephen of number 107 parklands drive"
+      "text": "session we got on the program tonight one from ian stephen of number [redacted address]"
     },
     {
       "start": 1879.95,
       "end": 1886.03,
-      "text": "loughborough in leicestershire vick phillips of chatham in kent and malcolm lomax flat 2 56"
+      "text": "loughborough in leicestershire vick phillips of chatham in kent and malcolm lomax"
     },
     {
       "start": 1886.03,
       "end": 1886.95,
-      "text": "Woodstock Road"
+      "text": "of [redacted address]"
     },
     {
       "start": 1886.95,
@@ -525,7 +527,7 @@
     {
       "start": 2949.2,
       "end": 2955.98,
-      "text": "especially for lj leonard of 84 stratford road stroud in gloucestershire and before that the"
+      "text": "especially for lj leonard of [redacted address] stroud in gloucestershire and before that the"
     },
     {
       "start": 2955.98,
@@ -545,7 +547,7 @@
     {
       "start": 2987.42,
       "end": 2993.78,
-      "text": "and the address is BBC Radio 1, Broadcasting House, London, W1A, for WW."
+      "text": "and the address is BBC Radio 1, Broadcasting House, London, W1A, 4WW."
     },
     {
       "start": 2994.54,
@@ -554,39 +556,14 @@
     },
     {
       "start": 3001.68,
-      "end": 3420.61,
+      "end": 3142.61,
       "text": "[Music]",
       "type": "music"
     },
     {
-      "start": 3033.79,
-      "end": 3038.88,
-      "text": "Consents you, you're the only one can help."
-    },
-    {
-      "start": 3039.98,
-      "end": 3057.8,
-      "text": "I need you too, oh you can do it."
-    },
-    {
-      "start": 3057.92,
-      "end": 3063.22,
-      "text": "Don't turn me back, babe, just scratch my back, babe."
-    },
-    {
-      "start": 3063.22,
-      "end": 3125.2,
-      "text": "But you could do it, do it if you tried."
-    },
-    {
-      "start": 3125.38,
-      "end": 3143.5,
-      "text": "come along baby tonight make me feel all right baby come along tonight turn me around now"
-    },
-    {
       "start": 3143.5,
       "end": 3154.3,
-      "text": "come along baby good track from three old timers mcguinn clark and hillman with a track from the"
+      "text": "good track from three old timers mcguinn clark and hillman with a track from the"
     },
     {
       "start": 3425.61,
@@ -621,7 +598,7 @@
     {
       "start": 3483.78,
       "end": 3490.72,
-      "text": "tell you a gentleman by the name of nigel woolen of 34 christina crescent high cross newport in"
+      "text": "tell you a gentleman by the name of nigel woolen of [redacted address] high cross newport in"
     },
     {
       "start": 3490.72,

@@ -22,32 +22,38 @@
     {
       "artist": "Blizzard Of Ozz",
       "track": "Flying High Again",
-      "details": "LP - Diary Of A Madman"
+      "details": "LP - Diary Of A Madman",
+      "verified_timestamp": 623.75
     },
     {
       "artist": "Black Sabbath",
       "track": "E5150 / The Mob Rules",
-      "details": "LP - The Mob Rules"
+      "details": "LP - The Mob Rules",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Bernie Marsden and Friends",
       "track": "Shakey Ground",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 687.94
     },
     {
       "artist": "Camel",
       "track": "The Evensong",
-      "details": "LP - Camelion"
+      "details": "LP - Camelion",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Comfortably Numb",
-      "details": "LP - The Wall"
+      "details": "LP - The Wall",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Hawkwind",
       "track": "Streets Of Fear",
-      "details": "LP - Sonic Attack"
+      "details": "LP - Sonic Attack",
+      "verified_timestamp": 2048.21
     },
     {
       "artist": "Bernie Marsden and Friends",
@@ -57,7 +63,8 @@
     {
       "artist": "Grim Reaper",
       "track": "The Reaper",
-      "details": "LP - Heavy Metal Heroes"
+      "details": "LP - Heavy Metal Heroes",
+      "verified_timestamp": 2131.51
     },
     {
       "artist": "Byron Band",
@@ -72,7 +79,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3216.46
     },
     {
       "artist": "Bernie Marsden and Friends",
@@ -82,7 +90,8 @@
     {
       "artist": "Rossington Collins Band",
       "track": "Gonna Miss It When Its Gone (LP - This Is The Way) MCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5102.58
     },
     {
       "artist": "Gillan",

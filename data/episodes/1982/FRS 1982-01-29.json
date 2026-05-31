@@ -19,42 +19,50 @@
     {
       "artist": "UFO",
       "track": "We Belong To The Night",
-      "details": "LP-Mechanix; Chrysalis"
+      "details": "LP-Mechanix; Chrysalis",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "UFO",
       "track": "Let It Rain",
-      "details": "LP-Mechanix; Chrysalis"
+      "details": "LP-Mechanix; Chrysalis",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Raven",
       "track": "Hard Ride",
-      "details": "FRS session 1982-01-15"
+      "details": "FRS session 1982-01-15",
+      "verified_timestamp": 539.5
     },
     {
       "artist": "ZZ Top",
       "track": "Dust My Broom",
-      "details": "LP-Deguello; Warner Bros"
+      "details": "LP-Deguello; Warner Bros",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Revolver",
       "track": "Contact",
-      "details": "LP-First Shot; Polydor"
+      "details": "LP-First Shot; Polydor",
+      "verified_timestamp": 1674.45
     },
     {
       "artist": "Steve Miller",
       "track": "Macho City",
-      "details": "7\" Single; Mercury"
+      "details": "7\" Single; Mercury",
+      "verified_timestamp": 1293.72
     },
     {
       "artist": "Jethro Tull",
       "track": "Minstrel In The Gallery",
-      "details": "LP-Minstrel in the Gallery; Chrysalis"
+      "details": "LP-Minstrel in the Gallery; Chrysalis",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Jethro Tull",
       "track": "Cold Wind To Valhalla",
-      "details": "LP-Minstrel in the Gallery; Chrysalis"
+      "details": "LP-Minstrel in the Gallery; Chrysalis",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Raven",
@@ -64,12 +72,14 @@
     {
       "artist": "Black Sabbath",
       "track": "Turn Up The Night",
-      "details": "12\" Single; Vertigo"
+      "details": "12\" Single; Vertigo",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 59.63
     },
     {
       "artist": "UFO",
@@ -79,7 +89,8 @@
     {
       "artist": "Al Di Meola",
       "track": "Electric Rendezvous",
-      "details": "LP-Electric Rendezvous; Columbia"
+      "details": "LP-Electric Rendezvous; Columbia",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Raven",
@@ -89,17 +100,20 @@
     {
       "artist": "Free",
       "track": "Wishing Well",
-      "details": "LP-Heartbreaker; Island"
+      "details": "LP-Heartbreaker; Island",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Jethro Tull",
       "track": "Black Satin Dancer",
-      "details": "LP-Minstrel in the Gallery; Chrysalis"
+      "details": "LP-Minstrel in the Gallery; Chrysalis",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Jethro Tull",
       "track": "The Chequered Flag",
-      "details": "Dead or Alive; LP-Too Old To Rock'n'Roll: Too Young To Die ; Chrysalis"
+      "details": "Dead or Alive; LP-Too Old To Rock'n'Roll: Too Young To Die ; Chrysalis",
+      "verified_timestamp": 5569.96
     },
     {
       "artist": "Raven",
@@ -109,12 +123,14 @@
     {
       "artist": "Motley Crue",
       "track": "Public Enemy Number 1",
-      "details": "LP-Too Fast For Love; Leathur"
+      "details": "LP-Too Fast For Love; Leathur",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Sammy Hagar",
       "track": "Heavy Metal",
-      "details": "LP-Standing Hampton; Geffen"
+      "details": "LP-Standing Hampton; Geffen",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

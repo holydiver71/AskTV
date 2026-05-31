@@ -37,7 +37,8 @@
     {
       "artist": "Severed Head",
       "track": "Heavy Metal Rock",
-      "details": "FRS Session; Single release A side Plastic Canvas records"
+      "details": "FRS Session; Single release A side Plastic Canvas records",
+      "verified_timestamp": 1120.53
     },
     {
       "artist": "Rose Tattoo",
@@ -47,7 +48,8 @@
     {
       "artist": "Joe Cocker & The Grease Band",
       "track": "With A Little Help From My Friends",
-      "details": "Archive session"
+      "details": "Archive session",
+      "verified_timestamp": 2259.27
     },
     {
       "artist": "Joe Cocker & The Grease Band",
@@ -72,17 +74,20 @@
     {
       "artist": "Severed Head",
       "track": "God Of My Father",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1120.53
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.88
     },
     {
       "artist": "Severed Head",
       "track": "Killing The Kidz",
-      "details": "FRS Session; Single Release B side Plastic Canvas records"
+      "details": "FRS Session; Single Release B side Plastic Canvas records",
+      "verified_timestamp": 1120.53
     },
     {
       "artist": "Terraplane",
@@ -92,7 +97,8 @@
     {
       "artist": null,
       "track": "Staff Selection -",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5053.04
     },
     {
       "artist": "Montrose",
@@ -127,12 +133,14 @@
     {
       "artist": "Pink Floyd",
       "track": "The Post War Dream",
-      "details": "LP-The Final Cut; Harvest"
+      "details": "LP-The Final Cut; Harvest",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Your Possible Pasts",
-      "details": "LP-The Final Cut; Harvest"
+      "details": "LP-The Final Cut; Harvest",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

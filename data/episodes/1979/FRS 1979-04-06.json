@@ -113,7 +113,9 @@
     {
       "artist": "Cream",
       "track": "Four Until Late",
-      "details": "Saturday Club 1967-01-10"
+      "details": "Saturday Club 1967-01-10",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "when i leave this town"
     },
     {
       "artist": "Cream",
@@ -133,7 +135,9 @@
     {
       "artist": "Cream",
       "track": "Tales Of Brave Ulysses",
-      "details": "Saturday Club 1967-05-30"
+      "details": "Saturday Club 1967-05-30",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "upon a steamer to the"
     },
     {
       "artist": "Cream",

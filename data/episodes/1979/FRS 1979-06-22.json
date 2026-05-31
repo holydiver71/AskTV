@@ -22,7 +22,9 @@
       "artist": "Led Zeppelin",
       "track": "Kashmir",
       "details": "LP-Physical Grafitti",
-      "verified_timestamp": 180.0
+      "verified_timestamp": 180.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i m on my way"
     },
     {
       "artist": "Kiss",
@@ -81,7 +83,9 @@
       "artist": "Joni Mitchell",
       "track": "Dry Cleaner From Des Moines",
       "details": "LP-Mingus",
-      "verified_timestamp": 4860.0
+      "verified_timestamp": 4860.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the dry cleaner from des"
     },
     {
       "artist": "Hot Tuna",
@@ -93,17 +97,23 @@
       "artist": "Genesis",
       "track": "Twilight Alehouse",
       "details": "Peel Session 1972-09-25",
-      "verified_timestamp": 1094.85
+      "verified_timestamp": 1094.85,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "what they re saying are"
     },
     {
       "artist": "Genesis",
       "track": "Get Them Out By Friday",
-      "details": "Peel Session 1972-09-25"
+      "details": "Peel Session 1972-09-25",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i can t believe oh"
     },
     {
       "artist": "Genesis",
       "track": "Watcher Of The Skies",
-      "details": "Peel Session 1972-09-25"
+      "details": "Peel Session 1972-09-25",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "do they play elsewhere do"
     },
     {
       "artist": "Def Leppard",
@@ -464,201 +474,6 @@
       "text": "competition so see if you can spot this connection"
     },
     {
-      "start": 3620.52,
-      "end": 3631.32,
-      "text": "like a gentle cobweb hanging upon a painted teepee oh i went to see my chieftain with my"
-    },
-    {
-      "start": 3973.02,
-      "end": 3975.52,
-      "text": "wall and send my woman"
-    },
-    {
-      "start": 3975.52,
-      "end": 3977.38,
-      "text": "for he told us"
-    },
-    {
-      "start": 3977.38,
-      "end": 3979.52,
-      "text": "that the yellow moon"
-    },
-    {
-      "start": 3979.52,
-      "end": 3981.18,
-      "text": "would very soon"
-    },
-    {
-      "start": 3981.18,
-      "end": 3982.5,
-      "text": "be leaving"
-    },
-    {
-      "start": 3982.5,
-      "end": 3986.74,
-      "text": "this I can't"
-    },
-    {
-      "start": 3986.74,
-      "end": 3988.5,
-      "text": "believe I said"
-    },
-    {
-      "start": 3988.5,
-      "end": 3990.7,
-      "text": "I can't believe our"
-    },
-    {
-      "start": 3990.7,
-      "end": 3992.82,
-      "text": "warlord's dead"
-    },
-    {
-      "start": 3992.82,
-      "end": 3995.53,
-      "text": "oh we will not"
-    },
-    {
-      "start": 3995.53,
-      "end": 3997.67,
-      "text": "leave the chosen ones"
-    },
-    {
-      "start": 3997.67,
-      "end": 3999.05,
-      "text": "to the buzzards"
-    },
-    {
-      "start": 3999.05,
-      "end": 4001.75,
-      "text": "and the soldiers guns"
-    },
-    {
-      "start": 4001.75,
-      "end": 4003.33,
-      "text": "oh"
-    },
-    {
-      "start": 4003.33,
-      "end": 4020.03,
-      "text": "Oh, great father of the Iroquois, ever since I was young, I've read the writing of the smoke and breastfed on the sound of drums."
-    },
-    {
-      "start": 4020.03,
-      "end": 4024.87,
-      "text": "I've learned to hurl the tomahawk"
-    },
-    {
-      "start": 4024.87,
-      "end": 4028.71,
-      "text": "And ride a painted pony wild"
-    },
-    {
-      "start": 4028.71,
-      "end": 4033.45,
-      "text": "Run the gauntlet of the zoo"
-    },
-    {
-      "start": 4033.45,
-      "end": 4037.97,
-      "text": "To make a chieftain's daughter mine"
-    },
-    {
-      "start": 4037.97,
-      "end": 4042.57,
-      "text": "I should watch"
-    },
-    {
-      "start": 4042.57,
-      "end": 4046.72,
-      "text": "Face be slowly crushed"
-    },
-    {
-      "start": 4046.72,
-      "end": 4051.08,
-      "text": "Kind words are these to hear"
-    },
-    {
-      "start": 4051.08,
-      "end": 4053.28,
-      "text": "From yellow dog"
-    },
-    {
-      "start": 4053.28,
-      "end": 4056.08,
-      "text": "Who my white man fear"
-    },
-    {
-      "start": 4056.08,
-      "end": 4141.48,
-      "text": "Pride's pride in the falls of our sun"
-    },
-    {
-      "start": 4141.48,
-      "end": 4150.06,
-      "text": "Let suns sing in the hills of gold"
-    },
-    {
-      "start": 4150.06,
-      "end": 4173.68,
-      "text": "And the heat acts in the sand"
-    },
-    {
-      "start": 4270.91,
-      "end": 4279.29,
-      "text": "I can find a home"
-    },
-    {
-      "start": 4279.29,
-      "end": 4282.96,
-      "text": "It's lonely and it's quiet"
-    },
-    {
-      "start": 4283.95,
-      "end": 4286.63,
-      "text": "And the horse soldiers are coming"
-    },
-    {
-      "start": 4286.63,
-      "end": 4291.0,
-      "text": "And I think it's time I strung my bow"
-    },
-    {
-      "start": 4291.0,
-      "end": 4294.36,
-      "text": "And ceased my senseless running"
-    },
-    {
-      "start": 4294.36,
-      "end": 4300.19,
-      "text": "For soon I'll find the yellow moon"
-    },
-    {
-      "start": 4300.19,
-      "end": 4303.43,
-      "text": "Along with my loved ones"
-    },
-    {
-      "start": 4303.43,
-      "end": 4307.68,
-      "text": "Where the buffaloes graze in clover fields"
-    },
-    {
-      "start": 4307.68,
-      "end": 4310.62,
-      "text": "Without the sound of guns"
-    },
-    {
-      "start": 4310.62,
-      "end": 4317.5,
-      "text": "And the red suns into the hills of gold"
-    },
-    {
-      "start": 4317.5,
-      "end": 4321.13,
-      "text": "With this young warrior"
-    },
-    {
       "start": 4321.13,
       "end": 4326.53,
       "text": "Friday Night Connection is set by this week's winner,"
@@ -754,31 +569,6 @@
       "text": "and his voice, as well as his music, appears on the album."
     },
     {
-      "start": 4792.82,
-      "end": 4794.84,
-      "text": "I've never had it too hard, you know."
-    },
-    {
-      "start": 4795.54,
-      "end": 4799.64,
-      "text": "All my life, you know, everything I touch turned to gold."
-    },
-    {
-      "start": 4799.64,
-      "end": 4802.64,
-      "text": "I'm not rich, but, you know,"
-    },
-    {
-      "start": 4802.7,
-      "end": 4804.56,
-      "text": "I've always had some dollars in my pockets."
-    },
-    {
-      "start": 4845.58,
-      "end": 4849.18,
-      "text": "I hope you like Hot Tuna,"
-    },
-    {
       "start": 4860.0,
       "end": 5251.98,
       "text": "[Music]",
@@ -863,167 +653,6 @@
       "start": 5297.44,
       "end": 5299.58,
       "text": "First, it's the Twilight Alehouse."
-    },
-    {
-      "start": 5300.1,
-      "end": 5315.59,
-      "text": "What they're saying, are you really sure?"
-    },
-    {
-      "start": 5316.57,
-      "end": 5320.39,
-      "text": "There's nobody come for me."
-    },
-    {
-      "start": 5321.71,
-      "end": 5333.13,
-      "text": "There is no one."
-    },
-    {
-      "start": 5333.13,
-      "end": 5338.42,
-      "text": "Once there was a house full of laughter"
-    },
-    {
-      "start": 5338.42,
-      "end": 5353.42,
-      "text": "So I'll pretend there is someone"
-    },
-    {
-      "start": 5353.42,
-      "end": 5358.74,
-      "text": "Someone who will care when I need it"
-    },
-    {
-      "start": 5358.74,
-      "end": 5364.84,
-      "text": "I will now receive my comfort"
-    },
-    {
-      "start": 5364.84,
-      "end": 5372.33,
-      "text": "I'm drunk, but it's just a drink"
-    },
-    {
-      "start": 5372.33,
-      "end": 5375.75,
-      "text": "I let out drink and I'm feeling good"
-    },
-    {
-      "start": 5375.75,
-      "end": 5382.79,
-      "text": "A land of dreams and I'm feeling fine"
-    },
-    {
-      "start": 5382.79,
-      "end": 5387.99,
-      "text": "Just a dream, my sorrow"
-    },
-    {
-      "start": 5387.99,
-      "end": 5391.29,
-      "text": "Just a dream, a new game tomorrow"
-    },
-    {
-      "start": 5391.29,
-      "end": 5396.51,
-      "text": "Just a dream, tell me then"
-    },
-    {
-      "start": 5396.51,
-      "end": 5409.69,
-      "text": "Walk outside, there is nowhere"
-    },
-    {
-      "start": 5409.69,
-      "end": 5414.84,
-      "text": "Children follow me with their laughter"
-    },
-    {
-      "start": 5414.84,
-      "end": 5427.65,
-      "text": "So cold, casting just a glance"
-    },
-    {
-      "start": 5427.65,
-      "end": 5430.26,
-      "text": "At the churchyard"
-    },
-    {
-      "start": 5430.26,
-      "end": 5432.81,
-      "text": "Casting just a glance"
-    },
-    {
-      "start": 5432.81,
-      "end": 5437.82,
-      "text": "At my painted female friends"
-    },
-    {
-      "start": 5437.82,
-      "end": 5448.21,
-      "text": "Now I'm on my way"
-    },
-    {
-      "start": 5448.21,
-      "end": 5450.76,
-      "text": "I am falling"
-    },
-    {
-      "start": 5450.76,
-      "end": 5453.04,
-      "text": "Got the fine smell"
-    },
-    {
-      "start": 5453.04,
-      "end": 5456.72,
-      "text": "I need that now"
-    },
-    {
-      "start": 5456.72,
-      "end": 5461.96,
-      "text": "I will now receive my comfort"
-    },
-    {
-      "start": 5461.96,
-      "end": 5468.22,
-      "text": "Conjured by the magic of Hawaii"
-    },
-    {
-      "start": 5468.22,
-      "end": 5496.08,
-      "text": "Just a drink, a leg of drink, and I'm feeling good. A leg of drink, and I'm feeling fine. Just a drink, my sorrow. Just a drink, I do to make me feel like I've come down."
-    },
-    {
-      "start": 5496.08,
-      "end": 5502.68,
-      "text": "...their duty to inform you, the forethought, restriction, and human rights..."
-    },
-    {
-      "start": 5502.68,
-      "end": 6525.74,
-      "text": "[Music]",
-      "type": "music"
-    },
-    {
-      "start": 6188.48,
-      "end": 6210.88,
-      "text": "...have been buying all the properties that have recently been sold..."
-    },
-    {
-      "start": 6210.88,
-      "end": 6214.48,
-      "text": "...they can fit twice as many..."
-    },
-    {
-      "start": 6512.76,
-      "end": 6525.74,
-      "text": "...and let soil come to an again destroyed life..."
-    },
-    {
-      "start": 6525.74,
-      "end": 6528.86,
-      "text": "...do they play elsewhere, do they know..."
     },
     {
       "start": 6528.86,

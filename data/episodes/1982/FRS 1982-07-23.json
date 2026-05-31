@@ -20,7 +20,8 @@
     {
       "artist": "Baron Rojo",
       "track": "Rockers Go To Hell",
-      "details": "LP - Volumen Brutal"
+      "details": "LP - Volumen Brutal",
+      "verified_timestamp": 619.03
     },
     {
       "artist": "Mayday",
@@ -55,12 +56,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.43
     },
     {
       "artist": null,
       "track": "Pink Floyd - Dark Side of The Moon at Wembley on 16th November 1974",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6986.3
     }
   ],
   "transcript": [

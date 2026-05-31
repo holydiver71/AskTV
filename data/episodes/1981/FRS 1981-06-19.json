@@ -23,42 +23,50 @@
     {
       "artist": "Billy Squier",
       "track": "In The Dark",
-      "details": "LP-Don't Say No; Capitol"
+      "details": "LP-Don't Say No; Capitol",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "More",
       "track": "Fire",
-      "details": "LP-Warhead; Atlantic"
+      "details": "LP-Warhead; Atlantic",
+      "verified_timestamp": 66.98
     },
     {
       "artist": "Rick Wakeman",
       "track": "War Games",
-      "details": "LP-1984; Charisma"
+      "details": "LP-1984; Charisma",
+      "verified_timestamp": 1464.33
     },
     {
       "artist": "Neil Young",
       "track": "Like A Hurricane",
-      "details": "LP-American Stars And Bars; Reprise"
+      "details": "LP-American Stars And Bars; Reprise",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Spider",
       "track": "'What You're Doing To Me'",
-      "details": "FRS session 1981-06-10"
+      "details": "FRS session 1981-06-10",
+      "verified_timestamp": 1520.64
     },
     {
       "artist": "Joe Vitale",
       "track": "Lady On The Rock",
-      "details": "LP-Plantation Harbor; Asylum"
+      "details": "LP-Plantation Harbor; Asylum",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Joe Vitale",
       "track": "Bamboo Jungle",
-      "details": "LP-Plantation Harbor; Asylum"
+      "details": "LP-Plantation Harbor; Asylum",
+      "verified_timestamp": 2337.52
     },
     {
       "artist": "The Who",
       "track": "Radio 1 Jingles",
-      "details": "Top Gear session 1967-10-10"
+      "details": "Top Gear session 1967-10-10",
+      "verified_timestamp": 574.38
     },
     {
       "artist": "The Who",
@@ -78,7 +86,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 55.0
     },
     {
       "artist": "Spider",
@@ -93,12 +102,14 @@
     {
       "artist": "Vangelis",
       "track": "Pulstar",
-      "details": "LP-Albedo 0.39; RCA"
+      "details": "LP-Albedo 0.39; RCA",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Peter Hammill",
       "track": "Breakthrough",
-      "details": "LP-Sitting Targets; Virgin"
+      "details": "LP-Sitting Targets; Virgin",
+      "verified_timestamp": 5695.91
     },
     {
       "artist": "The Who",
@@ -108,7 +119,8 @@
     {
       "artist": "The Who",
       "track": "The Seeker",
-      "details": "DLT session 1970-04-13"
+      "details": "DLT session 1970-04-13",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Diamond Head",
@@ -118,7 +130,8 @@
     {
       "artist": "Scorpions",
       "track": "Leave Me",
-      "details": "LP-Lonesome Crow; Brain"
+      "details": "LP-Lonesome Crow; Brain",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Motorhead",

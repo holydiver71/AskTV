@@ -37,7 +37,8 @@
     {
       "artist": null,
       "track": "Enid 'In the Region Of The Summer Stars' (FRS Session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1688.73
     },
     {
       "artist": null,
@@ -47,7 +48,8 @@
     {
       "artist": null,
       "track": "Twisted Sister 'The Kids Are Back' (LP-You Can't Stop Rock N Roll) Atlantic",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2880.04
     },
     {
       "artist": null,
@@ -72,7 +74,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.01
     },
     {
       "artist": null,
@@ -87,12 +90,14 @@
     {
       "artist": null,
       "track": "Enid 'Something Wicked This Way Comes' (FRS Session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5307.88
     },
     {
       "artist": null,
       "track": "Muddy Waters 'Long Distance Call'",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5900.42
     },
     {
       "artist": null,

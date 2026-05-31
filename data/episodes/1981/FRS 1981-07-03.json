@@ -22,12 +22,14 @@
     {
       "artist": "Rose Tattoo",
       "track": "Nice Boys",
-      "details": "FRS session 1981-04-22"
+      "details": "FRS session 1981-04-22",
+      "verified_timestamp": 1093.5
     },
     {
       "artist": "AC DC",
       "track": "Let There Be Rock",
-      "details": "LP-Let There Be Rock; Atlantic"
+      "details": "LP-Let There Be Rock; Atlantic",
+      "verified_timestamp": 1106.36
     },
     {
       "artist": "Rose Tattoo",
@@ -37,12 +39,14 @@
     {
       "artist": "Johnny Warman",
       "track": "Fantastic Light",
-      "details": "LP-Walking Into Mirrors; Rocket"
+      "details": "LP-Walking Into Mirrors; Rocket",
+      "verified_timestamp": 1882.81
     },
     {
       "artist": "Led Zeppelin",
       "track": "Hots On For Nowhere",
-      "details": "LP-Presence; Swan Song"
+      "details": "LP-Presence; Swan Song",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Gentle Giant",
@@ -52,12 +56,14 @@
     {
       "artist": "Heritage",
       "track": "Strange Place To Be",
-      "details": "7\" Single from Remorse Code; Rondelet"
+      "details": "7\" Single from Remorse Code; Rondelet",
+      "verified_timestamp": 2875.04
     },
     {
       "artist": "Blackfoot",
       "track": "Seachin",
-      "details": "LP-Marauder; ATCO"
+      "details": "LP-Marauder; ATCO",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Rose Tattoo",
@@ -67,17 +73,20 @@
     {
       "artist": "Black Sabbath",
       "track": "Sabbath Bloody Sabbath",
-      "details": "LP-Sabbath Bloody Sabbath; WWA Records"
+      "details": "LP-Sabbath Bloody Sabbath; WWA Records",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.41
     },
     {
       "artist": "Saxon",
       "track": "Never Surrender",
-      "details": "7\" Single; Carrere"
+      "details": "7\" Single; Carrere",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Rose Tattoo",
@@ -87,7 +96,8 @@
     {
       "artist": "Gentle Giant",
       "track": "Cogs In Cogs",
-      "details": "Peel session 1974-12-10"
+      "details": "Peel session 1974-12-10",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Gentle Giant",
@@ -97,17 +107,20 @@
     {
       "artist": "Blue Öyster Cult",
       "track": "Fire of Unknown Origin",
-      "details": "LP-Fire of Unknown Origin"
+      "details": "LP-Fire of Unknown Origin",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Yes",
       "track": "Long Distance Runaround",
-      "details": "LP-Fragile"
+      "details": "LP-Fragile",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Yes",
       "track": "The Fish",
-      "details": "Schindleria Praematurus; LP-Fragile"
+      "details": "Schindleria Praematurus; LP-Fragile",
+      "verified_timestamp": 3582.42
     },
     {
       "artist": "Bitches Sin",

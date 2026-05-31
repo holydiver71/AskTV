@@ -21,17 +21,20 @@
     {
       "artist": "Rainbow",
       "track": "I Surrender",
-      "details": "7\"; Polydor"
+      "details": "7\"; Polydor",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Michael Schenker Group",
       "track": "Lost Horizons",
-      "details": "LP-The Michael Schenker Group; Chrysalis"
+      "details": "LP-The Michael Schenker Group; Chrysalis",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Queen",
       "track": "Spread Your Wings",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 734.82
     },
     {
       "artist": "Dedringer",
@@ -41,7 +44,8 @@
     {
       "artist": "Camel",
       "track": "Dunkirk",
-      "details": "LP-The Snow Goose; Gama / Decca"
+      "details": "LP-The Snow Goose; Gama / Decca",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "White Spirit",
@@ -51,37 +55,44 @@
     {
       "artist": "Queen",
       "track": "We Will Rock You",
-      "details": "Peel Session; played by accident"
+      "details": "Peel Session; played by accident",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Krokus",
       "track": "'She's Got Everything'",
-      "details": "advance tape of Hardware"
+      "details": "advance tape of Hardware",
+      "verified_timestamp": 2062.14
     },
     {
       "artist": "Santana",
       "track": "Song Of The Wind",
-      "details": "LP-Caravanserai; CBS"
+      "details": "LP-Caravanserai; CBS",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Uriah Heep",
       "track": "Think It Over",
-      "details": "7\"; Bronze"
+      "details": "7\"; Bronze",
+      "verified_timestamp": 3154.66
     },
     {
       "artist": "White Spirit",
       "track": "Midnight Chaser",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Black Sabbath",
       "track": "Gypsy",
-      "details": "LP-Technical Ecstasy; Vertigo"
+      "details": "LP-Technical Ecstasy; Vertigo",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.16
     },
     {
       "artist": "Queen",
@@ -91,7 +102,8 @@
     {
       "artist": "UFO",
       "track": "Lonely Heart",
-      "details": "7\"; Chrysalis"
+      "details": "7\"; Chrysalis",
+      "verified_timestamp": 5830.02
     },
     {
       "artist": "White Spirit",
@@ -101,12 +113,14 @@
     {
       "artist": "Phil Collins",
       "track": "In The Air Tonight",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Yes",
       "track": "Does It Really Happen?",
-      "details": "LP-Drama; Atlantic"
+      "details": "LP-Drama; Atlantic",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Queen",

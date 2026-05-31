@@ -23,42 +23,50 @@
     {
       "artist": "Ratt",
       "track": "Lack Of Communication",
-      "details": "LP-Out Of The Cellar; Atlantic"
+      "details": "LP-Out Of The Cellar; Atlantic",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Warlock",
       "track": "Without You",
-      "details": "7\"; Mausoleum"
+      "details": "7\"; Mausoleum",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Hanoi Rocks",
       "track": "'Don't You Ever Leave Me'",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 3077.83
     },
     {
       "artist": "Foreigner",
       "track": "Tooth And Nail",
-      "details": "LP-Agent Provocateur; Atlantic"
+      "details": "LP-Agent Provocateur; Atlantic",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Gillan",
       "track": "Mutually Assured Destruction",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 1366.92
     },
     {
       "artist": "TKO",
       "track": "End Of The Line",
-      "details": "LP-In Your Face; Roadrunner"
+      "details": "LP-In Your Face; Roadrunner",
+      "verified_timestamp": 1916.01
     },
     {
       "artist": "Iron Maiden",
       "track": "Aces High",
-      "details": "7\"; EMI"
+      "details": "7\"; EMI",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Bob Dylan",
       "track": "I And I",
-      "details": "LP-Real Live; CBS"
+      "details": "LP-Real Live; CBS",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Who",
@@ -73,27 +81,32 @@
     {
       "artist": "Virgin Star",
       "track": "When The Reds",
-      "details": "7\"; Official"
+      "details": "7\"; Official",
+      "verified_timestamp": 3634.22
     },
     {
       "artist": "Bryan Adams",
       "track": "Kids Wanna Rock",
-      "details": "LP-Reckless; A&M"
+      "details": "LP-Reckless; A&M",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "John Parr",
       "track": "Treat Me Like An Animal",
-      "details": "LP-John Parr; Atlantic"
+      "details": "LP-John Parr; Atlantic",
+      "verified_timestamp": 4088.61
     },
     {
       "artist": "UFO",
       "track": "Love To Love",
-      "details": "LP-Lights Out; Chrysalis"
+      "details": "LP-Lights Out; Chrysalis",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Terraplane",
       "track": "'I Can't Live Without Your Love (7\")' (Epic)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4797.15
     },
     {
       "artist": "Hanoi Rocks",
@@ -103,12 +116,14 @@
     {
       "artist": "Warlord",
       "track": "Aliens",
-      "details": "LP-And The Cannons Of Destruction Have Begun...; Roadrunner"
+      "details": "LP-And The Cannons Of Destruction Have Begun...; Roadrunner",
+      "verified_timestamp": 5340.94
     },
     {
       "artist": "Jan Akkerman",
       "track": "Headbanger",
-      "details": "LP-From The Basement; CBS"
+      "details": "LP-From The Basement; CBS",
+      "verified_timestamp": 935.82
     },
     {
       "artist": "Metallica",

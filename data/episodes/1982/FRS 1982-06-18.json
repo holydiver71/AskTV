@@ -29,7 +29,8 @@
     {
       "artist": "Tytan",
       "track": "The Watcher",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 571.76
     },
     {
       "artist": "Kiss",
@@ -39,7 +40,8 @@
     {
       "artist": "Greenslade",
       "track": "Bedside Manners Are Extra",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1148.99
     },
     {
       "artist": "Greenslade",
@@ -64,12 +66,14 @@
     {
       "artist": "Hawkwind",
       "track": "Looking In The Future (LP - Church Of Hawkwind) RCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3080.43
     },
     {
       "artist": "Vanilla Fudge",
       "track": "You Keep Me Hanging On (LP - Vanilla Fudge) ATCO",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3159.07
     },
     {
       "artist": "Diamond Head",
@@ -94,7 +98,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 62.62
     },
     {
       "artist": "Tytan",

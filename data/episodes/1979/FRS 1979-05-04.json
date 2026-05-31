@@ -19,27 +19,32 @@
     {
       "artist": "Santana",
       "track": "Open Invitation",
-      "details": "LP-Inner Secrets"
+      "details": "LP-Inner Secrets",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Motorhead",
       "track": "Damage Case",
-      "details": "LP-Overkill"
+      "details": "LP-Overkill",
+      "verified_timestamp": 548.68
     },
     {
       "artist": "Patti Smith",
       "track": "Revenge",
-      "details": "LP-Wave"
+      "details": "LP-Wave",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Queen",
       "track": "Brighton Rock",
-      "details": "LP-Sheer Heart Attack"
+      "details": "LP-Sheer Heart Attack",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Joe Walsh",
       "track": "In The City",
-      "details": "LP-Warriors Soundtrack"
+      "details": "LP-Warriors Soundtrack",
+      "verified_timestamp": 1809.64
     },
     {
       "artist": "Vangelis",
@@ -49,12 +54,14 @@
     {
       "artist": "Roxy Music",
       "track": "The Bob",
-      "details": "A Medley; Peel Session 1972-01-04"
+      "details": "A Medley; Peel Session 1972-01-04",
+      "verified_timestamp": 1830.37
     },
     {
       "artist": "Roxy Music",
       "track": "Would You Believe",
-      "details": "Peel Session 1972-01-04"
+      "details": "Peel Session 1972-01-04",
+      "verified_timestamp": 1830.37
     },
     {
       "artist": "Roxy Music",
@@ -64,27 +71,34 @@
     {
       "artist": "Journey",
       "track": "Lady Luck",
-      "details": "LP-Evolution"
+      "details": "LP-Evolution",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Elvis Costello",
       "track": "Accidents Will Happen",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 59.93
     },
     {
       "artist": "Link Wray",
       "track": "'It's All Over Now Baby Blue'",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "it s all over now",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Nina Hagen Band",
       "track": "TV Glotzer",
-      "details": "White Punks On Dope; LP-Nina Hagen Band"
+      "details": "White Punks On Dope; LP-Nina Hagen Band",
+      "verified_timestamp": 4751.65
     },
     {
       "artist": "Roxy Music",
@@ -94,7 +108,8 @@
     {
       "artist": "Roxy Music",
       "track": "Pyjamarama",
-      "details": "Peel Session 1973-03-05"
+      "details": "Peel Session 1973-03-05",
+      "verified_timestamp": 1830.37
     },
     {
       "artist": "Roxy Music",
@@ -109,12 +124,14 @@
     {
       "artist": "Lynyrd Skynyrd",
       "track": "'Tuesday's Gone'",
-      "details": "LP-Pronounced"
+      "details": "LP-Pronounced",
+      "verified_timestamp": 6321.78
     },
     {
       "artist": "Graham Parker",
       "track": "Local Girls",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 6525.51
     },
     {
       "artist": "Nina Hagen Band",
@@ -124,12 +141,14 @@
     {
       "artist": "Regulars",
       "track": "'Fool's Game'",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 6998.54
     },
     {
       "artist": "UFO",
       "track": "Shoot Shoot",
-      "details": "LP-Strangers In The Night"
+      "details": "LP-Strangers In The Night",
+      "verified_timestamp": 7257.78
     }
   ],
   "transcript": [

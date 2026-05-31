@@ -31,17 +31,20 @@
     {
       "artist": "Accept",
       "track": "Flash Rocking Man",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 765.73
     },
     {
       "artist": "ZZ Top",
       "track": "Sharp Dressed Man",
-      "details": "Edited out"
+      "details": "Edited out",
+      "verified_timestamp": 1041.98
     },
     {
       "artist": "Genesis",
       "track": "Mama",
-      "details": "Single"
+      "details": "Single",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Brand X",
@@ -56,22 +59,26 @@
     {
       "artist": "Loverboy",
       "track": "Passion Pit",
-      "details": "edited out"
+      "details": "edited out",
+      "verified_timestamp": 1565.32
     },
     {
       "artist": "Dio",
       "track": "Straight Through The Heart",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Diamond Head",
       "track": "Making Music",
-      "details": "edited out"
+      "details": "edited out",
+      "verified_timestamp": 2134.76
     },
     {
       "artist": null,
       "track": "Friday Night Connection Answer to last weeks but all tracks not played.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2291.8
     },
     {
       "artist": "Accept",
@@ -81,17 +88,20 @@
     {
       "artist": "Little Steven And The Disciples Of Soul",
       "track": "Solidarity",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3146.74
     },
     {
       "artist": "Brand X",
       "track": "Malaga Virgin",
-      "details": "Peel session"
+      "details": "Peel session",
+      "verified_timestamp": 1494.96
     },
     {
       "artist": "Status Quo",
       "track": "Ol' Rag Blues",
-      "details": "Single"
+      "details": "Single",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "Y&T",

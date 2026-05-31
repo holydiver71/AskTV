@@ -18,22 +18,26 @@
     {
       "artist": "Iron Maiden",
       "track": "‘Flash Of The Blade’",
-      "details": "LP - Powerslave"
+      "details": "LP - Powerslave",
+      "verified_timestamp": 671.8
     },
     {
       "artist": "Iron Maiden",
       "track": "‘The Duellists’",
-      "details": "LP - Powerslave"
+      "details": "LP - Powerslave",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Robert Plant",
       "track": "‘Burning Down One Side’",
-      "details": "LP - Pictures At Eleven"
+      "details": "LP - Pictures At Eleven",
+      "verified_timestamp": 1230.17
     },
     {
       "artist": "Money",
       "track": "‘Starmaker’",
-      "details": "LP - Trust Me"
+      "details": "LP - Trust Me",
+      "verified_timestamp": 1225.54
     },
     {
       "artist": null,
@@ -43,12 +47,14 @@
     {
       "artist": "Perennial",
       "track": "‘Caught In The Ruts’",
-      "details": "LP - In My Dreams"
+      "details": "LP - In My Dreams",
+      "verified_timestamp": 1447.47
     },
     {
       "artist": "Elf",
       "track": "‘Black Swampy Water’",
-      "details": "LP - Trying To Burn The Sun"
+      "details": "LP - Trying To Burn The Sun",
+      "verified_timestamp": 1447.47
     },
     {
       "artist": "Dio",
@@ -68,12 +74,14 @@
     {
       "artist": "KISS",
       "track": "‘Heaven’s On Fire’",
-      "details": "LP - Animalize"
+      "details": "LP - Animalize",
+      "verified_timestamp": 2222.44
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2251.7
     },
     {
       "artist": null,

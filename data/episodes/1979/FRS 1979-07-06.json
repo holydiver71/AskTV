@@ -71,7 +71,9 @@
     {
       "artist": "Ruts",
       "track": "Something That I Said",
-      "details": "Peel Session 1979-05-14"
+      "details": "Peel Session 1979-05-14",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you don t want to"
     },
     {
       "artist": "Lew Lewis",
@@ -116,12 +118,16 @@
     {
       "artist": "Free",
       "track": "Fire And Water",
-      "details": "LP-1970 Session"
+      "details": "LP-1970 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i got a heartache comin"
     },
     {
       "artist": "Free",
       "track": "Get Where I Belong",
-      "details": "Mike Harding 1971-04-19"
+      "details": "Mike Harding 1971-04-19",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and i ll be right"
     },
     {
       "artist": "Free",

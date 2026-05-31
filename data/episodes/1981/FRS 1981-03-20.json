@@ -25,7 +25,8 @@
     {
       "artist": "AC/DC",
       "track": "Shot Down In Flames",
-      "details": "LP-Highway To Hell; Atlantic"
+      "details": "LP-Highway To Hell; Atlantic",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Slade",
@@ -35,27 +36,32 @@
     {
       "artist": "Last Flight",
       "track": "I Am Ready",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 547.7
     },
     {
       "artist": "Deep Purple",
       "track": "Mistreated",
-      "details": "LP-Burn; Purple"
+      "details": "LP-Burn; Purple",
+      "verified_timestamp": 720.0
     },
     {
       "artist": ".38 Special",
       "track": "First Time Around",
-      "details": "LP-Wild-Eyed Southern Boys; A&M"
+      "details": "LP-Wild-Eyed Southern Boys; A&M",
+      "verified_timestamp": 1783.73
     },
     {
       "artist": "Rush",
       "track": "Vital Signs",
-      "details": "LP-Moving Pictures; Mercury"
+      "details": "LP-Moving Pictures; Mercury",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Nazareth",
       "track": "Woke Up This Morning",
-      "details": "1972 Harris Session"
+      "details": "1972 Harris Session",
+      "verified_timestamp": 1798.09
     },
     {
       "artist": "Nazareth",
@@ -70,7 +76,8 @@
     {
       "artist": "Russ Ballard & The Barnet Dogs",
       "track": "I Will Be There",
-      "details": "7\"; Epic"
+      "details": "7\"; Epic",
+      "verified_timestamp": 2668.21
     },
     {
       "artist": "Boston",
@@ -85,17 +92,20 @@
     {
       "artist": "Ken Hensley",
       "track": "No More",
-      "details": "LP-Free Spirit; Bronze"
+      "details": "LP-Free Spirit; Bronze",
+      "verified_timestamp": 4010.48
     },
     {
       "artist": "Uriah Heep",
       "track": "Firefly",
-      "details": "LP-Firefly; Bronze"
+      "details": "LP-Firefly; Bronze",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 71.41
     },
     {
       "artist": "Last Flight",
@@ -105,12 +115,14 @@
     {
       "artist": "Dragster",
       "track": "Ambitions",
-      "details": "7\"; Heavy Metal"
+      "details": "7\"; Heavy Metal",
+      "verified_timestamp": 5516.94
     },
     {
       "artist": "Nazareth",
       "track": "Razmanazz",
-      "details": "1973 Harris Session"
+      "details": "1973 Harris Session",
+      "verified_timestamp": 1798.09
     },
     {
       "artist": "Nazareth",
@@ -125,12 +137,14 @@
     {
       "artist": "Paul Kossoff",
       "track": "Stealing My Way",
-      "details": "LP-Leaves In The Wind; Street Tunes"
+      "details": "LP-Leaves In The Wind; Street Tunes",
+      "verified_timestamp": 6568.84
     },
     {
       "artist": "Vangelis",
       "track": "Jerusalem",
-      "details": "LP-Chariots Of Fire; Polydor"
+      "details": "LP-Chariots Of Fire; Polydor",
+      "verified_timestamp": 6682.65
     }
   ],
   "transcript": [

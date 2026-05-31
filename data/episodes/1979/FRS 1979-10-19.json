@@ -25,32 +25,39 @@
     {
       "artist": "Judas Priest",
       "track": "Rock Forever",
-      "details": "3 track EP given away with Unleashed In The East"
+      "details": "3 track EP given away with Unleashed In The East",
+      "verified_timestamp": 658.02
     },
     {
       "artist": "Whitesnake",
       "track": "Love Hunter",
-      "details": "LP-Love Hunter"
+      "details": "LP-Love Hunter",
+      "verified_timestamp": 378.03
     },
     {
       "artist": "Orchestral Manoeuvres In The Dark",
       "track": "Messages",
-      "details": "Peel session 1979-08-20"
+      "details": "Peel session 1979-08-20",
+      "verified_timestamp": 675.17
     },
     {
       "artist": "Hawkwind",
       "track": "Spirit Of The Age",
-      "details": "LP-Quark, Strangeness And Charm"
+      "details": "LP-Quark, Strangeness And Charm",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Thin Lizzy",
       "track": "'I'm Gonna Creep Up On You'",
-      "details": "Peel session 1973-07-31"
+      "details": "Peel session 1973-07-31",
+      "verified_timestamp": 1477.34
     },
     {
       "artist": "Thin Lizzy",
       "track": "Little Girl In Bloom",
-      "details": "Peel session 1973-07-31"
+      "details": "Peel session 1973-07-31",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "1 little girl in bloom"
     },
     {
       "artist": "Thin Lizzy",
@@ -60,67 +67,85 @@
     {
       "artist": "Tony Banks",
       "track": "After The Lie",
-      "details": "LP-Curious Feeling"
+      "details": "LP-Curious Feeling",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Robin Trower",
       "track": "'I'm Out To Get You'",
-      "details": "LP-Caravan To Midnight"
+      "details": "LP-Caravan To Midnight",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i m out to get",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "The Nice",
       "track": "America",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 3562.17
     },
     {
       "artist": "Orchestral Manoeuvres In The Dark",
       "track": "'Red Frame White Light' (Peel session 1979-08-20",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2962.75
     },
     {
       "artist": "UFO",
       "track": "Built For Comfort",
-      "details": "LP-Phenomenon"
+      "details": "LP-Phenomenon",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Foghat",
       "track": "I Just Want To Make Love To You",
-      "details": "7” Single"
+      "details": "7” Single",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "Rolling Stones",
       "track": "Little Red Rooster",
-      "details": "7” Single"
+      "details": "7” Single",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.68
     },
     {
       "artist": "Def Leppard",
       "track": "Wasted",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2904.9
     },
     {
       "artist": "Lynyrd Skynyrd",
       "track": "Sweet Home Alabama",
-      "details": "LP-Second Helping"
+      "details": "LP-Second Helping",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i think it s a",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Orchestral Manoeuvres In The Dark",
       "track": "Bunker Soldiers",
-      "details": "Peel session 1979-08-20"
+      "details": "Peel session 1979-08-20",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "bunker soldiers but it s"
     },
     {
       "artist": "Zero Pass Seven",
       "track": "Worry",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 5562.86
     },
     {
       "artist": "Thin Lizzy",
       "track": "'It's Only Money'",
-      "details": "Peel session 1974-04-04"
+      "details": "Peel session 1974-04-04",
+      "verified_timestamp": 1477.34
     },
     {
       "artist": "Thin Lizzy",

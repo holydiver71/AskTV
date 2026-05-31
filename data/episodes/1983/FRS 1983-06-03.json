@@ -43,7 +43,8 @@
     {
       "artist": "Steve Hackett",
       "track": "Cell 151",
-      "details": "1983-03-04 FRS Session. First TX 1983-04-01"
+      "details": "1983-03-04 FRS Session. First TX 1983-04-01",
+      "verified_timestamp": 1093.51
     },
     {
       "artist": "Accept",
@@ -98,7 +99,8 @@
     {
       "artist": "David Bowie",
       "track": "Waiting For The Man",
-      "details": "1970-03-25 ‘Sounds Of The Seventies’ Session. First TX 1970-04-06"
+      "details": "1970-03-25 ‘Sounds Of The Seventies’ Session. First TX 1970-04-06",
+      "verified_timestamp": 5092.48
     },
     {
       "artist": "David Bowie",

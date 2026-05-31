@@ -49,7 +49,9 @@
       "artist": "David Bowie",
       "track": "‘Ziggy Stardust’",
       "details": "Peel Session 1972-01-11",
-      "verified_timestamp": 1082.67
+      "verified_timestamp": 1082.67,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and the spiders from mars"
     },
     {
       "artist": "David Bowie",
@@ -59,12 +61,16 @@
     {
       "artist": "David Bowie",
       "track": "‘Hang On To Yourself’",
-      "details": "Peel Session 1972-01-11"
+      "details": "Peel Session 1972-01-11",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the rise and fall of"
     },
     {
       "artist": "David Bowie",
       "track": "‘Waiting For The Man’",
-      "details": "Peel Session 1972-01-11"
+      "details": "Peel Session 1972-01-11",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "m waiting for the man"
     },
     {
       "artist": "Frank Zappa",
@@ -286,36 +292,6 @@
       "start": 485.67,
       "end": 488.23,
       "text": "why they consider it so intentional."
-    },
-    {
-      "start": 513.78,
-      "end": 516.7,
-      "text": "Walking outside, feelings they hide"
-    },
-    {
-      "start": 516.7,
-      "end": 519.6,
-      "text": "Putting their pride through well-known fates"
-    },
-    {
-      "start": 519.6,
-      "end": 522.9,
-      "text": "And shining on cards"
-    },
-    {
-      "start": 522.9,
-      "end": 527.28,
-      "text": "Their heads are high, but their hearts are low"
-    },
-    {
-      "start": 527.28,
-      "end": 529.0,
-      "text": "Down, dragging as they go"
-    },
-    {
-      "start": 529.0,
-      "end": 532.14,
-      "text": "Reaching out to those on the face"
     },
     {
       "start": 532.14,

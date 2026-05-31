@@ -29,12 +29,14 @@
     {
       "artist": "Tangerine Dream",
       "track": "’Cloudburst Flight’",
-      "details": "LP - Force Majeure"
+      "details": "LP - Force Majeure",
+      "verified_timestamp": 1591.45
     },
     {
       "artist": "Hawkwind",
       "track": "’Spirit Of The Age’",
-      "details": "LP - Quark Strangeness And Charm"
+      "details": "LP - Quark Strangeness And Charm",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Gene Simmons",
@@ -44,7 +46,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "’You Shook Me’",
-      "details": "Top Gear Session 1969-03-03"
+      "details": "Top Gear Session 1969-03-03",
+      "verified_timestamp": 1634.85
     },
     {
       "artist": "Led Zeppelin",
@@ -69,22 +72,26 @@
     {
       "artist": "Rainbow",
       "track": "’Kill The King’",
-      "details": "LP – Long Live Rock n Roll"
+      "details": "LP – Long Live Rock n Roll",
+      "verified_timestamp": 3397.06
     },
     {
       "artist": "Cars",
       "track": "’Just What I Needed’",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 3444.48
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3709.86
     },
     {
       "artist": "Generation X",
       "track": "’English Dream’",
-      "details": "LP - Valley Of The Dolls"
+      "details": "LP - Valley Of The Dolls",
+      "verified_timestamp": 5347.86
     },
     {
       "artist": "Steve Hillage",
@@ -94,17 +101,20 @@
     {
       "artist": "Todd Rundgren",
       "track": "’Torch Song’",
-      "details": "LP - Something Anything"
+      "details": "LP - Something Anything",
+      "verified_timestamp": 5913.39
     },
     {
       "artist": "AC DC",
       "track": "’Whole Lotta Rosie’",
-      "details": "LP - Let There Be Rock"
+      "details": "LP - Let There Be Rock",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Led Zeppelin",
       "track": "’What Is And What Should Never Be’",
-      "details": "Top Gear Session 1969-06-24"
+      "details": "Top Gear Session 1969-06-24",
+      "verified_timestamp": 1634.85
     },
     {
       "artist": "Led Zeppelin",
@@ -120,6 +130,693 @@
       "artist": "Led Zeppelin",
       "track": "’Whole Lotta Love’",
       "details": "Top Gear Session 1969-06-24"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 416.3,
+      "end": 426.53,
+      "text": "And that's a track that started life as a single some time ago but now is on a compilation album, rather, which is called 20 of Another Kind and it's out on Polydor."
+    },
+    {
+      "start": 426.53,
+      "end": 433.53,
+      "text": "Name of the act are 999. Before that you heard something from the Budokan album that's just come out by the band called Cheap Trick. That's on Epic."
+    },
+    {
+      "start": 433.53,
+      "end": 443.87,
+      "text": "And Cheap Trick are on tour at the moment. I rather think tonight they're down at Bristol University. If you get the chance to go and see them, do so because they are an ace act."
+    },
+    {
+      "start": 443.87,
+      "end": 453.84,
+      "text": "Driving from my stately home in Maida Vale, to the studio tonight, it was so pleasant to hear some rock music. Nice one, Andy."
+    },
+    {
+      "start": 454.58,
+      "end": 457.86,
+      "text": "This is Tangerine Dream."
+    },
+    {
+      "start": 1135.21,
+      "end": 1525.69,
+      "text": "And that's from the LP, which is called Gene Simmons."
+    },
+    {
+      "start": 1525.69,
+      "end": 1528.43,
+      "text": "It's also out as a single. It's number 57 this week."
+    },
+    {
+      "start": 1528.43,
+      "end": 1532.43,
+      "text": "And Linda Harrison and Clint Splane are trying to start a Kiss Army in this country,"
+    },
+    {
+      "start": 1532.85,
+      "end": 1537.63,
+      "text": "but Bill O'Coin is a bit against it because he doesn't think there are enough fans of Kiss in the UK."
+    },
+    {
+      "start": 1538.29,
+      "end": 1542.77,
+      "text": "So, we'd like all Kiss fans to write to us with their support for a Kiss Army."
+    },
+    {
+      "start": 1543.31,
+      "end": 1547.19,
+      "text": "Please send a stamped address envelope and we'll present all the letters to Bill O'Coin."
+    },
+    {
+      "start": 1547.89,
+      "end": 1555.17,
+      "text": "Or, letters can be sent to either Linda Harrison at 27 Hillsview Road, Ainsdale, Southport, Merseyside,"
+    },
+    {
+      "start": 1555.17,
+      "end": 1561.83,
+      "text": "or Clint Splane, [redacted address], Pendleton, Salford 6, M67PN."
+    },
+    {
+      "start": 1563.01,
+      "end": 1568.92,
+      "text": "Before that, you heard Spirit of the Age by Hawk Wynn"
+    },
+    {
+      "start": 1568.92,
+      "end": 1570.94,
+      "text": "from Quark, Strangeness and Charm."
+    },
+    {
+      "start": 1571.44,
+      "end": 1574.24,
+      "text": "And we played that for a gentleman by the name of Evo"
+    },
+    {
+      "start": 1574.24,
+      "end": 1576.2,
+      "text": "from his wife, Debs, who says"
+    },
+    {
+      "start": 1576.2,
+      "end": 1580.04,
+      "text": "they don't really get the chance to spend too much time together at the moment,"
+    },
+    {
+      "start": 1580.5,
+      "end": 1581.82,
+      "text": "not through their choice, anyway."
+    },
+    {
+      "start": 1582.52,
+      "end": 1584.84,
+      "text": "She loves you, and she misses you very much,"
+    },
+    {
+      "start": 1584.9,
+      "end": 1586.36,
+      "text": "and she knows you listen to this programme."
+    },
+    {
+      "start": 1586.9,
+      "end": 1587.52,
+      "text": "There you go, Eva."
+    },
+    {
+      "start": 1588.02,
+      "end": 1588.86,
+      "text": "Hawkwind was for you."
+    },
+    {
+      "start": 1591.45,
+      "end": 1595.15,
+      "text": "Tangerine Dream did a thing called Cloudburst Flight"
+    },
+    {
+      "start": 1595.15,
+      "end": 1598.23,
+      "text": "from their new album Force Majeure, which is out on Virgin."
+    },
+    {
+      "start": 1598.87,
+      "end": 1602.07,
+      "text": "And that was for the fifth-form pupils at Aberconwy School"
+    },
+    {
+      "start": 1602.07,
+      "end": 1605.53,
+      "text": "and all Tang fans everywhere from Charles Day."
+    },
+    {
+      "start": 1606.63,
+      "end": 1611.84,
+      "text": "And this is John Mayall, just in case you didn't recognise him."
+    },
+    {
+      "start": 1612.68,
+      "end": 1633.47,
+      "text": "It's 10.28."
+    },
+    {
+      "start": 1634.85,
+      "end": 1643.08,
+      "text": "Right, let's go back ten years to the first ever Led Zeppelin session."
+    },
+    {
+      "start": 1643.24,
+      "end": 2839.83,
+      "text": "uninterrupted from way back in 1969 produced by bernie andrews the first ever radio one session"
+    },
+    {
+      "start": 2839.83,
+      "end": 2845.04,
+      "text": "that was done for the program called top gear and you heard you shook me communication breakdown"
+    },
+    {
+      "start": 2845.04,
+      "end": 2854.64,
+      "text": "i can't quit you babe and dazed and confused heard that jimmy page got back to the uk last sunday"
+    },
+    {
+      "start": 2854.64,
+      "end": 2860.94,
+      "text": "he'd been over in sweden just doing some mixing some final mixing on their new album which is due"
+    },
+    {
+      "start": 2860.94,
+      "end": 2866.76,
+      "text": "out i believe about mid-march and mr plant if you're listening and i hope you are let me say"
+    },
+    {
+      "start": 2866.76,
+      "end": 2869.66,
+      "text": "that Logan will have a lot to be proud of when he grows up."
+    },
+    {
+      "start": 2875.16,
+      "end": 2877.58,
+      "text": "And here's just some of the people who asked to hear that session once again."
+    },
+    {
+      "start": 2877.66,
+      "end": 2880.96,
+      "text": "Bob Whiteman of The Height, Newton in Cartmel, I think it is,"
+    },
+    {
+      "start": 2881.44,
+      "end": 2883.76,
+      "text": "Grange over Sands, and also Stephen Smith"
+    },
+    {
+      "start": 2883.76,
+      "end": 2886.62,
+      "text": "of [redacted address] in Falesworth in Manchester,"
+    },
+    {
+      "start": 2886.86,
+      "end": 2889.38,
+      "text": "John Murray of [redacted address],"
+    },
+    {
+      "start": 2890.16,
+      "end": 2894.9,
+      "text": "Keith Ness, and somebody who lives at [redacted address],"
+    },
+    {
+      "start": 2895.4,
+      "end": 2898.48,
+      "text": "Rochdale, Lancashire, and that somebody is Ian Devaney."
+    },
+    {
+      "start": 2904.8,
+      "end": 2906.4,
+      "text": "Stay tuned. More Zepp to come."
+    },
+    {
+      "start": 2909.92,
+      "end": 2911.34,
+      "text": "And now, the Sex Pistols."
+    },
+    {
+      "start": 3397.06,
+      "end": 3398.44,
+      "text": "Kill the King from Rainbow."
+    },
+    {
+      "start": 3404.64,
+      "end": 3407.54,
+      "text": "Requested by quite a number of people, including this lot."
+    },
+    {
+      "start": 3407.92,
+      "end": 3409.34,
+      "text": "Gary Henderson of Inverness."
+    },
+    {
+      "start": 3410.57,
+      "end": 3414.01,
+      "text": "Stuart Shuttleworth, up there near Ambleside in Cumbria."
+    },
+    {
+      "start": 3414.75,
+      "end": 3416.41,
+      "text": "Janet Smallwood, good evening, Jan."
+    },
+    {
+      "start": 3416.61,
+      "end": 3418.79,
+      "text": "[redacted address] Northwood, Chinchesha."
+    },
+    {
+      "start": 3419.8,
+      "end": 3424.96,
+      "text": "Doug Lees, who wants us to keep it heavy, at [redacted address], Loughborough in Leicestershire."
+    },
+    {
+      "start": 3425.28,
+      "end": 3430.04,
+      "text": "And Dave Barlow, for all his mates, including Jane and Mick and Kim."
+    },
+    {
+      "start": 3430.04,
+      "end": 3433.78,
+      "text": "They live in Stoke-on-Trent in Staffordshire"
+    },
+    {
+      "start": 3433.78,
+      "end": 3444.48,
+      "text": "There's a nice new single out by The Cars"
+    },
+    {
+      "start": 3444.48,
+      "end": 3669.08,
+      "text": "The new single, Just What I Needed by The Cars"
+    },
+    {
+      "start": 3669.08,
+      "end": 3671.16,
+      "text": "And that was for Rhoda, who's got a birthday today"
+    },
+    {
+      "start": 3671.16,
+      "end": 3673.6,
+      "text": "And also a nice lady by the name of Denise"
+    },
+    {
+      "start": 3673.6,
+      "end": 3676.86,
+      "text": "And also for Sue, who's after the States tomorrow in a car"
+    },
+    {
+      "start": 3676.86,
+      "end": 3709.86,
+      "text": "It's two minutes past eleven here on the Friday Rock Show"
+    },
+    {
+      "start": 3709.86,
+      "end": 3712.02,
+      "text": "And it's time now for the Friday Night Connection"
+    },
+    {
+      "start": 3712.02,
+      "end": 3716.15,
+      "text": "Right, Tony Collier of"
+    },
+    {
+      "start": 3716.15,
+      "end": 3717.71,
+      "text": "No, it's [redacted address], I beg your pardon"
+    },
+    {
+      "start": 3717.71,
+      "end": 3720.35,
+      "text": "and Sandy Lane, Stoke Heath, Market Drayton."
+    },
+    {
+      "start": 3720.85,
+      "end": 3723.19,
+      "text": "You've got yourself a £10 record voucher."
+    },
+    {
+      "start": 3723.8,
+      "end": 3727.16,
+      "text": "You've got last one's, well, last week's rather, well together."
+    },
+    {
+      "start": 3728.07,
+      "end": 3729.27,
+      "text": "I'm just going to read out what you say, actually."
+    },
+    {
+      "start": 3729.55,
+      "end": 3732.15,
+      "text": "The Friday Night Connection answer for Friday the 26th of January"
+    },
+    {
+      "start": 3732.15,
+      "end": 3735.91,
+      "text": "is that all the tracks are named after albums by the same groups,"
+    },
+    {
+      "start": 3736.07,
+      "end": 3737.77,
+      "text": "but do not appear on those albums,"
+    },
+    {
+      "start": 3738.39,
+      "end": 3742.87,
+      "text": "i.e. Brain Salad Surgery, Sheer Heart Attack, and Houses of the Holy."
+    },
+    {
+      "start": 3745.35,
+      "end": 3746.35,
+      "text": "Foxed a lot of people."
+    },
+    {
+      "start": 3746.55,
+      "end": 3750.87,
+      "text": "I would say a good 50% of all the cards and letters that we had in were wrong."
+    },
+    {
+      "start": 3751.84,
+      "end": 3752.62,
+      "text": "Strangely enough."
+    },
+    {
+      "start": 3753.6,
+      "end": 3762.65,
+      "text": "As you know, part of the deal is that you have to put the connection together"
+    },
+    {
+      "start": 3762.65,
+      "end": 3765.13,
+      "text": "and put another connection together as well."
+    },
+    {
+      "start": 3765.71,
+      "end": 3770.19,
+      "text": "And that's exactly what this gentleman by the name of Tony Collier has done."
+    },
+    {
+      "start": 3770.61,
+      "end": 3771.69,
+      "text": "Can't pronounce a word tonight."
+    },
+    {
+      "start": 3772.23,
+      "end": 3774.01,
+      "text": "Led Zeppelin are taking me over, that's what it is."
+    },
+    {
+      "start": 3774.01,
+      "end": 3781.54,
+      "text": "three pieces of music and there's a theme that runs through the three see if"
+    },
+    {
+      "start": 3781.54,
+      "end": 4574.76,
+      "text": "you can spot what it is what do you think the connection is between those"
+    },
+    {
+      "start": 4574.76,
+      "end": 4583.66,
+      "text": "three pieces of music because there is a definite connection and it was a Friday"
+    },
+    {
+      "start": 4583.66,
+      "end": 4587.52,
+      "text": "night connection put together by Tony Collier just in case you staggered in"
+    },
+    {
+      "start": 4587.52,
+      "end": 4592.44,
+      "text": "from the pub last week it was brain salad surgery by ELP sheer heart attack"
+    },
+    {
+      "start": 4592.44,
+      "end": 4596.04,
+      "text": "by Queen and houses of the holy by Led Zeppelin and the answer was that all"
+    },
+    {
+      "start": 4596.04,
+      "end": 4601.94,
+      "text": "All the tracks were named after albums by the same groups, but do not appear on those albums."
+    },
+    {
+      "start": 4604.23,
+      "end": 4607.65,
+      "text": "If you think you know what the Friday Night Connection is this week,"
+    },
+    {
+      "start": 4608.37,
+      "end": 4610.99,
+      "text": "jot it all down on a postcard, on a letter, anything you like,"
+    },
+    {
+      "start": 4611.61,
+      "end": 4618.19,
+      "text": "and send it along to Friday Night Connection, BBC Radio 1, London, W1A 4WW."
+    },
+    {
+      "start": 4618.83,
+      "end": 4622.69,
+      "text": "But don't forget to put a connection of your own together."
+    },
+    {
+      "start": 4629.89,
+      "end": 4634.23,
+      "text": "It's 11.19 on the Friday Rock Show, and here's Generation X."
+    },
+    {
+      "start": 4634.75,
+      "end": 5338.64,
+      "text": "And Castle in the Clouds from the new double album,"
+    },
+    {
+      "start": 5338.72,
+      "end": 5341.9,
+      "text": "which is called Live Herald, just out on Virgin by Steve Hillage."
+    },
+    {
+      "start": 5342.0,
+      "end": 5344.1,
+      "text": "And before that, you heard something else that's new as well"
+    },
+    {
+      "start": 5344.1,
+      "end": 5347.34,
+      "text": "from the LP Valley of the Dolls, Generation X,"
+    },
+    {
+      "start": 5347.86,
+      "end": 5351.36,
+      "text": "singing the song called English Dream, and that's just out on Chrysalis."
+    },
+    {
+      "start": 5351.64,
+      "end": 5353.72,
+      "text": "Beautiful production on that album by Ian Hunter."
+    },
+    {
+      "start": 5354.32,
+      "end": 5355.68,
+      "text": "And now, news of tomorrow."
+    },
+    {
+      "start": 5374.42,
+      "end": 5381.11,
+      "text": "The Moody Blues Story, part two, this Saturday on Radio 1 in stereo."
+    },
+    {
+      "start": 5381.45,
+      "end": 5384.07,
+      "text": "This week they tell the story of nights in white satin"
+    },
+    {
+      "start": 5384.07,
+      "end": 5386.79,
+      "text": "and the extraordinary way they made their first album."
+    },
+    {
+      "start": 5387.13,
+      "end": 5389.19,
+      "text": "The Moody Blues Story in words and music,"
+    },
+    {
+      "start": 5389.19,
+      "end": 5393.37,
+      "text": "part two, this Saturday, 4.31, on Radio 1 in stereo."
+    },
+    {
+      "start": 5394.37,
+      "end": 5395.69,
+      "text": "Radio 1"
+    },
+    {
+      "start": 5395.69,
+      "end": 5399.97,
+      "text": "And hearing that jingle reminds me of a letter that came into the office a couple of days ago."
+    },
+    {
+      "start": 5400.37,
+      "end": 5402.97,
+      "text": "It said, please wish Tony Blackburn a happy birthday."
+    },
+    {
+      "start": 5403.21,
+      "end": 5407.27,
+      "text": "So I accosted Mr. Blackburn the other day and said, happy birthday for this coming Monday."
+    },
+    {
+      "start": 5407.29,
+      "end": 5409.83,
+      "text": "And he said, sorry, son, you missed it. It was last Monday."
+    },
+    {
+      "start": 5410.09,
+      "end": 5411.63,
+      "text": "Happy birthday for last Monday, Tony."
+    },
+    {
+      "start": 5909.25,
+      "end": 5913.39,
+      "text": "Whole Lotta Rosie by ACDC from their 1977 album Let There Be Rock."
+    },
+    {
+      "start": 5913.39,
+      "end": 5917.61,
+      "text": "and before that you heard the torch song by Todd Rundgren from Something, Anything,"
+    },
+    {
+      "start": 5917.83,
+      "end": 5919.71,
+      "text": "the double LP that came out in 1972."
+    },
+    {
+      "start": 5920.47,
+      "end": 5923.03,
+      "text": "Right, you've all been waiting for it, and here it is."
+    },
+    {
+      "start": 5923.65,
+      "end": 5929.47,
+      "text": "Uninterrupted, Led Zeppelin's second session that was recorded in June 1969."
+    },
+    {
+      "start": 5930.21,
+      "end": 5933.11,
+      "text": "And listen for this version of Communication Breakdown."
+    },
+    {
+      "start": 5933.39,
+      "end": 5935.59,
+      "text": "It follows what is and what should never be."
+    },
+    {
+      "start": 6011.52,
+      "end": 7055.95,
+      "text": "Recorded in the BBC studios in June 1969,"
+    },
+    {
+      "start": 7055.95,
+      "end": 7058.61,
+      "text": "the second ever session done by Led Zeppelin."
+    },
+    {
+      "start": 7058.77,
+      "end": 7059.65,
+      "text": "Not bad."
+    },
+    {
+      "start": 7059.75,
+      "end": 7062.31,
+      "text": "when you think that it was just done in mono."
+    },
+    {
+      "start": 7062.53,
+      "end": 7064.05,
+      "text": "No eight tracks, none of that stuff."
+    },
+    {
+      "start": 7065.57,
+      "end": 7068.49,
+      "text": "The balance was done in 69 by Tony Wilson,"
+    },
+    {
+      "start": 7068.85,
+      "end": 7070.27,
+      "text": "who produces the Friday Rock Show."
+    },
+    {
+      "start": 7070.43,
+      "end": 7072.25,
+      "text": "And production in 69 was John Walters,"
+    },
+    {
+      "start": 7072.61,
+      "end": 7073.51,
+      "text": "fatty to his friends."
+    },
+    {
+      "start": 7075.04,
+      "end": 7078.06,
+      "text": "Forget not Andy Peebles at 8pm weekdays on Radio 1"
+    },
+    {
+      "start": 7078.06,
+      "end": 7080.5,
+      "text": "and Peely, Monday to Thursdays at 10."
+    },
+    {
+      "start": 7080.7,
+      "end": 7082.12,
+      "text": "Our engineer tonight was Martin."
+    },
+    {
+      "start": 7086.21,
+      "end": 7088.15,
+      "text": "And the track that was never released on record"
+    },
+    {
+      "start": 7088.15,
+      "end": 7090.47,
+      "text": "other than on a bootleg by Led Zeppelin"
+    },
+    {
+      "start": 7090.47,
+      "end": 7093.91,
+      "text": "was Travelling Riverside Blues from 1969."
+    },
+    {
+      "start": 7094.07,
+      "end": 7098.63,
+      "text": "some people say I don't sound too friendly on this program"
+    },
+    {
+      "start": 7098.63,
+      "end": 7099.63,
+      "text": "because I don't say much"
+    },
+    {
+      "start": 7099.63,
+      "end": 7102.19,
+      "text": "well the emphasis in this show is on the music"
+    },
+    {
+      "start": 7102.19,
+      "end": 7104.59,
+      "text": "have yourself a great weekend"
+    },
+    {
+      "start": 7104.59,
+      "end": 7106.81,
+      "text": "I'll see you next Friday"
+    },
+    {
+      "start": 7106.81,
+      "end": 7107.95,
+      "text": "take care"
     }
   ]
 }

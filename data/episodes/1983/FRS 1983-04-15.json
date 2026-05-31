@@ -22,52 +22,62 @@
     {
       "artist": "Black Sabbath",
       "track": "Paranoid",
-      "details": "LP-Paranoid; Vertigo"
+      "details": "LP-Paranoid; Vertigo",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Steve Miller Band",
       "track": "The Joker",
-      "details": "7\"-Take The Money And Run; Mercury"
+      "details": "7\"-Take The Money And Run; Mercury",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Iron Maiden",
       "track": "The Flight Of Icarus",
-      "details": "7\"; EMI"
+      "details": "7\"; EMI",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Ry Cooder",
       "track": "Vigilante Man",
-      "details": "LP-Into The Purple Valley; Reprise"
+      "details": "LP-Into The Purple Valley; Reprise",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Robert Plant",
       "track": "Slow Dancer",
-      "details": "LP-Pictures At Eleven; Swan Song"
+      "details": "LP-Pictures At Eleven; Swan Song",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Steve Hackett",
       "track": "Cell 151",
-      "details": "12\"; Charisma"
+      "details": "12\"; Charisma",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "ZZ Top",
       "track": "Tube Snake Boogie",
-      "details": "LP-El Loco; Warner Bros."
+      "details": "LP-El Loco; Warner Bros.",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Accept",
       "track": "Fast As A Shark",
-      "details": "LP-Restless And Wild; Heavy Metal Worldwide"
+      "details": "LP-Restless And Wild; Heavy Metal Worldwide",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Robert Palmer",
       "track": "You Are In My System",
-      "details": "LP-Pride; Island"
+      "details": "LP-Pride; Island",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Journey",
       "track": "Separate Ways (Worlds Apart)",
-      "details": "12\"; CBS"
+      "details": "12\"; CBS",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Twisted Sister",
@@ -77,27 +87,32 @@
     {
       "artist": "Pink Floyd",
       "track": "Not Now John",
-      "details": "7\"; Harvest"
+      "details": "7\"; Harvest",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Freddie King",
       "track": "Going Down",
-      "details": "LP-Freddie King; A&M"
+      "details": "LP-Freddie King; A&M",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Little Feat",
       "track": "Dixie Chicken",
-      "details": "LP-Dixie Chicken; Warner Bros."
+      "details": "LP-Dixie Chicken; Warner Bros.",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Heads Hands & Feet",
       "track": "Country Boy",
-      "details": "LP-Heads Hands & Feet; Island"
+      "details": "LP-Heads Hands & Feet; Island",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "Fastway",
       "track": "Heft!",
-      "details": "LP-Fastway; CBS"
+      "details": "LP-Fastway; CBS",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Persian Risk",
@@ -112,42 +127,50 @@
     {
       "artist": "Elvis Presley",
       "track": "Blue Moon Of Kentucky",
-      "details": "LP-The Elvis Presley Sun Collection; RCA"
+      "details": "LP-The Elvis Presley Sun Collection; RCA",
+      "verified_timestamp": 5247.1
     },
     {
       "artist": "Derek & The Dominos",
       "track": "Layla",
-      "details": "2xLP-Layla And Other Assorted Love Songs; Polydor"
+      "details": "2xLP-Layla And Other Assorted Love Songs; Polydor",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Climax Blues Band",
       "track": "Friends In High Places",
-      "details": "LP-Sample And Hold; Virgin"
+      "details": "LP-Sample And Hold; Virgin",
+      "verified_timestamp": 5874.73
     },
     {
       "artist": "Yardbirds",
       "track": "Over, Under, Sideways, Down",
-      "details": "LP-Roger The Engineer; Edsel"
+      "details": "LP-Roger The Engineer; Edsel",
+      "verified_timestamp": 6162.45
     },
     {
       "artist": "Bob Dylan",
       "track": "Lay Lady Lay",
-      "details": "LP-Nashville Skyline; CBS"
+      "details": "LP-Nashville Skyline; CBS",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Coney Hatch",
       "track": "Hey Operator",
-      "details": "7\"; Mercury"
+      "details": "7\"; Mercury",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Rolling Stones",
       "track": "'Let's Spend The Night Together (LP-Still Life (American Concert 1981))' (Rolling Stones)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6512.84
     },
     {
       "artist": "Little Richard",
       "track": "Good Golly Miss Molly",
-      "details": "7\"; London"
+      "details": "7\"; London",
+      "verified_timestamp": 6968.41
     }
   ],
   "transcript": [

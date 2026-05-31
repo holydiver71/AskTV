@@ -21,37 +21,44 @@
     {
       "artist": "Rush",
       "track": "Tom Sawyer",
-      "details": "12\" single from live 2xLP Exit Stage Left"
+      "details": "12\" single from live 2xLP Exit Stage Left",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Rose Tattoo",
       "track": "Rock n Roll Is King",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Bitches Sin",
       "track": "Strangers On The Shore",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 644.53
     },
     {
       "artist": "Free",
       "track": "The Hunter",
-      "details": "LP - Free Live"
+      "details": "LP - Free Live",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Saxon",
       "track": "Midnight Rider",
-      "details": "LP - Denim and Leather"
+      "details": "LP - Denim and Leather",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Gillan",
       "track": "Nightmare",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 1226.39
     },
     {
       "artist": "Eno & The Winkies",
       "track": "Fever",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1837.44
     },
     {
       "artist": "Eno & The Winkies",
@@ -66,22 +73,26 @@
     {
       "artist": "Hawkwind",
       "track": "Virgin Of The World",
-      "details": "LP - Sonic Attack"
+      "details": "LP - Sonic Attack",
+      "verified_timestamp": 2889.98
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.74
     },
     {
       "artist": "Triumph",
       "track": "Fool For Your Love",
-      "details": "LP - Allied Forces"
+      "details": "LP - Allied Forces",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Greg Lake",
       "track": "Long Goodbye",
-      "details": "LP - Greg Lake"
+      "details": "LP - Greg Lake",
+      "verified_timestamp": 4274.14
     },
     {
       "artist": "Bitches Sin",
@@ -91,17 +102,20 @@
     {
       "artist": "After Dark",
       "track": "Evil Woman",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 4803.84
     },
     {
       "artist": "Genesis",
       "track": "Twilight Alehouse",
-      "details": "single 'B' side of I Know What I Like"
+      "details": "single 'B' side of I Know What I Like",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Rossington Collins Band",
       "track": "Seems Like Every Day",
-      "details": "LP - This Is The Way"
+      "details": "LP - This Is The Way",
+      "verified_timestamp": 5514.16
     },
     {
       "artist": "Eno & The Winkies",
@@ -116,7 +130,8 @@
     {
       "artist": "Cozy Powell",
       "track": "The Right Side",
-      "details": "LP - Tilt"
+      "details": "LP - Tilt",
+      "verified_timestamp": 6574.22
     },
     {
       "artist": "Deep Purple",

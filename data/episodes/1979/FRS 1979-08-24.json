@@ -23,27 +23,32 @@
     {
       "artist": "Saxon",
       "track": "Stallions Of The Highway",
-      "details": "LP-Saxon"
+      "details": "LP-Saxon",
+      "verified_timestamp": 833.03
     },
     {
       "artist": "Deep Purple",
       "track": "Flight Of The Rat",
-      "details": "LP-In Rock"
+      "details": "LP-In Rock",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Talking Heads",
       "track": "'Memories Can't Wait'",
-      "details": "LP-Fear Of Music"
+      "details": "LP-Fear Of Music",
+      "verified_timestamp": 1337.69
     },
     {
       "artist": "Can",
       "track": "Outside My Door",
-      "details": "LP-Monster Movie"
+      "details": "LP-Monster Movie",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Rory Gallagher",
       "track": "For The Last Time",
-      "details": "Sounds Of The Seventies Session 1971-04-15"
+      "details": "Sounds Of The Seventies Session 1971-04-15",
+      "verified_timestamp": 1346.0
     },
     {
       "artist": "Rory Gallagher",
@@ -53,22 +58,26 @@
     {
       "artist": "Led Zeppelin",
       "track": "Carouselambra",
-      "details": "LP-In Through The Out Door"
+      "details": "LP-In Through The Out Door",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Kiss",
       "track": "Detroit Rock City",
-      "details": "LP-Kiss Alive 2"
+      "details": "LP-Kiss Alive 2",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Boston",
       "track": "Rock And Roll Band",
-      "details": "LP-Boston"
+      "details": "LP-Boston",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Rory Gallagher",
       "track": "It Takes Time",
-      "details": "Sounds Of The Seventies Session 1971-07-19"
+      "details": "Sounds Of The Seventies Session 1971-07-19",
+      "verified_timestamp": 1346.0
     },
     {
       "artist": "Rory Gallagher",
@@ -78,32 +87,42 @@
     {
       "artist": "Van Morrison",
       "track": "The Healing Has Begun",
-      "details": "LP-Into The Music"
+      "details": "LP-Into The Music",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and all the rest and",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "The Ruts",
       "track": "Something That I Said",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 113.72
     },
     {
       "artist": "Steve Hackett",
       "track": "Spectral Mornings",
-      "details": "LP-Spectral Mornings"
+      "details": "LP-Spectral Mornings",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Stranglers",
       "track": "Men In Black",
-      "details": "LP-The Raven"
+      "details": "LP-The Raven",
+      "verified_timestamp": 6331.05
     },
     {
       "artist": "Rory Gallagher",
       "track": "'They Don't Make Them Like You Anymore'",
-      "details": "Sounds Of The Seventies Session 1974-06-19"
+      "details": "Sounds Of The Seventies Session 1974-06-19",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "what would i do if",
+      "verified_timestamp": 1346.0
     },
     {
       "artist": "Rory Gallagher",
@@ -113,7 +132,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "In The Evening",
-      "details": "LP-In Through The Out Door"
+      "details": "LP-In Through The Out Door",
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [

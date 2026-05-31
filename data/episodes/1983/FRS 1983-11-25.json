@@ -40,17 +40,20 @@
     {
       "artist": "Virgin Steele",
       "track": "A Cry In The Night (12\") Music For Nations",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6065.63
     },
     {
       "artist": "Pendragon",
       "track": "Victims Of Life",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1177.26
     },
     {
       "artist": "Y&T",
       "track": "Midnight In Tokyo (7\") A&M",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Quiet Riot",
@@ -65,7 +68,8 @@
     {
       "artist": "Free",
       "track": "Alright Now",
-      "details": "Archive session"
+      "details": "Archive session",
+      "verified_timestamp": 652.28
     },
     {
       "artist": "Free",
@@ -85,7 +89,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3681.65
     },
     {
       "artist": "Peter Green",
@@ -115,22 +120,26 @@
     {
       "artist": "Rox",
       "track": "Love You Like A Diamond (LP - Violent Breed) Music For Nations",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6065.63
     },
     {
       "artist": "Joe Perry Project",
       "track": "Crossfire (LP - Once A Rocker Always A Rocker) MCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6054.71
     },
     {
       "artist": "Pendragon",
       "track": "The Black Knight",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1177.26
     },
     {
       "artist": "Alan Parsons Project",
       "track": "I Wouldn't Want To Be Like You (LP - The Best Of The Alan Parsons Project) Arista",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6080.61
     }
   ],
   "transcript": [

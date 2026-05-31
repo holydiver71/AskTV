@@ -18,7 +18,8 @@
     {
       "artist": "Pat Travers Band",
       "track": "Snortin' Whiskey, Drinkin' Cocaine (LP - Crash And Burn) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 501.86
     },
     {
       "artist": "Crosby, Stills & Nash",
@@ -48,12 +49,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 54.02
     },
     {
       "artist": "Judas Priest",
       "track": "Live Hammersmith Odeon",
-      "details": null
+      "details": null,
+      "verified_timestamp": 24.13
     }
   ],
   "transcript": [

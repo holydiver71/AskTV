@@ -27,7 +27,8 @@
     {
       "artist": null,
       "track": "Mountain - “Nantucket Sleighride” (LP - Nantucket Sleighride) Island",
-      "details": null
+      "details": null,
+      "verified_timestamp": 723.04
     },
     {
       "artist": null,
@@ -42,12 +43,14 @@
     {
       "artist": "No Quarter",
       "track": "Racing For Home",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 751.94
     },
     {
       "artist": "Tank",
       "track": "\"Heavy Artillery",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 719.92
     },
     {
       "artist": "Rolling Stones",
@@ -62,7 +65,8 @@
     {
       "artist": "Robert Plant",
       "track": "\"Worse Than Detroit\" (LP - Pictures At Eleven) Swan Song",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4246.78
     },
     {
       "artist": "Saracen",
@@ -77,7 +81,8 @@
     {
       "artist": "No Quarter",
       "track": "\"The Last Song\" (Session) TV - \"Not their last song, they've got two more to go.\"",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3150.76
     },
     {
       "artist": null,
@@ -102,7 +107,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 48.46
     },
     {
       "artist": "Rage - 'Long Way From Home' (LP",
@@ -127,12 +133,14 @@
     {
       "artist": null,
       "track": "Tank - '(He Fell in Love with a) Stormtrooper' (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5703.7
     },
     {
       "artist": "Eric Clapton - 'Cocaine' (LP",
       "track": "Just One Night)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6500.32
     },
     {
       "artist": null,

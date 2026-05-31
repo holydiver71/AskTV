@@ -19,42 +19,50 @@
     {
       "artist": "The Who",
       "track": "Summertime Blues",
-      "details": "LP-Live At Leeds"
+      "details": "LP-Live At Leeds",
+      "verified_timestamp": 516.82
     },
     {
       "artist": "Nazareth",
       "track": "Morning Dew",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Trust",
       "track": "Paris Is Still Burning",
-      "details": "LP-Repression"
+      "details": "LP-Repression",
+      "verified_timestamp": 662.0
     },
     {
       "artist": "Billy Squier",
       "track": "My Kind Of Lover",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Bernie Marsden",
       "track": "Look At Me Now",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1145.39
     },
     {
       "artist": "Supertramp",
       "track": "Child Of Vision",
-      "details": "LP-Breakfast In America"
+      "details": "LP-Breakfast In America",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Rolling Stones",
       "track": "Slave",
-      "details": "LP-Tattoo You"
+      "details": "LP-Tattoo You",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "38 Special",
       "track": "The First Time Around",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 2460.51
     },
     {
       "artist": "Bernie Marsden",
@@ -64,22 +72,26 @@
     {
       "artist": "Rose Tattoo",
       "track": "Sidewalk Sally",
-      "details": "LP-Assault and Battery"
+      "details": "LP-Assault and Battery",
+      "verified_timestamp": 2998.17
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 65.01
     },
     {
       "artist": "Greg Lake",
       "track": "Nuclear Attack",
-      "details": "LP-Greg Lake"
+      "details": "LP-Greg Lake",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Steve Hackett",
       "track": "Picture Postcard",
-      "details": "LP-Cured"
+      "details": "LP-Cured",
+      "verified_timestamp": 3176.86
     },
     {
       "artist": "Bernie Marsden",
@@ -89,17 +101,20 @@
     {
       "artist": "Tangerine Dream",
       "track": "Choronzon",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Starfighters",
       "track": "'Devil's Driving'",
-      "details": "LP-Starfighters"
+      "details": "LP-Starfighters",
+      "verified_timestamp": 5356.47
     },
     {
       "artist": "Van Halen",
       "track": "'Ain't Talkin' 'Bout Love'",
-      "details": "LP-Van Halen"
+      "details": "LP-Van Halen",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Body",

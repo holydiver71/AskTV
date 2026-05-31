@@ -22,7 +22,8 @@
     {
       "artist": "Rush",
       "track": "Overture / The Temples Of Syrinx",
-      "details": "LP-2112; Mercury"
+      "details": "LP-2112; Mercury",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Blue Öyster Cult",
@@ -32,27 +33,32 @@
     {
       "artist": "Demon",
       "track": "Night Of The Demon",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 731.26
     },
     {
       "artist": "Frank Marino",
       "track": "Young Man",
-      "details": "LP-The Power Of Rock And Roll; CBS"
+      "details": "LP-The Power Of Rock And Roll; CBS",
+      "verified_timestamp": 1209.59
     },
     {
       "artist": "Utopia",
       "track": "Overture / Communion With The Sun",
-      "details": "LP-Ra; Bearsville / Warner Bros"
+      "details": "LP-Ra; Bearsville / Warner Bros",
+      "verified_timestamp": 1978.99
     },
     {
       "artist": "Def Leppard",
       "track": "Wasted",
-      "details": "Peebles Session"
+      "details": "Peebles Session",
+      "verified_timestamp": 1925.5
     },
     {
       "artist": "Genesis",
       "track": "Abacab",
-      "details": "7\"; Charisma"
+      "details": "7\"; Charisma",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Steve Hackett",
@@ -72,12 +78,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.85
     },
     {
       "artist": "Bernie Marsden",
       "track": "Look At Me Now",
-      "details": "7\"; Parlophone"
+      "details": "7\"; Parlophone",
+      "verified_timestamp": 4597.66
     },
     {
       "artist": "Demon",
@@ -97,7 +105,8 @@
     {
       "artist": "Spider",
       "track": "All The Time",
-      "details": "7\"; City"
+      "details": "7\"; City",
+      "verified_timestamp": 683.73
     },
     {
       "artist": "Demon",
@@ -117,7 +126,8 @@
     {
       "artist": "Jimi Hendrix",
       "track": "Red House",
-      "details": "LP-Hendrix In The West; Polydor"
+      "details": "LP-Hendrix In The West; Polydor",
+      "verified_timestamp": 6216.1
     }
   ],
   "transcript": [

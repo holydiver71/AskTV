@@ -23,27 +23,32 @@
     {
       "artist": "Krokus",
       "track": "Ballroom Blitz",
-      "details": "LP- The Blitz"
+      "details": "LP- The Blitz",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "WASP",
       "track": "School Daze",
-      "details": "LP - WASP"
+      "details": "LP - WASP",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Wildfire",
       "track": "Summer Lightning",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 575.56
     },
     {
       "artist": "Saxon",
       "track": "Wheels Of Steel",
-      "details": "LP - Strong Arm Metal"
+      "details": "LP - Strong Arm Metal",
+      "verified_timestamp": 1197.09
     },
     {
       "artist": "Marillion",
       "track": "Assassing",
-      "details": "LP - Real To Reel"
+      "details": "LP - Real To Reel",
+      "verified_timestamp": 1276.77
     },
     {
       "artist": "Underground Zero",
@@ -63,7 +68,8 @@
     {
       "artist": "Dennis De Young",
       "track": "Please",
-      "details": "LP = Desert Moon"
+      "details": "LP = Desert Moon",
+      "verified_timestamp": 25.17
     },
     {
       "artist": "Wildfire",
@@ -73,12 +79,14 @@
     {
       "artist": "Evil",
       "track": "'Evil's Message / Evil'",
-      "details": "LP - Evil's Message"
+      "details": "LP - Evil's Message",
+      "verified_timestamp": 2818.56
     },
     {
       "artist": "Deep Purple",
       "track": "Under The Gun",
-      "details": "LP - Perfect Strangers"
+      "details": "LP - Perfect Strangers",
+      "verified_timestamp": 3509.32
     },
     {
       "artist": "Underground Zero",
@@ -118,7 +126,8 @@
     {
       "artist": "Underground Zero",
       "track": "Never Reach The Stars",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 3560.52
     },
     {
       "artist": "John Cafferty And The Beaver Brown Band",

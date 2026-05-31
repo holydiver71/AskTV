@@ -19,7 +19,8 @@
     {
       "artist": null,
       "track": "Aerosmith - Let the Music Do the Talking",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": null,
@@ -29,7 +30,8 @@
     {
       "artist": null,
       "track": "Marillion - Heart of Lothian",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1274.27
     },
     {
       "artist": null,
@@ -49,17 +51,20 @@
     {
       "artist": null,
       "track": "Cities - Innocent Victim",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2495.45
     },
     {
       "artist": null,
       "track": "Iron Maiden - Run to the Hills (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2340.0
     },
     {
       "artist": null,
       "track": "Magnum - Just Like an Arrow",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
@@ -79,22 +84,26 @@
     {
       "artist": null,
       "track": "Night Ranger - Faces",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4835.77
     },
     {
       "artist": null,
       "track": "Rush - Different Strings",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3780.0
     },
     {
       "artist": null,
       "track": "Gary Moore - Shapes of Things (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4816.15
     },
     {
       "artist": null,
       "track": "Ozzy Osbourne - Waiting for Darkness",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,
@@ -109,7 +118,8 @@
     {
       "artist": null,
       "track": "Y&T - Anytime at All",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5514.2
     }
   ],
   "transcript": [

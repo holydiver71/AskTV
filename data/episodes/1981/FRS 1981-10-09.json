@@ -12,22 +12,26 @@
     {
       "artist": "Frank Marino & Mahogany Rush",
       "track": "Rock Me Baby",
-      "details": "LP - What's Next"
+      "details": "LP - What's Next",
+      "verified_timestamp": 570.5
     },
     {
       "artist": "Foreigner",
       "track": "Juke Box Hero",
-      "details": "LP - Foreigner IV"
+      "details": "LP - Foreigner IV",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Black Sabbath",
       "track": "The Mob Rules",
-      "details": "LP - Heavy Metal Soundtrack"
+      "details": "LP - Heavy Metal Soundtrack",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "John Martyn",
       "track": "Please Fall In Love",
-      "details": "Single"
+      "details": "Single",
+      "verified_timestamp": 1049.68
     },
     {
       "artist": "Budgie",
@@ -37,7 +41,8 @@
     {
       "artist": "Whitesnake",
       "track": "Ain't No Love In The Heart Of The City",
-      "details": "LP - Live In The Heart Of The City"
+      "details": "LP - Live In The Heart Of The City",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "HGB",
@@ -47,7 +52,8 @@
     {
       "artist": "Genesis",
       "track": "Like It Or Not",
-      "details": "LP - ABACAB"
+      "details": "LP - ABACAB",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Frank Zappa",
@@ -62,12 +68,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2896.51
     },
     {
       "artist": "Blackfoot",
       "track": "Donington 1981",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6210.47
     },
     {
       "artist": null,

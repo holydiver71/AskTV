@@ -42,6 +42,7 @@ SESSION_ARTIST_THRESHOLD = 75 # rapidfuzz partial_ratio minimum for transcript a
 TRACK_TITLE_THRESHOLD = 80    # rapidfuzz partial_ratio minimum for transcript track-title search
 SESSION_SEARCH_MIN_OFFSET = 120.0  # skip transcript before this offset (avoids opening preview)
 PROBE_DELAY = 1.5             # seconds sleep between API calls (rate limiting)
+EPISODE_DELAY = 4.0           # seconds between processing separate MP3 files
 
 
 # ---------------------------------------------------------------------------
@@ -252,7 +253,7 @@ async def process_episode(
     json_path: Path,
     shazam: Shazam,
     date: str,
-) -> None:
+) -> bool:
     with open(json_path, encoding="utf-8") as fh:
         data = json.load(fh)
 
@@ -261,17 +262,21 @@ async def process_episode(
 
     if not transcript:
         log.warning(f"[{date}] No transcript found — skipping (run transcription first)")
-        return
+        return False
 
     audio_duration = transcript[-1]["end"]
 
-    # Count what needs stamping
+    # Determine which entries still need stamping (those without a verified_timestamp)
     unstamped = [e for e in track_listing if "verified_timestamp" not in e]
 
-    # Idempotency gate — skip when fully stamped
-    if not unstamped:
-        log.info(f"[{date}] Skipping — fully stamped")
-        return
+    # Idempotency gate — skip when the JSON already contains any
+    # verified_timestamp entries or a prior skip marker added by this script.
+    if any(
+        ("verified_timestamp" in e) or ("timescript_verfied" in e)
+        for e in track_listing
+    ):
+        log.info(f"[{date}] Skipping — episode already has verified timestamps or skip marker")
+        return False
 
     n_matched = 0
 
@@ -342,16 +347,25 @@ async def process_episode(
         )
 
     # Atomic write-back once, after all probes
+    # If we found no verified timestamps at all, add a dummy skip marker to
+    # the first track entry so the file will be skipped on re-runs. This
+    # avoids repeatedly probing large MP3s when no matches are possible.
+    if not any("verified_timestamp" in e for e in track_listing):
+        if track_listing:
+            track_listing[0]["timescript_verfied"] = True
+            log.info(f"[{date}] No verified timestamps found — inserted skip marker on first track")
+
     data["track_listing"] = track_listing
     _atomic_write(json_path, data)
     log.info(f"[{date}] Done \u2014 {', '.join(summary_parts)}")
+    return True
 
 
 # ---------------------------------------------------------------------------
 # Main entry point
 # ---------------------------------------------------------------------------
 
-async def main(audio_dir: Path, json_dir: Path, single_mp3: Path | None = None) -> None:
+async def main(audio_dir: Path, json_dir: Path, single_mp3: Path | None = None, episode_delay: float = 0.0) -> None:
     if single_mp3 is not None:
         mp3_files = [single_mp3]
     else:
@@ -382,8 +396,9 @@ async def main(audio_dir: Path, json_dir: Path, single_mp3: Path | None = None) 
 
     for n, (date, mp3_path, json_path) in enumerate(episodes, start=1):
         print(f"[{n}/{total}] Processing {date}…")
+        processed = False
         try:
-            await process_episode(mp3_path, json_path, shazam, date)
+            processed = await process_episode(mp3_path, json_path, shazam, date)
         except KeyboardInterrupt:
             print("\nInterrupt received — stopping after current episode.")
             interrupted = True
@@ -393,6 +408,11 @@ async def main(audio_dir: Path, json_dir: Path, single_mp3: Path | None = None) 
 
         if interrupted:
             break
+
+        # Pause between episodes to avoid hitting rate limits or overloading the API
+        # Only pause when the episode was actually processed (not skipped).
+        if processed and episode_delay and n < total:
+            await asyncio.sleep(episode_delay)
 
     log.info("Run complete.")
 
@@ -413,6 +433,13 @@ if __name__ == "__main__":
         default=None,
         metavar="FILE",
         help="Process a single MP3 file instead of the full year's directory (single year only)",
+    )
+    parser.add_argument(
+        "--episode-delay",
+        type=float,
+        default=EPISODE_DELAY,
+        metavar="SECONDS",
+        help="Seconds to wait between processing separate MP3 files (default: %(default)s)",
     )
     args = parser.parse_args()
 
@@ -435,7 +462,14 @@ if __name__ == "__main__":
         log.info(f"Processing year {year}  |  {audio_dir}")
         log.info("=" * 60)
         try:
-            asyncio.run(main(audio_dir=audio_dir, json_dir=json_dir, single_mp3=args.mp3))
+            asyncio.run(
+                main(
+                    audio_dir=audio_dir,
+                    json_dir=json_dir,
+                    single_mp3=args.mp3,
+                    episode_delay=args.episode_delay,
+                )
+            )
         except KeyboardInterrupt:
             print("\nInterrupt received — stopping after current episode.")
             break

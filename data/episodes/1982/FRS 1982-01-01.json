@@ -30,7 +30,8 @@
     {
       "artist": "Scorpions",
       "track": "Lady Starlight (LP - Animal Magnetism) Harvest",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4397.93
     },
     {
       "artist": "Sammy Hagar",
@@ -50,7 +51,8 @@
     {
       "artist": "Accept",
       "track": "Starlight (LP - Breaker) Metronome Brain",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4397.93
     },
     {
       "artist": "Grand Prix",
@@ -60,7 +62,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 57.55
     }
   ],
   "transcript": [

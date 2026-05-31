@@ -31,7 +31,8 @@
     {
       "artist": "Black Axe",
       "track": "Edge Of The World",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 820.67
     },
     {
       "artist": "AC/DC",
@@ -41,7 +42,8 @@
     {
       "artist": "Blodwyn Pig",
       "track": "Dunstable Truck Driver",
-      "details": "Peel session"
+      "details": "Peel session",
+      "verified_timestamp": 5324.98
     },
     {
       "artist": "Blodwyn Pig",
@@ -51,7 +53,8 @@
     {
       "artist": "Judas Priest",
       "track": "Steeler",
-      "details": "Live"
+      "details": "Live",
+      "verified_timestamp": 1951.43
     },
     {
       "artist": "Holocaust",
@@ -61,7 +64,8 @@
     {
       "artist": "Joe Walsh",
       "track": "Rivers (Of The Hidden Funk) (LP - There Goes The Neighborhood) Asylum",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3196.2
     },
     {
       "artist": "Jethro Tull",
@@ -76,12 +80,14 @@
     {
       "artist": "Sniff 'n' the Tears",
       "track": "That Final Love (7\") Chiswick",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 65.12
     },
     {
       "artist": "Black Axe",
@@ -106,7 +112,8 @@
     {
       "artist": "Barclay James Harvest",
       "track": "Echoes And Shadows (LP - Turn Of The Tide) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5869.37
     },
     {
       "artist": "Black Axe",

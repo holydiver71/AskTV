@@ -18,17 +18,20 @@
     {
       "artist": "Dio",
       "track": "Hungry For Heaven",
-      "details": "7\"; Vertigo"
+      "details": "7\"; Vertigo",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Vandenburg",
       "track": "Pedal To The Medal",
-      "details": "LP-Alibi; ATCO"
+      "details": "LP-Alibi; ATCO",
+      "verified_timestamp": 493.68
     },
     {
       "artist": "Streets On Fire",
       "track": "'Breakin' Out'",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1071.35
     },
     {
       "artist": "Mark Edwards",
@@ -38,12 +41,14 @@
     {
       "artist": "UFO",
       "track": "This Time",
-      "details": "7\"; Chrysalis"
+      "details": "7\"; Chrysalis",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "AC/DC",
       "track": "For Those About To Rock",
-      "details": "LP-For Those About To Rock We Salute You; Atlantic"
+      "details": "LP-For Those About To Rock We Salute You; Atlantic",
+      "verified_timestamp": 1662.92
     },
     {
       "artist": "Streets On Fire",
@@ -58,27 +63,32 @@
     {
       "artist": "Iron Maiden",
       "track": "Children Of The Damned",
-      "details": "2xLP-Live After Death; EMI"
+      "details": "2xLP-Live After Death; EMI",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Joe Lynn Turner",
       "track": "Rescue You",
-      "details": "LP-Rescue You; Elektra"
+      "details": "LP-Rescue You; Elektra",
+      "verified_timestamp": 2384.96
     },
     {
       "artist": "Iron Maiden",
       "track": "Rime Of The Ancient Mariner",
-      "details": "2xLP-Live After Death; EMI"
+      "details": "2xLP-Live After Death; EMI",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Stratus",
       "track": "Run For Your Life",
-      "details": "LP-Throwing Shapes; Steel Trax"
+      "details": "LP-Throwing Shapes; Steel Trax",
+      "verified_timestamp": 3189.8
     },
     {
       "artist": "Iron Maiden",
       "track": "Phantom Of The Opera",
-      "details": "2xLP-Live After Death; EMI"
+      "details": "2xLP-Live After Death; EMI",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Streets On Fire",
@@ -88,17 +98,20 @@
     {
       "artist": "Rush",
       "track": "Middletown Dreams",
-      "details": "7\"-The Big Money; Vertigo"
+      "details": "7\"-The Big Money; Vertigo",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "Rush",
       "track": "The Big Money",
-      "details": "7\"; Vertigo"
+      "details": "7\"; Vertigo",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Alaska",
       "track": "Show Some Emotion",
-      "details": "7\"; Bronze"
+      "details": "7\"; Bronze",
+      "verified_timestamp": 5093.45
     },
     {
       "artist": "Streets On Fire",

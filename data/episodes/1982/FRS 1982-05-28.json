@@ -43,12 +43,14 @@
     {
       "artist": "Stampede",
       "track": "The Other Side",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1134.12
     },
     {
       "artist": "Bernie Tormé",
       "track": "No Reply (LP - Turn Out The Lights) Kamaflage",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1149.92
     },
     {
       "artist": "Fist",
@@ -83,7 +85,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 509.87
     },
     {
       "artist": null,
@@ -98,7 +101,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection (continued)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3304.58
     },
     {
       "artist": "Stampede",
@@ -128,17 +132,20 @@
     {
       "artist": "Hawkwind",
       "track": "Silver Machine And Welcome (v/a 3xLP - Glastonbury Fayre - The Electric Score) Revelation Enterprises",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6486.99
     },
     {
       "artist": "Hawkwind",
       "track": "Angel Voices (LP - Church Of Hawkwind) RCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6199.66
     },
     {
       "artist": "Hawkwind",
       "track": "Nuclear Drive (LP - Church Of Hawkwind) RCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6199.66
     },
     {
       "artist": "Stampede",

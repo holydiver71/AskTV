@@ -18,7 +18,8 @@
     {
       "artist": "Sabu",
       "track": "New Girl In Town",
-      "details": "LP-Heartbreak; Heavy Metal America"
+      "details": "LP-Heartbreak; Heavy Metal America",
+      "verified_timestamp": 499.08
     },
     {
       "artist": "Bulldozer",
@@ -28,42 +29,50 @@
     {
       "artist": "AC / DC",
       "track": "Playing With Girls",
-      "details": "LP-Fly On The Wall; Atlantic"
+      "details": "LP-Fly On The Wall; Atlantic",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "AC / DC",
       "track": "Shoot To Thrill",
-      "details": "LP-Back In Black; Atlantic"
+      "details": "LP-Back In Black; Atlantic",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Gary Moore",
       "track": "Empty Rooms",
-      "details": "12\" Single; 10 Records"
+      "details": "12\" Single; 10 Records",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Gunslingers",
       "track": "Monster",
-      "details": "FRS session 1985-03-22"
+      "details": "FRS session 1985-03-22",
+      "verified_timestamp": 1900.02
     },
     {
       "artist": "Dark Wizard",
       "track": "Big Typhoon",
-      "details": "LP-Devil's Victim; Mausoleum"
+      "details": "LP-Devil's Victim; Mausoleum",
+      "verified_timestamp": 2496.43
     },
     {
       "artist": "Chateaux",
       "track": "Highly Strung",
-      "details": "LP-Highly Strung; Ebony"
+      "details": "LP-Highly Strung; Ebony",
+      "verified_timestamp": 2486.24
     },
     {
       "artist": "Alice Cooper",
       "track": "Muscle Of Love",
-      "details": "LP-Muscle Of Love; Warner Bros"
+      "details": "LP-Muscle Of Love; Warner Bros",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Thrasher",
       "track": "Burning At The Speed Of Light",
-      "details": "LP-Burning At The Speed Of Light; Music For Nations"
+      "details": "LP-Burning At The Speed Of Light; Music For Nations",
+      "verified_timestamp": 3101.9
     },
     {
       "artist": "Gunslingers",
@@ -73,12 +82,14 @@
     {
       "artist": "ZZ Top",
       "track": "If I Could Only Flag Her Down",
-      "details": "LP-Eliminator; Warner Bros"
+      "details": "LP-Eliminator; Warner Bros",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Chrome Molly",
       "track": "Take It Or Leave It",
-      "details": "LP-12\" Single; Powerstation"
+      "details": "LP-12\" Single; Powerstation",
+      "verified_timestamp": 3584.8
     },
     {
       "artist": "Nils Lofgren",
@@ -88,12 +99,14 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4098.75
     },
     {
       "artist": "Tyrant",
       "track": "We Stay Free",
-      "details": "LP-Mean Machine; Mausoleum"
+      "details": "LP-Mean Machine; Mausoleum",
+      "verified_timestamp": 5819.3
     },
     {
       "artist": "Gunslingers",
@@ -108,17 +121,20 @@
     {
       "artist": "George Thorogood & The Destroyers",
       "track": "Willy And The Hand Jive",
-      "details": "LP-Maverick; EMI America"
+      "details": "LP-Maverick; EMI America",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Stevie Lange",
       "track": "Remember My Name",
-      "details": "7\" Single; RCA"
+      "details": "7\" Single; RCA",
+      "verified_timestamp": 6393.12
     },
     {
       "artist": "Whitesnake",
       "track": "Crying In The Rain",
-      "details": "LP-Saints And Sinners; Liberty"
+      "details": "LP-Saints And Sinners; Liberty",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Gunslingers",

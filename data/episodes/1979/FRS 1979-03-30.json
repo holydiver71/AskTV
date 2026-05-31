@@ -23,7 +23,9 @@
       "artist": "Golden Earring",
       "track": "Radar Love",
       "details": "LP-Moontan; Track Record",
-      "verified_timestamp": 180.0
+      "verified_timestamp": 180.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "radio played that forgotten song"
     },
     {
       "artist": "Bram Tchaikovsky",
@@ -124,7 +126,9 @@
     {
       "artist": "Man",
       "track": "Many Are Called, But Few Get Up",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "many are called but few"
     },
     {
       "artist": "The Boyzz",
@@ -384,7 +388,7 @@
     {
       "start": 2018.1,
       "end": 2022.98,
-      "text": "Sex Pestles and Silly Thing."
+      "text": "Sex Pistols and Silly Thing."
     },
     {
       "start": 2025.05,

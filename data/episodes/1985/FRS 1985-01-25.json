@@ -23,7 +23,8 @@
     {
       "artist": "Molly Hatchet",
       "track": "Satisfied Man",
-      "details": "LP-The Deed Is Done; Epic"
+      "details": "LP-The Deed Is Done; Epic",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "ZZ Top",
@@ -33,32 +34,38 @@
     {
       "artist": "Robin George",
       "track": "Hit List",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 689.58
     },
     {
       "artist": "Earthshaker",
       "track": "Radio Magic",
-      "details": "LP-Midnight Flight; Roadrunner"
+      "details": "LP-Midnight Flight; Roadrunner",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Gunslingers",
       "track": "Never A Dull Moment",
-      "details": "7\"; EGO"
+      "details": "7\"; EGO",
+      "verified_timestamp": 1725.84
     },
     {
       "artist": "Tokyo Blade",
       "track": "Night Of The Blade",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1712.32
     },
     {
       "artist": "Terraplane",
       "track": "'I Can't Live Without Your Love (12\")' (Epic)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2287.7
     },
     {
       "artist": "Jeff Beck",
       "track": "The Pump",
-      "details": "LP-There & Back; Epic"
+      "details": "LP-There & Back; Epic",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Robin George",
@@ -83,7 +90,8 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 68.63
     },
     {
       "artist": "Robin George",
@@ -103,17 +111,20 @@
     {
       "artist": "Uli Jon Roth & Electric Sun",
       "track": "The Night The Master Comes",
-      "details": "LP-Beyond The Astral Skies; EMI"
+      "details": "LP-Beyond The Astral Skies; EMI",
+      "verified_timestamp": 5322.14
     },
     {
       "artist": "Starz",
       "track": "Pull The Plug",
-      "details": "LP-Starz; Capitol/EMI"
+      "details": "LP-Starz; Capitol/EMI",
+      "verified_timestamp": 6038.04
     },
     {
       "artist": "Teaze",
       "track": "Heartless World",
-      "details": "LP-One Night Stands; Heavy Metal America"
+      "details": "LP-One Night Stands; Heavy Metal America",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Robin George",

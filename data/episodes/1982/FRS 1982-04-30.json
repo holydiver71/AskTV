@@ -20,12 +20,14 @@
     {
       "artist": "Tank",
       "track": "‘Hammer On’",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 539.12
     },
     {
       "artist": "Aldo Nova",
       "track": "‘Fantasy (LP-Aldo Nova)' (Portrait)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1120.16
     },
     {
       "artist": "Jethro Tull",
@@ -65,12 +67,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 59.64
     },
     {
       "artist": "Tank",
       "track": "‘(He Fell In Love With A) Stormtrooper’ (FRS Session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4598.22
     },
     {
       "artist": "Scorpions",

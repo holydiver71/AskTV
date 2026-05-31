@@ -27,122 +27,154 @@
     {
       "artist": "Bandit",
       "track": "Change Of Heart",
-      "details": "LP-Partners In Crime"
+      "details": "LP-Partners In Crime",
+      "verified_timestamp": 821.76
     },
     {
       "artist": "Who",
       "track": "'Won't Get Fooled Again'",
-      "details": "LP-Who's Next"
+      "details": "LP-Who's Next",
+      "verified_timestamp": 782.6
     },
     {
       "artist": "Runner",
       "track": "Dynamite",
-      "details": "LP-Runner"
+      "details": "LP-Runner",
+      "verified_timestamp": 1407.44
     },
     {
       "artist": "Frank Marino & Mahogany Rush",
       "track": "All Along The Watchtower",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Long Grey Mare",
-      "details": "Top Gear 1967-11-07"
+      "details": "Top Gear 1967-11-07",
+      "verified_timestamp": 2389.97
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Baby Please Set A Date",
-      "details": "Top Gear 1967-11-07"
+      "details": "Top Gear 1967-11-07",
+      "verified_timestamp": 2387.49
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Blues With A Feeling",
-      "details": "Top Gear 1969-03-10"
+      "details": "Top Gear 1969-03-10",
+      "verified_timestamp": 2385.93
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Tallahassie Lassie",
-      "details": "Top Gear 1969-03-10"
+      "details": "Top Gear 1969-03-10",
+      "verified_timestamp": 2383.43
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Man Of The World",
-      "details": "Top Gear 1969-03-10"
+      "details": "Top Gear 1969-03-10",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "shall i tell you about",
+      "verified_timestamp": 793.14
     },
     {
       "artist": "Damned",
       "track": "Neat Neat Neat",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "XTC",
       "track": "Life Begins At The Hop",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Steely Dan",
       "track": "Royal Scam",
-      "details": "LP-Royal Scam"
+      "details": "LP-Royal Scam",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Robert Palmer",
       "track": "Fine Time",
-      "details": "LP-Pressure Drop"
+      "details": "LP-Pressure Drop",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Robert Fripp",
       "track": "'You Burn Me Up I'm A Cigarette'",
-      "details": "LP-Exposure"
+      "details": "LP-Exposure",
+      "verified_timestamp": 3727.72
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3786.71
     },
     {
       "artist": "David Bowie",
       "track": "Red Sails",
-      "details": "LP-Lodger"
+      "details": "LP-Lodger",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "David Bowie",
       "track": "DJ",
-      "details": "LP-Lodger"
+      "details": "LP-Lodger",
+      "verified_timestamp": 5635.18
     },
     {
       "artist": "David Bowie",
       "track": "Look Back In Anger",
-      "details": "LP-Lodger"
+      "details": "LP-Lodger",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Jumping At Shadows",
-      "details": "Chris Grant 1969-06-10"
+      "details": "Chris Grant 1969-06-10",
+      "verified_timestamp": 6171.79
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Linda",
-      "details": "DLT 1969-10-06"
+      "details": "DLT 1969-10-06",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i don t want to",
+      "verified_timestamp": 787.96
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Oh Well",
-      "details": "DLT 1969-10-06"
+      "details": "DLT 1969-10-06",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "about the shape i m",
+      "verified_timestamp": 3879.75
     },
     {
       "artist": "Orleans",
       "track": "'Don't Throw Our Love Away'",
-      "details": "LP-Forever"
+      "details": "LP-Forever",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t throw our love",
+      "verified_timestamp": 6560.13
     },
     {
       "artist": "Jethro Tull",
       "track": "Living In The Past",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Rolling Stones",
       "track": "Time Waits For No-One",
-      "details": null
+      "details": null,
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [
@@ -619,7 +651,7 @@
     {
       "start": 2842.52,
       "end": 2845.9,
-      "text": "Number four, Parkview, Beeford, Winkley, North Devon in Devon."
+      "text": "[redacted address], Beeford, Winkley, North Devon in Devon."
     },
     {
       "start": 2847.8,

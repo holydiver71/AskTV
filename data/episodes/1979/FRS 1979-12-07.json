@@ -136,7 +136,9 @@
     {
       "artist": "Tyrannosaurus Rex",
       "track": "Jewel",
-      "details": "DLT session 1970-12-09"
+      "details": "DLT session 1970-12-09",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i ve got a little"
     },
     {
       "artist": "Tyrannosaurus Rex",

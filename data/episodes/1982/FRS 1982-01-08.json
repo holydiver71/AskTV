@@ -21,7 +21,8 @@
     {
       "artist": "Sammy Hagar",
       "track": "'There's Only One Way To Rock (LP - Standing Hampton) Geffen",
-      "details": null
+      "details": null,
+      "verified_timestamp": 686.05
     },
     {
       "artist": "Status Quo",
@@ -41,7 +42,8 @@
     {
       "artist": "As Above...So Below",
       "track": "City In The Sea",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1243.32
     },
     {
       "artist": "Pat Metheny & Lyle Mays",
@@ -51,7 +53,8 @@
     {
       "artist": "Boxer",
       "track": "Shooting Stars",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1865.38
     },
     {
       "artist": "Sweet Savage",
@@ -76,7 +79,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.31
     },
     {
       "artist": "Atlanta Rhythm Section",

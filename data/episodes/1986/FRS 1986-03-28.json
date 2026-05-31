@@ -23,7 +23,8 @@
     {
       "artist": null,
       "track": "Dokken - In My Dreams",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4680.0
     },
     {
       "artist": null,
@@ -33,12 +34,14 @@
     {
       "artist": null,
       "track": "Van Halen - Get Up",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5220.0
     },
     {
       "artist": null,
       "track": "Van Halen - Good Enough",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5580.0
     },
     {
       "artist": null,
@@ -48,17 +51,681 @@
     {
       "artist": null,
       "track": "Rolling Stones - One Hit (To the Body)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6300.0
     },
     {
       "artist": null,
       "track": "Metallica - Master of Puppets",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6480.0
     },
     {
       "artist": null,
       "track": "Saxon - Rock'n'Roll Gypsy",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 7.35,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 7.35,
+      "end": 19.64,
+      "text": "Well, hello there. This is TV on the Radio, Thomas Vance here, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 19.64,
+      "end": 25.8,
+      "text": "And tonight, the first 75 minutes feature the concert that we recorded last year in London at the AMEO."
+    },
+    {
+      "start": 25.8,
+      "end": 32.39,
+      "text": "And the band on stage was Saxon."
+    },
+    {
+      "start": 32.39,
+      "end": 57.93,
+      "text": "So that's Saxon in concert for the first 75 minutes, then we have Dokken, Exciter, a couple of tracks from the new Van Halen album, an album track by a band called Outside Edge, Sunday by the Rolling Stones, and an excellent closer from Metallica."
+    },
+    {
+      "start": 59.15,
+      "end": 86.31,
+      "text": "Waiting for this one, London. We knew our fans down here at Hammersmith wouldn't forget us, you know. Okay. Are you with us tonight?"
+    },
+    {
+      "start": 86.31,
+      "end": 99.05,
+      "text": "we're gonna play some new songs and you're gonna like them we're gonna play some old songs"
+    },
+    {
+      "start": 99.05,
+      "end": 107.46,
+      "text": "and we're gonna go crazy in between all right okay i've only got one thing to say"
+    },
+    {
+      "start": 107.46,
+      "end": 110.32,
+      "text": "just has to be back on the streets right"
+    },
+    {
+      "start": 110.32,
+      "end": 760.66,
+      "text": "we're just having a good time okay all right i don't know if anybody knows but"
+    },
+    {
+      "start": 760.66,
+      "end": 765.98,
+      "text": "There's a mobile outside tonight, and we're gonna be recording this for Radio 1, I think."
+    },
+    {
+      "start": 766.4,
+      "end": 784.32,
+      "text": "You don't need to think we've got a bunch of wimps in here tonight, do we?"
+    },
+    {
+      "start": 785.75,
+      "end": 789.37,
+      "text": "Okay, now then, this one's called The Devil."
+    },
+    {
+      "start": 790.01,
+      "end": 1078.62,
+      "text": "Listen, let's do a bit of making some noise, eh?"
+    },
+    {
+      "start": 1080.32,
+      "end": 1083.06,
+      "text": "Come on, talk to Biff, I don't bite, you know."
+    },
+    {
+      "start": 1093.57,
+      "end": 1095.35,
+      "text": "Let's go, let's go, let's go, let's go, let's go."
+    },
+    {
+      "start": 1098.42,
+      "end": 1098.86,
+      "text": "Pathetic."
+    },
+    {
+      "start": 1105.04,
+      "end": 1106.4,
+      "text": "Even more pathetic."
+    },
+    {
+      "start": 1106.4,
+      "end": 1111.48,
+      "text": "Okay, what do you say?"
+    },
+    {
+      "start": 1111.48,
+      "end": 1119.32,
+      "text": "Okay, this one's called The Power And The Glory"
+    },
+    {
+      "start": 1505.5,
+      "end": 1509.6,
+      "text": "...new song, this one's called The Broken Heroes"
+    },
+    {
+      "start": 1509.6,
+      "end": 1911.77,
+      "text": "Okay, here's a song we play all over the world"
+    },
+    {
+      "start": 1911.77,
+      "end": 1919.05,
+      "text": "the world and everybody seems to go crazy to it it's a song we played at donington last time we"
+    },
+    {
+      "start": 1919.05,
+      "end": 1926.36,
+      "text": "played it in fact the first time we played it we wrote this song it's called the bands played on"
+    },
+    {
+      "start": 1927.64,
+      "end": 2134.78,
+      "text": "it's gonna make us cry or something what's the matter with you"
+    },
+    {
+      "start": 2136.52,
+      "end": 2143.56,
+      "text": "we're supposed to be toughies you know what i mean okay this one's a song from our last album"
+    },
+    {
+      "start": 2143.56,
+      "end": 2155.85,
+      "text": "crusader okay yeah we like it as well you know okay it's called crusader"
+    },
+    {
+      "start": 2158.65,
+      "end": 2531.6,
+      "text": "some noise wow look at this what'd you say welcome back to hammer smith you bastards"
+    },
+    {
+      "start": 2536.7,
+      "end": 2547.85,
+      "text": "okay here's one you should like i like this one it's about a steam train well i think it is"
+    },
+    {
+      "start": 2547.85,
+      "end": 2835.44,
+      "text": "anyway oh yeah anybody know what it is some ice as if you keep on making lots of noise"
+    },
+    {
+      "start": 2837.47,
+      "end": 2851.93,
+      "text": "you're not getting tired are you are you sure this one's called wait for it you rabble"
+    },
+    {
+      "start": 2853.4,
+      "end": 3812.78,
+      "text": "and the center forward in this team okay wheels of steel and who stopped us in london"
+    },
+    {
+      "start": 3812.78,
+      "end": 3819.6,
+      "text": "about three years ago, it's called The Shrugger of the Law."
+    },
+    {
+      "start": 3821.15,
+      "end": 3822.51,
+      "text": "Come on, Hammersmith."
+    },
+    {
+      "start": 3825.1,
+      "end": 4470.73,
+      "text": "And that's what we call an appreciative crowd."
+    },
+    {
+      "start": 4471.45,
+      "end": 4472.11,
+      "text": "Excellent concert."
+    },
+    {
+      "start": 4472.25,
+      "end": 4475.17,
+      "text": "Recorded last year at the Hammersmith Odeon in London Town."
+    },
+    {
+      "start": 4475.39,
+      "end": 4477.13,
+      "text": "Saxon, here on the Friday Rock Show."
+    },
+    {
+      "start": 4477.55,
+      "end": 4478.77,
+      "text": "Rockin' the UK."
+    },
+    {
+      "start": 4481.56,
+      "end": 4482.58,
+      "text": "It's 11.15."
+    },
+    {
+      "start": 4483.2,
+      "end": 4485.78,
+      "text": "Join me this Saturday at 2 o'clock as we meet and greet"
+    },
+    {
+      "start": 4485.78,
+      "end": 4488.32,
+      "text": "one of the real characters of the rock and roll business."
+    },
+    {
+      "start": 4488.32,
+      "end": 4491.84,
+      "text": "Picking ten of his all-time favourite records this week is Ozzy Osbourne,"
+    },
+    {
+      "start": 4492.18,
+      "end": 4495.2,
+      "text": "and amongst the subjects under discussion, his school days."
+    },
+    {
+      "start": 4495.34,
+      "end": 4498.6,
+      "text": "I was always in a fantasy world of rock and roll and stardom, you know."
+    },
+    {
+      "start": 4499.0,
+      "end": 4504.12,
+      "text": "My bedroom wall was full of Beatle pictures and, you know, crazy about it, you know."
+    },
+    {
+      "start": 4504.76,
+      "end": 4510.22,
+      "text": "It was real romantic then, it was like, just to see these guys and Ready Steady Go"
+    },
+    {
+      "start": 4510.22,
+      "end": 4512.84,
+      "text": "and all these programmes, it was just amazing."
+    },
+    {
+      "start": 4513.08,
+      "end": 4518.0,
+      "text": "Ozzy Osbourne's top ten records on National Radio 1 this Saturday afternoon at two o'clock."
+    },
+    {
+      "start": 4518.0,
+      "end": 4523.63,
+      "text": "Coming up on the Rock Show, Dokken, Exciter,"
+    },
+    {
+      "start": 4523.79,
+      "end": 4525.31,
+      "text": "a couple of tracks from the Van Halen album,"
+    },
+    {
+      "start": 4525.47,
+      "end": 4526.95,
+      "text": "Outside Edge, a track from their album,"
+    },
+    {
+      "start": 4527.05,
+      "end": 4529.05,
+      "text": "something by the Rolling Stones, and Metallica."
+    },
+    {
+      "start": 4530.14,
+      "end": 4531.64,
+      "text": "Sunday afternoon at 2.30,"
+    },
+    {
+      "start": 4531.76,
+      "end": 4534.36,
+      "text": "our classic concert features from 1972,"
+    },
+    {
+      "start": 4534.72,
+      "end": 4535.96,
+      "text": "the guitar of Jeff Beck."
+    },
+    {
+      "start": 4547.59,
+      "end": 4549.59,
+      "text": "Jeff Beck and his band are the last"
+    },
+    {
+      "start": 4549.59,
+      "end": 4551.51,
+      "text": "in the current series of classic concerts"
+    },
+    {
+      "start": 4551.51,
+      "end": 4554.45,
+      "text": "on National Radio 1 this Sunday at 2.30."
+    },
+    {
+      "start": 4554.95,
+      "end": 5100.61,
+      "text": "That was Exciter from their new album,"
+    },
+    {
+      "start": 5100.77,
+      "end": 5102.71,
+      "text": "the track you heard was called Shout It Out."
+    },
+    {
+      "start": 5104.47,
+      "end": 5107.39,
+      "text": "Before that, Dokken, who are soon to tour in this country along with Accept."
+    },
+    {
+      "start": 5107.71,
+      "end": 5110.33,
+      "text": "They're single. It's just out. It's called In My Dreams."
+    },
+    {
+      "start": 5114.6,
+      "end": 5117.88,
+      "text": "1125, the Friday Rock Show, BBC Radio 1. How are you doing tonight?"
+    },
+    {
+      "start": 5118.39,
+      "end": 5121.05,
+      "text": "This is a little communication that comes from Carlisle, Cumbria."
+    },
+    {
+      "start": 5121.37,
+      "end": 5126.31,
+      "text": "Actually from Glasson, from Mill Road, a lady called Julia Stafford, I think."
+    },
+    {
+      "start": 5126.97,
+      "end": 5128.69,
+      "text": "Julie, actually, not Julia. Hello, Julie."
+    },
+    {
+      "start": 5129.75,
+      "end": 5132.53,
+      "text": "A mention, please, for Kevin and Dale Foster of Glasson."
+    },
+    {
+      "start": 5132.53,
+      "end": 5139.51,
+      "text": "wish kevin a very happy 21st birthday upcoming on the 1st of april what is something by motley"
+    },
+    {
+      "start": 5139.51,
+      "end": 5148.9,
+      "text": "crew not got any tonight but what's upcoming is good quite a number of people wrote in and said"
+    },
+    {
+      "start": 5148.9,
+      "end": 5152.78,
+      "text": "thanks very much for putting up the yes concert it's our pleasure it's our job we're happy to do"
+    },
+    {
+      "start": 5152.78,
+      "end": 5158.26,
+      "text": "it particularly nice but short letter short but pleasant letter from chris stothard of queen's"
+    },
+    {
+      "start": 5158.26,
+      "end": 5164.14,
+      "text": "estate wayne fleets and mary and skegness thomas thank you very much for tonight's rock show i"
+    },
+    {
+      "start": 5164.14,
+      "end": 5169.78,
+      "text": "can't help feeling how lucky we were to have been young, when yes, we're the magic."
+    },
+    {
+      "start": 5170.96,
+      "end": 5176.1,
+      "text": "Well, music of every era is magic to the people of the era, and I'm glad it brought back some"
+    },
+    {
+      "start": 5176.1,
+      "end": 5177.14,
+      "text": "good memories for you, sir."
+    },
+    {
+      "start": 5179.98,
+      "end": 5181.76,
+      "text": "Stephen Cole is 14, how do I know?"
+    },
+    {
+      "start": 5181.9,
+      "end": 5186.66,
+      "text": "He told me in this letter from Bishopgate in Norwich in Norfolk, listens to the show"
+    },
+    {
+      "start": 5186.66,
+      "end": 5191.44,
+      "text": "every week, and while he was listening, he put together some artwork, it was extremely"
+    },
+    {
+      "start": 5191.44,
+      "end": 5201.6,
+      "text": "good for a fella of 14. Mr. Cole, you're an artistic chap. Van Halen has a new album out"
+    },
+    {
+      "start": 5201.6,
+      "end": 5725.16,
+      "text": "and here are two tracks from it. Sammy Hagar is now the lead singer of Van Halen. The album is"
+    },
+    {
+      "start": 5725.16,
+      "end": 5734.45,
+      "text": "called 5150. We heard two tracks from it there. Good Enough and Get Up. Excellent album. If you're"
+    },
+    {
+      "start": 5734.45,
+      "end": 5739.67,
+      "text": "into Van Halen, you will not be disappointed. David Lee Roth has gone off. He wants to be a"
+    },
+    {
+      "start": 5739.67,
+      "end": 5742.73,
+      "text": "movie star and made a movie and they won't release it. So he's suing everybody for"
+    },
+    {
+      "start": 5743.13,
+      "end": 5745.29,
+      "text": "It's $25 million in the States or something like that."
+    },
+    {
+      "start": 5746.84,
+      "end": 5749.06,
+      "text": "I think we ought to dedicate the Van Halen track store gentleman"
+    },
+    {
+      "start": 5749.06,
+      "end": 5751.66,
+      "text": "who's been writing to this programme and listening to this programme"
+    },
+    {
+      "start": 5751.66,
+      "end": 5753.68,
+      "text": "right since it started years ago."
+    },
+    {
+      "start": 5754.2,
+      "end": 5755.92,
+      "text": "Dave Bailey of Street and Somerset."
+    },
+    {
+      "start": 5756.66,
+      "end": 5759.02,
+      "text": "He writes, well, I think I could be safely said"
+    },
+    {
+      "start": 5759.02,
+      "end": 5761.2,
+      "text": "that Somerset is hardly the rock capital of England."
+    },
+    {
+      "start": 5761.56,
+      "end": 5763.98,
+      "text": "However, I'm doing my utmost to change all that, he says in his letter."
+    },
+    {
+      "start": 5764.73,
+      "end": 5766.53,
+      "text": "So he's writing to us for a bit of assistance."
+    },
+    {
+      "start": 5767.21,
+      "end": 5770.85,
+      "text": "I'm holding a rock night every Thursday at the Albert Inn in Street."
+    },
+    {
+      "start": 5771.13,
+      "end": 5772.41,
+      "text": "That's the Albert Inn in Street."
+    },
+    {
+      "start": 5772.41,
+      "end": 5778.55,
+      "text": "interest is slowly but surely growing we need a bit more support from outside the locality if"
+    },
+    {
+      "start": 5778.55,
+      "end": 5783.49,
+      "text": "we're going to achieve a world domination there you go that's a bit of a mention for you thursday"
+    },
+    {
+      "start": 5783.49,
+      "end": 5794.56,
+      "text": "albert in street dave bailey pandora and trash queen live in erdington in birmingham great name"
+    },
+    {
+      "start": 5794.56,
+      "end": 5799.56,
+      "text": "trash queen we wonder they say if you do us a favor we happen to know that the friday night"
+    },
+    {
+      "start": 5799.56,
+      "end": 5805.9,
+      "text": "rock show is our music teacher's favorite radio program an enlightened man therefore would you"
+    },
+    {
+      "start": 5805.9,
+      "end": 5812.72,
+      "text": "please say hello to mr j jones of sutton coalfield girls school for us consider it done mr jones"
+    },
+    {
+      "start": 5812.72,
+      "end": 5821.9,
+      "text": "well done sir pandora and trash queen talk happy birthday to patrick 18 26 of this month"
+    },
+    {
+      "start": 5821.9,
+      "end": 5828.58,
+      "text": "any record for him regards from mark the venom nutter and also from mom and dad"
+    },
+    {
+      "start": 5828.58,
+      "end": 5831.22,
+      "text": "That's the Southworth family of Ramsgate and Kent"
+    },
+    {
+      "start": 5831.22,
+      "end": 5835.24,
+      "text": "Another one here"
+    },
+    {
+      "start": 5835.24,
+      "end": 5837.56,
+      "text": "This is from Lower Western, Bath and Avon"
+    },
+    {
+      "start": 5837.56,
+      "end": 5840.6,
+      "text": "It's signed Lindsay, L-I-N-Z-I"
+    },
+    {
+      "start": 5840.6,
+      "end": 5841.44,
+      "text": "Attention"
+    },
+    {
+      "start": 5841.44,
+      "end": 5843.54,
+      "text": "To a fella called Mark"
+    },
+    {
+      "start": 5843.54,
+      "end": 5845.56,
+      "text": "Or Sissy to his mates"
+    },
+    {
+      "start": 5845.56,
+      "end": 5847.78,
+      "text": "This is for the Friday Rock Show"
+    },
+    {
+      "start": 5847.78,
+      "end": 5848.86,
+      "text": "In South North in London"
+    },
+    {
+      "start": 5848.86,
+      "end": 5851.54,
+      "text": "While I am unfortunately in Bath"
+    },
+    {
+      "start": 5851.54,
+      "end": 5853.4,
+      "text": "The town, not the shop"
+    },
+    {
+      "start": 5853.4,
+      "end": 5855.7,
+      "text": "Tell Sissy that I love him"
+    },
+    {
+      "start": 5855.7,
+      "end": 5856.88,
+      "text": "And I miss him very much"
+    },
+    {
+      "start": 5856.88,
+      "end": 5860.04,
+      "text": "And I cannot wait till we're back together again"
+    },
+    {
+      "start": 5860.04,
+      "end": 5941.96,
+      "text": "up north on friday"
+    },
+    {
+      "start": 5941.96,
+      "end": 6413.71,
+      "text": "three minutes to midnight that's a track from the new album that's just come out"
+    },
+    {
+      "start": 6413.71,
+      "end": 6417.79,
+      "text": "by the rolling stones a one hit on the rolling stones record label the"
+    },
+    {
+      "start": 6417.79,
+      "end": 6421.23,
+      "text": "album is actually called dirty work the track was called one hit before that"
+    },
+    {
+      "start": 6421.23,
+      "end": 6423.55,
+      "text": "outside edge and an album that's not out yet they've"
+    },
+    {
+      "start": 6423.55,
+      "end": 6425.87,
+      "text": "got a single out at the moment but that's a track from their"
+    },
+    {
+      "start": 6425.87,
+      "end": 6429.23,
+      "text": "album which is going to be called running hot the track is called don't be a hero"
+    },
+    {
+      "start": 6429.23,
+      "end": 6432.75,
+      "text": "it's an extremely good album that lots of people are asking to hear this"
+    },
+    {
+      "start": 6432.75,
+      "end": 7160.06,
+      "text": "band metallica it would be a nice idea to go out the way we came in because that single was not or"
+    },
+    {
+      "start": 7160.06,
+      "end": 7163.42,
+      "text": "that song rather was not included in the concert it's the best single they've had out in a long"
+    },
+    {
+      "start": 7163.42,
+      "end": 7169.5,
+      "text": "time that is saxon and their single called rock and roll gypsy that's it for this edition of the"
+    },
+    {
+      "start": 7169.5,
+      "end": 7175.68,
+      "text": "friday rock show which as always has been a tony wilson production i trust wherever you are you've"
+    },
+    {
+      "start": 7175.68,
+      "end": 7182.9,
+      "text": "liked it tickled your ear drums well blowing the midnight pips you will hear on fm stereo radio"
+    },
+    {
+      "start": 7182.9,
+      "end": 7189.71,
+      "text": "two on medium wave radio one's news a safe and very pleasant easter tea from all of us"
+    },
+    {
+      "start": 7189.71,
+      "end": 7193.65,
+      "text": "on the music side of radio one i'm tommy vance god bless good night"
     }
   ]
 }

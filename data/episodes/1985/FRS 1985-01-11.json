@@ -18,47 +18,56 @@
     {
       "artist": "Triumph",
       "track": "Spellbound",
-      "details": "LP - Thunder Seven"
+      "details": "LP - Thunder Seven",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Deep Purple",
       "track": "Perfect Strangers",
-      "details": "LP - Perfect Strangers"
+      "details": "LP - Perfect Strangers",
+      "verified_timestamp": 73.0
     },
     {
       "artist": "Van Halen",
       "track": "'Ain't Talking 'Bout Love'",
-      "details": "LP - Van Halen"
+      "details": "LP - Van Halen",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Warfare",
       "track": "Noise, Filth & Fury",
-      "details": "LP - Pure Filth"
+      "details": "LP - Pure Filth",
+      "verified_timestamp": 1095.16
     },
     {
       "artist": "Abandon City",
       "track": "When Your Time Comes",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1149.78
     },
     {
       "artist": "Helix",
       "track": "Gimme Good Lovin",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "TNT",
       "track": "Seven Seas",
-      "details": "12\" - not yet released in UK"
+      "details": "12\" - not yet released in UK",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Alice Cooper",
       "track": "Nurse Rozetta",
-      "details": "LP - From The Inside"
+      "details": "LP - From The Inside",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Seducer",
       "track": "Wild Joker",
-      "details": "LP - Indecent Exposure"
+      "details": "LP - Indecent Exposure",
+      "verified_timestamp": 2660.58
     },
     {
       "artist": "Manowar",
@@ -73,17 +82,20 @@
     {
       "artist": "Sweet",
       "track": "The Sweet Mix",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 3164.09
     },
     {
       "artist": "Foreigner",
       "track": "Tooth And Nail",
-      "details": "Agent Provocateur"
+      "details": "Agent Provocateur",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Terraplane",
       "track": "'I Can't Live Without Your Love'",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 3664.69
     },
     {
       "artist": null,
@@ -93,12 +105,14 @@
     {
       "artist": "Eden",
       "track": "Pound It Out",
-      "details": "Tape only demo"
+      "details": "Tape only demo",
+      "verified_timestamp": 4353.57
     },
     {
       "artist": "Gary Moore",
       "track": "Back On The Streets",
-      "details": "LP - Back On The Streets"
+      "details": "LP - Back On The Streets",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "Abandon City",
@@ -108,22 +122,26 @@
     {
       "artist": "Stone Fury",
       "track": "'Life's Too Lonely'",
-      "details": "LP - Burns Like A Star"
+      "details": "LP - Burns Like A Star",
+      "verified_timestamp": 5000.62
     },
     {
       "artist": "Vardis",
       "track": "Standing In The Road",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 5541.62
     },
     {
       "artist": "James Gang",
       "track": "The Devil Is Singing Our Song",
-      "details": "LP - Bang"
+      "details": "LP - Bang",
+      "verified_timestamp": 5531.6
     },
     {
       "artist": "Pet Hate",
       "track": "One Step Ahead",
-      "details": "LP - Bad Publicity"
+      "details": "LP - Bad Publicity",
+      "verified_timestamp": 6070.26
     },
     {
       "artist": "White Sister",
@@ -138,7 +156,8 @@
     {
       "artist": "Venom",
       "track": "Manitou",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "King Crimson",
@@ -148,7 +167,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "All My Love",
-      "details": "LP - In Through The Out Door"
+      "details": "LP - In Through The Out Door",
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [

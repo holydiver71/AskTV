@@ -35,7 +35,8 @@
     {
       "artist": "Wildlife",
       "track": "Just A Friend",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 684.54
     },
     {
       "artist": "Genesis",
@@ -45,7 +46,8 @@
     {
       "artist": "Genesis",
       "track": "Burning Rope (LP - ...And Then There Were Three) Charisma",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1990.0
     },
     {
       "artist": "Rock Goddess",
@@ -80,7 +82,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4043.14
     },
     {
       "artist": "Wildlife",

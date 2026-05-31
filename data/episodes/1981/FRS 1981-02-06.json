@@ -21,12 +21,14 @@
     {
       "artist": "Vardis",
       "track": "Silver Machine",
-      "details": "7\"; Logo"
+      "details": "7\"; Logo",
+      "verified_timestamp": 649.46
     },
     {
       "artist": "Hawkwind",
       "track": "Motor Way City",
-      "details": "LP-Live Seventy Nine; Bronze"
+      "details": "LP-Live Seventy Nine; Bronze",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Diamond Head",
@@ -36,7 +38,8 @@
     {
       "artist": "Meat Loaf",
       "track": "Bat Out Of Hell",
-      "details": "LP-Bat Out Of Hell; Epic"
+      "details": "LP-Bat Out Of Hell; Epic",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Humble Pie",
@@ -46,12 +49,14 @@
     {
       "artist": "Humble Pie",
       "track": "'Sad Bag Of Shakey Jack' (1969-08-17 Symonds On Sunday Session (First TX 1969-08-24))",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1914.07
     },
     {
       "artist": "Rainbow",
       "track": "Midtown Tunnel Vision",
-      "details": "LP-Difficult To Cure; Polydor"
+      "details": "LP-Difficult To Cure; Polydor",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Diamond Head",
@@ -61,22 +66,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 60.48
     },
     {
       "artist": "Johnny Van Zant",
       "track": "Standing In The Darkness",
-      "details": "LP-No More Dirty Deals; Polydor"
+      "details": "LP-No More Dirty Deals; Polydor",
+      "verified_timestamp": 4396.39
     },
     {
       "artist": "Lone Star",
       "track": "She Said, She Said",
-      "details": "LP-Lone Star; CBS"
+      "details": "LP-Lone Star; CBS",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "Diamond Head",
       "track": "'Sweet And Innocent' (1980-10-29 FRS Session (First TX 1980-11-28))",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4408.15
     },
     {
       "artist": "Motorhead / Girlschool",
@@ -101,7 +110,8 @@
     {
       "artist": "Kiss",
       "track": "Dirty Livin",
-      "details": "LP-Dynasty; Casablanca"
+      "details": "LP-Dynasty; Casablanca",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Diamond Head",
@@ -111,7 +121,8 @@
     {
       "artist": "Rush",
       "track": "Tom Sawyer",
-      "details": "LP-Moving Pictures; Mercury"
+      "details": "LP-Moving Pictures; Mercury",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Steve Hillage",
@@ -121,7 +132,8 @@
     {
       "artist": "Steve Hillage",
       "track": "The Glorious Om Riff",
-      "details": "LP-Green; Virgin"
+      "details": "LP-Green; Virgin",
+      "verified_timestamp": 6478.79
     }
   ],
   "transcript": [

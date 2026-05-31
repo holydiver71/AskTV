@@ -15,27 +15,32 @@
     {
       "artist": "Great White",
       "track": "Stick It",
-      "details": "LP-Great White; EMI America"
+      "details": "LP-Great White; EMI America",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Uriah Heep",
       "track": "On The Rebound",
-      "details": "LP-Abominog; Bronze"
+      "details": "LP-Abominog; Bronze",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Clive Burr's Escape",
       "track": "Enough Is Enough",
-      "details": "FRS Session 1984-02-10"
+      "details": "FRS Session 1984-02-10",
+      "verified_timestamp": 571.76
     },
     {
       "artist": "Queen",
       "track": "Hammer To Fall",
-      "details": "LP-The Works; EMI"
+      "details": "LP-The Works; EMI",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "David Gilmour",
       "track": "Blue Light",
-      "details": "7\" Single from About Face; Harvest"
+      "details": "7\" Single from About Face; Harvest",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Steppenwolf",
@@ -45,7 +50,8 @@
     {
       "artist": "Heavy Pettin",
       "track": "Love Times Love",
-      "details": "7\" Single from Lettin’ Loose; Polydor"
+      "details": "7\" Single from Lettin’ Loose; Polydor",
+      "verified_timestamp": 2346.84
     },
     {
       "artist": "Exciter",
@@ -55,12 +61,14 @@
     {
       "artist": "Quasar",
       "track": "Fire In The Sky",
-      "details": "LP-Fire In The Sky; Q Records"
+      "details": "LP-Fire In The Sky; Q Records",
+      "verified_timestamp": 2352.32
     },
     {
       "artist": "Hawkwind",
       "track": "Night Of The Hawks",
-      "details": "Earth Ritual Preview EP; Flicknife"
+      "details": "Earth Ritual Preview EP; Flicknife",
+      "verified_timestamp": 2901.25
     },
     {
       "artist": "Clive Burr's Escape",
@@ -70,12 +78,14 @@
     {
       "artist": "Ted Nugent",
       "track": "(Where Do You) Draw The Line",
-      "details": "LP-Penetrator; Atlantic"
+      "details": "LP-Penetrator; Atlantic",
+      "verified_timestamp": 3442.88
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2340.54
     },
     {
       "artist": "Clive Burr's Escape",
@@ -85,17 +95,20 @@
     {
       "artist": "Rage",
       "track": "Cry From A Hill",
-      "details": "7\" Single; Carrere"
+      "details": "7\" Single; Carrere",
+      "verified_timestamp": 4627.44
     },
     {
       "artist": "Gillan",
       "track": "Life Goes On",
-      "details": "2xLP-Double Trouble; Virgin"
+      "details": "2xLP-Double Trouble; Virgin",
+      "verified_timestamp": 5277.34
     },
     {
       "artist": "Alan Parsons Project",
       "track": "Let Me Go Home",
-      "details": "LP-Ammonia Avenue; Arista"
+      "details": "LP-Ammonia Avenue; Arista",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Family",
@@ -110,22 +123,26 @@
     {
       "artist": "TSA",
       "track": "Black Sabbath",
-      "details": "LP-Spunk; Mega Records"
+      "details": "LP-Spunk; Mega Records",
+      "verified_timestamp": 6054.46
     },
     {
       "artist": "Michael Schenker Group",
       "track": "Dancer",
-      "details": "LP-Assault Attack; Chrysalis"
+      "details": "LP-Assault Attack; Chrysalis",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Craft",
       "track": "Aries",
-      "details": "LP-Craft; Shanghai"
+      "details": "LP-Craft; Shanghai",
+      "verified_timestamp": 1701.72
     },
     {
       "artist": "Judas Priest",
       "track": "Rock Hard Ride Free",
-      "details": "LP-Defenders Of The Faith; CBS"
+      "details": "LP-Defenders Of The Faith; CBS",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

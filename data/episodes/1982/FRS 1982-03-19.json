@@ -22,12 +22,14 @@
     {
       "artist": "Michael Schenker Group",
       "track": "Doctor Doctor",
-      "details": "LP-One Night At Budokan; Chrysalis"
+      "details": "LP-One Night At Budokan; Chrysalis",
+      "verified_timestamp": 635.11
     },
     {
       "artist": "Scorpions",
       "track": "No One Like You",
-      "details": "7\"; Harvest"
+      "details": "7\"; Harvest",
+      "verified_timestamp": 622.41
     },
     {
       "artist": "Budgie",
@@ -42,7 +44,8 @@
     {
       "artist": "The Who",
       "track": "Anyway, Anyhow, Anywhere",
-      "details": "Session a"
+      "details": "Session a",
+      "verified_timestamp": 641.59
     },
     {
       "artist": "The Who",
@@ -57,12 +60,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 74.54
     },
     {
       "artist": "Asia",
       "track": "Heat Of The Moment",
-      "details": "LP-Asia; Geffen"
+      "details": "LP-Asia; Geffen",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
@@ -72,7 +77,8 @@
     {
       "artist": "Asia",
       "track": "Only Time Will tell",
-      "details": "LP-Asia; Geffen"
+      "details": "LP-Asia; Geffen",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": null,
@@ -82,7 +88,8 @@
     {
       "artist": "Asia",
       "track": "Sole Survivor",
-      "details": "LP-Asia; Geffen"
+      "details": "LP-Asia; Geffen",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
@@ -92,7 +99,8 @@
     {
       "artist": "Asia",
       "track": "Cutting It Fine",
-      "details": "LP-Asia; Geffen"
+      "details": "LP-Asia; Geffen",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "The Who",
@@ -102,7 +110,8 @@
     {
       "artist": "The Who",
       "track": "Substitute",
-      "details": "Session b"
+      "details": "Session b",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "The Who",
@@ -112,7 +121,8 @@
     {
       "artist": "Motorhead",
       "track": "Iron Fist",
-      "details": "7\"; Bronze"
+      "details": "7\"; Bronze",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Girlschool",
@@ -122,17 +132,20 @@
     {
       "artist": "Van Morrison",
       "track": "Dweller On The Threshold",
-      "details": "7”; Mercury"
+      "details": "7”; Mercury",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Budgie",
       "track": "I Turned To Stone",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": null,
       "track": "Midnight news",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5577.15
     }
   ],
   "transcript": [

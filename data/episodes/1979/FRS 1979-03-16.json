@@ -39,7 +39,8 @@
     {
       "artist": "Eddie And The Hot Rods",
       "track": "‘Breathless’",
-      "details": "Peel Session #3 1979-02-05"
+      "details": "Peel Session #3 1979-02-05",
+      "verified_timestamp": 1257.56
     },
     {
       "artist": "Allman Brothers",
@@ -49,7 +50,8 @@
     {
       "artist": "Van Der Graaf Generator",
       "track": "‘Darkness’",
-      "details": "Sounds Of The Seventies Session 1971-06-10"
+      "details": "Sounds Of The Seventies Session 1971-06-10",
+      "verified_timestamp": 1934.84
     },
     {
       "artist": "Van Der Graaf Generator",
@@ -69,12 +71,14 @@
     {
       "artist": "Ted Nugent",
       "track": "‘Wang Dang Sweet Poontang’ (2xLP-Double Live Gonzo) (Epic)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3633.14
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 59.76
     },
     {
       "artist": "Elkie Brooks",
@@ -94,7 +98,8 @@
     {
       "artist": "Black Sabbath",
       "track": "‘Children Of The Grave’ (LP-Masters Of Reality) (Vertigo)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5702.74
     },
     {
       "artist": "Van Der Graaf Generator",
@@ -321,7 +326,7 @@
     {
       "start": 2617.55,
       "end": 2622.45,
-      "text": "at the bbc vandergrift generator the first cut was darkness you'll find it on the lp if you can"
+      "text": "at the bbc Van Der Graaf Generator the first cut was darkness you'll find it on the lp if you can"
     },
     {
       "start": 2622.45,
@@ -341,7 +346,7 @@
     {
       "start": 2632.49,
       "end": 2634.77,
-      "text": "Van de Graaff Generator, including Fraser Hyatt"
+      "text": "Van de Graaf Generator, including Fraser Hyatt"
     },
     {
       "start": 2634.77,
@@ -561,7 +566,7 @@
     {
       "start": 3635.18,
       "end": 3637.6,
-      "text": "That was Ted Newton from Double Live Gonzo."
+      "text": "That was Ted Nugent from Double Live Gonzo."
     },
     {
       "start": 3638.89,

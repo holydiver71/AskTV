@@ -24,12 +24,14 @@
     {
       "artist": null,
       "track": "W.A.S.P. - Wild Child",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": null,
       "track": "John Parr - Treat Me Like an Animal",
-      "details": null
+      "details": null,
+      "verified_timestamp": 667.62
     },
     {
       "artist": null,
@@ -39,17 +41,20 @@
     {
       "artist": null,
       "track": "Motörhead - Back at the Funny Farm",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1080.0
     },
     {
       "artist": null,
       "track": "Mike And The Mechanics - Hanging By a Thread",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1260.0
     },
     {
       "artist": null,
       "track": "Tygers Of Pan Tang - The Wreck-Age (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3098.56
     },
     {
       "artist": null,
@@ -59,12 +64,14 @@
     {
       "artist": null,
       "track": "Hawkwind - Sleep of a Thousand Tears",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2380.75
     },
     {
       "artist": null,
       "track": "Tormé - My Baby Loves a Vampire (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3063.56
     },
     {
       "artist": null,
@@ -74,7 +81,8 @@
     {
       "artist": null,
       "track": "Tygers Of Pan Tang - Women in Cages (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3098.56
     },
     {
       "artist": null,
@@ -89,7 +97,8 @@
     {
       "artist": null,
       "track": "Def Leppard - Too Late for Love",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3960.0
     },
     {
       "artist": null,
@@ -99,7 +108,8 @@
     {
       "artist": null,
       "track": "Rainbow - Gates of Babylon",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,

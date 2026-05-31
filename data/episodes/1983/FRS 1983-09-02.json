@@ -35,12 +35,14 @@
     {
       "artist": "Scorched Earth",
       "track": "Where Do We Go From Here?",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1550.39
     },
     {
       "artist": "Journey",
       "track": "After The Fall (12\") CBS",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Nils Lofgren",
@@ -50,12 +52,14 @@
     {
       "artist": "Genesis",
       "track": "Robbery, Assault And Battery (LP - A Trick Of The Tail) Charisma",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2898.7
     },
     {
       "artist": "Y&T",
       "track": "Midnight In Tokyo (LP - Mean Streak) A&M",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2977.48
     },
     {
       "artist": "Scorched Earth",
@@ -65,7 +69,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.52
     },
     {
       "artist": "Michael Schenker Group",

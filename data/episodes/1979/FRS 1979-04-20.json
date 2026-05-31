@@ -42,7 +42,9 @@
       "artist": "Manfred Mann",
       "track": "Visionary Mountains",
       "details": "LP-Nightingales And Bombers",
-      "verified_timestamp": 720.0
+      "verified_timestamp": 720.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "manfred mann s earth band"
     },
     {
       "artist": "Simple Minds",
@@ -77,7 +79,9 @@
     {
       "artist": "John Miles",
       "track": "All Fall Down",
-      "details": "1979 Session"
+      "details": "1979 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the stories they told of"
     },
     {
       "artist": "Robert Fripp",
@@ -140,7 +144,9 @@
     {
       "artist": "John Miles",
       "track": "'You Can't Keep A Good Man Down'",
-      "details": "1979 Session"
+      "details": "1979 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "can t keep a good"
     }
   ],
   "transcript": [

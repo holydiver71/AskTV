@@ -19,27 +19,32 @@
     {
       "artist": "Warlock",
       "track": "All Night",
-      "details": "LP-Hellbound; Vertigo"
+      "details": "LP-Hellbound; Vertigo",
+      "verified_timestamp": 528.92
     },
     {
       "artist": "Venom",
       "track": "Nightmare",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 581.36
     },
     {
       "artist": "Starship",
       "track": "We Built This City",
-      "details": "CD-Knee Deep In The Hoopla; Grunt"
+      "details": "CD-Knee Deep In The Hoopla; Grunt",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Far Corporation",
       "track": "Stairway To Heaven",
-      "details": "7\"; IMP"
+      "details": "7\"; IMP",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Tara Zara",
       "track": "Behind The Mask",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1293.84
     },
     {
       "artist": "Mercyful Fate",
@@ -49,7 +54,8 @@
     {
       "artist": "Rush",
       "track": "Marathon",
-      "details": "CD-Power Windows; Mercury"
+      "details": "CD-Power Windows; Mercury",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Joe Lynn Turner",
@@ -64,7 +70,8 @@
     {
       "artist": "Iron Maiden",
       "track": "Phantom Of The Opera",
-      "details": "LP-Iron Maiden; EMI"
+      "details": "LP-Iron Maiden; EMI",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Cheap Trick",
@@ -94,22 +101,26 @@
     {
       "artist": "Dio",
       "track": "Holy Diver",
-      "details": "LP-Holy Diver; Vertigo"
+      "details": "LP-Holy Diver; Vertigo",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "ZZ Top",
       "track": "Planet Of Women",
-      "details": "CD-Afterburner; Warner Bros."
+      "details": "CD-Afterburner; Warner Bros.",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Steely Dan",
       "track": "Haitian Divorce",
-      "details": "CD-The Royal Scam; MCA"
+      "details": "CD-The Royal Scam; MCA",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It File c",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5267.86
     },
     {
       "artist": "Venom",

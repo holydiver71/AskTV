@@ -25,7 +25,8 @@
     {
       "artist": "Scorpions",
       "track": "Loving You Sunday Morning",
-      "details": "LP - Lovedrive"
+      "details": "LP - Lovedrive",
+      "verified_timestamp": 323.94
     },
     {
       "artist": "Steve Hackett",
@@ -35,32 +36,38 @@
     {
       "artist": "Alcatrazz",
       "track": "Island In The Sun",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Metallica",
       "track": "Fight Fire With Fire",
-      "details": "LP - Ride The lightning"
+      "details": "LP - Ride The lightning",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Jefferson Starship",
       "track": "Champion",
-      "details": "LP - Nuclear Furniture"
+      "details": "LP - Nuclear Furniture",
+      "verified_timestamp": 1459.15
     },
     {
       "artist": "Genesis",
       "track": "Afterglow",
-      "details": "LP - Wind And Wuthering"
+      "details": "LP - Wind And Wuthering",
+      "verified_timestamp": 1429.85
     },
     {
       "artist": "Warfare",
       "track": "Burn The Kings Road",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 1504.21
     },
     {
       "artist": "Black Angels",
       "track": "Heartbeat",
-      "details": "LP - Kickdown"
+      "details": "LP - Kickdown",
+      "verified_timestamp": 1836.7
     },
     {
       "artist": "Redvette",
@@ -70,12 +77,14 @@
     {
       "artist": "Dio",
       "track": "We Rock",
-      "details": "LP - Last In Line"
+      "details": "LP - Last In Line",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 928.94
     }
   ],
   "transcript": [

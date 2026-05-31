@@ -23,12 +23,14 @@
     {
       "artist": null,
       "track": "Trojan - Tonight We Got It Made",
-      "details": null
+      "details": null,
+      "verified_timestamp": 510.33
     },
     {
       "artist": null,
       "track": "Angel Witch - Angel Witch",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
@@ -38,12 +40,14 @@
     {
       "artist": null,
       "track": "Bon Jovi - Silent Night",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": null,
       "track": "Elixir - Hold High the Flame (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1255.24
     },
     {
       "artist": null,
@@ -53,7 +57,8 @@
     {
       "artist": null,
       "track": "Ozzy Osbourne - Killer of Giants",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1620.0
     },
     {
       "artist": null,
@@ -83,7 +88,8 @@
     {
       "artist": null,
       "track": "Vow Wow - You Know What I Mean",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3442.49
     },
     {
       "artist": null,
@@ -93,17 +99,20 @@
     {
       "artist": null,
       "track": "Marillion - Script for a Jester's Tear",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Whitesnake - Ain't No Love in the Heart of the City (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4140.0
     },
     {
       "artist": null,
       "track": "Far Corporation - Stairway to Heaven",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,
@@ -113,12 +122,14 @@
     {
       "artist": null,
       "track": "Yes - Hold On (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6023.26
     },
     {
       "artist": null,
       "track": "Pink Floyd - One of These Days (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6040.26
     },
     {
       "artist": null,
@@ -134,6 +145,1508 @@
       "artist": null,
       "track": "Black Sabbath - In for the Kill",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.0,
+      "end": 14.18,
+      "text": "On Media Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 17.18,
+      "end": 38.95,
+      "text": "This is TV on the Radio, Thomas Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 39.95,
+      "end": 46.35,
+      "text": "Tonight you will hear the radio debut of a young band from London, they're called Onyxia."
+    },
+    {
+      "start": 46.35,
+      "end": 52.35,
+      "text": "Plus, from our archives, from back in the late 60s, The Pink Floyd with Syd Barrett."
+    },
+    {
+      "start": 53.35,
+      "end": 69.82,
+      "text": "...classics from Merillion, Angel Witch and Whitesnake."
+    },
+    {
+      "start": 69.82,
+      "end": 77.5,
+      "text": "Nick, Possumly Releases, Baby Taku, Trojan, Ozzy, Wow Wow, Yes, King Diamond, and Black 7."
+    },
+    {
+      "start": 78.08,
+      "end": 83.93,
+      "text": "This is the Friday Rock Show. Stay tuned, and I'll prove it."
+    },
+    {
+      "start": 85.03,
+      "end": 456.01,
+      "text": "Really good session with that band, Multitudinous Years Ago."
+    },
+    {
+      "start": 456.19,
+      "end": 459.01,
+      "text": "Angel Witch with Angel Witch. It was released as a single."
+    },
+    {
+      "start": 459.59,
+      "end": 463.03,
+      "text": "And it was requested by a fellow who drives around a taxi in Bridlington."
+    },
+    {
+      "start": 463.69,
+      "end": 466.39,
+      "text": "It's Miggy of Car 7 Max Taxis in Bridlington."
+    },
+    {
+      "start": 466.39,
+      "end": 468.31,
+      "text": "who likes to, as he says,"
+    },
+    {
+      "start": 468.57,
+      "end": 470.65,
+      "text": "blast his victims when they get in the car"
+    },
+    {
+      "start": 470.65,
+      "end": 471.41,
+      "text": "with heavy metal."
+    },
+    {
+      "start": 472.47,
+      "end": 473.91,
+      "text": "Particularly after they come out of a disco."
+    },
+    {
+      "start": 474.61,
+      "end": 476.69,
+      "text": "Hello to Dolly Dumpling as well from Mickey."
+    },
+    {
+      "start": 480.91,
+      "end": 481.77,
+      "text": "8 minutes past 10,"
+    },
+    {
+      "start": 481.89,
+      "end": 483.97,
+      "text": "this is the Friday Rock Show on the 28th of February"
+    },
+    {
+      "start": 483.97,
+      "end": 484.95,
+      "text": "which is today."
+    },
+    {
+      "start": 485.67,
+      "end": 488.11,
+      "text": "It is my brother's 18th birthday, says this nice letter"
+    },
+    {
+      "start": 488.11,
+      "end": 490.11,
+      "text": "from Heidi of Glossop"
+    },
+    {
+      "start": 490.11,
+      "end": 491.07,
+      "text": "in Derbyshire."
+    },
+    {
+      "start": 492.09,
+      "end": 493.61,
+      "text": "Now, who's the brother? Giles."
+    },
+    {
+      "start": 493.77,
+      "end": 496.01,
+      "text": "Happy birthday to you from Heidi and also"
+    },
+    {
+      "start": 496.01,
+      "end": 496.97,
+      "text": "from Sydney."
+    },
+    {
+      "start": 497.53,
+      "end": 506.33,
+      "text": "The track you heard before Angel Witch, incidentally, was Trojan from a very good new album."
+    },
+    {
+      "start": 506.55,
+      "end": 508.49,
+      "text": "The album is out on the Roadrunner record label."
+    },
+    {
+      "start": 508.59,
+      "end": 509.71,
+      "text": "They're a storming band."
+    },
+    {
+      "start": 510.33,
+      "end": 512.43,
+      "text": "The track is called Tonight We Got It Made."
+    },
+    {
+      "start": 512.55,
+      "end": 514.87,
+      "text": "The album is called Chasing the Storm."
+    },
+    {
+      "start": 515.53,
+      "end": 1133.43,
+      "text": "Album which is called 7800."
+    },
+    {
+      "start": 1134.49,
+      "end": 1135.91,
+      "text": "7800 Fahrenheit."
+    },
+    {
+      "start": 1136.47,
+      "end": 1138.11,
+      "text": "Actually, we played you there the CD version."
+    },
+    {
+      "start": 1138.51,
+      "end": 1140.85,
+      "text": "John Bon Jovi and his mob out of New York City."
+    },
+    {
+      "start": 1141.05,
+      "end": 1142.17,
+      "text": "Silent Night was the track."
+    },
+    {
+      "start": 1142.17,
+      "end": 1153.63,
+      "text": "but dawn goodman of bread soul in derby with love lots of it from paul treese now before bonjour"
+    },
+    {
+      "start": 1153.63,
+      "end": 1157.83,
+      "text": "you heard baby taku who haven't been on the scene at least as far as recording is concerned for some"
+    },
+    {
+      "start": 1157.83,
+      "end": 1161.95,
+      "text": "two years because their original record company they brought out their first album two years ago"
+    },
+    {
+      "start": 1161.95,
+      "end": 1166.41,
+      "text": "then their record company went bust but they had a bit of a hassle now they've got a new album out"
+    },
+    {
+      "start": 1166.41,
+      "end": 1173.35,
+      "text": "it's excellent it is called force majeure which exposes french for false major doesn't do a"
+    },
+    {
+      "start": 1173.35,
+      "end": 1173.87,
+      "text": "Sergeant Major."
+    },
+    {
+      "start": 1174.45,
+      "end": 1175.89,
+      "text": "It's out on the Music for Nations label."
+    },
+    {
+      "start": 1176.03,
+      "end": 1177.29,
+      "text": "The track you hear was called Rock Rock."
+    },
+    {
+      "start": 1177.35,
+      "end": 1178.05,
+      "text": "Highly recommended."
+    },
+    {
+      "start": 1178.21,
+      "end": 1179.49,
+      "text": "Baby Taku, back on the scene."
+    },
+    {
+      "start": 1179.61,
+      "end": 1180.55,
+      "text": "Good live band as well."
+    },
+    {
+      "start": 1180.73,
+      "end": 1182.11,
+      "text": "Nineteen and a half minutes past ten."
+    },
+    {
+      "start": 1183.72,
+      "end": 1184.92,
+      "text": "Shaz, how are you?"
+    },
+    {
+      "start": 1185.26,
+      "end": 1188.66,
+      "text": "Shaz wants a match for all the heavy mob in Stoke-on-Trent."
+    },
+    {
+      "start": 1189.36,
+      "end": 1191.63,
+      "text": "But it's been done for you."
+    },
+    {
+      "start": 1193.22,
+      "end": 1196.34,
+      "text": "Hello to Mark and Gary and Ian in Hastings."
+    },
+    {
+      "start": 1196.93,
+      "end": 1200.5,
+      "text": "From Swan, Pam and Jules in East Lothian."
+    },
+    {
+      "start": 1201.1,
+      "end": 1202.12,
+      "text": "Message to you, mob."
+    },
+    {
+      "start": 1202.56,
+      "end": 1203.68,
+      "text": "You lot down there in Hastings."
+    },
+    {
+      "start": 1203.68,
+      "end": 1206.68,
+      "text": "tell them to write soon to us up here in Scotland"
+    },
+    {
+      "start": 1206.68,
+      "end": 1208.94,
+      "text": "to show that there are no hard feelings"
+    },
+    {
+      "start": 1208.94,
+      "end": 1210.56,
+      "text": "and play them something heavy, which you did."
+    },
+    {
+      "start": 1213.72,
+      "end": 1218.7,
+      "text": "We have two sessions tonight for you."
+    },
+    {
+      "start": 1218.76,
+      "end": 1221.7,
+      "text": "The first one is by a band who, well, I don't actually know"
+    },
+    {
+      "start": 1221.7,
+      "end": 1222.86,
+      "text": "how long they've been around."
+    },
+    {
+      "start": 1223.0,
+      "end": 1224.8,
+      "text": "I know, or at least I believe last night"
+    },
+    {
+      "start": 1224.8,
+      "end": 1227.56,
+      "text": "they were playing in Amersmith here in London."
+    },
+    {
+      "start": 1228.4,
+      "end": 1230.12,
+      "text": "I met this guy, one of the guys from the band."
+    },
+    {
+      "start": 1230.18,
+      "end": 1231.22,
+      "text": "There were five members of the band."
+    },
+    {
+      "start": 1231.22,
+      "end": 1233.18,
+      "text": "I met him in the foyer of the BBC."
+    },
+    {
+      "start": 1233.58,
+      "end": 1235.86,
+      "text": "It was about 20 minutes past 12 a.m."
+    },
+    {
+      "start": 1235.86,
+      "end": 1237.44,
+      "text": "after I'd finished a Friday rock show,"
+    },
+    {
+      "start": 1237.86,
+      "end": 1239.82,
+      "text": "gave me a cassette, said, have a listen to this,"
+    },
+    {
+      "start": 1240.06,
+      "end": 1242.28,
+      "text": "which I did, and which Mr. Wilson did, our producer."
+    },
+    {
+      "start": 1242.98,
+      "end": 1245.12,
+      "text": "And this was a very recent event."
+    },
+    {
+      "start": 1245.28,
+      "end": 1247.4,
+      "text": "Sometimes people have to wait a long time to get on this program,"
+    },
+    {
+      "start": 1247.48,
+      "end": 1248.08,
+      "text": "but they were lucky."
+    },
+    {
+      "start": 1248.7,
+      "end": 1251.42,
+      "text": "They just happened to slot in, and I'd like you to listen to them."
+    },
+    {
+      "start": 1251.9,
+      "end": 1253.52,
+      "text": "They're a good band. They're called Elixir."
+    },
+    {
+      "start": 1253.66,
+      "end": 1255.02,
+      "text": "This is the first of four by them."
+    },
+    {
+      "start": 1255.24,
+      "end": 1256.46,
+      "text": "Hold high the flame."
+    },
+    {
+      "start": 1256.84,
+      "end": 1843.98,
+      "text": "From the ultimate sin, that is Ozzy Osbourne."
+    },
+    {
+      "start": 1844.18,
+      "end": 1845.5,
+      "text": "It's out on the Epic record label."
+    },
+    {
+      "start": 1845.6,
+      "end": 1846.72,
+      "text": "Lots of people have bought it already."
+    },
+    {
+      "start": 1847.28,
+      "end": 1848.42,
+      "text": "It is called Killer of Giants."
+    },
+    {
+      "start": 1848.42,
+      "end": 1850.74,
+      "text": "That was a track, the album The Ultimate Sin, Ozzy Osbourne."
+    },
+    {
+      "start": 1850.86,
+      "end": 1851.78,
+      "text": "Of course, he's going to..."
+    },
+    {
+      "start": 1851.78,
+      "end": 1852.66,
+      "text": "What's he going to do?"
+    },
+    {
+      "start": 1852.74,
+      "end": 1854.42,
+      "text": "He's going to headline Donington this year."
+    },
+    {
+      "start": 1854.54,
+      "end": 1855.36,
+      "text": "It's just been announced."
+    },
+    {
+      "start": 1855.9,
+      "end": 1856.96,
+      "text": "So it's the Oz at Donington."
+    },
+    {
+      "start": 1857.14,
+      "end": 1858.26,
+      "text": "Let's all pray for a nice day."
+    },
+    {
+      "start": 1858.6,
+      "end": 1860.38,
+      "text": "Six other acts, I think, to be announced as well."
+    },
+    {
+      "start": 1860.46,
+      "end": 1861.26,
+      "text": "Should be a good day out."
+    },
+    {
+      "start": 1861.56,
+      "end": 1862.24,
+      "text": "Always has been."
+    },
+    {
+      "start": 1862.4,
+      "end": 1864.7,
+      "text": "Don't chuck rocks, don't chuck bottles this year."
+    },
+    {
+      "start": 1865.14,
+      "end": 1865.86,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 1866.0,
+      "end": 1868.1,
+      "text": "On behalf of me and all the bands as well."
+    },
+    {
+      "start": 1868.24,
+      "end": 1869.42,
+      "text": "Before Ozzy, you heard Elixir."
+    },
+    {
+      "start": 1870.32,
+      "end": 1873.22,
+      "text": "And the first of four by them, it was called Hold High the Flame."
+    },
+    {
+      "start": 1873.74,
+      "end": 1874.44,
+      "text": "It is 10.31."
+    },
+    {
+      "start": 1874.72,
+      "end": 1877.06,
+      "text": "This is the Friday Rock Show, BBC Radio 1."
+    },
+    {
+      "start": 1877.62,
+      "end": 1879.28,
+      "text": "Now, we're going to play you something out of the archives."
+    },
+    {
+      "start": 1879.6,
+      "end": 1882.64,
+      "text": "The stuff that we're playing out of the archives now, on the Friday Rock Show,"
+    },
+    {
+      "start": 1882.7,
+      "end": 1885.88,
+      "text": "these days, on the Friday Rock Show, is based on your requests."
+    },
+    {
+      "start": 1886.0,
+      "end": 1889.18,
+      "text": "You write in, you say you want to hear this, we get all the letters, correlate the information,"
+    },
+    {
+      "start": 1889.62,
+      "end": 1892.8,
+      "text": "work out how many people request this, that and the other, and go looking for it."
+    },
+    {
+      "start": 1893.32,
+      "end": 1898.1,
+      "text": "We did broadcast or rebroadcast this quite a few years ago, I can't actually remember when,"
+    },
+    {
+      "start": 1898.62,
+      "end": 1902.72,
+      "text": "and it's somewhat vague as to when it was originally recorded or indeed originally broadcast."
+    },
+    {
+      "start": 1902.72,
+      "end": 1907.18,
+      "text": "We believe it was originally broadcast July, August 1968."
+    },
+    {
+      "start": 1908.22,
+      "end": 1913.16,
+      "text": "The quality of the music you're about to hear is not pristine and all that wonderful, and I'll tell you why."
+    },
+    {
+      "start": 1913.44,
+      "end": 1917.6,
+      "text": "Because the masters of the recording session were lost. They just went."
+    },
+    {
+      "start": 1919.02,
+      "end": 1924.48,
+      "text": "So, we ferreted around and we found a medium wave copy."
+    },
+    {
+      "start": 1924.74,
+      "end": 1927.28,
+      "text": "Somebody actually copied it off the medium wave."
+    },
+    {
+      "start": 1928.07,
+      "end": 1929.15,
+      "text": "So that's what you're going to hear."
+    },
+    {
+      "start": 1929.15,
+      "end": 1933.75,
+      "text": "And it's things like that that put things back into the archive, where they belong."
+    },
+    {
+      "start": 1934.68,
+      "end": 1937.08,
+      "text": "From back in 1968, the Pink Floyd."
+    },
+    {
+      "start": 1939.88,
+      "end": 2808.07,
+      "text": "Once again, let me apologise for the quality of that."
+    },
+    {
+      "start": 2808.15,
+      "end": 2810.41,
+      "text": "But it's not really an apology I want to put across."
+    },
+    {
+      "start": 2810.51,
+      "end": 2812.19,
+      "text": "It's down to the fact that that's all we have."
+    },
+    {
+      "start": 2812.25,
+      "end": 2814.43,
+      "text": "We can't play anything with any better quality,"
+    },
+    {
+      "start": 2814.53,
+      "end": 2817.49,
+      "text": "because the masters to that Radio 1 session were lost."
+    },
+    {
+      "start": 2817.63,
+      "end": 2819.39,
+      "text": "And luckily enough, somebody..."
+    },
+    {
+      "start": 2819.39,
+      "end": 2823.97,
+      "text": "I know it's illegal, but sometimes it seems to be the only way to keep things."
+    },
+    {
+      "start": 2823.97,
+      "end": 2825.71,
+      "text": "Luckily enough, somebody was recording it."
+    },
+    {
+      "start": 2826.31,
+      "end": 2828.85,
+      "text": "And luckily enough, they sent us a copy of it years and years ago,"
+    },
+    {
+      "start": 2828.91,
+      "end": 2830.17,
+      "text": "and we put it back into the archives."
+    },
+    {
+      "start": 2830.29,
+      "end": 2833.55,
+      "text": "So if you were listening on VHF, FM stereo, right,"
+    },
+    {
+      "start": 2833.65,
+      "end": 2837.29,
+      "text": "and it was terrible quality, I'm afraid that's all there is."
+    },
+    {
+      "start": 2837.87,
+      "end": 2839.05,
+      "text": "And I think it's better than nothing."
+    },
+    {
+      "start": 2839.86,
+      "end": 2842.42,
+      "text": "Real historical British music, that, the Pink Floyd,"
+    },
+    {
+      "start": 2842.86,
+      "end": 2845.1,
+      "text": "from, we believe, July, August 1968."
+    },
+    {
+      "start": 2845.94,
+      "end": 2847.18,
+      "text": "There's more from the Pink Floyd later."
+    },
+    {
+      "start": 2847.42,
+      "end": 2848.44,
+      "text": "There's one more track from them."
+    },
+    {
+      "start": 2849.06,
+      "end": 2851.8,
+      "text": "Here's some information, though, if you want information about"
+    },
+    {
+      "start": 2851.8,
+      "end": 2853.88,
+      "text": "a magazine which is called The Amazing Pudding,"
+    },
+    {
+      "start": 2854.38,
+      "end": 2855.5,
+      "text": "which is all about the Pink Floyd,"
+    },
+    {
+      "start": 2855.74,
+      "end": 2858.62,
+      "text": "The last time I mentioned it on the air, lots and lots of people wrote in."
+    },
+    {
+      "start": 2859.18,
+      "end": 2864.9,
+      "text": "If you would like details about the Amazing Pudding magazine, which is a Pink Floyd magazine, fanzine, right?"
+    },
+    {
+      "start": 2865.68,
+      "end": 2877.0,
+      "text": "Enclose a stamped addressed envelope and send it to Amazing Pudding Details, Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 2877.84,
+      "end": 2883.14,
+      "text": "Please, it'll make life a lot easier for everybody if you do, enclose a stamped addressed envelope."
+    },
+    {
+      "start": 2883.48,
+      "end": 2884.24,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 2884.24,
+      "end": 2891.8,
+      "text": "Send it to Amazing Pudding Details, Radio 1, London, W1A4, WW."
+    },
+    {
+      "start": 2907.67,
+      "end": 2910.29,
+      "text": "13 minutes to 11, back to Alexia."
+    },
+    {
+      "start": 2912.3,
+      "end": 2913.3,
+      "text": "And here they are."
+    },
+    {
+      "start": 3435.65,
+      "end": 3436.39,
+      "text": "And they're Japanese."
+    },
+    {
+      "start": 3436.75,
+      "end": 3439.13,
+      "text": "Have they got it off to a fine art or have they not?"
+    },
+    {
+      "start": 3439.27,
+      "end": 3442.01,
+      "text": "Vow Wow, that's from the CD version of their album Cyclone."
+    },
+    {
+      "start": 3442.49,
+      "end": 3443.63,
+      "text": "The track was called You Know What I Mean."
+    },
+    {
+      "start": 3443.71,
+      "end": 3446.15,
+      "text": "Before that, our new band from London in session tonight."
+    },
+    {
+      "start": 3446.59,
+      "end": 3448.79,
+      "text": "Alexia, an opening Pandora's box."
+    },
+    {
+      "start": 3448.79,
+      "end": 3449.79,
+      "text": "That's what they were up to."
+    },
+    {
+      "start": 3461.77,
+      "end": 3464.45,
+      "text": "Had a listener phone in, and thank you very much for doing so."
+    },
+    {
+      "start": 3464.57,
+      "end": 3468.33,
+      "text": "And he's absolutely adamant that the Floyd material we broadcast,"
+    },
+    {
+      "start": 3468.47,
+      "end": 3471.05,
+      "text": "Vegetable Man Power, Toc H, and that stuff,"
+    },
+    {
+      "start": 3471.69,
+      "end": 3475.79,
+      "text": "was first broadcast on the 11th of February, 1968."
+    },
+    {
+      "start": 3476.31,
+      "end": 3477.53,
+      "text": "Now, I said July, August."
+    },
+    {
+      "start": 3477.59,
+      "end": 3479.07,
+      "text": "That's all the information I have in front of me."
+    },
+    {
+      "start": 3479.31,
+      "end": 3482.73,
+      "text": "And he's adamant that it was broadcast first on the 11th of Feb, 1968."
+    },
+    {
+      "start": 3483.47,
+      "end": 3485.97,
+      "text": "And that was, of course, before Sid Barrett left the Floyd."
+    },
+    {
+      "start": 3486.05,
+      "end": 3489.11,
+      "text": "He left the Floyd in April 1968, the very beginning."
+    },
+    {
+      "start": 3489.89,
+      "end": 3498.84,
+      "text": "thank you two and a half minutes to 11 it is time for the feature called lie back and enjoy it now"
+    },
+    {
+      "start": 3498.84,
+      "end": 3502.92,
+      "text": "the fellow that's got the 12 pound record token i know it's not a lot to write home about but it's"
+    },
+    {
+      "start": 3502.92,
+      "end": 3511.0,
+      "text": "better than mount is aged 15 navid sayeta who lives at forest fields in nottingham says dear"
+    },
+    {
+      "start": 3511.0,
+      "end": 3515.46,
+      "text": "tom forgive me when i originally wrote this choice in 1985 because then i was a newly converted"
+    },
+    {
+      "start": 3515.46,
+      "end": 3519.5,
+      "text": "listener to the primary rock show and so by listening to your program it inspired me to"
+    },
+    {
+      "start": 3519.5,
+      "end": 3521.44,
+      "text": "right in, but because of my mock"
+    },
+    {
+      "start": 3521.44,
+      "end": 3523.5,
+      "text": "examinations in January, I just couldn't get"
+    },
+    {
+      "start": 3523.5,
+      "end": 3524.1,
+      "text": "around to it."
+    },
+    {
+      "start": 3525.4,
+      "end": 3527.61,
+      "text": "And I always worried whether you'd play it or not"
+    },
+    {
+      "start": 3527.61,
+      "end": 3529.51,
+      "text": "because my choice runs slightly over 20 minutes."
+    },
+    {
+      "start": 3529.67,
+      "end": 3531.31,
+      "text": "No, not a lot over, about three minutes or so."
+    },
+    {
+      "start": 3532.41,
+      "end": 3533.65,
+      "text": "But I think the relation"
+    },
+    {
+      "start": 3533.65,
+      "end": 3535.47,
+      "text": "would like to lie back and enjoy it"
+    },
+    {
+      "start": 3535.47,
+      "end": 3537.8,
+      "text": "anyway, with this particular selection."
+    },
+    {
+      "start": 3540.86,
+      "end": 3541.88,
+      "text": "Now, he would like to thank"
+    },
+    {
+      "start": 3541.88,
+      "end": 3543.94,
+      "text": "Luke Atkins for converting him to rock"
+    },
+    {
+      "start": 3543.94,
+      "end": 3545.82,
+      "text": "and also thank you for the"
+    },
+    {
+      "start": 3545.82,
+      "end": 3547.18,
+      "text": "Friday Rock Show. It's our pleasure."
+    },
+    {
+      "start": 3547.94,
+      "end": 3549.54,
+      "text": "Also, will we please say a big hello"
+    },
+    {
+      "start": 3549.54,
+      "end": 3551.76,
+      "text": "to everybody at the"
+    },
+    {
+      "start": 3551.76,
+      "end": 3553.84,
+      "text": "Nottingham Bluecoat School, all the"
+    },
+    {
+      "start": 3553.84,
+      "end": 3555.88,
+      "text": "rockers of 5F, Matthew"
+    },
+    {
+      "start": 3555.88,
+      "end": 3557.68,
+      "text": "Mark Paul, interesting,"
+    },
+    {
+      "start": 3558.32,
+      "end": 3559.56,
+      "text": "Rosie, Katie, Catherine,"
+    },
+    {
+      "start": 3559.68,
+      "end": 3561.9,
+      "text": "Trevon, Edward. The list will be"
+    },
+    {
+      "start": 3561.9,
+      "end": 3563.84,
+      "text": "longer, but we've been trying for weeks"
+    },
+    {
+      "start": 3563.84,
+      "end": 3565.96,
+      "text": "to convert our arrogant class to rock,"
+    },
+    {
+      "start": 3566.26,
+      "end": 3567.16,
+      "text": "but unfortunately"
+    },
+    {
+      "start": 3567.16,
+      "end": 3568.84,
+      "text": "in vain."
+    },
+    {
+      "start": 3570.06,
+      "end": 3572.1,
+      "text": "Okay, the selection of Navid Saeed,"
+    },
+    {
+      "start": 3572.38,
+      "end": 3573.56,
+      "text": "age 15, comes up"
+    },
+    {
+      "start": 3573.56,
+      "end": 3575.78,
+      "text": "right after I say hello to my Coleman."
+    },
+    {
+      "start": 3576.48,
+      "end": 3577.94,
+      "text": "Hello, mate. Delivered"
+    },
+    {
+      "start": 3577.94,
+      "end": 3579.82,
+      "text": "30 bags of coal to me today. It was very nice of you."
+    },
+    {
+      "start": 3579.82,
+      "end": 3580.4,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 3580.44,
+      "end": 3581.8,
+      "text": "And I did promise a mention to the Coleman."
+    },
+    {
+      "start": 3582.2,
+      "end": 3583.82,
+      "text": "And also to the Coleman's mate."
+    },
+    {
+      "start": 3584.26,
+      "end": 3587.12,
+      "text": "I looked at the Coleman's mate and thought of myself like years and years ago."
+    },
+    {
+      "start": 3587.18,
+      "end": 3589.52,
+      "text": "Because I used to work in a coal lorry when I was a kid."
+    },
+    {
+      "start": 3589.62,
+      "end": 3590.78,
+      "text": "To do anything for a few bob."
+    },
+    {
+      "start": 3590.82,
+      "end": 3592.98,
+      "text": "And I thought, yeah, it looks just like I used to."
+    },
+    {
+      "start": 3593.28,
+      "end": 3594.68,
+      "text": "All black-faced and so on."
+    },
+    {
+      "start": 3594.76,
+      "end": 3597.58,
+      "text": "Anyway, I know you like Meridian, so you can share in this."
+    },
+    {
+      "start": 3597.86,
+      "end": 3598.3,
+      "text": "Here it is."
+    },
+    {
+      "start": 3598.3,
+      "end": 3598.32,
+      "text": "Here it is."
+    },
+    {
+      "start": 3616.03,
+      "end": 3621.99,
+      "text": "Yet another emotional suicide"
+    },
+    {
+      "start": 3621.99,
+      "end": 3628.87,
+      "text": "Overdosed on sentiment and pride"
+    },
+    {
+      "start": 3628.87,
+      "end": 3633.69,
+      "text": "Say I love you"
+    },
+    {
+      "start": 3633.69,
+      "end": 3637.39,
+      "text": "Too late to restate the play"
+    },
+    {
+      "start": 3637.39,
+      "end": 3644.54,
+      "text": "Abandoning the red playground of yesterday"
+    },
+    {
+      "start": 3644.54,
+      "end": 5071.06,
+      "text": "Back and Enjoy It was our feature"
+    },
+    {
+      "start": 5071.06,
+      "end": 5073.94,
+      "text": "and that was put together by Naveed Saeed"
+    },
+    {
+      "start": 5073.94,
+      "end": 5075.34,
+      "text": "who is 15 years of age."
+    },
+    {
+      "start": 5075.86,
+      "end": 5076.64,
+      "text": "He lives in Nottingham."
+    },
+    {
+      "start": 5076.64,
+      "end": 5084.35,
+      "text": "he figures that that's what the nation would like to hear this time of night so do i at the end of"
+    },
+    {
+      "start": 5084.35,
+      "end": 5089.73,
+      "text": "this letter naid naid said sorry navid i beg your pardon mate navid says that's my choice and i"
+    },
+    {
+      "start": 5089.73,
+      "end": 5094.63,
+      "text": "sincerely hope that the nation will like it like it or not please keep up the good work thanks a"
+    },
+    {
+      "start": 5094.63,
+      "end": 5104.72,
+      "text": "lot tom i read on the contrary thanks go to you music was from the album division one released"
+    },
+    {
+      "start": 5104.72,
+      "end": 5110.38,
+      "text": "in 1985 the far corporation stairway to heaven from white snake live at hammersmith recorded"
+    },
+    {
+      "start": 5110.38,
+      "end": 5119.11,
+      "text": "in 1978 ain't no love in the heart of the city brilliant role on milton king's and script"
+    },
+    {
+      "start": 5119.11,
+      "end": 5130.07,
+      "text": "for chesters tier the title track back in 1983 if you fancy a crack at putting together the feature"
+    },
+    {
+      "start": 5130.07,
+      "end": 5136.09,
+      "text": "we call lie back and enjoy it well it's all down to you 20 minutes or thereabouts just over 20"
+    },
+    {
+      "start": 5136.09,
+      "end": 5141.49,
+      "text": "minutes or thereabouts of good music varied the type of stuff that you think that the listeners"
+    },
+    {
+      "start": 5141.49,
+      "end": 5143.27,
+      "text": "that a rock show really would like to hear."
+    },
+    {
+      "start": 5143.89,
+      "end": 5146.37,
+      "text": "Send your selection to Lie Back and Enjoy It,"
+    },
+    {
+      "start": 5146.93,
+      "end": 5147.91,
+      "text": "the Friday Rock Show,"
+    },
+    {
+      "start": 5148.23,
+      "end": 5152.39,
+      "text": "BBC Radio 1, London, W1A4, WW."
+    },
+    {
+      "start": 5153.25,
+      "end": 5154.96,
+      "text": "You get a £12 record token"
+    },
+    {
+      "start": 5154.96,
+      "end": 5156.6,
+      "text": "if you use your selection on the air,"
+    },
+    {
+      "start": 5157.16,
+      "end": 5158.36,
+      "text": "and you also get the appreciation"
+    },
+    {
+      "start": 5158.36,
+      "end": 5159.78,
+      "text": "of people who like rock music."
+    },
+    {
+      "start": 5160.77,
+      "end": 5162.07,
+      "text": "Lie Back and Enjoy It,"
+    },
+    {
+      "start": 5162.57,
+      "end": 5163.55,
+      "text": "the Friday Rock Show,"
+    },
+    {
+      "start": 5163.81,
+      "end": 5167.57,
+      "text": "BBC Radio 1, London, W1A4, WW."
+    },
+    {
+      "start": 5168.21,
+      "end": 5170.03,
+      "text": "We look forward to getting your letter,"
+    },
+    {
+      "start": 5170.03,
+      "end": 5171.27,
+      "text": "or card, bag of an envelope,"
+    },
+    {
+      "start": 5171.27,
+      "end": 5177.09,
+      "text": "whatever you like it's 11 25 our classic concert this sunday at 2 30 includes surely one of the"
+    },
+    {
+      "start": 5177.09,
+      "end": 5184.65,
+      "text": "great rock riffs of all time as pervade in london in 1971 by robert plant jimmy page john paul jones"
+    },
+    {
+      "start": 5184.65,
+      "end": 5189.23,
+      "text": "and the late john bonham it also includes a chance for you to hear stairway to heaven"
+    },
+    {
+      "start": 5189.23,
+      "end": 5967.72,
+      "text": "and that can only mean that our classic concert this weekend comes from led zeppelin obviously"
+    },
+    {
+      "start": 5967.72,
+      "end": 5971.88,
+      "text": "it was yes a band who started life 17 years ago it's a track though from an album which is called"
+    },
+    {
+      "start": 5971.88,
+      "end": 5979.58,
+      "text": "9012 live 9012 live the solos by yes just come out on the atgo record label and i'll tell you"
+    },
+    {
+      "start": 5979.58,
+      "end": 5983.98,
+      "text": "the tracks on it hold on which you just heard see solly's beard soon changes amazing grace and"
+    },
+    {
+      "start": 5983.98,
+      "end": 5989.48,
+      "text": "whitefish also released at the same time though is a video with different tracks on it the uh"
+    },
+    {
+      "start": 5989.48,
+      "end": 5995.5,
+      "text": "the video is called yes 9012 live right just doesn't say the solos and on that you've got"
+    },
+    {
+      "start": 5995.5,
+      "end": 5999.52,
+      "text": "cinema leave it hold on i've seen all good people changes and of a lonely heart it can"
+    },
+    {
+      "start": 5999.52,
+      "end": 6001.54,
+      "text": "Happen City 11 Starship Trooper, so now you know."
+    },
+    {
+      "start": 6001.98,
+      "end": 6004.22,
+      "text": "The album is called 9012 Live."
+    },
+    {
+      "start": 6004.3,
+      "end": 6007.24,
+      "text": "The solos, the video is just called 9012 Live,"
+    },
+    {
+      "start": 6007.36,
+      "end": 6008.82,
+      "text": "and there is a variation of tracks."
+    },
+    {
+      "start": 6008.94,
+      "end": 6011.12,
+      "text": "Now, in a fortnight's time, two weeks' time,"
+    },
+    {
+      "start": 6011.16,
+      "end": 6014.22,
+      "text": "we will be rebroadcasting the archive session we put out"
+    },
+    {
+      "start": 6014.22,
+      "end": 6015.66,
+      "text": "during the first programme."
+    },
+    {
+      "start": 6015.74,
+      "end": 6017.16,
+      "text": "In fact, it was the whole of the first programme"
+    },
+    {
+      "start": 6017.16,
+      "end": 6020.8,
+      "text": "in the Friday Rock Show, back in November 1978,"
+    },
+    {
+      "start": 6020.8,
+      "end": 6022.62,
+      "text": "recorded at Wembley in 1978."
+    },
+    {
+      "start": 6023.26,
+      "end": 6023.56,
+      "text": "Yes."
+    },
+    {
+      "start": 6024.1,
+      "end": 6024.44,
+      "text": "Okay?"
+    },
+    {
+      "start": 6024.74,
+      "end": 6025.78,
+      "text": "That's in two weeks' time."
+    },
+    {
+      "start": 6025.92,
+      "end": 6028.16,
+      "text": "Yes, at Wembley, 1978."
+    },
+    {
+      "start": 6028.78,
+      "end": 6031.52,
+      "text": "Before, yes, you heard Elixir."
+    },
+    {
+      "start": 6031.84,
+      "end": 6033.06,
+      "text": "Good young band from London there."
+    },
+    {
+      "start": 6033.54,
+      "end": 6035.1,
+      "text": "Their track was called Son of Odin."
+    },
+    {
+      "start": 6035.42,
+      "end": 6037.62,
+      "text": "Now, back into the archives from 1969."
+    },
+    {
+      "start": 6038.52,
+      "end": 6039.84,
+      "text": "Date, unknown to us."
+    },
+    {
+      "start": 6040.26,
+      "end": 6042.86,
+      "text": "Pink Floyd and One of These Days."
+    },
+    {
+      "start": 6043.42,
+      "end": 6409.31,
+      "text": "The former self."
+    },
+    {
+      "start": 6409.47,
+      "end": 6411.75,
+      "text": "That was recorded for the BBC back in 1969,"
+    },
+    {
+      "start": 6411.89,
+      "end": 6414.71,
+      "text": "a studio version of One of These Days by the Pink Floyd."
+    },
+    {
+      "start": 6414.97,
+      "end": 6417.59,
+      "text": "And that was our archive session by then, or the second part thereof."
+    },
+    {
+      "start": 6419.21,
+      "end": 6422.09,
+      "text": "Once again, can I tell you about the magazine which is called The Amazing Pudding?"
+    },
+    {
+      "start": 6422.35,
+      "end": 6425.03,
+      "text": "Details about The Amazing Pudding, which is a very good read."
+    },
+    {
+      "start": 6425.23,
+      "end": 6427.64,
+      "text": "for a Floyd fan, particularly, of course,"
+    },
+    {
+      "start": 6427.64,
+      "end": 6430.9,
+      "text": "are available if you send me a stamped address envelope,"
+    },
+    {
+      "start": 6430.9,
+      "end": 6432.54,
+      "text": "please, a stamped address envelope,"
+    },
+    {
+      "start": 6432.54,
+      "end": 6435.72,
+      "text": "send it to The Amazing Pudding, details,"
+    },
+    {
+      "start": 6435.72,
+      "end": 6439.26,
+      "text": "Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 6439.26,
+      "end": 6444.0,
+      "text": "The Amazing Pudding, details, Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 6444.0,
+      "end": 6445.54,
+      "text": "Better put the Friday Rock show on that as well,"
+    },
+    {
+      "start": 6445.54,
+      "end": 6447.66,
+      "text": "just to make it easier to sort the letters out."
+    },
+    {
+      "start": 6447.66,
+      "end": 6449.34,
+      "text": "Okay, thank you, hope you enjoyed it."
+    },
+    {
+      "start": 6449.34,
+      "end": 6450.18,
+      "text": "I did."
+    },
+    {
+      "start": 6450.18,
+      "end": 6455.3,
+      "text": "This Saturday night on 1089."
+    },
+    {
+      "start": 6455.68,
+      "end": 6470.61,
+      "text": "Every Saturday night at 9.30"
+    },
+    {
+      "start": 6470.61,
+      "end": 6473.55,
+      "text": "It's 13 and a half minutes now to midnight"
+    },
+    {
+      "start": 6473.55,
+      "end": 6475.75,
+      "text": "King Diamond has formed his own band"
+    },
+    {
+      "start": 6475.75,
+      "end": 6479.13,
+      "text": "This is a track from the album called Fatal Portrait"
+    },
+    {
+      "start": 6479.13,
+      "end": 7219.59,
+      "text": "Featuring Tony Aiobi, who's just hit his axe there"
+    },
+    {
+      "start": 7219.59,
+      "end": 7222.35,
+      "text": "The track is called In For The Kill from their album Seven Star"
+    },
+    {
+      "start": 7222.35,
+      "end": 7224.83,
+      "text": "Before that, Elixir, our session band tonight"
+    },
+    {
+      "start": 7224.83,
+      "end": 7226.21,
+      "text": "Good luck to them, a young band from London"
+    },
+    {
+      "start": 7226.21,
+      "end": 7228.17,
+      "text": "The track you heard by them was the start of Beshan"
+    },
+    {
+      "start": 7228.17,
+      "end": 7231.79,
+      "text": "and prior to that, King Diamond from Fatal Portrait,"
+    },
+    {
+      "start": 7231.89,
+      "end": 7233.29,
+      "text": "a new album out on Roadrunner."
+    },
+    {
+      "start": 7233.65,
+      "end": 7234.57,
+      "text": "The track was The Portrait."
+    },
+    {
+      "start": 7240.26,
+      "end": 7244.98,
+      "text": "Had a couple of tubes last night with Angus and Brian and Malcolm and ACDC"
+    },
+    {
+      "start": 7244.98,
+      "end": 7246.38,
+      "text": "who were making a video."
+    },
+    {
+      "start": 7246.62,
+      "end": 7250.58,
+      "text": "They send you lots of love, lots of regards and say thanks for the support."
+    },
+    {
+      "start": 7251.89,
+      "end": 7253.05,
+      "text": "See you as soon as they can again."
+    },
+    {
+      "start": 7253.75,
+      "end": 7256.67,
+      "text": "The Friday Rock Show is, as always, a Tony Wilson production."
+    },
+    {
+      "start": 7257.55,
+      "end": 7260.77,
+      "text": "Following the Midnight Pips, you will hear on Medium Wave Radio 1 News"
+    },
+    {
+      "start": 7260.77,
+      "end": 7262.81,
+      "text": "on FM Stereo Radio 2."
+    },
+    {
+      "start": 7263.35,
+      "end": 7270.64,
+      "text": "here have yourself a very good weekend on behalf of everybody on the music side of radio one my"
+    },
+    {
+      "start": 7270.64,
+      "end": 7274.94,
+      "text": "name is tommy vance i wish you well take care god bless good night"
     }
   ]
 }

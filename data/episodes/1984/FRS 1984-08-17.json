@@ -20,22 +20,26 @@
     {
       "artist": "Mötley Crüe",
       "track": "Shout At The Devil",
-      "details": "LP-Shout At The Devil; Elektra"
+      "details": "LP-Shout At The Devil; Elektra",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Accept",
       "track": "Balls To The Wall",
-      "details": "LP-Balls To The Wall; Portrait"
+      "details": "LP-Balls To The Wall; Portrait",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Y & T",
       "track": "I Believe In You",
-      "details": "LP-Earthshaker; A&M"
+      "details": "LP-Earthshaker; A&M",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "AC/DC",
       "track": "For Those About to Rock (We Salute You)",
-      "details": "LP-For Those About To Rock We Salute You; Atlantic"
+      "details": "LP-For Those About To Rock We Salute You; Atlantic",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": null,

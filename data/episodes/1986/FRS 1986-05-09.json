@@ -18,22 +18,26 @@
     {
       "artist": "AC/DC",
       "track": "Who Made Who",
-      "details": "7\"; Atlantic"
+      "details": "7\"; Atlantic",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Dio",
       "track": "Hungry For Heaven",
-      "details": "12\"-The Dio E.P.; Vertigo"
+      "details": "12\"-The Dio E.P.; Vertigo",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Deep Purple",
       "track": "Perfect Strangers",
-      "details": "CD-Perfect Strangers; Polydor"
+      "details": "CD-Perfect Strangers; Polydor",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Legs Diamond",
       "track": "Rock Doktor",
-      "details": "LP-Land Of The Gun; Music For Nations"
+      "details": "LP-Land Of The Gun; Music For Nations",
+      "verified_timestamp": 1149.05
     },
     {
       "artist": null,
@@ -43,37 +47,44 @@
     {
       "artist": "Elixir",
       "track": "Hold High The Flame",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1307.04
     },
     {
       "artist": "Savatage",
       "track": "Crying For Love",
-      "details": "LP-Fight For The Rock; Atlantic"
+      "details": "LP-Fight For The Rock; Atlantic",
+      "verified_timestamp": 1965.72
     },
     {
       "artist": "Savatage",
       "track": "Day After Day",
-      "details": "LP-Fight For The Rock; Atlantic"
+      "details": "LP-Fight For The Rock; Atlantic",
+      "verified_timestamp": 1963.46
     },
     {
       "artist": "Chrome Molly",
       "track": "I Want To Find Out",
-      "details": "7\"; Powerstation"
+      "details": "7\"; Powerstation",
+      "verified_timestamp": 2512.36
     },
     {
       "artist": "Tony MacAlpine",
       "track": "Wheel Of Fortune",
-      "details": "LP-Edge Of Insanity; Shrapnel"
+      "details": "LP-Edge Of Insanity; Shrapnel",
+      "verified_timestamp": 2499.43
     },
     {
       "artist": "Jimmy Barnes",
       "track": "Boys Cry Out For War",
-      "details": "LP-Jimmy Barnes; Geffen"
+      "details": "LP-Jimmy Barnes; Geffen",
+      "verified_timestamp": 3323.31
     },
     {
       "artist": "Journey",
       "track": "Suzanne",
-      "details": "LP-Raised On Radio; CBS"
+      "details": "LP-Raised On Radio; CBS",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Elixir",
@@ -83,7 +94,8 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3342.58
     },
     {
       "artist": "Razor",
@@ -98,22 +110,26 @@
     {
       "artist": "GTR",
       "track": "When the Heart Rules The Mind",
-      "details": "LP-GTR; Arista"
+      "details": "LP-GTR; Arista",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Keel",
       "track": "The Final Frontier",
-      "details": "CD-The Final Frontier; Vertigo"
+      "details": "CD-The Final Frontier; Vertigo",
+      "verified_timestamp": 5445.97
     },
     {
       "artist": "38 Special",
       "track": "'Heart's On Fire (LP-Strength In Numbers)' (A&M)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6033.49
     },
     {
       "artist": "Peter Frampton",
       "track": "All Eyes On You",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 6513.58
     },
     {
       "artist": "Elixir",
@@ -123,7 +139,1395 @@
     {
       "artist": "Budgie",
       "track": "Heavy Revolution",
-      "details": "LP-Power Supply; Active"
+      "details": "LP-Power Supply; Active",
+      "verified_timestamp": 7152.24
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.3,
+      "end": 7.58,
+      "text": "On medium wave and FM stereo, this is National..."
+    },
+    {
+      "start": 7.58,
+      "end": 10.58,
+      "text": "...Friday Rock Show!"
+    },
+    {
+      "start": 16.58,
+      "end": 23.58,
+      "text": "Well, hello there. This is TV on the Radio, Thomas Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 26.06,
+      "end": 31.06,
+      "text": "Okay, one session tonight is a very worthwhile repeat by a five-piece bunch who call themselves Elixir."
+    },
+    {
+      "start": 31.06,
+      "end": 36.44,
+      "text": "year they come from walthamstow in london and they make an extremely well formulated noise"
+    },
+    {
+      "start": 36.44,
+      "end": 54.71,
+      "text": "classics by alice cooper purple journey zeppelin and budgie imports by tony mcalpine sabotage and"
+    },
+    {
+      "start": 54.71,
+      "end": 64.37,
+      "text": "razor other names are acdc legs diamond chrome molly keel gtr frampton 38 special the best"
+    },
+    {
+      "start": 64.37,
+      "end": 499.9,
+      "text": "from the doep that was deal hungry for heaven and i've just suddenly remembered i'm gonna go"
+    },
+    {
+      "start": 499.9,
+      "end": 504.97,
+      "text": "and see him monday night there's some to look forward to doing gigs around the united kingdom"
+    },
+    {
+      "start": 504.97,
+      "end": 511.65,
+      "text": "doing three nights at hamio next week dio hungry for heaven before that acdc their new single who"
+    },
+    {
+      "start": 511.65,
+      "end": 523.86,
+      "text": "made who little communication from nancy postmark macklesfield no it's not manchester"
+    },
+    {
+      "start": 523.86,
+      "end": 530.76,
+      "text": "can't read it post office sorry about that somewhere united kingdom does iceland receive"
+    },
+    {
+      "start": 530.76,
+      "end": 535.26,
+      "text": "the friday night rock show past i don't know never know your luck ionospheric condition and all that"
+    },
+    {
+      "start": 536.7,
+      "end": 540.06,
+      "text": "I'll find out soon, she says, because I'm going to be spending a couple of weeks there in May."
+    },
+    {
+      "start": 540.16,
+      "end": 543.54,
+      "text": "Have you heard of any good or bad Icelandic rock bands?"
+    },
+    {
+      "start": 543.64,
+      "end": 543.84,
+      "text": "No."
+    },
+    {
+      "start": 544.66,
+      "end": 546.72,
+      "text": "I'll let you know if I hear of any while I'm there."
+    },
+    {
+      "start": 546.96,
+      "end": 547.8,
+      "text": "Right, Nancy, do."
+    },
+    {
+      "start": 548.0,
+      "end": 552.94,
+      "text": "Perhaps I flatter myself, but I think I'll be missed by one of your most avid fans and listeners in deepest Hampshire."
+    },
+    {
+      "start": 553.64,
+      "end": 554.86,
+      "text": "I know that I'm going to miss him."
+    },
+    {
+      "start": 554.96,
+      "end": 558.82,
+      "text": "Will you please tell him I like him very, very much, and I'll be back soon."
+    },
+    {
+      "start": 558.92,
+      "end": 559.44,
+      "text": "Love, Nancy."
+    },
+    {
+      "start": 560.08,
+      "end": 560.72,
+      "text": "Who is him?"
+    },
+    {
+      "start": 560.86,
+      "end": 561.9,
+      "text": "Don't know, but he does."
+    },
+    {
+      "start": 564.87,
+      "end": 567.87,
+      "text": "Jonathan Hayward is studying theology at Oxford."
+    },
+    {
+      "start": 568.33,
+      "end": 572.31,
+      "text": "But he writes thus, hello pal, play a record for the boys back home,"
+    },
+    {
+      "start": 572.43,
+      "end": 573.91,
+      "text": "Simon and Bassie and Martin."
+    },
+    {
+      "start": 575.16,
+      "end": 578.58,
+      "text": "Tell them to keep rocking and then I haven't sold out to the trendies and the toffs"
+    },
+    {
+      "start": 578.58,
+      "end": 580.9,
+      "text": "and that I'm still in my denims and rainbow braces."
+    },
+    {
+      "start": 582.34,
+      "end": 588.1,
+      "text": "Cheers from one of the heavy dudes, the few heavy dudes at Oxford doing theology."
+    },
+    {
+      "start": 590.02,
+      "end": 601.23,
+      "text": "It is 10-10, exactly."
+    },
+    {
+      "start": 601.89,
+      "end": 1144.97,
+      "text": "Good album that, it is my legs diamond."
+    },
+    {
+      "start": 1145.19,
+      "end": 1148.87,
+      "text": "It's just out on the Music for Nations album, or rather label, it's called Land of the Gun."
+    },
+    {
+      "start": 1149.05,
+      "end": 1150.23,
+      "text": "The track was Rock Doctor."
+    },
+    {
+      "start": 1151.69,
+      "end": 1153.97,
+      "text": "Better chance they might be doing some gigs in Europe later this year."
+    },
+    {
+      "start": 1154.11,
+      "end": 1156.49,
+      "text": "Good band, great singer, Mr. Sanford, he really is."
+    },
+    {
+      "start": 1156.71,
+      "end": 1157.59,
+      "text": "Okay, there you are."
+    },
+    {
+      "start": 1158.01,
+      "end": 1159.81,
+      "text": "Legs Diamond, Land of the Gun, Rock Doctor."
+    },
+    {
+      "start": 1160.55,
+      "end": 1163.31,
+      "text": "Before that, from their CD, Perfect Strangers,"
+    },
+    {
+      "start": 1163.47,
+      "end": 1165.27,
+      "text": "the title track, who's it? Purple."
+    },
+    {
+      "start": 1165.81,
+      "end": 1167.69,
+      "text": "Actually, I spoke to Ian Gillan yesterday on the telephone."
+    },
+    {
+      "start": 1167.91,
+      "end": 1169.65,
+      "text": "Ian's over there in Vermont with the rest of the mob,"
+    },
+    {
+      "start": 1169.85,
+      "end": 1172.05,
+      "text": "Vermont being the USA, of course,"
+    },
+    {
+      "start": 1172.05,
+      "end": 1173.35,
+      "text": "recording their new album."
+    },
+    {
+      "start": 1174.05,
+      "end": 1175.25,
+      "text": "He says it's going very well,"
+    },
+    {
+      "start": 1175.49,
+      "end": 1176.89,
+      "text": "and they're very, very happy over there."
+    },
+    {
+      "start": 1176.89,
+      "end": 1180.07,
+      "text": "so that's the latest on the Deep Purple recording side"
+    },
+    {
+      "start": 1180.07,
+      "end": 1181.83,
+      "text": "Ian Gillan will be coming back"
+    },
+    {
+      "start": 1181.83,
+      "end": 1182.91,
+      "text": "to the United Kingdom"
+    },
+    {
+      "start": 1182.91,
+      "end": 1185.25,
+      "text": "to actually I think host this show"
+    },
+    {
+      "start": 1185.25,
+      "end": 1186.23,
+      "text": "the first week in July"
+    },
+    {
+      "start": 1186.23,
+      "end": 1187.91,
+      "text": "because I'm away on holiday for that week"
+    },
+    {
+      "start": 1187.91,
+      "end": 1191.51,
+      "text": "and he's also going to be doing a solo album"
+    },
+    {
+      "start": 1191.51,
+      "end": 1192.63,
+      "text": "and also"
+    },
+    {
+      "start": 1192.63,
+      "end": 1194.53,
+      "text": "he said he's going to kick my head in"
+    },
+    {
+      "start": 1194.53,
+      "end": 1196.71,
+      "text": "in the nicest possible way of course"
+    },
+    {
+      "start": 1196.71,
+      "end": 1199.25,
+      "text": "if I didn't say hello to you on his behalf"
+    },
+    {
+      "start": 1199.25,
+      "end": 1201.03,
+      "text": "and there's a rumour"
+    },
+    {
+      "start": 1201.03,
+      "end": 1202.81,
+      "text": "but it's only a rumour"
+    },
+    {
+      "start": 1202.81,
+      "end": 1205.37,
+      "text": "that Purple might do some gigs"
+    },
+    {
+      "start": 1205.37,
+      "end": 1206.91,
+      "text": "sometime this year."
+    },
+    {
+      "start": 1207.55,
+      "end": 1209.39,
+      "text": "From the earliest times,"
+    },
+    {
+      "start": 1209.79,
+      "end": 1212.19,
+      "text": "man has strived to achieve what at first"
+    },
+    {
+      "start": 1212.19,
+      "end": 1214.37,
+      "text": "must have seemed impossible."
+    },
+    {
+      "start": 1215.27,
+      "end": 1217.49,
+      "text": "He searched for ways to exploit the offerings"
+    },
+    {
+      "start": 1217.49,
+      "end": 1219.01,
+      "text": "of his natural environment,"
+    },
+    {
+      "start": 1219.47,
+      "end": 1222.51,
+      "text": "hunting, fishing, checking the football results."
+    },
+    {
+      "start": 1222.51,
+      "end": 1224.59,
+      "text": "But, as we all know,"
+    },
+    {
+      "start": 1224.97,
+      "end": 1226.69,
+      "text": "all work and no play"
+    },
+    {
+      "start": 1226.69,
+      "end": 1229.31,
+      "text": "made Jack a very dull caveman."
+    },
+    {
+      "start": 1229.65,
+      "end": 1231.69,
+      "text": "So, he invented this."
+    },
+    {
+      "start": 1235.37,
+      "end": 1247.25,
+      "text": "which in time evolved into this and the best place to find the latest in musical technology"
+    },
+    {
+      "start": 1247.25,
+      "end": 1253.43,
+      "text": "is radio one saturday from 9 30 on the dixie beach midnight runner show and this week we're"
+    },
+    {
+      "start": 1253.43,
+      "end": 1259.61,
+      "text": "featuring fm in session and live recording the act reo speed wagon so that's saturday"
+    },
+    {
+      "start": 1259.61,
+      "end": 1264.47,
+      "text": "9 30 the dixie beach midnight runner show for music electric"
+    },
+    {
+      "start": 1264.47,
+      "end": 1265.59,
+      "text": "Action!"
+    },
+    {
+      "start": 1266.03,
+      "end": 1266.39,
+      "text": "Radio!"
+    },
+    {
+      "start": 1268.04,
+      "end": 1269.22,
+      "text": "Radio Barn!"
+    },
+    {
+      "start": 1269.36,
+      "end": 1271.0,
+      "text": "Oh, it's OK, Dix, back on the couch."
+    },
+    {
+      "start": 1271.22,
+      "end": 1273.18,
+      "text": "Now tell me all about your childhood, dear boy."
+    },
+    {
+      "start": 1273.28,
+      "end": 1275.08,
+      "text": "Dixie Peach, tomorrow night, makes a good sound."
+    },
+    {
+      "start": 1275.2,
+      "end": 1276.62,
+      "text": "21 minutes past ten is our time."
+    },
+    {
+      "start": 1276.7,
+      "end": 1279.42,
+      "text": "Hello to a fella who wrote me a letter from Brundle in Norwich."
+    },
+    {
+      "start": 1279.86,
+      "end": 1281.78,
+      "text": "His name is Robert Shaw, who says,"
+    },
+    {
+      "start": 1281.86,
+      "end": 1283.86,
+      "text": "am I as crazy as he is? Of course I am."
+    },
+    {
+      "start": 1284.1,
+      "end": 1286.4,
+      "text": "Hello to his mates as well, Gary and Paul and Stuart."
+    },
+    {
+      "start": 1286.66,
+      "end": 1288.5,
+      "text": "Allo, bonjour, or shall I say bonsoir,"
+    },
+    {
+      "start": 1288.82,
+      "end": 1290.62,
+      "text": "to a lady called Sylvie Mountjoy."
+    },
+    {
+      "start": 1290.62,
+      "end": 1292.24,
+      "text": "That's the English pronunciation of her name,"
+    },
+    {
+      "start": 1292.3,
+      "end": 1293.06,
+      "text": "because I can't do the French."
+    },
+    {
+      "start": 1293.46,
+      "end": 1297.42,
+      "text": "She lives on Rue des Sissies in Moulin, in France."
+    },
+    {
+      "start": 1297.56,
+      "end": 1298.34,
+      "text": "It's her birthday today."
+    },
+    {
+      "start": 1298.48,
+      "end": 1299.94,
+      "text": "She also likes rock and roll a lot."
+    },
+    {
+      "start": 1300.38,
+      "end": 1302.16,
+      "text": "Sylvie, happy birthday, darling."
+    },
+    {
+      "start": 1302.32,
+      "end": 1304.16,
+      "text": "I can't say that in French, and I hope you enjoy this."
+    },
+    {
+      "start": 1304.34,
+      "end": 1305.36,
+      "text": "It's from our session band."
+    },
+    {
+      "start": 1305.52,
+      "end": 1305.82,
+      "text": "Excellent."
+    },
+    {
+      "start": 1305.96,
+      "end": 1306.78,
+      "text": "They're from Walthamstow."
+    },
+    {
+      "start": 1307.04,
+      "end": 1307.82,
+      "text": "They're called Elixir."
+    },
+    {
+      "start": 1308.6,
+      "end": 1958.84,
+      "text": "That's a great old song."
+    },
+    {
+      "start": 1959.04,
+      "end": 1961.08,
+      "text": "I think it was first recorded by Badfinger,"
+    },
+    {
+      "start": 1961.22,
+      "end": 1963.32,
+      "text": "certainly written by a fellow who was in Badfinger anyway."
+    },
+    {
+      "start": 1963.46,
+      "end": 1965.72,
+      "text": "Day after day, it was by Sabotage."
+    },
+    {
+      "start": 1965.72,
+      "end": 1967.84,
+      "text": "Also by Sabotage, you heard Crying For Love"
+    },
+    {
+      "start": 1967.84,
+      "end": 1971.1,
+      "text": "from their import album on the American Atlantic label."
+    },
+    {
+      "start": 1971.1,
+      "end": 1977.71,
+      "text": "the album is called fight for the rock before that elixir our session by then the first of four hold"
+    },
+    {
+      "start": 1977.71,
+      "end": 1986.89,
+      "text": "high the flame 27 minutes to 11 mark field house of grayfield on the green at north ans"
+    },
+    {
+      "start": 1986.89,
+      "end": 1996.06,
+      "text": "says say a big hello to james mundell or mundle just a scorps freak of perry and also he complains"
+    },
+    {
+      "start": 1996.06,
+      "end": 2000.26,
+      "text": "he says i've entered several of your competitions but i've never won i've never had a mention on"
+    },
+    {
+      "start": 2000.26,
+      "end": 2004.6,
+      "text": "this here program please read this out which i just have mark fieldhouse that's your mansion"
+    },
+    {
+      "start": 2004.6,
+      "end": 2013.5,
+      "text": "and i hope you have a good weekend hello to craig and to tin and a graham from dean harvey in brum"
+    },
+    {
+      "start": 2013.5,
+      "end": 2492.19,
+      "text": "who uh if you can i'd borrow the money if you haven't got it to buy that album"
+    },
+    {
+      "start": 2492.19,
+      "end": 2499.43,
+      "text": "it's on the american shrapnel record label it's an import obviously it's by a fellow called tony"
+    },
+    {
+      "start": 2499.43,
+      "end": 2504.47,
+      "text": "mcalpine the album's called the edge of insanity the track was the wheel of fortune"
+    },
+    {
+      "start": 2504.47,
+      "end": 2512.36,
+      "text": "it's a real stunner before that crow molly then he's single out on the power station"
+    },
+    {
+      "start": 2512.36,
+      "end": 2515.88,
+      "text": "record label i want to find out it's called it's 18 minutes to 11."
+    },
+    {
+      "start": 2519.08,
+      "end": 2527.0,
+      "text": "this is from toby webber is it webster also turtle head tom webster turtle head"
+    },
+    {
+      "start": 2527.0,
+      "end": 2533.66,
+      "text": "he says i listen to the program it's all right he lives incidentally morton whittle merseyside"
+    },
+    {
+      "start": 2533.66,
+      "end": 2536.68,
+      "text": "Cos I had to get my hair cut recently"
+    },
+    {
+      "start": 2536.68,
+      "end": 2539.1,
+      "text": "But that doesn't mean I won't be listening anymore"
+    },
+    {
+      "start": 2539.1,
+      "end": 2541.1,
+      "text": "I'll crash you in the cranium just as hard"
+    },
+    {
+      "start": 2541.1,
+      "end": 2543.16,
+      "text": "Anyway, to get around to things"
+    },
+    {
+      "start": 2543.16,
+      "end": 2544.76,
+      "text": "Could you please say hello"
+    },
+    {
+      "start": 2544.76,
+      "end": 2547.6,
+      "text": "To the best girl hippie in the world"
+    },
+    {
+      "start": 2547.6,
+      "end": 2550.38,
+      "text": "Whose name is Marie, or Black Sooty"
+    },
+    {
+      "start": 2550.38,
+      "end": 2551.66,
+      "text": "As she is known"
+    },
+    {
+      "start": 2551.66,
+      "end": 2553.26,
+      "text": "And give her all my love"
+    },
+    {
+      "start": 2553.26,
+      "end": 2555.26,
+      "text": "And best regards on her 16th birthday"
+    },
+    {
+      "start": 2555.26,
+      "end": 2557.02,
+      "text": "And will you tell her that I love her loads"
+    },
+    {
+      "start": 2557.02,
+      "end": 2561.24,
+      "text": "Tom loves Black Sooty"
+    },
+    {
+      "start": 2561.24,
+      "end": 2562.6,
+      "text": "And how the world knows"
+    },
+    {
+      "start": 2562.6,
+      "end": 3303.55,
+      "text": "All right, and that's Suzanne from the new album by Journey."
+    },
+    {
+      "start": 3303.93,
+      "end": 3305.89,
+      "text": "And now, well, just a three-piece with friends,"
+    },
+    {
+      "start": 3306.35,
+      "end": 3308.65,
+      "text": "Steve Perry, Neil Shearn, and Jonathan Cain."
+    },
+    {
+      "start": 3308.77,
+      "end": 3310.31,
+      "text": "The album's called Raised on Radio."
+    },
+    {
+      "start": 3310.97,
+      "end": 3311.63,
+      "text": "It's out on CBS."
+    },
+    {
+      "start": 3311.91,
+      "end": 3314.07,
+      "text": "The track you heard was called Suzanne at Journey."
+    },
+    {
+      "start": 3315.07,
+      "end": 3317.67,
+      "text": "There's a connection between that track and the previous track"
+    },
+    {
+      "start": 3317.67,
+      "end": 3320.45,
+      "text": "that was by Jimmy Barnes from his first album,"
+    },
+    {
+      "start": 3320.53,
+      "end": 3321.65,
+      "text": "which is called Jimmy Barnes."
+    },
+    {
+      "start": 3321.93,
+      "end": 3323.23,
+      "text": "It's out on the Geffen record label."
+    },
+    {
+      "start": 3323.31,
+      "end": 3324.99,
+      "text": "The track was Boys Cry Out for War."
+    },
+    {
+      "start": 3324.99,
+      "end": 3327.03,
+      "text": "Some of the tracks on that album by Mr. Barnes"
+    },
+    {
+      "start": 3327.03,
+      "end": 3330.69,
+      "text": "were produced by Jonathan Cain, who also played keyboard on the album."
+    },
+    {
+      "start": 3330.79,
+      "end": 3331.69,
+      "text": "It's a tough album, that."
+    },
+    {
+      "start": 3332.55,
+      "end": 3335.81,
+      "text": "Four and a half minutes to 11."
+    },
+    {
+      "start": 3337.42,
+      "end": 3339.52,
+      "text": "Friday night connection."
+    },
+    {
+      "start": 3339.82,
+      "end": 3340.98,
+      "text": "Doesn't that bring back some memories?"
+    },
+    {
+      "start": 3342.58,
+      "end": 3343.52,
+      "text": "Lie back and enjoy it."
+    },
+    {
+      "start": 3343.54,
+      "end": 3344.78,
+      "text": "We've been calling this for ages now,"
+    },
+    {
+      "start": 3344.86,
+      "end": 3346.82,
+      "text": "but then we ran the Friday night connection for, I don't know,"
+    },
+    {
+      "start": 3346.88,
+      "end": 3347.76,
+      "text": "it must have been six years."
+    },
+    {
+      "start": 3348.96,
+      "end": 3350.32,
+      "text": "Maybe one day we'll bring it back,"
+    },
+    {
+      "start": 3350.38,
+      "end": 3353.58,
+      "text": "but at the moment this segment is called Lie Back and Enjoy It."
+    },
+    {
+      "start": 3354.5,
+      "end": 3356.9,
+      "text": "And the person who's put the music together right now"
+    },
+    {
+      "start": 3356.9,
+      "end": 3360.88,
+      "text": "is somebody who lives on Paston Crescent, Leigh, in London."
+    },
+    {
+      "start": 3361.26,
+      "end": 3362.5,
+      "text": "And his name is Graham King."
+    },
+    {
+      "start": 3363.22,
+      "end": 3367.6,
+      "text": "Graham gets a £12 record token."
+    },
+    {
+      "start": 3367.72,
+      "end": 3369.8,
+      "text": "I know it's not a fortune, but it's better than nothing."
+    },
+    {
+      "start": 3372.43,
+      "end": 3373.89,
+      "text": "Had the chance to entertain the nation,"
+    },
+    {
+      "start": 3373.99,
+      "end": 3376.89,
+      "text": "which he's going to do now for 23 and a half minutes."
+    },
+    {
+      "start": 3377.15,
+      "end": 3378.53,
+      "text": "He just says, Tommy, here's my choice."
+    },
+    {
+      "start": 3378.59,
+      "end": 3380.57,
+      "text": "You'll lie back in an enjoyed slot."
+    },
+    {
+      "start": 3381.37,
+      "end": 3382.25,
+      "text": "They are as follows."
+    },
+    {
+      "start": 3382.79,
+      "end": 3385.29,
+      "text": "I hope everybody can get into them."
+    },
+    {
+      "start": 3385.55,
+      "end": 3386.39,
+      "text": "And I'm sure he can."
+    },
+    {
+      "start": 4727.71,
+      "end": 4729.17,
+      "text": "And that was the choice of Graham King"
+    },
+    {
+      "start": 4729.17,
+      "end": 4732.22,
+      "text": "of Paston Crescent, Leigh, London."
+    },
+    {
+      "start": 4732.44,
+      "end": 4741.22,
+      "text": "se12 23 and a half minutes of music physical graffiti was the album by let's up in the track"
+    },
+    {
+      "start": 4741.22,
+      "end": 4748.02,
+      "text": "was cashmere came out in 1975. don't stop believing by journey from 1981 from their"
+    },
+    {
+      "start": 4748.02,
+      "end": 4754.9,
+      "text": "album escape and from the 1985 album called the jewel ten dragon and the black knight"
+    },
+    {
+      "start": 4755.46,
+      "end": 4764.78,
+      "text": "at 19 minutes past 11. thank you mr king i better get your birthday wish into your cousin audrey"
+    },
+    {
+      "start": 4764.78,
+      "end": 4769.26,
+      "text": "king from south wooden king's lynn it's actually i think for next friday but uh the thing about to"
+    },
+    {
+      "start": 4769.26,
+      "end": 4774.7,
+      "text": "get in now because i might lose the letter between now and next friday poetry happy birthday for next"
+    },
+    {
+      "start": 4774.7,
+      "end": 4780.7,
+      "text": "friday from graham you should be celebrating your birthday with you next week everybody else"
+    },
+    {
+      "start": 4780.7,
+      "end": 4786.63,
+      "text": "answers the uh the chance of getting a 12 pound record token and the chance of getting their music"
+    },
+    {
+      "start": 4786.63,
+      "end": 4793.3,
+      "text": "choice aired across radio one across the nation in other words why don't you jot down approximately"
+    },
+    {
+      "start": 4793.3,
+      "end": 4798.94,
+      "text": "20 minutes of music approximately 20 minutes of music nice variation but your choice nonetheless"
+    },
+    {
+      "start": 4798.94,
+      "end": 4802.24,
+      "text": "Listen, send it to Lie Back and Enjoy It."
+    },
+    {
+      "start": 4803.1,
+      "end": 4809.46,
+      "text": "The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4810.62,
+      "end": 4813.17,
+      "text": "Your choice, please."
+    },
+    {
+      "start": 4813.53,
+      "end": 4818.31,
+      "text": "Good music to entertain this country and anybody else who may be listening as well."
+    },
+    {
+      "start": 4819.03,
+      "end": 4820.63,
+      "text": "The feature is called Lie Back and Enjoy It."
+    },
+    {
+      "start": 4821.87,
+      "end": 4826.27,
+      "text": "Send your selection to Lie Back and Enjoy It, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4827.13,
+      "end": 4827.45,
+      "text": "Good luck."
+    },
+    {
+      "start": 4827.45,
+      "end": 5332.29,
+      "text": "A Béchon, a repeat session by Elixir."
+    },
+    {
+      "start": 5333.03,
+      "end": 5335.77,
+      "text": "If you'd like details about Elixir, I can get some for you,"
+    },
+    {
+      "start": 5335.85,
+      "end": 5338.53,
+      "text": "providing you send me a stamped addressed envelope."
+    },
+    {
+      "start": 5338.83,
+      "end": 5341.45,
+      "text": "There's details about an album they've got out on their own record label"
+    },
+    {
+      "start": 5341.45,
+      "end": 5343.79,
+      "text": "and also details about their fan club."
+    },
+    {
+      "start": 5343.87,
+      "end": 5346.99,
+      "text": "So the best way of getting that together is to send me a stamped addressed envelope"
+    },
+    {
+      "start": 5346.99,
+      "end": 5350.55,
+      "text": "and I'll forward it to their manager, Wolfram style, Larnan."
+    },
+    {
+      "start": 5351.42,
+      "end": 5356.38,
+      "text": "OK, send a stamped addressed envelope to Tommy Vance, BF, um..."
+    },
+    {
+      "start": 5356.38,
+      "end": 5358.26,
+      "text": "Let's put it, to Tommy Vance, Elixir, right?"
+    },
+    {
+      "start": 5358.7,
+      "end": 5362.3,
+      "text": "BBC Radio 1, London, W1A4, WW, that's the best way around that."
+    },
+    {
+      "start": 5362.3,
+      "end": 5364.12,
+      "text": "That'll sort all the mail out accurately."
+    },
+    {
+      "start": 5364.7,
+      "end": 5366.34,
+      "text": "Tommy Vance, Elixir, OK?"
+    },
+    {
+      "start": 5367.02,
+      "end": 5370.08,
+      "text": "BBC Radio 1, London, W104, WW."
+    },
+    {
+      "start": 5370.4,
+      "end": 5372.46,
+      "text": "It's down to this envelope for details of Elixir."
+    },
+    {
+      "start": 5373.36,
+      "end": 5376.3,
+      "text": "Before that, a thrash band from Canada."
+    },
+    {
+      "start": 5377.02,
+      "end": 5379.16,
+      "text": "It's an import. It's on the Viper record label."
+    },
+    {
+      "start": 5379.52,
+      "end": 5380.7,
+      "text": "The band are called Razor."
+    },
+    {
+      "start": 5381.4,
+      "end": 5383.02,
+      "text": "The album, Malicious Intent."
+    },
+    {
+      "start": 5384.13,
+      "end": 5385.93,
+      "text": "The track was A Night At Tink."
+    },
+    {
+      "start": 5387.4,
+      "end": 5388.84,
+      "text": "A-double-T-I-C-K."
+    },
+    {
+      "start": 5392.53,
+      "end": 5393.79,
+      "text": "Margaret, Belfast."
+    },
+    {
+      "start": 5393.79,
+      "end": 5397.77,
+      "text": "First, give a mention to a Venom fanatic by the name of Davey"
+    },
+    {
+      "start": 5397.77,
+      "end": 5400.81,
+      "text": "And tell him not to work so hard on Saturday"
+    },
+    {
+      "start": 5400.81,
+      "end": 5402.87,
+      "text": "Right, that's been done"
+    },
+    {
+      "start": 5402.87,
+      "end": 5406.82,
+      "text": "Shire Oak, Brown Hills, West Midlands"
+    },
+    {
+      "start": 5406.82,
+      "end": 5408.98,
+      "text": "Lots of love and stuff from Jenny R"
+    },
+    {
+      "start": 5408.98,
+      "end": 5412.28,
+      "text": "Who says hi to all villa supporters everywhere"
+    },
+    {
+      "start": 5412.28,
+      "end": 5417.98,
+      "text": "Then she says, in parenthesis, stop laughing, we'll win one soon"
+    },
+    {
+      "start": 5417.98,
+      "end": 5421.08,
+      "text": "Also, play something by ACDC"
+    },
+    {
+      "start": 5421.08,
+      "end": 5423.72,
+      "text": "Did so earlier on for My Fantastic Fella"
+    },
+    {
+      "start": 5423.72,
+      "end": 5430.6,
+      "text": "phil from solihull tell him i love him lots even more than my forgazi poster also say hello to"
+    },
+    {
+      "start": 5430.6,
+      "end": 5434.54,
+      "text": "everybody at walsall college of technology especially all the girls on the second year"
+    },
+    {
+      "start": 5434.54,
+      "end": 5439.7,
+      "text": "nursery nursing course wish us all good luck for our exams which are during the month of may and"
+    },
+    {
+      "start": 5439.7,
+      "end": 5445.97,
+      "text": "the month of june and jenny argus on to say all right who else hasn't revised whether you have"
+    },
+    {
+      "start": 5445.97,
+      "end": 5989.81,
+      "text": "hope you pass and it's from the cd the final frontier that was the title tracks out on the"
+    },
+    {
+      "start": 5989.81,
+      "end": 5991.89,
+      "text": "Vertigo record label. Before that, you heard something"
+    },
+    {
+      "start": 5991.89,
+      "end": 5993.39,
+      "text": "that's come out in this country as a single,"
+    },
+    {
+      "start": 5993.73,
+      "end": 5995.89,
+      "text": "though I played it as an album track from an"
+    },
+    {
+      "start": 5995.89,
+      "end": 5997.53,
+      "text": "import album, the first album by"
+    },
+    {
+      "start": 5997.53,
+      "end": 5999.95,
+      "text": "GTR. Alright, the album's"
+    },
+    {
+      "start": 5999.95,
+      "end": 6001.75,
+      "text": "just called GTR. It's out on Arista"
+    },
+    {
+      "start": 6001.75,
+      "end": 6003.69,
+      "text": "Import at the moment, when the heart"
+    },
+    {
+      "start": 6003.69,
+      "end": 6005.71,
+      "text": "rules the mind. But there is a single"
+    },
+    {
+      "start": 6005.71,
+      "end": 6007.79,
+      "text": "version of that out in this country, or about to come out,"
+    },
+    {
+      "start": 6008.19,
+      "end": 6009.79,
+      "text": "though I don't think it's as long. Could be wrong."
+    },
+    {
+      "start": 6010.27,
+      "end": 6011.87,
+      "text": "In GTR are a few"
+    },
+    {
+      "start": 6011.87,
+      "end": 6013.81,
+      "text": "very good names, and good players."
+    },
+    {
+      "start": 6014.23,
+      "end": 6015.55,
+      "text": "Steve Howe, Steve Hackett,"
+    },
+    {
+      "start": 6016.01,
+      "end": 6017.81,
+      "text": "Max Bacon, he used to sing with Bronze, he's"
+    },
+    {
+      "start": 6017.81,
+      "end": 6019.45,
+      "text": "the lead vocalist. There's Phil Spaulding,"
+    },
+    {
+      "start": 6019.81,
+      "end": 6022.41,
+      "text": "and Jonathan Mover, excellent band, good album."
+    },
+    {
+      "start": 6022.61,
+      "end": 6025.17,
+      "text": "Look forward to playing more of it for you at a later date."
+    },
+    {
+      "start": 6025.67,
+      "end": 6027.01,
+      "text": "It's exactly 20 minutes to 12."
+    },
+    {
+      "start": 6027.15,
+      "end": 6028.63,
+      "text": "This is BBC Radio 1."
+    },
+    {
+      "start": 6029.23,
+      "end": 6030.21,
+      "text": "It's the Friday Rock Show."
+    },
+    {
+      "start": 6030.63,
+      "end": 6033.09,
+      "text": "Better Country Boogie has joined the 38th special,"
+    },
+    {
+      "start": 6033.49,
+      "end": 6034.31,
+      "text": "The Heart's On Fire."
+    },
+    {
+      "start": 6035.23,
+      "end": 6511.4,
+      "text": "That's the artist, always has been."
+    },
+    {
+      "start": 6511.76,
+      "end": 6513.58,
+      "text": "Peter Frampton, new single, out on Virgin,"
+    },
+    {
+      "start": 6513.58,
+      "end": 6515.74,
+      "text": "All Eyes On You, 38th special."
+    },
+    {
+      "start": 6516.2,
+      "end": 6518.48,
+      "text": "From their new album, which has just been released in this country,"
+    },
+    {
+      "start": 6518.68,
+      "end": 6520.58,
+      "text": "Strength In Numbers, six of them in the band."
+    },
+    {
+      "start": 6521.0,
+      "end": 6522.18,
+      "text": "It's on A&M Records."
+    },
+    {
+      "start": 6522.5,
+      "end": 6524.22,
+      "text": "It's called, or the track was Hearts On Fire."
+    },
+    {
+      "start": 6524.4,
+      "end": 6527.16,
+      "text": "30-year special album is called Strength in Numbers."
+    },
+    {
+      "start": 6527.48,
+      "end": 6531.3,
+      "text": "OK, quick mention here for Rob Collier, Kathy Brooks,"
+    },
+    {
+      "start": 6532.22,
+      "end": 6537.1,
+      "text": "Simon Low-IQ Drew, Jeffrey Benwell, Gary Poser Drew"
+    },
+    {
+      "start": 6537.1,
+      "end": 6540.02,
+      "text": "and Paul Bonehead Drew from Matthew,"
+    },
+    {
+      "start": 6540.46,
+      "end": 6542.82,
+      "text": "who believes that Jodie Turner is lush."
+    },
+    {
+      "start": 6543.48,
+      "end": 6546.14,
+      "text": "And believe me, you're not alone in that thought."
+    },
+    {
+      "start": 7146.9,
+      "end": 7149.94,
+      "text": "Absolutely wonderful stuff from an album that came out in 1980."
+    },
+    {
+      "start": 7150.1,
+      "end": 7152.24,
+      "text": "It was by Budgie. The album was called Power Supply."
+    },
+    {
+      "start": 7152.24,
+      "end": 7153.7,
+      "text": "The track was Heavy Revolution."
+    },
+    {
+      "start": 7157.8,
+      "end": 7162.02,
+      "text": "That was especially for Del and the twin girls who are there in Crawley in Sussex"
+    },
+    {
+      "start": 7162.02,
+      "end": 7167.36,
+      "text": "with lots of love from Bev and Jason and Dad, who are over there in Jersey."
+    },
+    {
+      "start": 7168.93,
+      "end": 7172.63,
+      "text": "The Vaughan Williams. Nice family. Nice thoughts in this letter."
+    },
+    {
+      "start": 7173.69,
+      "end": 7175.01,
+      "text": "Hello, Del. Hope you're still awake."
+    },
+    {
+      "start": 7176.72,
+      "end": 7179.1,
+      "text": "If you'd like details about our session band tonight, Alexia,"
+    },
+    {
+      "start": 7179.6,
+      "end": 7182.28,
+      "text": "send me a stamped address envelope and I'll send it on to them"
+    },
+    {
+      "start": 7182.28,
+      "end": 7184.02,
+      "text": "and they, I'm sure, will ship you what you want to know."
+    },
+    {
+      "start": 7184.78,
+      "end": 7188.21,
+      "text": "Thank you, Alexia. Paul, Phil, Norman, Kevin and Nigel."
+    },
+    {
+      "start": 7189.56,
+      "end": 7193.3,
+      "text": "Thanks to Eileen, our PA, petite and perfectly formed."
+    },
+    {
+      "start": 7195.32,
+      "end": 7197.06,
+      "text": "The Friday Rock Show is a Tony Wilson production."
+    },
+    {
+      "start": 7197.22,
+      "end": 7201.14,
+      "text": "Tonight he's producing the new band by Paul Sampson, Paul Sampson's Empire."
+    },
+    {
+      "start": 7201.68,
+      "end": 7202.7,
+      "text": "Soon to be heard on this show."
+    },
+    {
+      "start": 7203.1,
+      "end": 7209.32,
+      "text": "Following the midnight pips you will hear on Medium Wave, Radio 1 News, on FM Stereo, Radio 2."
+    },
+    {
+      "start": 7211.71,
+      "end": 7212.57,
+      "text": "I'm Tommy Vance."
+    },
+    {
+      "start": 7212.69,
+      "end": 7214.29,
+      "text": "And what's left of him after a hard day?"
+    },
+    {
+      "start": 7214.73,
+      "end": 7215.95,
+      "text": "Have yourself a great weekend."
+    },
+    {
+      "start": 7216.55,
+      "end": 7217.17,
+      "text": "Take care."
+    },
+    {
+      "start": 7217.65,
+      "end": 7218.07,
+      "text": "God bless."
+    },
+    {
+      "start": 7218.27,
+      "end": 7218.53,
+      "text": "Good night."
     }
   ]
 }

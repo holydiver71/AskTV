@@ -18,7 +18,8 @@
     {
       "artist": null,
       "track": "Great White - Shot in the Dark",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": null,
@@ -28,12 +29,14 @@
     {
       "artist": null,
       "track": "Ratt - Tell the World",
-      "details": null
+      "details": null,
+      "verified_timestamp": 720.0
     },
     {
       "artist": null,
       "track": "Stevie Ray Vaughan & Double Trouble - Testify",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": null,
@@ -53,7 +56,8 @@
     {
       "artist": null,
       "track": "Bon Jovi - Let It Rock",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
@@ -73,7 +77,8 @@
     {
       "artist": null,
       "track": "Quiet Riot - The Wild and the Young",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
@@ -88,7 +93,1230 @@
     {
       "artist": null,
       "track": "Whitesnake - Love Hunter",
-      "details": null
+      "details": null,
+      "verified_timestamp": 7017.9
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.52,
+      "end": 6.12,
+      "text": "Rockin' the UK, Radio 1."
+    },
+    {
+      "start": 6.12,
+      "end": 9.52,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 9.52,
+      "end": 39.18,
+      "text": "Hello there, this is TV on the Radio, Thomas Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 39.18,
+      "end": 48.67,
+      "text": "Tonight, in the last hour, we feature, as recorded at Milton Keynes this year, Gary Moore and his band."
+    },
+    {
+      "start": 48.67,
+      "end": 52.67,
+      "text": "Hear 45 minutes of their live action later."
+    },
+    {
+      "start": 52.67,
+      "end": 71.11,
+      "text": "Now, before that, off the turntables we have Rat, Great White, Bon Jovi, Madison and Kim Mitchell."
+    },
+    {
+      "start": 72.48,
+      "end": 79.36,
+      "text": "Quiet Riot, Warlock, Whitesnake, Angel Dust, Stevie Ray Vaughan, The Crumbsuckers, King Cobra and others."
+    },
+    {
+      "start": 649.42,
+      "end": 652.88,
+      "text": "Dark Wizard, they are from Holland. Their album is called Reign of Evil."
+    },
+    {
+      "start": 653.28,
+      "end": 656.84,
+      "text": "It's on the Mausoleum record label. It's called Choice of Life, that track. Excellent stuff."
+    },
+    {
+      "start": 656.84,
+      "end": 662.22,
+      "text": "Before that, you heard Great White from their album, which is an import on the Manic Depressive record label."
+    },
+    {
+      "start": 662.22,
+      "end": 664.44,
+      "text": "The album is called Shot in the Dark"
+    },
+    {
+      "start": 664.44,
+      "end": 665.28,
+      "text": "You Heard the Title Track"
+    },
+    {
+      "start": 665.28,
+      "end": 666.44,
+      "text": "That's also highly recommended"
+    },
+    {
+      "start": 666.44,
+      "end": 667.7,
+      "text": "It's 11 minutes past 10"
+    },
+    {
+      "start": 667.7,
+      "end": 670.22,
+      "text": "This is the Friday Rock Show from BBC Radio 1"
+    },
+    {
+      "start": 670.22,
+      "end": 670.7,
+      "text": "How are you?"
+    },
+    {
+      "start": 670.88,
+      "end": 672.04,
+      "text": "I hope you're extremely well"
+    },
+    {
+      "start": 672.04,
+      "end": 672.92,
+      "text": "Good stuff tonight"
+    },
+    {
+      "start": 672.92,
+      "end": 673.84,
+      "text": "Gary Moore"
+    },
+    {
+      "start": 673.84,
+      "end": 676.56,
+      "text": "45 minutes of Gary Moore at Milton Keynes"
+    },
+    {
+      "start": 676.56,
+      "end": 678.6,
+      "text": "in the second hour of the programme tonight"
+    },
+    {
+      "start": 678.6,
+      "end": 679.68,
+      "text": "Philip Rooney"
+    },
+    {
+      "start": 679.68,
+      "end": 680.54,
+      "text": "of Ballymartin"
+    },
+    {
+      "start": 680.54,
+      "end": 681.42,
+      "text": "in County Down"
+    },
+    {
+      "start": 681.42,
+      "end": 682.54,
+      "text": "was to say hello to his mates"
+    },
+    {
+      "start": 682.54,
+      "end": 683.76,
+      "text": "William and Patrick Carey"
+    },
+    {
+      "start": 683.76,
+      "end": 686.34,
+      "text": "and all the other metal maniacs in County Meath"
+    },
+    {
+      "start": 686.34,
+      "end": 688.94,
+      "text": "and a fellow who calls himself Shaggy"
+    },
+    {
+      "start": 688.94,
+      "end": 691.1,
+      "text": "of 10 Coppergate at Rickall"
+    },
+    {
+      "start": 691.1,
+      "end": 692.16,
+      "text": "which is near York"
+    },
+    {
+      "start": 692.79,
+      "end": 696.07,
+      "text": "says hello to Spacker, who had a birthday on September 2nd."
+    },
+    {
+      "start": 696.33,
+      "end": 697.69,
+      "text": "Also to some old schoolmates of his,"
+    },
+    {
+      "start": 698.15,
+      "end": 700.77,
+      "text": "Dave Hughes, Andy Miller and Simon something-or-other."
+    },
+    {
+      "start": 700.87,
+      "end": 701.33,
+      "text": "Can't read it."
+    },
+    {
+      "start": 701.61,
+      "end": 702.83,
+      "text": "Anyway, hello from Spacker."
+    },
+    {
+      "start": 704.49,
+      "end": 1104.82,
+      "text": "Album that came out in 1983."
+    },
+    {
+      "start": 1105.14,
+      "end": 1106.34,
+      "text": "The album was called Texas Flood."
+    },
+    {
+      "start": 1106.78,
+      "end": 1108.66,
+      "text": "Stevie Ray Vaughan and Double Trouble."
+    },
+    {
+      "start": 1108.74,
+      "end": 1109.76,
+      "text": "That track was called Testify."
+    },
+    {
+      "start": 1109.9,
+      "end": 1112.2,
+      "text": "A track written, incidentally, not by him, but by George Clinton,"
+    },
+    {
+      "start": 1112.78,
+      "end": 1115.6,
+      "text": "who was one of those progressive funksters in a band called Parliament."
+    },
+    {
+      "start": 1115.6,
+      "end": 1117.34,
+      "text": "If anybody was ever into progressive funk,"
+    },
+    {
+      "start": 1117.84,
+      "end": 1119.56,
+      "text": "Parliament were one of the best bands ever."
+    },
+    {
+      "start": 1120.18,
+      "end": 1123.12,
+      "text": "Now, that fella, Stevie Ray Vaughan, one of the finest guitarists in the world,"
+    },
+    {
+      "start": 1123.18,
+      "end": 1126.26,
+      "text": "has got a double live album coming out soon and is going to tour Europe."
+    },
+    {
+      "start": 1126.72,
+      "end": 1129.88,
+      "text": "And it's well worth watching. He's amazing on stage."
+    },
+    {
+      "start": 1130.48,
+      "end": 1133.1,
+      "text": "He's just... his dexterity is incredible."
+    },
+    {
+      "start": 1133.42,
+      "end": 1134.54,
+      "text": "Before that, Rat."
+    },
+    {
+      "start": 1134.96,
+      "end": 1138.28,
+      "text": "I'm playing it from a Time Coast Communications six-track LP."
+    },
+    {
+      "start": 1138.9,
+      "end": 1141.12,
+      "text": "Now, that's an import. I don't know whether it's available here yet,"
+    },
+    {
+      "start": 1141.18,
+      "end": 1144.16,
+      "text": "but if not, it'll be available here soon."
+    },
+    {
+      "start": 1144.66,
+      "end": 1146.46,
+      "text": "Rat, from Rat until the world."
+    },
+    {
+      "start": 1146.92,
+      "end": 1149.0,
+      "text": "It's now 19 minutes past ten."
+    },
+    {
+      "start": 1149.0,
+      "end": 1150.22,
+      "text": "This is King Cobra."
+    },
+    {
+      "start": 1233.5,
+      "end": 1795.02,
+      "text": "They're on a major American record label,"
+    },
+    {
+      "start": 1795.14,
+      "end": 1796.94,
+      "text": "actually the Geffen record label in the States,"
+    },
+    {
+      "start": 1797.02,
+      "end": 1798.98,
+      "text": "so they're bound to be released here in this country."
+    },
+    {
+      "start": 1799.38,
+      "end": 1801.86,
+      "text": "At the moment, an import Illusion, they call the track,"
+    },
+    {
+      "start": 1802.36,
+      "end": 1803.86,
+      "text": "was called Callin' the Law,"
+    },
+    {
+      "start": 1804.38,
+      "end": 1805.94,
+      "text": "and the album is called I Like It Loud."
+    },
+    {
+      "start": 1806.58,
+      "end": 1809.26,
+      "text": "Before that, from an album that has just been released in this country,"
+    },
+    {
+      "start": 1809.42,
+      "end": 1811.96,
+      "text": "don't dismiss it as hardcore or thrash, really,"
+    },
+    {
+      "start": 1811.96,
+      "end": 1813.86,
+      "text": "because it isn't. It's much, much more than that."
+    },
+    {
+      "start": 1814.36,
+      "end": 1817.16,
+      "text": "The album's out on the Rough Justice record label in this country,"
+    },
+    {
+      "start": 1817.26,
+      "end": 1820.3,
+      "text": "and I think it's one of the most exciting albums I've heard in years,"
+    },
+    {
+      "start": 1820.4,
+      "end": 1821.94,
+      "text": "by a band called the Crumbsuckers."
+    },
+    {
+      "start": 1822.48,
+      "end": 1824.36,
+      "text": "Life of Dreams is the album title."
+    },
+    {
+      "start": 1824.46,
+      "end": 1825.48,
+      "text": "The track you heard was Interlude."
+    },
+    {
+      "start": 1825.8,
+      "end": 1827.14,
+      "text": "Give it a listen. Give it a chance."
+    },
+    {
+      "start": 1827.6,
+      "end": 1829.7,
+      "text": "Prior to that, King Cobra, a track from their second album,"
+    },
+    {
+      "start": 1829.78,
+      "end": 1831.7,
+      "text": "just out on FM Records in this country."
+    },
+    {
+      "start": 1832.16,
+      "end": 1833.86,
+      "text": "Thrill of a lifetime, overnight sensation."
+    },
+    {
+      "start": 1834.44,
+      "end": 1838.58,
+      "text": "Back in the UK, Radio One."
+    },
+    {
+      "start": 1849.84,
+      "end": 1851.34,
+      "text": "Stay tuned if you're a Gary Moore fan,"
+    },
+    {
+      "start": 1851.42,
+      "end": 1853.32,
+      "text": "because in the programme tonight, not that far away,"
+    },
+    {
+      "start": 1853.32,
+      "end": 1859.6,
+      "text": "we have 45 minutes of the action that went across the stage into the audience at Milton"
+    },
+    {
+      "start": 1859.6,
+      "end": 1864.16,
+      "text": "Keynes this year. Gary Moore in concert, 45 minutes. Oh, I guess we'll put it on at something"
+    },
+    {
+      "start": 1864.16,
+      "end": 1868.14,
+      "text": "like, what, 10 minutes past 11. Okay. Gary Moore at Milton Keynes in the program tonight."
+    },
+    {
+      "start": 1868.76,
+      "end": 2466.98,
+      "text": "This is from Slippery When Wet by Bon Jovi. Five-piece band out of Sweden, they are. They"
+    },
+    {
+      "start": 2466.98,
+      "end": 2471.92,
+      "text": "formed in 1983. That album is an import of this country. It's on the Japanese Victor record"
+    },
+    {
+      "start": 2471.92,
+      "end": 2477.04,
+      "text": "label and they are called madison the album is best in show the track is called can't take it"
+    },
+    {
+      "start": 2477.04,
+      "end": 2481.72,
+      "text": "good little band one of the guys is i think only about what 17 years of age something like that"
+    },
+    {
+      "start": 2481.72,
+      "end": 2487.1,
+      "text": "before that you heard bonjo v doing nicely in the charts happy to say the album is called slippery"
+    },
+    {
+      "start": 2487.1,
+      "end": 2492.46,
+      "text": "when wet the track was let it rock and that was played for a lady who's got an 18th birthday"
+    },
+    {
+      "start": 2492.46,
+      "end": 2498.34,
+      "text": "coming up soon who lives in cornwall susannah nichols happy birthday to you from your mum"
+    },
+    {
+      "start": 2498.34,
+      "end": 2499.86,
+      "text": "who sent in a little card here."
+    },
+    {
+      "start": 2500.4,
+      "end": 2502.52,
+      "text": "Birthday's coming up, when is it, on the 15th."
+    },
+    {
+      "start": 2502.96,
+      "end": 2507.4,
+      "text": "Happy birthday from me, your mum, my engineer, and everybody."
+    },
+    {
+      "start": 2508.14,
+      "end": 2509.5,
+      "text": "And here's a communication that goes like this."
+    },
+    {
+      "start": 2509.54,
+      "end": 2510.82,
+      "text": "Tommy, read this out, or else."
+    },
+    {
+      "start": 2511.48,
+      "end": 2516.18,
+      "text": "Paul Lawler, General Secretary of the National Union of Power Thrash Metal Fans,"
+    },
+    {
+      "start": 2517.24,
+      "end": 2519.76,
+      "text": "has come to a decision to ask you to play more power thrash metal"
+    },
+    {
+      "start": 2519.76,
+      "end": 2523.16,
+      "text": "by a democratic overwhelming majority in a recent ballot."
+    },
+    {
+      "start": 2523.48,
+      "end": 2525.38,
+      "text": "More stuff, and then he lists a whole lot of stuff."
+    },
+    {
+      "start": 2525.86,
+      "end": 2526.9,
+      "text": "Very good bands as well,"
+    },
+    {
+      "start": 2526.9,
+      "end": 2528.58,
+      "text": "some of whom will be featured on this programme."
+    },
+    {
+      "start": 2528.7,
+      "end": 2532.1,
+      "text": "Say hello to Lidney Hardcore Maniac Bangers,"
+    },
+    {
+      "start": 2532.54,
+      "end": 2534.98,
+      "text": "especially Roger Mann,"
+    },
+    {
+      "start": 2535.52,
+      "end": 2537.52,
+      "text": "Rhonda Bangers, especially Roger Davies,"
+    },
+    {
+      "start": 2537.82,
+      "end": 2539.7,
+      "text": "Steve in North London, Pete Vander in Ealing,"
+    },
+    {
+      "start": 2539.9,
+      "end": 2540.88,
+      "text": "Aidsmith in Bath,"
+    },
+    {
+      "start": 2541.18,
+      "end": 2543.16,
+      "text": "Abitillary Thrashing Death Bangers,"
+    },
+    {
+      "start": 2543.98,
+      "end": 2545.4,
+      "text": "Abitillary, that should be, of course,"
+    },
+    {
+      "start": 2545.92,
+      "end": 2548.84,
+      "text": "Amalgamated Association of Metalheads in Long Levens,"
+    },
+    {
+      "start": 2548.94,
+      "end": 2549.96,
+      "text": "I think it is in Churchtown,"
+    },
+    {
+      "start": 2550.14,
+      "end": 2551.78,
+      "text": "Ian and Mark in Whitehaven,"
+    },
+    {
+      "start": 2552.2,
+      "end": 2554.64,
+      "text": "Mosh Crazy, what's that? I'll have some."
+    },
+    {
+      "start": 2554.64,
+      "end": 2563.08,
+      "text": "Ray and Boolie, the Dangerous Brothers, Sam Goswell in Northampton and Deb the Venom Fan in Worley."
+    },
+    {
+      "start": 2563.36,
+      "end": 2564.96,
+      "text": "Stay tuned for Angel Dust."
+    },
+    {
+      "start": 2565.54,
+      "end": 2573.8,
+      "text": "Hello, this is Andy Peebles and this Sunday afternoon at 2.30 our classic concert is provided by Dan McCafferty, Pete Agnew, Manny Charlton and Daryl Sweet."
+    },
+    {
+      "start": 2573.98,
+      "end": 2575.18,
+      "text": "They are Nazarus."
+    },
+    {
+      "start": 2575.18,
+      "end": 2586.44,
+      "text": "back to 1975 on your favorite radio station this sunday afternoon at 2 30 for this weekend's"
+    },
+    {
+      "start": 2586.44,
+      "end": 2592.52,
+      "text": "edition of our classic concert series with music from nazareth across the uk"
+    },
+    {
+      "start": 2592.52,
+      "end": 2599.72,
+      "text": "it is a quarter to 11 the friday rock show bbc radio one number one bank place"
+    },
+    {
+      "start": 2599.72,
+      "end": 2604.18,
+      "text": "preston lancashire the home of paul nagler thomas lots of good music on your program"
+    },
+    {
+      "start": 2604.18,
+      "end": 2610.12,
+      "text": "i like the loud stuff it makes my mom blooming mad she tells me to turn that rubbish off but"
+    },
+    {
+      "start": 2610.12,
+      "end": 2615.96,
+      "text": "just go into my room and i let the music drown the sound of her voice keep it loud tom all right paul"
+    },
+    {
+      "start": 2615.96,
+      "end": 2619.48,
+      "text": "i think you're gonna like like this but don't fall out with your mother because of it they"
+    },
+    {
+      "start": 2619.48,
+      "end": 2623.4,
+      "text": "have played the track this track before actually that by bear it is banned i'll get it right in a"
+    },
+    {
+      "start": 2623.4,
+      "end": 2629.8,
+      "text": "minute i'll learn to talk it's cold you know a german band on a an obscure label called disaster"
+    },
+    {
+      "start": 2629.8,
+      "end": 3350.85,
+      "text": "they're called angel dust and this track's quite long interesting gambler that's a track that"
+    },
+    {
+      "start": 3350.85,
+      "end": 3354.21,
+      "text": "features in quite a number of letters i don't think anybody else bothered to play on the only"
+    },
+    {
+      "start": 3354.21,
+      "end": 3358.61,
+      "text": "came out last year that incidentally was the 12-inch version of it it was called the siphon"
+    },
+    {
+      "start": 3358.61,
+      "end": 3364.65,
+      "text": "mix kim mitchell from canada a very tall thin canadian character gopher soda when he came out"
+    },
+    {
+      "start": 3364.65,
+      "end": 3368.83,
+      "text": "he was on the bronze record label it figured in this letter from matty pringle of rothbury"
+    },
+    {
+      "start": 3368.83,
+      "end": 3374.91,
+      "text": "morpeth northumberland who uh also talks about playing new bands and he's happy to hear that"
+    },
+    {
+      "start": 3374.91,
+      "end": 3379.37,
+      "text": "we are playing new bands on this program so am i mate i just wish we had more time to do it in"
+    },
+    {
+      "start": 3379.37,
+      "end": 3384.81,
+      "text": "know what i mean but there you go two hours a week's better than not a lot but better than"
+    },
+    {
+      "start": 3384.81,
+      "end": 3391.05,
+      "text": "nothing hello to paul wilbert and browler from craster as well from matty pringle before kim"
+    },
+    {
+      "start": 3391.05,
+      "end": 3397.05,
+      "text": "mitchell you heard a track by a german band called angel dust they're from dortmund their albums out"
+    },
+    {
+      "start": 3397.05,
+      "end": 3402.65,
+      "text": "on the disaster record label which is german into the into the dark past is the album title the"
+    },
+    {
+      "start": 3402.65,
+      "end": 3406.65,
+      "text": "track you heard was called gambler somebody asked me about that track the other day and i'm pretty"
+    },
+    {
+      "start": 3406.65,
+      "end": 3412.95,
+      "text": "sure i answered them and told them uh what i've just told you in a letter it's now one and a half"
+    },
+    {
+      "start": 3412.95,
+      "end": 3418.95,
+      "text": "minutes to 11 this is the friday rock show and in about what six minutes time gary moore 45 minutes"
+    },
+    {
+      "start": 3418.95,
+      "end": 3426.01,
+      "text": "of gary moore at milton keynes but how about this quiet riot good single just come out the wild and"
+    },
+    {
+      "start": 3426.01,
+      "end": 3426.49,
+      "text": "the young."
+    },
+    {
+      "start": 3517.42,
+      "end": 3521.9,
+      "text": "With a bold kind of sophistication"
+    },
+    {
+      "start": 3521.9,
+      "end": 3524.38,
+      "text": "So close to the edge"
+    },
+    {
+      "start": 3524.38,
+      "end": 3526.62,
+      "text": "And high on the wire"
+    },
+    {
+      "start": 3526.62,
+      "end": 3530.02,
+      "text": "They are not from their life"
+    },
+    {
+      "start": 3530.02,
+      "end": 3532.06,
+      "text": "The wild and the young"
+    },
+    {
+      "start": 3532.06,
+      "end": 3534.4,
+      "text": "They all have their dreams"
+    },
+    {
+      "start": 3534.4,
+      "end": 3536.54,
+      "text": "The wild and the young"
+    },
+    {
+      "start": 3536.54,
+      "end": 3538.64,
+      "text": "They gotta be free"
+    },
+    {
+      "start": 3538.64,
+      "end": 3540.82,
+      "text": "The sun never sets"
+    },
+    {
+      "start": 3540.82,
+      "end": 3542.62,
+      "text": "The souls all around"
+    },
+    {
+      "start": 3542.62,
+      "end": 3545.2,
+      "text": "The wild and the young"
+    },
+    {
+      "start": 3547.55,
+      "end": 3846.26,
+      "text": "© BF-WATCH TV 2021"
+    },
+    {
+      "start": 3846.28,
+      "end": 3850.94,
+      "text": "before that quiet riot then you singled out on the pasha record label the wild and the young"
+    },
+    {
+      "start": 3850.94,
+      "end": 3856.54,
+      "text": "as a single it's out of course of 45 and probably a 12 inch eventually as well but you'll also find"
+    },
+    {
+      "start": 3856.54,
+      "end": 3863.78,
+      "text": "it on quiet riots latest album which is called qr3 16 is past 11 just before gary moore at milton"
+    },
+    {
+      "start": 3863.78,
+      "end": 3869.8,
+      "text": "keynes 45 minutes of it a message here from abigail of aldrich in the west midlands dear tom"
+    },
+    {
+      "start": 3870.36,
+      "end": 3871.06,
+      "text": "I've got a request."
+    },
+    {
+      "start": 3871.18,
+      "end": 3878.7,
+      "text": "Could you please ask Ian to tell Jeff to meet Abigail under the car park this Saturday at 8 o'clock?"
+    },
+    {
+      "start": 3879.04,
+      "end": 3882.5,
+      "text": "I've lost touch with him, and this is the only way I can get in touch."
+    },
+    {
+      "start": 3882.5,
+      "end": 3883.3,
+      "text": "All right."
+    },
+    {
+      "start": 3883.72,
+      "end": 3884.2,
+      "text": "Jeff."
+    },
+    {
+      "start": 3884.82,
+      "end": 3885.06,
+      "text": "No."
+    },
+    {
+      "start": 3885.42,
+      "end": 3890.98,
+      "text": "Ian, will you tell Jeff to meet Abigail under the car park this Saturday at 8 o'clock?"
+    },
+    {
+      "start": 3891.12,
+      "end": 3894.28,
+      "text": "That's Abigail of Aldrich in West Midlands."
+    },
+    {
+      "start": 3894.86,
+      "end": 3896.24,
+      "text": "And don't all turn up."
+    },
+    {
+      "start": 3896.76,
+      "end": 3901.1,
+      "text": "Now, 45 minutes of Gary Moore at Milton Keynes."
+    },
+    {
+      "start": 3901.62,
+      "end": 4197.38,
+      "text": "I'm sure none of you here tonight have heard it before."
+    },
+    {
+      "start": 4197.74,
+      "end": 4199.76,
+      "text": "I'm pretty sure, unless you've read Guildford, of course."
+    },
+    {
+      "start": 4201.33,
+      "end": 4202.93,
+      "text": "It's once called Wild Frontier."
+    },
+    {
+      "start": 4485.1,
+      "end": 4487.85,
+      "text": "It's a little bit more suitable for today,"
+    },
+    {
+      "start": 4489.64,
+      "end": 4493.28,
+      "text": "considering the mood and so on."
+    },
+    {
+      "start": 4495.4,
+      "end": 4499.54,
+      "text": "Who knows?"
+    },
+    {
+      "start": 4499.54,
+      "end": 6587.84,
+      "text": "and his band"
+    },
+    {
+      "start": 6587.84,
+      "end": 6588.78,
+      "text": "as they were"
+    },
+    {
+      "start": 6588.78,
+      "end": 6590.2,
+      "text": "at Milton Keynes"
+    },
+    {
+      "start": 6590.2,
+      "end": 6591.08,
+      "text": "and excellent"
+    },
+    {
+      "start": 6591.08,
+      "end": 6591.8,
+      "text": "they were too"
+    },
+    {
+      "start": 6591.8,
+      "end": 6592.72,
+      "text": "there's another classic"
+    },
+    {
+      "start": 6592.72,
+      "end": 6593.92,
+      "text": "what was he called"
+    },
+    {
+      "start": 6593.92,
+      "end": 6594.48,
+      "text": "The Loner"
+    },
+    {
+      "start": 6594.48,
+      "end": 6595.34,
+      "text": "he really knows"
+    },
+    {
+      "start": 6595.34,
+      "end": 6596.26,
+      "text": "how to make that guitar"
+    },
+    {
+      "start": 6596.26,
+      "end": 6598.0,
+      "text": "not so much talk"
+    },
+    {
+      "start": 6598.0,
+      "end": 6599.44,
+      "text": "but sort of"
+    },
+    {
+      "start": 6599.44,
+      "end": 6601.2,
+      "text": "scream silently"
+    },
+    {
+      "start": 6601.2,
+      "end": 6602.7,
+      "text": "Angela Wright"
+    },
+    {
+      "start": 6602.7,
+      "end": 6603.96,
+      "text": "of Harlow and Essex"
+    },
+    {
+      "start": 6603.96,
+      "end": 6605.16,
+      "text": "likes Gary Moore"
+    },
+    {
+      "start": 6605.16,
+      "end": 6606.22,
+      "text": "hope you enjoyed that set"
+    },
+    {
+      "start": 6606.22,
+      "end": 6607.0,
+      "text": "I certainly did"
+    },
+    {
+      "start": 6607.0,
+      "end": 6607.66,
+      "text": "thought it was a good"
+    },
+    {
+      "start": 6607.66,
+      "end": 6608.56,
+      "text": "and beautiful production"
+    },
+    {
+      "start": 6608.56,
+      "end": 6608.94,
+      "text": "as well"
+    },
+    {
+      "start": 6608.94,
+      "end": 6609.94,
+      "text": "for Tony Wilson"
+    },
+    {
+      "start": 6609.94,
+      "end": 6611.16,
+      "text": "and the BBC engineers"
+    },
+    {
+      "start": 6611.16,
+      "end": 6612.12,
+      "text": "also"
+    },
+    {
+      "start": 6612.12,
+      "end": 6612.72,
+      "text": "our fellow"
+    },
+    {
+      "start": 6612.72,
+      "end": 6618.42,
+      "text": "who lives in enston in oxfordshire a.n boyland is willing to gary moore wants me to say hello"
+    },
+    {
+      "start": 6618.42,
+      "end": 6622.54,
+      "text": "to his girlfriend wendy who lives in middleton near pickering in yorkshire also hello to liz"
+    },
+    {
+      "start": 6622.54,
+      "end": 6627.68,
+      "text": "harris fiona morrison andrew morrison andrew thrash metal parsons and his brother pete more"
+    },
+    {
+      "start": 6627.68,
+      "end": 6645.12,
+      "text": "parsons too best wishes there for mr boyland seven minutes to midnight hi this is the rank"
+    },
+    {
+      "start": 6645.12,
+      "end": 6654.54,
+      "text": "what you're a you're a you're a you're a disc jockey yes well while dicks is away miss p's"
+    },
+    {
+      "start": 6654.54,
+      "end": 6659.28,
+      "text": "gonna play for the next two weeks i'll be in the hot seat on the midnight runner show saturday night"
+    },
+    {
+      "start": 6659.28,
+      "end": 6664.98,
+      "text": "from 9 30 we've got cactus world news in session caught in the act is jethro tull at milton keens"
+    },
+    {
+      "start": 6664.98,
+      "end": 6676.73,
+      "text": "cindy lopar the bangles and lots more hold tight till saturday night right can i quickly remind you"
+    },
+    {
+      "start": 6676.73,
+      "end": 6677.81,
+      "text": "about the address of this programme."
+    },
+    {
+      "start": 6677.91,
+      "end": 6679.09,
+      "text": "It's the same as the, you know,"
+    },
+    {
+      "start": 6679.15,
+      "end": 6681.05,
+      "text": "address for any old programme on Radio 1, really,"
+    },
+    {
+      "start": 6681.09,
+      "end": 6682.57,
+      "text": "but I would like a bit of input from you"
+    },
+    {
+      "start": 6682.57,
+      "end": 6684.75,
+      "text": "in terms of criticism or ideas."
+    },
+    {
+      "start": 6684.93,
+      "end": 6685.61,
+      "text": "Always welcome."
+    },
+    {
+      "start": 6686.13,
+      "end": 6686.89,
+      "text": "Requests as well."
+    },
+    {
+      "start": 6687.01,
+      "end": 6688.65,
+      "text": "Don't forget our feature, Lie Back and Enjoy It."
+    },
+    {
+      "start": 6688.71,
+      "end": 6689.89,
+      "text": "We have that most programmes,"
+    },
+    {
+      "start": 6690.01,
+      "end": 6692.29,
+      "text": "except when we have big concert slams,"
+    },
+    {
+      "start": 6692.35,
+      "end": 6693.15,
+      "text": "such as we had tonight."
+    },
+    {
+      "start": 6693.65,
+      "end": 6694.63,
+      "text": "My name is Tommy Vance,"
+    },
+    {
+      "start": 6694.75,
+      "end": 6695.99,
+      "text": "but that's the least important thing."
+    },
+    {
+      "start": 6696.51,
+      "end": 6698.61,
+      "text": "The programme is called The Friday Rock Show,"
+    },
+    {
+      "start": 6698.81,
+      "end": 6701.83,
+      "text": "BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 6702.55,
+      "end": 6704.67,
+      "text": "Any input at all, some requests, something nice,"
+    },
+    {
+      "start": 6704.67,
+      "end": 6706.07,
+      "text": "whatever you want to say, say it."
+    },
+    {
+      "start": 6706.07,
+      "end": 6708.23,
+      "text": "where you read every single letter."
+    },
+    {
+      "start": 6788.32,
+      "end": 6791.1,
+      "text": "To weep or mourn"
+    },
+    {
+      "start": 6791.1,
+      "end": 6792.9,
+      "text": "I'm looking for a sweetheart"
+    },
+    {
+      "start": 6792.9,
+      "end": 6795.2,
+      "text": "I'm never gonna leave her alone"
+    },
+    {
+      "start": 6795.2,
+      "end": 6797.66,
+      "text": "I'm a love hunter, baby"
+    },
+    {
+      "start": 6797.66,
+      "end": 6799.6,
+      "text": "Sleeping on"
+    },
+    {
+      "start": 6799.6,
+      "end": 6831.6,
+      "text": "That's what you want"
+    },
+    {
+      "start": 6831.6,
+      "end": 7016.2,
+      "text": "The title track of that 1979 album"
+    },
+    {
+      "start": 7016.2,
+      "end": 7017.82,
+      "text": "came out by Whitesnake."
+    },
+    {
+      "start": 7017.9,
+      "end": 7018.96,
+      "text": "I'm a love hunter."
+    },
+    {
+      "start": 7019.96,
+      "end": 7024.13,
+      "text": "Don't know when their new album's coming out"
+    },
+    {
+      "start": 7024.13,
+      "end": 7024.71,
+      "text": "at all."
+    },
+    {
+      "start": 7025.53,
+      "end": 7027.51,
+      "text": "Waiting for it, rather, for a long time."
+    },
+    {
+      "start": 7028.46,
+      "end": 7030.3,
+      "text": "Friday Rock Show is a Tony Wilson"
+    },
+    {
+      "start": 7030.3,
+      "end": 7031.38,
+      "text": "production."
+    },
+    {
+      "start": 7031.9,
+      "end": 7034.22,
+      "text": "With a right no more tonight,"
+    },
+    {
+      "start": 7034.32,
+      "end": 7036.02,
+      "text": "following the Midnight Pips you will hear"
+    },
+    {
+      "start": 7036.02,
+      "end": 7038.12,
+      "text": "on FM Stereo, Radio 2"
+    },
+    {
+      "start": 7038.12,
+      "end": 7040.81,
+      "text": "on Medium Wave, Radio 1 News."
+    },
+    {
+      "start": 7046.59,
+      "end": 7047.73,
+      "text": "Have yourself an excellent weekend."
+    },
+    {
+      "start": 7047.99,
+      "end": 7048.87,
+      "text": "My name is Tommy Vance."
+    },
+    {
+      "start": 7048.93,
+      "end": 7051.25,
+      "text": "On behalf of everybody on the music side of Radio 1,"
+    },
+    {
+      "start": 7051.73,
+      "end": 7052.53,
+      "text": "we wish you well."
+    },
+    {
+      "start": 7052.75,
+      "end": 7053.17,
+      "text": "Take care."
+    },
+    {
+      "start": 7053.33,
+      "end": 7053.69,
+      "text": "Good night."
+    },
+    {
+      "start": 7054.39,
+      "end": 7054.81,
+      "text": "God bless."
     }
   ]
 }

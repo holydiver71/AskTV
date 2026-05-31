@@ -68,7 +68,8 @@
     {
       "artist": "Ritchie Blackmore Orchestra",
       "track": "Little Brown Jug",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1792.14
     },
     {
       "artist": "M.I. Five",
@@ -83,17 +84,20 @@
     {
       "artist": "Episode Six",
       "track": "Mr. Universe",
-      "details": "7\"-Lucky Sunday; Chapter 1"
+      "details": "7\"-Lucky Sunday; Chapter 1",
+      "verified_timestamp": 1774.16
     },
     {
       "artist": null,
       "track": "Tommy teases the name of the band then plays two tracks by the MKII version.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1348.28
     },
     {
       "artist": "Deep Purple",
       "track": "Ricochet",
-      "details": "Symonds On Sunday session"
+      "details": "Symonds On Sunday session",
+      "verified_timestamp": 1741.84
     },
     {
       "artist": "Deep Purple",

@@ -20,22 +20,26 @@
     {
       "artist": "Autograph",
       "track": "Turn Up The Radio",
-      "details": "7\"; RCA"
+      "details": "7\"; RCA",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Thin Lizzy",
       "track": "Holy War",
-      "details": "LP-Thunder And Lightning; Warner Bros"
+      "details": "LP-Thunder And Lightning; Warner Bros",
+      "verified_timestamp": 651.02
     },
     {
       "artist": "Wildfire",
       "track": "Summer Lightning",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 709.0
     },
     {
       "artist": "Lionheart",
       "track": "Die For Love",
-      "details": "LP-Hot Tonight; Epic"
+      "details": "LP-Hot Tonight; Epic",
+      "verified_timestamp": 710.92
     },
     {
       "artist": null,
@@ -45,7 +49,8 @@
     {
       "artist": "Slade",
       "track": "7 Year Bitch",
-      "details": "LP - Rogues Gallery"
+      "details": "LP - Rogues Gallery",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": null,
@@ -60,17 +65,20 @@
     {
       "artist": "The Rejects",
       "track": "I Saw the Light",
-      "details": "LP = A Quiet Storm; Heavy Metal Records"
+      "details": "LP = A Quiet Storm; Heavy Metal Records",
+      "verified_timestamp": 2403.53
     },
     {
       "artist": null,
       "track": "Bon Jovi in concert begins, then cuts out after the intro to the first track.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 72.76
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 76.24
     },
     {
       "artist": null,
@@ -80,27 +88,32 @@
     {
       "artist": null,
       "track": "Breakout",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2482.5
     },
     {
       "artist": null,
       "track": "Roulette",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2482.5
     },
     {
       "artist": null,
       "track": "Shot Through The Heart",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2482.5
     },
     {
       "artist": null,
       "track": "Get Ready",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2482.5
     },
     {
       "artist": null,
       "track": "Runaway",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2482.5
     },
     {
       "artist": null,
@@ -115,7 +128,8 @@
     {
       "artist": "Triumph",
       "track": "Cool Down",
-      "details": "LP-Thunder Seven; MCA"
+      "details": "LP-Thunder Seven; MCA",
+      "verified_timestamp": 6448.38
     },
     {
       "artist": "Rush",

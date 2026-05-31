@@ -19,27 +19,32 @@
     {
       "artist": "Judas Priest",
       "track": "Heading Out To The Highway",
-      "details": "LP-Point Of Entry; CBS"
+      "details": "LP-Point Of Entry; CBS",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Gillan",
       "track": "New Orleans",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Black Axe",
       "track": "Too Close For Comfort",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 539.55
     },
     {
       "artist": "Iron Maiden",
       "track": "Twilight Zone",
-      "details": "7\"; EMI"
+      "details": "7\"; EMI",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Snafu",
       "track": "Bloodhound",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 997.01
     },
     {
       "artist": "Snafu",
@@ -59,22 +64,26 @@
     {
       "artist": "Motels",
       "track": "Total Control",
-      "details": "LP-Motels; Capitol"
+      "details": "LP-Motels; Capitol",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "B Movie",
       "track": "Remembrance Day",
-      "details": "7\"; Deram"
+      "details": "7\"; Deram",
+      "verified_timestamp": 2202.59
     },
     {
       "artist": "Aragorn",
       "track": "Black Ice",
-      "details": "7\"; Neat"
+      "details": "7\"; Neat",
+      "verified_timestamp": 3255.63
     },
     {
       "artist": "Diamond Head",
       "track": "Waited Too Long",
-      "details": "7\"; DHM"
+      "details": "7\"; DHM",
+      "verified_timestamp": 3243.4
     },
     {
       "artist": "More",
@@ -89,17 +98,20 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.04
     },
     {
       "artist": "Good Rats",
       "track": "On My Way To School",
-      "details": "LP-Great American Music; Logo"
+      "details": "LP-Great American Music; Logo",
+      "verified_timestamp": 5148.09
     },
     {
       "artist": "Grace Slick",
       "track": "Wrecking Ball",
-      "details": "LP-Welcome To The Wrecking Ball!; RCA"
+      "details": "LP-Welcome To The Wrecking Ball!; RCA",
+      "verified_timestamp": 5133.65
     },
     {
       "artist": "Snafu",
@@ -114,7 +126,8 @@
     {
       "artist": "Jeff Beck",
       "track": "Scatterbrain",
-      "details": "LP-Blow By Blow; Epic"
+      "details": "LP-Blow By Blow; Epic",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Black Axe",
@@ -129,7 +142,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "Thank You",
-      "details": "LP-Led Zeppelin II; Atlantic"
+      "details": "LP-Led Zeppelin II; Atlantic",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

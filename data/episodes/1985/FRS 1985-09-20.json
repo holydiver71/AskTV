@@ -20,37 +20,44 @@
     {
       "artist": null,
       "track": "Iron Maiden - Running Free (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": null,
       "track": "Kiss - Trial By Fire",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
       "track": "Piledriver - Metal Inquisition",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1434.87
     },
     {
       "artist": null,
       "track": "Far Corporation - Stairway to Heaven",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": null,
       "track": "Rogue Male - Dressed Incognito (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1519.97
     },
     {
       "artist": null,
       "track": "Loverboy - Lovin' Every Minute of It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
       "track": "Tormé - Star",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2714.61
     },
     {
       "artist": null,
@@ -60,12 +67,14 @@
     {
       "artist": null,
       "track": "Rogue Male - Rough Tough (Pretty Too) (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1519.97
     },
     {
       "artist": null,
       "track": "Saxon - Broken Heroes",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3060.0
     },
     {
       "artist": null,
@@ -75,7 +84,8 @@
     {
       "artist": null,
       "track": "Cream - Strange Brew",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
@@ -85,22 +95,26 @@
     {
       "artist": null,
       "track": "Genesis - Get 'em Out by Friday",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4140.0
     },
     {
       "artist": null,
       "track": "Stranglers - Hanging Around",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,
       "track": "Rogue Male - On the Line (st)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1519.97
     },
     {
       "artist": null,
       "track": "Madison - Lay Down Your Arms",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5368.32
     },
     {
       "artist": null,

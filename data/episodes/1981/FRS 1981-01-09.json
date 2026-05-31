@@ -27,7 +27,8 @@
     {
       "artist": "April Wine",
       "track": "Sign Of The Gypsy Queen",
-      "details": "LP-The Nature Of The Beast; Capitol"
+      "details": "LP-The Nature Of The Beast; Capitol",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Pat Travers",
@@ -37,7 +38,8 @@
     {
       "artist": "Saxon",
       "track": "Heavy Metal Thunder",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Steve Hackett",
@@ -52,12 +54,14 @@
     {
       "artist": "UFO",
       "track": "Long Gone",
-      "details": "LP-The Wild, The Willing And The Innocent; Chrysalis"
+      "details": "LP-The Wild, The Willing And The Innocent; Chrysalis",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Atomic Rooster",
       "track": "Friday The 13th",
-      "details": "Mike Harding Session"
+      "details": "Mike Harding Session",
+      "verified_timestamp": 1788.92
     },
     {
       "artist": "Atomic Rooster",
@@ -67,7 +71,8 @@
     {
       "artist": "Styx",
       "track": "Snowblind",
-      "details": "LP-Paradise Theatre; A&M"
+      "details": "LP-Paradise Theatre; A&M",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Stillwater",
@@ -77,17 +82,20 @@
     {
       "artist": "Gillan",
       "track": "Mutually Assured Destruction",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 3376.08
     },
     {
       "artist": "Saxon",
       "track": "20,000 Feet",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 73.04
     },
     {
       "artist": "Saxon",
@@ -97,7 +105,8 @@
     {
       "artist": "Trevor Rabin",
       "track": "Heard You Cry Wolf",
-      "details": "LP-Wolf; Chrysalis"
+      "details": "LP-Wolf; Chrysalis",
+      "verified_timestamp": 5369.9
     },
     {
       "artist": "Atomic Rooster",
@@ -107,22 +116,26 @@
     {
       "artist": "Atomic Rooster",
       "track": "Stand By Me",
-      "details": "Pete Drummond Session"
+      "details": "Pete Drummond Session",
+      "verified_timestamp": 1788.92
     },
     {
       "artist": "Steve Winwood",
       "track": "Night Train",
-      "details": "LP-Arc Of A Diver; Island"
+      "details": "LP-Arc Of A Diver; Island",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "April Wine",
       "track": "Caught In The Crossfire",
-      "details": "LP-The Nature Of The Beast; Capitol"
+      "details": "LP-The Nature Of The Beast; Capitol",
+      "verified_timestamp": 6521.32
     },
     {
       "artist": "Praying Mantis",
       "track": "Cheated",
-      "details": "LP-Time Tells No Lies; Arista"
+      "details": "LP-Time Tells No Lies; Arista",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Saxon",

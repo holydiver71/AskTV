@@ -19,52 +19,62 @@
     {
       "artist": "Gary Moore",
       "track": "Nuclear Attack",
-      "details": "LP-Dirty Fingers; Jet"
+      "details": "LP-Dirty Fingers; Jet",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Thin Lizzy",
       "track": "Hollywood",
-      "details": "Down On Your Luck; LP-Renegade; Vertigo"
+      "details": "Down On Your Luck; LP-Renegade; Vertigo",
+      "verified_timestamp": 562.93
     },
     {
       "artist": "Blackfoot",
       "track": "Dry County",
-      "details": "LP-Marauder; Atco"
+      "details": "LP-Marauder; Atco",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Doc Holliday",
       "track": "Last Ride",
-      "details": "LP-Doc Holliday Rides Again; A&M"
+      "details": "LP-Doc Holliday Rides Again; A&M",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Euphoria",
       "track": "No One Else But You",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1123.93
     },
     {
       "artist": "Iron Maiden",
       "track": "The Prisoner",
-      "details": "LP-Number Of The Beast; EMI"
+      "details": "LP-Number Of The Beast; EMI",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Gong",
       "track": "Radio Gnome",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 575.75
     },
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Love Potion No 9",
-      "details": "LP-The Cage; MCA"
+      "details": "LP-The Cage; MCA",
+      "verified_timestamp": 2562.97
     },
     {
       "artist": "Cars",
       "track": "Shake It Up",
-      "details": "LP-Shake It Up; Elektra"
+      "details": "LP-Shake It Up; Elektra",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Demon",
       "track": "One Helluva Night",
-      "details": "LP-Night Of The Demon; Carrere"
+      "details": "LP-Night Of The Demon; Carrere",
+      "verified_timestamp": 1073.76
     },
     {
       "artist": "Euphoria",
@@ -74,7 +84,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.77
     },
     {
       "artist": "Euphoria",
@@ -84,7 +95,8 @@
     {
       "artist": "Loverboy",
       "track": "Jump",
-      "details": "LP-Get Lucky; Columbia"
+      "details": "LP-Get Lucky; Columbia",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Gong",
@@ -94,7 +106,8 @@
     {
       "artist": "Jeff Beck & Eric Clapton",
       "track": "'Crossroads' (LP-The Secret Policeman's Other Ball (The Music))",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1070.46
     },
     {
       "artist": "Michael Schenker Group",
@@ -109,12 +122,14 @@
     {
       "artist": "Schon & Hammer",
       "track": "Wasting Time",
-      "details": "LP-Untold Passion; CBS"
+      "details": "LP-Untold Passion; CBS",
+      "verified_timestamp": 1070.46
     },
     {
       "artist": "Magnum",
       "track": "Sacred Hour",
-      "details": "LP-Chase The Dragon; Jet"
+      "details": "LP-Chase The Dragon; Jet",
+      "verified_timestamp": 6660.0
     }
   ],
   "transcript": [

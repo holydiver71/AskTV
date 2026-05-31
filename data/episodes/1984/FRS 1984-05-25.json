@@ -33,7 +33,8 @@
     {
       "artist": "Shy",
       "track": "‘Throwing It All Away’",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1113.73
     },
     {
       "artist": "Iron Maiden",
@@ -73,7 +74,8 @@
     {
       "artist": "Rory Gallagher",
       "track": "Tattooed Lady",
-      "details": "archive session"
+      "details": "archive session",
+      "verified_timestamp": 1673.98
     },
     {
       "artist": "Rory Gallagher",
@@ -98,7 +100,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 34.88
     },
     {
       "artist": "Trouble",

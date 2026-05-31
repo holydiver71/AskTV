@@ -18,17 +18,20 @@
     {
       "artist": "Clevelend",
       "track": "Out Of Control",
-      "details": "LP-Secrets; Passport Records"
+      "details": "LP-Secrets; Passport Records",
+      "verified_timestamp": 514.68
     },
     {
       "artist": "Saxon",
       "track": "Nightmare",
-      "details": "Single-7\"; Carrere"
+      "details": "Single-7\"; Carrere",
+      "verified_timestamp": 501.82
     },
     {
       "artist": "Peter Gabriel",
       "track": "DIY",
-      "details": "LP-Plays Live; Charisma"
+      "details": "LP-Plays Live; Charisma",
+      "verified_timestamp": 1088.41
     },
     {
       "artist": "Tony Banks",
@@ -38,7 +41,8 @@
     {
       "artist": "Caravan",
       "track": "Love In Your Eye",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1099.91
     },
     {
       "artist": "Demon",
@@ -48,12 +52,14 @@
     {
       "artist": "Xero",
       "track": "Hold On",
-      "details": "LP-VA - Brute  Force; MCA"
+      "details": "LP-VA - Brute  Force; MCA",
+      "verified_timestamp": 2611.38
     },
     {
       "artist": "Robert Plant",
       "track": "Big Log",
-      "details": "Single-7\"; WEA"
+      "details": "Single-7\"; WEA",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Caravan",
@@ -63,22 +69,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 36.13
     },
     {
       "artist": "Tommy Vance",
       "track": "Off The Hook",
-      "details": "Single-7\"; Columbia"
+      "details": "Single-7\"; Columbia",
+      "verified_timestamp": 4257.3
     },
     {
       "artist": "AC/DC",
       "track": "Highway To Hell",
-      "details": "LP-Highway To  Hell; Atlantic"
+      "details": "LP-Highway To  Hell; Atlantic",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Midnight Oil",
       "track": "Short Memory",
-      "details": "LP-10, 9, 8, 7, 6, 5, 4, 3, 2, 1; CBS"
+      "details": "LP-10, 9, 8, 7, 6, 5, 4, 3, 2, 1; CBS",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Caravan",
@@ -88,12 +98,14 @@
     {
       "artist": "Howlin' Wolf",
       "track": "Spoonful",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Joe Walsh",
       "track": "Shadows",
-      "details": "LP-You Bought It - You Name It; Warner Bros."
+      "details": "LP-You Bought It - You Name It; Warner Bros.",
+      "verified_timestamp": 6167.97
     },
     {
       "artist": "Caravan",
@@ -103,7 +115,8 @@
     {
       "artist": "Earthshaker",
       "track": "412",
-      "details": "LP-Earthshaker; Music For Nations"
+      "details": "LP-Earthshaker; Music For Nations",
+      "verified_timestamp": 6502.1
     },
     {
       "artist": "Y&T",

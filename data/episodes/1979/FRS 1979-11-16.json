@@ -20,12 +20,14 @@
     {
       "artist": "10. Pink Floyd",
       "track": "Shine On You Crazy Diamond Pts 1 to 5",
-      "details": "LP-Wish You Were Here; Harvest"
+      "details": "LP-Wish You Were Here; Harvest",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "09. Yes",
       "track": "Starship Trooper",
-      "details": "3xLP-Yessongs; Atlantic"
+      "details": "3xLP-Yessongs; Atlantic",
+      "verified_timestamp": 1508.2
     },
     {
       "artist": "08. Genesis",
@@ -35,37 +37,44 @@
     {
       "artist": "07. Rainbow",
       "track": "Stargazer",
-      "details": "LP-Rainbow Rising; Oyster/Polydor"
+      "details": "LP-Rainbow Rising; Oyster/Polydor",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "06. Deep Purple",
       "track": "Smoke On The Water",
-      "details": "2xLP-Made In Japan; Purple Records"
+      "details": "2xLP-Made In Japan; Purple Records",
+      "verified_timestamp": 3902.78
     },
     {
       "artist": "05. Rush",
       "track": "Xanadu",
-      "details": "LP-Farewell To Kings; Mercury"
+      "details": "LP-Farewell To Kings; Mercury",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "04. Derek And The Dominos",
       "track": "Layla",
-      "details": "2xLP-Layla And Other Assorted Love Songs; RSO"
+      "details": "2xLP-Layla And Other Assorted Love Songs; RSO",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "03. Lynyrd Skynyrd",
       "track": "Freebird",
-      "details": "2xLP-One More From The Road; MCA"
+      "details": "2xLP-One More From The Road; MCA",
+      "verified_timestamp": 5916.52
     },
     {
       "artist": "02. Deep Purple",
       "track": "Child In Time",
-      "details": "LP-In Rock; Harvest"
+      "details": "LP-In Rock; Harvest",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "01. Led Zeppelin",
       "track": "Stairway To Heaven",
-      "details": "2xLP-The Song Remains The Same; Swan Song"
+      "details": "2xLP-The Song Remains The Same; Swan Song",
+      "verified_timestamp": 6660.0
     }
   ],
   "transcript": [

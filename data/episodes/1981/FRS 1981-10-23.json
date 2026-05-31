@@ -21,7 +21,8 @@
     {
       "artist": "Styx",
       "track": "Rockin' The Paradise (7\") A&M",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Saxon",
@@ -31,7 +32,8 @@
     {
       "artist": "As Above... So Below",
       "track": "Flying Dreams",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 620.51
     },
     {
       "artist": "Judas Priest",
@@ -41,7 +43,8 @@
     {
       "artist": "Lone Star",
       "track": "From All Of Us",
-      "details": "Alan Freeman session"
+      "details": "Alan Freeman session",
+      "verified_timestamp": 1431.67
     },
     {
       "artist": "Budgie",
@@ -51,12 +54,14 @@
     {
       "artist": "As Above...So Below",
       "track": "The City In The Sea",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 620.51
     },
     {
       "artist": "Climax Blues Band",
       "track": "Shake It Lucy (LP - Lucky For Some) Warner Bros.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2668.8
     },
     {
       "artist": "Lone Star",
@@ -66,7 +71,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 57.84
     },
     {
       "artist": "As Above... So Below",
@@ -81,7 +87,8 @@
     {
       "artist": "Rush",
       "track": "The Spirit Of Radio (2xLP - Exit Stage Left) Anthem",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4870.07
     },
     {
       "artist": "Rush",

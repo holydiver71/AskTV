@@ -32,7 +32,8 @@
     {
       "artist": "Daryl Hall, John Oates",
       "track": "I Can't Go For That (No Can Do) (LP - Private Eyes) RCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Ozzy Osbourne",
@@ -42,7 +43,8 @@
     {
       "artist": "Demon",
       "track": "Night Of The Demon",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 638.19
     },
     {
       "artist": "Y & T",
@@ -87,7 +89,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 58.1
     },
     {
       "artist": "Demon",
@@ -102,7 +105,8 @@
     {
       "artist": "Tank",
       "track": "Don't Walk Away (7\") Kamaflage",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6646.28
     },
     {
       "artist": "Mother's Ruin",

@@ -27,22 +27,28 @@
     {
       "artist": "AC DC",
       "track": "Let There Be Rock",
-      "details": "LP-If You Want Blood"
+      "details": "LP-If You Want Blood",
+      "verified_timestamp": 968.59
     },
     {
       "artist": "Deep Purple",
       "track": "Highway Star",
-      "details": null
+      "details": null,
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Whitesnake",
       "track": "'Ain't No Love In The Heart Of The City'",
-      "details": "Peebles Session"
+      "details": "Peebles Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "love in the heart of",
+      "verified_timestamp": 1005.48
     },
     {
       "artist": "Tubeway Army",
       "track": "Down In The Park",
-      "details": "LP-Replicas"
+      "details": "LP-Replicas",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "No Dice",
@@ -52,37 +58,44 @@
     {
       "artist": "Dr Feelgood",
       "track": "So Long As The Price Is Right",
-      "details": "7\" single"
+      "details": "7\" single",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Barclay James Harvest",
       "track": "Mockingbird",
-      "details": "LP-Once Again"
+      "details": "LP-Once Again",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "London Symphony Orchestra",
       "track": "Hey Joe",
-      "details": "LP-Second Movement"
+      "details": "LP-Second Movement",
+      "verified_timestamp": 2761.87
     },
     {
       "artist": "Love Sculpture",
       "track": "Do I Still Figure In Your Life",
-      "details": "Top Gear 1968-04-02"
+      "details": "Top Gear 1968-04-02",
+      "verified_timestamp": 3490.49
     },
     {
       "artist": "Love Sculpture",
       "track": "Brand New Woman",
-      "details": "Top Gear 1968-04-02"
+      "details": "Top Gear 1968-04-02",
+      "verified_timestamp": 3488.63
     },
     {
       "artist": "Love Sculpture",
       "track": "Sabre Dance",
-      "details": "Top Gear 1968-09-16"
+      "details": "Top Gear 1968-09-16",
+      "verified_timestamp": 3486.89
     },
     {
       "artist": "Rush",
       "track": "Trees",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Whitesnake",
@@ -92,7 +105,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 17.3
     },
     {
       "artist": "Whitesnake",
@@ -102,17 +116,20 @@
     {
       "artist": "Patti Smith",
       "track": "Frederick",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Love Sculpture",
       "track": "Promised Land",
-      "details": "Top Gear 1968-09-16"
+      "details": "Top Gear 1968-09-16",
+      "verified_timestamp": 5850.59
     },
     {
       "artist": "Love Sculpture",
       "track": "Wang Dang Doodle",
-      "details": "LP Top Gear 1968-09-16"
+      "details": "LP Top Gear 1968-09-16",
+      "verified_timestamp": 6017.23
     },
     {
       "artist": "Love Sculpture",
@@ -122,12 +139,15 @@
     {
       "artist": "Billy Cobham",
       "track": "Red Baron",
-      "details": "LP-Spectrum"
+      "details": "LP-Spectrum",
+      "verified_timestamp": 6970.48
     },
     {
       "artist": "Whitesnake",
       "track": "You Gotta Have Love To Keep You Warm",
-      "details": "Peebles Session"
+      "details": "Peebles Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "love to keep you warm"
     }
   ],
   "transcript": [

@@ -23,7 +23,8 @@
     {
       "artist": null,
       "track": "Keel - Because the Night",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
@@ -43,12 +44,14 @@
     {
       "artist": null,
       "track": "ZZ Top - Sharp Dressed Man",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
       "track": "Rush - Red Barchetta (live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
@@ -63,12 +66,761 @@
     {
       "artist": null,
       "track": "Gary Moore - Victims of the Future",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Roger Waters",
       "track": "Recorded at Radio City Music Hall",
-      "details": null
+      "details": null,
+      "verified_timestamp": 23.81
+    }
+  ],
+  "transcript": [
+    {
+      "start": 17.81,
+      "end": 23.81,
+      "text": "Hello there, this is TV on the Radio, Thomas Vance here, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 23.81,
+      "end": 32.8,
+      "text": "Well, I got the music if you've got the time. Just before 11 o'clock tonight, we rebroadcast our Roger Waters at Radio City Music Hall, New York."
+    },
+    {
+      "start": 32.8,
+      "end": 36.8,
+      "text": "That is the concert that we first put out last November."
+    },
+    {
+      "start": 36.8,
+      "end": 56.28,
+      "text": "Before that though, we have some Ace records by Kiel, Van Halen, Joshua, Legs Diamond, Rush and the Rolling Stones."
+    },
+    {
+      "start": 56.28,
+      "end": 58.22,
+      "text": "and some others as well."
+    },
+    {
+      "start": 58.54,
+      "end": 61.06,
+      "text": "But don't forget, just before 11 o'clock, about two minutes to,"
+    },
+    {
+      "start": 61.48,
+      "end": 64.68,
+      "text": "Roger Waters at the Radio City Music Hall, New York."
+    },
+    {
+      "start": 548.79,
+      "end": 550.99,
+      "text": "Good song, Matt. It's a single. It's out on Vertigo."
+    },
+    {
+      "start": 551.13,
+      "end": 553.21,
+      "text": "It's by the American band Keel, Because the Light,"
+    },
+    {
+      "start": 553.29,
+      "end": 555.19,
+      "text": "written by Springsteen and Smith."
+    },
+    {
+      "start": 556.5,
+      "end": 557.82,
+      "text": "And before that, you heard Forever."
+    },
+    {
+      "start": 558.04,
+      "end": 559.92,
+      "text": "They're a band out of Chicago, a four-piece band."
+    },
+    {
+      "start": 559.92,
+      "end": 562.3,
+      "text": "It's their debut album. The album is called Forever."
+    },
+    {
+      "start": 562.86,
+      "end": 564.7,
+      "text": "It's out on the Heavy Metal America record label."
+    },
+    {
+      "start": 564.8,
+      "end": 565.96,
+      "text": "The track was Harsh Reality."
+    },
+    {
+      "start": 567.57,
+      "end": 568.85,
+      "text": "Nine and a half minutes past ten."
+    },
+    {
+      "start": 568.85,
+      "end": 575.07,
+      "text": "Jack Daniels, postmark Northamptonshire, sent me a very nice postcard."
+    },
+    {
+      "start": 576.8,
+      "end": 577.24,
+      "text": "Definitely."
+    },
+    {
+      "start": 579.04,
+      "end": 579.84,
+      "text": "On to the side he wrote,"
+    },
+    {
+      "start": 579.88,
+      "end": 582.16,
+      "text": "Dear Thomas, thanks for the ACDC set last week."
+    },
+    {
+      "start": 582.24,
+      "end": 582.98,
+      "text": "Thoroughly enjoyed it."
+    },
+    {
+      "start": 583.14,
+      "end": 584.6,
+      "text": "Lots of people wrote in and said they did."
+    },
+    {
+      "start": 584.72,
+      "end": 586.42,
+      "text": "So did we here in the BBC as well."
+    },
+    {
+      "start": 586.86,
+      "end": 587.48,
+      "text": "That you liked it."
+    },
+    {
+      "start": 588.35,
+      "end": 593.15,
+      "text": "Would I wish Foxy Lady of Milton Keynes a very happy birthday for the 29th."
+    },
+    {
+      "start": 593.69,
+      "end": 597.87,
+      "text": "Foxy Lady, if you're anything like the front of this postcard, you're a Foxy Lady."
+    },
+    {
+      "start": 597.87,
+      "end": 608.2,
+      "text": "happy birthday for the 29th from jack daniels good name for a drink now jay cook lives on beaver"
+    },
+    {
+      "start": 608.2,
+      "end": 613.5,
+      "text": "drive kettering in north ants wants you to say hello to spencer and baz and i think it's kid"
+    },
+    {
+      "start": 613.5,
+      "end": 621.13,
+      "text": "and rich donor and dave and all the boughton heavy mob now following the next set i'm going"
+    },
+    {
+      "start": 621.13,
+      "end": 625.31,
+      "text": "to give you details if you want to join in that is details of how to get involved in the filming"
+    },
+    {
+      "start": 625.31,
+      "end": 1268.36,
+      "text": "of a heavy metal video the band are called joshua the album's out on the fm record label the guy"
+    },
+    {
+      "start": 1268.36,
+      "end": 1270.24,
+      "text": "who is Josh, here's a fellow called Joshua"
+    },
+    {
+      "start": 1270.24,
+      "end": 1272.32,
+      "text": "Perahia, or Haya, he plays"
+    },
+    {
+      "start": 1272.32,
+      "end": 1274.44,
+      "text": "guitar, and he's a very good, fast guitarist"
+    },
+    {
+      "start": 1274.44,
+      "end": 1275.7,
+      "text": "as well. The album's called Surrender."
+    },
+    {
+      "start": 1276.2,
+      "end": 1278.28,
+      "text": "The track you heard was Love Shock. Before that, the"
+    },
+    {
+      "start": 1278.28,
+      "end": 1279.88,
+      "text": "title track from the Van Halen album,"
+    },
+    {
+      "start": 1280.28,
+      "end": 1282.28,
+      "text": "5150, or 5150."
+    },
+    {
+      "start": 1302.8,
+      "end": 1303.78,
+      "text": "Don't forget, at about two minutes"
+    },
+    {
+      "start": 1303.78,
+      "end": 1305.78,
+      "text": "to eleven tonight, we will replay Roger"
+    },
+    {
+      "start": 1305.78,
+      "end": 1307.96,
+      "text": "Waters at the Radio City Music"
+    },
+    {
+      "start": 1307.96,
+      "end": 1309.86,
+      "text": "Hall in New York City. That's about two"
+    },
+    {
+      "start": 1309.86,
+      "end": 1311.78,
+      "text": "minutes to eleven tonight. Part of a"
+    },
+    {
+      "start": 1311.78,
+      "end": 1313.94,
+      "text": "concert that he gave that went out live on American"
+    },
+    {
+      "start": 1313.94,
+      "end": 1315.58,
+      "text": "Radio, and it's well worth a listen."
+    },
+    {
+      "start": 1316.22,
+      "end": 1317.84,
+      "text": "Now, here's some details about how you can get"
+    },
+    {
+      "start": 1317.84,
+      "end": 1324.6,
+      "text": "involved in the shooting of a crocus video right a video for the band called crocus it's a it's a"
+    },
+    {
+      "start": 1324.6,
+      "end": 1329.66,
+      "text": "two-day shoot but first off let's talk about next monday it's being shot filmed if you like at the"
+    },
+    {
+      "start": 1329.66,
+      "end": 1335.54,
+      "text": "academy in brixton and if you'd like to turn up and be involved young heavy metal fans is what"
+    },
+    {
+      "start": 1335.54,
+      "end": 1340.22,
+      "text": "they're looking for people who dress the part and look good on the camera of course right nice and"
+    },
+    {
+      "start": 1340.22,
+      "end": 1346.42,
+      "text": "chunky in other words turn up at the academy brixton this coming monday two o'clock it's"
+    },
+    {
+      "start": 1346.42,
+      "end": 1351.02,
+      "text": "Crocus being filmed for a video, they're looking for young heavy metal fans at the Academy,"
+    },
+    {
+      "start": 1351.36,
+      "end": 1356.68,
+      "text": "Brixton, 2pm on Monday. Now of all the people who turn up on the Monday for the shoot there,"
+    },
+    {
+      "start": 1356.8,
+      "end": 1360.62,
+      "text": "all those people of course will be in the video anyway, on the Monday they will choose"
+    },
+    {
+      "start": 1360.62,
+      "end": 1365.78,
+      "text": "three people from everybody that turns up, three people who will then be chosen to come"
+    },
+    {
+      "start": 1365.78,
+      "end": 1371.52,
+      "text": "back the next day and do some further filming, and will be featured in the video itself,"
+    },
+    {
+      "start": 1371.52,
+      "end": 1378.86,
+      "text": "okay in other words three heavy young stars to be involved and they will be paid for it as well"
+    },
+    {
+      "start": 1378.86,
+      "end": 1383.78,
+      "text": "that's the three who are chosen on the monday to appear on the tuesday featured in the video"
+    },
+    {
+      "start": 1383.78,
+      "end": 1387.72,
+      "text": "you'll get paid for it but if you turn up on monday you won't get paid for it but you'll have"
+    },
+    {
+      "start": 1387.72,
+      "end": 1392.54,
+      "text": "a blooming good time once again turn up at the academy brixton 2 p.m on monday get involved in"
+    },
+    {
+      "start": 1392.54,
+      "end": 1394.92,
+      "text": "the crocus video and have a nice time"
+    },
+    {
+      "start": 1394.92,
+      "end": 1909.94,
+      "text": "ZZ from the album Eliminator"
+    },
+    {
+      "start": 1909.94,
+      "end": 1911.7,
+      "text": "that sold a few million around the world"
+    },
+    {
+      "start": 1911.7,
+      "end": 1914.51,
+      "text": "track with Sharp Dress Man"
+    },
+    {
+      "start": 1914.51,
+      "end": 1922.34,
+      "text": "to celebrate the 16th birthday"
+    },
+    {
+      "start": 1922.34,
+      "end": 1924.16,
+      "text": "of a fellow who lives at Seal Hall"
+    },
+    {
+      "start": 1924.16,
+      "end": 1925.1,
+      "text": "in Lancaster"
+    },
+    {
+      "start": 1925.1,
+      "end": 1927.16,
+      "text": "Jonathan Stretch"
+    },
+    {
+      "start": 1927.5,
+      "end": 1928.1,
+      "text": "Happy birthday."
+    },
+    {
+      "start": 1928.68,
+      "end": 1931.08,
+      "text": "Hello from Jonathan to his mates Jono and Jez."
+    },
+    {
+      "start": 1935.13,
+      "end": 1937.23,
+      "text": "Mention here for John Rushton,"
+    },
+    {
+      "start": 1937.49,
+      "end": 1939.57,
+      "text": "who is home on leave from the army in Germany."
+    },
+    {
+      "start": 1944.27,
+      "end": 1945.27,
+      "text": "Have a good hour now, John."
+    },
+    {
+      "start": 1945.47,
+      "end": 1947.47,
+      "text": "Regards from George Skelthorpe, your mate,"
+    },
+    {
+      "start": 1947.59,
+      "end": 1950.05,
+      "text": "Crosby, Liverpool, EFVS UK."
+    },
+    {
+      "start": 1950.49,
+      "end": 1950.83,
+      "text": "You up?"
+    },
+    {
+      "start": 1953.47,
+      "end": 1955.15,
+      "text": "And hello to a lady called Tessa Regan,"
+    },
+    {
+      "start": 1955.25,
+      "end": 1956.77,
+      "text": "who's 14 and two days."
+    },
+    {
+      "start": 1957.77,
+      "end": 1959.85,
+      "text": "And her good friend, Melanie Hill."
+    },
+    {
+      "start": 1964.8,
+      "end": 1966.64,
+      "text": "Now, before, Cece, you heard the Rolling Stones,"
+    },
+    {
+      "start": 1966.74,
+      "end": 1968.1,
+      "text": "a track from back in 1973."
+    },
+    {
+      "start": 1968.4,
+      "end": 1969.46,
+      "text": "It was specially played for."
+    },
+    {
+      "start": 1969.84,
+      "end": 1978.9,
+      "text": "philippa goldie and for everybody that knows her philippa a lot of people know you and they all"
+    },
+    {
+      "start": 1978.9,
+      "end": 2658.41,
+      "text": "think you're nice and they're called legs diamond the albums are the music for nations it's called"
+    },
+    {
+      "start": 2658.41,
+      "end": 2667.3,
+      "text": "land of the gun and the track is steal a heart and their lead singer's coming into london next week"
+    },
+    {
+      "start": 2667.3,
+      "end": 2671.24,
+      "text": "i think i'm going to meet him looking forward to it rick sanford is his name before that you heard"
+    },
+    {
+      "start": 2671.24,
+      "end": 2677.02,
+      "text": "rush and the red barchetta especially for kelly preedy who lives in petswood orpington and kent"
+    },
+    {
+      "start": 2677.02,
+      "end": 2678.9,
+      "text": "and from her, especially to a fella"
+    },
+    {
+      "start": 2678.9,
+      "end": 2681.2,
+      "text": "who's them a car, ah, there it is, Chris Sayers"
+    },
+    {
+      "start": 2681.2,
+      "end": 2683.02,
+      "text": "I think it is, or Hayes possibly, anyway"
+    },
+    {
+      "start": 2683.02,
+      "end": 2684.76,
+      "text": "it's Chris, a fella who's got a red sports car"
+    },
+    {
+      "start": 2684.76,
+      "end": 2687.06,
+      "text": "and good luck to him, drive it proper, Governor"
+    },
+    {
+      "start": 2687.06,
+      "end": 2689.16,
+      "text": "and also hello to Chris, the veteran rocker"
+    },
+    {
+      "start": 2689.16,
+      "end": 2691.02,
+      "text": "from Kelly, and"
+    },
+    {
+      "start": 2691.02,
+      "end": 2692.9,
+      "text": "Gerald, and May"
+    },
+    {
+      "start": 2692.9,
+      "end": 2694.96,
+      "text": "and Kelly herself, and every Rush fan"
+    },
+    {
+      "start": 2694.96,
+      "end": 2697.02,
+      "text": "across the country, and tell Chris that I"
+    },
+    {
+      "start": 2697.02,
+      "end": 2698.58,
+      "text": "miss him very, very much indeed"
+    },
+    {
+      "start": 2698.58,
+      "end": 2700.94,
+      "text": "now, they tell me it's Fish's"
+    },
+    {
+      "start": 2700.94,
+      "end": 2703.02,
+      "text": "birthday this week, so I thought we ought to"
+    },
+    {
+      "start": 2703.02,
+      "end": 2704.94,
+      "text": "play something by Marillion, to keep"
+    },
+    {
+      "start": 2704.94,
+      "end": 2706.8,
+      "text": "the old fella happy, know what I mean?"
+    },
+    {
+      "start": 2707.02,
+      "end": 3464.99,
+      "text": "victims of the future title track of the album that came out some time ago"
+    },
+    {
+      "start": 3464.99,
+      "end": 3470.65,
+      "text": "excellent and before that marillium from script for a justice tear garden party and that was for"
+    },
+    {
+      "start": 3470.65,
+      "end": 3475.95,
+      "text": "fish whose birthday i believe is today and i'm told he's all at 28 years of age an ageless fellow"
+    },
+    {
+      "start": 3475.95,
+      "end": 3478.91,
+      "text": "though Fish is always going to be, I think, totally and utterly ageless."
+    },
+    {
+      "start": 3479.39,
+      "end": 3482.71,
+      "text": "Fish, happy birthday, mate, from Moira in Sutherland in Scotland"
+    },
+    {
+      "start": 3482.71,
+      "end": 3486.19,
+      "text": "and also from Mad, she says, in Edinburgh in Scotland"
+    },
+    {
+      "start": 3486.19,
+      "end": 3489.61,
+      "text": "and hello to Lee and Tati and Mark and to Max."
+    },
+    {
+      "start": 3498.5,
+      "end": 3500.72,
+      "text": "You're tuned to the Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 3500.88,
+      "end": 3502.1,
+      "text": "Quite simply, the best."
+    },
+    {
+      "start": 3502.36,
+      "end": 3506.68,
+      "text": "Right, now it is our pleasure to rebroadcast something we put out first last November."
+    },
+    {
+      "start": 3507.1,
+      "end": 3509.32,
+      "text": "At that time, though, I told you that this was recorded"
+    },
+    {
+      "start": 3509.32,
+      "end": 3513.86,
+      "text": "from a live broadcast done in the States on the 13th of the 9th, 1985."
+    },
+    {
+      "start": 3514.02,
+      "end": 3516.12,
+      "text": "I now believe that information to be inaccurate."
+    },
+    {
+      "start": 3516.72,
+      "end": 3520.34,
+      "text": "It was actually recorded on the 28th of March, 1985."
+    },
+    {
+      "start": 3520.7,
+      "end": 3521.44,
+      "text": "Nonetheless, it is."
+    },
+    {
+      "start": 3521.76,
+      "end": 3525.78,
+      "text": "Roger Waters at Radio City Music Hall, New York City, in concert."
+    },
+    {
+      "start": 6732.78,
+      "end": 6737.88,
+      "text": "It's on the grass, the lunatic."
+    },
+    {
+      "start": 6738.76,
+      "end": 6750.62,
+      "text": "It's on the grass, remembering games and days of change."
+    },
+    {
+      "start": 6750.9,
+      "end": 6758.15,
+      "text": "It's on the... it's in the hall."
+    },
+    {
+      "start": 6758.63,
+      "end": 7090.14,
+      "text": "Roger Waters, as he was, in concert on the 28th of March, 1985"
+    },
+    {
+      "start": 7090.14,
+      "end": 7093.08,
+      "text": "at the Radio City Music Hall in New York City."
+    },
+    {
+      "start": 7093.98,
+      "end": 7096.5,
+      "text": "And that was a live broadcast in the United States of America."
+    },
+    {
+      "start": 7096.72,
+      "end": 7099.34,
+      "text": "It was put across by a satellite, and what you heard was a recording."
+    },
+    {
+      "start": 7099.86,
+      "end": 7102.22,
+      "text": "It was excellently done, and I hope you enjoyed it tonight."
+    },
+    {
+      "start": 7102.44,
+      "end": 7105.4,
+      "text": "Quick reminder about The Amazing Pudding, the Pink Floyd fan magazine."
+    },
+    {
+      "start": 7105.84,
+      "end": 7107.74,
+      "text": "If you'd like details about The Amazing Pudding,"
+    },
+    {
+      "start": 7108.18,
+      "end": 7109.5,
+      "text": "the Pink Floyd fan magazine,"
+    },
+    {
+      "start": 7109.76,
+      "end": 7112.3,
+      "text": "send me a stamped address envelope, and I'll send it on."
+    },
+    {
+      "start": 7115.52,
+      "end": 7118.2,
+      "text": "Following the midnight pips, you'll hear on Medium Wave,"
+    },
+    {
+      "start": 7118.2,
+      "end": 7120.94,
+      "text": "the news on FM Stereo Radio 2."
+    },
+    {
+      "start": 7121.68,
+      "end": 7124.2,
+      "text": "Next week on the Friday Rock Show, we have two bands for you."
+    },
+    {
+      "start": 7124.3,
+      "end": 7125.46,
+      "text": "Lots of records as well."
+    },
+    {
+      "start": 7125.8,
+      "end": 7127.6,
+      "text": "Cannes and State Trooper are the bands."
+    },
+    {
+      "start": 7131.9,
+      "end": 7133.18,
+      "text": "Just before I go off the air,"
+    },
+    {
+      "start": 7133.26,
+      "end": 7137.24,
+      "text": "here's a message from the Bristol Coast Guard with the vessel, please."
+    },
+    {
+      "start": 7137.88,
+      "end": 7138.96,
+      "text": "It is in the Bristol Channel."
+    },
+    {
+      "start": 7139.12,
+      "end": 7142.16,
+      "text": "It is relaying Radio 1 on Channel 16."
+    },
+    {
+      "start": 7142.6,
+      "end": 7144.46,
+      "text": "Please turn it off. You're jamming everything."
+    },
+    {
+      "start": 7145.18,
+      "end": 7147.56,
+      "text": "Message there from the Bristol Coast Guard with the vessel,"
+    },
+    {
+      "start": 7147.56,
+      "end": 7150.2,
+      "text": "who is rebroadcasting Radio 1 on Channel 16."
+    },
+    {
+      "start": 7150.38,
+      "end": 7152.86,
+      "text": "Please cease to do so now."
+    },
+    {
+      "start": 7153.44,
+      "end": 7164.07,
+      "text": "The Friday Rock Show is a Tony Wilson production."
+    },
+    {
+      "start": 7166.19,
+      "end": 7168.35,
+      "text": "I'm Tommy Vance, and I wish you well."
+    },
+    {
+      "start": 7168.71,
+      "end": 7170.05,
+      "text": "Wherever you are, wherever you're listening,"
+    },
+    {
+      "start": 7170.17,
+      "end": 7172.61,
+      "text": "I hope you're happy, healthy, and content."
+    },
+    {
+      "start": 7172.89,
+      "end": 7175.19,
+      "text": "From all of us on the music side of Radio 1, God bless you."
+    },
+    {
+      "start": 7175.61,
+      "end": 7175.85,
+      "text": "Goodbye."
     }
   ]
 }

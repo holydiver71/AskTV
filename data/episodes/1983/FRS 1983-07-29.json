@@ -31,7 +31,8 @@
     {
       "artist": "Magnum",
       "track": "The Prize",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1496.31
     },
     {
       "artist": "Y&T",
@@ -51,7 +52,8 @@
     {
       "artist": "Colosseum II",
       "track": "Put It This Way",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 2037.8
     },
     {
       "artist": "Colosseum II",
@@ -71,7 +73,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 60.02
     },
     {
       "artist": "Greg Lake",
@@ -81,7 +84,8 @@
     {
       "artist": "Magnum",
       "track": "Breakdown",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1496.31
     },
     {
       "artist": "Stephen Stills / Manassas",

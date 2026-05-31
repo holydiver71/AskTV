@@ -23,17 +23,20 @@
     {
       "artist": "Trash",
       "track": "Watch Out",
-      "details": "LP-Watch Out; RCA Victor"
+      "details": "LP-Watch Out; RCA Victor",
+      "verified_timestamp": 889.53
     },
     {
       "artist": "Robin Trower",
       "track": "Benny Dancer",
-      "details": "LP-Back It Up; Chrysalis"
+      "details": "LP-Back It Up; Chrysalis",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Rush",
       "track": "The Spirit Of Radio",
-      "details": "LP-Exit...Stage Left; Mercury"
+      "details": "LP-Exit...Stage Left; Mercury",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Gary Moore",
@@ -43,17 +46,20 @@
     {
       "artist": "Fastway",
       "track": "Easy Livin",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1644.6
     },
     {
       "artist": "Scorpions",
       "track": "China White",
-      "details": "LP-Blackout; Harvest"
+      "details": "LP-Blackout; Harvest",
+      "verified_timestamp": 2219.39
     },
     {
       "artist": "AC/DC",
       "track": "High Voltage",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 965.05
     },
     {
       "artist": "AC/DC",
@@ -63,7 +69,8 @@
     {
       "artist": "ZZ Top",
       "track": "Bad Girl",
-      "details": "LP-Eliminator; Warner Bros."
+      "details": "LP-Eliminator; Warner Bros.",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Fastway",
@@ -73,7 +80,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.06
     },
     {
       "artist": "AC/DC",
@@ -93,17 +101,20 @@
     {
       "artist": "Motörhead",
       "track": "Marching Off To War",
-      "details": "LP-Another Perfect Day; Bronze"
+      "details": "LP-Another Perfect Day; Bronze",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Robert Plant",
       "track": "Big Log",
-      "details": "7\"; WEA"
+      "details": "7\"; WEA",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Joe Walsh",
       "track": "The Worry Song",
-      "details": "LP-You Bought It - You Name It; Warner Bros."
+      "details": "LP-You Bought It - You Name It; Warner Bros.",
+      "verified_timestamp": 7030.79
     },
     {
       "artist": "Robert Plant",

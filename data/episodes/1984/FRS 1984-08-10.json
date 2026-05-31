@@ -18,42 +18,50 @@
     {
       "artist": "Motorhead",
       "track": "Killed by Death",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Ted Nugent",
       "track": "Flesh & Blood",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Mama's Boys",
       "track": "Mama, We're All Crazee Now",
-      "details": null
+      "details": null,
+      "verified_timestamp": 478.86
     },
     {
       "artist": "Shy",
       "track": "My Apollo",
-      "details": "session track"
+      "details": "session track",
+      "verified_timestamp": 425.66
     },
     {
       "artist": "Jefferson Starship",
       "track": "Live and Let Live",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1045.26
     },
     {
       "artist": "The Enid",
       "track": "Under the Summer Stars/Adieu",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1728.63
     },
     {
       "artist": "Tokyo Blade",
       "track": "Lightning Strikes",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1830.76
     },
     {
       "artist": "Kick Axe",
       "track": "Heavy Metal Shuffle",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Shy",
@@ -63,32 +71,38 @@
     {
       "artist": "Y&T",
       "track": "Break Out Tonight",
-      "details": null
+      "details": null,
+      "verified_timestamp": 467.8
     },
     {
       "artist": "Greg Lake",
       "track": "It Hurts",
-      "details": "featuring Gary Moore"
+      "details": "featuring Gary Moore",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Billy Squier",
       "track": "Rock Me Tonight",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3448.58
     },
     {
       "artist": "Armed Forces",
       "track": "Let There Be Metal",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4417.47
     },
     {
       "artist": "Judas Priest",
       "track": "The Ripper",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Shy",

@@ -21,12 +21,14 @@
     {
       "artist": "Bon Jovi",
       "track": "‘Runaway’’",
-      "details": "LP - Bon Jovi"
+      "details": "LP - Bon Jovi",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "KISS",
       "track": "‘Lonely Is The Hunter’",
-      "details": "LP - Animalize"
+      "details": "LP - Animalize",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Status Quo",
@@ -36,12 +38,14 @@
     {
       "artist": "Maineeaxe",
       "track": "‘The Game’’",
-      "details": "LP - Shout It Out"
+      "details": "LP - Shout It Out",
+      "verified_timestamp": 1140.74
     },
     {
       "artist": "Dianno",
       "track": "Flaming Heart",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1146.08
     },
     {
       "artist": "Damian",
@@ -81,17 +85,20 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 47.28
     },
     {
       "artist": "Twisted Sister",
       "track": "‘I Wanna Rock’’",
-      "details": "LP - Stay Hungry"
+      "details": "LP - Stay Hungry",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Tormentor",
       "track": "‘Hell Is For Children’",
-      "details": "LP - Goddess Of Love"
+      "details": "LP - Goddess Of Love",
+      "verified_timestamp": 2251.25
     },
     {
       "artist": "Dianno",
@@ -101,7 +108,8 @@
     {
       "artist": "Severed Head",
       "track": "‘Heavy Metal’",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 52.18
     },
     {
       "artist": "Tangerine Dream",
@@ -111,7 +119,8 @@
     {
       "artist": "Queensryche",
       "track": "‘The Warning’",
-      "details": "LP - The Warning"
+      "details": "LP - The Warning",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Billy Squier",

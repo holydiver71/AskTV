@@ -19,12 +19,14 @@
     {
       "artist": null,
       "track": "Godz - I'll Get You Rockin'",
-      "details": null
+      "details": null,
+      "verified_timestamp": 536.83
     },
     {
       "artist": null,
       "track": "Magnum - Just Like an Arrow",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
@@ -34,12 +36,14 @@
     {
       "artist": null,
       "track": "Alan Parsons Project - Stereotomy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 900.0
     },
     {
       "artist": null,
       "track": "Rogue Male - Rough Tough (Pretty Too) (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1275.07
     },
     {
       "artist": null,
@@ -49,7 +53,8 @@
     {
       "artist": null,
       "track": "Tom Petty & The Heartbreakers - American Girl (Live)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
@@ -59,7 +64,8 @@
     {
       "artist": null,
       "track": "Far Corporation - Johnny Don't Go the Distance",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2520.0
     },
     {
       "artist": null,
@@ -69,7 +75,8 @@
     {
       "artist": null,
       "track": "Rogue Male - Dressed Incognito (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1275.07
     },
     {
       "artist": null,
@@ -79,22 +86,26 @@
     {
       "artist": null,
       "track": "Kiss - Dance All Over Your Face",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3780.0
     },
     {
       "artist": null,
       "track": "AC/DC - Cold Hearted Man",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3960.0
     },
     {
       "artist": null,
       "track": "Gary Moore - The Law of the Jungle",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
       "track": "Led Zeppelin - Heartbreaker",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4680.0
     },
     {
       "artist": null,
@@ -104,7 +115,8 @@
     {
       "artist": null,
       "track": "Rogue Male - On the Line (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1275.07
     }
   ],
   "transcript": [

@@ -27,7 +27,8 @@
     {
       "artist": "AC/DC",
       "track": "Shoot To Thrill",
-      "details": "LP-Back In Black; Atlantic"
+      "details": "LP-Back In Black; Atlantic",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Terraplane",
@@ -37,32 +38,38 @@
     {
       "artist": "Zero Nine",
       "track": "Never Stop Running",
-      "details": "LP-White Lines; Heavy Metal Worldwide"
+      "details": "LP-White Lines; Heavy Metal Worldwide",
+      "verified_timestamp": 1219.51
     },
     {
       "artist": "Black Rose",
       "track": "Go For The Throat",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1207.15
     },
     {
       "artist": "Streets On Fire",
       "track": "Blown Away",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1635.43
     },
     {
       "artist": "Rush",
       "track": "A Passage To Bangkok",
-      "details": "LP-2112; Mercury"
+      "details": "LP-2112; Mercury",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Ozzy Osbourne",
       "track": "Shot In The Dark",
-      "details": "LP-7\"; Epic"
+      "details": "LP-7\"; Epic",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Fastway",
       "track": "The World Waits For You",
-      "details": "7\"; CBS"
+      "details": "7\"; CBS",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Streets On Fire",
@@ -72,7 +79,8 @@
     {
       "artist": "Armored Saint",
       "track": "Nervous Man",
-      "details": "LP-Delirious Nomad; Chrysalis"
+      "details": "LP-Delirious Nomad; Chrysalis",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Black Rose",
@@ -102,17 +110,20 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3884.08
     },
     {
       "artist": "Black Rose",
       "track": "‘Need A Lot Of Lovin’",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1207.15
     },
     {
       "artist": "Stryper",
       "track": "‘The Rock That Makes Me Roll'",
-      "details": "LP - Soldiers Under Command"
+      "details": "LP - Soldiers Under Command",
+      "verified_timestamp": 5551.3
     },
     {
       "artist": "Streets On Fire",
@@ -122,17 +133,20 @@
     {
       "artist": "Judas Priest",
       "track": "‘Breaking The Law’",
-      "details": "LP - British Steel"
+      "details": "LP - British Steel",
+      "verified_timestamp": 5613.02
     },
     {
       "artist": "Molly Hatchet",
       "track": "‘Gator Country’",
-      "details": "LP - Double Trouble Live"
+      "details": "LP - Double Trouble Live",
+      "verified_timestamp": 6754.44
     },
     {
       "artist": "Status Quo",
       "track": "‘Big Fat Mama’",
-      "details": "LP - Quo Live"
+      "details": "LP - Quo Live",
+      "verified_timestamp": 5973.32
     },
     {
       "artist": "Black Rose",
@@ -143,6 +157,1588 @@
       "artist": "Peter Frampton",
       "track": "‘Stop’",
       "details": "LP - Premonition"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 14.48,
+      "end": 21.48,
+      "text": "Well, hello there. This is TV on the Radio here, Thomas the Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 21.48,
+      "end": 33.7,
+      "text": "And we have two sessions tonight, Black Holes and Streets on Fire. One a debut, and the other one is a worthy repeat."
+    },
+    {
+      "start": 33.7,
+      "end": 54.02,
+      "text": "The latest releases size Saga, Teleplane, Zero Nine, Ozzy, Fastway, Armourstate, and Molly Hatchett."
+    },
+    {
+      "start": 54.02,
+      "end": 604.7,
+      "text": "Classic tracks by Iron Maiden, UFO, Rush, MSG, Dio, Priest, and Stardust Boy."
+    },
+    {
+      "start": 604.7,
+      "end": 606.8,
+      "text": "from their album, which is called Black and White."
+    },
+    {
+      "start": 606.9,
+      "end": 608.62,
+      "text": "The track was called Don't Walk Away."
+    },
+    {
+      "start": 608.74,
+      "end": 611.44,
+      "text": "Excellent album from a really good band from South London."
+    },
+    {
+      "start": 612.06,
+      "end": 615.7,
+      "text": "Before that, ACDC, who are in North London on stage at this moment of time."
+    },
+    {
+      "start": 615.92,
+      "end": 617.84,
+      "text": "ACDC, from their album Back in Black."
+    },
+    {
+      "start": 618.34,
+      "end": 619.48,
+      "text": "The track was shoot to thrill."
+    },
+    {
+      "start": 621.02,
+      "end": 622.67,
+      "text": "It is now ten minutes past ten."
+    },
+    {
+      "start": 623.58,
+      "end": 625.86,
+      "text": "The ACDC track was for..."
+    },
+    {
+      "start": 626.94,
+      "end": 632.14,
+      "text": "Mick, and everybody in Aldershot who likes metal."
+    },
+    {
+      "start": 632.42,
+      "end": 634.28,
+      "text": "And hello to Andy, who moved into his new flat"
+    },
+    {
+      "start": 634.28,
+      "end": 636.4,
+      "text": "on the 20th of the 12th, 1985."
+    },
+    {
+      "start": 636.78,
+      "end": 637.64,
+      "text": "Also, hello to Gary."
+    },
+    {
+      "start": 639.92,
+      "end": 642.26,
+      "text": "Joy Pickin is down there in Falmouth in Cornwall."
+    },
+    {
+      "start": 642.34,
+      "end": 642.76,
+      "text": "Hello, Joy."
+    },
+    {
+      "start": 642.94,
+      "end": 644.46,
+      "text": "Happy birthday to Mark, your brother,"
+    },
+    {
+      "start": 644.82,
+      "end": 646.98,
+      "text": "who's got a birthday coming up on the 22nd of January."
+    },
+    {
+      "start": 647.5,
+      "end": 650.24,
+      "text": "Also, hello to gig mates Julie and Kathy and Lance."
+    },
+    {
+      "start": 650.82,
+      "end": 653.04,
+      "text": "Greg, thank you very much for the shoulder, she says."
+    },
+    {
+      "start": 653.7,
+      "end": 655.02,
+      "text": "Brilliant gig."
+    },
+    {
+      "start": 655.12,
+      "end": 657.66,
+      "text": "Hello to Jeff and Gavin and the two Johns as well."
+    },
+    {
+      "start": 659.19,
+      "end": 660.53,
+      "text": "Fellow here who's got a birthday."
+    },
+    {
+      "start": 660.69,
+      "end": 661.51,
+      "text": "His name is Paul."
+    },
+    {
+      "start": 661.61,
+      "end": 662.95,
+      "text": "He's an Eddie freak, it says."
+    },
+    {
+      "start": 662.95,
+      "end": 665.19,
+      "text": "It's Lashmere Road, Kingston-upon-Thames."
+    },
+    {
+      "start": 665.31,
+      "end": 666.13,
+      "text": "Not far from where..."
+    },
+    {
+      "start": 666.13,
+      "end": 666.97,
+      "text": "Far, rather far..."
+    },
+    {
+      "start": 666.97,
+      "end": 668.59,
+      "text": "just around the corner"
+    },
+    {
+      "start": 668.59,
+      "end": 671.66,
+      "text": "just trying to be posh about it"
+    },
+    {
+      "start": 671.66,
+      "end": 673.78,
+      "text": "I must stop trying to be posh because I'm on the BBC"
+    },
+    {
+      "start": 673.78,
+      "end": 676.54,
+      "text": "happy birthday for the 20th of January"
+    },
+    {
+      "start": 676.54,
+      "end": 678.54,
+      "text": "Paul the Eddie Freed"
+    },
+    {
+      "start": 678.54,
+      "end": 679.36,
+      "text": "17"
+    },
+    {
+      "start": 679.36,
+      "end": 682.79,
+      "text": "right are we taping any of the"
+    },
+    {
+      "start": 682.79,
+      "end": 684.41,
+      "text": "ACDC gigs no we're not"
+    },
+    {
+      "start": 684.41,
+      "end": 686.71,
+      "text": "we thought we were but then nobody would give us"
+    },
+    {
+      "start": 686.71,
+      "end": 688.73,
+      "text": "permission if we don't get the permission we can't put the"
+    },
+    {
+      "start": 688.73,
+      "end": 690.07,
+      "text": "tape machine on I don't know what I mean"
+    },
+    {
+      "start": 690.07,
+      "end": 692.93,
+      "text": "so hello to Andy and Darren in Stirling"
+    },
+    {
+      "start": 692.93,
+      "end": 694.77,
+      "text": "and also Dave Connery"
+    },
+    {
+      "start": 694.77,
+      "end": 697.64,
+      "text": "and finally hello to"
+    },
+    {
+      "start": 697.64,
+      "end": 700.94,
+      "text": "Everybody in the Glen Pavilion, Dunn, Firmland."
+    },
+    {
+      "start": 701.36,
+      "end": 703.7,
+      "text": "Loads of names, not a lot of time, but how are you?"
+    },
+    {
+      "start": 706.89,
+      "end": 708.13,
+      "text": "This is Zero Nine."
+    },
+    {
+      "start": 1199.21,
+      "end": 1200.37,
+      "text": "Three more numbers by them."
+    },
+    {
+      "start": 1200.65,
+      "end": 1202.25,
+      "text": "Our session band will release one of our sessions."
+    },
+    {
+      "start": 1203.03,
+      "end": 1203.83,
+      "text": "Take three."
+    },
+    {
+      "start": 1204.15,
+      "end": 1205.61,
+      "text": "Honestly, I've only had lemonade tonight."
+    },
+    {
+      "start": 1205.77,
+      "end": 1206.57,
+      "text": "It's just ridiculous."
+    },
+    {
+      "start": 1207.15,
+      "end": 1208.47,
+      "text": "Black Rose, the name of the band."
+    },
+    {
+      "start": 1208.57,
+      "end": 1210.19,
+      "text": "The track was called Go For The Throat."
+    },
+    {
+      "start": 1210.67,
+      "end": 1214.03,
+      "text": "Before that, you heard Zero Nine, an album by them that was recorded last year."
+    },
+    {
+      "start": 1214.09,
+      "end": 1215.29,
+      "text": "Just released in this country, though."
+    },
+    {
+      "start": 1215.41,
+      "end": 1217.37,
+      "text": "It's on the Heavy Metal Worldwide label."
+    },
+    {
+      "start": 1217.85,
+      "end": 1218.51,
+      "text": "They're from Finland."
+    },
+    {
+      "start": 1218.69,
+      "end": 1219.51,
+      "text": "Six guys in the band."
+    },
+    {
+      "start": 1219.51,
+      "end": 1222.97,
+      "text": "The album is called White Lions, and the track you heard was Never Stop Running."
+    },
+    {
+      "start": 1223.09,
+      "end": 1224.07,
+      "text": "It is 20 minutes past 10."
+    },
+    {
+      "start": 1224.11,
+      "end": 1226.17,
+      "text": "Here's a story of sadness here."
+    },
+    {
+      "start": 1226.61,
+      "end": 1227.75,
+      "text": "It's from Jenny Hands."
+    },
+    {
+      "start": 1228.19,
+      "end": 1232.31,
+      "text": "Jenny Hands lives at Morland Road, Droitwich Spa in Worcestershire."
+    },
+    {
+      "start": 1232.51,
+      "end": 1236.85,
+      "text": "She says, Dear Thomas, in June last year, my mate fixed me up with her brother, Robin."
+    },
+    {
+      "start": 1237.31,
+      "end": 1238.95,
+      "text": "We spent just over two months going out."
+    },
+    {
+      "start": 1239.09,
+      "end": 1241.39,
+      "text": "After coming back from our holidays, we split up."
+    },
+    {
+      "start": 1242.27,
+      "end": 1245.29,
+      "text": "Would you tell him, please, that I still love him and I want him back?"
+    },
+    {
+      "start": 1245.33,
+      "end": 1247.79,
+      "text": "At the moment, he will be at Canterbury University."
+    },
+    {
+      "start": 1248.35,
+      "end": 1250.81,
+      "text": "He is known as the Canterbury Hippie."
+    },
+    {
+      "start": 1251.31,
+      "end": 1252.53,
+      "text": "I live in Droitwich Spa."
+    },
+    {
+      "start": 1252.85,
+      "end": 1253.63,
+      "text": "My name is Jenny Hands."
+    },
+    {
+      "start": 1253.73,
+      "end": 1257.75,
+      "text": "Please read this out, because it's probably the only way that he'll know my feelings."
+    },
+    {
+      "start": 1258.41,
+      "end": 1259.93,
+      "text": "Say hi to heavy metalers everywhere."
+    },
+    {
+      "start": 1260.13,
+      "end": 1261.55,
+      "text": "Tell very much, Jenny."
+    },
+    {
+      "start": 1261.97,
+      "end": 1266.49,
+      "text": "Robin might know me as Ratty, and he used to call me Squealer."
+    },
+    {
+      "start": 1266.93,
+      "end": 1635.21,
+      "text": "...from back in 1976 for the album 2112, Rush from Canada, A Passage to Bangkok."
+    },
+    {
+      "start": 1635.43,
+      "end": 1639.33,
+      "text": "Before that, our repeat session, the first of four, Streets on Fire."
+    },
+    {
+      "start": 1639.75,
+      "end": 1640.73,
+      "text": "They were blown away."
+    },
+    {
+      "start": 1645.22,
+      "end": 1647.78,
+      "text": "1027, this is the Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 1647.84,
+      "end": 1653.02,
+      "text": "I'd like to thank everybody that wrote in and said that they enjoyed, isn't the right word,"
+    },
+    {
+      "start": 1653.08,
+      "end": 1658.68,
+      "text": "that they felt that the tribute that we did to Philip Liner last Friday on the Rock Show was very good."
+    },
+    {
+      "start": 1658.82,
+      "end": 1660.6,
+      "text": "Well, I must say it wasn't a pleasure to put together,"
+    },
+    {
+      "start": 1661.02,
+      "end": 1663.1,
+      "text": "and it certainly wasn't a pleasure to present on the radio,"
+    },
+    {
+      "start": 1663.1,
+      "end": 1668.81,
+      "text": "but it had to be done, and I'm glad that you felt that it was worthy and worthwhile."
+    },
+    {
+      "start": 1668.81,
+      "end": 1679.51,
+      "text": "Kirkintilloch, Glasgow, Mill Way, number 8"
+    },
+    {
+      "start": 1679.51,
+      "end": 1681.75,
+      "text": "That's the home of Gareth Bird, he says"
+    },
+    {
+      "start": 1681.75,
+      "end": 1683.77,
+      "text": "Thank you very much, for a nice show"
+    },
+    {
+      "start": 1683.77,
+      "end": 1684.83,
+      "text": "I always listen to it"
+    },
+    {
+      "start": 1684.83,
+      "end": 1685.93,
+      "text": "Say hello to my pal"
+    },
+    {
+      "start": 1685.93,
+      "end": 1687.33,
+      "text": "My pal is Ashy"
+    },
+    {
+      "start": 1687.33,
+      "end": 1690.03,
+      "text": "Birthday, 5th of January, just gone"
+    },
+    {
+      "start": 1690.03,
+      "end": 1691.81,
+      "text": "Hello Ashy, happy birthday"
+    },
+    {
+      "start": 1691.81,
+      "end": 1694.33,
+      "text": "Also say hello to Wiggy and Sean and Bruce"
+    },
+    {
+      "start": 1694.33,
+      "end": 1696.25,
+      "text": "Keep up the good work, certainly I will"
+    },
+    {
+      "start": 1696.25,
+      "end": 1697.89,
+      "text": "And would you tell him, he says here"
+    },
+    {
+      "start": 1697.89,
+      "end": 1699.33,
+      "text": "Gillian loves him"
+    },
+    {
+      "start": 1699.33,
+      "end": 1707.39,
+      "text": "Extra Aussie Osborne dates I have written in front of me"
+    },
+    {
+      "start": 1707.39,
+      "end": 1709.29,
+      "text": "and you'll hear all about them after this set."
+    },
+    {
+      "start": 1709.63,
+      "end": 2213.17,
+      "text": "Really excellent singles just on release."
+    },
+    {
+      "start": 2213.29,
+      "end": 2214.23,
+      "text": "That is by Fastway."
+    },
+    {
+      "start": 2214.43,
+      "end": 2215.77,
+      "text": "On tour with ACDC at the moment."
+    },
+    {
+      "start": 2215.89,
+      "end": 2217.61,
+      "text": "Fastway and The World Waits For You."
+    },
+    {
+      "start": 2217.97,
+      "end": 2220.45,
+      "text": "Before that, Ozzy Osbourne, Shot In The Dark."
+    },
+    {
+      "start": 2222.02,
+      "end": 2223.04,
+      "text": "That's his new single."
+    },
+    {
+      "start": 2223.78,
+      "end": 2225.24,
+      "text": "Out on the Epic Record label."
+    },
+    {
+      "start": 2226.67,
+      "end": 2228.97,
+      "text": "Everybody would know I'm sure about the Ozzy tour."
+    },
+    {
+      "start": 2229.11,
+      "end": 2231.09,
+      "text": "It starts on the 6th of February in Belfast."
+    },
+    {
+      "start": 2231.49,
+      "end": 2233.91,
+      "text": "Then it goes down south to Dublin, over to Newcastle,"
+    },
+    {
+      "start": 2234.41,
+      "end": 2235.91,
+      "text": "Manchester, Edinburgh, Sheffield,"
+    },
+    {
+      "start": 2236.05,
+      "end": 2237.39,
+      "text": "three nights at the Cameo in London,"
+    },
+    {
+      "start": 2237.59,
+      "end": 2239.11,
+      "text": "then two nights at the Birmingham Odeon,"
+    },
+    {
+      "start": 2239.53,
+      "end": 2241.21,
+      "text": "23rd, 24th of Feb."
+    },
+    {
+      "start": 2241.49,
+      "end": 2244.67,
+      "text": "And back down to London on the 26th of February, right?"
+    },
+    {
+      "start": 2244.87,
+      "end": 2245.87,
+      "text": "For the Hammersmith Odeon again."
+    },
+    {
+      "start": 2246.23,
+      "end": 2248.99,
+      "text": "But these are extra gigs for the Aussie Osborne show."
+    },
+    {
+      "start": 2249.39,
+      "end": 2251.05,
+      "text": "And I don't think as yet they're being released."
+    },
+    {
+      "start": 2251.17,
+      "end": 2252.35,
+      "text": "So have a listen if you're interested."
+    },
+    {
+      "start": 2252.95,
+      "end": 2256.85,
+      "text": "Thursday, the 27th of February, Nottingham at the Royal Centre."
+    },
+    {
+      "start": 2257.59,
+      "end": 2261.07,
+      "text": "Friday, the 28th, Aussie Osborne at the Newcastle Mayfair."
+    },
+    {
+      "start": 2262.21,
+      "end": 2263.89,
+      "text": "Into March for three more gigs."
+    },
+    {
+      "start": 2263.89,
+      "end": 2266.59,
+      "text": "On Sunday, the 2nd of March, Ipswich, Comont."
+    },
+    {
+      "start": 2267.17,
+      "end": 2269.47,
+      "text": "Monday the 3rd, Leicester, De Montfort Hall."
+    },
+    {
+      "start": 2269.93,
+      "end": 2273.57,
+      "text": "And on Tuesday the 4th, Bradford, St. George's Hall."
+    },
+    {
+      "start": 2274.15,
+      "end": 2274.83,
+      "text": "Extra gigs."
+    },
+    {
+      "start": 2274.95,
+      "end": 2276.57,
+      "text": "Thursday the 27th, the 3rd, Nottingham."
+    },
+    {
+      "start": 2276.93,
+      "end": 2278.11,
+      "text": "28th, Newcastle."
+    },
+    {
+      "start": 2278.67,
+      "end": 2280.53,
+      "text": "2nd of March, Ipswich."
+    },
+    {
+      "start": 2280.71,
+      "end": 2281.89,
+      "text": "3rd, Leicester."
+    },
+    {
+      "start": 2282.31,
+      "end": 2283.71,
+      "text": "4th, Bradford."
+    },
+    {
+      "start": 2284.47,
+      "end": 2286.02,
+      "text": "OK, good luck. I'm certainly going to go."
+    },
+    {
+      "start": 2286.12,
+      "end": 2287.84,
+      "text": "My wife is nuts about Ozzy Osbourne."
+    },
+    {
+      "start": 2288.28,
+      "end": 2289.9,
+      "text": "Loves him. I mean, really."
+    },
+    {
+      "start": 2290.0,
+      "end": 2292.84,
+      "text": "Sits there, transfixed, looking at the stage when he comes on."
+    },
+    {
+      "start": 2293.32,
+      "end": 2295.52,
+      "text": "He's one of the great rock characters of this country,"
+    },
+    {
+      "start": 2295.52,
+      "end": 2297.24,
+      "text": "and all over the world as well."
+    },
+    {
+      "start": 2297.32,
+      "end": 2297.8,
+      "text": "What a character."
+    },
+    {
+      "start": 2298.5,
+      "end": 2300.84,
+      "text": "OK, Neil and Mick, or possibly Nick,"
+    },
+    {
+      "start": 2301.08,
+      "end": 2303.86,
+      "text": "a couple of guys who live on Druids Avenue, Aldridge in West Midlands,"
+    },
+    {
+      "start": 2304.0,
+      "end": 2305.5,
+      "text": "say, they like Ozzy Osbourne."
+    },
+    {
+      "start": 2305.78,
+      "end": 2306.88,
+      "text": "Would I play something for them?"
+    },
+    {
+      "start": 2307.04,
+      "end": 2309.86,
+      "text": "I hope that you just heard it and that you enjoyed it."
+    },
+    {
+      "start": 2310.16,
+      "end": 2311.16,
+      "text": "Back to Streets On Fire."
+    },
+    {
+      "start": 2311.9,
+      "end": 2754.01,
+      "text": "For the band, that's a track from their second album."
+    },
+    {
+      "start": 2754.11,
+      "end": 2756.69,
+      "text": "It's just come out on the Chrysalis record label here in the United Kingdom."
+    },
+    {
+      "start": 2757.19,
+      "end": 2759.57,
+      "text": "The album is called Delirious Nomad."
+    },
+    {
+      "start": 2759.57,
+      "end": 2761.29,
+      "text": "The track was Nervous Man."
+    },
+    {
+      "start": 2761.41,
+      "end": 2763.81,
+      "text": "They're a good band, very raunchy, very raunchy band."
+    },
+    {
+      "start": 2763.87,
+      "end": 2765.41,
+      "text": "Actually, though, they've lost their lead guitarist."
+    },
+    {
+      "start": 2765.79,
+      "end": 2767.39,
+      "text": "They've got a new one, but it sounds just as good."
+    },
+    {
+      "start": 2767.47,
+      "end": 2769.17,
+      "text": "Actually, frankly, I think it sounds better."
+    },
+    {
+      "start": 2769.69,
+      "end": 2770.45,
+      "text": "Recommend that album."
+    },
+    {
+      "start": 2770.61,
+      "end": 2773.03,
+      "text": "Armoured Saint on Chrysalis, Delirious Nomad."
+    },
+    {
+      "start": 2773.43,
+      "end": 2776.03,
+      "text": "Before that, Streets on Fire, our session by them."
+    },
+    {
+      "start": 2776.53,
+      "end": 2777.83,
+      "text": "Brought you the number called Breaking Out."
+    },
+    {
+      "start": 2777.95,
+      "end": 2779.51,
+      "text": "It's 14 and a half and it's 2.11."
+    },
+    {
+      "start": 2779.89,
+      "end": 2782.69,
+      "text": "Thank you very much for the response that you've been giving to the idea."
+    },
+    {
+      "start": 2782.69,
+      "end": 2787.15,
+      "text": "Why don't you sort of send in maybe some sort of musical memory"
+    },
+    {
+      "start": 2787.15,
+      "end": 2790.01,
+      "text": "that you heard on this show over the years, but a live one."
+    },
+    {
+      "start": 2790.37,
+      "end": 2793.25,
+      "text": "We've done a lot of good live stuff on this show over the years, a lot of it."
+    },
+    {
+      "start": 2793.25,
+      "end": 2796.49,
+      "text": "and it's all in the archives and we can replay most of it,"
+    },
+    {
+      "start": 2796.57,
+      "end": 2799.27,
+      "text": "I think probably about 98% of it contractually."
+    },
+    {
+      "start": 2799.93,
+      "end": 2804.75,
+      "text": "If you have a musical memory, say a Reading, a Donington that we recorded"
+    },
+    {
+      "start": 2804.75,
+      "end": 2807.51,
+      "text": "or a session that we did down the line, anything, right?"
+    },
+    {
+      "start": 2808.37,
+      "end": 2810.03,
+      "text": "Jot it down on a postcard, back of an envelope,"
+    },
+    {
+      "start": 2810.13,
+      "end": 2811.75,
+      "text": "anything you'd like to employ and send it to."
+    },
+    {
+      "start": 2812.55,
+      "end": 2814.99,
+      "text": "Archive, just the archive, right?"
+    },
+    {
+      "start": 2815.29,
+      "end": 2820.97,
+      "text": "BBC, or the Friday Rock Show, BBC Radio 1, London, W1A4WW, okay?"
+    },
+    {
+      "start": 2820.97,
+      "end": 2823.47,
+      "text": "Archive Sessions, call it what you like"
+    },
+    {
+      "start": 2823.47,
+      "end": 2825.21,
+      "text": "just put the word Archive at"
+    },
+    {
+      "start": 2825.21,
+      "end": 2827.43,
+      "text": "Friday Rock Show, BBC Radio 1"
+    },
+    {
+      "start": 2827.43,
+      "end": 2829.19,
+      "text": "London W1A4WW"
+    },
+    {
+      "start": 2829.19,
+      "end": 2831.45,
+      "text": "and next week we'll start digging into"
+    },
+    {
+      "start": 2831.45,
+      "end": 2833.57,
+      "text": "those archives and playing some stuff that you've"
+    },
+    {
+      "start": 2833.57,
+      "end": 2835.47,
+      "text": "requested, that's next week, I don't know what"
+    },
+    {
+      "start": 2835.47,
+      "end": 2837.63,
+      "text": "we're going to do next week, but you can bet your life"
+    },
+    {
+      "start": 2837.63,
+      "end": 2839.09,
+      "text": "it'll be tasty"
+    },
+    {
+      "start": 2839.09,
+      "end": 3349.94,
+      "text": "5 minutes to 11"
+    },
+    {
+      "start": 3349.94,
+      "end": 3354.51,
+      "text": "get on Sunday, some really good classic"
+    },
+    {
+      "start": 3354.51,
+      "end": 3356.61,
+      "text": "concert retreats at 2.30"
+    },
+    {
+      "start": 3356.61,
+      "end": 3358.13,
+      "text": "this coming Sunday, 2.30"
+    },
+    {
+      "start": 3358.13,
+      "end": 3365.65,
+      "text": "classic performances from the past it says here queen from christmas eve 1975 don't miss that"
+    },
+    {
+      "start": 3365.65,
+      "end": 3374.02,
+      "text": "sunday on radio one at 2 30 a classic concert from christmas eve 1975 queen thank you very"
+    },
+    {
+      "start": 3374.02,
+      "end": 3379.18,
+      "text": "much to don cook if he's listening you're taking me to see hawkwind at tunbridge wells had a great"
+    },
+    {
+      "start": 3379.18,
+      "end": 3389.94,
+      "text": "night out says john crandall at paddockwood wood content hello to grant and russell and jock lots"
+    },
+    {
+      "start": 3389.94,
+      "end": 3853.82,
+      "text": "of love from sam and mary and tracy van zandt at springsteen and sun city fame the artist was eric"
+    },
+    {
+      "start": 3853.82,
+      "end": 3857.5,
+      "text": "martin it's a track from an album that's just come out on the music for nations label here"
+    },
+    {
+      "start": 3857.5,
+      "end": 3863.13,
+      "text": "in the uk eric martin is the title of the album to the track was lying at a bed of fire lots of"
+    },
+    {
+      "start": 3863.13,
+      "end": 3868.87,
+      "text": "very good session men on that track including a guy who had hits in the 50s a sax player called"
+    },
+    {
+      "start": 3868.87,
+      "end": 3869.65,
+      "text": "Ernie Watts."
+    },
+    {
+      "start": 3871.0,
+      "end": 3874.14,
+      "text": "And before that, three new guys, a new band in town."
+    },
+    {
+      "start": 3874.3,
+      "end": 3875.94,
+      "text": "They come from Camden Town in London."
+    },
+    {
+      "start": 3876.44,
+      "end": 3877.78,
+      "text": "Three-piece band Bloodsport."
+    },
+    {
+      "start": 3878.34,
+      "end": 3880.16,
+      "text": "And their single is called Agent on Ice."
+    },
+    {
+      "start": 3880.24,
+      "end": 3881.54,
+      "text": "It's on the QSO label."
+    },
+    {
+      "start": 3882.7,
+      "end": 3883.88,
+      "text": "It is now four minutes past 11."
+    },
+    {
+      "start": 3884.08,
+      "end": 3885.56,
+      "text": "It's time to lie back and enjoy it."
+    },
+    {
+      "start": 3887.38,
+      "end": 3890.08,
+      "text": "Three Mr. Music put together tonight, 15 minutes duration."
+    },
+    {
+      "start": 3890.08,
+      "end": 3894.82,
+      "text": "And put together by David Cockbill of Plains Road, Northfield in Birmingham."
+    },
+    {
+      "start": 3895.96,
+      "end": 3897.32,
+      "text": "He says just this in the letter."
+    },
+    {
+      "start": 3897.32,
+      "end": 3900.01,
+      "text": "Dom, I've been listening to you"
+    },
+    {
+      "start": 3900.01,
+      "end": 3902.05,
+      "text": "lie back and enjoy it, the feature on the rock show"
+    },
+    {
+      "start": 3902.05,
+      "end": 3904.09,
+      "text": "I thought it was great, I therefore decided"
+    },
+    {
+      "start": 3904.09,
+      "end": 3906.05,
+      "text": "to send you three of my favourite rock tracks"
+    },
+    {
+      "start": 3906.05,
+      "end": 3908.13,
+      "text": "which are listed below, and the list indeed"
+    },
+    {
+      "start": 3908.13,
+      "end": 3910.09,
+      "text": "is there, most grateful if you could play"
+    },
+    {
+      "start": 3910.09,
+      "end": 3911.75,
+      "text": "these, yours, David Cockville, P.S."
+    },
+    {
+      "start": 3912.51,
+      "end": 3914.05,
+      "text": "whether you play the tracks or not, could you please"
+    },
+    {
+      "start": 3914.05,
+      "end": 3915.49,
+      "text": "say hi to Tina Rhodes"
+    },
+    {
+      "start": 3915.49,
+      "end": 3918.45,
+      "text": "and all the other members of 5T"
+    },
+    {
+      "start": 3918.45,
+      "end": 3920.01,
+      "text": "at Bourneville School"
+    },
+    {
+      "start": 3920.01,
+      "end": 3921.61,
+      "text": "okay, that done, now"
+    },
+    {
+      "start": 3921.61,
+      "end": 3923.47,
+      "text": "David Cockville's choice of music too"
+    },
+    {
+      "start": 3923.47,
+      "end": 3925.85,
+      "text": "lie back and enjoy it too"
+    },
+    {
+      "start": 3925.85,
+      "end": 4600.76,
+      "text": "let him who hath understanding reckon the number of the beast for it is a human number its number"
+    },
+    {
+      "start": 4600.76,
+      "end": 4603.3,
+      "text": "is 660"
+    },
+    {
+      "start": 4603.3,
+      "end": 4889.4,
+      "text": "bit of a classic from iron maiden the number of the beast the title track of an album that came"
+    },
+    {
+      "start": 4889.4,
+      "end": 4898.01,
+      "text": "out in 1982 on the TMI, before that UFO from 1974, Rockabonna. And the first on that set"
+    },
+    {
+      "start": 4898.01,
+      "end": 4902.73,
+      "text": "was by Dio from their album Sacred Heart, like the beat of a harp as the track turned"
+    },
+    {
+      "start": 4902.73,
+      "end": 4908.35,
+      "text": "out in 1985. 20 minutes past 11, that was the Lie Back and Enjoy feature put together"
+    },
+    {
+      "start": 4908.35,
+      "end": 4913.93,
+      "text": "by David Cockmill, rather, of Northfield in Birmingham, who gets himself a £12 record"
+    },
+    {
+      "start": 4913.93,
+      "end": 4920.06,
+      "text": "token. Whatever else we've got, which I don't think is actually a lot at the moment,"
+    },
+    {
+      "start": 4920.06,
+      "end": 4928.13,
+      "text": "Anyway, Mr. Cockrell, thank you very much indeed."
+    },
+    {
+      "start": 4928.43,
+      "end": 4930.17,
+      "text": "Excellent choice of music, good stuff."
+    },
+    {
+      "start": 4930.29,
+      "end": 4934.03,
+      "text": "Anybody fancy the idea of putting together a Lie Back and Enjoy It feature?"
+    },
+    {
+      "start": 4934.77,
+      "end": 4935.37,
+      "text": "Do it."
+    },
+    {
+      "start": 4935.69,
+      "end": 4938.27,
+      "text": "Up to 20 minutes of music, varied artists, please."
+    },
+    {
+      "start": 4939.23,
+      "end": 4942.68,
+      "text": "Send your selection to Lie Back and Enjoy It,"
+    },
+    {
+      "start": 4942.68,
+      "end": 4947.82,
+      "text": "The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4948.8,
+      "end": 4951.68,
+      "text": "Lie Back and Enjoy It, The Friday Rock Show,"
+    },
+    {
+      "start": 4951.68,
+      "end": 4955.8,
+      "text": "BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4956.56,
+      "end": 4959.94,
+      "text": "£12 record token, bit of this, bit of that."
+    },
+    {
+      "start": 4961.0,
+      "end": 4964.38,
+      "text": "But basically the satisfaction of knowing that you've got people in the United Kingdom"
+    },
+    {
+      "start": 4964.38,
+      "end": 4967.0,
+      "text": "and elsewhere to lie back and enjoy it."
+    },
+    {
+      "start": 4967.34,
+      "end": 5543.54,
+      "text": "The name of the band are Striper."
+    },
+    {
+      "start": 5543.68,
+      "end": 5544.42,
+      "text": "They're from California."
+    },
+    {
+      "start": 5544.56,
+      "end": 5547.48,
+      "text": "They call themselves, and I'm sure they are, a Christian rock band."
+    },
+    {
+      "start": 5548.08,
+      "end": 5549.24,
+      "text": "Their album is out in this country."
+    },
+    {
+      "start": 5549.56,
+      "end": 5551.22,
+      "text": "It's called Soldiers Under Command."
+    },
+    {
+      "start": 5551.3,
+      "end": 5553.02,
+      "text": "That track was called The Rock That Makes Me Roll."
+    },
+    {
+      "start": 5553.02,
+      "end": 5556.88,
+      "text": "For my money, I wouldn't care if they're Christian, Jewish, Muslim, agnostic, or atheist."
+    },
+    {
+      "start": 5557.08,
+      "end": 5558.82,
+      "text": "They're a very, very good band."
+    },
+    {
+      "start": 5559.4,
+      "end": 5560.22,
+      "text": "Excellent band."
+    },
+    {
+      "start": 5560.88,
+      "end": 5562.18,
+      "text": "And I hope their album does well."
+    },
+    {
+      "start": 5562.24,
+      "end": 5564.16,
+      "text": "In the States, it's done incredibly well."
+    },
+    {
+      "start": 5564.18,
+      "end": 5565.3,
+      "text": "It's been in the charts for a long time."
+    },
+    {
+      "start": 5565.84,
+      "end": 5567.86,
+      "text": "Striper and Soldiers Under Command."
+    },
+    {
+      "start": 5567.96,
+      "end": 5571.3,
+      "text": "Before that, from our session by them, their debut session, Black Rose."
+    },
+    {
+      "start": 5571.46,
+      "end": 5573.44,
+      "text": "And they say they need a lot of lovin'."
+    },
+    {
+      "start": 5573.44,
+      "end": 5574.52,
+      "text": "And who doesn't in this weather?"
+    },
+    {
+      "start": 5574.88,
+      "end": 5576.68,
+      "text": "Here's a letter from Lisa, Kath, and Linda."
+    },
+    {
+      "start": 5577.2,
+      "end": 5579.88,
+      "text": "And they're from Pontiquimner, I think."
+    },
+    {
+      "start": 5580.06,
+      "end": 5581.34,
+      "text": "I'm bound to have got it wrong."
+    },
+    {
+      "start": 5581.46,
+      "end": 5583.0,
+      "text": "Look at the time of night it is."
+    },
+    {
+      "start": 5583.02,
+      "end": 5587.58,
+      "text": "Anyway, Lisa Kath and Linda, and Miguel Morgan, how are you?"
+    },
+    {
+      "start": 5587.66,
+      "end": 5589.32,
+      "text": "You listen to the show, you like the music."
+    },
+    {
+      "start": 5589.9,
+      "end": 5592.52,
+      "text": "You say it would be great if you could give us a mention."
+    },
+    {
+      "start": 5592.88,
+      "end": 5597.98,
+      "text": "Could you also give a mention to Lloyd Coates for his truly disgusting streak,"
+    },
+    {
+      "start": 5598.46,
+      "end": 5600.38,
+      "text": "the one that he performed for us recently?"
+    },
+    {
+      "start": 5600.94,
+      "end": 5603.58,
+      "text": "Lloyd Coates, that's really filthy of you."
+    },
+    {
+      "start": 5604.04,
+      "end": 5607.9,
+      "text": "How could you run down the high street with nothing on, especially in this cold weather?"
+    },
+    {
+      "start": 5608.14,
+      "end": 5609.38,
+      "text": "Boy, you must be brave."
+    },
+    {
+      "start": 5613.02,
+      "end": 5933.71,
+      "text": "we'll break in the law and for richard was rich as the greasy hippie says if we say hello to chris"
+    },
+    {
+      "start": 5933.71,
+      "end": 5940.84,
+      "text": "harry harrison of stevenage on friday the 10th of january as it is his 18th birthday"
+    },
+    {
+      "start": 5940.84,
+      "end": 5945.76,
+      "text": "well happy birthday hope it's a good one we won't get chucked out of any pubs anymore"
+    },
+    {
+      "start": 5945.76,
+      "end": 5951.38,
+      "text": "lucky boy lots of thanks too to Saul for not telling us that Maiden were playing the marquee"
+    },
+    {
+      "start": 5951.38,
+      "end": 5959.47,
+      "text": "and a very big hello to Don who is the closet headbanger cheers from Jez and Rich and a little"
+    },
+    {
+      "start": 5959.47,
+      "end": 5964.49,
+      "text": "say a little hello rather for Sam I think it's Brown or possibly Bowne I can't read it very well"
+    },
+    {
+      "start": 5964.49,
+      "end": 5973.32,
+      "text": "Snipefield Lane Blackfoot in Somerset everybody thinks he's mental because he likes heavy metal"
+    },
+    {
+      "start": 5973.32,
+      "end": 6754.44,
+      "text": "music mental course not you're discerning status quo from 1977 big fat mama the albums status quo"
+    },
+    {
+      "start": 6754.44,
+      "end": 6763.49,
+      "text": "live before that from double trouble live molly hatchett gator country gator country was for the"
+    },
+    {
+      "start": 6763.49,
+      "end": 6769.33,
+      "text": "fellow who lives in the republic of ireland in county camden garty loft arva i think is the"
+    },
+    {
+      "start": 6769.33,
+      "end": 6773.36,
+      "text": "address there if you always listen to the program doesn't hear a lot of molly hatchett"
+    },
+    {
+      "start": 6773.36,
+      "end": 6777.42,
+      "text": "Well, we've just heard 7 Minutes and 15 Seconds from an excellent double album."
+    },
+    {
+      "start": 6777.54,
+      "end": 6778.88,
+      "text": "It's out on Epic Records, incidentally."
+    },
+    {
+      "start": 6779.2,
+      "end": 6780.72,
+      "text": "Double Trouble Live, Molly Hatchett."
+    },
+    {
+      "start": 6780.9,
+      "end": 6781.24,
+      "text": "Good stuff."
+    },
+    {
+      "start": 6782.04,
+      "end": 6784.15,
+      "text": "It's 9 Minutes to Midnight."
+    },
+    {
+      "start": 6787.42,
+      "end": 6790.26,
+      "text": "Hello to Kay Buckley of South Wales."
+    },
+    {
+      "start": 6791.2,
+      "end": 6793.98,
+      "text": "And now our final one from Black Rose."
+    },
+    {
+      "start": 6794.12,
+      "end": 6794.86,
+      "text": "Easy loving you."
+    },
+    {
+      "start": 6795.5,
+      "end": 7256.56,
+      "text": "It really is."
+    },
+    {
+      "start": 7256.62,
+      "end": 7257.34,
+      "text": "Good rock and roll."
+    },
+    {
+      "start": 7257.4,
+      "end": 7258.14,
+      "text": "Always has been."
+    },
+    {
+      "start": 7258.2,
+      "end": 7258.94,
+      "text": "That is Peter Frampton."
+    },
+    {
+      "start": 7259.02,
+      "end": 7259.76,
+      "text": "That's his latest single."
+    },
+    {
+      "start": 7259.82,
+      "end": 7260.8,
+      "text": "It's just come out in this country."
+    },
+    {
+      "start": 7260.8,
+      "end": 7261.88,
+      "text": "It is called Riot."
+    },
+    {
+      "start": 7262.98,
+      "end": 7264.6,
+      "text": "It's on the Virgin record label."
+    },
+    {
+      "start": 7264.6,
+      "end": 7268.19,
+      "text": "Before that, Black Rose."
+    },
+    {
+      "start": 7268.91,
+      "end": 7270.11,
+      "text": "Last of four from them."
+    },
+    {
+      "start": 7270.25,
+      "end": 7271.55,
+      "text": "Their debut session here on the radio."
+    },
+    {
+      "start": 7271.65,
+      "end": 7272.77,
+      "text": "The track is Easy Lovin' You."
+    },
+    {
+      "start": 7274.17,
+      "end": 7275.15,
+      "text": "Thank you to Black Rose."
+    },
+    {
+      "start": 7275.25,
+      "end": 7277.97,
+      "text": "They are Steve Bardsley, Chris Watson, Malcolm Smith,"
+    },
+    {
+      "start": 7278.11,
+      "end": 7279.31,
+      "text": "Mick Thompson, Gary Todd."
+    },
+    {
+      "start": 7279.49,
+      "end": 7280.17,
+      "text": "Good luck, gents."
+    },
+    {
+      "start": 7283.4,
+      "end": 7284.54,
+      "text": "Next week in the Friday Rock Show,"
+    },
+    {
+      "start": 7284.62,
+      "end": 7286.2,
+      "text": "we'll have a nice archive session for you"
+    },
+    {
+      "start": 7286.2,
+      "end": 7287.74,
+      "text": "and also another session."
+    },
+    {
+      "start": 7288.36,
+      "end": 7288.86,
+      "text": "It'll be good."
+    },
+    {
+      "start": 7290.4,
+      "end": 7298.3,
+      "text": "The Friday Rock Show is a Tony Wilson production."
+    },
+    {
+      "start": 7302.34,
+      "end": 7304.24,
+      "text": "Some of the roads in our country have got a bit of ice"
+    },
+    {
+      "start": 7304.24,
+      "end": 7305.92,
+      "text": "kicking out of some of the realm of tonight."
+    },
+    {
+      "start": 7305.96,
+      "end": 7307.32,
+      "text": "bit of black ice here and there"
+    },
+    {
+      "start": 7307.32,
+      "end": 7308.88,
+      "text": "it's freezing in certain parts"
+    },
+    {
+      "start": 7308.88,
+      "end": 7310.18,
+      "text": "if you're driving, take care"
+    },
+    {
+      "start": 7310.18,
+      "end": 7312.66,
+      "text": "following the Midnight Pepsi"
+    },
+    {
+      "start": 7312.66,
+      "end": 7313.68,
+      "text": "we'll hear on Medium Wave"
+    },
+    {
+      "start": 7313.68,
+      "end": 7315.32,
+      "text": "Radio 1 News on FM Stereo"
+    },
+    {
+      "start": 7315.32,
+      "end": 7316.3,
+      "text": "you'll hear Radio 2"
+    },
+    {
+      "start": 7316.3,
+      "end": 7317.62,
+      "text": "my name is Tommy Vance"
+    },
+    {
+      "start": 7317.62,
+      "end": 7320.0,
+      "text": "on behalf of all the music makers on Radio 1"
+    },
+    {
+      "start": 7320.0,
+      "end": 7320.78,
+      "text": "take care"
+    },
+    {
+      "start": 7320.78,
+      "end": 7321.56,
+      "text": "God bless"
+    },
+    {
+      "start": 7321.56,
+      "end": 7322.18,
+      "text": "good night"
     }
   ]
 }

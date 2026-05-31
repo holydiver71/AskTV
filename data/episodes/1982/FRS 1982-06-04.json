@@ -21,7 +21,8 @@
     {
       "artist": "Y&T",
       "track": "Hungry For Rock",
-      "details": "LP - Earthshaker"
+      "details": "LP - Earthshaker",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Raven",
@@ -36,17 +37,20 @@
     {
       "artist": "Mama's Boys",
       "track": "The Heat Of The Night",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 951.01
     },
     {
       "artist": "Enid",
       "track": "Live Hammersmith Odeon 1979",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5594.36
     },
     {
       "artist": "Randy California",
       "track": "Skull And Crossbones",
-      "details": "LP - Euro American"
+      "details": "LP - Euro American",
+      "verified_timestamp": 2745.42
     },
     {
       "artist": "Mama's Boys",
@@ -56,7 +60,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2064.27
     },
     {
       "artist": null,
@@ -71,22 +76,26 @@
     {
       "artist": "Myofist",
       "track": "Evil Cold",
-      "details": "LP - Thunder In Rock"
+      "details": "LP - Thunder In Rock",
+      "verified_timestamp": 3728.51
     },
     {
       "artist": "Enid",
       "track": "Live Hammersmith Odeon 1979",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5594.36
     },
     {
       "artist": "Doc Holliday",
       "track": "Hot Rod",
-      "details": "LP - Doc Holliday Rides Again"
+      "details": "LP - Doc Holliday Rides Again",
+      "verified_timestamp": 5623.0
     },
     {
       "artist": "Status Quo",
       "track": "'She Don't Fool Me'",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Mama's Boys",

@@ -24,32 +24,38 @@
     {
       "artist": "Keel",
       "track": "Back To The City",
-      "details": "LP-The Right To Rock; Vertigo"
+      "details": "LP-The Right To Rock; Vertigo",
+      "verified_timestamp": 474.53
     },
     {
       "artist": "Kiss",
       "track": "Dance All Over Your Face",
-      "details": "LP-Lick It Up; LABEL"
+      "details": "LP-Lick It Up; LABEL",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Utopia",
       "track": "More Light",
-      "details": "LP-POV; Passport"
+      "details": "LP-POV; Passport",
+      "verified_timestamp": 1076.98
     },
     {
       "artist": "Sergeant",
       "track": "Upside Down",
-      "details": "LP-Sergeant; Camel"
+      "details": "LP-Sergeant; Camel",
+      "verified_timestamp": 1063.32
     },
     {
       "artist": "Snowblind",
       "track": "Hold On",
-      "details": "FRS session 1985-01-25"
+      "details": "FRS session 1985-01-25",
+      "verified_timestamp": 1086.57
     },
     {
       "artist": "Stone Fury",
       "track": "Life Is Too Lonely",
-      "details": "LP-Burns Like A Star; MCA"
+      "details": "LP-Burns Like A Star; MCA",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": null,
@@ -64,12 +70,14 @@
     {
       "artist": "Robin George",
       "track": "Showdown",
-      "details": "LP-Dangerous Music; Bronze"
+      "details": "LP-Dangerous Music; Bronze",
+      "verified_timestamp": 2110.26
     },
     {
       "artist": "Warrior",
       "track": "Fighting For The Earth",
-      "details": "LP-Fighting For The Earth; 10 Records"
+      "details": "LP-Fighting For The Earth; 10 Records",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": null,
@@ -79,7 +87,8 @@
     {
       "artist": "Witchfynde",
       "track": "The Lord Of Sin",
-      "details": "LP-The Lords Of Sin; Mausoleum Records"
+      "details": "LP-The Lords Of Sin; Mausoleum Records",
+      "verified_timestamp": 3055.81
     },
     {
       "artist": null,
@@ -94,7 +103,8 @@
     {
       "artist": "TNT",
       "track": "Seven Seas",
-      "details": "LP-Knights Of The New Thunder; Vertigo"
+      "details": "LP-Knights Of The New Thunder; Vertigo",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Snowblind",
@@ -104,12 +114,14 @@
     {
       "artist": "Slade",
       "track": "Hey Ho Wish You Well",
-      "details": "LP-Rogues Gallery; RCA"
+      "details": "LP-Rogues Gallery; RCA",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Emerson Lake & Palmer",
       "track": "Lucky Man",
-      "details": "LP-Emerson Lake & Palmer; Island"
+      "details": "LP-Emerson Lake & Palmer; Island",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "White Sister",
@@ -124,12 +136,14 @@
     {
       "artist": "Madam X",
       "track": "High In High School",
-      "details": "7\" Single from We Reserve The Right; Jet"
+      "details": "7\" Single from We Reserve The Right; Jet",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Judas Priest",
       "track": "'Burnin' Up' (LP-Killing Machine) (CBS)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5221.86
     }
   ],
   "transcript": [

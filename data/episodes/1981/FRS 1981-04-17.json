@@ -30,7 +30,8 @@
     {
       "artist": "Hawkwind",
       "track": "Master Of The Universe",
-      "details": "LP-X In Search Of Space; United Artists"
+      "details": "LP-X In Search Of Space; United Artists",
+      "verified_timestamp": 808.14
     },
     {
       "artist": "Cactus",
@@ -40,17 +41,20 @@
     {
       "artist": "Rolling Stones",
       "track": "Bitch",
-      "details": "LP-Sticky Fingers; Rolling Stones"
+      "details": "LP-Sticky Fingers; Rolling Stones",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Doors",
       "track": "Been Down So Long",
-      "details": "LP-L.A. Woman; Elektra"
+      "details": "LP-L.A. Woman; Elektra",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Barclay James Harvest",
       "track": "Galadriel",
-      "details": "Harris Session"
+      "details": "Harris Session",
+      "verified_timestamp": 1422.75
     },
     {
       "artist": "Barclay James Harvest",
@@ -60,27 +64,32 @@
     {
       "artist": "T. Rex",
       "track": "The Motivator",
-      "details": "LP-Electric Warrior; Fly"
+      "details": "LP-Electric Warrior; Fly",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Pink Floyd",
       "track": "One of These Days",
-      "details": "LP-Meddle; Harvest"
+      "details": "LP-Meddle; Harvest",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Led Zeppelin",
       "track": "Rock And Roll",
-      "details": "LP-Led Zeppelin IV; Atlantic"
+      "details": "LP-Led Zeppelin IV; Atlantic",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Black Sabbath",
       "track": "Children Of the Grave",
-      "details": "LP-Master Of Reality; Vertigo"
+      "details": "LP-Master Of Reality; Vertigo",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Pretty Things",
       "track": "Stone-Hearted Mama",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 2999.24
     },
     {
       "artist": "Pretty Things",
@@ -90,22 +99,26 @@
     {
       "artist": "Alice Cooper",
       "track": "Halo Of Flies",
-      "details": "LP-Killer; Warner Bros."
+      "details": "LP-Killer; Warner Bros.",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Janis Joplin",
       "track": "Move Over",
-      "details": "LP-Pearl; Columbia"
+      "details": "LP-Pearl; Columbia",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "Yes",
       "track": "Starship Trooper",
-      "details": "LP-The Yes Album; Atlantic"
+      "details": "LP-The Yes Album; Atlantic",
+      "verified_timestamp": 4820.45
     },
     {
       "artist": "Uriah Heep",
       "track": "Look At Yourself",
-      "details": "Drummond Session"
+      "details": "Drummond Session",
+      "verified_timestamp": 4905.05
     },
     {
       "artist": "Uriah Heep",
@@ -120,17 +133,20 @@
     {
       "artist": "Free",
       "track": "Fire And Water",
-      "details": "LP-Free Live; Island"
+      "details": "LP-Free Live; Island",
+      "verified_timestamp": 6484.94
     },
     {
       "artist": "Genesis",
       "track": "The Fountain Of Salmacis",
-      "details": "LP-Nursery Cryme; Charisma"
+      "details": "LP-Nursery Cryme; Charisma",
+      "verified_timestamp": 6473.2
     },
     {
       "artist": "Wishbone Ash",
       "track": "Blind Eye",
-      "details": "Henry Session"
+      "details": "Henry Session",
+      "verified_timestamp": 6538.07
     },
     {
       "artist": "Wishbone Ash",

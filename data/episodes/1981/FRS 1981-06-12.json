@@ -33,12 +33,14 @@
     {
       "artist": "Joe Walsh",
       "track": "Turn To Stone",
-      "details": "LP-Barnstorm; Probe"
+      "details": "LP-Barnstorm; Probe",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Hawkwind",
       "track": "Lord Of Light",
-      "details": "LP-Doremi Fasol Latido; United Artists"
+      "details": "LP-Doremi Fasol Latido; United Artists",
+      "verified_timestamp": 802.27
     },
     {
       "artist": "David Bowie",
@@ -48,7 +50,8 @@
     {
       "artist": "David Bowie",
       "track": "Suffragette City",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Status Quo",
@@ -63,12 +66,14 @@
     {
       "artist": "Yes",
       "track": "And You And I",
-      "details": "LP-Close To The Edge; Atlantic"
+      "details": "LP-Close To The Edge; Atlantic",
+      "verified_timestamp": 2455.68
     },
     {
       "artist": "Thin Lizzy",
       "track": "Black Boys On The Corner",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 2550.3
     },
     {
       "artist": "Thin Lizzy",
@@ -88,17 +93,20 @@
     {
       "artist": "Kevin Ayers",
       "track": "Stranger In Blue Suede Shoes",
-      "details": "LP-Whatevershebringswesing; Harvest"
+      "details": "LP-Whatevershebringswesing; Harvest",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Barclay James Harvest",
       "track": "Thank You",
-      "details": "LP-Baby James Harvest; Harvest"
+      "details": "LP-Baby James Harvest; Harvest",
+      "verified_timestamp": 3121.81
     },
     {
       "artist": "Heads Hands & Feet",
       "track": "Hot Property",
-      "details": "Harris Session"
+      "details": "Harris Session",
+      "verified_timestamp": 4248.15
     },
     {
       "artist": "Heads Hands & Feet",
@@ -108,27 +116,32 @@
     {
       "artist": "Black Sabbath",
       "track": "Snowblind",
-      "details": "LP-Black Sabbath Vol. 4; Vertigo"
+      "details": "LP-Black Sabbath Vol. 4; Vertigo",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Emerson, Lake & Palmer",
       "track": "The Endless Enigma (Part 1)",
-      "details": "LP-Trilogy; Island"
+      "details": "LP-Trilogy; Island",
+      "verified_timestamp": 5958.28
     },
     {
       "artist": "Deep Purple",
       "track": "Smoke On The Water",
-      "details": "2xLP-Made In Japan; Purple"
+      "details": "2xLP-Made In Japan; Purple",
+      "verified_timestamp": 4907.36
     },
     {
       "artist": "Roxy Music",
       "track": "Chance Meeting",
-      "details": "Peel Session #2"
+      "details": "Peel Session #2",
+      "verified_timestamp": 1797.84
     },
     {
       "artist": "Roxy Music",
       "track": "Virginia Plain",
-      "details": "Peel Session #3"
+      "details": "Peel Session #3",
+      "verified_timestamp": 1797.84
     },
     {
       "artist": "Little Feat",
@@ -138,7 +151,8 @@
     {
       "artist": "Ten Years After",
       "track": "Religion",
-      "details": "LP-Rock & Roll Music To The World; Chrysalis"
+      "details": "LP-Rock & Roll Music To The World; Chrysalis",
+      "verified_timestamp": 6660.0
     }
   ],
   "transcript": [

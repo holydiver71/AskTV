@@ -17,7 +17,8 @@
     {
       "artist": "UFO",
       "track": "Doctor Doctor (LP - Strangers In The Night) Chrysalis #",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5479.16
     },
     {
       "artist": "Thin Lizzy",
@@ -32,7 +33,8 @@
     {
       "artist": "Magnum",
       "track": "Back To Earth (double 7\") Jet #",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5479.16
     },
     {
       "artist": "Eddie Money",
@@ -42,7 +44,8 @@
     {
       "artist": "Yes",
       "track": "Release, Release (LP - Tormato) Atlantic",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5479.16
     },
     {
       "artist": "Heavy Pettin",
@@ -57,7 +60,8 @@
     {
       "artist": "Diamond Head",
       "track": "In The Heat Of The Night (2 x 7\") MCA #",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Led Zeppelin",
@@ -67,7 +71,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3288.63
     },
     {
       "artist": "Heavy Pettin",
@@ -87,7 +92,8 @@
     {
       "artist": "Rainbow",
       "track": "Difficult To Cure (Beethoven's Ninth) (LP - Difficult To Cure) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5479.16
     },
     {
       "artist": "Venom",
@@ -97,7 +103,8 @@
     {
       "artist": "Heavy Pettin",
       "track": "Hell Is Beautiful",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 826.83
     },
     {
       "artist": "Deep Purple",

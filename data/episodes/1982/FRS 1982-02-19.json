@@ -35,17 +35,20 @@
     {
       "artist": "Chieftains",
       "track": "\"Samhradh, Samhradh (Summertime, Summertime)\" (LP - Chieftains 5) Claddagh",
-      "details": null
+      "details": null,
+      "verified_timestamp": 658.21
     },
     {
       "artist": "Mama's Boys",
       "track": "Straight Forward",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 691.6
     },
     {
       "artist": "Mama's Boys",
       "track": "Belfast City Blues",
-      "details": "session - also to be released shortly as a single"
+      "details": "session - also to be released shortly as a single",
+      "verified_timestamp": 691.6
     },
     {
       "artist": "Them",
@@ -60,7 +63,8 @@
     {
       "artist": "Rory Gallagher",
       "track": "Tatooed Lady",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1953.81
     },
     {
       "artist": "Rory Gallagher",
@@ -75,7 +79,8 @@
     {
       "artist": "Sweet Savage",
       "track": "Queen's Vengeance",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 3145.95
     },
     {
       "artist": "Sweet Savage",
@@ -85,7 +90,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 58.98
     },
     {
       "artist": "Horslips",
@@ -110,7 +116,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Little Girl In Bloom",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 660.59
     },
     {
       "artist": "Thin Lizzy",
@@ -125,7 +132,8 @@
     {
       "artist": "Eire Apparent",
       "track": "Rock n Roll Band",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 6400.94
     },
     {
       "artist": "Sweet Savage",

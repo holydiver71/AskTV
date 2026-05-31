@@ -19,32 +19,38 @@
     {
       "artist": "AC/DC",
       "track": "Jailbreak",
-      "details": "7\"; Atlantic"
+      "details": "7\"; Atlantic",
+      "verified_timestamp": 19.04
     },
     {
       "artist": "Jimi Hendrix Experience",
       "track": "Stone Free",
-      "details": "LP-Smash Hits; Track"
+      "details": "LP-Smash Hits; Track",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "ZZ Top",
       "track": "La Grange",
-      "details": "LP-Tres Hombres; London"
+      "details": "LP-Tres Hombres; London",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Edgar Winter",
       "track": "Tobacco Road",
-      "details": "LP-Entrance; CBS"
+      "details": "LP-Entrance; CBS",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Hawkwind",
       "track": "Motorway City",
-      "details": "LP-Live Seventy Nine; Bronze"
+      "details": "LP-Live Seventy Nine; Bronze",
+      "verified_timestamp": 1103.73
     },
     {
       "artist": "Def Leppard",
       "track": "Rock Of Ages",
-      "details": "LP-Pyromania; Vertigo"
+      "details": "LP-Pyromania; Vertigo",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Van Der Graaf Generator",
@@ -59,52 +65,1384 @@
     {
       "artist": "Tommy Bolin",
       "track": "Teaser",
-      "details": "LP-Teaser; Atlantic"
+      "details": "LP-Teaser; Atlantic",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Montrose",
       "track": "Space Station No. 5",
-      "details": "LP-Montrose; Warner Bros."
+      "details": "LP-Montrose; Warner Bros.",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Elvis Presley",
       "track": "Hound Dog",
-      "details": "2xLP-Elvis Forever - 32 Great Tracks; RCA"
+      "details": "2xLP-Elvis Forever - 32 Great Tracks; RCA",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Propaganda",
       "track": "Duel",
-      "details": "LP-A Secret Wish; ZTT"
+      "details": "LP-A Secret Wish; ZTT",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Rainbow",
       "track": "Since You Been Gone",
-      "details": "LP-Down To Earth; Polydor"
+      "details": "LP-Down To Earth; Polydor",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Status Quo",
       "track": "Whatever You Want",
-      "details": "LP-Whatever You Want; Vertigo"
+      "details": "LP-Whatever You Want; Vertigo",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Deep Purple",
       "track": "Fireball",
-      "details": "LP-Fireball; Harvest"
+      "details": "LP-Fireball; Harvest",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Emerson, Lake & Powell",
       "track": "Learning To Fly",
-      "details": "LP-Emerson, Lake & Powell; Polydor"
+      "details": "LP-Emerson, Lake & Powell; Polydor",
+      "verified_timestamp": 6353.26
     },
     {
       "artist": "Bruce Springsteen",
       "track": "Dancing In The Dark",
-      "details": "LP-Born In The U.S.A.; CBS"
+      "details": "LP-Born In The U.S.A.; CBS",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Cream",
       "track": "White Room",
-      "details": "LP-Best Of Cream; Polydor"
+      "details": "LP-Best Of Cream; Polydor",
+      "verified_timestamp": 7020.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.04,
+      "end": 19.04,
+      "text": "Hello, this is Ian Gillan once again on the Friday Rock Show. We've got lots of very, very good stuff for you tonight. ZZ Top, Hawkwind, Def Leppard, Cream, Springsteen, and we're going to be playing quite a bit of stuff from the Gillan performance at the Reading Festival in 1980. And we're going to kick off with AC DC."
+    },
+    {
+      "start": 19.04,
+      "end": 277.41,
+      "text": "Well, that was ACDC and Jailbreak, Bond's version."
+    },
+    {
+      "start": 277.41,
+      "end": 279.67,
+      "text": "That was a special request for Ross McEwan,"
+    },
+    {
+      "start": 279.67,
+      "end": 282.97,
+      "text": "who wants to say hi to all the Tane rockers"
+    },
+    {
+      "start": 282.97,
+      "end": 284.31,
+      "text": "and a special hello to Karen"
+    },
+    {
+      "start": 284.31,
+      "end": 287.69,
+      "text": "and tell her that he's lonely since she left."
+    },
+    {
+      "start": 288.39,
+      "end": 291.85,
+      "text": "Also says to Tommy that the ACDC special was great"
+    },
+    {
+      "start": 291.85,
+      "end": 293.55,
+      "text": "and tell me is there any truth in the rumour"
+    },
+    {
+      "start": 293.55,
+      "end": 296.63,
+      "text": "that ACDC will soon be releasing a new LP on video."
+    },
+    {
+      "start": 296.79,
+      "end": 298.09,
+      "text": "Well, you'll have to wait till Tommy comes back"
+    },
+    {
+      "start": 298.09,
+      "end": 299.29,
+      "text": "and maybe I'll give you the answer to that."
+    },
+    {
+      "start": 299.95,
+      "end": 303.53,
+      "text": "Other ACDC requests came from Teggy, who's 14, in Durham"
+    },
+    {
+      "start": 303.53,
+      "end": 308.17,
+      "text": "and she wants to mention DA, Leon, AD, Husey and Bowder"
+    },
+    {
+      "start": 308.17,
+      "end": 309.43,
+      "text": "and tell them that wasn't it hard?"
+    },
+    {
+      "start": 309.67,
+      "end": 311.07,
+      "text": "to get my letter read out."
+    },
+    {
+      "start": 311.59,
+      "end": 312.45,
+      "text": "Oh, it wasn't that hard."
+    },
+    {
+      "start": 312.63,
+      "end": 313.85,
+      "text": "Well, you're right, actually, Teggy."
+    },
+    {
+      "start": 314.51,
+      "end": 316.45,
+      "text": "Here's another letter from Robert Pyatt, in fact,"
+    },
+    {
+      "start": 316.49,
+      "end": 318.05,
+      "text": "who wanted an ACDC record"
+    },
+    {
+      "start": 318.05,
+      "end": 321.73,
+      "text": "dedicated to the sexiest rocker in Down Ampney,"
+    },
+    {
+      "start": 321.85,
+      "end": 323.25,
+      "text": "and her name is Louise Brandon."
+    },
+    {
+      "start": 323.39,
+      "end": 324.33,
+      "text": "Can't wait to meet you, Louise."
+    },
+    {
+      "start": 324.89,
+      "end": 326.37,
+      "text": "Well, there's a lot of requests here,"
+    },
+    {
+      "start": 326.41,
+      "end": 328.67,
+      "text": "because last week I was talking to Roger,"
+    },
+    {
+      "start": 328.81,
+      "end": 330.47,
+      "text": "and we were..."
+    },
+    {
+      "start": 330.47,
+      "end": 332.31,
+      "text": "Well, I'm still in the same room, by the way,"
+    },
+    {
+      "start": 332.39,
+      "end": 334.29,
+      "text": "but Roger's still down the pub,"
+    },
+    {
+      "start": 334.29,
+      "end": 336.17,
+      "text": "and we're going to catch up on the requests this week."
+    },
+    {
+      "start": 337.03,
+      "end": 339.43,
+      "text": "Somebody wants Jimi Hendrix, and it's Curly Stoneman."
+    },
+    {
+      "start": 339.43,
+      "end": 340.85,
+      "text": "and I'm quite happy to play Jimi Hendrix,"
+    },
+    {
+      "start": 340.93,
+      "end": 342.81,
+      "text": "and here's Stone Free for you, Curly."
+    },
+    {
+      "start": 368.98,
+      "end": 369.98,
+      "text": "Lock of the stone"
+    },
+    {
+      "start": 369.98,
+      "end": 422.13,
+      "text": "Listen to this beat"
+    },
+    {
+      "start": 422.13,
+      "end": 440.29,
+      "text": "I'm glad that I'm hot"
+    },
+    {
+      "start": 440.29,
+      "end": 443.55,
+      "text": "I can feel my heart kind of running hot"
+    },
+    {
+      "start": 443.55,
+      "end": 558.66,
+      "text": "There you go, Curly."
+    },
+    {
+      "start": 558.96,
+      "end": 561.08,
+      "text": "There's Jimi Hendrix for you, and that was Stone Free."
+    },
+    {
+      "start": 562.0,
+      "end": 564.9,
+      "text": "Here's a cryptic message for a very special person."
+    },
+    {
+      "start": 565.06,
+      "end": 567.98,
+      "text": "We will soon be together again from Bix Box,"
+    },
+    {
+      "start": 568.1,
+      "end": 569.96,
+      "text": "and then you want a ZZ Top track."
+    },
+    {
+      "start": 570.02,
+      "end": 570.86,
+      "text": "You asked for Eliminator,"
+    },
+    {
+      "start": 570.86,
+      "end": 573.02,
+      "text": "but we're going to meet you halfway on this one"
+    },
+    {
+      "start": 573.02,
+      "end": 575.06,
+      "text": "because I prefer to play La Grange."
+    },
+    {
+      "start": 584.7,
+      "end": 797.12,
+      "text": "and that was ZZ Top"
+    },
+    {
+      "start": 797.12,
+      "end": 799.44,
+      "text": "and that was for Bix Box"
+    },
+    {
+      "start": 799.44,
+      "end": 802.7,
+      "text": "who will be soon together again with a very special person."
+    },
+    {
+      "start": 803.94,
+      "end": 804.88,
+      "text": "This is Ian Gillan."
+    },
+    {
+      "start": 804.96,
+      "end": 806.84,
+      "text": "I'm in Stowe, Vermont, doing the Friday Rock Show"
+    },
+    {
+      "start": 806.84,
+      "end": 808.48,
+      "text": "for Tommy, who's away on holiday at the moment."
+    },
+    {
+      "start": 809.22,
+      "end": 811.84,
+      "text": "And I'm going to slip a request in for myself now."
+    },
+    {
+      "start": 811.94,
+      "end": 815.2,
+      "text": "This is, in fact, I always enjoy doing a bit of screaming."
+    },
+    {
+      "start": 815.34,
+      "end": 816.7,
+      "text": "Here's a man who can really scream."
+    },
+    {
+      "start": 816.8,
+      "end": 818.0,
+      "text": "It's from the Entrance LP,"
+    },
+    {
+      "start": 818.66,
+      "end": 821.9,
+      "text": "and it's Edgar Winton's classic version of Tobacco Road."
+    },
+    {
+      "start": 821.9,
+      "end": 858.78,
+      "text": "my mammy left me here to die or grow in the middle of tobacco"
+    },
+    {
+      "start": 858.78,
+      "end": 873.53,
+      "text": "i grew up in a rusty shack well all i owned was a hanging on my back"
+    },
+    {
+      "start": 873.53,
+      "end": 876.72,
+      "text": "Lord knows"
+    },
+    {
+      "start": 876.72,
+      "end": 881.95,
+      "text": "How this"
+    },
+    {
+      "start": 881.95,
+      "end": 884.32,
+      "text": "Tobacco"
+    },
+    {
+      "start": 884.32,
+      "end": 912.74,
+      "text": "Talking about the honor"
+    },
+    {
+      "start": 912.74,
+      "end": 916.9,
+      "text": "Get a job"
+    },
+    {
+      "start": 916.9,
+      "end": 919.24,
+      "text": "Now with that"
+    },
+    {
+      "start": 919.24,
+      "end": 926.44,
+      "text": "Gonna save my money"
+    },
+    {
+      "start": 926.44,
+      "end": 929.34,
+      "text": "Get rich I know"
+    },
+    {
+      "start": 929.34,
+      "end": 933.95,
+      "text": "Bring it back to tobacco"
+    },
+    {
+      "start": 933.95,
+      "end": 938.98,
+      "text": "Bring dynamite"
+    },
+    {
+      "start": 938.98,
+      "end": 944.07,
+      "text": "Blow it up"
+    },
+    {
+      "start": 944.07,
+      "end": 958.73,
+      "text": "over again i'm gonna build me a town i'll be proud to show i think i'll keep the name of tobacco"
+    },
+    {
+      "start": 958.73,
+      "end": 999.99,
+      "text": "but i love you tobacco road you're dirty and you're filthy gonna get me some dynamite"
+    },
+    {
+      "start": 999.99,
+      "end": 1073.47,
+      "text": "what a voice that was tobacco road from edgar winter and uh this is ian gillan on the friday"
+    },
+    {
+      "start": 1073.47,
+      "end": 1077.23,
+      "text": "rock show i'm doing this from stowe in vermont where deep purple are recording an album at the"
+    },
+    {
+      "start": 1077.23,
+      "end": 1082.05,
+      "text": "moment and uh well let's face it someone's got to do it here's a letter from sharon mcbeth from"
+    },
+    {
+      "start": 1082.05,
+      "end": 1087.93,
+      "text": "Johnston in Renfrewshire Scotland says hi my name is Sharon I'm writing on behalf of my boyfriend"
+    },
+    {
+      "start": 1087.93,
+      "end": 1093.11,
+      "text": "Alfie Patton who's in jail just now but he asked me to write to you and ask if you please play some"
+    },
+    {
+      "start": 1093.11,
+      "end": 1097.65,
+      "text": "Hawkwind on your show he listens to your show every Friday and be very pleased if you would"
+    },
+    {
+      "start": 1097.65,
+      "end": 1103.73,
+      "text": "play any one of these tracks okay so Sharon and Alfie here is for you from the live 79 album"
+    },
+    {
+      "start": 1103.73,
+      "end": 1608.2,
+      "text": "Motorway City that was Motorway City from Hawkwind on the live 79 album oh they've been around for"
+    },
+    {
+      "start": 1608.2,
+      "end": 1611.2,
+      "text": "I wonder what ever happened to that girl that used to dance with him."
+    },
+    {
+      "start": 1611.2,
+      "end": 1613.2,
+      "text": "What was her name? Stacey? Stacey or something like that."
+    },
+    {
+      "start": 1613.2,
+      "end": 1617.2,
+      "text": "Well, you can write and let Tommy know. I'm sure he'll keep me informed."
+    },
+    {
+      "start": 1617.2,
+      "end": 1619.2,
+      "text": "Here's a letter from Sean Starkings in Hull."
+    },
+    {
+      "start": 1619.2,
+      "end": 1623.2,
+      "text": "It says, ''Dear Tommy, I hear very little by Def Leppard on your show."
+    },
+    {
+      "start": 1623.2,
+      "end": 1626.2,
+      "text": "''Will you please play something by them for my friend Kirsty?"
+    },
+    {
+      "start": 1626.2,
+      "end": 1629.2,
+      "text": "''Tell her that I love her and cannot stop thinking about her.''"
+    },
+    {
+      "start": 1629.2,
+      "end": 1632.2,
+      "text": "Well, OK, here is Def Leppard,"
+    },
+    {
+      "start": 1632.2,
+      "end": 1634.2,
+      "text": "in fact, recording a new album in Ireland at the moment,"
+    },
+    {
+      "start": 1634.2,
+      "end": 1637.2,
+      "text": "and don't forget, on the Donington show this year,"
+    },
+    {
+      "start": 1637.2,
+      "end": 1640.68,
+      "text": "donnington show this year so you've got to get along and see that this is from the pyromania"
+    },
+    {
+      "start": 1640.68,
+      "end": 1893.14,
+      "text": "album and it's called rock of ages and that was deaf leopard and rock of ages great production"
+    },
+    {
+      "start": 1893.14,
+      "end": 1897.8,
+      "text": "by mutt langer i think they managed to get a sensational sound on their records uh don't"
+    },
+    {
+      "start": 1897.8,
+      "end": 1902.72,
+      "text": "forget you've got to catch deaf leopard with ozzy and the scorpions at donnington in august uh one"
+    },
+    {
+      "start": 1902.72,
+      "end": 1907.72,
+      "text": "of the great british rock festivals in fact i've got a great special section in my heart for"
+    },
+    {
+      "start": 1907.72,
+      "end": 1913.12,
+      "text": "british rock festivals and all you guys who go out there i remember at nebworth last year looking"
+    },
+    {
+      "start": 1913.12,
+      "end": 1919.13,
+      "text": "out in the audience and sort of seem to know every single one of you by name and by face i'm sure i've"
+    },
+    {
+      "start": 1919.13,
+      "end": 1923.71,
+      "text": "met you all at some stage on a street corner or backstage somewhere over the last few years well"
+    },
+    {
+      "start": 1923.71,
+      "end": 1929.29,
+      "text": "the last hundred years i've got a letter here which i'm gonna take great delight in playing"
+    },
+    {
+      "start": 1929.29,
+      "end": 1936.97,
+      "text": "while thomas is away on holiday says it's from g bluff yours most creepingly uh next time you're"
+    },
+    {
+      "start": 1936.97,
+      "end": 1942.41,
+      "text": "in leeds i'll buy you a beer so i'm gonna claim the beer on this one says dear mr vance please"
+    },
+    {
+      "start": 1942.41,
+      "end": 1947.21,
+      "text": "please, please, please, please, please play Theme 1 by the Van de Graaff Generator from beginning to"
+    },
+    {
+      "start": 1947.21,
+      "end": 1953.43,
+      "text": "end with no interruptions. Well, Tommy uses this to talk over most of the time, so whilst he's away,"
+    },
+    {
+      "start": 1953.53,
+      "end": 1956.91,
+      "text": "I'm going to take the opportunity of playing it for you all the way through. So here it is,"
+    },
+    {
+      "start": 1956.97,
+      "end": 2136.5,
+      "text": "Theme 1, Van de Graaff Generator. Okay, for Mr. G Bluff and everyone else who wanted to hear it,"
+    },
+    {
+      "start": 2136.54,
+      "end": 2143.02,
+      "text": "that was Theme 1 all the way through, no interruptions. Okay? Fine. This is Ian Gillan"
+    },
+    {
+      "start": 2143.02,
+      "end": 2147.12,
+      "text": "sitting in for tommy vance on the friday rock show now we're talking about festivals a little"
+    },
+    {
+      "start": 2147.12,
+      "end": 2151.06,
+      "text": "while ago and tommy insisted that i play this section and i must admit i'm getting quite"
+    },
+    {
+      "start": 2151.06,
+      "end": 2157.32,
+      "text": "excited about it now this is the reading 1980 show by gillen and what was it that's six years ago"
+    },
+    {
+      "start": 2157.32,
+      "end": 2163.46,
+      "text": "and uh i've not heard the tape since festivals an incredible thing i've been going through a"
+    },
+    {
+      "start": 2163.46,
+      "end": 2167.9,
+      "text": "fairly bad time what i call the dark ages of rock and roll we've been enjoying ourselves playing"
+    },
+    {
+      "start": 2167.9,
+      "end": 2173.24,
+      "text": "what we thought was great music but i think uh 79 80 the gillen band suddenly started to get some"
+    },
+    {
+      "start": 2173.24,
+      "end": 2177.88,
+      "text": "success and some hit records again and uh i can't remember if this was the one where i actually came"
+    },
+    {
+      "start": 2177.88,
+      "end": 2184.12,
+      "text": "on the wrong stage and the band was set up because redding has two stages but uh it i got great fond"
+    },
+    {
+      "start": 2184.12,
+      "end": 2188.62,
+      "text": "memories i think we did about four redding shows and uh let's face it you were all there as well"
+    },
+    {
+      "start": 2188.62,
+      "end": 2193.8,
+      "text": "you made it great so i'm going to sit back and enjoy this hope you hope you do too and well here"
+    },
+    {
+      "start": 2193.8,
+      "end": 4444.55,
+      "text": "we are reading 1980 the Gillen band brings back some memories reading 1980"
+    },
+    {
+      "start": 4444.55,
+      "end": 4447.61,
+      "text": "that's the Gillen band and some of those things I haven't heard for a long time"
+    },
+    {
+      "start": 4447.61,
+      "end": 4452.21,
+      "text": "mr. universe if you believe me was there trouble and chain your brain vengeance"
+    },
+    {
+      "start": 4452.21,
+      "end": 4456.36,
+      "text": "and of course smoke in the water which we're still playing with different band"
+    },
+    {
+      "start": 4456.36,
+      "end": 4461.96,
+      "text": "but same tune well back to request here we've got a whole pile of things to get"
+    },
+    {
+      "start": 4461.96,
+      "end": 4466.96,
+      "text": "through. This is from Benny the Bouncer in Edinburgh, who's got a whole list of songs"
+    },
+    {
+      "start": 4466.96,
+      "end": 4471.02,
+      "text": "here he's been asking for, and he wants them dedicated to two very good mates, Adam Brown"
+    },
+    {
+      "start": 4471.02,
+      "end": 4476.72,
+      "text": "of Edinburgh, and Ian Gillan's mobile mic stand in Elgin, whoever that may be. I'll"
+    },
+    {
+      "start": 4476.72,
+      "end": 4481.26,
+      "text": "buy you a drink one day. Well, you've got a list here, and I think the one I'm going"
+    },
+    {
+      "start": 4481.26,
+      "end": 4745.71,
+      "text": "to choose is Tommy Bolin and Teaser. That was Teaser from Tommy Bolin, who of course"
+    },
+    {
+      "start": 4745.71,
+      "end": 4750.97,
+      "text": "was the last guitarist with the final line-up of Deep Purple."
+    },
+    {
+      "start": 4751.11,
+      "end": 4752.75,
+      "text": "Tommy is now in the great rock-and-roll sky."
+    },
+    {
+      "start": 4753.71,
+      "end": 4754.75,
+      "text": "Wonderful, wonderful player."
+    },
+    {
+      "start": 4755.7,
+      "end": 4757.54,
+      "text": "I've got so many requests here,"
+    },
+    {
+      "start": 4757.62,
+      "end": 4760.1,
+      "text": "and I've got loads of bits of paper I've made notes on."
+    },
+    {
+      "start": 4760.18,
+      "end": 4762.96,
+      "text": "I'm looking out of the door in my little room here in Stove, Vermont,"
+    },
+    {
+      "start": 4763.54,
+      "end": 4765.38,
+      "text": "and there's a big, big trash can."
+    },
+    {
+      "start": 4765.56,
+      "end": 4766.98,
+      "text": "That's what they call dustbins in America."
+    },
+    {
+      "start": 4767.76,
+      "end": 4769.78,
+      "text": "And I've been, for the last week or so,"
+    },
+    {
+      "start": 4769.88,
+      "end": 4773.44,
+      "text": "throwing bits of paper and Coke cans and goodness knows what at it,"
+    },
+    {
+      "start": 4773.44,
+      "end": 4775.86,
+      "text": "and it's an empty dustbin surrounded by litter."
+    },
+    {
+      "start": 4776.0,
+      "end": 4778.62,
+      "text": "There's a pile... I haven't... I'm a useless shot."
+    },
+    {
+      "start": 4778.82,
+      "end": 4780.16,
+      "text": "I've got to start practising."
+    },
+    {
+      "start": 4781.14,
+      "end": 4781.98,
+      "text": "Oh, here's another letter."
+    },
+    {
+      "start": 4782.7,
+      "end": 4785.33,
+      "text": "This is from Fiona, who says,"
+    },
+    {
+      "start": 4785.41,
+      "end": 4788.15,
+      "text": "Dear Tommy, can you play Montrose, Space Station No. 5,"
+    },
+    {
+      "start": 4788.25,
+      "end": 4790.27,
+      "text": "for my husband, Ozzy, who's in Winchester, Nick,"
+    },
+    {
+      "start": 4790.35,
+      "end": 4791.37,
+      "text": "doing a nine-month stretch?"
+    },
+    {
+      "start": 4792.15,
+      "end": 4794.69,
+      "text": "Can you tell him that our son, his mates and most of all me"
+    },
+    {
+      "start": 4794.69,
+      "end": 4796.35,
+      "text": "are missing him and keeping our fingers crossed?"
+    },
+    {
+      "start": 4796.35,
+      "end": 4798.41,
+      "text": "Cheers, Fiona. And there's a kiss there."
+    },
+    {
+      "start": 4799.01,
+      "end": 4799.55,
+      "text": "Well, here we go."
+    },
+    {
+      "start": 4799.65,
+      "end": 4802.45,
+      "text": "Sammy Hagar, Montrose and Space Station No. 5."
+    },
+    {
+      "start": 4802.45,
+      "end": 5121.03,
+      "text": "Space Station No. 5 from Montrose"
+    },
+    {
+      "start": 5121.03,
+      "end": 5124.73,
+      "text": "and Sammy Hager, who is of course now the singer with Van Halen"
+    },
+    {
+      "start": 5124.73,
+      "end": 5126.05,
+      "text": "and that was for Fiona"
+    },
+    {
+      "start": 5126.05,
+      "end": 5129.23,
+      "text": "and a request for Ozzy, who's in Winchester, Nick"
+    },
+    {
+      "start": 5129.23,
+      "end": 5131.27,
+      "text": "Tommy, you do have a captive audience, don't you?"
+    },
+    {
+      "start": 5131.79,
+      "end": 5134.67,
+      "text": "Well, you can't have a rock show without actually playing an Elvis Presley track"
+    },
+    {
+      "start": 5134.67,
+      "end": 5137.75,
+      "text": "and I think probably if there's one thing more than his voice"
+    },
+    {
+      "start": 5137.75,
+      "end": 5141.37,
+      "text": "it's the snare drum on this, which is again the beginnings of rock and roll"
+    },
+    {
+      "start": 5141.37,
+      "end": 5142.89,
+      "text": "Roger and I were talking about this last week"
+    },
+    {
+      "start": 5142.89,
+      "end": 5148.13,
+      "text": "and a great, great influence on the way bands approach their music later on"
+    },
+    {
+      "start": 5148.13,
+      "end": 5150.45,
+      "text": "Don't want to get into that too much, but just listen for the snare drumming."
+    },
+    {
+      "start": 5150.89,
+      "end": 5151.41,
+      "text": "Hound Dog."
+    },
+    {
+      "start": 5151.41,
+      "end": 5153.93,
+      "text": "You ain't nothing but a hound dog"
+    },
+    {
+      "start": 5153.93,
+      "end": 5156.33,
+      "text": "Crying all the time"
+    },
+    {
+      "start": 5156.33,
+      "end": 5159.69,
+      "text": "You ain't nothing but a hound dog"
+    },
+    {
+      "start": 5159.69,
+      "end": 5162.21,
+      "text": "Crying all the time"
+    },
+    {
+      "start": 5162.21,
+      "end": 5170.87,
+      "text": "Well, they said you was high class"
+    },
+    {
+      "start": 5170.87,
+      "end": 5173.09,
+      "text": "Well, that was just a lie"
+    },
+    {
+      "start": 5173.09,
+      "end": 5176.45,
+      "text": "Yeah, they said you was high class"
+    },
+    {
+      "start": 5176.45,
+      "end": 5189.21,
+      "text": "You ain't nothing but a hound dog"
+    },
+    {
+      "start": 5189.21,
+      "end": 5289.07,
+      "text": "Okay, that was Elvis Presley and Hound Dog."
+    },
+    {
+      "start": 5289.07,
+      "end": 5293.23,
+      "text": "Now, I think move a million light years forward from that"
+    },
+    {
+      "start": 5293.23,
+      "end": 5297.59,
+      "text": "and capture the essence of rock and roll as it is right here now in 1986."
+    },
+    {
+      "start": 5298.45,
+      "end": 5300.45,
+      "text": "You know, with the advent of digital machines"
+    },
+    {
+      "start": 5300.45,
+      "end": 5306.75,
+      "text": "and reproductive emulators and synthesizers and everything else,"
+    },
+    {
+      "start": 5307.43,
+      "end": 5312.5,
+      "text": "an awful lot of the passion and verve has gone out of rock and roll."
+    },
+    {
+      "start": 5312.74,
+      "end": 5316.36,
+      "text": "And I think everyone assumes that only those people who play guitars"
+    },
+    {
+      "start": 5316.36,
+      "end": 5319.94,
+      "text": "and hit drums and play keyboards authentically"
+    },
+    {
+      "start": 5319.94,
+      "end": 5321.72,
+      "text": "can actually play rock music."
+    },
+    {
+      "start": 5321.92,
+      "end": 5323.28,
+      "text": "I don't believe this is the case,"
+    },
+    {
+      "start": 5323.54,
+      "end": 5325.24,
+      "text": "and I'd like to prove it to you."
+    },
+    {
+      "start": 5325.32,
+      "end": 5326.78,
+      "text": "Whether you agree or not is up to you."
+    },
+    {
+      "start": 5327.9,
+      "end": 5329.1,
+      "text": "There's a band called Propaganda,"
+    },
+    {
+      "start": 5329.24,
+      "end": 5333.16,
+      "text": "a German and most wonderfully exciting use of machines."
+    },
+    {
+      "start": 5333.94,
+      "end": 5335.16,
+      "text": "Here's a great example of it."
+    },
+    {
+      "start": 5336.1,
+      "end": 5338.3,
+      "text": "In fact, this is a very similar tempo"
+    },
+    {
+      "start": 5338.3,
+      "end": 5341.44,
+      "text": "to something that Rog and I are working on right at the moment"
+    },
+    {
+      "start": 5341.44,
+      "end": 5342.58,
+      "text": "for a Deep Purple song."
+    },
+    {
+      "start": 5343.46,
+      "end": 5345.28,
+      "text": "It's just that it's all played by machines,"
+    },
+    {
+      "start": 5345.28,
+      "end": 5349.66,
+      "text": "and it's all well the operators aren't machines obviously but they've managed to instill that kind"
+    },
+    {
+      "start": 5349.66,
+      "end": 5603.84,
+      "text": "of spirit of rock and roll into that uh digital morass this is propaganda with dual all from"
+    },
+    {
+      "start": 5603.84,
+      "end": 5608.96,
+      "text": "propaganda and in my opinion that is great great 1986 rock and roll i recommend highly that you"
+    },
+    {
+      "start": 5608.96,
+      "end": 5613.78,
+      "text": "get a copy of it turn it up as loud as you can and just see what's gone into that and if it doesn't"
+    },
+    {
+      "start": 5613.78,
+      "end": 5618.94,
+      "text": "move you then i'll eat me feet here's a letter from pam says dear tom could you wish my old mate"
+    },
+    {
+      "start": 5618.94,
+      "end": 5626.28,
+      "text": "justine whitehouse happy belated birthday for the 4th of may also say hi to deck andy tom or tam"
+    },
+    {
+      "start": 5626.28,
+      "end": 5632.68,
+      "text": "kaz as and all the legless lemming society here in wolverhampton p.s if you don't read this out"
+    },
+    {
+      "start": 5632.68,
+      "end": 5637.62,
+      "text": "i'm gonna send my pet gerbil to eat your record collection or worse well i'll take the worst"
+    },
+    {
+      "start": 5637.62,
+      "end": 5643.66,
+      "text": "thanks you can send your gerbil to tom and i'll see you down the pub pam uh rainbow ritchie"
+    },
+    {
+      "start": 5643.66,
+      "end": 5843.68,
+      "text": "blackmore what can i say since you've been gone and since you've been gone what a good song that"
+    },
+    {
+      "start": 5843.68,
+      "end": 5850.24,
+      "text": "is great stuff i said it again i said that last week i couldn't stop saying it stuff great here's"
+    },
+    {
+      "start": 5850.24,
+      "end": 5855.72,
+      "text": "a letter from david mills in redding box where i used to hang out it's my 18th birthday on the 21st"
+    },
+    {
+      "start": 5855.72,
+      "end": 5861.22,
+      "text": "of june and he asked for a whole selection of stuff here from various bands and he wants them"
+    },
+    {
+      "start": 5861.22,
+      "end": 5863.56,
+      "text": "dedicated to all my mates in Woodley."
+    },
+    {
+      "start": 5863.76,
+      "end": 5864.78,
+      "text": "All of them are insane."
+    },
+    {
+      "start": 5864.9,
+      "end": 5866.18,
+      "text": "Well, I know everyone in Woodley's insane."
+    },
+    {
+      "start": 5867.34,
+      "end": 5871.38,
+      "text": "That's Oggy, Rich, Jackie, Andy, Stuart, Andy, Simon, Nadine,"
+    },
+    {
+      "start": 5871.54,
+      "end": 5874.06,
+      "text": "Channa, Paul the Wally, Daniel the Rock Ape,"
+    },
+    {
+      "start": 5874.14,
+      "end": 5874.98,
+      "text": "and Andrew the Moosehead."
+    },
+    {
+      "start": 5875.64,
+      "end": 5877.38,
+      "text": "And a big hello to my girlfriend, Joanne,"
+    },
+    {
+      "start": 5877.46,
+      "end": 5878.62,
+      "text": "and tell her I love her very much"
+    },
+    {
+      "start": 5878.62,
+      "end": 5880.22,
+      "text": "and can't wait for our holiday in July."
+    },
+    {
+      "start": 5880.58,
+      "end": 5881.68,
+      "text": "Cheers, Tom, David Mills."
+    },
+    {
+      "start": 5882.26,
+      "end": 5884.74,
+      "text": "Well, David, you're asking for a whole bunch of bands here,"
+    },
+    {
+      "start": 5884.82,
+      "end": 5886.14,
+      "text": "so I'm just going to pick two of them."
+    },
+    {
+      "start": 5886.34,
+      "end": 5887.32,
+      "text": "One of them's Deep Purple,"
+    },
+    {
+      "start": 5887.5,
+      "end": 5889.16,
+      "text": "and we're going to start off with Status Quo,"
+    },
+    {
+      "start": 5889.16,
+      "end": 6331.46,
+      "text": "and as it's a request it's of course whatever you want and all your mates that was uh status quo"
+    },
+    {
+      "start": 6331.46,
+      "end": 6336.48,
+      "text": "whatever you want and deep purple with fireball deep purple richie blackmore john lord roger"
+    },
+    {
+      "start": 6336.48,
+      "end": 6341.74,
+      "text": "glover ian pace myself ian gillan and of course the famous air conditioning unit on the intro"
+    },
+    {
+      "start": 6341.74,
+      "end": 6346.86,
+      "text": "there's a new album from uh emerson lake and powell that's keith emerson greg lake and"
+    },
+    {
+      "start": 6346.86,
+      "end": 6353.26,
+      "text": "the cozy powell of course and it's just called elp or emerson lake and powell and here's a"
+    },
+    {
+      "start": 6353.26,
+      "end": 6597.37,
+      "text": "from it called learning to fly that was learning to fly from the new elp album that's keith emerson"
+    },
+    {
+      "start": 6597.37,
+      "end": 6602.33,
+      "text": "and greg lake of course from the old elp and cozy powell who's now replaced carl palmer i wonder if"
+    },
+    {
+      "start": 6602.33,
+      "end": 6606.81,
+      "text": "they chose him because he's got the same initial as the other fella i don't know why i hated bruce"
+    },
+    {
+      "start": 6606.81,
+      "end": 6611.69,
+      "text": "springsteen when i first heard him and i resented all his what appeared to be hype and all the"
+    },
+    {
+      "start": 6612.25,
+      "end": 6615.05,
+      "text": "the big american machine going into operation but in spite of myself"
+    },
+    {
+      "start": 6615.05,
+      "end": 6619.61,
+      "text": "i've grown to like springsteen an awful lot so here's dancing in the dark"
+    },
+    {
+      "start": 6621.85,
+      "end": 6634.7,
+      "text": "I get up in the evening"
+    },
+    {
+      "start": 6634.7,
+      "end": 6639.26,
+      "text": "And I ain't got nothing to say"
+    },
+    {
+      "start": 6639.26,
+      "end": 6641.12,
+      "text": "I come home in the morning"
+    },
+    {
+      "start": 6641.12,
+      "end": 6646.45,
+      "text": "I go to bed feeling the same"
+    },
+    {
+      "start": 6646.45,
+      "end": 6650.68,
+      "text": "But tired, just tired"
+    },
+    {
+      "start": 6650.68,
+      "end": 6654.0,
+      "text": "And hey there baby"
+    },
+    {
+      "start": 6654.0,
+      "end": 6658.5,
+      "text": "I could use just a little help"
+    },
+    {
+      "start": 6658.5,
+      "end": 6659.64,
+      "text": "It can't stop"
+    },
+    {
+      "start": 6659.64,
+      "end": 6666.86,
+      "text": "This gun's for hire"
+    },
+    {
+      "start": 6666.86,
+      "end": 6671.63,
+      "text": "Even if we're just dancing in the dark"
+    },
+    {
+      "start": 6671.63,
+      "end": 6679.83,
+      "text": "Messages keep getting bleary"
+    },
+    {
+      "start": 6679.83,
+      "end": 6684.26,
+      "text": "Radio's on and I'm moving round the place"
+    },
+    {
+      "start": 6684.26,
+      "end": 6686.18,
+      "text": "I check my look in the mirror"
+    },
+    {
+      "start": 6686.18,
+      "end": 6690.75,
+      "text": "Wanna change my clothes, my hair, my face"
+    },
+    {
+      "start": 6690.75,
+      "end": 6697.11,
+      "text": "I'm just living in a mess"
+    },
+    {
+      "start": 6697.11,
+      "end": 6699.01,
+      "text": "There's something happening somewhere"
+    },
+    {
+      "start": 6699.01,
+      "end": 6703.52,
+      "text": "Baby, I just know who cares"
+    },
+    {
+      "start": 6703.52,
+      "end": 6710.06,
+      "text": "Can't start if I respond"
+    },
+    {
+      "start": 6710.06,
+      "end": 6716.69,
+      "text": "Even if we're just dancing in the dark"
+    },
+    {
+      "start": 6716.69,
+      "end": 6735.71,
+      "text": "There's a joke, yes, and why, and it's on me"
+    },
+    {
+      "start": 6735.71,
+      "end": 6737.55,
+      "text": "I shake this world off my shoulder"
+    },
+    {
+      "start": 6737.55,
+      "end": 6744.32,
+      "text": "Come on, baby, let's stay on the streets of this town"
+    },
+    {
+      "start": 6744.32,
+      "end": 6748.54,
+      "text": "They know they're carving you up, all right"
+    },
+    {
+      "start": 6748.54,
+      "end": 6750.4,
+      "text": "They say you gotta stay hungry"
+    },
+    {
+      "start": 6750.4,
+      "end": 6763.33,
+      "text": "I'm just a bastard, I'm sick of this action"
+    },
+    {
+      "start": 6763.33,
+      "end": 6792.29,
+      "text": "This one look, we're just dancing"
+    },
+    {
+      "start": 6792.29,
+      "end": 6855.25,
+      "text": "Dancing in the Dark from Bruce Springsteen,"
+    },
+    {
+      "start": 6855.25,
+      "end": 6859.33,
+      "text": "who has in fact become a real american folk hero and not at all the sort of hype figure that i"
+    },
+    {
+      "start": 6859.33,
+      "end": 6864.27,
+      "text": "imagined he was when i first heard his records well time's running out i'd like to play you a"
+    },
+    {
+      "start": 6864.27,
+      "end": 6870.87,
+      "text": "very nice record for me to go down the pub to and uh this is bruce baker and clapton it's not bruce"
+    },
+    {
+      "start": 6870.87,
+      "end": 6876.79,
+      "text": "baker but it's that's their second names in fact it's clapper baker and bruce it's baker bruce"
+    },
+    {
+      "start": 6876.79,
+      "end": 6881.37,
+      "text": "clapton and produced by felix papillardi collectively known as cream the song is called"
+    },
+    {
+      "start": 6881.37,
+      "end": 6882.29,
+      "text": "White Room."
+    },
+    {
+      "start": 6943.85,
+      "end": 6984.37,
+      "text": "could secure you at the station ticket restless diesels goodbye windows such a sad time at the"
+    },
+    {
+      "start": 6984.37,
+      "end": 7177.77,
+      "text": "station felt my own need just beginning well my charity she was kindness well that was cream"
+    },
+    {
+      "start": 7177.77,
+      "end": 7184.15,
+      "text": "and white room and this is ian gillan from a very small room in the playhouse in stowe i've been"
+    },
+    {
+      "start": 7184.15,
+      "end": 7188.33,
+      "text": "sitting in for tommy vance who's been on holiday i've enjoyed every moment of it thank you all for"
+    },
+    {
+      "start": 7188.33,
+      "end": 7192.71,
+      "text": "listening it's been great fun playing all these wonderful records i hope to see you if not in"
+    },
+    {
+      "start": 7192.71,
+      "end": 7197.55,
+      "text": "person then certainly with deep purple when we hit the road in uh maybe november and i don't"
+    },
+    {
+      "start": 7197.55,
+      "end": 7201.63,
+      "text": "exactly know when we're coming by but certainly in britain we're planning on doing many more"
+    },
+    {
+      "start": 7201.63,
+      "end": 7205.93,
+      "text": "shows this time around thank you all for listening it's been great and we'll see you soon"
     }
   ]
 }

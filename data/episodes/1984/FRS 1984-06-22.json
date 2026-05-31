@@ -19,57 +19,68 @@
     {
       "artist": "Wendy O Williams",
       "track": "It’s My Life",
-      "details": "LP - W.O.W."
+      "details": "LP - W.O.W.",
+      "verified_timestamp": 64.08
     },
     {
       "artist": "Little Steven",
       "track": "Out Of The Darkness",
-      "details": "LP - Voice Of America"
+      "details": "LP - Voice Of America",
+      "verified_timestamp": 278.41
     },
     {
       "artist": "Icehouse",
       "track": "Don’t Believe Anymore",
-      "details": "LP - Sidewalk"
+      "details": "LP - Sidewalk",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Jefferson Starship",
       "track": "No Way Out",
-      "details": "LP - Nuclear Furniture"
+      "details": "LP - Nuclear Furniture",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Fastway",
       "track": "All Fired Up",
-      "details": "LP - All Fired Up"
+      "details": "LP - All Fired Up",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Steve Perry",
       "track": "Oh Sherrie",
-      "details": "LP - Street Talk"
+      "details": "LP - Street Talk",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Hanoi Rocks",
       "track": "Up Around The Bend",
-      "details": "LP - Two Steps From The Move"
+      "details": "LP - Two Steps From The Move",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Jim Steinman",
       "track": "Tonight Is What It Means To Be Young",
-      "details": "Streets Of Fire OST"
+      "details": "Streets Of Fire OST",
+      "verified_timestamp": 16.97
     },
     {
       "artist": "Roger Taylor",
       "track": "Man On Fire",
-      "details": "LP - Strange Frontier"
+      "details": "LP - Strange Frontier",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Twisted Sister",
       "track": "We’re Not Gonna Take It",
-      "details": "LP - Stay Hungry"
+      "details": "LP - Stay Hungry",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Status Quo",
       "track": "Going Down Town Tonight",
-      "details": "LP - Back To Back"
+      "details": "LP - Back To Back",
+      "verified_timestamp": 2294.69
     },
     {
       "artist": "Ozzy Osbourne",
@@ -79,7 +90,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 37.6
     },
     {
       "artist": "Dio",

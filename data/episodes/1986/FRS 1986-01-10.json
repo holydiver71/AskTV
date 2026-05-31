@@ -23,7 +23,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Vagabonds Of The Western World",
-      "details": "LP-Vagabonds Of The Western World; Decca"
+      "details": "LP-Vagabonds Of The Western World; Decca",
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
@@ -43,7 +44,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Eire",
-      "details": "LP-Thin Lizzy; Decca"
+      "details": "LP-Thin Lizzy; Decca",
+      "verified_timestamp": 1207.79
     },
     {
       "artist": null,
@@ -63,7 +65,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Still In Love With You",
-      "details": "2xLP-Live And Dangerous; Decca"
+      "details": "2xLP-Live And Dangerous; Decca",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
@@ -73,7 +76,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Dublin",
-      "details": "7\"-New Day; Decca"
+      "details": "7\"-New Day; Decca",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": null,
@@ -83,7 +87,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "The Cowboy Song",
-      "details": "LP-Jailbreak; Vertigo"
+      "details": "LP-Jailbreak; Vertigo",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
@@ -93,7 +98,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "The Rocker",
-      "details": "2xLP-Live And Dangerous; Decca"
+      "details": "2xLP-Live And Dangerous; Decca",
+      "verified_timestamp": 3770.44
     },
     {
       "artist": null,
@@ -103,7 +109,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "The Boys Are Back In Town",
-      "details": "LP-Jailbreak; Vertigo"
+      "details": "LP-Jailbreak; Vertigo",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
@@ -113,7 +120,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "'Dancing In The Moonlight (It's Got Me in Its Spotlight) (LP-Bad Reputation)' (Vertigo)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3939.09
     },
     {
       "artist": null,
@@ -123,7 +131,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Bad Reputation",
-      "details": "LP-Bad Reputation; Vertigo"
+      "details": "LP-Bad Reputation; Vertigo",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
@@ -133,7 +142,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Are You Ready",
-      "details": "12\"-Killers Live; Vertigo"
+      "details": "12\"-Killers Live; Vertigo",
+      "verified_timestamp": 4440.52
     },
     {
       "artist": null,
@@ -143,7 +153,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Renegade",
-      "details": "LP-Renegade; Vertigo"
+      "details": "LP-Renegade; Vertigo",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": null,
@@ -153,7 +164,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Thunder And Lightning",
-      "details": "LP-Thunder And Lightning; Vertgo/Phonogram"
+      "details": "LP-Thunder And Lightning; Vertgo/Phonogram",
+      "verified_timestamp": 2430.91
     },
     {
       "artist": null,
@@ -163,7 +175,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Cold Sweat",
-      "details": "LP-Thunder And Lightning; Vertgo/Phonogram"
+      "details": "LP-Thunder And Lightning; Vertgo/Phonogram",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": null,
@@ -173,22 +186,26 @@
     {
       "artist": "Thin Lizzy",
       "track": "The Sun Goes Down",
-      "details": "LP-Thunder And Lightning; Vertgo/Phonogram"
+      "details": "LP-Thunder And Lightning; Vertgo/Phonogram",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": null,
       "track": "Brian Downey tribute, by phone from Dublin",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2412.08
     },
     {
       "artist": "Thin Lizzy",
       "track": "Emerald",
-      "details": "LP-Jailbreak; Vertigo"
+      "details": "LP-Jailbreak; Vertigo",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": null,
       "track": "Brian Downey (continued)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 7100.05
     },
     {
       "artist": "Philip Lynott",
@@ -203,7 +220,3385 @@
     {
       "artist": null,
       "track": "Radio 2 news - Michael Heseltine steps up his support for rescue bid for Westland; Lynda Chalker joins Foreign Office (as Minister For Europe) as part of a cabinet reshuffle",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2430.91
+    }
+  ],
+  "transcript": [
+    {
+      "start": 18.48,
+      "end": 21.48,
+      "text": "Medium Wave FM Stereo. This is National Radio 1."
+    },
+    {
+      "start": 22.48,
+      "end": 29.78,
+      "text": "Born 1949, died 1985. This is a tribute to Philip Lynott."
+    },
+    {
+      "start": 37.38,
+      "end": 40.38,
+      "text": "My name's Eric Bell and I'm the founder member of Thin Lizzy."
+    },
+    {
+      "start": 41.86,
+      "end": 52.53,
+      "text": "The story goes like this. I used to play in an Irish show band called The Dreams up till nearly the end of 1969."
+    },
+    {
+      "start": 52.53,
+      "end": 57.98,
+      "text": "and I went one night to see a band called Skid Row playing in Dublin."
+    },
+    {
+      "start": 59.55,
+      "end": 60.29,
+      "text": "It was really amazing."
+    },
+    {
+      "start": 60.63,
+      "end": 64.63,
+      "text": "Gary Moore was a guitar player and he was a good friend of mine"
+    },
+    {
+      "start": 64.63,
+      "end": 69.23,
+      "text": "and I wondered what I was doing in a show band playing the type of music that we played."
+    },
+    {
+      "start": 70.39,
+      "end": 74.91,
+      "text": "So I decided to leave the show band and try and form a group, a three-piece group."
+    },
+    {
+      "start": 76.38,
+      "end": 80.02,
+      "text": "So I left the show band and I had some money saved up in the bank"
+    },
+    {
+      "start": 80.02,
+      "end": 83.92,
+      "text": "which would keep me alive for about six weeks."
+    },
+    {
+      "start": 85.17,
+      "end": 87.77,
+      "text": "So I went round all the clubs and all the pubs in Dublin"
+    },
+    {
+      "start": 87.77,
+      "end": 90.95,
+      "text": "looking for musicians to form a three-piece rock group with"
+    },
+    {
+      "start": 90.95,
+      "end": 94.51,
+      "text": "and no one was interested, absolutely nobody."
+    },
+    {
+      "start": 96.02,
+      "end": 99.92,
+      "text": "And one night I went to a club called the Countdown Club"
+    },
+    {
+      "start": 99.92,
+      "end": 104.93,
+      "text": "and there was a band playing called Orphanage"
+    },
+    {
+      "start": 104.93,
+      "end": 108.19,
+      "text": "and Philip was the singer, he didn't play bass then"
+    },
+    {
+      "start": 108.19,
+      "end": 110.16,
+      "text": "and Brian Downey was the drummer"
+    },
+    {
+      "start": 110.16,
+      "end": 114.8,
+      "text": "and I was totally mesmerised by Brian Downey's drumming"
+    },
+    {
+      "start": 114.8,
+      "end": 117.13,
+      "text": "and I said to myself"
+    },
+    {
+      "start": 117.13,
+      "end": 119.49,
+      "text": "I've got to get that guy for the band"
+    },
+    {
+      "start": 119.49,
+      "end": 120.47,
+      "text": "then I'm going to form"
+    },
+    {
+      "start": 120.47,
+      "end": 124.98,
+      "text": "so for some strange reason"
+    },
+    {
+      "start": 124.98,
+      "end": 126.88,
+      "text": "whenever the band took a break"
+    },
+    {
+      "start": 126.88,
+      "end": 129.59,
+      "text": "it was only Philip and Brian"
+    },
+    {
+      "start": 129.59,
+      "end": 130.81,
+      "text": "came into the changing room"
+    },
+    {
+      "start": 130.81,
+      "end": 134.8,
+      "text": "and after about 10 minutes"
+    },
+    {
+      "start": 134.8,
+      "end": 135.4,
+      "text": "I went in"
+    },
+    {
+      "start": 135.4,
+      "end": 136.88,
+      "text": "went up to the changing room"
+    },
+    {
+      "start": 136.88,
+      "end": 139.07,
+      "text": "knocked on the door"
+    },
+    {
+      "start": 139.07,
+      "end": 139.79,
+      "text": "and I said come in"
+    },
+    {
+      "start": 139.79,
+      "end": 142.55,
+      "text": "and I said hello"
+    },
+    {
+      "start": 142.55,
+      "end": 143.85,
+      "text": "my name's Eric Bell"
+    },
+    {
+      "start": 143.85,
+      "end": 145.95,
+      "text": "I'm trying to form a band"
+    },
+    {
+      "start": 145.95,
+      "end": 148.89,
+      "text": "do you know any bass players and drummers"
+    },
+    {
+      "start": 148.89,
+      "end": 152.09,
+      "text": "so you know Phil looked at Brian and says"
+    },
+    {
+      "start": 152.09,
+      "end": 153.97,
+      "text": "I don't know any Brian do you"
+    },
+    {
+      "start": 153.97,
+      "end": 155.85,
+      "text": "and Brian says I'm not too sure"
+    },
+    {
+      "start": 155.85,
+      "end": 157.33,
+      "text": "you know just went on and on"
+    },
+    {
+      "start": 157.33,
+      "end": 159.61,
+      "text": "so after about 10 minutes"
+    },
+    {
+      "start": 159.61,
+      "end": 162.22,
+      "text": "I said well thanks very much anyway"
+    },
+    {
+      "start": 162.22,
+      "end": 164.95,
+      "text": "we swapped a few phone numbers"
+    },
+    {
+      "start": 164.95,
+      "end": 166.17,
+      "text": "so we could keep in touch"
+    },
+    {
+      "start": 166.17,
+      "end": 168.05,
+      "text": "as I was walking out the door"
+    },
+    {
+      "start": 168.05,
+      "end": 170.13,
+      "text": "Philip said to Brian"
+    },
+    {
+      "start": 170.13,
+      "end": 173.37,
+      "text": "hey Brian do you fancy forming a band with Eric"
+    },
+    {
+      "start": 173.37,
+      "end": 176.04,
+      "text": "orphanages went as far as they could go"
+    },
+    {
+      "start": 176.04,
+      "end": 185.21,
+      "text": "and Brian said no no I think we're doing okay and Phil said again listen man we've been together"
+    },
+    {
+      "start": 185.21,
+      "end": 191.38,
+      "text": "for about a year or so we've done nothing so Brian said oh okay whatever you want to do"
+    },
+    {
+      "start": 191.38,
+      "end": 197.32,
+      "text": "so Phil came over to me and he said um he said me and Brian will start a band with you on two"
+    },
+    {
+      "start": 197.32,
+      "end": 204.32,
+      "text": "for uh for two reasons and I said what's that and he said number one that we do some of Philip's"
+    },
+    {
+      "start": 204.32,
+      "end": 213.39,
+      "text": "songs and number two that Philip can play the bass and I said well do you play the bass he said no"
+    },
+    {
+      "start": 213.39,
+      "end": 219.47,
+      "text": "but I'm willing to learn I could tell you the story of a bag of wine"
+    },
+    {
+      "start": 219.47,
+      "end": 466.98,
+      "text": "rehearsing one day we had been together about three weeks four weeks we decided that we"
+    },
+    {
+      "start": 466.98,
+      "end": 472.46,
+      "text": "definitely needed a name for the band so we finished rehearsing and started packing up the"
+    },
+    {
+      "start": 472.46,
+      "end": 478.52,
+      "text": "care and as we were packing up we started talking about names and film titles book titles so on"
+    },
+    {
+      "start": 478.52,
+      "end": 486.69,
+      "text": "and uh a few good names come out and i said um what about tin lizzy and everyone went no no"
+    },
+    {
+      "start": 486.69,
+      "end": 493.36,
+      "text": "so someone else said something else no no and so on so after about five minutes we all started"
+    },
+    {
+      "start": 493.36,
+      "end": 499.24,
+      "text": "going over all the names again that would said and uh tin lizzy was one of the ones that registered"
+    },
+    {
+      "start": 499.24,
+      "end": 501.18,
+      "text": "in our heads"
+    },
+    {
+      "start": 501.18,
+      "end": 503.93,
+      "text": "so I had this idea"
+    },
+    {
+      "start": 503.93,
+      "end": 505.69,
+      "text": "that I'm from Belfast"
+    },
+    {
+      "start": 505.69,
+      "end": 508.34,
+      "text": "and down in Dublin they say"
+    },
+    {
+      "start": 508.34,
+      "end": 510.6,
+      "text": "tin instead of thin"
+    },
+    {
+      "start": 510.6,
+      "end": 512.72,
+      "text": "and tick instead of thick"
+    },
+    {
+      "start": 512.72,
+      "end": 514.91,
+      "text": "so I said"
+    },
+    {
+      "start": 514.91,
+      "end": 516.75,
+      "text": "if we call the band Thin Lizzy"
+    },
+    {
+      "start": 516.75,
+      "end": 521.3,
+      "text": "people will go out to see us in Dublin"
+    },
+    {
+      "start": 521.3,
+      "end": 522.32,
+      "text": "and say"
+    },
+    {
+      "start": 522.32,
+      "end": 524.52,
+      "text": "oh we're going to see Tin Lizzy tonight"
+    },
+    {
+      "start": 524.52,
+      "end": 526.64,
+      "text": "and we say no it's not Tin Lizzy"
+    },
+    {
+      "start": 526.64,
+      "end": 527.24,
+      "text": "it's Thin"
+    },
+    {
+      "start": 527.24,
+      "end": 530.21,
+      "text": "so we get some controversy going with the name"
+    },
+    {
+      "start": 530.21,
+      "end": 536.8,
+      "text": "so everyone thought this was a great idea you know and the name stuck"
+    },
+    {
+      "start": 536.8,
+      "end": 870.95,
+      "text": "because of ill health it was exhaustion and um just a lot of things that were available"
+    },
+    {
+      "start": 870.95,
+      "end": 877.67,
+      "text": "you know everyone knows by now in the music business um i was just a bit stupid at the time"
+    },
+    {
+      "start": 877.67,
+      "end": 884.96,
+      "text": "very naive and also there was a few other reasons um when we first started on the first two albums"
+    },
+    {
+      "start": 884.96,
+      "end": 890.88,
+      "text": "i thought we were the only true irish rock band i mean irish rock band because we were doing"
+    },
+    {
+      "start": 890.88,
+      "end": 899.03,
+      "text": "acoustic numbers and very irish influence numbers as well and uh once then or once whiskey in the"
+    },
+    {
+      "start": 899.03,
+      "end": 904.79,
+      "text": "jar got in the charts things seemed to change you know people would put pressure on us to"
+    },
+    {
+      "start": 904.79,
+      "end": 909.25,
+      "text": "to play in a certain way and do this in a certain way"
+    },
+    {
+      "start": 909.25,
+      "end": 910.15,
+      "text": "and do that in a certain way."
+    },
+    {
+      "start": 911.3,
+      "end": 915.72,
+      "text": "And at the time, I couldn't really handle it."
+    },
+    {
+      "start": 916.2,
+      "end": 921.68,
+      "text": "On one side, I had my health problem,"
+    },
+    {
+      "start": 922.02,
+      "end": 925.47,
+      "text": "and on the other side, I had a chance to make a lot of money"
+    },
+    {
+      "start": 925.47,
+      "end": 928.71,
+      "text": "and a lot of fame and everything that goes with it,"
+    },
+    {
+      "start": 928.71,
+      "end": 930.03,
+      "text": "which I've worked for all my life."
+    },
+    {
+      "start": 931.21,
+      "end": 934.65,
+      "text": "And once it was put to me, it was like someone saying,"
+    },
+    {
+      "start": 934.65,
+      "end": 936.17,
+      "text": "well you can have your health or you can have this"
+    },
+    {
+      "start": 936.17,
+      "end": 938.27,
+      "text": "and I'd choose the farmer"
+    },
+    {
+      "start": 938.27,
+      "end": 940.71,
+      "text": "I'd choose my health, which was more important to me"
+    },
+    {
+      "start": 940.71,
+      "end": 942.89,
+      "text": "How do you remember"
+    },
+    {
+      "start": 942.89,
+      "end": 944.08,
+      "text": "Philip?"
+    },
+    {
+      "start": 945.29,
+      "end": 946.61,
+      "text": "A very colourful character"
+    },
+    {
+      "start": 946.61,
+      "end": 949.41,
+      "text": "very colourful character and amazing"
+    },
+    {
+      "start": 949.41,
+      "end": 951.31,
+      "text": "energy. There's so many different tracks"
+    },
+    {
+      "start": 951.31,
+      "end": 952.71,
+      "text": "mean so much, you know, to"
+    },
+    {
+      "start": 952.71,
+      "end": 955.74,
+      "text": "if I had to pick one I suppose"
+    },
+    {
+      "start": 955.74,
+      "end": 956.22,
+      "text": "I'd pick"
+    },
+    {
+      "start": 956.22,
+      "end": 959.46,
+      "text": "Era, that's on the first album"
+    },
+    {
+      "start": 981.99,
+      "end": 993.66,
+      "text": "Dreaded viking, gather all the menfolk"
+    },
+    {
+      "start": 993.66,
+      "end": 1004.86,
+      "text": "Speaking the Celtic tongue, the land is errant"
+    },
+    {
+      "start": 1004.86,
+      "end": 1016.06,
+      "text": "The land is young, stands Red O'Donnell"
+    },
+    {
+      "start": 1016.06,
+      "end": 1055.27,
+      "text": "They fight bitterly, the land is free"
+    },
+    {
+      "start": 1055.27,
+      "end": 1082.33,
+      "text": "My name's Brian Robertson."
+    },
+    {
+      "start": 1083.09,
+      "end": 1088.6,
+      "text": "I played with Phil and St. Lizzie for seven years, eight years."
+    },
+    {
+      "start": 1088.6,
+      "end": 1090.88,
+      "text": "we first met when I came"
+    },
+    {
+      "start": 1090.88,
+      "end": 1091.96,
+      "text": "down from Glasgow"
+    },
+    {
+      "start": 1091.96,
+      "end": 1095.01,
+      "text": "I was 18"
+    },
+    {
+      "start": 1095.01,
+      "end": 1098.66,
+      "text": "and I actually came down to"
+    },
+    {
+      "start": 1098.66,
+      "end": 1100.34,
+      "text": "do an audition as a drummer"
+    },
+    {
+      "start": 1100.34,
+      "end": 1102.48,
+      "text": "for a band called Slack Alice"
+    },
+    {
+      "start": 1102.48,
+      "end": 1104.94,
+      "text": "which I got"
+    },
+    {
+      "start": 1104.94,
+      "end": 1108.24,
+      "text": "and the same week"
+    },
+    {
+      "start": 1108.24,
+      "end": 1110.87,
+      "text": "a close friend of mine"
+    },
+    {
+      "start": 1110.87,
+      "end": 1113.84,
+      "text": "known as Big Charlie"
+    },
+    {
+      "start": 1113.84,
+      "end": 1115.16,
+      "text": "was"
+    },
+    {
+      "start": 1115.16,
+      "end": 1117.76,
+      "text": "roading for Thin Lizzy and they were looking for a guitar"
+    },
+    {
+      "start": 1117.76,
+      "end": 1120.54,
+      "text": "player so I went up"
+    },
+    {
+      "start": 1120.54,
+      "end": 1121.9,
+      "text": "and did the audition"
+    },
+    {
+      "start": 1121.9,
+      "end": 1124.67,
+      "text": "with Phil and Brian Downey"
+    },
+    {
+      "start": 1124.67,
+      "end": 1131.06,
+      "text": "and simply got the gig there and then."
+    },
+    {
+      "start": 1131.52,
+      "end": 1134.52,
+      "text": "And we started looking around for another guitar player."
+    },
+    {
+      "start": 1136.38,
+      "end": 1141.55,
+      "text": "In came Scott, who you probably know from L.A."
+    },
+    {
+      "start": 1144.47,
+      "end": 1147.43,
+      "text": "And we started going out and doing club dates."
+    },
+    {
+      "start": 1148.96,
+      "end": 1155.99,
+      "text": "And the feeling in the band was very, very natural at the time."
+    },
+    {
+      "start": 1157.92,
+      "end": 1161.26,
+      "text": "Phil always kept it high energy."
+    },
+    {
+      "start": 1162.02,
+      "end": 1164.54,
+      "text": "I can remember Scott saying to me that he couldn't believe"
+    },
+    {
+      "start": 1164.54,
+      "end": 1169.16,
+      "text": "the very first gig we did at the, I think it was the Lafayette Club in Birmingham."
+    },
+    {
+      "start": 1173.03,
+      "end": 1177.65,
+      "text": "When we hit the first few notes, he was scared out of his pants"
+    },
+    {
+      "start": 1177.65,
+      "end": 1180.33,
+      "text": "because he couldn't believe all this jumping around that was going on"
+    },
+    {
+      "start": 1180.33,
+      "end": 1183.97,
+      "text": "and the energy that was going on on stage from Phil."
+    },
+    {
+      "start": 1187.51,
+      "end": 1189.15,
+      "text": "And it kind of took him back a bit."
+    },
+    {
+      "start": 1189.59,
+      "end": 1193.01,
+      "text": "You know, he stood for about ten minutes watching Phil."
+    },
+    {
+      "start": 1193.73,
+      "end": 1198.5,
+      "text": "So did I, actually, before he could actually get into the whole thing."
+    },
+    {
+      "start": 1198.5,
+      "end": 1207.79,
+      "text": "he had a amazing energy on stage that just it used to drive everybody i mean at that point as"
+    },
+    {
+      "start": 1207.79,
+      "end": 1215.72,
+      "text": "i say we both were watching him thinking go just what we're supposed to do 10 minutes later we were"
+    },
+    {
+      "start": 1215.72,
+      "end": 1219.9,
+      "text": "both doing it and all three of us were at it he got everybody at it including the audience and"
+    },
+    {
+      "start": 1219.9,
+      "end": 1226.05,
+      "text": "everybody else he was a master of a lot of live gigs he was a total master he knew exactly what"
+    },
+    {
+      "start": 1226.05,
+      "end": 1237.2,
+      "text": "to do when to do it what to say even down to the the running order of of the set list you know where"
+    },
+    {
+      "start": 1237.2,
+      "end": 1243.14,
+      "text": "you would play one song where you play another uh he knew exactly how to place the songs and uh"
+    },
+    {
+      "start": 1243.14,
+      "end": 1249.78,
+      "text": "sometimes he changed them in the middle of the gig because the feeling he was getting obviously"
+    },
+    {
+      "start": 1249.78,
+      "end": 1254.96,
+      "text": "from the audience wasn't he thought well we won't do this one we'll stick this one in here and then"
+    },
+    {
+      "start": 1254.96,
+      "end": 1493.54,
+      "text": "not really get them and it worked every time it was a day if he could he really would and he'd get"
+    },
+    {
+      "start": 1493.54,
+      "end": 1498.32,
+      "text": "you at it too i mean you'd end up being exactly the same i was never out the studio it didn't"
+    },
+    {
+      "start": 1498.32,
+      "end": 1504.78,
+      "text": "matter whether it was bass overdubs or vocals or a keyboard player was in to do a bit or"
+    },
+    {
+      "start": 1504.78,
+      "end": 1507.76,
+      "text": "guest players or whatever"
+    },
+    {
+      "start": 1507.76,
+      "end": 1510.06,
+      "text": "or mixing or the most mundane things"
+    },
+    {
+      "start": 1510.06,
+      "end": 1510.78,
+      "text": "it wouldn't matter"
+    },
+    {
+      "start": 1510.78,
+      "end": 1513.92,
+      "text": "he got you inspired"
+    },
+    {
+      "start": 1513.92,
+      "end": 1515.78,
+      "text": "to the point where you stayed there as well"
+    },
+    {
+      "start": 1515.78,
+      "end": 1517.78,
+      "text": "and you put your bit in too"
+    },
+    {
+      "start": 1517.78,
+      "end": 1519.66,
+      "text": "was he funny man"
+    },
+    {
+      "start": 1519.66,
+      "end": 1521.74,
+      "text": "could he make you really belly laugh"
+    },
+    {
+      "start": 1521.74,
+      "end": 1523.96,
+      "text": "he was hilarious when he wanted"
+    },
+    {
+      "start": 1523.96,
+      "end": 1524.36,
+      "text": "to be"
+    },
+    {
+      "start": 1524.36,
+      "end": 1527.58,
+      "text": "he had a great sense of humour"
+    },
+    {
+      "start": 1527.58,
+      "end": 1532.46,
+      "text": "he was a very Irish"
+    },
+    {
+      "start": 1532.46,
+      "end": 1533.72,
+      "text": "sense of humour but"
+    },
+    {
+      "start": 1533.72,
+      "end": 1536.59,
+      "text": "there was always that"
+    },
+    {
+      "start": 1536.59,
+      "end": 1539.37,
+      "text": "But there's always, as you know, in any band,"
+    },
+    {
+      "start": 1539.45,
+      "end": 1540.99,
+      "text": "there's always a band sense of humour"
+    },
+    {
+      "start": 1540.99,
+      "end": 1545.56,
+      "text": "and certain little sayings that everybody in the band knows"
+    },
+    {
+      "start": 1545.56,
+      "end": 1547.08,
+      "text": "but nobody outside does."
+    },
+    {
+      "start": 1548.86,
+      "end": 1552.6,
+      "text": "And he was usually the one that would trigger those sayings off, you know."
+    },
+    {
+      "start": 1554.22,
+      "end": 1556.88,
+      "text": "Him and Brian Downey, because they were both so close"
+    },
+    {
+      "start": 1556.88,
+      "end": 1557.94,
+      "text": "and they grew up together,"
+    },
+    {
+      "start": 1558.2,
+      "end": 1560.12,
+      "text": "the two of them used to come up with some crackers."
+    },
+    {
+      "start": 1560.94,
+      "end": 1561.84,
+      "text": "They had us in stitches."
+    },
+    {
+      "start": 1562.36,
+      "end": 1563.96,
+      "text": "I mean, even when things weren't..."
+    },
+    {
+      "start": 1563.96,
+      "end": 1565.98,
+      "text": "You know, if you had, like, I can remember in the early days,"
+    },
+    {
+      "start": 1565.98,
+      "end": 1569.48,
+      "text": "I can remember doing one drive through East Berlin,"
+    },
+    {
+      "start": 1569.7,
+      "end": 1572.88,
+      "text": "a really long one to Hamburg, that's the drive."
+    },
+    {
+      "start": 1573.68,
+      "end": 1576.28,
+      "text": "And we had our manager, Chris Morrison, in the car."
+    },
+    {
+      "start": 1576.42,
+      "end": 1579.72,
+      "text": "Now, it was a Granada, an old Granada."
+    },
+    {
+      "start": 1580.78,
+      "end": 1584.16,
+      "text": "There was three people in the back and a driver and Phil in the front"
+    },
+    {
+      "start": 1584.16,
+      "end": 1587.84,
+      "text": "and Chris Morrison sitting on top of the brake."
+    },
+    {
+      "start": 1588.66,
+      "end": 1591.04,
+      "text": "And you're talking about a four-hour drive or something."
+    },
+    {
+      "start": 1592.26,
+      "end": 1595.98,
+      "text": "And everybody was getting pretty narked, you know."
+    },
+    {
+      "start": 1595.98,
+      "end": 1599.6,
+      "text": "It was a long drive, and we had to make it in a certain amount of time"
+    },
+    {
+      "start": 1599.6,
+      "end": 1600.56,
+      "text": "to do a certain show."
+    },
+    {
+      "start": 1602.33,
+      "end": 1604.23,
+      "text": "But he had us all laughing most of the way"
+    },
+    {
+      "start": 1604.23,
+      "end": 1608.98,
+      "text": "because he could see everybody getting a wee bit uptight,"
+    },
+    {
+      "start": 1609.18,
+      "end": 1610.48,
+      "text": "and especially me with my temper."
+    },
+    {
+      "start": 1610.96,
+      "end": 1613.4,
+      "text": "He used to keep me well and truly level."
+    },
+    {
+      "start": 1613.98,
+      "end": 1615.64,
+      "text": "He'd stop me getting too uptight."
+    },
+    {
+      "start": 1616.82,
+      "end": 1621.03,
+      "text": "And he could be well uptight himself if he wanted to be,"
+    },
+    {
+      "start": 1621.67,
+      "end": 1626.67,
+      "text": "but he'd make sure that nothing would affect the gig,"
+    },
+    {
+      "start": 1626.97,
+      "end": 1627.83,
+      "text": "nothing at all."
+    },
+    {
+      "start": 1627.93,
+      "end": 1630.94,
+      "text": "And, you know, you could argue and shout after it."
+    },
+    {
+      "start": 1633.05,
+      "end": 1634.71,
+      "text": "The build-up to the gig or whatever,"
+    },
+    {
+      "start": 1635.29,
+      "end": 1638.49,
+      "text": "he made sure everybody was in the right frame of mind to do it."
+    },
+    {
+      "start": 1638.57,
+      "end": 1641.59,
+      "text": "If you can imagine now that you're at a gig and you're on stage"
+    },
+    {
+      "start": 1641.59,
+      "end": 1643.05,
+      "text": "and you're in the middle of a set,"
+    },
+    {
+      "start": 1643.31,
+      "end": 1645.93,
+      "text": "which song would you like most to be doing now?"
+    },
+    {
+      "start": 1653.19,
+      "end": 1655.65,
+      "text": "I think probably Still In Love With You"
+    },
+    {
+      "start": 1655.65,
+      "end": 1660.04,
+      "text": "is the one that I most enjoyed playing."
+    },
+    {
+      "start": 1660.04,
+      "end": 1665.43,
+      "text": "and the one that I played probably with the most heart"
+    },
+    {
+      "start": 1665.43,
+      "end": 1670.5,
+      "text": "out of all the songs I ever played with Phil and Lizzie,"
+    },
+    {
+      "start": 1671.96,
+      "end": 1675.81,
+      "text": "which is kind of funny, you know,"
+    },
+    {
+      "start": 1675.97,
+      "end": 1678.25,
+      "text": "with it being a ballad and whatnot."
+    },
+    {
+      "start": 1679.17,
+      "end": 1682.71,
+      "text": "It's one of the classic rock ballads."
+    },
+    {
+      "start": 1683.17,
+      "end": 1686.41,
+      "text": "There aren't an awful lot of them around, even to this day."
+    },
+    {
+      "start": 1689.06,
+      "end": 1692.3,
+      "text": "It's, you could call it an evergreen, really, couldn't you?"
+    },
+    {
+      "start": 1692.3,
+      "end": 1695.48,
+      "text": "It'll never fade from my mind"
+    },
+    {
+      "start": 1695.48,
+      "end": 1703.83,
+      "text": "And I can still see myself up on the stage"
+    },
+    {
+      "start": 1703.83,
+      "end": 1706.21,
+      "text": "And walking out the rostrum with a guitar"
+    },
+    {
+      "start": 1706.21,
+      "end": 1708.91,
+      "text": "And starting to play the solo"
+    },
+    {
+      "start": 1708.91,
+      "end": 1711.77,
+      "text": "And just feel shivers going up my spine"
+    },
+    {
+      "start": 1711.77,
+      "end": 1713.63,
+      "text": "And it would make me play better"
+    },
+    {
+      "start": 1713.63,
+      "end": 1716.84,
+      "text": "And you'd always know he was there behind you"
+    },
+    {
+      "start": 1716.84,
+      "end": 1751.49,
+      "text": "I think I'll fall, he said"
+    },
+    {
+      "start": 1751.49,
+      "end": 1757.83,
+      "text": "If I don't find something else to do"
+    },
+    {
+      "start": 1757.83,
+      "end": 1764.03,
+      "text": "It never ceases"
+    },
+    {
+      "start": 1764.03,
+      "end": 1770.53,
+      "text": "I'm still in love"
+    },
+    {
+      "start": 1770.53,
+      "end": 2176.17,
+      "text": "...engineer for Thin Lizzy for quite a long time."
+    },
+    {
+      "start": 2176.57,
+      "end": 2181.56,
+      "text": "But that wasn't the original position, job, whatever you like to call it,"
+    },
+    {
+      "start": 2181.58,
+      "end": 2183.88,
+      "text": "that I took with Thin Lizzy when I first joined them."
+    },
+    {
+      "start": 2184.46,
+      "end": 2186.48,
+      "text": "I started working for them, doing lights,"
+    },
+    {
+      "start": 2186.96,
+      "end": 2188.9,
+      "text": "and moving the equipment around as well"
+    },
+    {
+      "start": 2188.9,
+      "end": 2190.84,
+      "text": "with another gentleman called Dennis,"
+    },
+    {
+      "start": 2191.62,
+      "end": 2193.8,
+      "text": "who used to drive the van, a little Volkswagen van,"
+    },
+    {
+      "start": 2193.98,
+      "end": 2195.68,
+      "text": "with all the gear in it, a little trailer,"
+    },
+    {
+      "start": 2195.68,
+      "end": 2198.82,
+      "text": "and all the band and us used to travel together to the various gigs,"
+    },
+    {
+      "start": 2199.22,
+      "end": 2200.08,
+      "text": "and so on."
+    },
+    {
+      "start": 2201.02,
+      "end": 2207.9,
+      "text": "and later on the lights tended to sort of not be used so much it was more like sort of elbow grease"
+    },
+    {
+      "start": 2207.9,
+      "end": 2213.1,
+      "text": "getting the pas in the back line sorted out so that's what i ended up doing and they got"
+    },
+    {
+      "start": 2213.1,
+      "end": 2220.25,
+      "text": "into various sound engineers and we had a very good one called pete selwood but he left and we"
+    },
+    {
+      "start": 2220.25,
+      "end": 2227.26,
+      "text": "got another gentleman in and that failed so they just slotted me in the seat one night to see how"
+    },
+    {
+      "start": 2227.26,
+      "end": 2231.48,
+      "text": "how I'd do because they hadn't anybody else to do the job and I did it and they seemed to think I"
+    },
+    {
+      "start": 2231.48,
+      "end": 2236.3,
+      "text": "was all right and I went out and kept on doing it kept on doing it and kept on doing it although I"
+    },
+    {
+      "start": 2236.3,
+      "end": 2239.9,
+      "text": "really wanted to do the lights but Phil wanted to keep me on sound they didn't have money for lights"
+    },
+    {
+      "start": 2239.9,
+      "end": 2247.38,
+      "text": "so that's what I ended up doing and even at that point Phil used to take a great interest in sound"
+    },
+    {
+      "start": 2247.38,
+      "end": 2255.34,
+      "text": "and what was going on as he was a perfectionist hard-working perfectionist as you might hear"
+    },
+    {
+      "start": 2255.34,
+      "end": 2259.88,
+      "text": "quite a lot said about phil you'll hear the word workaholic and he was a definite workaholic"
+    },
+    {
+      "start": 2259.88,
+      "end": 2266.46,
+      "text": "tremendous amount of energy i always thought him as a dynamo terrific dynamo terrific um"
+    },
+    {
+      "start": 2266.46,
+      "end": 2272.56,
+      "text": "sun just burning away taking in influences from all around him he listened to a lot of music"
+    },
+    {
+      "start": 2272.56,
+      "end": 2278.52,
+      "text": "and influences uh listen he'd like poetry a lot as well"
+    },
+    {
+      "start": 2278.52,
+      "end": 2282.86,
+      "text": "and this is reflected in some of the softer sides and the veins of his music"
+    },
+    {
+      "start": 2282.86,
+      "end": 2332.12,
+      "text": "i swore and in that life i'd left behind the years the tears the memories at the keys"
+    },
+    {
+      "start": 2332.12,
+      "end": 2359.18,
+      "text": "friends come to save the laugh and joke and smoke cry that brings me down"
+    },
+    {
+      "start": 2359.18,
+      "end": 2361.22,
+      "text": "that has no jobs"
+    },
+    {
+      "start": 2361.22,
+      "end": 2363.12,
+      "text": "is blessed by God"
+    },
+    {
+      "start": 2363.12,
+      "end": 2365.28,
+      "text": "who makes me cry"
+    },
+    {
+      "start": 2365.28,
+      "end": 2396.16,
+      "text": "and see"
+    },
+    {
+      "start": 2396.16,
+      "end": 2401.22,
+      "text": "with glowing hair"
+    },
+    {
+      "start": 2401.22,
+      "end": 2403.26,
+      "text": "I think of Dublin"
+    },
+    {
+      "start": 2403.26,
+      "end": 2407.04,
+      "text": "of Grafton Street"
+    },
+    {
+      "start": 2407.04,
+      "end": 2409.02,
+      "text": "and every square"
+    },
+    {
+      "start": 2409.02,
+      "end": 2412.08,
+      "text": "those of whom I care"
+    },
+    {
+      "start": 2412.08,
+      "end": 2415.62,
+      "text": "in Dublin"
+    },
+    {
+      "start": 2415.62,
+      "end": 2418.34,
+      "text": "and you"
+    },
+    {
+      "start": 2418.34,
+      "end": 2419.66,
+      "text": "in Dublin"
+    },
+    {
+      "start": 2419.66,
+      "end": 2429.73,
+      "text": "I lived with him"
+    },
+    {
+      "start": 2429.73,
+      "end": 2430.91,
+      "text": "for a while"
+    },
+    {
+      "start": 2430.91,
+      "end": 2432.21,
+      "text": "and"
+    },
+    {
+      "start": 2432.21,
+      "end": 2434.83,
+      "text": "I used to see the other side of his nature"
+    },
+    {
+      "start": 2434.83,
+      "end": 2436.37,
+      "text": "he's a very secretive person"
+    },
+    {
+      "start": 2436.37,
+      "end": 2437.55,
+      "text": "very outgoing"
+    },
+    {
+      "start": 2437.55,
+      "end": 2439.67,
+      "text": "it was hard to get close to him in a way"
+    },
+    {
+      "start": 2439.67,
+      "end": 2442.29,
+      "text": "because there's a terrific amount of energy coming at you"
+    },
+    {
+      "start": 2442.29,
+      "end": 2444.05,
+      "text": "he was a person that came at you"
+    },
+    {
+      "start": 2444.05,
+      "end": 2446.37,
+      "text": "you would be drawn to his"
+    },
+    {
+      "start": 2446.37,
+      "end": 2447.61,
+      "text": "presence whatever"
+    },
+    {
+      "start": 2447.61,
+      "end": 2450.31,
+      "text": "but to get very close to him"
+    },
+    {
+      "start": 2450.31,
+      "end": 2450.99,
+      "text": "you just felt this"
+    },
+    {
+      "start": 2450.99,
+      "end": 2453.39,
+      "text": "perfectly powerful person there"
+    },
+    {
+      "start": 2453.39,
+      "end": 2454.59,
+      "text": "this greatness about him"
+    },
+    {
+      "start": 2454.59,
+      "end": 2458.43,
+      "text": "and he used to keep"
+    },
+    {
+      "start": 2458.43,
+      "end": 2459.53,
+      "text": "the other side of his life"
+    },
+    {
+      "start": 2459.53,
+      "end": 2460.73,
+      "text": "his private side of his life"
+    },
+    {
+      "start": 2460.73,
+      "end": 2467.23,
+      "text": "private. I remember one day we were travelling in the van and I used to be into sort of esoteric"
+    },
+    {
+      "start": 2467.23,
+      "end": 2472.87,
+      "text": "philosophies, Zen and what have you. It was a vogue at that period. And I was sort of"
+    },
+    {
+      "start": 2472.87,
+      "end": 2477.58,
+      "text": "getting into some deep philosophical point with him. And he just turned around to me"
+    },
+    {
+      "start": 2477.58,
+      "end": 2483.16,
+      "text": "and said, look man, don't get inside my head. And he just didn't go for any of that hippie"
+    },
+    {
+      "start": 2483.16,
+      "end": 2488.5,
+      "text": "philosophy at all. He had definite views and definite feelings and definite taboos"
+    },
+    {
+      "start": 2488.5,
+      "end": 2491.46,
+      "text": "about what he should and shouldn't do."
+    },
+    {
+      "start": 2492.12,
+      "end": 2494.52,
+      "text": "He used his intuition a lot when he was talking to people."
+    },
+    {
+      "start": 2494.8,
+      "end": 2496.32,
+      "text": "You could see that there was something else."
+    },
+    {
+      "start": 2496.5,
+      "end": 2499.8,
+      "text": "When you're talking to him, there wasn't so much a great intellect there."
+    },
+    {
+      "start": 2500.42,
+      "end": 2504.88,
+      "text": "There was a great intuition and a street sense that was surveying you"
+    },
+    {
+      "start": 2504.88,
+      "end": 2507.06,
+      "text": "and weighing up the pros and cons of it."
+    },
+    {
+      "start": 2507.72,
+      "end": 2510.44,
+      "text": "And once he'd decided, that was it."
+    },
+    {
+      "start": 2510.54,
+      "end": 2513.34,
+      "text": "All his confidence went into it 100%."
+    },
+    {
+      "start": 2513.34,
+      "end": 2522.71,
+      "text": "Philip's social side tended to sort of take on, just go to what was near him."
+    },
+    {
+      "start": 2522.71,
+      "end": 2524.71,
+      "text": "He liked the city. He liked the city lights."
+    },
+    {
+      "start": 2524.71,
+      "end": 2527.71,
+      "text": "I remember we recorded an album in Worthing."
+    },
+    {
+      "start": 2527.71,
+      "end": 2530.71,
+      "text": "He couldn't stand the thought of being out of what was happening."
+    },
+    {
+      "start": 2530.71,
+      "end": 2532.71,
+      "text": "He needed people around him."
+    },
+    {
+      "start": 2532.71,
+      "end": 2535.21,
+      "text": "Very warm. He needed to be gregarious."
+    },
+    {
+      "start": 2535.21,
+      "end": 2537.71,
+      "text": "He just needed people there to exist."
+    },
+    {
+      "start": 2537.71,
+      "end": 2542.71,
+      "text": "And being in Worthing just wasn't his idea of being a rock star."
+    },
+    {
+      "start": 2542.71,
+      "end": 2546.61,
+      "text": "He said to me once, actually, he said that he'd never live in Hollywood"
+    },
+    {
+      "start": 2546.61,
+      "end": 2548.11,
+      "text": "because that would be the end of him."
+    },
+    {
+      "start": 2549.03,
+      "end": 2551.09,
+      "text": "He saw the danger of living in Hollywood."
+    },
+    {
+      "start": 2551.93,
+      "end": 2555.34,
+      "text": "That was far too crazy for the likes of Philip."
+    },
+    {
+      "start": 2556.32,
+      "end": 2560.3,
+      "text": "And from what I've seen when I was with him for, I think I looked,"
+    },
+    {
+      "start": 2560.42,
+      "end": 2564.22,
+      "text": "well, I've known Philip since I first saw him in Ireland 17 years ago,"
+    },
+    {
+      "start": 2564.36,
+      "end": 2567.82,
+      "text": "and I've been in close contact with him for over 12 years or even more."
+    },
+    {
+      "start": 2567.82,
+      "end": 2571.82,
+      "text": "Philip was one that would drink"
+    },
+    {
+      "start": 2571.82,
+      "end": 2574.16,
+      "text": "and he could drink a lot of people under the table"
+    },
+    {
+      "start": 2574.16,
+      "end": 2576.76,
+      "text": "but I never saw him really go out"
+    },
+    {
+      "start": 2576.76,
+      "end": 2579.4,
+      "text": "I've never really seen Philip drunk as such"
+    },
+    {
+      "start": 2579.4,
+      "end": 2582.98,
+      "text": "there's a lot of talk about other things"
+    },
+    {
+      "start": 2582.98,
+      "end": 2586.18,
+      "text": "I've never seen him do any of the substances"
+    },
+    {
+      "start": 2586.18,
+      "end": 2589.34,
+      "text": "that allegedly he's supposed to have done"
+    },
+    {
+      "start": 2589.34,
+      "end": 2591.84,
+      "text": "unless it's something that's very close"
+    },
+    {
+      "start": 2591.84,
+      "end": 2593.88,
+      "text": "I'm sure there are other people that may have seen it"
+    },
+    {
+      "start": 2593.88,
+      "end": 2595.34,
+      "text": "but I haven't"
+    },
+    {
+      "start": 2595.34,
+      "end": 2602.3,
+      "text": "um to me the way philip lived his life was one of um he burnt the candle at both ends and he"
+    },
+    {
+      "start": 2602.3,
+      "end": 2609.7,
+      "text": "burnt it in the middle as well i was in hollywood once um and we were lying by the pool of sunset"
+    },
+    {
+      "start": 2609.7,
+      "end": 2615.46,
+      "text": "marquee and he turned around to me and said up i haven't been to bed for what i think it was four"
+    },
+    {
+      "start": 2615.46,
+      "end": 2623.06,
+      "text": "days or something and i just looked at him and to me one day without sleep and i'm i'm on boot hill"
+    },
+    {
+      "start": 2623.06,
+      "end": 2626.54,
+      "text": "and here he was after four days and he looked quite reasonable"
+    },
+    {
+      "start": 2626.54,
+      "end": 2628.46,
+      "text": "and he was coherent and so on."
+    },
+    {
+      "start": 2629.48,
+      "end": 2633.82,
+      "text": "I think that takes a great toll by not sleeping, by not taking rest"
+    },
+    {
+      "start": 2633.82,
+      "end": 2639.6,
+      "text": "and so that you shift your system, your body system becomes weak"
+    },
+    {
+      "start": 2639.6,
+      "end": 2642.68,
+      "text": "so that you don't have to take a lot of things that are going to damage you"
+    },
+    {
+      "start": 2642.68,
+      "end": 2646.54,
+      "text": "to actually achieve the results that he later perhaps achieved."
+    },
+    {
+      "start": 2646.54,
+      "end": 2658.18,
+      "text": "I am just a cowboy, lonesome on a trip"
+    },
+    {
+      "start": 2658.18,
+      "end": 2662.08,
+      "text": "The starry night, the campfire light"
+    },
+    {
+      "start": 2662.08,
+      "end": 2675.66,
+      "text": "The coyote call, and the howling wind wail"
+    },
+    {
+      "start": 2675.66,
+      "end": 2684.73,
+      "text": "So I'll ride out to the old sundown"
+    },
+    {
+      "start": 2684.73,
+      "end": 2784.86,
+      "text": "Looking back, I got my job, busting broncs for the road"
+    },
+    {
+      "start": 2784.86,
+      "end": 2880.46,
+      "text": "Roll me, it's okay amigo"
+    },
+    {
+      "start": 2880.46,
+      "end": 2964.83,
+      "text": "just let me go right near the rodeo from the road with philip was uh there's one continual"
+    },
+    {
+      "start": 2964.83,
+      "end": 2969.31,
+      "text": "he never knew what was going to happen um you'd have everything set up everything be ready for"
+    },
+    {
+      "start": 2969.31,
+      "end": 2977.78,
+      "text": "the band to arrive and you just hear this you know like these stage doors being kicked"
+    },
+    {
+      "start": 2977.78,
+      "end": 2985.52,
+      "text": "and somebody's screaming in a very deep irish accent get the bleak doors open and come in and"
+    },
+    {
+      "start": 2985.52,
+      "end": 2994.08,
+      "text": "he would just push and push and push he'd push everybody musicians crews lighting engineers"
+    },
+    {
+      "start": 2994.08,
+      "end": 2999.72,
+      "text": "what have you to the limit and he he wasn't satisfied even if he knew you were giving 100"
+    },
+    {
+      "start": 2999.72,
+      "end": 3004.5,
+      "text": "he'd just do a run through to keep you on your toes but would he drive himself as hard as he"
+    },
+    {
+      "start": 3004.5,
+      "end": 3012.46,
+      "text": "drive others he'd drive himself harder he uh he he he would set a standard um he might not always"
+    },
+    {
+      "start": 3012.46,
+      "end": 3016.68,
+      "text": "achieved the standard of the other members of the band like i don't think philip would claim to be"
+    },
+    {
+      "start": 3016.68,
+      "end": 3023.8,
+      "text": "to have been the best musician in the band at any stage um but he would reach his own level"
+    },
+    {
+      "start": 3023.8,
+      "end": 3029.68,
+      "text": "of proficiency but he could see in others their level of proficiency the level that lee guitarist"
+    },
+    {
+      "start": 3029.68,
+      "end": 3035.53,
+      "text": "could go to and he would push them to that what brian could do on solos and various you know the"
+    },
+    {
+      "start": 3035.53,
+      "end": 3040.73,
+      "text": "keyboard players we had and he would just push everyone until he saw that he was right that he"
+    },
+    {
+      "start": 3040.73,
+      "end": 3047.09,
+      "text": "was getting the adrenaline what do you think then was uh so special between thin lizzy and thin"
+    },
+    {
+      "start": 3047.09,
+      "end": 3054.1,
+      "text": "audience because there was always a a pretty spectacular feel and interchange of energy"
+    },
+    {
+      "start": 3054.1,
+      "end": 3063.62,
+      "text": "between the two um i think that came about very much on the slade tour um when uh we were touring"
+    },
+    {
+      "start": 3063.62,
+      "end": 3069.65,
+      "text": "with slade and they were they were just humongous they were just the bees knees in britain everything"
+    },
+    {
+      "start": 3069.65,
+      "end": 3076.39,
+      "text": "was there we were just stunned by this band to go out and get everything going and well on the"
+    },
+    {
+      "start": 3076.39,
+      "end": 3084.66,
+      "text": "first night of that tour in newcastle uh the bang went on came off and i believe it was chas chandler"
+    },
+    {
+      "start": 3084.66,
+      "end": 3089.42,
+      "text": "came in the dressing room just went crazy the band and says you know if that's the kind of show that"
+    },
+    {
+      "start": 3089.42,
+      "end": 3095.74,
+      "text": "this band puts on they can just forget it they're off the tour you know because philip in the early"
+    },
+    {
+      "start": 3095.74,
+      "end": 3100.52,
+      "text": "days didn't do a lot of moving he used to stand there he'd say nothing between songs he was shy"
+    },
+    {
+      "start": 3100.52,
+      "end": 3103.38,
+      "text": "This is one of the things I noticed in Skig Row when he was with him."
+    },
+    {
+      "start": 3103.44,
+      "end": 3105.64,
+      "text": "He'd stand there, he'd be very shy, but he could feel this."
+    },
+    {
+      "start": 3106.24,
+      "end": 3109.72,
+      "text": "To me, that's who I remembered seeing on stage,"
+    },
+    {
+      "start": 3109.8,
+      "end": 3112.26,
+      "text": "this very shy but very charismatic person."
+    },
+    {
+      "start": 3113.36,
+      "end": 3116.46,
+      "text": "And he actually broke down, he was in tears at this,"
+    },
+    {
+      "start": 3116.54,
+      "end": 3118.0,
+      "text": "on the first night of the slave tour."
+    },
+    {
+      "start": 3118.6,
+      "end": 3121.8,
+      "text": "And from then on, he realised he had to get his act together"
+    },
+    {
+      "start": 3121.8,
+      "end": 3124.56,
+      "text": "and then he started to chat to the audience."
+    },
+    {
+      "start": 3125.04,
+      "end": 3128.1,
+      "text": "And to do that, he had to trust the audience."
+    },
+    {
+      "start": 3128.1,
+      "end": 3130.84,
+      "text": "he had to give them what was inside him"
+    },
+    {
+      "start": 3130.84,
+      "end": 3132.3,
+      "text": "and I don't think he'd really ever done that"
+    },
+    {
+      "start": 3132.3,
+      "end": 3134.2,
+      "text": "with anybody before in his life"
+    },
+    {
+      "start": 3134.2,
+      "end": 3135.98,
+      "text": "and the audience took to this"
+    },
+    {
+      "start": 3135.98,
+      "end": 3136.76,
+      "text": "this sincerity"
+    },
+    {
+      "start": 3136.76,
+      "end": 3140.1,
+      "text": "and this sort of humility"
+    },
+    {
+      "start": 3140.1,
+      "end": 3141.46,
+      "text": "which was unusual"
+    },
+    {
+      "start": 3141.46,
+      "end": 3377.92,
+      "text": "I played lead guitar with Thin Lizzy"
+    },
+    {
+      "start": 3377.92,
+      "end": 3379.8,
+      "text": "and I joined in 1973"
+    },
+    {
+      "start": 3379.8,
+      "end": 3383.24,
+      "text": "until the band broke up in 1983"
+    },
+    {
+      "start": 3383.24,
+      "end": 3388.13,
+      "text": "what is the first sort of recollection"
+    },
+    {
+      "start": 3388.13,
+      "end": 3397.42,
+      "text": "that you have of of the band becoming successful because in in 73 wasn't that big a band yet"
+    },
+    {
+      "start": 3397.42,
+      "end": 3407.44,
+      "text": "no we were um actually a uh pretty much of a club band really striving to get to the top just like"
+    },
+    {
+      "start": 3407.44,
+      "end": 3413.74,
+      "text": "everybody else i mean we'd play in clubs and you'd walk in and you'd be on the stage and the"
+    },
+    {
+      "start": 3413.74,
+      "end": 3421.33,
+      "text": "place wouldn't even be half full so um you know it took us quite a few years to actually get to"
+    },
+    {
+      "start": 3421.33,
+      "end": 3427.67,
+      "text": "our peak you know of being able to sell enough albums where you got gold albums or to where your"
+    },
+    {
+      "start": 3427.67,
+      "end": 3434.03,
+      "text": "uh your albums charted or singles charted you know we had to we had to actually really work at it"
+    },
+    {
+      "start": 3434.03,
+      "end": 3442.23,
+      "text": "i think the first indication of when we actually were uh that we'd actually made us when we"
+    },
+    {
+      "start": 3442.23,
+      "end": 3449.29,
+      "text": "actually came back from our first american tour and we came into to the hammersmith odian and"
+    },
+    {
+      "start": 3449.29,
+      "end": 3454.65,
+      "text": "we'd actually sold the place out you know i mean before that we we'd still been playing in the"
+    },
+    {
+      "start": 3454.65,
+      "end": 3459.57,
+      "text": "clubs and really small theaters where all of a sudden we found ourselves at the hammersmith"
+    },
+    {
+      "start": 3459.57,
+      "end": 3464.83,
+      "text": "odian you know and the place was packed out and as soon as we hit the stage everybody just jumped"
+    },
+    {
+      "start": 3464.83,
+      "end": 3470.85,
+      "text": "up out of their seats and i can remember all of us kind of looking at each other going saying to"
+    },
+    {
+      "start": 3470.85,
+      "end": 3478.21,
+      "text": "of what the hell's going on here right and i think that was because of it we had some success"
+    },
+    {
+      "start": 3478.21,
+      "end": 3484.69,
+      "text": "in america with the boys are back in town and i think it actually took uh being successful"
+    },
+    {
+      "start": 3484.69,
+      "end": 3521.59,
+      "text": "in america to actually show people in england that we were we were worth something haven't changed"
+    },
+    {
+      "start": 3534.23,
+      "end": 3537.29,
+      "text": "Driving all the old men crazy"
+    },
+    {
+      "start": 3537.29,
+      "end": 3574.16,
+      "text": "So back in town, the boys were shaking what she'd got"
+    },
+    {
+      "start": 3574.16,
+      "end": 3576.98,
+      "text": "Man, when I tell you she was cool, she was red hot"
+    },
+    {
+      "start": 3576.98,
+      "end": 3578.86,
+      "text": "I mean, she was steaming"
+    },
+    {
+      "start": 3578.86,
+      "end": 3582.19,
+      "text": "And that time over at Johnny's place"
+    },
+    {
+      "start": 3582.19,
+      "end": 3585.7,
+      "text": "She got up and she slapped Johnny's face"
+    },
+    {
+      "start": 3585.7,
+      "end": 3588.16,
+      "text": "Man, we just fell about the place"
+    },
+    {
+      "start": 3588.16,
+      "end": 3590.64,
+      "text": "If that chick don't wanna know, forget her"
+    },
+    {
+      "start": 3590.64,
+      "end": 3653.28,
+      "text": "Back in town, the boys are good with a spell"
+    },
+    {
+      "start": 3653.28,
+      "end": 3655.69,
+      "text": "If the boys wanna fight, you better let them"
+    },
+    {
+      "start": 3655.69,
+      "end": 3759.47,
+      "text": "very much an atmosphere of of club you know a friendship of of camaraderie when did this uh"
+    },
+    {
+      "start": 3759.47,
+      "end": 3768.57,
+      "text": "particular uh fondness between the band and the audience develop um it was really phil's idea of"
+    },
+    {
+      "start": 3770.44,
+      "end": 3776.36,
+      "text": "stopping the stopping the idea of being the rock band that has put themselves on the pedestal that's"
+    },
+    {
+      "start": 3776.36,
+      "end": 3782.8,
+      "text": "way above the audience he it was his idea to actually say well let's every night after the"
+    },
+    {
+      "start": 3782.8,
+      "end": 3787.74,
+      "text": "show let's bring everybody anybody that wants an autograph or that wants to talk to us or ask us"
+    },
+    {
+      "start": 3787.74,
+      "end": 3794.6,
+      "text": "questions or anything just let them come right on in and we'll sign every autograph and answer"
+    },
+    {
+      "start": 3794.6,
+      "end": 3801.64,
+      "text": "any question they want and we did this every single night right and so you can imagine after"
+    },
+    {
+      "start": 3801.64,
+      "end": 3811.88,
+      "text": "After touring for months and months, you'd get to that night where you'd say to yourself, or I would, I've had enough, I don't want to stay afterwards, all I want to do is get to the hotel."
+    },
+    {
+      "start": 3812.72,
+      "end": 3822.46,
+      "text": "And sometimes I would, but Phil would actually stay there every single night and sign every single autograph and talk to anybody that wanted to talk to him."
+    },
+    {
+      "start": 3822.46,
+      "end": 3825.54,
+      "text": "I mean, I had to hand it to him."
+    },
+    {
+      "start": 3825.62,
+      "end": 3832.28,
+      "text": "It was pretty good on the energy side there to be able to keep that kind of thing up,"
+    },
+    {
+      "start": 3832.78,
+      "end": 3835.94,
+      "text": "especially when I knew how tired he actually was."
+    },
+    {
+      "start": 3836.92,
+      "end": 3839.02,
+      "text": "Did he drive himself too hard, do you think?"
+    },
+    {
+      "start": 3839.04,
+      "end": 3842.14,
+      "text": "Well, I think Phil was a bit of a workaholic."
+    },
+    {
+      "start": 3842.84,
+      "end": 3847.76,
+      "text": "You've got to remember, Phil was the main visionary of the band."
+    },
+    {
+      "start": 3848.28,
+      "end": 3852.22,
+      "text": "He always seemed to know where he wanted to go with what we were doing."
+    },
+    {
+      "start": 3852.22,
+      "end": 3856.04,
+      "text": "and he always seemed to have the main ideas, right?"
+    },
+    {
+      "start": 3856.22,
+      "end": 3859.26,
+      "text": "And most of us would, you know, I mean,"
+    },
+    {
+      "start": 3859.86,
+      "end": 3862.66,
+      "text": "we couldn't agree with everything that he came up with,"
+    },
+    {
+      "start": 3862.74,
+      "end": 3867.04,
+      "text": "but nine times out of ten, everybody would say,"
+    },
+    {
+      "start": 3867.16,
+      "end": 3868.98,
+      "text": "well, right, you know, that sounds like a good idea to me."
+    },
+    {
+      "start": 3869.04,
+      "end": 3870.54,
+      "text": "Let's go that way, you know."
+    },
+    {
+      "start": 3870.88,
+      "end": 3875.4,
+      "text": "I remember the day he actually came into the studio"
+    },
+    {
+      "start": 3875.4,
+      "end": 3877.44,
+      "text": "with the lyrics to Dancing in the Moonlight,"
+    },
+    {
+      "start": 3878.29,
+      "end": 3881.87,
+      "text": "and he seemed to be really pumped up about this one certain song."
+    },
+    {
+      "start": 3882.29,
+      "end": 3885.87,
+      "text": "And he came storming in the doors and said, listen, everybody sit down."
+    },
+    {
+      "start": 3886.75,
+      "end": 3890.27,
+      "text": "You've got to hear the lyrics to this song, which he never really normally did."
+    },
+    {
+      "start": 3890.79,
+      "end": 3893.53,
+      "text": "So we all sat down and he read off the lyrics to us."
+    },
+    {
+      "start": 3893.81,
+      "end": 3896.81,
+      "text": "And we thought, yeah, right, let's do that."
+    },
+    {
+      "start": 3896.99,
+      "end": 3898.07,
+      "text": "That sounds great."
+    },
+    {
+      "start": 3915.1,
+      "end": 3925.84,
+      "text": "I should have took that last bus home, but I asked you for a dance."
+    },
+    {
+      "start": 3926.68,
+      "end": 3929.32,
+      "text": "Now we go steady to the pictures."
+    },
+    {
+      "start": 3929.32,
+      "end": 3933.63,
+      "text": "I always get chocolate stains on my pants"
+    },
+    {
+      "start": 3933.63,
+      "end": 3936.73,
+      "text": "And my father, he's going crazy"
+    },
+    {
+      "start": 3936.73,
+      "end": 3939.09,
+      "text": "He says I'm living in a trance"
+    },
+    {
+      "start": 3939.09,
+      "end": 3941.31,
+      "text": "But I'm dancing in the moonlight"
+    },
+    {
+      "start": 3941.31,
+      "end": 3944.46,
+      "text": "It's got me in its spotlight"
+    },
+    {
+      "start": 3944.46,
+      "end": 3948.08,
+      "text": "Dancing in the moonlight"
+    },
+    {
+      "start": 3948.08,
+      "end": 3951.82,
+      "text": "On this long, hot summer night"
+    },
+    {
+      "start": 3951.82,
+      "end": 3959.69,
+      "text": "And I'm on the street"
+    },
+    {
+      "start": 3959.69,
+      "end": 3964.09,
+      "text": "I disobeyed another warning"
+    },
+    {
+      "start": 3964.09,
+      "end": 3967.41,
+      "text": "I should have been here by ten"
+    },
+    {
+      "start": 3967.41,
+      "end": 3974.13,
+      "text": "now i won't get out till sunday i'll have to say i stayed with friends"
+    },
+    {
+      "start": 3974.13,
+      "end": 3980.47,
+      "text": "oh but it's a habit worth forming if it means to justify the end"
+    },
+    {
+      "start": 3980.47,
+      "end": 3985.9,
+      "text": "dancing in the moonlight caught me in a spotlight"
+    },
+    {
+      "start": 3985.9,
+      "end": 3993.06,
+      "text": "dancing in the moonlight on this long hot summer night"
+    },
+    {
+      "start": 3993.06,
+      "end": 4004.52,
+      "text": "And I'm walking home"
+    },
+    {
+      "start": 4004.52,
+      "end": 4011.87,
+      "text": "The last bus is long gone"
+    },
+    {
+      "start": 4011.87,
+      "end": 4018.32,
+      "text": "I'm dancing in the moonlight"
+    },
+    {
+      "start": 4018.32,
+      "end": 4098.44,
+      "text": "The main things that I remember about Phil was"
+    },
+    {
+      "start": 4098.44,
+      "end": 4103.29,
+      "text": "we all knew what it was like to be a support band"
+    },
+    {
+      "start": 4103.29,
+      "end": 4105.67,
+      "text": "and how tough it was on your music."
+    },
+    {
+      "start": 4106.79,
+      "end": 4111.67,
+      "text": "You tried to play to the main act's audience"
+    },
+    {
+      "start": 4111.67,
+      "end": 4113.53,
+      "text": "for very little money"
+    },
+    {
+      "start": 4113.53,
+      "end": 4116.91,
+      "text": "and hardly any adulation at all."
+    },
+    {
+      "start": 4117.09,
+      "end": 4120.73,
+      "text": "So Phil actually, he knew this, he knew what it felt like,"
+    },
+    {
+      "start": 4120.91,
+      "end": 4126.03,
+      "text": "so inevitably almost every support band that we would have on our show,"
+    },
+    {
+      "start": 4126.81,
+      "end": 4130.29,
+      "text": "you'd always find them backstage in their dressing room"
+    },
+    {
+      "start": 4130.29,
+      "end": 4133.27,
+      "text": "trying to show them the ways to actually build their sets."
+    },
+    {
+      "start": 4134.29,
+      "end": 4138.43,
+      "text": "You start out here and then you want to build it up to this point here"
+    },
+    {
+      "start": 4138.43,
+      "end": 4139.79,
+      "text": "and then bring it down a little bit there"
+    },
+    {
+      "start": 4139.79,
+      "end": 4142.67,
+      "text": "and then really hit them in the head with your last songs,"
+    },
+    {
+      "start": 4142.67,
+      "end": 4147.45,
+      "text": "He was trying to teach these people how to win the audience over,"
+    },
+    {
+      "start": 4147.53,
+      "end": 4151.67,
+      "text": "even though they were our audience, get out there and really fight for it."
+    },
+    {
+      "start": 4151.67,
+      "end": 4156.75,
+      "text": "He actually gave these people a kick in the rear end"
+    },
+    {
+      "start": 4156.75,
+      "end": 4159.89,
+      "text": "just so they wouldn't get discouraged about the whole thing."
+    },
+    {
+      "start": 4160.61,
+      "end": 4167.53,
+      "text": "A point of fact is Huey Lewis was one of the people that were supporting us."
+    },
+    {
+      "start": 4167.65,
+      "end": 4169.69,
+      "text": "He was in a group called Clover,"
+    },
+    {
+      "start": 4169.69,
+      "end": 4174.44,
+      "text": "and they were actually getting killed on the tour."
+    },
+    {
+      "start": 4174.92,
+      "end": 4176.08,
+      "text": "I mean, they would walk on"
+    },
+    {
+      "start": 4176.08,
+      "end": 4179.58,
+      "text": "and people would actually start throwing things at them."
+    },
+    {
+      "start": 4179.7,
+      "end": 4180.58,
+      "text": "Nobody would be listening."
+    },
+    {
+      "start": 4180.7,
+      "end": 4182.18,
+      "text": "Nobody would actually be coming into the hall."
+    },
+    {
+      "start": 4182.8,
+      "end": 4184.82,
+      "text": "So that's when Phil would actually go backstage"
+    },
+    {
+      "start": 4184.82,
+      "end": 4187.8,
+      "text": "and actually showed them how to put his set together."
+    },
+    {
+      "start": 4188.58,
+      "end": 4190.66,
+      "text": "And I think to this day"
+    },
+    {
+      "start": 4190.66,
+      "end": 4193.84,
+      "text": "that probably Huey actually learned quite a bit"
+    },
+    {
+      "start": 4193.84,
+      "end": 4195.1,
+      "text": "through that experience."
+    },
+    {
+      "start": 4196.0,
+      "end": 4198.1,
+      "text": "He recorded a significant amount of music with him."
+    },
+    {
+      "start": 4198.34,
+      "end": 4199.38,
+      "text": "Lots and lots of music."
+    },
+    {
+      "start": 4199.38,
+      "end": 4207.98,
+      "text": "what piece of music do you think is fitting to play now um i think he would probably like to hear"
+    },
+    {
+      "start": 4207.98,
+      "end": 4209.72,
+      "text": "a bad reputation"
+    },
+    {
+      "start": 4209.72,
+      "end": 4405.05,
+      "text": "this is snowy white here um i worked with phil from 1980 to the summer of 1982"
+    },
+    {
+      "start": 4405.05,
+      "end": 4412.49,
+      "text": "which was um obviously a very interesting time for me uh the thing about working with phil was"
+    },
+    {
+      "start": 4412.49,
+      "end": 4419.93,
+      "text": "that I always felt so confident on stage that he could actually handle whatever turned"
+    },
+    {
+      "start": 4419.93,
+      "end": 4426.47,
+      "text": "up at the gig, whether all the power went off or the audience was shouting things or"
+    },
+    {
+      "start": 4426.47,
+      "end": 4434.27,
+      "text": "things went wrong. Phil was such a good performer that he would always handle it really well"
+    },
+    {
+      "start": 4434.27,
+      "end": 4440.52,
+      "text": "so I could just concentrate on playing the guitar. We always used to kick off with Are"
+    },
+    {
+      "start": 4440.52,
+      "end": 4444.42,
+      "text": "Are You Ready?, which is a really great song to kick off with."
+    },
+    {
+      "start": 4444.58,
+      "end": 4448.48,
+      "text": "I used to enjoy running out on stage and going to that number."
+    },
+    {
+      "start": 4449.26,
+      "end": 4628.79,
+      "text": "It's true that Phil and I were on different wavelengths"
+    },
+    {
+      "start": 4628.79,
+      "end": 4631.87,
+      "text": "and I guess you could say completely different personalities."
+    },
+    {
+      "start": 4633.22,
+      "end": 4637.42,
+      "text": "Phil was a hell-raiser and a hard-living guy"
+    },
+    {
+      "start": 4637.42,
+      "end": 4641.92,
+      "text": "who just lived solely for his music and the lifestyle involved."
+    },
+    {
+      "start": 4643.09,
+      "end": 4646.27,
+      "text": "And I tended to be a lot quieter, which I think everybody noticed."
+    },
+    {
+      "start": 4647.25,
+      "end": 4651.45,
+      "text": "and I tend to go to bed a bit earlier than the rest of the boys."
+    },
+    {
+      "start": 4652.39,
+      "end": 4655.53,
+      "text": "But after you'd actually been in the band and after you left,"
+    },
+    {
+      "start": 4656.21,
+      "end": 4658.07,
+      "text": "there were a lot of things recorded"
+    },
+    {
+      "start": 4658.07,
+      "end": 4661.03,
+      "text": "during the time that you were with the band and afterwards"
+    },
+    {
+      "start": 4661.03,
+      "end": 4663.51,
+      "text": "which had a much, much softer side."
+    },
+    {
+      "start": 4664.19,
+      "end": 4667.49,
+      "text": "Do you think that he picked up some of the more, if you like,"
+    },
+    {
+      "start": 4667.61,
+      "end": 4670.85,
+      "text": "emotional aspects of his music from your input?"
+    },
+    {
+      "start": 4672.68,
+      "end": 4677.3,
+      "text": "Phil was actually going on to the softer side of things"
+    },
+    {
+      "start": 4677.3,
+      "end": 4683.5,
+      "text": "before i joined i think because he he just released um a track called sarah which was"
+    },
+    {
+      "start": 4683.5,
+      "end": 4688.04,
+      "text": "about his daughter which was i thought it was a lovely song because he was a good songwriter"
+    },
+    {
+      "start": 4688.04,
+      "end": 4695.42,
+      "text": "and that was very mellow and his solo albums were much much more mellow than any hard rocking thin"
+    },
+    {
+      "start": 4695.42,
+      "end": 4701.08,
+      "text": "lizzy stuff and there was that side to phil that in fact didn't come out with thin lizzy which"
+    },
+    {
+      "start": 4701.08,
+      "end": 4706.52,
+      "text": "obviously he was uh pleased to get out of him with um the solo albums i think there's"
+    },
+    {
+      "start": 4706.52,
+      "end": 4710.84,
+      "text": "different sides to everybody really there's a hard rocking heavy side to me as well which"
+    },
+    {
+      "start": 4710.84,
+      "end": 4716.66,
+      "text": "comes out now and then but i'm more in the other mellow direction for instance the title track of"
+    },
+    {
+      "start": 4716.66,
+      "end": 4723.12,
+      "text": "the renegade album was um i thought it was a good track and a lot of that was down to me the actual"
+    },
+    {
+      "start": 4723.12,
+      "end": 4727.86,
+      "text": "mellow side of the guitar and i thought really it was it was a nice change"
+    },
+    {
+      "start": 4727.86,
+      "end": 4773.42,
+      "text": "he's a rebel that has fallen down he's a fool that blown away he's a renegade he's a clown"
+    },
+    {
+      "start": 4773.42,
+      "end": 4786.62,
+      "text": "that we put down he's a man that doesn't fit he's a king but not in this town"
+    },
+    {
+      "start": 4786.62,
+      "end": 4792.23,
+      "text": "Do you believe he's a renegade?"
+    },
+    {
+      "start": 4794.56,
+      "end": 4797.59,
+      "text": "But he is a king when he's old, he's old"
+    },
+    {
+      "start": 4797.59,
+      "end": 4807.38,
+      "text": "He's got a bike and when he rides"
+    },
+    {
+      "start": 4807.38,
+      "end": 4814.5,
+      "text": "He's like the wind, he's a renegade"
+    },
+    {
+      "start": 4814.5,
+      "end": 5084.14,
+      "text": "We're on the scene as long as Phil had become established"
+    },
+    {
+      "start": 5084.14,
+      "end": 5090.5,
+      "text": "in the respect that when somebody thinks of the music scene"
+    },
+    {
+      "start": 5090.5,
+      "end": 5093.24,
+      "text": "and the certain aspects of it, they see the figure of Phil"
+    },
+    {
+      "start": 5093.24,
+      "end": 5096.4,
+      "text": "because he epitomizes a certain aspect of the music"
+    },
+    {
+      "start": 5096.4,
+      "end": 5099.64,
+      "text": "In this case, it was the hard rock side of things."
+    },
+    {
+      "start": 5100.98,
+      "end": 5108.3,
+      "text": "And I think he added certainly the excitement"
+    },
+    {
+      "start": 5108.3,
+      "end": 5110.78,
+      "text": "that is lacking from a lot of bands"
+    },
+    {
+      "start": 5110.78,
+      "end": 5114.49,
+      "text": "just because of his lifestyle and his attitude towards things."
+    },
+    {
+      "start": 5114.71,
+      "end": 5117.95,
+      "text": "He really was a musician."
+    },
+    {
+      "start": 5118.51,
+      "end": 5121.99,
+      "text": "I don't mean necessarily he could read music well"
+    },
+    {
+      "start": 5121.99,
+      "end": 5123.49,
+      "text": "or play instruments particularly well or anything,"
+    },
+    {
+      "start": 5123.49,
+      "end": 5127.6,
+      "text": "but he was a musician in that he lived for playing music,"
+    },
+    {
+      "start": 5127.6,
+      "end": 5131.38,
+      "text": "playing the bass, and the whole lifestyle that evolved around it."
+    },
+    {
+      "start": 5132.98,
+      "end": 5136.88,
+      "text": "So, I mean, it was the highlight of his life at any moment of time"
+    },
+    {
+      "start": 5136.88,
+      "end": 5140.34,
+      "text": "to get up on that stage, put the bass between his legs and roar."
+    },
+    {
+      "start": 5141.39,
+      "end": 5141.91,
+      "text": "That's right."
+    },
+    {
+      "start": 5142.25,
+      "end": 5145.79,
+      "text": "That was the moment for Phil when he got on stage and played the bass"
+    },
+    {
+      "start": 5145.79,
+      "end": 5149.85,
+      "text": "and sang, and the audience was there with him, shouting, cheering,"
+    },
+    {
+      "start": 5149.85,
+      "end": 5154.85,
+      "text": "and it elevated him to the highest that he wanted to go, I think."
+    },
+    {
+      "start": 5155.79,
+      "end": 5157.45,
+      "text": "He wouldn't have had it any other way, I don't think."
+    },
+    {
+      "start": 5157.45,
+      "end": 5465.05,
+      "text": "hi this is john sykes i first met phil in ireland when i was doing a solo single he very kindly said"
+    },
+    {
+      "start": 5465.05,
+      "end": 5471.6,
+      "text": "he'd do this single with me we got together with a producer called chris tangarides and we start"
+    },
+    {
+      "start": 5471.6,
+      "end": 5476.46,
+      "text": "that was the first time we met each other and he quite liked me and i was really excited to meet him"
+    },
+    {
+      "start": 5476.46,
+      "end": 5481.52,
+      "text": "because he was prior to this when i used to just play in club bands and things what i used to do"
+    },
+    {
+      "start": 5481.52,
+      "end": 5483.78,
+      "text": "was play Thin Lizzy tunes."
+    },
+    {
+      "start": 5485.2,
+      "end": 5487.26,
+      "text": "And so it was a real buzz for me to see Phil."
+    },
+    {
+      "start": 5487.32,
+      "end": 5492.28,
+      "text": "I remember when I first met him, it was really exciting to see him"
+    },
+    {
+      "start": 5492.28,
+      "end": 5494.84,
+      "text": "and even just to get in a car with him"
+    },
+    {
+      "start": 5494.84,
+      "end": 5498.06,
+      "text": "and watch people's expressions on their faces as we drove past"
+    },
+    {
+      "start": 5498.06,
+      "end": 5500.1,
+      "text": "and they'd see it was Phil was just unbelievable."
+    },
+    {
+      "start": 5501.71,
+      "end": 5507.99,
+      "text": "So shortly after that, he asked me if I'd like to take the place"
+    },
+    {
+      "start": 5507.99,
+      "end": 5514.37,
+      "text": "of Snowy and Thin Lizzy, which was just a dream come true for me."
+    },
+    {
+      "start": 5514.37,
+      "end": 5523.1,
+      "text": "so naturally I just took the gig straight away and we'd flown back from"
+    },
+    {
+      "start": 5523.1,
+      "end": 5529.03,
+      "text": "Dublin back to London and it was only a matter of three days or something and we"
+    },
+    {
+      "start": 5529.03,
+      "end": 5533.25,
+      "text": "was in the studio starting the Thunder and Lightning album well I didn't know"
+    },
+    {
+      "start": 5533.25,
+      "end": 5537.63,
+      "text": "any of the tracks I just walked into this big studio it was the first time I've"
+    },
+    {
+      "start": 5537.63,
+      "end": 5543.01,
+      "text": "been in a studio like that it was a great studio, Eel Pie studio, Pete Townshend"
+    },
+    {
+      "start": 5543.01,
+      "end": 5552.76,
+      "text": "dancing. I walked in, I was overwhelmed by everything. So what we did was everyone was"
+    },
+    {
+      "start": 5552.76,
+      "end": 5558.62,
+      "text": "just standing in the actual studio part where there was Brian up on a drum riser and we"
+    },
+    {
+      "start": 5558.62,
+      "end": 5563.37,
+      "text": "were just standing around, Scott was sitting down and I was sitting down and Phil was there"
+    },
+    {
+      "start": 5563.37,
+      "end": 5567.01,
+      "text": "and he just said to me, this was the first time, I hadn't even played with a band before"
+    },
+    {
+      "start": 5567.01,
+      "end": 5571.51,
+      "text": "this and he'd already asked me if I wanted to join, just from the work we did with the"
+    },
+    {
+      "start": 5571.51,
+      "end": 5580.78,
+      "text": "single and uh so he said to me just play a riff any riff you like and i just started playing a"
+    },
+    {
+      "start": 5580.78,
+      "end": 5587.58,
+      "text": "riff and he said yeah we used that bit and then we just started jamming around for about an hour"
+    },
+    {
+      "start": 5587.58,
+      "end": 5593.48,
+      "text": "or something you know and an hour later we had cold sweat which turned out to be the single off"
+    },
+    {
+      "start": 5593.48,
+      "end": 5599.9,
+      "text": "the album you know which was doing quite well he was a genius in the studio if a filler do things"
+    },
+    {
+      "start": 5599.9,
+      "end": 5605.06,
+      "text": "in the studio which you'd listen to you know he'd lay one track of vocal things down and you'd think"
+    },
+    {
+      "start": 5605.06,
+      "end": 5610.04,
+      "text": "what's he doing that's never going to work you know and then he put another two or three parts"
+    },
+    {
+      "start": 5610.04,
+      "end": 5613.9,
+      "text": "to it and it'd just be unbelievable the thing that he thought up because you just wouldn't"
+    },
+    {
+      "start": 5613.9,
+      "end": 5802.28,
+      "text": "think of it it'd just come out with it you know i'll be that to get on a stage with phil and it"
+    },
+    {
+      "start": 5802.28,
+      "end": 5808.12,
+      "text": "wouldn't matter if half the equipment went down or if you made the the worst mistake in the world"
+    },
+    {
+      "start": 5808.12,
+      "end": 5814.06,
+      "text": "phil would just look around and laugh at you and as if it was nothing he just you know no pressure"
+    },
+    {
+      "start": 5814.06,
+      "end": 5816.68,
+      "text": "I never felt pressure getting on a stage with Phil."
+    },
+    {
+      "start": 5817.44,
+      "end": 5819.36,
+      "text": "Because you knew as soon as Phil walked on a stage,"
+    },
+    {
+      "start": 5819.44,
+      "end": 5820.88,
+      "text": "I mean, he was the best in the business."
+    },
+    {
+      "start": 5822.32,
+      "end": 5824.76,
+      "text": "As soon as Phil walked onto a stage with Lizzie,"
+    },
+    {
+      "start": 5824.8,
+      "end": 5827.22,
+      "text": "he'd have the audience eating out the palm of his hand."
+    },
+    {
+      "start": 5828.47,
+      "end": 5829.67,
+      "text": "There'd be no problem there."
+    },
+    {
+      "start": 5830.43,
+      "end": 5832.29,
+      "text": "I mean, Phil was the main thing."
+    },
+    {
+      "start": 5832.71,
+      "end": 5834.87,
+      "text": "I mean, without Phil, Thin Liz is nothing."
+    },
+    {
+      "start": 5835.97,
+      "end": 5837.15,
+      "text": "Phil was Thin Lizzy."
+    },
+    {
+      "start": 5838.13,
+      "end": 5841.69,
+      "text": "I mean, Phil always came across as a hard-living,"
+    },
+    {
+      "start": 5841.81,
+      "end": 5842.93,
+      "text": "hard-going rock and roller,"
+    },
+    {
+      "start": 5842.93,
+      "end": 5846.01,
+      "text": "but Phil was really a romantic at heart as well, wasn't he?"
+    },
+    {
+      "start": 5846.09,
+      "end": 5849.03,
+      "text": "I mean, some of the lyrics he'd write were just..."
+    },
+    {
+      "start": 5849.03,
+      "end": 5851.03,
+      "text": "I mean, the song Still in Love We Want,"
+    },
+    {
+      "start": 5851.09,
+      "end": 5853.63,
+      "text": "that was one of my favourite songs to play"
+    },
+    {
+      "start": 5853.63,
+      "end": 5857.09,
+      "text": "and it always touched me, you know, the way he'd sing it and everything"
+    },
+    {
+      "start": 5857.09,
+      "end": 5860.12,
+      "text": "because he'd put so much emotion into it."
+    },
+    {
+      "start": 5860.18,
+      "end": 5865.0,
+      "text": "So as much as the side of him that would be really hard and rocky"
+    },
+    {
+      "start": 5865.52,
+      "end": 5870.08,
+      "text": "and heavy going and big, tough Phil, he had this soft side,"
+    },
+    {
+      "start": 5870.42,
+      "end": 5873.47,
+      "text": "you know, which was unbelievable."
+    },
+    {
+      "start": 5873.51,
+      "end": 5878.66,
+      "text": "I'd say he was an unbelievable talent"
+    },
+    {
+      "start": 5878.66,
+      "end": 5883.54,
+      "text": "And an unbelievable friend"
+    },
+    {
+      "start": 5883.54,
+      "end": 5890.12,
+      "text": "And I think he was just a true gentleman"
+    },
+    {
+      "start": 5890.12,
+      "end": 5894.95,
+      "text": "Dedicated beyond belief to the work he did"
+    },
+    {
+      "start": 5894.95,
+      "end": 5899.52,
+      "text": "He was the ultimate rock and roll star"
+    },
+    {
+      "start": 5899.52,
+      "end": 5905.27,
+      "text": "I mean, people say Elvis was the king of rock and roll"
+    },
+    {
+      "start": 5905.27,
+      "end": 5907.01,
+      "text": "Phil was the king of rock and roll"
+    },
+    {
+      "start": 5907.01,
+      "end": 5908.95,
+      "text": "For sure"
+    },
+    {
+      "start": 5908.95,
+      "end": 6363.3,
+      "text": "she tries but she is still captured by herself she knows now can you remember at all brian anything"
+    },
+    {
+      "start": 6363.3,
+      "end": 6367.72,
+      "text": "that he that he might have sung in the schoolyard or when you were mucking about having a couple of"
+    },
+    {
+      "start": 6367.72,
+      "end": 6369.08,
+      "text": "illicit guinnesses or whatever"
+    },
+    {
+      "start": 6369.08,
+      "end": 6837.24,
+      "text": "Can I just ask you to, in your own words,"
+    },
+    {
+      "start": 6837.9,
+      "end": 6842.0,
+      "text": "thinking of all the Lizzie material that you've created over the years,"
+    },
+    {
+      "start": 6842.4,
+      "end": 6847.22,
+      "text": "to introduce a song that you would consider to be a fitting tribute?"
+    },
+    {
+      "start": 6847.74,
+      "end": 6857.84,
+      "text": "One that does spring to mind, I suppose, is Farnabella's Presley's Two."
+    },
+    {
+      "start": 6857.84,
+      "end": 6877.74,
+      "text": "It was a rainy night, the night the king went down."
+    },
+    {
+      "start": 6878.89,
+      "end": 6883.62,
+      "text": "Everybody was crying, it seemed like sadness had surrounded the town."
+    },
+    {
+      "start": 6883.98,
+      "end": 6891.69,
+      "text": "I went to the liquor store, and I bought a bottle of wine and a bottle of gin."
+    },
+    {
+      "start": 6892.43,
+      "end": 6894.75,
+      "text": "I played his records all night."
+    },
+    {
+      "start": 6899.04,
+      "end": 6905.02,
+      "text": "Now some people say that that ain't right, and some people say nothing at all."
+    },
+    {
+      "start": 6905.02,
+      "end": 6908.77,
+      "text": "But even in the darkest of nights"
+    },
+    {
+      "start": 6908.77,
+      "end": 6911.67,
+      "text": "You can always hear the king call"
+    },
+    {
+      "start": 6911.67,
+      "end": 6917.0,
+      "text": "You can always hear the king call"
+    },
+    {
+      "start": 6917.0,
+      "end": 6926.89,
+      "text": "Well, they put him away in Memphis"
+    },
+    {
+      "start": 6926.89,
+      "end": 6930.69,
+      "text": "Six feet beneath the cliff"
+    },
+    {
+      "start": 6930.69,
+      "end": 6932.19,
+      "text": "Everybody was crying"
+    },
+    {
+      "start": 6932.19,
+      "end": 6935.63,
+      "text": "Everybody said it was a plain green day"
+    },
+    {
+      "start": 6935.63,
+      "end": 6940.62,
+      "text": "I went to the liquor store"
+    },
+    {
+      "start": 6940.62,
+      "end": 6942.76,
+      "text": "And I bought another bottle of wine"
+    },
+    {
+      "start": 6942.76,
+      "end": 6944.12,
+      "text": "And another bottle of gin"
+    },
+    {
+      "start": 6944.12,
+      "end": 6947.32,
+      "text": "I played his records all night"
+    },
+    {
+      "start": 6947.32,
+      "end": 6949.7,
+      "text": "And I got drunk all over again"
+    },
+    {
+      "start": 6949.7,
+      "end": 6953.58,
+      "text": "Now some people say that that ain't right"
+    },
+    {
+      "start": 6953.58,
+      "end": 6957.02,
+      "text": "And some people say nothing at all"
+    },
+    {
+      "start": 6957.02,
+      "end": 6960.54,
+      "text": "But even in the darkest of night"
+    },
+    {
+      "start": 6960.54,
+      "end": 6963.66,
+      "text": "You can always hear the king call"
+    },
+    {
+      "start": 6963.66,
+      "end": 6968.64,
+      "text": "You can always hear the king call"
+    },
+    {
+      "start": 6968.64,
+      "end": 7008.94,
+      "text": "And some people say nothing at all"
+    },
+    {
+      "start": 7008.94,
+      "end": 7012.53,
+      "text": "But even in the darkest of night"
+    },
+    {
+      "start": 7012.53,
+      "end": 7015.71,
+      "text": "You can always hear the king call"
+    },
+    {
+      "start": 7015.71,
+      "end": 7091.77,
+      "text": "Radio 1's tribute to Phil Lynott"
+    },
+    {
+      "start": 7091.77,
+      "end": 7093.35,
+      "text": "Presented you the voices of"
+    },
+    {
+      "start": 7093.35,
+      "end": 7095.27,
+      "text": "Eric Bell, Brian Robertson"
+    },
+    {
+      "start": 7095.27,
+      "end": 7097.61,
+      "text": "Peter Eustace, Scott Gorham"
+    },
+    {
+      "start": 7097.61,
+      "end": 7100.05,
+      "text": "Snowy White, John Sykes"
+    },
+    {
+      "start": 7100.05,
+      "end": 7101.73,
+      "text": "And Brian Downey"
+    },
+    {
+      "start": 7101.73,
+      "end": 7110.08,
+      "text": "The production was by Tony Wilson"
+    },
+    {
+      "start": 7110.08,
+      "end": 7112.11,
+      "text": "I'm Tommy Vance"
+    },
+    {
+      "start": 7112.11,
+      "end": 7127.69,
+      "text": "Once again we'd like to thank you"
+    },
+    {
+      "start": 7127.69,
+      "end": 7134.6,
+      "text": "Hope you had a good time"
+    },
+    {
+      "start": 7134.6,
+      "end": 7216.6,
+      "text": "It's 12 o'clock, midnight. Here's the news read by Steve Madden."
+    },
+    {
+      "start": 7216.9,
+      "end": 7221.38,
+      "text": "The headlines, Mr. Heseltine steps up his support for the European rescue bid for Westland."
+    },
+    {
+      "start": 7222.04,
+      "end": 7225.54,
+      "text": "Mrs. Linda Chalker joins the Foreign Office as part of the ministerial reshuffle."
+    },
+    {
+      "start": 7226.18,
+      "end": 7228.4,
+      "text": "And how the sparks flew at Sting's concert."
+    },
+    {
+      "start": 7229.84,
+      "end": 7234.22,
+      "text": "The former Defence Secretary, Mr. Michael Heseltine, has said he's going to devote all his energy"
+    },
+    {
+      "start": 7234.22,
+      "end": 7236.94,
+      "text": "to supporting the European rescue bid for Westland helicopters."
+    },
+    {
+      "start": 7237.7,
+      "end": 7241.26,
+      "text": "His determination to gain the backing of the Westland shareholders has been strengthened"
+    },
+    {
+      "start": 7241.26,
+      "end": 7245.02,
+      "text": "with the announcement that the British electronics group United Scientific Holdings,"
+    },
+    {
+      "start": 7245.46,
+      "end": 7249.28,
+      "text": "which owns 5% of the company's shares, is in favour of the European offer,"
+    },
+    {
+      "start": 7249.64,
+      "end": 7252.18,
+      "text": "rather than the rival proposal from Sikorsky Fiat."
+    },
+    {
+      "start": 7252.7,
+      "end": 7256.94,
+      "text": "This latest support comes after confirmation that the millionaire, Mr Alan Bristow,"
+    },
+    {
+      "start": 7257.3,
+      "end": 7261.74,
+      "text": "who is also in favour of the European bid, had increased his holding in Westland to 10%."
+    },
+    {
+      "start": 7261.74,
+      "end": 7267.24,
+      "text": "The Prime Minister has spoken publicly for the first time on Mr Heseltine's resignation as Defence Secretary."
+    },
+    {
+      "start": 7267.4,
+      "end": 7271.12,
+      "text": "She told a group of American journalists in London that there would be no recrimination"
+    },
+    {
+      "start": 7271.12,
+      "end": 7274.12,
+      "text": "Here's our Chief Political Correspondent Brian Courtois."
+    },
+    {
+      "start": 7274.12,
+      "end": 7279.12,
+      "text": "Mrs Thatcher, apparently unruffled by yesterday's sensational resignation,"
+    },
+    {
+      "start": 7279.12,
+      "end": 7284.12,
+      "text": "said that although she was sad to lose Mr Heseltine, the Government had to put that behind them."
+    },
+    {
+      "start": 7284.12,
+      "end": 7288.12,
+      "text": "She insisted there had been full discussion on Westland at Cabinet level."
+    },
+    {
+      "start": 7288.12,
+      "end": 7293.12,
+      "text": "She refused to answer detailed questions about Mr Heseltine's criticism of her."
+    },
+    {
+      "start": 7293.12,
+      "end": 7299.12,
+      "text": "It was emphasised, however, that Mrs Thatcher had been even-handed in the whole Westland affair."
+    },
+    {
+      "start": 7299.12,
+      "end": 7306.12,
+      "text": "Despite opposition pressure, she doesn't intend to make a statement on Westland when the Commons reassembles on Monday."
+    },
+    {
+      "start": 7306.12,
+      "end": 7314.16,
+      "text": "One of the consequences of the Cabinet reshuffle following Mr Heseltine's resignation is the appointment of Mrs Linda Chalker as Minister of State at the Foreign Office."
+    },
+    {
+      "start": 7314.16,
+      "end": 7316.16,
+      "text": "She replaces Mr Malcolm Rifkind."
+    },
+    {
+      "start": 7316.16,
+      "end": 7319.16,
+      "text": "Mrs Chalker has been Transport Minister since 1983."
+    },
+    {
+      "start": 7319.16,
+      "end": 7323.16,
+      "text": "Her achievements include the piloting of the seatbelt laws onto the statute book."
+    },
+    {
+      "start": 7323.16,
+      "end": 7329.5,
+      "text": "book. At the end of the inquiry into how the so-called Cyprus spy case was handled, the"
+    },
+    {
+      "start": 7329.5,
+      "end": 7334.22,
+      "text": "independent council has strongly criticised the RAF police for putting the interests of the state"
+    },
+    {
+      "start": 7334.22,
+      "end": 7337.92,
+      "text": "before those of the servicemen they were questioning. He said the detention of the"
+    },
+    {
+      "start": 7337.92,
+      "end": 7342.58,
+      "text": "eight suspects in solitary confinement for several weeks had been oppressive. The chairman of the"
+    },
+    {
+      "start": 7342.58,
+      "end": 7347.78,
+      "text": "inquiry is to visit Cyprus before publishing his report. The Trade and Industry Secretary,"
+    },
+    {
+      "start": 7347.88,
+      "end": 7351.86,
+      "text": "Mr Leon Britton, is setting up an inquiry into the Lloyds of London insurance market."
+    },
+    {
+      "start": 7351.86,
+      "end": 7356.82,
+      "text": "It'll look at whether investors and members get the same protection as their city counterparts outside Lloyds."
+    },
+    {
+      "start": 7358.81,
+      "end": 7362.73,
+      "text": "Commonwealth High Commissioners, after a meeting in London, have given a warning to South Africa"
+    },
+    {
+      "start": 7362.73,
+      "end": 7367.37,
+      "text": "not to attack neighbouring countries in retaliation for terrorist incidents along South Africa's borders."
+    },
+    {
+      "start": 7368.17,
+      "end": 7373.15,
+      "text": "They also urged Pretoria not to impede a forthcoming mission to South Africa by a Commonwealth-appointed committee."
+    },
+    {
+      "start": 7373.55,
+      "end": 7374.43,
+      "text": "John Osman reports."
+    },
+    {
+      "start": 7374.95,
+      "end": 7381.15,
+      "text": "No fewer than 43 representatives of Commonwealth governments in London attended today's meeting, including Britain."
+    },
+    {
+      "start": 7381.15,
+      "end": 7387.91,
+      "text": "They agreed that in every major respect things had deteriorated in Southern Africa since the Commonwealth Conference."
+    },
+    {
+      "start": 7388.55,
+      "end": 7394.07,
+      "text": "They were worried especially about what they termed South Africa's threats against neighbouring countries."
+    },
+    {
+      "start": 7394.65,
+      "end": 7399.91,
+      "text": "The committee strongly condemned the December 20th attack on the Lesotho capital of Mesero,"
+    },
+    {
+      "start": 7400.35,
+      "end": 7403.23,
+      "text": "responsibility for which South Africa has denied."
+    },
+    {
+      "start": 7403.71,
+      "end": 7410.17,
+      "text": "The committee said that Lesotho, geographically surrounded by South Africa, was now under economic siege"
+    },
+    {
+      "start": 7410.17,
+      "end": 7413.45,
+      "text": "and that Pretoria was threatening to attack Botswana."
     }
   ]
 }

@@ -21,37 +21,44 @@
     {
       "artist": "Saxon",
       "track": "747",
-      "details": "Strangers In The Night; LP-The Eagle Has Landed; Carrere"
+      "details": "Strangers In The Night; LP-The Eagle Has Landed; Carrere",
+      "verified_timestamp": 623.04
     },
     {
       "artist": "Saxon",
       "track": "Princess Of The Night",
-      "details": "LP-The Eagle Has Landed; Carrere"
+      "details": "LP-The Eagle Has Landed; Carrere",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Gillan",
       "track": "Vengeance",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 673.74
     },
     {
       "artist": "Nightwing",
       "track": "Long Hard Road",
-      "details": "LP-Black Summer; Gull"
+      "details": "LP-Black Summer; Gull",
+      "verified_timestamp": 1277.02
     },
     {
       "artist": "Brand X",
       "track": "Born Ugly",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 1352.41
     },
     {
       "artist": "Gillan",
       "track": "M.A.D.",
-      "details": "Mutually Assured Destruction; Session"
+      "details": "Mutually Assured Destruction; Session",
+      "verified_timestamp": 673.74
     },
     {
       "artist": "Queen",
       "track": "Dancer",
-      "details": "LP-Hot Space; EMI"
+      "details": "LP-Hot Space; EMI",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Savage",
@@ -71,7 +78,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 65.08
     },
     {
       "artist": "Gillan",
@@ -86,12 +94,14 @@
     {
       "artist": "Alkatrazz",
       "track": "Blame It On The Night",
-      "details": "LP-Radio 5; RCA"
+      "details": "LP-Radio 5; RCA",
+      "verified_timestamp": 6555.56
     },
     {
       "artist": "Iron Maiden",
       "track": "Number Of The Beast",
-      "details": "7\"; EMI"
+      "details": "7\"; EMI",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Lord Sutch",

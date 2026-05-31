@@ -21,12 +21,14 @@
     {
       "artist": "Dixie Dreggs",
       "track": "Take It Off The Top",
-      "details": "7\" EP-Radio 1 Rock Show Themes; Polydor"
+      "details": "7\" EP-Radio 1 Rock Show Themes; Polydor",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Gillan",
       "track": "Born To Kill",
-      "details": "2xLP-Double Trouble; Virgin"
+      "details": "2xLP-Double Trouble; Virgin",
+      "verified_timestamp": 834.87
     },
     {
       "artist": "Saracen",
@@ -36,12 +38,14 @@
     {
       "artist": "AC DC",
       "track": "Sin City",
-      "details": "LP-Powerage; Atlantic"
+      "details": "LP-Powerage; Atlantic",
+      "verified_timestamp": 1460.6
     },
     {
       "artist": "Stone The Crows",
       "track": "Good Time Girl",
-      "details": "Harris session 1972-09-06"
+      "details": "Harris session 1972-09-06",
+      "verified_timestamp": 1532.55
     },
     {
       "artist": "Stone The Crows",
@@ -56,7 +60,8 @@
     {
       "artist": "Trespass",
       "track": "Bright Lights",
-      "details": "7\" Single; Trial"
+      "details": "7\" Single; Trial",
+      "verified_timestamp": 2510.24
     },
     {
       "artist": "Saracen",
@@ -66,22 +71,26 @@
     {
       "artist": "Janis Joplin",
       "track": "Get It While You Can",
-      "details": "LP-Pearl; CBS"
+      "details": "LP-Pearl; CBS",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Cream",
       "track": "Politician",
-      "details": "2xLP-Heavy Cream; RSO"
+      "details": "2xLP-Heavy Cream; RSO",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Robin Trower & Jack Bruce",
       "track": "Thin Ice",
-      "details": "LP-Truce; Chrysalis"
+      "details": "LP-Truce; Chrysalis",
+      "verified_timestamp": 3615.73
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.56
     },
     {
       "artist": "Saracen",
@@ -91,7 +100,8 @@
     {
       "artist": "Sammy Hagar",
       "track": "Sweet Hitchhiker",
-      "details": "LP-Standing Hampton; Geffen"
+      "details": "LP-Standing Hampton; Geffen",
+      "verified_timestamp": 5367.33
     },
     {
       "artist": "Stone The Crows",
@@ -101,12 +111,14 @@
     {
       "artist": "Bob Seger",
       "track": "Brave Stranger",
-      "details": "B-Side of 12” Single We've Got Tonight; Capitol"
+      "details": "B-Side of 12” Single We've Got Tonight; Capitol",
+      "verified_timestamp": 6739.4
     },
     {
       "artist": "Saracen",
       "track": "Crusader",
-      "details": "FRS session 1981-12-09"
+      "details": "FRS session 1981-12-09",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Journey",

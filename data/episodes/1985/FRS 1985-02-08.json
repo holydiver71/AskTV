@@ -27,17 +27,20 @@
     {
       "artist": "Mahogany Rush",
       "track": "Dragonfly",
-      "details": "LP-Live; CBS"
+      "details": "LP-Live; CBS",
+      "verified_timestamp": 9.75
     },
     {
       "artist": "Underground Zero",
       "track": "Between Worlds",
-      "details": "LP-Never Reach The Stars; Flicknife"
+      "details": "LP-Never Reach The Stars; Flicknife",
+      "verified_timestamp": 860.7
     },
     {
       "artist": "Terraplane",
       "track": "Gimme The Money",
-      "details": "FRS session 1982-08-06"
+      "details": "FRS session 1982-08-06",
+      "verified_timestamp": 4004.81
     },
     {
       "artist": "Terraplane",
@@ -47,17 +50,20 @@
     {
       "artist": "Samurai",
       "track": "Gonna Rock Tonight",
-      "details": "LP-Sacred Blade; Ebony"
+      "details": "LP-Sacred Blade; Ebony",
+      "verified_timestamp": 1941.49
     },
     {
       "artist": "Chrome Molly",
       "track": "Too Far Gone",
-      "details": "FRS session 1985-01-11"
+      "details": "FRS session 1985-01-11",
+      "verified_timestamp": 1492.24
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1976.81
     },
     {
       "artist": "Railway",
@@ -87,7 +93,8 @@
     {
       "artist": "Slade",
       "track": "Slam The Hammer Down",
-      "details": "LP-Amazing Kamaikaze Syndrome; RCA"
+      "details": "LP-Amazing Kamaikaze Syndrome; RCA",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Terraplane",
@@ -102,7 +109,8 @@
     {
       "artist": "Madam X",
       "track": "High In High School",
-      "details": "LP-We Reserve The Right; Jet"
+      "details": "LP-We Reserve The Right; Jet",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Chrome Molly",
@@ -112,7 +120,8 @@
     {
       "artist": "Kick Axe",
       "track": "Stay On Top",
-      "details": "LP-Vices; Pasha/Epic"
+      "details": "LP-Vices; Pasha/Epic",
+      "verified_timestamp": 5129.66
     }
   ],
   "transcript": [

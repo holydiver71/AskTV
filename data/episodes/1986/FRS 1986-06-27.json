@@ -53,7 +53,8 @@
     {
       "artist": "Van Halen",
       "track": "Why Can't This Be Love (album - 5150) Warner Bros.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1246.06
     },
     {
       "artist": null,
@@ -63,12 +64,14 @@
     {
       "artist": "Chuck Berry",
       "track": "Maybellene (album - Berry Is On Top) Chess",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1616.44
     },
     {
       "artist": "Cannes",
       "track": "Her Eyes",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 539.45
     },
     {
       "artist": "Cannes",
@@ -78,7 +81,8 @@
     {
       "artist": "Ozzy Osbourne",
       "track": "Rock 'N' Roll Rebel (album - Bark At The Moon) CBS",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5208.4
     },
     {
       "artist": null,
@@ -88,7 +92,8 @@
     {
       "artist": "XTC",
       "track": "Senses Working Overtime (album - English Settlement) Virgin",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3150.89
     },
     {
       "artist": null,
@@ -108,7 +113,8 @@
     {
       "artist": "Tubes",
       "track": "Talk To Ya Later (album - The Completion Backward Principle) Capitol",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3487.67
     },
     {
       "artist": null,
@@ -123,7 +129,8 @@
     {
       "artist": "Alan Parsons Project",
       "track": "The Same Old Sun (album - Vulture Culture) Arista",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4202.69
     },
     {
       "artist": null,
@@ -133,7 +140,8 @@
     {
       "artist": "Deep Purple",
       "track": "Demon's Eye (album - Fireball) Harvest",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4581.34
     },
     {
       "artist": null,
@@ -159,6 +167,2793 @@
       "artist": "Cannes",
       "track": "Tigers Of Japan (session) (not on recording)",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.01,
+      "end": 5.01,
+      "text": "This is Ian Gillan. Tommy's away on holiday and let's face it, someone's got to do it."
+    },
+    {
+      "start": 5.01,
+      "end": 297.36,
+      "text": "Robert Palmer, Addicted to Love. Well, here we are in Stowe, Vermont."
+    },
+    {
+      "start": 297.36,
+      "end": 301.36,
+      "text": "Instead of the studio in London where I was supposed to be doing this show originally,"
+    },
+    {
+      "start": 301.36,
+      "end": 306.58,
+      "text": "we've been held up a little longer than expected with Deep Purple doing the album,"
+    },
+    {
+      "start": 306.58,
+      "end": 311.58,
+      "text": "and so I'm in a little room where I write all my words and sing all the bits and pieces."
+    },
+    {
+      "start": 311.58,
+      "end": 316.58,
+      "text": "It's decorated quite nicely with memorabilia and potential album titles."
+    },
+    {
+      "start": 316.58,
+      "end": 318.58,
+      "text": "I'll read a few of them to you later on."
+    },
+    {
+      "start": 318.58,
+      "end": 323.74,
+      "text": "and being served coffee and all the other animal needs I have"
+    },
+    {
+      "start": 323.74,
+      "end": 326.82,
+      "text": "by a wonderful road crew to whom this song is dedicated."
+    },
+    {
+      "start": 327.04,
+      "end": 328.32,
+      "text": "Motorhead, we are the road crew."
+    },
+    {
+      "start": 328.74,
+      "end": 520.21,
+      "text": "That was Motorhead, we are the road crew."
+    },
+    {
+      "start": 520.37,
+      "end": 523.11,
+      "text": "In fact, it was a request by John Draper"
+    },
+    {
+      "start": 523.11,
+      "end": 525.99,
+      "text": "for his brother's car called Lemmy."
+    },
+    {
+      "start": 527.4,
+      "end": 530.14,
+      "text": "What I've done is asked some of the guys in the band"
+    },
+    {
+      "start": 530.14,
+      "end": 532.2,
+      "text": "to give me a list of their favourite songs"
+    },
+    {
+      "start": 532.2,
+      "end": 534.0,
+      "text": "to help me out on the choice of material here"
+    },
+    {
+      "start": 534.0,
+      "end": 537.91,
+      "text": "so you get an overall selection of deep purple favourites"
+    },
+    {
+      "start": 537.91,
+      "end": 539.45,
+      "text": "here on the programme, together with requests"
+    },
+    {
+      "start": 539.45,
+      "end": 542.93,
+      "text": "and a session we have from Cannes,"
+    },
+    {
+      "start": 543.05,
+      "end": 545.33,
+      "text": "which we're going to get into later on."
+    },
+    {
+      "start": 546.33,
+      "end": 549.87,
+      "text": "Now, one of the first songs I saw on my desk when I came in"
+    },
+    {
+      "start": 549.87,
+      "end": 554.59,
+      "text": "was List Left by Ian Pace, and I think it's very appropriate."
+    },
+    {
+      "start": 554.73,
+      "end": 557.19,
+      "text": "We're going to play a song by Mountain, who were with us at Nebworth"
+    },
+    {
+      "start": 557.19,
+      "end": 560.59,
+      "text": "on quite a few of the European shows we did last summer."
+    },
+    {
+      "start": 561.43,
+      "end": 563.69,
+      "text": "And this is Mississippi Queen."
+    },
+    {
+      "start": 716.14,
+      "end": 719.52,
+      "text": "Well, that was Leslie and Corky and the gang and Mississippi Queen."
+    },
+    {
+      "start": 719.52,
+      "end": 722.68,
+      "text": "I always end up in stitches every time I see Leslie."
+    },
+    {
+      "start": 723.14,
+      "end": 725.4,
+      "text": "He's a very, very funny man, a great guitar player."
+    },
+    {
+      "start": 726.28,
+      "end": 727.82,
+      "text": "Well, I don't know much about this at all,"
+    },
+    {
+      "start": 727.9,
+      "end": 731.2,
+      "text": "apart from this guy's got a great, great voice."
+    },
+    {
+      "start": 731.32,
+      "end": 733.96,
+      "text": "This is Jimmy Barnes and Boys Cry Out For War."
+    },
+    {
+      "start": 734.28,
+      "end": 974.91,
+      "text": "Great voice that guy's got."
+    },
+    {
+      "start": 974.97,
+      "end": 976.83,
+      "text": "Jimmy Barnes and Boys Cry Out For War."
+    },
+    {
+      "start": 977.23,
+      "end": 980.45,
+      "text": "This is Ian Gillan doing the Tommy Vance show,"
+    },
+    {
+      "start": 980.61,
+      "end": 981.75,
+      "text": "which I'm very proud to do,"
+    },
+    {
+      "start": 982.45,
+      "end": 985.49,
+      "text": "and we're in Stowe, Vermont, strangely enough,"
+    },
+    {
+      "start": 985.57,
+      "end": 987.99,
+      "text": "and we're completing a Deep Purple album."
+    },
+    {
+      "start": 987.99,
+      "end": 992.79,
+      "text": "Well, during that record, a wild man, or the wild man of rock and roll,"
+    },
+    {
+      "start": 992.87,
+      "end": 994.37,
+      "text": "walked into my little room."
+    },
+    {
+      "start": 995.57,
+      "end": 998.05,
+      "text": "Known to us as Rugged Ferocious, it's Roger Glover."
+    },
+    {
+      "start": 998.11,
+      "end": 998.49,
+      "text": "Hello, Rog."
+    },
+    {
+      "start": 998.63,
+      "end": 998.87,
+      "text": "Hello."
+    },
+    {
+      "start": 998.99,
+      "end": 999.83,
+      "text": "You want to say hello to everyone?"
+    },
+    {
+      "start": 1000.03,
+      "end": 1000.77,
+      "text": "Hello, everyone."
+    },
+    {
+      "start": 1000.95,
+      "end": 1002.65,
+      "text": "Did you notice the sign outside the door, by the way?"
+    },
+    {
+      "start": 1002.83,
+      "end": 1003.99,
+      "text": "It said, beware of the Rog."
+    },
+    {
+      "start": 1004.05,
+      "end": 1004.67,
+      "text": "Beware of Rog."
+    },
+    {
+      "start": 1005.67,
+      "end": 1006.37,
+      "text": "Great stuff."
+    },
+    {
+      "start": 1006.71,
+      "end": 1009.17,
+      "text": "Well, I actually said great stuff."
+    },
+    {
+      "start": 1009.31,
+      "end": 1010.51,
+      "text": "I don't believe it."
+    },
+    {
+      "start": 1010.97,
+      "end": 1011.81,
+      "text": "Oh, no."
+    },
+    {
+      "start": 1013.23,
+      "end": 1014.25,
+      "text": "Oh, no."
+    },
+    {
+      "start": 1014.75,
+      "end": 1015.63,
+      "text": "Listen, thanks a lot."
+    },
+    {
+      "start": 1015.63,
+      "end": 1017.51,
+      "text": "You left a list of..."
+    },
+    {
+      "start": 1017.51,
+      "end": 1020.09,
+      "text": "What are you doing? Going out to the pub or what?"
+    },
+    {
+      "start": 1020.17,
+      "end": 1020.93,
+      "text": "Is this the pub?"
+    },
+    {
+      "start": 1021.27,
+      "end": 1022.33,
+      "text": "No, but it can be."
+    },
+    {
+      "start": 1022.43,
+      "end": 1022.83,
+      "text": "Oh, no."
+    },
+    {
+      "start": 1022.99,
+      "end": 1023.57,
+      "text": "It can be."
+    },
+    {
+      "start": 1023.59,
+      "end": 1024.07,
+      "text": "I'm on my way to the pub."
+    },
+    {
+      "start": 1024.13,
+      "end": 1026.09,
+      "text": "I'll fix you up with a cup of tea in a minute."
+    },
+    {
+      "start": 1026.55,
+      "end": 1028.11,
+      "text": "In fact, I've got a bottle of wine down here somewhere."
+    },
+    {
+      "start": 1029.73,
+      "end": 1030.71,
+      "text": "Thanks for this list of numbers."
+    },
+    {
+      "start": 1030.79,
+      "end": 1032.05,
+      "text": "Which one do you want to play, first of all?"
+    },
+    {
+      "start": 1032.79,
+      "end": 1033.33,
+      "text": "Thick as a chicken?"
+    },
+    {
+      "start": 1033.71,
+      "end": 1035.41,
+      "text": "I've got to play the oldest one."
+    },
+    {
+      "start": 1035.63,
+      "end": 1036.25,
+      "text": "The oldest one."
+    },
+    {
+      "start": 1036.25,
+      "end": 1036.63,
+      "text": "The oldest one there."
+    },
+    {
+      "start": 1036.71,
+      "end": 1037.81,
+      "text": "And I think this is..."
+    },
+    {
+      "start": 1037.81,
+      "end": 1040.03,
+      "text": "If you ever asked me what my favourite track of all time was,"
+    },
+    {
+      "start": 1040.09,
+      "end": 1042.69,
+      "text": "it's got to be Good Golly Miss Molly by Little Richard,"
+    },
+    {
+      "start": 1042.75,
+      "end": 1044.69,
+      "text": "the original version on Speciality."
+    },
+    {
+      "start": 1044.69,
+      "end": 1046.41,
+      "text": "and listen to the bass drum."
+    },
+    {
+      "start": 1046.65,
+      "end": 1047.01,
+      "text": "Exactly."
+    },
+    {
+      "start": 1175.98,
+      "end": 1177.84,
+      "text": "OK, Little Richard and Good Golly Miss Molly,"
+    },
+    {
+      "start": 1177.94,
+      "end": 1179.48,
+      "text": "I think that's probably going to be everyone's choice"
+    },
+    {
+      "start": 1179.48,
+      "end": 1181.6,
+      "text": "if they're going to have a list of songs"
+    },
+    {
+      "start": 1181.6,
+      "end": 1183.72,
+      "text": "from their all-time favourite rock and roll numbers."
+    },
+    {
+      "start": 1183.82,
+      "end": 1184.94,
+      "text": "Listen to that band."
+    },
+    {
+      "start": 1185.08,
+      "end": 1185.28,
+      "text": "I know."
+    },
+    {
+      "start": 1185.3,
+      "end": 1188.2,
+      "text": "I mean, that band, in the 50s, they used to play like that."
+    },
+    {
+      "start": 1188.3,
+      "end": 1189.1,
+      "text": "I know, all the time."
+    },
+    {
+      "start": 1189.1,
+      "end": 1190.94,
+      "text": "All in the same time, same take."
+    },
+    {
+      "start": 1191.22,
+      "end": 1192.22,
+      "text": "Normally in the same place."
+    },
+    {
+      "start": 1192.34,
+      "end": 1192.94,
+      "text": "Magic stuff."
+    },
+    {
+      "start": 1193.1,
+      "end": 1194.02,
+      "text": "I know, incredible."
+    },
+    {
+      "start": 1194.18,
+      "end": 1194.82,
+      "text": "I said magic."
+    },
+    {
+      "start": 1195.1,
+      "end": 1195.68,
+      "text": "Oh, God."
+    },
+    {
+      "start": 1197.24,
+      "end": 1197.98,
+      "text": "What did they used to do?"
+    },
+    {
+      "start": 1198.7,
+      "end": 1198.98,
+      "text": "What?"
+    },
+    {
+      "start": 1199.34,
+      "end": 1201.46,
+      "text": "Play in the same place at the same time."
+    },
+    {
+      "start": 1202.56,
+      "end": 1202.88,
+      "text": "Altogether."
+    },
+    {
+      "start": 1202.92,
+      "end": 1206.12,
+      "text": "Are you sure you haven't been down to the pub already?"
+    },
+    {
+      "start": 1206.7,
+      "end": 1208.04,
+      "text": "Well, yes, several times."
+    },
+    {
+      "start": 1208.22,
+      "end": 1209.78,
+      "text": "OK. Anyway..."
+    },
+    {
+      "start": 1209.78,
+      "end": 1214.08,
+      "text": "Next, next, I want to play something a bit more current, if I may."
+    },
+    {
+      "start": 1214.32,
+      "end": 1215.14,
+      "text": "Do you mind? No."
+    },
+    {
+      "start": 1216.34,
+      "end": 1219.96,
+      "text": "I'd like to play the only other serious contender for Guitarist of the Year"
+    },
+    {
+      "start": 1219.96,
+      "end": 1223.52,
+      "text": "of the world, that is, after Richie, of course."
+    },
+    {
+      "start": 1223.68,
+      "end": 1223.86,
+      "text": "Yeah."
+    },
+    {
+      "start": 1224.36,
+      "end": 1227.84,
+      "text": "And that's Eddie Van Halen, who, you either love him or you hate him,"
+    },
+    {
+      "start": 1227.86,
+      "end": 1229.2,
+      "text": "I think he's absolutely great."
+    },
+    {
+      "start": 1229.32,
+      "end": 1229.9,
+      "text": "Fine chap."
+    },
+    {
+      "start": 1230.38,
+      "end": 1234.24,
+      "text": "I think the band are OK, but he's the ace in the hole."
+    },
+    {
+      "start": 1234.42,
+      "end": 1234.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 1235.18,
+      "end": 1238.02,
+      "text": "And I can't think of a better example,"
+    },
+    {
+      "start": 1238.46,
+      "end": 1240.26,
+      "text": "because I'm not actually nuts about David Lee Roth,"
+    },
+    {
+      "start": 1240.3,
+      "end": 1241.88,
+      "text": "and I'm not actually nuts about Sammy Hagar,"
+    },
+    {
+      "start": 1242.7,
+      "end": 1244.1,
+      "text": "but I'm nuts about Eddie Van Halen,"
+    },
+    {
+      "start": 1244.18,
+      "end": 1245.2,
+      "text": "so I'd like to play this anyway."
+    },
+    {
+      "start": 1246.06,
+      "end": 1247.02,
+      "text": "Why can't this be love?"
+    },
+    {
+      "start": 1247.56,
+      "end": 1446.38,
+      "text": "Why can't this be love? Van Halen, great stuff."
+    },
+    {
+      "start": 1446.92,
+      "end": 1447.74,
+      "text": "I said it again."
+    },
+    {
+      "start": 1447.74,
+      "end": 1448.92,
+      "text": "Makes that guitar sing."
+    },
+    {
+      "start": 1449.04,
+      "end": 1451.92,
+      "text": "He makes it speak. He makes it speak."
+    },
+    {
+      "start": 1453.44,
+      "end": 1456.04,
+      "text": "Well, while we're here in Stowe, in this little room,"
+    },
+    {
+      "start": 1456.04,
+      "end": 1459.8,
+      "text": "I've been trying to think how to describe this room,"
+    },
+    {
+      "start": 1459.9,
+      "end": 1460.98,
+      "text": "and I'm just looking at the wall."
+    },
+    {
+      "start": 1461.1,
+      "end": 1463.56,
+      "text": "We've been pinning up sketches and cartoons"
+    },
+    {
+      "start": 1463.56,
+      "end": 1465.38,
+      "text": "and ideas for song titles,"
+    },
+    {
+      "start": 1465.56,
+      "end": 1467.8,
+      "text": "some of which we can talk about and some of which we can't."
+    },
+    {
+      "start": 1468.58,
+      "end": 1470.58,
+      "text": "And I look at this... I think this sums it all up."
+    },
+    {
+      "start": 1471.82,
+      "end": 1473.28,
+      "text": "There's a little poem on the wall here."
+    },
+    {
+      "start": 1473.32,
+      "end": 1475.1,
+      "text": "If I were to be deprived of my senses,"
+    },
+    {
+      "start": 1475.58,
+      "end": 1477.28,
+      "text": "first I would lose the sight of the eye."
+    },
+    {
+      "start": 1477.54,
+      "end": 1478.5,
+      "text": "I've seen too much."
+    },
+    {
+      "start": 1479.12,
+      "end": 1481.08,
+      "text": "I'd save to the last my taste,"
+    },
+    {
+      "start": 1481.08,
+      "end": 1482.88,
+      "text": "my impeccable taste."
+    },
+    {
+      "start": 1482.88,
+      "end": 1491.47,
+      "text": "underneath that is a picture which i can't describe to you but uh i can it's you with your"
+    },
+    {
+      "start": 1491.47,
+      "end": 1500.32,
+      "text": "tongue hanging out what do you think of is um why are we here in stowe i think it was a ideal place"
+    },
+    {
+      "start": 1500.32,
+      "end": 1506.66,
+      "text": "to make our reunion album because it's uh it's a small sleepy country town but it's geared up for"
+    },
+    {
+      "start": 1506.66,
+      "end": 1511.9,
+      "text": "lots of visitors because it's a ski place so there's tons of restaurants and pubs and bars"
+    },
+    {
+      "start": 1511.9,
+      "end": 1513.08,
+      "text": "and stuff. Nice countryside."
+    },
+    {
+      "start": 1513.78,
+      "end": 1516.06,
+      "text": "And I think, actually, we tried to make a conscious"
+    },
+    {
+      "start": 1516.06,
+      "end": 1517.8,
+      "text": "effort not to come back for the second album, but"
+    },
+    {
+      "start": 1517.8,
+      "end": 1520.0,
+      "text": "we didn't find anywhere else. We ended up"
+    },
+    {
+      "start": 1520.0,
+      "end": 1522.04,
+      "text": "at a farm in Massachusetts for a week, but that didn't"
+    },
+    {
+      "start": 1522.04,
+      "end": 1523.88,
+      "text": "work, because there was nothing but ploughed fields around."
+    },
+    {
+      "start": 1524.08,
+      "end": 1526.06,
+      "text": "Exactly. So here we are back in Stow"
+    },
+    {
+      "start": 1526.06,
+      "end": 1528.2,
+      "text": "and I think it's actually a great location."
+    },
+    {
+      "start": 1528.48,
+      "end": 1528.9,
+      "text": "So anyway,"
+    },
+    {
+      "start": 1529.26,
+      "end": 1531.8,
+      "text": "there's a nice little pub here where we"
+    },
+    {
+      "start": 1531.8,
+      "end": 1533.9,
+      "text": "gather and meet all the local"
+    },
+    {
+      "start": 1533.9,
+      "end": 1535.04,
+      "text": "ladies."
+    },
+    {
+      "start": 1535.96,
+      "end": 1537.24,
+      "text": "Yeah, yeah. And"
+    },
+    {
+      "start": 1537.24,
+      "end": 1538.32,
+      "text": "chaps."
+    },
+    {
+      "start": 1539.69,
+      "end": 1541.91,
+      "text": "And they sell English beer, which is very good, so it's a sort"
+    },
+    {
+      "start": 1541.91,
+      "end": 1546.51,
+      "text": "of home from home and they occasionally let us play soccer they do we play football so what four"
+    },
+    {
+      "start": 1546.51,
+      "end": 1551.39,
+      "text": "or five times a week yeah on the village green on the village green it's great stuff i said that"
+    },
+    {
+      "start": 1551.39,
+      "end": 1560.1,
+      "text": "again it's not great stuff at all it's wonderful okay back to music we got uh chuck berry well"
+    },
+    {
+      "start": 1560.1,
+      "end": 1566.76,
+      "text": "i can't deny the fact that you know i mean i like a lot of modern music too i mean i'm a great fan"
+    },
+    {
+      "start": 1566.76,
+      "end": 1572.26,
+      "text": "of new music and new wave and punk and i like everything but i've got to go back to my roots"
+    },
+    {
+      "start": 1572.26,
+      "end": 1578.66,
+      "text": "again and i think if there's one guy that's the architect of rock and roll um that would be"
+    },
+    {
+      "start": 1578.66,
+      "end": 1583.02,
+      "text": "impossible because there are too many guys involved but if there was one guy that had to be picked out"
+    },
+    {
+      "start": 1583.02,
+      "end": 1588.26,
+      "text": "i think it would have to be chuck berry yeah i think probably a lyrical um uh approach more than"
+    },
+    {
+      "start": 1588.26,
+      "end": 1592.7,
+      "text": "for example little richard elvis presley and everything else i mean he was a a writer rather"
+    },
+    {
+      "start": 1592.7,
+      "end": 1598.42,
+      "text": "like buddy holly i think he encapsulated the american image that's right of a young emerging"
+    },
+    {
+      "start": 1598.42,
+      "end": 1600.26,
+      "text": "Highway, yes"
+    },
+    {
+      "start": 1600.26,
+      "end": 1602.5,
+      "text": "Young Emerging Cars"
+    },
+    {
+      "start": 1602.5,
+      "end": 1605.52,
+      "text": "And Roots and things like that"
+    },
+    {
+      "start": 1605.52,
+      "end": 1607.32,
+      "text": "There's too many songs I could play"
+    },
+    {
+      "start": 1607.32,
+      "end": 1609.22,
+      "text": "Because I like all Chuck Berry stuff"
+    },
+    {
+      "start": 1609.22,
+      "end": 1612.18,
+      "text": "So just out of the hat"
+    },
+    {
+      "start": 1612.18,
+      "end": 1613.12,
+      "text": "I just picked Maybelline"
+    },
+    {
+      "start": 1613.12,
+      "end": 1615.26,
+      "text": "Because we used to play it in the old days"
+    },
+    {
+      "start": 1615.26,
+      "end": 1616.44,
+      "text": "That's right, episode 6"
+    },
+    {
+      "start": 1616.44,
+      "end": 1617.6,
+      "text": "Maybelline"
+    },
+    {
+      "start": 1617.6,
+      "end": 1618.74,
+      "text": "Here we go"
+    },
+    {
+      "start": 1618.74,
+      "end": 1619.9,
+      "text": "I'll let Chuck do it"
+    },
+    {
+      "start": 1619.9,
+      "end": 1760.49,
+      "text": "I was Chuck Berry and Maybelline"
+    },
+    {
+      "start": 1760.49,
+      "end": 1762.49,
+      "text": "thanks Rog, he's just nipped out for a pint"
+    },
+    {
+      "start": 1762.49,
+      "end": 1763.51,
+      "text": "I think he'll be back in a minute"
+    },
+    {
+      "start": 1763.51,
+      "end": 1766.63,
+      "text": "I'm going to play a couple of tracks from the"
+    },
+    {
+      "start": 1766.63,
+      "end": 1767.73,
+      "text": "Cannes session now"
+    },
+    {
+      "start": 1767.73,
+      "end": 1770.23,
+      "text": "Cannes comprised of Andy Burns on bass"
+    },
+    {
+      "start": 1770.23,
+      "end": 1771.91,
+      "text": "Colin Peel, who's the singer"
+    },
+    {
+      "start": 1771.91,
+      "end": 1774.63,
+      "text": "Gordon Roberts playing drums"
+    },
+    {
+      "start": 1774.63,
+      "end": 1776.09,
+      "text": "and Dave Senchak"
+    },
+    {
+      "start": 1776.09,
+      "end": 1777.21,
+      "text": "who's the guitar player"
+    },
+    {
+      "start": 1777.21,
+      "end": 1780.03,
+      "text": "we're going to play two back to back"
+    },
+    {
+      "start": 1780.03,
+      "end": 1782.63,
+      "text": "The first one is Her Eyes, and then you'll hear Still The One."
+    },
+    {
+      "start": 1783.09,
+      "end": 2321.14,
+      "text": "That was Still The One from Cannes."
+    },
+    {
+      "start": 2321.2,
+      "end": 2323.9,
+      "text": "We've got a couple more tracks from Cannes coming up later in the show."
+    },
+    {
+      "start": 2324.8,
+      "end": 2327.78,
+      "text": "This is Ian Gillan, sitting in for Tommy Vance, who's away on holiday."
+    },
+    {
+      "start": 2328.06,
+      "end": 2330.38,
+      "text": "I'm in Stove, Vermont, recording an album with Deep Purple"
+    },
+    {
+      "start": 2330.38,
+      "end": 2332.46,
+      "text": "and playing some rock and roll music for you."
+    },
+    {
+      "start": 2333.44,
+      "end": 2336.72,
+      "text": "Here's a request from Mark Skilton in Nottingham."
+    },
+    {
+      "start": 2337.36,
+      "end": 2339.26,
+      "text": "We're going to play an Aussie track, Rock and Roll Rebel."
+    },
+    {
+      "start": 2339.44,
+      "end": 2341.4,
+      "text": "I've got to tell you, Aussie is some kind of a man."
+    },
+    {
+      "start": 2341.46,
+      "end": 2343.32,
+      "text": "He's been around for a long time,"
+    },
+    {
+      "start": 2343.36,
+      "end": 2346.38,
+      "text": "and a lot of people think of Aussie as an extremely lunatic character."
+    },
+    {
+      "start": 2346.38,
+      "end": 2350.48,
+      "text": "I said, well, I have to tell you that every rumour you've ever heard about Ozzy is completely true."
+    },
+    {
+      "start": 2351.16,
+      "end": 2352.94,
+      "text": "In fact, I saw Ozzy just before Christmas."
+    },
+    {
+      "start": 2353.06,
+      "end": 2357.54,
+      "text": "I flew out to the States to have a drink with the rest of the guys in purple"
+    },
+    {
+      "start": 2357.54,
+      "end": 2359.48,
+      "text": "who were doing some serious rehearsal work."
+    },
+    {
+      "start": 2360.22,
+      "end": 2362.26,
+      "text": "My plane wouldn't take off for some reason."
+    },
+    {
+      "start": 2362.54,
+      "end": 2365.2,
+      "text": "Engine dropped off or something, and they transferred me onto the Concorde,"
+    },
+    {
+      "start": 2365.28,
+      "end": 2368.4,
+      "text": "and Ozzy was sitting right behind me with his wife, Sharon."
+    },
+    {
+      "start": 2368.98,
+      "end": 2371.64,
+      "text": "So I went back to speak to him after we'd taken off,"
+    },
+    {
+      "start": 2371.64,
+      "end": 2376.77,
+      "text": "and he was, you know, his usual articulate self going blah, blah, blah"
+    },
+    {
+      "start": 2376.77,
+      "end": 2379.09,
+      "text": "and all that sort of thing, actually fell asleep."
+    },
+    {
+      "start": 2379.15,
+      "end": 2381.15,
+      "text": "And I was talking to Sharon who was sitting in the window seat"
+    },
+    {
+      "start": 2381.15,
+      "end": 2383.73,
+      "text": "and the aisle on Concord is very narrow"
+    },
+    {
+      "start": 2383.73,
+      "end": 2387.37,
+      "text": "so it was difficult for the steward to get by with all the drinks and everything."
+    },
+    {
+      "start": 2387.47,
+      "end": 2389.35,
+      "text": "I said to Sharon, oh, I'd better get back to my seat now"
+    },
+    {
+      "start": 2389.35,
+      "end": 2390.55,
+      "text": "and she said, well, just sit on him."
+    },
+    {
+      "start": 2390.87,
+      "end": 2395.59,
+      "text": "So I did and I sat on Ozzy for the whole trip to America"
+    },
+    {
+      "start": 2395.59,
+      "end": 2399.03,
+      "text": "talking to his wife and drinking, using his head as an armrest."
+    },
+    {
+      "start": 2400.19,
+      "end": 2401.93,
+      "text": "And as we landed he woke up and said,"
+    },
+    {
+      "start": 2401.99,
+      "end": 2409.23,
+      "text": "again and uh that's about the sort of average conversation ozzy and i always have i love the"
+    },
+    {
+      "start": 2409.23,
+      "end": 2414.37,
+      "text": "guy i think he's a lovely man ozzy and lemmy and i mean the business is full of people who are"
+    },
+    {
+      "start": 2414.37,
+      "end": 2745.5,
+      "text": "i just got so much respect for this is ozzy and rock and roll rebel the ozzy the ozzy osbourne"
+    },
+    {
+      "start": 2745.5,
+      "end": 2755.54,
+      "text": "rock and roll rebel that was for mark skilton of nottingham oh you're back hello good point how"
+    },
+    {
+      "start": 2755.54,
+      "end": 2759.24,
+      "text": "you doing oh excellent we're playing some great stuff here how was the point how's the pub"
+    },
+    {
+      "start": 2759.7,
+      "end": 2760.42,
+      "text": "Who's down there?"
+    },
+    {
+      "start": 2760.48,
+      "end": 2760.88,
+      "text": "It's great."
+    },
+    {
+      "start": 2760.92,
+      "end": 2761.28,
+      "text": "Desiree?"
+    },
+    {
+      "start": 2761.38,
+      "end": 2762.06,
+      "text": "The usual crew."
+    },
+    {
+      "start": 2763.7,
+      "end": 2764.3,
+      "text": "Great stuff."
+    },
+    {
+      "start": 2764.48,
+      "end": 2765.38,
+      "text": "Trousers round her ankle."
+    },
+    {
+      "start": 2766.14,
+      "end": 2767.12,
+      "text": "Hang it from the ceiling."
+    },
+    {
+      "start": 2767.82,
+      "end": 2768.18,
+      "text": "Exactly."
+    },
+    {
+      "start": 2768.4,
+      "end": 2769.56,
+      "text": "I'll tell you, if anyone comes to the States,"
+    },
+    {
+      "start": 2769.62,
+      "end": 2770.92,
+      "text": "you've got to get into this pub in Stowe."
+    },
+    {
+      "start": 2771.04,
+      "end": 2773.1,
+      "text": "It's the pub to be in."
+    },
+    {
+      "start": 2773.72,
+      "end": 2776.84,
+      "text": "It reminds me of the Café des Artistes in Olds Court."
+    },
+    {
+      "start": 2777.0,
+      "end": 2777.34,
+      "text": "Remember that?"
+    },
+    {
+      "start": 2777.36,
+      "end": 2778.22,
+      "text": "Yes, I remember that."
+    },
+    {
+      "start": 2781.13,
+      "end": 2782.07,
+      "text": "Squalid sort of place."
+    },
+    {
+      "start": 2782.11,
+      "end": 2782.49,
+      "text": "That's right."
+    },
+    {
+      "start": 2782.93,
+      "end": 2783.97,
+      "text": "Sort of full of low life."
+    },
+    {
+      "start": 2784.07,
+      "end": 2785.21,
+      "text": "You can just be yourself."
+    },
+    {
+      "start": 2785.39,
+      "end": 2785.75,
+      "text": "Exactly."
+    },
+    {
+      "start": 2786.33,
+      "end": 2787.61,
+      "text": "Well, we dress up to go there, of course."
+    },
+    {
+      "start": 2787.61,
+      "end": 2790.27,
+      "text": "it's the sort of place where you always go home"
+    },
+    {
+      "start": 2790.27,
+      "end": 2792.05,
+      "text": "not wearing something different"
+    },
+    {
+      "start": 2792.05,
+      "end": 2793.55,
+      "text": "than what you arrived in"
+    },
+    {
+      "start": 2793.55,
+      "end": 2796.05,
+      "text": "well I do anyway"
+    },
+    {
+      "start": 2796.05,
+      "end": 2798.23,
+      "text": "well you might as well do some work now"
+    },
+    {
+      "start": 2798.23,
+      "end": 2798.47,
+      "text": "you back"
+    },
+    {
+      "start": 2798.47,
+      "end": 2801.31,
+      "text": "yeah I was just thinking about something to play"
+    },
+    {
+      "start": 2801.31,
+      "end": 2802.51,
+      "text": "and a lot of music"
+    },
+    {
+      "start": 2802.51,
+      "end": 2805.91,
+      "text": "I mean rock and roll was born in the states"
+    },
+    {
+      "start": 2805.91,
+      "end": 2807.77,
+      "text": "and a lot of it came out of the states"
+    },
+    {
+      "start": 2807.77,
+      "end": 2808.91,
+      "text": "but I think"
+    },
+    {
+      "start": 2808.91,
+      "end": 2811.81,
+      "text": "Britain surprised everyone"
+    },
+    {
+      "start": 2811.81,
+      "end": 2813.65,
+      "text": "and supplied tons of talent"
+    },
+    {
+      "start": 2813.65,
+      "end": 2815.25,
+      "text": "and changed what America started"
+    },
+    {
+      "start": 2815.25,
+      "end": 2817.31,
+      "text": "in very very important ways"
+    },
+    {
+      "start": 2817.31,
+      "end": 2818.99,
+      "text": "and I was thinking"
+    },
+    {
+      "start": 2818.99,
+      "end": 2821.19,
+      "text": "XTC were one of my favourite bands"
+    },
+    {
+      "start": 2821.19,
+      "end": 2822.79,
+      "text": "of the late 70s"
+    },
+    {
+      "start": 2822.79,
+      "end": 2825.07,
+      "text": "and you're a songwriter"
+    },
+    {
+      "start": 2825.07,
+      "end": 2827.53,
+      "text": "you know how difficult it is to write a song that's"
+    },
+    {
+      "start": 2827.53,
+      "end": 2828.09,
+      "text": "optimistic"
+    },
+    {
+      "start": 2828.09,
+      "end": 2831.23,
+      "text": "a song that's optimistic"
+    },
+    {
+      "start": 2831.23,
+      "end": 2833.77,
+      "text": "that says good things"
+    },
+    {
+      "start": 2833.77,
+      "end": 2835.03,
+      "text": "says very positive things about the world"
+    },
+    {
+      "start": 2835.03,
+      "end": 2836.61,
+      "text": "without sounding like Cliff Richard"
+    },
+    {
+      "start": 2836.61,
+      "end": 2838.31,
+      "text": "it's like headlines in British newspapers"
+    },
+    {
+      "start": 2838.31,
+      "end": 2839.29,
+      "text": "but trite"
+    },
+    {
+      "start": 2839.29,
+      "end": 2841.83,
+      "text": "we had such a wonderful time"
+    },
+    {
+      "start": 2841.83,
+      "end": 2843.17,
+      "text": "great stuff"
+    },
+    {
+      "start": 2843.17,
+      "end": 2845.61,
+      "text": "but XTC came up with a song"
+    },
+    {
+      "start": 2845.61,
+      "end": 2847.17,
+      "text": "that said that"
+    },
+    {
+      "start": 2847.17,
+      "end": 2849.59,
+      "text": "in a very, very, very good way."
+    },
+    {
+      "start": 2849.67,
+      "end": 2851.59,
+      "text": "It wasn't trite, it wasn't twee, it wasn't pretty."
+    },
+    {
+      "start": 2851.81,
+      "end": 2852.21,
+      "text": "That's right."
+    },
+    {
+      "start": 2852.61,
+      "end": 2854.91,
+      "text": "And Sense is Working Overtime says it all for me."
+    },
+    {
+      "start": 2854.95,
+      "end": 2856.79,
+      "text": "If you listen to the words, there's some great words there."
+    },
+    {
+      "start": 2856.83,
+      "end": 2857.53,
+      "text": "Let's listen to it."
+    },
+    {
+      "start": 3150.89,
+      "end": 3152.85,
+      "text": "Sense is Working Overtime, XTC."
+    },
+    {
+      "start": 3154.59,
+      "end": 3158.94,
+      "text": "I think probably one of the most significant things"
+    },
+    {
+      "start": 3158.94,
+      "end": 3161.36,
+      "text": "that's happened with British music over the last few years"
+    },
+    {
+      "start": 3161.36,
+      "end": 3164.58,
+      "text": "is the emergence of some truly great girl singers."
+    },
+    {
+      "start": 3166.18,
+      "end": 3168.62,
+      "text": "Well, I can only think of one that I really..."
+    },
+    {
+      "start": 3168.62,
+      "end": 3169.88,
+      "text": "Actually, there's several, I suppose."
+    },
+    {
+      "start": 3169.9,
+      "end": 3170.34,
+      "text": "There's hundreds."
+    },
+    {
+      "start": 3170.86,
+      "end": 3178.66,
+      "text": "hundreds by Chrissy Hynde is the best in your opinion I think she's great to hear"
+    },
+    {
+      "start": 3178.66,
+      "end": 3182.76,
+      "text": "me I think she's it's you know she's a character and she's a voice that you"
+    },
+    {
+      "start": 3182.76,
+      "end": 3187.96,
+      "text": "can't ever mistake right very distinctive and that's what to me rock"
+    },
+    {
+      "start": 3187.96,
+      "end": 3192.4,
+      "text": "and roll is full of unforgettable characters yeah yeah and she's"
+    },
+    {
+      "start": 3192.4,
+      "end": 3197.14,
+      "text": "definitely one of them hmm and I couldn't think of a every track you know"
+    },
+    {
+      "start": 3197.14,
+      "end": 3200.5,
+      "text": "they've only done two albums in about six years I know it's weird isn't it"
+    },
+    {
+      "start": 3200.5,
+      "end": 3204.82,
+      "text": "and every track that they've ever done is important a classic yeah that's incredible"
+    },
+    {
+      "start": 3204.82,
+      "end": 3210.82,
+      "text": "so it's hard to pick one but yeah but pick one you have well chain gang and here it is"
+    },
+    {
+      "start": 3210.82,
+      "end": 3252.74,
+      "text": "love you hijacked my world that night to a place in the past we've been passed out over"
+    },
+    {
+      "start": 3252.74,
+      "end": 3305.05,
+      "text": "on the chain control a pigeon from hell in our eyes and descended like a fly back on the train"
+    },
+    {
+      "start": 3305.05,
+      "end": 3351.1,
+      "text": "What they've done to you"
+    },
+    {
+      "start": 3351.1,
+      "end": 3360.98,
+      "text": "As I stand here today"
+    },
+    {
+      "start": 3360.98,
+      "end": 3364.31,
+      "text": "They're deep in my heart"
+    },
+    {
+      "start": 3364.31,
+      "end": 3367.17,
+      "text": "They'll fall to ruin one"
+    },
+    {
+      "start": 3367.17,
+      "end": 3370.37,
+      "text": "For making us part"
+    },
+    {
+      "start": 3370.37,
+      "end": 3381.03,
+      "text": "Of you"
+    },
+    {
+      "start": 3381.03,
+      "end": 3386.68,
+      "text": "Those who were happy"
+    },
+    {
+      "start": 3386.68,
+      "end": 3392.95,
+      "text": "For breaking the battle"
+    },
+    {
+      "start": 3392.95,
+      "end": 3394.77,
+      "text": "Was your part"
+    },
+    {
+      "start": 3394.77,
+      "end": 3442.86,
+      "text": "The Pretenders with Chain Gang."
+    },
+    {
+      "start": 3443.0,
+      "end": 3445.24,
+      "text": "This is Ian Gillan, standing in for Tommy Vance,"
+    },
+    {
+      "start": 3445.3,
+      "end": 3446.04,
+      "text": "who's away on holiday."
+    },
+    {
+      "start": 3446.93,
+      "end": 3448.23,
+      "text": "And we are, of course, on the BBC,"
+    },
+    {
+      "start": 3448.61,
+      "end": 3451.01,
+      "text": "and I'm luckily joined at the moment by Roger Glover."
+    },
+    {
+      "start": 3451.21,
+      "end": 3452.05,
+      "text": "Also on the BBC."
+    },
+    {
+      "start": 3452.23,
+      "end": 3453.45,
+      "text": "Also on the BBC, yes."
+    },
+    {
+      "start": 3454.19,
+      "end": 3455.09,
+      "text": "Or Rugged Ferocious."
+    },
+    {
+      "start": 3455.49,
+      "end": 3456.21,
+      "text": "Well, whatever you like."
+    },
+    {
+      "start": 3456.73,
+      "end": 3457.61,
+      "text": "Call me Rugged, if you like."
+    },
+    {
+      "start": 3457.63,
+      "end": 3458.69,
+      "text": "You can call me Garth, if you like."
+    },
+    {
+      "start": 3458.81,
+      "end": 3459.89,
+      "text": "Garth, if you like."
+    },
+    {
+      "start": 3460.01,
+      "end": 3461.45,
+      "text": "Lend us a quid or I'll rip your spine out."
+    },
+    {
+      "start": 3463.54,
+      "end": 3464.64,
+      "text": "Now, you've got to talk about this,"
+    },
+    {
+      "start": 3464.68,
+      "end": 3466.8,
+      "text": "because I remember you playing this at your house."
+    },
+    {
+      "start": 3467.8,
+      "end": 3468.7,
+      "text": "About a month or so ago,"
+    },
+    {
+      "start": 3468.76,
+      "end": 3473.15,
+      "text": "we spent some time preparing some ideas for the Purple album,"
+    },
+    {
+      "start": 3473.25,
+      "end": 3474.55,
+      "text": "and you just played me a whole bunch of stuff"
+    },
+    {
+      "start": 3474.55,
+      "end": 3476.27,
+      "text": "you have in your record collection,"
+    },
+    {
+      "start": 3476.51,
+      "end": 3478.43,
+      "text": "and this was one of them you played flat out."
+    },
+    {
+      "start": 3478.43,
+      "end": 3478.87,
+      "text": "Tubes."
+    },
+    {
+      "start": 3478.95,
+      "end": 3480.23,
+      "text": "Tubes, an American band"
+    },
+    {
+      "start": 3480.23,
+      "end": 3484.07,
+      "text": "who made some classic albums over the years."
+    },
+    {
+      "start": 3484.07,
+      "end": 3487.67,
+      "text": "This comes, I think, from their most classic album"
+    },
+    {
+      "start": 3487.67,
+      "end": 3489.55,
+      "text": "Completion Backwards Principle"
+    },
+    {
+      "start": 3489.55,
+      "end": 3491.71,
+      "text": "And if you've ever seen the band live"
+    },
+    {
+      "start": 3491.71,
+      "end": 3493.17,
+      "text": "You probably won't now"
+    },
+    {
+      "start": 3493.17,
+      "end": 3494.73,
+      "text": "Because I'm not sure what their situation is"
+    },
+    {
+      "start": 3494.73,
+      "end": 3496.21,
+      "text": "I don't know whether they've split up or what"
+    },
+    {
+      "start": 3496.21,
+      "end": 3498.63,
+      "text": "Prairie Prince, the drummer"
+    },
+    {
+      "start": 3498.63,
+      "end": 3500.33,
+      "text": "One of the greatest drummers"
+    },
+    {
+      "start": 3500.33,
+      "end": 3503.39,
+      "text": "And live, they were stunning"
+    },
+    {
+      "start": 3503.39,
+      "end": 3504.41,
+      "text": "Absolutely stunning"
+    },
+    {
+      "start": 3504.41,
+      "end": 3506.21,
+      "text": "They do all the effects"
+    },
+    {
+      "start": 3506.21,
+      "end": 3509.21,
+      "text": "Don't you start?"
+    },
+    {
+      "start": 3509.77,
+      "end": 3513.03,
+      "text": "I just retrieved a cassette wrapper"
+    },
+    {
+      "start": 3513.03,
+      "end": 3517.67,
+      "text": "We've got this cat called Rattensoitz who was sort of adopted down here at the playhouse."
+    },
+    {
+      "start": 3517.97,
+      "end": 3521.33,
+      "text": "We're recording this album and he's crawling all over my rubbish under the table at the moment."
+    },
+    {
+      "start": 3522.23,
+      "end": 3524.73,
+      "text": "So hello from Rattensoitz, or Rats as he's affectionately known."
+    },
+    {
+      "start": 3524.75,
+      "end": 3526.37,
+      "text": "Rats. Get out, Rats. Go on."
+    },
+    {
+      "start": 3526.67,
+      "end": 3528.45,
+      "text": "Got anything by the Rats? No, anyway."
+    },
+    {
+      "start": 3529.09,
+      "end": 3529.63,
+      "text": "So anyway."
+    },
+    {
+      "start": 3529.85,
+      "end": 3532.47,
+      "text": "So anyway, Tubes, yeah, stunning, stunning band."
+    },
+    {
+      "start": 3532.89,
+      "end": 3534.57,
+      "text": "Live, absolutely magnificent."
+    },
+    {
+      "start": 3534.93,
+      "end": 3535.93,
+      "text": "No holds barred."
+    },
+    {
+      "start": 3536.51,
+      "end": 3537.79,
+      "text": "Prairie Prince, great drummer."
+    },
+    {
+      "start": 3538.43,
+      "end": 3541.23,
+      "text": "Not a lot I can say about the Tubes except they've done some great stuff."
+    },
+    {
+      "start": 3541.23,
+      "end": 3544.85,
+      "text": "and this from their classic album Completion Backwards Principle"
+    },
+    {
+      "start": 3544.85,
+      "end": 3547.75,
+      "text": "of which there are several other tracks on by the way"
+    },
+    {
+      "start": 3547.75,
+      "end": 3550.35,
+      "text": "but this one is called Talk To You Later."
+    },
+    {
+      "start": 3550.79,
+      "end": 3553.03,
+      "text": "As I mentioned near the close of the last record"
+    },
+    {
+      "start": 3553.03,
+      "end": 3556.33,
+      "text": "this record you are now playing is another example"
+    },
+    {
+      "start": 3556.33,
+      "end": 3558.37,
+      "text": "of the Completion Backwards Principle."
+    },
+    {
+      "start": 3558.97,
+      "end": 3560.61,
+      "text": "If you can possibly manage the time"
+    },
+    {
+      "start": 3560.61,
+      "end": 3563.51,
+      "text": "please play both sides at one meeting."
+    },
+    {
+      "start": 3837.48,
+      "end": 3839.46,
+      "text": "Well that was Talk To You Later from the Tubes"
+    },
+    {
+      "start": 3839.46,
+      "end": 3841.42,
+      "text": "which we've been talking about while the record's been playing."
+    },
+    {
+      "start": 3841.56,
+      "end": 3842.36,
+      "text": "Amazing characters."
+    },
+    {
+      "start": 3842.7,
+      "end": 3844.36,
+      "text": "The lead singer, Fee Weybill."
+    },
+    {
+      "start": 3844.36,
+      "end": 3847.16,
+      "text": "he does this in the show"
+    },
+    {
+      "start": 3847.16,
+      "end": 3849.1,
+      "text": "he comes out as a character called"
+    },
+    {
+      "start": 3849.1,
+      "end": 3850.04,
+      "text": "Coy Lude"
+    },
+    {
+      "start": 3850.04,
+      "end": 3853.4,
+      "text": "with heels about three feet high"
+    },
+    {
+      "start": 3853.4,
+      "end": 3855.5,
+      "text": "and a wig that won't get through"
+    },
+    {
+      "start": 3855.5,
+      "end": 3856.18,
+      "text": "the dressing room door"
+    },
+    {
+      "start": 3856.18,
+      "end": 3859.32,
+      "text": "and at one point he rips all his clothes off"
+    },
+    {
+      "start": 3859.32,
+      "end": 3861.64,
+      "text": "and stands there in this little sequined g-string"
+    },
+    {
+      "start": 3861.64,
+      "end": 3863.28,
+      "text": "and I mean"
+    },
+    {
+      "start": 3863.28,
+      "end": 3865.32,
+      "text": "how can I put this nicely"
+    },
+    {
+      "start": 3865.32,
+      "end": 3866.48,
+      "text": "I mean he's got a great body"
+    },
+    {
+      "start": 3866.48,
+      "end": 3869.94,
+      "text": "but I don't really mean that"
+    },
+    {
+      "start": 3869.94,
+      "end": 3873.04,
+      "text": "I mean his muscles actually do ripple"
+    },
+    {
+      "start": 3873.04,
+      "end": 3873.9,
+      "text": "yes they do"
+    },
+    {
+      "start": 3873.9,
+      "end": 3882.84,
+      "text": "yes yeah great stuff i said it again that's got to come out okay so uh thanks for helping me out"
+    },
+    {
+      "start": 3882.84,
+      "end": 3888.92,
+      "text": "here and you getting a great uh selection of stuff that's coming out of your brain at the moment what"
+    },
+    {
+      "start": 3888.92,
+      "end": 3894.73,
+      "text": "do you want to play next um another american band talking heads i think are very innovative"
+    },
+    {
+      "start": 3895.61,
+      "end": 3900.65,
+      "text": "but little creatures their new album i didn't like it at first actually because i'm kind of"
+    },
+    {
+      "start": 3900.65,
+      "end": 3902.09,
+      "text": "traditional Talking Heads fan."
+    },
+    {
+      "start": 3902.71,
+      "end": 3904.51,
+      "text": "But it took me a couple of months to get into it,"
+    },
+    {
+      "start": 3904.53,
+      "end": 3905.71,
+      "text": "but now I'm into it, it's great."
+    },
+    {
+      "start": 3905.91,
+      "end": 3908.31,
+      "text": "And lyrics, again, I always listen to the lyrics."
+    },
+    {
+      "start": 3908.89,
+      "end": 3910.23,
+      "text": "Some great lyrics from David Byrne."
+    },
+    {
+      "start": 3910.69,
+      "end": 3913.17,
+      "text": "I think Talking Heads would be really, really upset"
+    },
+    {
+      "start": 3913.17,
+      "end": 3915.47,
+      "text": "to have somebody referring to themselves"
+    },
+    {
+      "start": 3915.47,
+      "end": 3917.25,
+      "text": "as a traditional Talking Heads fan."
+    },
+    {
+      "start": 3917.87,
+      "end": 3919.49,
+      "text": "Sort of contradiction in terms, isn't it?"
+    },
+    {
+      "start": 3919.53,
+      "end": 3920.29,
+      "text": "Yeah, it is, really."
+    },
+    {
+      "start": 3920.91,
+      "end": 3921.71,
+      "text": "Well, here we go."
+    },
+    {
+      "start": 3922.35,
+      "end": 3922.91,
+      "text": "I'm not."
+    },
+    {
+      "start": 3923.17,
+      "end": 3924.75,
+      "text": "You're not a traditional Talking Heads fan."
+    },
+    {
+      "start": 3924.77,
+      "end": 3925.21,
+      "text": "Not at all."
+    },
+    {
+      "start": 3925.21,
+      "end": 3926.63,
+      "text": "You're just a Talking Heads fan."
+    },
+    {
+      "start": 3927.17,
+      "end": 3928.81,
+      "text": "OK, Little Creatures, Talking Heads."
+    },
+    {
+      "start": 3928.81,
+      "end": 4189.37,
+      "text": "Talking Heads and Little Creatures"
+    },
+    {
+      "start": 4189.37,
+      "end": 4191.19,
+      "text": "difficult to pick a Talking Heads track"
+    },
+    {
+      "start": 4191.19,
+      "end": 4192.63,
+      "text": "they've made so many good ones"
+    },
+    {
+      "start": 4192.63,
+      "end": 4195.27,
+      "text": "here's a request for Ron who's in the nick at the moment"
+    },
+    {
+      "start": 4195.27,
+      "end": 4197.19,
+      "text": "he gets out in a few weeks time and his wife"
+    },
+    {
+      "start": 4197.19,
+      "end": 4198.61,
+      "text": "Nandi and son Ryan have asked"
+    },
+    {
+      "start": 4198.61,
+      "end": 4201.33,
+      "text": "if I can play the same old son"
+    },
+    {
+      "start": 4201.33,
+      "end": 4202.69,
+      "text": "from the Alan Parsons project"
+    },
+    {
+      "start": 4202.69,
+      "end": 4481.1,
+      "text": "the same old son"
+    },
+    {
+      "start": 4481.1,
+      "end": 4482.92,
+      "text": "from Alan Parsons, this is"
+    },
+    {
+      "start": 4482.92,
+      "end": 4485.16,
+      "text": "Ian Gillan, sitting in for Tommy Vance"
+    },
+    {
+      "start": 4485.16,
+      "end": 4487.1,
+      "text": "who's away on holiday at the moment, I'm in Stowe"
+    },
+    {
+      "start": 4487.1,
+      "end": 4489.04,
+      "text": "Vermont and with me is"
+    },
+    {
+      "start": 4489.04,
+      "end": 4491.16,
+      "text": "Roger Glover who's joining me"
+    },
+    {
+      "start": 4491.16,
+      "end": 4492.62,
+      "text": "every few minutes from the local"
+    },
+    {
+      "start": 4492.76,
+      "end": 4493.78,
+      "text": "Also in Stowe, Vermont."
+    },
+    {
+      "start": 4493.98,
+      "end": 4494.64,
+      "text": "Are you here, too?"
+    },
+    {
+      "start": 4494.7,
+      "end": 4495.82,
+      "text": "Yeah, apparently."
+    },
+    {
+      "start": 4496.32,
+      "end": 4496.68,
+      "text": "Apparently."
+    },
+    {
+      "start": 4497.16,
+      "end": 4498.8,
+      "text": "We're in a little room where we're..."
+    },
+    {
+      "start": 4498.8,
+      "end": 4500.64,
+      "text": "Right, how would you describe this room, Rog?"
+    },
+    {
+      "start": 4500.96,
+      "end": 4502.3,
+      "text": "Some of the things on the wall here."
+    },
+    {
+      "start": 4502.84,
+      "end": 4504.98,
+      "text": "Actually, you've got to put the whole thing in perspective."
+    },
+    {
+      "start": 4505.1,
+      "end": 4506.18,
+      "text": "We're in an old theatre."
+    },
+    {
+      "start": 4506.74,
+      "end": 4507.74,
+      "text": "Yeah, it's called the Playhouse."
+    },
+    {
+      "start": 4508.0,
+      "end": 4510.96,
+      "text": "And all the gear's set up upstairs where we work."
+    },
+    {
+      "start": 4510.96,
+      "end": 4513.08,
+      "text": "And Ian took over this little room,"
+    },
+    {
+      "start": 4513.6,
+      "end": 4515.22,
+      "text": "and it's become Ian's office."
+    },
+    {
+      "start": 4515.58,
+      "end": 4518.48,
+      "text": "And it's very cosy in here."
+    },
+    {
+      "start": 4518.6,
+      "end": 4520.28,
+      "text": "You've got a little desk, and you've got your wardrobe,"
+    },
+    {
+      "start": 4520.52,
+      "end": 4521.1,
+      "text": "and you've got a guitar."
+    },
+    {
+      "start": 4521.1,
+      "end": 4523.7,
+      "text": "and you've got hanging on the wall"
+    },
+    {
+      "start": 4523.7,
+      "end": 4526.42,
+      "text": "all your little jottings and dreamings"
+    },
+    {
+      "start": 4526.42,
+      "end": 4528.5,
+      "text": "and poetry and lyrics and song ideas."
+    },
+    {
+      "start": 4529.96,
+      "end": 4531.32,
+      "text": "I've taken up painting, you know."
+    },
+    {
+      "start": 4531.64,
+      "end": 4532.2,
+      "text": "I know."
+    },
+    {
+      "start": 4532.26,
+      "end": 4533.18,
+      "text": "I'm a real artist now."
+    },
+    {
+      "start": 4533.24,
+      "end": 4533.76,
+      "text": "I noticed."
+    },
+    {
+      "start": 4534.58,
+      "end": 4536.28,
+      "text": "Some of my masterpieces on the wall."
+    },
+    {
+      "start": 4536.8,
+      "end": 4537.72,
+      "text": "I like that one over there."
+    },
+    {
+      "start": 4537.74,
+      "end": 4539.7,
+      "text": "It says, great tits."
+    },
+    {
+      "start": 4539.9,
+      "end": 4541.62,
+      "text": "It does actually say great tits, yes."
+    },
+    {
+      "start": 4542.24,
+      "end": 4543.14,
+      "text": "It's a masterpiece."
+    },
+    {
+      "start": 4543.78,
+      "end": 4545.28,
+      "text": "It's quite innovative, isn't it?"
+    },
+    {
+      "start": 4545.36,
+      "end": 4546.38,
+      "text": "It's a pair of masterpieces."
+    },
+    {
+      "start": 4546.58,
+      "end": 4547.54,
+      "text": "It's four, actually."
+    },
+    {
+      "start": 4547.54,
+      "end": 4551.5,
+      "text": "Anyway, time's come to maybe play a Deep Purple track"
+    },
+    {
+      "start": 4551.5,
+      "end": 4553.72,
+      "text": "where it's not the sort of thing I normally like to do"
+    },
+    {
+      "start": 4553.72,
+      "end": 4555.8,
+      "text": "is play my own music on a radio show"
+    },
+    {
+      "start": 4555.8,
+      "end": 4558.62,
+      "text": "unless you're actually doing a tour and interviews"
+    },
+    {
+      "start": 4558.62,
+      "end": 4559.92,
+      "text": "and promoting a new album or something"
+    },
+    {
+      "start": 4559.92,
+      "end": 4563.08,
+      "text": "One of the interesting things is that everyone wants to play"
+    },
+    {
+      "start": 4563.08,
+      "end": 4565.88,
+      "text": "the well-known songs"
+    },
+    {
+      "start": 4565.88,
+      "end": 4567.52,
+      "text": "Woman From Tokyo, Smoke On The Water"
+    },
+    {
+      "start": 4567.52,
+      "end": 4571.12,
+      "text": "and Woman From Tokyo and Smoke On The Water"
+    },
+    {
+      "start": 4571.12,
+      "end": 4572.38,
+      "text": "and that sort of thing"
+    },
+    {
+      "start": 4572.38,
+      "end": 4575.58,
+      "text": "So every now and again it's nice to play something"
+    },
+    {
+      "start": 4575.58,
+      "end": 4576.64,
+      "text": "which is just in a nice groove"
+    },
+    {
+      "start": 4576.64,
+      "end": 4578.48,
+      "text": "which maybe not played a lot on the radio."
+    },
+    {
+      "start": 4579.22,
+      "end": 4581.16,
+      "text": "And you came up with this idea, which is?"
+    },
+    {
+      "start": 4581.34,
+      "end": 4581.86,
+      "text": "Demon's Eye."
+    },
+    {
+      "start": 4582.42,
+      "end": 4583.58,
+      "text": "I think it's a great track."
+    },
+    {
+      "start": 4583.84,
+      "end": 4586.16,
+      "text": "It's purple at its raw best."
+    },
+    {
+      "start": 4586.58,
+      "end": 4588.28,
+      "text": "I feel the same about you."
+    },
+    {
+      "start": 4588.36,
+      "end": 4590.76,
+      "text": "I don't like sort of blowing around trumpets,"
+    },
+    {
+      "start": 4590.88,
+      "end": 4592.58,
+      "text": "but from this distance,"
+    },
+    {
+      "start": 4592.66,
+      "end": 4593.98,
+      "text": "we can look back on the early days, actually,"
+    },
+    {
+      "start": 4594.02,
+      "end": 4595.36,
+      "text": "with quite a lot of objectivity."
+    },
+    {
+      "start": 4595.96,
+      "end": 4598.42,
+      "text": "And I never used to really care much about what we did."
+    },
+    {
+      "start": 4598.54,
+      "end": 4600.58,
+      "text": "I did care about it, but I didn't like it that much."
+    },
+    {
+      "start": 4601.12,
+      "end": 4603.96,
+      "text": "And it's only comparatively recently"
+    },
+    {
+      "start": 4603.96,
+      "end": 4606.34,
+      "text": "that I can look back on the early 70s"
+    },
+    {
+      "start": 4606.34,
+      "end": 4611.62,
+      "text": "go yeah that's all right we did that pretty good yeah yeah so i'm proud of this track i think this"
+    },
+    {
+      "start": 4611.62,
+      "end": 4919.6,
+      "text": "is a really good track that was demon's eye from uh who's nobody deep deep purple that's right it"
+    },
+    {
+      "start": 4919.6,
+      "end": 4924.96,
+      "text": "was from 1971 on the uh fireball album and where did we record that that was recorded in holborn"
+    },
+    {
+      "start": 4924.96,
+      "end": 4931.62,
+      "text": "studio then called delaney that's right we did in those days we record the whole album in different"
+    },
+    {
+      "start": 4931.62,
+      "end": 4935.7,
+      "text": "studios and we were various did we do that no we did the whole of the whole of that one there yeah"
+    },
+    {
+      "start": 4935.7,
+      "end": 4937.44,
+      "text": "What was the opening track?"
+    },
+    {
+      "start": 4937.76,
+      "end": 4938.8,
+      "text": "It was Fireball itself."
+    },
+    {
+      "start": 4939.18,
+      "end": 4940.6,
+      "text": "And do you remember the sound at the beginning of that?"
+    },
+    {
+      "start": 4941.0,
+      "end": 4942.56,
+      "text": "Where we got it from?"
+    },
+    {
+      "start": 4942.92,
+      "end": 4945.92,
+      "text": "It's a sound that goes..."
+    },
+    {
+      "start": 4945.92,
+      "end": 4947.68,
+      "text": "And then Pacey comes in with the drums."
+    },
+    {
+      "start": 4947.74,
+      "end": 4948.04,
+      "text": "That's right."
+    },
+    {
+      "start": 4948.3,
+      "end": 4950.96,
+      "text": "And what that sound was, it was recorded by Martin Birch at the time,"
+    },
+    {
+      "start": 4951.02,
+      "end": 4952.86,
+      "text": "and it was the ventilator."
+    },
+    {
+      "start": 4953.02,
+      "end": 4953.6,
+      "text": "The air conditioner."
+    },
+    {
+      "start": 4953.6,
+      "end": 4954.26,
+      "text": "The air conditioner."
+    },
+    {
+      "start": 4954.34,
+      "end": 4955.32,
+      "text": "That's right, starting up."
+    },
+    {
+      "start": 4955.68,
+      "end": 4955.88,
+      "text": "Yeah."
+    },
+    {
+      "start": 4956.1,
+      "end": 4957.52,
+      "text": "In fact, what we used as a sound effect."
+    },
+    {
+      "start": 4957.6,
+      "end": 4959.0,
+      "text": "That's all we had for sound effects in those days."
+    },
+    {
+      "start": 4960.91,
+      "end": 4962.57,
+      "text": "Thanks for that barbecue the other day, by the way."
+    },
+    {
+      "start": 4962.83,
+      "end": 4963.55,
+      "text": "That was great."
+    },
+    {
+      "start": 4963.95,
+      "end": 4964.67,
+      "text": "Last Saturday..."
+    },
+    {
+      "start": 4964.67,
+      "end": 4966.39,
+      "text": "Sorry, I should explain to everyone that last Saturday,"
+    },
+    {
+      "start": 4966.39,
+      "end": 4971.31,
+      "text": "roger had a great barbecue and uh we were all invited around and we ended up having a party"
+    },
+    {
+      "start": 4971.31,
+      "end": 4975.89,
+      "text": "indoors you got the guitar out and you were singing loads and loads of songs in fact uh"
+    },
+    {
+      "start": 4975.89,
+      "end": 4980.91,
+      "text": "one of the ones you sang or your party piece of course is the rock island line yeah the first"
+    },
+    {
+      "start": 4980.91,
+      "end": 4984.49,
+      "text": "song i ever performed which i was going to ask you to do now but we haven't got a guitar handy so"
+    },
+    {
+      "start": 4984.49,
+      "end": 4988.73,
+      "text": "we won't do it that's a relief um but one of the other things you sang and said was one of your"
+    },
+    {
+      "start": 4988.73,
+      "end": 4994.61,
+      "text": "all-time favorite songs was that eddie cochran thing oh yeah something else yeah i'll tell you"
+    },
+    {
+      "start": 4994.61,
+      "end": 4998.75,
+      "text": "while like something else apart from the fact that i used to sing it in the old days so it's"
+    },
+    {
+      "start": 4998.75,
+      "end": 5006.63,
+      "text": "got a kind of personal thing for me um hard rock as a kind of a type you can you can trace back"
+    },
+    {
+      "start": 5006.63,
+      "end": 5013.51,
+      "text": "little bits where it came from and the opening of this the hi-hat and the guitar to me is one of the"
+    },
+    {
+      "start": 5013.51,
+      "end": 5018.19,
+      "text": "one of the little influences that creep in that made hard rock what it is yeah and of course this"
+    },
+    {
+      "start": 5018.19,
+      "end": 5023.91,
+      "text": "was recorded by eddie cochran way way before we'd ever been thought of as a band that's right when"
+    },
+    {
+      "start": 5023.91,
+      "end": 5027.23,
+      "text": "When you listen to the way these tracks were recorded"
+    },
+    {
+      "start": 5027.23,
+      "end": 5028.61,
+      "text": "in the early days of rock and roll,"
+    },
+    {
+      "start": 5028.91,
+      "end": 5031.91,
+      "text": "in fact, they're actually quite lightweight, aren't they?"
+    },
+    {
+      "start": 5032.11,
+      "end": 5034.43,
+      "text": "It's the performance that makes it hard and heavy."
+    },
+    {
+      "start": 5034.83,
+      "end": 5037.79,
+      "text": "It's not a massive amplification or loud thrashing drums."
+    },
+    {
+      "start": 5037.89,
+      "end": 5040.69,
+      "text": "It's very tight and powerful performance"
+    },
+    {
+      "start": 5040.69,
+      "end": 5043.25,
+      "text": "rather than the sort of over-amplified sound that you get at the moment."
+    },
+    {
+      "start": 5043.25,
+      "end": 5045.15,
+      "text": "Eddie used to do all..."
+    },
+    {
+      "start": 5045.15,
+      "end": 5046.53,
+      "text": "Well, I don't know, actually, on this one,"
+    },
+    {
+      "start": 5046.59,
+      "end": 5048.21,
+      "text": "but a lot of his songs was all him."
+    },
+    {
+      "start": 5048.41,
+      "end": 5050.75,
+      "text": "Come On Everybody is all him playing everything."
+    },
+    {
+      "start": 5051.43,
+      "end": 5052.09,
+      "text": "At the same time."
+    },
+    {
+      "start": 5052.23,
+      "end": 5053.63,
+      "text": "Summertime Blues doesn't really..."
+    },
+    {
+      "start": 5053.63,
+      "end": 5059.55,
+      "text": "The hi-hat in Something Else is the first time you've heard a hi-hat"
+    },
+    {
+      "start": 5059.55,
+      "end": 5062.05,
+      "text": "that's been slightly opened and hit at an angle."
+    },
+    {
+      "start": 5062.65,
+      "end": 5065.73,
+      "text": "Up until then, it was always a tit-tit, very polite kind of hi-hat sound."
+    },
+    {
+      "start": 5065.97,
+      "end": 5067.71,
+      "text": "This time it's a bush-bush-bush."
+    },
+    {
+      "start": 5067.87,
+      "end": 5071.77,
+      "text": "It's a very, very exciting sound, and that's why I like to listen to this one."
+    },
+    {
+      "start": 5071.95,
+      "end": 5074.15,
+      "text": "Great stuff. Something Else, Eddie Koch."
+    },
+    {
+      "start": 5081.77,
+      "end": 5082.79,
+      "text": "Here she comes"
+    },
+    {
+      "start": 5082.79,
+      "end": 5101.47,
+      "text": "She's your fine-looking man"
+    },
+    {
+      "start": 5101.47,
+      "end": 5102.69,
+      "text": "She's something else"
+    },
+    {
+      "start": 5102.69,
+      "end": 5109.78,
+      "text": "Hey, look at that"
+    },
+    {
+      "start": 5109.78,
+      "end": 5111.3,
+      "text": "Across the street"
+    },
+    {
+      "start": 5111.3,
+      "end": 5206.38,
+      "text": "Well, that was Eddie Cochran and something else."
+    },
+    {
+      "start": 5206.6,
+      "end": 5207.26,
+      "text": "Yeah, yeah, yeah."
+    },
+    {
+      "start": 5207.26,
+      "end": 5208.36,
+      "text": "Yeah, yeah, yeah, yeah."
+    },
+    {
+      "start": 5208.4,
+      "end": 5209.08,
+      "text": "Rock and roll."
+    },
+    {
+      "start": 5209.22,
+      "end": 5209.74,
+      "text": "Great stuff."
+    },
+    {
+      "start": 5209.8,
+      "end": 5210.42,
+      "text": "I said it again."
+    },
+    {
+      "start": 5211.32,
+      "end": 5212.48,
+      "text": "I don't believe this."
+    },
+    {
+      "start": 5213.02,
+      "end": 5214.4,
+      "text": "This is Ian Gillan."
+    },
+    {
+      "start": 5214.4,
+      "end": 5215.88,
+      "text": "I nearly forgot who I was then."
+    },
+    {
+      "start": 5216.82,
+      "end": 5217.68,
+      "text": "It is me, isn't it?"
+    },
+    {
+      "start": 5217.7,
+      "end": 5218.3,
+      "text": "Yes, it is, yeah."
+    },
+    {
+      "start": 5218.3,
+      "end": 5219.2,
+      "text": "It is me, and it's you."
+    },
+    {
+      "start": 5219.28,
+      "end": 5220.16,
+      "text": "It looks like your photograph."
+    },
+    {
+      "start": 5220.32,
+      "end": 5222.16,
+      "text": "And I can tell by that look in your eye, you're off down the pub again."
+    },
+    {
+      "start": 5222.16,
+      "end": 5223.08,
+      "text": "You certainly am, mate."
+    },
+    {
+      "start": 5223.24,
+      "end": 5226.08,
+      "text": "Thanks for stopping in, Rog, and giving us a few of your gems."
+    },
+    {
+      "start": 5226.4,
+      "end": 5227.3,
+      "text": "Yeah, good luck with the show."
+    },
+    {
+      "start": 5227.42,
+      "end": 5227.98,
+      "text": "Thanks a lot, mate."
+    },
+    {
+      "start": 5228.9,
+      "end": 5229.78,
+      "text": "It's good fun, isn't it?"
+    },
+    {
+      "start": 5229.86,
+      "end": 5230.32,
+      "text": "It's great."
+    },
+    {
+      "start": 5231.16,
+      "end": 5231.88,
+      "text": "Good old Tommy."
+    },
+    {
+      "start": 5232.1,
+      "end": 5232.68,
+      "text": "Good old Tommy."
+    },
+    {
+      "start": 5232.82,
+      "end": 5235.56,
+      "text": "I bet he's off in the sun somewhere now, getting drunk in a bar somewhere."
+    },
+    {
+      "start": 5236.3,
+      "end": 5237.0,
+      "text": "What do you think he's doing?"
+    },
+    {
+      "start": 5237.38,
+      "end": 5238.26,
+      "text": "I'm sure you're right."
+    },
+    {
+      "start": 5238.56,
+      "end": 5238.78,
+      "text": "Yeah."
+    },
+    {
+      "start": 5238.88,
+      "end": 5239.3,
+      "text": "I'm sure you're right."
+    },
+    {
+      "start": 5239.3,
+      "end": 5240.04,
+      "text": "Well, that's where I'm going."
+    },
+    {
+      "start": 5240.18,
+      "end": 5240.66,
+      "text": "Okay, mate."
+    },
+    {
+      "start": 5240.82,
+      "end": 5241.4,
+      "text": "Well, thanks a million."
+    },
+    {
+      "start": 5241.56,
+      "end": 5242.22,
+      "text": "Good luck with the rest of it."
+    },
+    {
+      "start": 5242.34,
+      "end": 5242.58,
+      "text": "Cheers."
+    },
+    {
+      "start": 5242.72,
+      "end": 5243.04,
+      "text": "See you later."
+    },
+    {
+      "start": 5243.12,
+      "end": 5243.66,
+      "text": "Bye-bye, England."
+    },
+    {
+      "start": 5245.0,
+      "end": 5245.54,
+      "text": "Thanks, Rog."
+    },
+    {
+      "start": 5245.76,
+      "end": 5247.8,
+      "text": "Here's two more tracks from the can session."
     }
   ]
 }

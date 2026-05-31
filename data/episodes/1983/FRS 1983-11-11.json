@@ -34,12 +34,14 @@
     {
       "artist": "AC/DC",
       "track": "Hell Ain't A Bad Place To Be (LP - Let There Be Rock) ATCO",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1148.85
     },
     {
       "artist": "Pretty Things",
       "track": "Bride Of God",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 695.37
     },
     {
       "artist": "Pretty Things",

@@ -27,17 +27,20 @@
     {
       "artist": "Movie Stars",
       "track": "No Time To Kill",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 620.94
     },
     {
       "artist": "Emerson, Lake & Palmer",
       "track": "The Sheriff",
-      "details": "LP-Trilogy; Manticore"
+      "details": "LP-Trilogy; Manticore",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Saxon live",
       "track": "Dallas 1 P.M. / 20,000 Ft.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1899.54
     },
     {
       "artist": "Twelfth Night",
@@ -57,17 +60,20 @@
     {
       "artist": "Shiva",
       "track": "Angel Of Mons",
-      "details": "7\"-Angel Of Mons; Heavy Metal"
+      "details": "7\"-Angel Of Mons; Heavy Metal",
+      "verified_timestamp": 3800.6
     },
     {
       "artist": "Confessor",
       "track": "Secrets",
-      "details": "Compilation LP-Metallic Storm; Ebony"
+      "details": "Compilation LP-Metallic Storm; Ebony",
+      "verified_timestamp": 3783.56
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.72
     },
     {
       "artist": "Movie Stars",
@@ -82,7 +88,8 @@
     {
       "artist": "Saxon live",
       "track": "The Eagle Has Landed / 747",
-      "details": "Strangers In The Night"
+      "details": "Strangers In The Night",
+      "verified_timestamp": 5346.96
     },
     {
       "artist": "Movie Stars",
@@ -92,7 +99,8 @@
     {
       "artist": "Gillan",
       "track": "'If You Believe Me' (LP - Glory Road) Virgin",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6485.61
     }
   ],
   "transcript": [

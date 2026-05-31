@@ -24,42 +24,50 @@
     {
       "artist": "Rainbow",
       "track": "Lost In Hollywood",
-      "details": "LP-Down To Earth; Polydor"
+      "details": "LP-Down To Earth; Polydor",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Meatloaf",
       "track": "Modern Girl",
-      "details": "7\" Single from Bad Attitude; Arista"
+      "details": "7\" Single from Bad Attitude; Arista",
+      "verified_timestamp": 1157.82
     },
     {
       "artist": "Krokus",
       "track": "Midnight Maniac",
-      "details": "LP-The Blitz; Arista"
+      "details": "LP-The Blitz; Arista",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Garrison",
       "track": "The First Time",
-      "details": "FRS session 1984-06-08"
+      "details": "FRS session 1984-06-08",
+      "verified_timestamp": 2071.52
     },
     {
       "artist": "IQ",
       "track": "Awake And Nervous",
-      "details": "LP-Tales From The Lush Attic; Major Record Company"
+      "details": "LP-Tales From The Lush Attic; Major Record Company",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Blackfoot",
       "track": "Get It On",
-      "details": "LP-Vertical Smiles; ATCO"
+      "details": "LP-Vertical Smiles; ATCO",
+      "verified_timestamp": 2812.83
     },
     {
       "artist": "Billy Idol",
       "track": "Flesh For Fantasy",
-      "details": "12\" Single; Chrysalis"
+      "details": "12\" Single; Chrysalis",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Voivod",
       "track": "Warriors Of Ice",
-      "details": "LP-War And Pain; Metal Blade"
+      "details": "LP-War And Pain; Metal Blade",
+      "verified_timestamp": 3370.02
     },
     {
       "artist": "Zebra",
@@ -79,7 +87,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 18.01
     },
     {
       "artist": "Wildfire",
@@ -99,7 +108,8 @@
     {
       "artist": "Garrison",
       "track": "Turn On The Night",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 2071.52
     },
     {
       "artist": "Billy Squier",

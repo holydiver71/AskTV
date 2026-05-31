@@ -20,12 +20,14 @@
     {
       "artist": "Brighton Rock",
       "track": "Young, Wild And Free",
-      "details": "LP-Young, Wild And Free; WEA"
+      "details": "LP-Young, Wild And Free; WEA",
+      "verified_timestamp": 600.79
     },
     {
       "artist": "Ted Nugent",
       "track": "Snakeskin Cowboys",
-      "details": "2xLP-Anthology; Raw Power"
+      "details": "2xLP-Anthology; Raw Power",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Madison",
@@ -35,17 +37,20 @@
     {
       "artist": "Diamond Rexx",
       "track": "All I Need",
-      "details": "LP-Land Of The Damned; Island"
+      "details": "LP-Land Of The Damned; Island",
+      "verified_timestamp": 1186.03
     },
     {
       "artist": "Girlschool",
       "track": "Death On Two Legs",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1203.73
     },
     {
       "artist": "Castle Blak",
       "track": "Glory Hole",
-      "details": "LP-Another Dark Carnival; Stiff Kitten"
+      "details": "LP-Another Dark Carnival; Stiff Kitten",
+      "verified_timestamp": 1655.06
     },
     {
       "artist": null,
@@ -65,12 +70,14 @@
     {
       "artist": "Cryptic Slaughter",
       "track": "Lowlife",
-      "details": "LP-Convicted; Death / Metal Blade"
+      "details": "LP-Convicted; Death / Metal Blade",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Pantera",
       "track": "Daughters Of The Queen",
-      "details": "LP-I Am The Night; Metal Magic"
+      "details": "LP-I Am The Night; Metal Magic",
+      "verified_timestamp": 2863.02
     },
     {
       "artist": "Girlschool",
@@ -85,12 +92,1130 @@
     {
       "artist": "Bon Jovi",
       "track": "Without Love",
-      "details": "LP-Slippery When Wet; Vertigo / Phonogram"
+      "details": "LP-Slippery When Wet; Vertigo / Phonogram",
+      "verified_timestamp": 2432.84
     },
     {
       "artist": "Magnum",
       "track": "Back To Earth",
       "details": "LP-Vintage Magnum; Jet"
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.52,
+      "end": 9.32,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 9.32,
+      "end": 25.82,
+      "text": "Hello there, this is TV on the Radio, Thomas Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 25.82,
+      "end": 34.04,
+      "text": "Why mate, it's the last walking night before Christmas and I'm going to take this opportunity to fill your stocking till it bursts at the seams."
+    },
+    {
+      "start": 34.04,
+      "end": 39.04,
+      "text": "Talking of stockings, tonight we have a repeat of the latest session by Girls' School."
+    },
+    {
+      "start": 39.76,
+      "end": 54.14,
+      "text": "And you can check out these names as well."
+    },
+    {
+      "start": 54.28,
+      "end": 56.1,
+      "text": "Pantera, Madison, Billy Squire,"
+    },
+    {
+      "start": 56.28,
+      "end": 57.6,
+      "text": "Vow Wow, Raw Bar,"
+    },
+    {
+      "start": 57.86,
+      "end": 59.3,
+      "text": "X, Crocus, Detente,"
+    },
+    {
+      "start": 60.36,
+      "end": 61.72,
+      "text": "Led Zeppelin, Deep Switch,"
+    },
+    {
+      "start": 61.88,
+      "end": 63.6,
+      "text": "Ted Nugent, Cryptic Slaughter,"
+    },
+    {
+      "start": 63.92,
+      "end": 65.8,
+      "text": "Bon Jovi, and Manowar."
+    },
+    {
+      "start": 67.04,
+      "end": 68.9,
+      "text": "You name them, I got them."
+    },
+    {
+      "start": 554.23,
+      "end": 555.79,
+      "text": "Well, there's a fellow who's been in the rock and roll business"
+    },
+    {
+      "start": 555.79,
+      "end": 557.75,
+      "text": "for a long time, started with the Amboy Dukes"
+    },
+    {
+      "start": 557.75,
+      "end": 559.31,
+      "text": "years and years ago, Ted Nugent."
+    },
+    {
+      "start": 559.43,
+      "end": 562.33,
+      "text": "That track was recorded back in 1975 by Nuge,"
+    },
+    {
+      "start": 562.93,
+      "end": 564.83,
+      "text": "but now you'll find it on an anthology."
+    },
+    {
+      "start": 565.01,
+      "end": 566.61,
+      "text": "It's a double album, and it's well worth the money."
+    },
+    {
+      "start": 566.77,
+      "end": 568.61,
+      "text": "It's on the Raw Power record label."
+    },
+    {
+      "start": 568.71,
+      "end": 570.83,
+      "text": "The track you heard there was called Snake Skin Cowboys."
+    },
+    {
+      "start": 571.37,
+      "end": 574.75,
+      "text": "Other tracks, Doggy Dog, Cat Scratch Fever, Turn It Up,"
+    },
+    {
+      "start": 575.31,
+      "end": 577.83,
+      "text": "Storm Trooping, Smokescreen, Come and Get It, Stranglehold,"
+    },
+    {
+      "start": 577.93,
+      "end": 578.73,
+      "text": "Motor City Madness."
+    },
+    {
+      "start": 579.05,
+      "end": 580.43,
+      "text": "Very, very good compilation."
+    },
+    {
+      "start": 580.89,
+      "end": 583.41,
+      "text": "Highly recommended if you like Nuge or if you want to get into it."
+    },
+    {
+      "start": 583.83,
+      "end": 586.17,
+      "text": "Ted Nugent, an anthology on Raw Power."
+    },
+    {
+      "start": 586.39,
+      "end": 588.01,
+      "text": "Snake Skin Cowboys was the track."
+    },
+    {
+      "start": 588.55,
+      "end": 592.25,
+      "text": "Before that, right, from the first LP to be put out by a band from Toronto."
+    },
+    {
+      "start": 592.77,
+      "end": 594.77,
+      "text": "Five guys in the band, average age 22."
+    },
+    {
+      "start": 594.77,
+      "end": 596.69,
+      "text": "you heard Brighton Rock"
+    },
+    {
+      "start": 596.69,
+      "end": 598.59,
+      "text": "not the Queen track mate"
+    },
+    {
+      "start": 598.59,
+      "end": 600.79,
+      "text": "Brighton Rock from the album"
+    },
+    {
+      "start": 600.79,
+      "end": 602.25,
+      "text": "Young, Wild and Free"
+    },
+    {
+      "start": 602.25,
+      "end": 604.57,
+      "text": "that's out on WEA on import"
+    },
+    {
+      "start": 604.57,
+      "end": 606.69,
+      "text": "but it's coming out here next month in January"
+    },
+    {
+      "start": 606.69,
+      "end": 608.91,
+      "text": "so don't buy it on import, it costs you too much money"
+    },
+    {
+      "start": 608.91,
+      "end": 609.73,
+      "text": "you heard the title track"
+    },
+    {
+      "start": 609.73,
+      "end": 612.21,
+      "text": "Brighton Rock, Young, Wild and Free"
+    },
+    {
+      "start": 612.21,
+      "end": 614.27,
+      "text": "hello to Judy, and I hope Judy"
+    },
+    {
+      "start": 614.27,
+      "end": 616.17,
+      "text": "on the 13th of December"
+    },
+    {
+      "start": 616.17,
+      "end": 618.99,
+      "text": "you did let Chris Ziz Wilkinson"
+    },
+    {
+      "start": 618.99,
+      "end": 619.79,
+      "text": "go to see Quo"
+    },
+    {
+      "start": 619.79,
+      "end": 622.67,
+      "text": "if not, fire upon you madam, whatever that means"
+    },
+    {
+      "start": 622.67,
+      "end": 623.39,
+      "text": "medievally"
+    },
+    {
+      "start": 623.39,
+      "end": 630.03,
+      "text": "Dear Tom, say hello to Paul the Scab, middle miss, of Kelso in Scotland."
+    },
+    {
+      "start": 630.63,
+      "end": 635.21,
+      "text": "All the Jockos at Kelso High School, including Stuart Chalmers and Scott Tate."
+    },
+    {
+      "start": 636.09,
+      "end": 641.07,
+      "text": "And Paul, P.S. it says here, Paul, you can't live on the dole forever."
+    },
+    {
+      "start": 641.49,
+      "end": 642.11,
+      "text": "And that's the truth."
+    },
+    {
+      "start": 642.81,
+      "end": 648.87,
+      "text": "Alexandra Jane Slater, happy 18th birthday, coming up on December 23rd."
+    },
+    {
+      "start": 648.87,
+      "end": 650.47,
+      "text": "Couldn't play the record that was requested"
+    },
+    {
+      "start": 650.47,
+      "end": 652.41,
+      "text": "But there is a Led Zeppelin show at the end"
+    },
+    {
+      "start": 652.41,
+      "end": 653.93,
+      "text": "Er, track rather"
+    },
+    {
+      "start": 653.93,
+      "end": 655.87,
+      "text": "Led Zeppelin track at the end of the programme"
+    },
+    {
+      "start": 655.87,
+      "end": 657.57,
+      "text": "And I'd even been to a Christmas party"
+    },
+    {
+      "start": 657.57,
+      "end": 659.53,
+      "text": "Well, tell a lie, I went too"
+    },
+    {
+      "start": 659.53,
+      "end": 660.51,
+      "text": "But it was only lemonade"
+    },
+    {
+      "start": 660.51,
+      "end": 661.77,
+      "text": "Got a car outside, didn't I?"
+    },
+    {
+      "start": 662.29,
+      "end": 663.61,
+      "text": "I hope this request does get fulfilled"
+    },
+    {
+      "start": 663.61,
+      "end": 665.15,
+      "text": "Because it would mean such a lot to her"
+    },
+    {
+      "start": 665.15,
+      "end": 666.11,
+      "text": "Whatever is played"
+    },
+    {
+      "start": 666.11,
+      "end": 668.19,
+      "text": "And it would be nice for her"
+    },
+    {
+      "start": 668.19,
+      "end": 668.63,
+      "text": "OK"
+    },
+    {
+      "start": 668.63,
+      "end": 671.53,
+      "text": "Happy birthday, Alexandra Jane Slater"
+    },
+    {
+      "start": 671.53,
+      "end": 674.11,
+      "text": "From Vincent John Collins"
+    },
+    {
+      "start": 674.11,
+      "end": 676.33,
+      "text": "Of Sheffield in South Yorkshire"
+    },
+    {
+      "start": 676.33,
+      "end": 678.09,
+      "text": "And this is Madison"
+    },
+    {
+      "start": 678.09,
+      "end": 1175.41,
+      "text": "where do they come from chicago actually a glam band out of chicago signed to a major"
+    },
+    {
+      "start": 1175.41,
+      "end": 1180.01,
+      "text": "record label in the states probably coming out here soon but nothing on the schedule at the"
+    },
+    {
+      "start": 1180.01,
+      "end": 1186.03,
+      "text": "moment they're signed to island records usa their album is called land of the damned the track was"
+    },
+    {
+      "start": 1186.03,
+      "end": 1192.13,
+      "text": "all i need and they are called diamond wrecks and they are well four geezers you know all done up"
+    },
+    {
+      "start": 1192.13,
+      "end": 1198.41,
+      "text": "dyed a hair a bit bit of makeup good band raunchy raunchy little band four members andre johnny"
+    },
+    {
+      "start": 1198.41,
+      "end": 1201.33,
+      "text": "Cotton, Nasty Habits, and S. St. Lust."
+    },
+    {
+      "start": 1201.43,
+      "end": 1203.17,
+      "text": "And if you believe that, you believe anything."
+    },
+    {
+      "start": 1203.73,
+      "end": 1205.07,
+      "text": "I hope you believe this is Girl School."
+    },
+    {
+      "start": 1623.98,
+      "end": 1625.82,
+      "text": "A gang band who come out of San Francisco,"
+    },
+    {
+      "start": 1626.1,
+      "end": 1628.78,
+      "text": "which are led by the fellow who does the singing and the writing and the producing,"
+    },
+    {
+      "start": 1628.94,
+      "end": 1630.38,
+      "text": "Regent St. Clair, he calls himself."
+    },
+    {
+      "start": 1631.0,
+      "end": 1632.52,
+      "text": "They are called Castle Black."
+    },
+    {
+      "start": 1632.72,
+      "end": 1636.24,
+      "text": "It is a track from their second album, Another Dark Carnival."
+    },
+    {
+      "start": 1636.24,
+      "end": 1640.64,
+      "text": "The album's going to be released in Europe in January on the High Dragon label."
+    },
+    {
+      "start": 1640.74,
+      "end": 1643.44,
+      "text": "Now, I don't know of that label in the UK, so I guess it's a European release."
+    },
+    {
+      "start": 1644.04,
+      "end": 1646.28,
+      "text": "And it's still, of course, it'll then be an import."
+    },
+    {
+      "start": 1646.28,
+      "end": 1649.34,
+      "text": "It's an import now on the stiff, I love this, love this name,"
+    },
+    {
+      "start": 1649.68,
+      "end": 1652.26,
+      "text": "the stiff kitten record label out of California."
+    },
+    {
+      "start": 1652.94,
+      "end": 1655.0,
+      "text": "Castle Black, Another Dark Carnival, the name of the album,"
+    },
+    {
+      "start": 1655.06,
+      "end": 1656.48,
+      "text": "the track was Glory Hole, good band."
+    },
+    {
+      "start": 1657.08,
+      "end": 1660.18,
+      "text": "Before that you heard Girl School, the first of four from our repeat session by them."
+    },
+    {
+      "start": 1660.3,
+      "end": 1662.6,
+      "text": "Currently they're in France doing a big Euro tour,"
+    },
+    {
+      "start": 1662.94,
+      "end": 1664.8,
+      "text": "though the girls are going to be home for Christmas."
+    },
+    {
+      "start": 1665.34,
+      "end": 1666.9,
+      "text": "News about Girl School for 1987,"
+    },
+    {
+      "start": 1667.28,
+      "end": 1671.52,
+      "text": "they'll be doing a three-week UK tour starting on Jan 14."
+    },
+    {
+      "start": 1672.12,
+      "end": 1674.36,
+      "text": "Three-week tour in the United Kingdom for Girl School"
+    },
+    {
+      "start": 1674.36,
+      "end": 1676.18,
+      "text": "starting January 14."
+    },
+    {
+      "start": 1676.4,
+      "end": 1677.0,
+      "text": "It's 10.30."
+    },
+    {
+      "start": 1678.28,
+      "end": 1678.8,
+      "text": "Hello."
+    },
+    {
+      "start": 1679.4,
+      "end": 1680.22,
+      "text": "Ian Dewey here."
+    },
+    {
+      "start": 1680.82,
+      "end": 1682.5,
+      "text": "A few years ago, I made a record"
+    },
+    {
+      "start": 1682.5,
+      "end": 1684.2,
+      "text": "called Sex and Drugs in Rock and Roll."
+    },
+    {
+      "start": 1684.66,
+      "end": 1686.78,
+      "text": "The first two have got a lot more dangerous lately."
+    },
+    {
+      "start": 1687.38,
+      "end": 1688.52,
+      "text": "We'll start with sex."
+    },
+    {
+      "start": 1689.98,
+      "end": 1692.66,
+      "text": "AIDS isn't just a problem for gay people."
+    },
+    {
+      "start": 1693.4,
+      "end": 1695.24,
+      "text": "It's a problem for straight people as well."
+    },
+    {
+      "start": 1695.98,
+      "end": 1698.62,
+      "text": "Infected men and women can give the virus to each other"
+    },
+    {
+      "start": 1698.62,
+      "end": 1699.96,
+      "text": "during ordinary sex."
+    },
+    {
+      "start": 1700.5,
+      "end": 1703.14,
+      "text": "If a man's carrying the virus, it's in his sperm."
+    },
+    {
+      "start": 1703.14,
+      "end": 1708.56,
+      "text": "if a woman's carrying it it's in her vaginal fluid the more people you have sex with the more"
+    },
+    {
+      "start": 1708.56,
+      "end": 1715.2,
+      "text": "danger you're in best thing is to cut down if you can't always use a condom or make your partner use"
+    },
+    {
+      "start": 1715.2,
+      "end": 1722.19,
+      "text": "one they can help you both stay free from infection and now drugs if you're ever thinking"
+    },
+    {
+      "start": 1722.19,
+      "end": 1728.17,
+      "text": "of injecting forget it if you can't give up injecting never share a needle or equipment"
+    },
+    {
+      "start": 1728.17,
+      "end": 1733.41,
+      "text": "An infected needle is one of the easiest ways to put the AIDS virus in your bloodstream"
+    },
+    {
+      "start": 1733.41,
+      "end": 1736.57,
+      "text": "And that's the last thing your brain and body need"
+    },
+    {
+      "start": 1736.57,
+      "end": 1738.14,
+      "text": "Be lucky"
+    },
+    {
+      "start": 1738.14,
+      "end": 1744.02,
+      "text": "If you're worried and you want to talk to someone, call our confidential helpline"
+    },
+    {
+      "start": 1744.02,
+      "end": 1747.76,
+      "text": "Dial 0800 567 123"
+    },
+    {
+      "start": 1747.76,
+      "end": 1752.1,
+      "text": "That's 0800 567 123, it's free"
+    },
+    {
+      "start": 1752.1,
+      "end": 1756.74,
+      "text": "You just dial the number and the lines are open from 8 in the morning till 11 at night"
+    },
+    {
+      "start": 1756.74,
+      "end": 2334.64,
+      "text": "solo back in 1986 years ago now billy squire and the track from his latest album imported"
+    },
+    {
+      "start": 2334.64,
+      "end": 2338.12,
+      "text": "at the moment on the capital record label though i think maybe it has just been released or it's"
+    },
+    {
+      "start": 2338.12,
+      "end": 2343.48,
+      "text": "going to be released in january on capital it's called enough is enough billy squire break the"
+    },
+    {
+      "start": 2343.48,
+      "end": 2348.36,
+      "text": "silence before that you heard the outlaws track recorded back in 1980 from a compilation album"
+    },
+    {
+      "start": 2348.36,
+      "end": 2353.82,
+      "text": "another really good compilation album on the raw power record label they seem to know what they're"
+    },
+    {
+      "start": 2353.82,
+      "end": 2360.4,
+      "text": "doing 1976 to 1982 that's the span of time that the tracks cover the track you heard was called"
+    },
+    {
+      "start": 2360.4,
+      "end": 2365.04,
+      "text": "devil's road the outlaws were the act and the album on the raw power record label is on the"
+    },
+    {
+      "start": 2365.04,
+      "end": 2370.46,
+      "text": "run again excellent stuff really good compilation they seem to choose all the best tracks put them"
+    },
+    {
+      "start": 2370.46,
+      "end": 2375.7,
+      "text": "on an album right raw power there's a plug for them outlaws at reading this year tasty good"
+    },
+    {
+      "start": 2375.7,
+      "end": 2381.36,
+      "text": "good concert we put out by them hope you're going to repeat it sometime during 87 19 minutes to 11"
+    },
+    {
+      "start": 2381.36,
+      "end": 2388.54,
+      "text": "o'clock this is the bbc the friday rock show hello to shane in bramley from sue in calverley"
+    },
+    {
+      "start": 2388.54,
+      "end": 2396.56,
+      "text": "and thank you thank you little miss kemp was what exactly a year old three days ago is now exactly"
+    },
+    {
+      "start": 2396.56,
+      "end": 2402.68,
+      "text": "one year and three days old is little miss kemp who lives on woodstock road in oxford hello the"
+    },
+    {
+      "start": 2402.68,
+      "end": 2408.62,
+      "text": "kemp family my daughter's coming up one as well on uh well she's won this monday funny they are"
+    },
+    {
+      "start": 2408.62,
+      "end": 2410.38,
+      "text": "at that age. Really funny."
+    },
+    {
+      "start": 2410.88,
+      "end": 2412.66,
+      "text": "Little Miss Kemper. She liked mine. Everything"
+    },
+    {
+      "start": 2412.66,
+      "end": 2414.7,
+      "text": "is like Daddy. The toilet"
+    },
+    {
+      "start": 2414.7,
+      "end": 2416.52,
+      "text": "roll. Daddy. The food."
+    },
+    {
+      "start": 2416.76,
+      "end": 2418.44,
+      "text": "Daddy. The dustbin."
+    },
+    {
+      "start": 2418.66,
+      "end": 2420.56,
+      "text": "Daddy. They're really funny"
+    },
+    {
+      "start": 2420.56,
+      "end": 2422.62,
+      "text": "kids. I love them. Philip Roberts. How are you"
+    },
+    {
+      "start": 2422.62,
+      "end": 2424.2,
+      "text": "doing? Appleton Road, Chester."
+    },
+    {
+      "start": 2424.84,
+      "end": 2426.14,
+      "text": "Wants me to say hello to"
+    },
+    {
+      "start": 2426.14,
+      "end": 2428.72,
+      "text": "Mike the Maiden Manowar"
+    },
+    {
+      "start": 2428.72,
+      "end": 2430.94,
+      "text": "Metal Maniac Morton"
+    },
+    {
+      "start": 2430.94,
+      "end": 2432.84,
+      "text": "who ripped me off"
+    },
+    {
+      "start": 2432.84,
+      "end": 2434.66,
+      "text": "by moving house to Morton without even saying"
+    },
+    {
+      "start": 2434.66,
+      "end": 2436.62,
+      "text": "goodbye. Well, what a devil he turned out"
+    },
+    {
+      "start": 2436.62,
+      "end": 2438.64,
+      "text": "to be. Also, hello to Anne"
+    },
+    {
+      "start": 2438.64,
+      "end": 2440.58,
+      "text": "and Dave and Pete. Pete,"
+    },
+    {
+      "start": 2440.7,
+      "end": 2442.7,
+      "text": "it seems, thinks that he's made of metal."
+    },
+    {
+      "start": 2443.22,
+      "end": 2444.54,
+      "text": "Please tell him, says Philip, to"
+    },
+    {
+      "start": 2444.54,
+      "end": 2446.62,
+      "text": "stop wrecking our fence with their"
+    },
+    {
+      "start": 2446.62,
+      "end": 2448.74,
+      "text": "heads. Well, I have. There's a Man of War track"
+    },
+    {
+      "start": 2448.74,
+      "end": 2450.6,
+      "text": "coming up later, but now"
+    },
+    {
+      "start": 2450.6,
+      "end": 2451.56,
+      "text": "Cryptic Slaughter."
+    },
+    {
+      "start": 2513.28,
+      "end": 2853.58,
+      "text": "quite an old album now came out back in 1985 pantera the name of the band they're out of"
+    },
+    {
+      "start": 2853.58,
+      "end": 2857.5,
+      "text": "texas though of course that album features the old singer not the new singer he's on"
+    },
+    {
+      "start": 2857.5,
+      "end": 2863.02,
+      "text": "subsequent albums his name is david peacock he's the new singer the old guy was t lee i am the"
+    },
+    {
+      "start": 2863.02,
+      "end": 2868.26,
+      "text": "night the album was called on metal magic that was an import daughters of the queen was the track"
+    },
+    {
+      "start": 2868.26,
+      "end": 2873.52,
+      "text": "and before that you heard cryptic slaughter from santa monica california who have a new album coming"
+    },
+    {
+      "start": 2873.52,
+      "end": 2880.0,
+      "text": "out in may lovely hardcore band lots of mushing the album's called convicted it's on metal blade"
+    },
+    {
+      "start": 2880.0,
+      "end": 2883.9,
+      "text": "and it's an import low life was the track at the moment they're on tour in the states"
+    },
+    {
+      "start": 2883.9,
+      "end": 2887.98,
+      "text": "if you feel like making the journey tonight they're on stage in portland oregon which is"
+    },
+    {
+      "start": 2887.98,
+      "end": 2892.44,
+      "text": "a really nice town ten and a half minutes now to 11 o'clock this is the friday rock show there's"
+    },
+    {
+      "start": 2892.44,
+      "end": 2897.88,
+      "text": "a fella he used to listen to the show but he don't know more because he actually lives in forestville"
+    },
+    {
+      "start": 2897.88,
+      "end": 2903.06,
+      "text": "new south wales in australia his name is jeff smith sent me a merry christmas card but the"
+    },
+    {
+      "start": 2903.06,
+      "end": 2905.72,
+      "text": "Little koala bear, or koala, whatever they call them."
+    },
+    {
+      "start": 2906.06,
+      "end": 2908.02,
+      "text": "One of those things that sits in airlines on the front."
+    },
+    {
+      "start": 2908.64,
+      "end": 2910.52,
+      "text": "Actually, they buy a lot, too, koala bears."
+    },
+    {
+      "start": 2910.66,
+      "end": 2913.44,
+      "text": "Tom, I've written many times for a request on the Rock Show."
+    },
+    {
+      "start": 2914.58,
+      "end": 2917.22,
+      "text": "One for the first week in October, so it'll be 21st."
+    },
+    {
+      "start": 2917.28,
+      "end": 2918.0,
+      "text": "Nobody else would have bought it."
+    },
+    {
+      "start": 2918.04,
+      "end": 2918.62,
+      "text": "I played him that one."
+    },
+    {
+      "start": 2918.72,
+      "end": 2919.22,
+      "text": "I remember that."
+    },
+    {
+      "start": 2919.56,
+      "end": 2924.22,
+      "text": "Moved to Australia seven months ago, and I miss all my mates in Kent, in Thanet."
+    },
+    {
+      "start": 2924.84,
+      "end": 2926.34,
+      "text": "Say hello to them all for me, please."
+    },
+    {
+      "start": 2927.04,
+      "end": 2930.64,
+      "text": "Especially Eribe and Potty and Glubby and Jonsky and Wobby."
+    },
+    {
+      "start": 2931.32,
+      "end": 2935.04,
+      "text": "Tell them it's really great down here and the beer's good, too."
+    },
+    {
+      "start": 2935.2,
+      "end": 2935.5,
+      "text": "G'day."
+    },
+    {
+      "start": 2935.98,
+      "end": 2937.54,
+      "text": "Play some good stuff for them."
+    },
+    {
+      "start": 2937.7,
+      "end": 2940.04,
+      "text": "And find out about a band called Boss."
+    },
+    {
+      "start": 2940.7,
+      "end": 2942.32,
+      "text": "Well, I hope he helps me, because I've never heard of them."
+    },
+    {
+      "start": 2942.76,
+      "end": 2944.14,
+      "text": "They're an Oz band called Boss."
+    },
+    {
+      "start": 2944.2,
+      "end": 2945.08,
+      "text": "Anybody know anything about them?"
+    },
+    {
+      "start": 2945.18,
+      "end": 2946.4,
+      "text": "Anybody got a copy of an album?"
+    },
+    {
+      "start": 2946.6,
+      "end": 2947.06,
+      "text": "Send us one."
+    },
+    {
+      "start": 2947.36,
+      "end": 2950.22,
+      "text": "Jeff Smith sends you lots of regards from Down Under, mate."
+    },
+    {
+      "start": 2950.38,
+      "end": 2950.7,
+      "text": "G'day."
+    },
+    {
+      "start": 2951.14,
+      "end": 2952.36,
+      "text": "Hello to all my friends at Sky."
+    },
+    {
+      "start": 2952.36,
+      "end": 2953.06,
+      "text": "Can I say that?"
+    },
+    {
+      "start": 2953.14,
+      "end": 2953.6,
+      "text": "G'day, Barry."
+    },
+    {
+      "start": 2953.72,
+      "end": 2954.2,
+      "text": "How are you, mate?"
+    },
+    {
+      "start": 2954.78,
+      "end": 2956.08,
+      "text": "Crack a telly on my behalf."
+    },
+    {
+      "start": 2956.24,
+      "end": 2959.24,
+      "text": "Hello to the Ghoul Town Steam Packet Clan."
+    },
+    {
+      "start": 2960.64,
+      "end": 2965.15,
+      "text": "of course they sent me a christmas card as well which is very nice of them thank you to everybody"
+    },
+    {
+      "start": 2965.15,
+      "end": 2969.23,
+      "text": "who took time out to send me a christmas card they'll go all around the room at home this is"
+    },
+    {
+      "start": 2969.23,
+      "end": 3414.94,
+      "text": "girls call it's really good considering that they're japanese i mean honestly really good"
+    },
+    {
+      "start": 3414.94,
+      "end": 3419.02,
+      "text": "they're living in this country at the moment they call vow wow we played it from a cd called cyclone"
+    },
+    {
+      "start": 3419.02,
+      "end": 3423.5,
+      "text": "it's out on the east world record label it means it's an import it's well worth getting older though"
+    },
+    {
+      "start": 3423.5,
+      "end": 3427.42,
+      "text": "if you've got a cd in you into very good high fidelity that's a good one they're going to do"
+    },
+    {
+      "start": 3427.42,
+      "end": 3429.22,
+      "text": "a session for us in January"
+    },
+    {
+      "start": 3429.22,
+      "end": 3430.6,
+      "text": "should be broadcast in February"
+    },
+    {
+      "start": 3430.6,
+      "end": 3433.34,
+      "text": "and also there's a live album"
+    },
+    {
+      "start": 3433.34,
+      "end": 3435.0,
+      "text": "we played a track off it a couple of weeks ago"
+    },
+    {
+      "start": 3435.0,
+      "end": 3437.46,
+      "text": "a live album on import at the moment"
+    },
+    {
+      "start": 3437.46,
+      "end": 3439.7,
+      "text": "but coming out in this country at the end of January"
+    },
+    {
+      "start": 3439.7,
+      "end": 3441.66,
+      "text": "recorded in their home country of Japan"
+    },
+    {
+      "start": 3441.66,
+      "end": 3443.72,
+      "text": "tomorrow they're playing London's"
+    },
+    {
+      "start": 3443.72,
+      "end": 3445.24,
+      "text": "Marquis, playing the London"
+    },
+    {
+      "start": 3445.24,
+      "end": 3447.16,
+      "text": "Marquis tomorrow night, our Valois"
+    },
+    {
+      "start": 3447.16,
+      "end": 3449.26,
+      "text": "Excalibur, with whom we did a session"
+    },
+    {
+      "start": 3449.26,
+      "end": 3451.04,
+      "text": "we'll be supporting them as well"
+    },
+    {
+      "start": 3451.04,
+      "end": 3453.36,
+      "text": "and if I can get out of the house"
+    },
+    {
+      "start": 3453.36,
+      "end": 3455.6,
+      "text": "I think I'll go and see them, I think they're great"
+    },
+    {
+      "start": 3455.6,
+      "end": 3456.56,
+      "text": "good band"
+    },
+    {
+      "start": 3456.56,
+      "end": 3458.36,
+      "text": "It's one minute now to eleven"
+    },
+    {
+      "start": 3458.36,
+      "end": 3459.22,
+      "text": "This is the Friday Rock Show"
+    },
+    {
+      "start": 3459.22,
+      "end": 3460.72,
+      "text": "And it's time to lie back and enjoy"
+    },
+    {
+      "start": 3460.72,
+      "end": 3462.28,
+      "text": "I've got four bits of music"
+    },
+    {
+      "start": 3462.28,
+      "end": 3463.92,
+      "text": "Twenty minutes long"
+    },
+    {
+      "start": 3463.92,
+      "end": 3465.14,
+      "text": "Nice and varied"
+    },
+    {
+      "start": 3465.14,
+      "end": 3466.42,
+      "text": "All excellent stuff"
+    },
+    {
+      "start": 3466.42,
+      "end": 3468.36,
+      "text": "Put together by a fellow who will be on the phone"
+    },
+    {
+      "start": 3468.36,
+      "end": 3469.94,
+      "text": "At the end of the set"
+    },
+    {
+      "start": 3469.94,
+      "end": 3472.76,
+      "text": "To tell us why he chose the tracks that you're about to hear"
+    },
+    {
+      "start": 3472.76,
+      "end": 3476.0,
+      "text": "Which will enable you to lie back and enjoy"
     }
   ]
 }

@@ -32,12 +32,14 @@
     {
       "artist": "Hawkwind",
       "track": "'Arrival In Utopia' (LP - Choose Your Masques) RCA",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1187.96
     },
     {
       "artist": "Alkatrazz",
       "track": "Long Time No Love",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1223.86
     },
     {
       "artist": "Deep Purple",
@@ -77,12 +79,14 @@
     {
       "artist": "Discharge",
       "track": "'State Violence State Control' (single - State Violence State Control) Clay",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3288.49
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3321.88
     },
     {
       "artist": "Kiss",

@@ -31,7 +31,8 @@
     {
       "artist": "Stampede",
       "track": "Moving On",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 622.63
     },
     {
       "artist": "Boston",
@@ -51,7 +52,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "What Is And What Should Never Be",
-      "details": "BBC Session"
+      "details": "BBC Session",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Led Zeppelin",
@@ -81,7 +83,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.5
     },
     {
       "artist": "Frank Marino",
@@ -96,7 +99,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "Communication Breakdown",
-      "details": "BBC Session"
+      "details": "BBC Session",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Led Zeppelin",
@@ -106,7 +110,8 @@
     {
       "artist": "Brand X",
       "track": "'Ipanaemia' (LP - Is There Anything About?) CBS",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5983.8
     },
     {
       "artist": "Bad Company",

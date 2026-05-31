@@ -23,42 +23,50 @@
     {
       "artist": "April Wine",
       "track": "Crash And Burn",
-      "details": "LP-The Nature Of The Beast; Capitol"
+      "details": "LP-The Nature Of The Beast; Capitol",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Whitesnake",
       "track": "Medicine Man",
-      "details": "LP-Lovehunter; United Artists"
+      "details": "LP-Lovehunter; United Artists",
+      "verified_timestamp": 473.72
     },
     {
       "artist": "Cryer",
       "track": "The Visionary",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 558.8
     },
     {
       "artist": "Thin Lizzy",
       "track": "Bad Reputation",
-      "details": "LP-Bad Reputation; Vertigo"
+      "details": "LP-Bad Reputation; Vertigo",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Argent",
       "track": "(Cast Your Spell) Uranus",
-      "details": "Mike Harding Session"
+      "details": "Mike Harding Session",
+      "verified_timestamp": 1083.82
     },
     {
       "artist": "Argent",
       "track": "Hold Your Head Up",
-      "details": "Bob Harris Session"
+      "details": "Bob Harris Session",
+      "verified_timestamp": 1083.82
     },
     {
       "artist": "Penetrations",
       "track": "Coming To You",
-      "details": "7\"; Kik Productions"
+      "details": "7\"; Kik Productions",
+      "verified_timestamp": 2493.95
     },
     {
       "artist": "REO Speedwagon",
       "track": "Lightning",
-      "details": "2xLP-A Decade Of Rock And Roll 1970 To 1980; Epic"
+      "details": "2xLP-A Decade Of Rock And Roll 1970 To 1980; Epic",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Cryer",
@@ -73,7 +81,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 68.17
     },
     {
       "artist": "Cryer",
@@ -83,22 +92,26 @@
     {
       "artist": "Dedringer",
       "track": "Maxine",
-      "details": "LP-Direct Line; Dindisc"
+      "details": "LP-Direct Line; Dindisc",
+      "verified_timestamp": 4906.06
     },
     {
       "artist": "Camel",
       "track": "The Last Farewell",
-      "details": "LP-Nude; Decca"
+      "details": "LP-Nude; Decca",
+      "verified_timestamp": 5476.56
     },
     {
       "artist": "Foreigner",
       "track": "Rev On The Red Line",
-      "details": "LP-Head Games; Atlantic"
+      "details": "LP-Head Games; Atlantic",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Argent",
       "track": "Rejoice",
-      "details": "1972 Session"
+      "details": "1972 Session",
+      "verified_timestamp": 1083.82
     },
     {
       "artist": "Argent",
@@ -108,7 +121,8 @@
     {
       "artist": "Krokus",
       "track": "Easy Rocker",
-      "details": "LP-Hardware; Ariola"
+      "details": "LP-Hardware; Ariola",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Saxon",

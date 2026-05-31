@@ -33,7 +33,9 @@
     {
       "artist": "Police",
       "track": "Message In A Bottle",
-      "details": "Peel Session 1979-07-23"
+      "details": "Peel Session 1979-07-23",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "message in a bottle is"
     },
     {
       "artist": "Gary Numan",
@@ -63,7 +65,9 @@
     {
       "artist": "Bonzo Dog Do Dah Band",
       "track": "Hello Mabel",
-      "details": "1968 Session"
+      "details": "1968 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "but i can t help"
     },
     {
       "artist": "Ian Gillan",

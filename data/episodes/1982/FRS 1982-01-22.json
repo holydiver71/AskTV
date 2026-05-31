@@ -19,42 +19,50 @@
     {
       "artist": "Bernie Marsen",
       "track": "Thunder And Lightning",
-      "details": "7\" single; Parlophone"
+      "details": "7\" single; Parlophone",
+      "verified_timestamp": 638.62
     },
     {
       "artist": "Saxon",
       "track": "747",
-      "details": "Strangers In The Night; LP-Wheels Of Steel; Carrere"
+      "details": "Strangers In The Night; LP-Wheels Of Steel; Carrere",
+      "verified_timestamp": 4657.1
     },
     {
       "artist": "Atomic Rooster",
       "track": "Play It Again",
-      "details": "FRS session 1981-10-16"
+      "details": "FRS session 1981-10-16",
+      "verified_timestamp": 726.92
     },
     {
       "artist": "Family",
       "track": "My Friend The Sun",
-      "details": "B Side of 7\" single Burlesque; Rebecca"
+      "details": "B Side of 7\" single Burlesque; Rebecca",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Raw Deal",
       "track": "Lone Wolf",
-      "details": "7\" single; Neat"
+      "details": "7\" single; Neat",
+      "verified_timestamp": 1715.32
     },
     {
       "artist": "Motley Crue",
       "track": "Live Wire",
-      "details": "LP-Too Fast For Love; Leathür"
+      "details": "LP-Too Fast For Love; Leathür",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Gary Boyle",
       "track": "The Dancer",
-      "details": "Peel session 1977-08-22"
+      "details": "Peel session 1977-08-22",
+      "verified_timestamp": 1798.7
     },
     {
       "artist": "Peter Cetera",
       "track": "Living In The Limelight",
-      "details": "LP-Peter Cetera; Full Moon"
+      "details": "LP-Peter Cetera; Full Moon",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Atomic Rooster",
@@ -64,17 +72,20 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 56.9
     },
     {
       "artist": "Doc Holliday",
       "track": "Hot Rod",
-      "details": "LP-Doc Holliday Rides Again; A&M"
+      "details": "LP-Doc Holliday Rides Again; A&M",
+      "verified_timestamp": 4596.26
     },
     {
       "artist": "Lucifers Friend",
       "track": "One Way Street",
-      "details": "LP-Mean Machine; Elektra"
+      "details": "LP-Mean Machine; Elektra",
+      "verified_timestamp": 4578.3
     },
     {
       "artist": "Gary Boyle",
@@ -84,7 +95,8 @@
     {
       "artist": "Def Leppard",
       "track": "Bringing On The Heartbreak",
-      "details": "7\" single; Vertigo"
+      "details": "7\" single; Vertigo",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Atomic Rooster",
@@ -94,17 +106,20 @@
     {
       "artist": "Wrabit",
       "track": "How Does She Do It",
-      "details": "LP-Wrough And Wready; MCA"
+      "details": "LP-Wrough And Wready; MCA",
+      "verified_timestamp": 5549.56
     },
     {
       "artist": "Neal Schon & Jan Hammer",
       "track": "On The Beach",
-      "details": "LP-Untold Passion; Columbia"
+      "details": "LP-Untold Passion; Columbia",
+      "verified_timestamp": 1217.66
     },
     {
       "artist": "Black Sabbath",
       "track": "Neon Nights",
-      "details": "LP-Heaven And Hell; Vertigo"
+      "details": "LP-Heaven And Hell; Vertigo",
+      "verified_timestamp": 6741.32
     },
     {
       "artist": "Atomic Rooster",
@@ -119,7 +134,8 @@
     {
       "artist": "AC / DC",
       "track": "TNT",
-      "details": "Live; B Side of 12” Single Let's Get It Up; Atlantic"
+      "details": "Live; B Side of 12” Single Let's Get It Up; Atlantic",
+      "verified_timestamp": 7202.75
     }
   ],
   "transcript": [

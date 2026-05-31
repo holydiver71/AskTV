@@ -32,7 +32,8 @@
     {
       "artist": "Cloven Hoof",
       "track": "Road Of Eagles",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1478.89
     },
     {
       "artist": "Kiss",
@@ -47,7 +48,8 @@
     {
       "artist": "Van Der Graaf Generator",
       "track": "(Fragments of) A Plague Of Lighthouse Keepers / Sleepwalkers End (Archive Session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1900.75
     },
     {
       "artist": "Cloven Hoof",
@@ -57,12 +59,14 @@
     {
       "artist": "Hawkwind",
       "track": "Reefer Madness (LP - Astounding Sounds, Amazing Music) Charisma",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3045.09
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 59.57
     },
     {
       "artist": "Cloven Hoof",
@@ -77,7 +81,8 @@
     {
       "artist": "Van Der Graaf Generator",
       "track": "Cat's Eye / Yellow Fever",
-      "details": "Archive Session"
+      "details": "Archive Session",
+      "verified_timestamp": 1904.83
     },
     {
       "artist": "Van Der Graaf Generator",
@@ -92,7 +97,8 @@
     {
       "artist": "Motorhead",
       "track": "Dancing On Your Grave (LP - Another Perfect Day) Bronze",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6304.47
     },
     {
       "artist": "Jeff Beck",

@@ -31,7 +31,8 @@
     {
       "artist": "Eloy",
       "track": "On The Verge Of Darkening Lights",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 693.8
     },
     {
       "artist": "Thin Lizzy",
@@ -41,7 +42,8 @@
     {
       "artist": "Gengis Khan",
       "track": "Highway Passion",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1975.06
     },
     {
       "artist": "Raven + Udo",
@@ -81,7 +83,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 63.27
     },
     {
       "artist": "Eloy",
@@ -96,7 +99,8 @@
     {
       "artist": "Rory Gallagher",
       "track": "They Don't Make 'Em Like You (archive session) (*)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6241.08
     },
     {
       "artist": "Rory Gallagher",

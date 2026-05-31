@@ -20,12 +20,14 @@
     {
       "artist": null,
       "track": "Y&T - In the Name of Rock",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": null,
       "track": "Van Halen - You Really Got Me",
-      "details": null
+      "details": null,
+      "verified_timestamp": 551.0
     },
     {
       "artist": null,
@@ -35,7 +37,8 @@
     {
       "artist": null,
       "track": "Mike And The Mechanics - Silent Running",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1080.0
     },
     {
       "artist": null,
@@ -45,12 +48,14 @@
     {
       "artist": null,
       "track": "ZZ Top - Woke Up With Wood",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1620.0
     },
     {
       "artist": null,
       "track": "Hawkwind - Assault of the Hawk (st)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2659.74
     },
     {
       "artist": null,
@@ -80,7 +85,8 @@
     {
       "artist": null,
       "track": "Iron Maiden - Rainbow's Gold",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3960.0
     },
     {
       "artist": null,
@@ -90,12 +96,14 @@
     {
       "artist": null,
       "track": "Whitesnake - Gambler",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4500.0
     },
     {
       "artist": null,
       "track": "Thin Lizzy - The Sun Goes Down",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4680.0
     },
     {
       "artist": null,

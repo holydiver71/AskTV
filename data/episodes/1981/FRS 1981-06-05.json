@@ -25,37 +25,44 @@
     {
       "artist": "Motörhead",
       "track": "(We Are) The Road Crew",
-      "details": "LP-Ace Of Spades; Bronze"
+      "details": "LP-Ace Of Spades; Bronze",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Paul Inder",
       "track": "In The Line",
-      "details": "7\" B side"
+      "details": "7\" B side",
+      "verified_timestamp": 437.59
     },
     {
       "artist": "Xero",
       "track": "Lone Wolf",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 424.6
     },
     {
       "artist": "Brand X",
       "track": "Cambodia",
-      "details": "LP-Do They Hurt?; Charisma"
+      "details": "LP-Do They Hurt?; Charisma",
+      "verified_timestamp": 1018.95
     },
     {
       "artist": "Angel Witch",
       "track": "Loser",
-      "details": "7\"; Bronze"
+      "details": "7\"; Bronze",
+      "verified_timestamp": 1693.32
     },
     {
       "artist": "Bernie Marsden",
       "track": "Still The Same",
-      "details": "LP-And About Time Too; Parlophone"
+      "details": "LP-And About Time Too; Parlophone",
+      "verified_timestamp": 1630.58
     },
     {
       "artist": "Groundhogs",
       "track": "Garden",
-      "details": "BBC World Service Rhythm & Blues Session"
+      "details": "BBC World Service Rhythm & Blues Session",
+      "verified_timestamp": 1723.76
     },
     {
       "artist": "Groundhogs",
@@ -65,7 +72,8 @@
     {
       "artist": "Barclay James Harvest",
       "track": "In Memory Of The Martyrs",
-      "details": "LP-Turn Of The Tide; Polydor"
+      "details": "LP-Turn Of The Tide; Polydor",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Xero",
@@ -80,12 +88,14 @@
     {
       "artist": "Gillan",
       "track": "One For The Road",
-      "details": "7\"; Virgin"
+      "details": "7\"; Virgin",
+      "verified_timestamp": 3575.04
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.67
     },
     {
       "artist": "Xero",
@@ -100,27 +110,32 @@
     {
       "artist": "Van Halen",
       "track": "Unchained",
-      "details": "LP-Fair Warning; Warner Bros."
+      "details": "LP-Fair Warning; Warner Bros.",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Purgatory",
-      "details": "7\"; EMI"
+      "details": "7\"; EMI",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Groundhogs",
       "track": "Split Part I",
-      "details": "1971 Session"
+      "details": "1971 Session",
+      "verified_timestamp": 1723.76
     },
     {
       "artist": "John Mayall with Eric Clapton",
       "track": "Have You Heard",
-      "details": "Compilation LP-Have You Heard"
+      "details": "Compilation LP-Have You Heard",
+      "verified_timestamp": 442.35
     },
     {
       "artist": "Pink Floyd",
       "track": "Run Like Hell",
-      "details": "2xLP-The Wall; Harvest"
+      "details": "2xLP-The Wall; Harvest",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Xero",

@@ -25,17 +25,20 @@
     {
       "artist": "16 Marillion",
       "track": "Grendel",
-      "details": "FRS recorded live at Reading Rock 1983"
+      "details": "FRS recorded live at Reading Rock 1983",
+      "verified_timestamp": 80.49
     },
     {
       "artist": "15 Black Sabbath",
       "track": "'Paranoid' (2xLP-We Sold Our Soul For Rock n Roll) NEMS",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3595.7
     },
     {
       "artist": "14 Iron Maiden",
       "track": "'The Number Of The Beast' (LP-The Number Of The Beast) EMI",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1349.46
     },
     {
       "artist": "13 Rush",
@@ -50,7 +53,8 @@
     {
       "artist": "11 Pink Floyd",
       "track": "Shine On You Crazy Diamond",
-      "details": "CD import-Wish You Were Here"
+      "details": "CD import-Wish You Were Here",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "10 Deep Purple",
@@ -60,42 +64,50 @@
     {
       "artist": null,
       "track": "Stereo on FM",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3613.01
     },
     {
       "artist": "Yes",
       "track": "Awaken",
-      "details": "LP-Going For The One; Atlantic"
+      "details": "LP-Going For The One; Atlantic",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Meat Loaf",
       "track": "Bat Out Of Hell",
-      "details": "LP-Bat Out Of Hell; Epic"
+      "details": "LP-Bat Out Of Hell; Epic",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "AC / DC",
       "track": "Whole Lotta Rosie",
-      "details": "LP-Let There Be Rock; Atlantic"
+      "details": "LP-Let There Be Rock; Atlantic",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Rush",
       "track": "2112",
-      "details": "LP-2112; Mercury"
+      "details": "LP-2112; Mercury",
+      "verified_timestamp": 6769.03
     },
     {
       "artist": "Deep Purple",
       "track": "Child In Time",
-      "details": "LP- Deep Purple In Rock; Harvest"
+      "details": "LP- Deep Purple In Rock; Harvest",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Lynyrd Skynyrd",
       "track": "Free Bird",
-      "details": "LP-One More From The Road; MCA"
+      "details": "LP-One More From The Road; MCA",
+      "verified_timestamp": 8225.26
     },
     {
       "artist": "Rainbow",
       "track": "'Stargazer' (LP-Rising) (Polydor) played from the Compact disc The Best of Rainbow",
-      "details": null
+      "details": null,
+      "verified_timestamp": 8249.68
     },
     {
       "artist": "Genesis",
@@ -105,7 +117,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "Stairway To Heaven",
-      "details": "LP-Led Zeppelin IV; Atlantic"
+      "details": "LP-Led Zeppelin IV; Atlantic",
+      "verified_timestamp": 10260.0
     }
   ],
   "transcript": [

@@ -36,7 +36,8 @@
     {
       "artist": "Fist",
       "track": "The Wanderer",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1014.13
     },
     {
       "artist": "Van Halen",
@@ -46,12 +47,14 @@
     {
       "artist": "Cream",
       "track": "Cat's Squirrel",
-      "details": "TX Rhythm And Blues on 9th Jan 1967, recorded 9th Dec 1966"
+      "details": "TX Rhythm And Blues on 9th Jan 1967, recorded 9th Dec 1966",
+      "verified_timestamp": 2260.31
     },
     {
       "artist": "Cream",
       "track": "Traintime",
-      "details": "TX Rhythm And Blues on 9th Jan 1967, recorded 9th Dec 1966"
+      "details": "TX Rhythm And Blues on 9th Jan 1967, recorded 9th Dec 1966",
+      "verified_timestamp": 2260.31
     },
     {
       "artist": "Cream",
@@ -61,7 +64,8 @@
     {
       "artist": "Cream",
       "track": "I'm So Glad",
-      "details": "TX Rhythm And Blues on 9th Jan 1967, recorded 9th Dec 1966"
+      "details": "TX Rhythm And Blues on 9th Jan 1967, recorded 9th Dec 1966",
+      "verified_timestamp": 2257.91
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -86,22 +90,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 62.11
     },
     {
       "artist": "Cream",
       "track": "Strange Brew",
-      "details": "TX Band Beat on 21st Nov 1966, recorded 21st Oct 1966"
+      "details": "TX Band Beat on 21st Nov 1966, recorded 21st Oct 1966",
+      "verified_timestamp": 4796.08
     },
     {
       "artist": "Cream",
       "track": "Tales Of Brave Ulysess",
-      "details": "TX Band Beat on 21st Nov 1966, recorded 21st Oct 1966"
+      "details": "TX Band Beat on 21st Nov 1966, recorded 21st Oct 1966",
+      "verified_timestamp": 4796.08
     },
     {
       "artist": "Cream",
       "track": "We're Going Wrong",
-      "details": "TX Band Beat on 21st Nov 1966, recorded 21st Oct 1966"
+      "details": "TX Band Beat on 21st Nov 1966, recorded 21st Oct 1966",
+      "verified_timestamp": 4499.23
     },
     {
       "artist": "Fist",
@@ -136,7 +144,8 @@
     {
       "artist": "Cream",
       "track": "Stepping Out",
-      "details": "TX Brian Matthew's Saturday Club on 3rd Jun 1967, recorded 3rd May 1967"
+      "details": "TX Brian Matthew's Saturday Club on 3rd Jun 1967, recorded 3rd May 1967",
+      "verified_timestamp": 6857.18
     },
     {
       "artist": "Cream",
@@ -146,7 +155,8 @@
     {
       "artist": "Cream",
       "track": "Politician",
-      "details": "TX Brian Matthew's Saturday Club on 3rd Jun 1967, recorded 3rd May 1967"
+      "details": "TX Brian Matthew's Saturday Club on 3rd Jun 1967, recorded 3rd May 1967",
+      "verified_timestamp": 6600.81
     },
     {
       "artist": "Rods",

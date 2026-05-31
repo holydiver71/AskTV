@@ -23,7 +23,8 @@
     {
       "artist": "Ozzy Osbourne",
       "track": "Crazy Train",
-      "details": "LP-Blizzard Of Ozz; Jet"
+      "details": "LP-Blizzard Of Ozz; Jet",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Headpins",
@@ -38,22 +39,26 @@
     {
       "artist": "Taipan",
       "track": "Lady",
-      "details": "LP-12\" EP; Bullet Records"
+      "details": "LP-12\" EP; Bullet Records",
+      "verified_timestamp": 1203.08
     },
     {
       "artist": "Gary Moore",
       "track": "Hold On To Love",
-      "details": "FRS session 1984-01-27"
+      "details": "FRS session 1984-01-27",
+      "verified_timestamp": 1265.2
     },
     {
       "artist": "Spider",
       "track": "Midsummer Morning",
-      "details": "LP-Rough Justice; A&M"
+      "details": "LP-Rough Justice; A&M",
+      "verified_timestamp": 1907.5
     },
     {
       "artist": "Styx",
       "track": "Suite Madame Blue",
-      "details": "LP-Equinox; A&M"
+      "details": "LP-Equinox; A&M",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Baby Tuckoo",
@@ -68,7 +73,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1.3
     },
     {
       "artist": "Gary Moore",
@@ -78,7 +84,8 @@
     {
       "artist": "Camel",
       "track": "Cloak And Dagger Man",
-      "details": "7\" Single from Stationary Traveller; Decca"
+      "details": "7\" Single from Stationary Traveller; Decca",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Pallas",
@@ -88,17 +95,20 @@
     {
       "artist": "April Wine",
       "track": "This Could Be The Right One",
-      "details": "LP-Animal Grace; Capitol"
+      "details": "LP-Animal Grace; Capitol",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Oz",
       "track": "Search Lights",
-      "details": "LP-Fire In The Brain; Wave"
+      "details": "LP-Fire In The Brain; Wave",
+      "verified_timestamp": 7103.07
     },
     {
       "artist": "Yes",
       "track": "Into The Lens",
-      "details": "LP-Drama; Atlantic"
+      "details": "LP-Drama; Atlantic",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Gary Moore",

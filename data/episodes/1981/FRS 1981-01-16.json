@@ -23,27 +23,32 @@
     {
       "artist": "Motörhead",
       "track": "No Class",
-      "details": "LP-Overkill; Bronze"
+      "details": "LP-Overkill; Bronze",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Witchfynde",
       "track": "Stage Fright",
-      "details": "LP-Stagefright; Rondelet"
+      "details": "LP-Stagefright; Rondelet",
+      "verified_timestamp": 79.04
     },
     {
       "artist": "Jimi Hendrix Experience",
       "track": "Foxy Lady",
-      "details": "LP-Are You Experienced; Track"
+      "details": "LP-Are You Experienced; Track",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Talking Heads",
       "track": "Once In A Lifetime",
-      "details": "LP-Remain In Light; Sire"
+      "details": "LP-Remain In Light; Sire",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Hibiscus",
       "track": "White Knight",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1094.3
     },
     {
       "artist": "Trevor Rabin",
@@ -53,7 +58,8 @@
     {
       "artist": "Stone The Crows",
       "track": "Raining In Your Heart",
-      "details": "WS R&B Session"
+      "details": "WS R&B Session",
+      "verified_timestamp": 1765.63
     },
     {
       "artist": "Stone The Crows",
@@ -63,7 +69,8 @@
     {
       "artist": "Krokus",
       "track": "Burning Bones",
-      "details": "LP-Hardware; Ariola Benelux"
+      "details": "LP-Hardware; Ariola Benelux",
+      "verified_timestamp": 2923.3
     },
     {
       "artist": "Ozark Mountain Daredevils",
@@ -73,17 +80,20 @@
     {
       "artist": "Big Daisy",
       "track": "Fever",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 538.11
     },
     {
       "artist": "Rainbow",
       "track": "I Surrender",
-      "details": "LP-Difficult To Cure; Polydor"
+      "details": "LP-Difficult To Cure; Polydor",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 70.4
     },
     {
       "artist": "Hibiscus",
@@ -98,17 +108,20 @@
     {
       "artist": "Budgie",
       "track": "Breadfan",
-      "details": "LP-Never Turn Your Back On A Friend; MCA"
+      "details": "LP-Never Turn Your Back On A Friend; MCA",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Alan Parsons Project",
       "track": "Games People Play",
-      "details": "7\"; Arista"
+      "details": "7\"; Arista",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Stone The Crows",
       "track": "On The Highway",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1765.63
     },
     {
       "artist": "Stone The Crows",
@@ -123,7 +136,8 @@
     {
       "artist": "Rush",
       "track": "A Farewell To Kings",
-      "details": "LP-A Farewell To Kings; Mercury"
+      "details": "LP-A Farewell To Kings; Mercury",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

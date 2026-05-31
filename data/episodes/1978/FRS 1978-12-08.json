@@ -49,7 +49,8 @@
     {
       "artist": "Alice Cooper",
       "track": "Wish I Were Born In Beverly Hills",
-      "details": "LP-From The Inside; Warner Brothers"
+      "details": "LP-From The Inside; Warner Brothers",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Robin Trower",

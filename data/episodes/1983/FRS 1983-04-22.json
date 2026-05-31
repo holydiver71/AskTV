@@ -41,12 +41,14 @@
     {
       "artist": "Trilogy",
       "track": "A Legion In Morocco",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1178.6
     },
     {
       "artist": "Mercyful Fate",
       "track": "Evil",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1218.14
     },
     {
       "artist": "Deep Purple",
@@ -61,12 +63,14 @@
     {
       "artist": "Jon And Vangelis",
       "track": "And When The Night Comes (7\") Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Rose Tattoo",
       "track": "It's Gonna Work Itself Out (7\") Carrere",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3032.28
     },
     {
       "artist": "Trilogy",
@@ -86,7 +90,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.08
     },
     {
       "artist": "Trilogy",

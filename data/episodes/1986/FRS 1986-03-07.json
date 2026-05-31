@@ -19,12 +19,14 @@
     {
       "artist": null,
       "track": "Dokken - Unchain the Night",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Motörhead - Locomotive",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3960.0
     },
     {
       "artist": null,
@@ -39,17 +41,20 @@
     {
       "artist": null,
       "track": "Diamond Head - Borrowed Time (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4837.32
     },
     {
       "artist": null,
       "track": "Diamond Head - Sweet and Innocent (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4837.32
     },
     {
       "artist": null,
       "track": "Metallica - Battery",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5580.0
     },
     {
       "artist": null,
@@ -74,7 +79,8 @@
     {
       "artist": null,
       "track": "Queen - Machines (or Back to Humans)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 0.0
     },
     {
       "artist": null,
@@ -89,22 +95,26 @@
     {
       "artist": null,
       "track": "Diamond Head - Don't You Ever Leave (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4837.32
     },
     {
       "artist": null,
       "track": "Diamond Head - Lightning to the Nations (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 967.03
     },
     {
       "artist": null,
       "track": "Joshua - A Heart Full of Soul",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2222.79
     },
     {
       "artist": null,
       "track": "Status Quo - Dirty Water",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
@@ -125,6 +135,1358 @@
       "artist": null,
       "track": "Fastway - Girl",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 214.67,
+      "end": 218.67,
+      "text": "It goes past 11. That was Lie Back and Enjoy It."
+    },
+    {
+      "start": 222.9,
+      "end": 228.9,
+      "text": "The four tracks put together by a fellow who lives at Five Ways at Derwent Lane, Havasage, near Sheffield."
+    },
+    {
+      "start": 228.9,
+      "end": 233.98,
+      "text": "Derek Gladding. Nice one, Del. Actually, nice for Del."
+    },
+    {
+      "start": 233.98,
+      "end": 235.98,
+      "text": "The tracks were from The Works."
+    },
+    {
+      "start": 235.98,
+      "end": 239.98,
+      "text": "Came out in 1984. The band were Queen. The track was Machines or Back to Humans."
+    },
+    {
+      "start": 239.98,
+      "end": 246.36,
+      "text": "Which Del tells us is, not in the least, a bit bad at all."
+    },
+    {
+      "start": 246.36,
+      "end": 250.36,
+      "text": "Before that, Brothers in Arms was the album Dire Straits to Van, Money for Nothing, the track."
+    },
+    {
+      "start": 250.36,
+      "end": 257.26,
+      "text": "Del's comment, stop your moaning, it's damn good, full length album version, if you got it, we had you heard it."
+    },
+    {
+      "start": 257.26,
+      "end": 264.27,
+      "text": "And from 1984, Van Halen, released in 1984, the track Panama."
+    },
+    {
+      "start": 264.27,
+      "end": 268.01,
+      "text": "Del's comment, if you ain't got it, I'm disgusting."
+    },
+    {
+      "start": 268.01,
+      "end": 270.17,
+      "text": "We had it, hope you're not."
+    },
+    {
+      "start": 270.17,
+      "end": 278.26,
+      "text": "We started, that said, by Gary Moore, along with Phil as well, recorded in 1985 from the album Run For Cover, the track is out in the fields."
+    },
+    {
+      "start": 278.26,
+      "end": 280.26,
+      "text": "Del's comment, fantastic track."
+    },
+    {
+      "start": 280.26,
+      "end": 296.99,
+      "text": "Well, your friendly neighbourhood prat, sincerely-ish, gladding, gets a £12 record token."
+    },
+    {
+      "start": 296.99,
+      "end": 303.99,
+      "text": "If anybody else fancies the idea of putting together approximately 20 minutes worth of music for the feature called live act and enjoy it, help yourself."
+    },
+    {
+      "start": 303.99,
+      "end": 309.99,
+      "text": "None of the letters at the moment are being thrown away, we're just jamming them into a blooming great filing cabinet drawer,"
+    },
+    {
+      "start": 309.99,
+      "end": 313.99,
+      "text": "and I root around and pick one out and that's what goes on the air."
+    },
+    {
+      "start": 313.99,
+      "end": 317.91,
+      "text": "now everybody's got as much chance as anybody else if you fancy a crack at the idea four bits"
+    },
+    {
+      "start": 317.91,
+      "end": 323.19,
+      "text": "of music please or three bits of music approximately 20 minutes overall length though"
+    },
+    {
+      "start": 323.19,
+      "end": 329.35,
+      "text": "okay nice and very keep people interested send your choice and selection too lie back and enjoy"
+    },
+    {
+      "start": 329.35,
+      "end": 335.67,
+      "text": "it the friday rock show bbc radio one london w1a4 ww that just goes like this again"
+    },
+    {
+      "start": 335.67,
+      "end": 344.93,
+      "text": "right back and enjoy it the friday rock show dbc radio one london w1a for ww do it tonight"
+    },
+    {
+      "start": 344.93,
+      "end": 350.61,
+      "text": "this afternoon at two o'clock my top 10 featuring the american singer-songwriter neils loughran"
+    },
+    {
+      "start": 350.61,
+      "end": 355.95,
+      "text": "a man who not so very long ago was made a musical offer he just couldn't refuse by bruce springsteen"
+    },
+    {
+      "start": 355.95,
+      "end": 361.39,
+      "text": "i took it very seriously and actually i went to a local bootlegger and got some of his live shows"
+    },
+    {
+      "start": 361.39,
+      "end": 366.19,
+      "text": "and I did a lot of homework, went up and really just got into it for two days with the band"
+    },
+    {
+      "start": 366.19,
+      "end": 369.77,
+      "text": "and he asked me to join and certainly it's something I wanted to do very much"
+    },
+    {
+      "start": 369.77,
+      "end": 373.63,
+      "text": "because I love bands, I'm more of a band orientated person"
+    },
+    {
+      "start": 373.63,
+      "end": 378.53,
+      "text": "This weekend's edition of My Top Ten is on National Radio 1 this afternoon at 2 o'clock"
+    },
+    {
+      "start": 378.53,
+      "end": 381.41,
+      "text": "when Nils Lofgren fixes 10 favourite records"
+    },
+    {
+      "start": 381.41,
+      "end": 389.93,
+      "text": "Our classic concert this Sunday at 2.30 takes us back to 1970"
+    },
+    {
+      "start": 389.93,
+      "end": 393.39,
+      "text": "to the Paris Theatre in London with music from Fleetwood Mac."
+    },
+    {
+      "start": 410.4,
+      "end": 413.02,
+      "text": "Fleetwood Mac, in concert from 1970,"
+    },
+    {
+      "start": 413.22,
+      "end": 414.98,
+      "text": "this Sunday afternoon at 2.30,"
+    },
+    {
+      "start": 415.22,
+      "end": 417.14,
+      "text": "this weekend's classic concerts."
+    },
+    {
+      "start": 417.66,
+      "end": 902.34,
+      "text": "That's an old tune that's just been revived by Raven."
+    },
+    {
+      "start": 902.72,
+      "end": 906.3,
+      "text": "It's their single out on WEA, Give Me Some Lovin'."
+    },
+    {
+      "start": 906.3,
+      "end": 908.58,
+      "text": "First to hit for the Spencer Davis Band years ago."
+    },
+    {
+      "start": 909.48,
+      "end": 911.94,
+      "text": "Prior to that, Cougar, one of our session bands tonight,"
+    },
+    {
+      "start": 912.12,
+      "end": 913.76,
+      "text": "Lay Down Your Love was their track."
+    },
+    {
+      "start": 915.27,
+      "end": 915.99,
+      "text": "11.17."
+    },
+    {
+      "start": 916.59,
+      "end": 920.89,
+      "text": "Happy birthday to Mark Whitburn."
+    },
+    {
+      "start": 920.89,
+      "end": 929.11,
+      "text": "Stamford Links, from Beverley, your sister, and from us, not as well, to the lads of Prestwich"
+    },
+    {
+      "start": 929.11,
+      "end": 941.55,
+      "text": "Village, Carl, Baz, Taff, Woolge, and Mark, and also Andrew Dawson, Rob Scott, his birthday"
+    },
+    {
+      "start": 941.55,
+      "end": 947.81,
+      "text": "comes up in 42 and a half minutes time, Rob Scott's at Bowdoin Farm, Exeter, staring up"
+    },
+    {
+      "start": 947.81,
+      "end": 952.86,
+      "text": "to the sky, having a good time listening to the music, happy birthday Rob, and a mention"
+    },
+    {
+      "start": 952.86,
+      "end": 961.75,
+      "text": "here for emma from paths in manchester back to our archive session recorded six years ago first"
+    },
+    {
+      "start": 961.75,
+      "end": 967.03,
+      "text": "broadcast actually in november 1980 by the band from the midlands here once again are two from"
+    },
+    {
+      "start": 967.03,
+      "end": 1574.62,
+      "text": "diamond head lightning to the nations and before that don't you ever leave me diamond head who were"
+    },
+    {
+      "start": 1574.62,
+      "end": 1579.34,
+      "text": "brian tatler on the guitar colin kimberly on the bass duncan scott on drums and sean harris on the"
+    },
+    {
+      "start": 1579.34,
+      "end": 1590.37,
+      "text": "vocal. Recorded 29th, 10th, 18th. First transmitted 28th, 11th, 18th. Bit of info about what's happening"
+    },
+    {
+      "start": 1590.37,
+      "end": 1595.93,
+      "text": "down ahead at the moment. An album called Behind the Beginning is coming out on the 3rd of April"
+    },
+    {
+      "start": 1595.93,
+      "end": 1602.49,
+      "text": "on the Metal Masters record label. Tracks including It's Electric, Prince, Sweet and Innocent, Streets"
+    },
+    {
+      "start": 1602.49,
+      "end": 1608.21,
+      "text": "of Gold, Helpless and Shoot Out the Light. The only other information I've got, it's been remixed"
+    },
+    {
+      "start": 1608.21,
+      "end": 1613.37,
+      "text": "by Brian Tatler. Nice to know he's still around. He's a very good guitarist. Good luck. Soon as we"
+    },
+    {
+      "start": 1613.37,
+      "end": 1615.33,
+      "text": "get a copy of the album and start playing that on the air as well."
+    },
+    {
+      "start": 1615.41,
+      "end": 1617.29,
+      "text": "They were a good band. It's a shame that it all fell"
+    },
+    {
+      "start": 1617.29,
+      "end": 1619.27,
+      "text": "apart, but thanks for the good material"
+    },
+    {
+      "start": 1619.27,
+      "end": 1622.2,
+      "text": "you left behind. Thanks to everybody who"
+    },
+    {
+      "start": 1622.2,
+      "end": 1624.22,
+      "text": "wrote in for that archive session, for Diamondhead."
+    },
+    {
+      "start": 1624.62,
+      "end": 1625.3,
+      "text": "I hope you enjoyed it."
+    },
+    {
+      "start": 1630.19,
+      "end": 1631.63,
+      "text": "29 minutes past 11."
+    },
+    {
+      "start": 1632.17,
+      "end": 1634.31,
+      "text": "Now, just, well, not that long"
+    },
+    {
+      "start": 1634.31,
+      "end": 1636.43,
+      "text": "ago, just a couple of weeks ago, I think it was"
+    },
+    {
+      "start": 1636.43,
+      "end": 1638.35,
+      "text": "now, a little baby came into the"
+    },
+    {
+      "start": 1638.35,
+      "end": 1639.43,
+      "text": "world by the name of Ben."
+    },
+    {
+      "start": 1641.08,
+      "end": 1642.22,
+      "text": "Now, Ben is very well."
+    },
+    {
+      "start": 1642.84,
+      "end": 1644.34,
+      "text": "Ben's mum is very well."
+    },
+    {
+      "start": 1645.19,
+      "end": 1646.31,
+      "text": "Ben's dad is deaf."
+    },
+    {
+      "start": 1646.31,
+      "end": 1652.96,
+      "text": "Jeff Barton all crying readers and readers of good rock information and"
+    },
+    {
+      "start": 1652.96,
+      "end": 1656.46,
+      "text": "articles will know Jeff Barton. A fellow that's been on this program as well."
+    },
+    {
+      "start": 1656.46,
+      "end": 1663.32,
+      "text": "Mr. and Mrs. Barton, congratulations. Little Ben, shout at your dad, that's the only"
+    },
+    {
+      "start": 1663.32,
+      "end": 2175.04,
+      "text": "we'll hear you. Well it looks like Status Quo are on the road but Alan Lancaster is"
+    },
+    {
+      "start": 2175.04,
+      "end": 2179.49,
+      "text": "out. That was an appropriate track to play. If they'd recorded something called"
+    },
+    {
+      "start": 2179.49,
+      "end": 2185.05,
+      "text": "Dirty Laundry I might have played that. Recorded back in 1977. Status Quo and"
+    },
+    {
+      "start": 2185.05,
+      "end": 2186.56,
+      "text": "and dirty water."
+    },
+    {
+      "start": 2189.23,
+      "end": 2191.21,
+      "text": "For Tim Lowe and his dad, who's going to be"
+    },
+    {
+      "start": 2191.21,
+      "end": 2193.11,
+      "text": "middle-aged soon, they live in"
+    },
+    {
+      "start": 2193.11,
+      "end": 2193.81,
+      "text": "Gwent in Wales."
+    },
+    {
+      "start": 2195.2,
+      "end": 2197.94,
+      "text": "And also for Dave Bishop of London."
+    },
+    {
+      "start": 2198.32,
+      "end": 2199.76,
+      "text": "Please could you tell him that I'm missing him"
+    },
+    {
+      "start": 2199.76,
+      "end": 2201.52,
+      "text": "and right soon. The message there"
+    },
+    {
+      "start": 2201.52,
+      "end": 2203.88,
+      "text": "from Christine Leach of Cheltenham."
+    },
+    {
+      "start": 2207.38,
+      "end": 2208.7,
+      "text": "And before status quo, you heard a man"
+    },
+    {
+      "start": 2208.7,
+      "end": 2210.52,
+      "text": "called Joshua from an album that's just"
+    },
+    {
+      "start": 2210.52,
+      "end": 2212.5,
+      "text": "out on the FM record label. The album"
+    },
+    {
+      "start": 2212.5,
+      "end": 2213.36,
+      "text": "is called Surrender."
+    },
+    {
+      "start": 2214.57,
+      "end": 2217.09,
+      "text": "The track was an old Graham Goldman composition"
+    },
+    {
+      "start": 2217.09,
+      "end": 2219.05,
+      "text": "from years ago. First recorded by"
+    },
+    {
+      "start": 2219.05,
+      "end": 2220.93,
+      "text": "Yardbirds, recently recorded by"
+    },
+    {
+      "start": 2220.93,
+      "end": 2222.25,
+      "text": "Gary Moore, now by Joshua."
+    },
+    {
+      "start": 2222.79,
+      "end": 2223.61,
+      "text": "Heart full of soul."
+    },
+    {
+      "start": 2224.87,
+      "end": 2225.79,
+      "text": "Joshua R."
+    },
+    {
+      "start": 2226.37,
+      "end": 2227.95,
+      "text": "They're from the west coast of the USA."
+    },
+    {
+      "start": 2228.21,
+      "end": 2230.05,
+      "text": "They call themselves a melodic rock band."
+    },
+    {
+      "start": 2230.21,
+      "end": 2231.75,
+      "text": "It's their second album, The Surrender."
+    },
+    {
+      "start": 2232.47,
+      "end": 2233.95,
+      "text": "First album is called The Hand."
+    },
+    {
+      "start": 2234.03,
+      "end": 2235.17,
+      "text": "It's quicker than the eye."
+    },
+    {
+      "start": 2237.2,
+      "end": 2239.52,
+      "text": "They're described as a hard-edged journey."
+    },
+    {
+      "start": 2239.52,
+      "end": 2242.36,
+      "text": "They're led by the world's fastest guitarist, he says."
+    },
+    {
+      "start": 2242.78,
+      "end": 2244.02,
+      "text": "Surprisingly named Joshua."
+    },
+    {
+      "start": 2244.16,
+      "end": 2245.16,
+      "text": "He said he sounds excellent."
+    },
+    {
+      "start": 2246.97,
+      "end": 2247.55,
+      "text": "There you go."
+    },
+    {
+      "start": 2247.69,
+      "end": 2249.43,
+      "text": "That's Joshua from the west coast of the States."
+    },
+    {
+      "start": 2249.51,
+      "end": 2250.35,
+      "text": "The album Surrender."
+    },
+    {
+      "start": 2251.39,
+      "end": 2253.49,
+      "text": "And it's out on FM Records."
+    },
+    {
+      "start": 2253.81,
+      "end": 2257.91,
+      "text": "The time now, 21 minutes to midnight."
+    },
+    {
+      "start": 2258.57,
+      "end": 2833.01,
+      "text": "Final one from our session band of the night called Cougar, who are Martin and Dave and Neville and Neil."
+    },
+    {
+      "start": 2833.13,
+      "end": 2837.89,
+      "text": "Thank you, gentlemen. Excellent session. Cougar is a name you spent, spelled rather, K-O-O-G-A."
+    },
+    {
+      "start": 2838.05,
+      "end": 2839.57,
+      "text": "Cougar. A bit of information about the band."
+    },
+    {
+      "start": 2840.09,
+      "end": 2843.97,
+      "text": "They have an album coming out the 20th of April. The album is called Across the Water."
+    },
+    {
+      "start": 2844.25,
+      "end": 2846.19,
+      "text": "It'll be on the Black Dragon record label."
+    },
+    {
+      "start": 2846.89,
+      "end": 2851.81,
+      "text": "They're headlining London's Marquee on the 23rd of March, touring Europe during April and May."
+    },
+    {
+      "start": 2851.81,
+      "end": 2854.37,
+      "text": "they're doing a British tour during the month of March"
+    },
+    {
+      "start": 2854.37,
+      "end": 2856.31,
+      "text": "see press for details it says here"
+    },
+    {
+      "start": 2856.31,
+      "end": 2858.87,
+      "text": "and the four tracks played in the session tonight are on the album"
+    },
+    {
+      "start": 2858.87,
+      "end": 2860.59,
+      "text": "there you go, information about Cougar"
+    },
+    {
+      "start": 2860.59,
+      "end": 2863.27,
+      "text": "their album Across the Water released the 20th of April"
+    },
+    {
+      "start": 2863.27,
+      "end": 2864.93,
+      "text": "on Black Dragon Records"
+    },
+    {
+      "start": 2864.93,
+      "end": 2874.56,
+      "text": "11 minutes to midnight"
+    },
+    {
+      "start": 2874.56,
+      "end": 2876.46,
+      "text": "say it Skinner, say it"
+    },
+    {
+      "start": 2876.46,
+      "end": 2878.14,
+      "text": "no, no, I won't say it"
+    },
+    {
+      "start": 2878.14,
+      "end": 2879.4,
+      "text": "speak to your public man"
+    },
+    {
+      "start": 2879.4,
+      "end": 2880.12,
+      "text": "I refuse"
+    },
+    {
+      "start": 2880.12,
+      "end": 2881.78,
+      "text": "I won't say it"
+    },
+    {
+      "start": 2881.78,
+      "end": 2882.88,
+      "text": "tell them the good news"
+    },
+    {
+      "start": 2882.88,
+      "end": 2884.98,
+      "text": "no, alright, I will"
+    },
+    {
+      "start": 2884.98,
+      "end": 2887.6,
+      "text": "listen to Andy Kershaw"
+    },
+    {
+      "start": 2887.6,
+      "end": 2889.58,
+      "text": "this week on Saturday Live."
+    },
+    {
+      "start": 2890.58,
+      "end": 2893.26,
+      "text": "And when you do, you'll hear Ivor Cutler, Suzanne Vega"
+    },
+    {
+      "start": 2893.26,
+      "end": 2894.98,
+      "text": "and Lift for the Weekend all in session."
+    },
+    {
+      "start": 2895.38,
+      "end": 2897.32,
+      "text": "Dwayne Eddy in the Art of Noise and the Cramps"
+    },
+    {
+      "start": 2897.32,
+      "end": 2899.86,
+      "text": "will also be dropping in, as we say in these trails."
+    },
+    {
+      "start": 2900.22,
+      "end": 2903.26,
+      "text": "That's Saturday Live with Andy Kershaw, Saturday at five."
+    },
+    {
+      "start": 2903.44,
+      "end": 2905.3,
+      "text": "And now, back to thrashing Richard."
+    },
+    {
+      "start": 2907.3,
+      "end": 2908.8,
+      "text": "It's not like this at Whistledown."
+    },
+    {
+      "start": 2912.27,
+      "end": 2914.37,
+      "text": "Thank you, gentlemen. I hope you enjoy it."
+    },
+    {
+      "start": 2917.06,
+      "end": 2917.62,
+      "text": "That's right."
+    },
+    {
+      "start": 2919.37,
+      "end": 2920.57,
+      "text": "Did you see the sun today?"
+    },
+    {
+      "start": 2920.57,
+      "end": 2925.85,
+      "text": "In the Sun today, in Jonathan King's bizarre column, were these words of wisdom."
+    },
+    {
+      "start": 2926.09,
+      "end": 2928.67,
+      "text": "And I think, actually, this is well worth supporting."
+    },
+    {
+      "start": 2929.19,
+      "end": 2933.25,
+      "text": "Under the headline of Don't Knock the Hard Rock, Jonathan King wrote this."
+    },
+    {
+      "start": 2933.29,
+      "end": 2934.47,
+      "text": "Heavy metal rules, OK?"
+    },
+    {
+      "start": 2934.97,
+      "end": 2939.05,
+      "text": "After watching an Ozzy Osbourne concert, I've realised that Britain's television, radio and press"
+    },
+    {
+      "start": 2939.05,
+      "end": 2942.13,
+      "text": "haven't got a clue how popular rock music is over here."
+    },
+    {
+      "start": 2942.69,
+      "end": 2946.67,
+      "text": "The forgotten majority are given token shows, tucked away in backwaters,"
+    },
+    {
+      "start": 2946.83,
+      "end": 2948.59,
+      "text": "and tiny bits of information about their heroes."
+    },
+    {
+      "start": 2948.59,
+      "end": 2957.59,
+      "text": "How often do we hear Motley Crue, ACDC on daytime radio, see Judas Priest or Iron Maiden on primetime TV, or read an interview with Def Leppard?"
+    },
+    {
+      "start": 2957.59,
+      "end": 2963.59,
+      "text": "Exactly. Yet these stars sell millions of albums and hundreds of thousands of concert tickets every week."
+    },
+    {
+      "start": 2963.59,
+      "end": 2968.36,
+      "text": "Have I got it all wrong, says Jonathan King. No, I'll bet he then goes on to say,"
+    },
+    {
+      "start": 2968.36,
+      "end": 2973.36,
+      "text": "if you agree with me that raucous pumping rock is what it's all about, write to me here at The Sun,"
+    },
+    {
+      "start": 2973.36,
+      "end": 2979.06,
+      "text": "sun and next week i can point at those thousands of letters from the forgotten millions and shout"
+    },
+    {
+      "start": 2979.06,
+      "end": 2986.38,
+      "text": "we may be ignored but we are not silent all right want to get involved postcard letter whatever you"
+    },
+    {
+      "start": 2986.38,
+      "end": 2996.16,
+      "text": "like send it to jonathan king the sun number one virginia street london e19 okay write to jonathan"
+    },
+    {
+      "start": 2996.16,
+      "end": 3002.56,
+      "text": "king in support of more rock music on the media write to ken as i call him jonathan at the sun"
+    },
+    {
+      "start": 3002.56,
+      "end": 3005.54,
+      "text": "Number one, Virginia Street, London, E19."
+    },
+    {
+      "start": 3008.83,
+      "end": 3011.85,
+      "text": "Support the cause and mention the Friday Rock Show."
+    },
+    {
+      "start": 3012.45,
+      "end": 3463.94,
+      "text": "That was called Girl from the album Waiting for the Roar by Fastway."
+    },
+    {
+      "start": 3464.18,
+      "end": 3465.62,
+      "text": "Fast Eddie Clark on the lead guitar."
+    },
+    {
+      "start": 3467.97,
+      "end": 3472.47,
+      "text": "Before that, the classic We're an American Band from Grand Funk, formed in Michigan 1968."
+    },
+    {
+      "start": 3473.25,
+      "end": 3476.01,
+      "text": "Played for Chris Tempest of Beeston in Leeds."
+    },
+    {
+      "start": 3477.18,
+      "end": 3482.72,
+      "text": "Next week, the whole of the Friday Rock Show is devoted to the Yes Concert 1978."
+    },
+    {
+      "start": 3482.72,
+      "end": 3488.83,
+      "text": "The show that actually opened this series of broadcasts, the Friday Rock Show, back in 1978."
+    },
+    {
+      "start": 3489.09,
+      "end": 3490.69,
+      "text": "Next week, two hours of yes."
+    },
+    {
+      "start": 3491.66,
+      "end": 3496.91,
+      "text": "Happy belated birthday to Mr. Christopher Squire, who had a birthday on the 4th of March."
+    },
+    {
+      "start": 3497.47,
+      "end": 3499.93,
+      "text": "I'm told that by Martin Passway of Bessling, Glasgow."
+    },
+    {
+      "start": 3502.24,
+      "end": 3504.0,
+      "text": "The Friday Rock Show is a Tony Wilson production."
+    },
+    {
+      "start": 3507.08,
+      "end": 3512.94,
+      "text": "Following the midnight pips you will hear on FM Stereo, Radio 2, on Medium Wave, our very own Radio 1 News."
+    },
+    {
+      "start": 3512.94,
+      "end": 3521.18,
+      "text": "My name is Tommy Vance. You take care of yourself and have a very fine weekend. God bless. Good night."
+    },
+    {
+      "start": 3570.18,
+      "end": 3588.36,
+      "text": "Ulysses Rye, Jimi Hendrix, Metallica, Raven, Fastway and the band called Jotura."
+    },
+    {
+      "start": 3589.36,
+      "end": 3595.33,
+      "text": "The classics of my motorhead, Gary Moore, Van Halen, Dire Straits, Queen and Grand Funk Railroad."
+    },
+    {
+      "start": 3596.15,
+      "end": 3599.47,
+      "text": "Stay tuned, this is the Whitey Rock Show."
+    },
+    {
+      "start": 3599.47,
+      "end": 3603.77,
+      "text": "Back in the UK"
+    },
+    {
+      "start": 3603.77,
+      "end": 3606.61,
+      "text": "We are one"
+    },
+    {
+      "start": 3606.61,
+      "end": 4132.76,
+      "text": "Ten minutes past ten."
+    },
+    {
+      "start": 4132.88,
+      "end": 4133.54,
+      "text": "That was Motorhead."
+    },
+    {
+      "start": 4134.92,
+      "end": 4136.72,
+      "text": "Played that because I got a letter from Eric Woodward"
+    },
+    {
+      "start": 4136.72,
+      "end": 4137.76,
+      "text": "of Tucknall Park who said,"
+    },
+    {
+      "start": 4137.82,
+      "end": 4140.08,
+      "text": "Dear Tom, why do you play Mike Slade,"
+    },
+    {
+      "start": 4140.16,
+      "end": 4142.24,
+      "text": "which I'm sure has been played on your show before,"
+    },
+    {
+      "start": 4142.46,
+      "end": 4144.22,
+      "text": "and Donington and Reading festivals,"
+    },
+    {
+      "start": 4144.22,
+      "end": 4145.7,
+      "text": "which are really boring."
+    },
+    {
+      "start": 4146.26,
+      "end": 4147.3,
+      "text": "Several people I've spoken to"
+    },
+    {
+      "start": 4147.3,
+      "end": 4149.28,
+      "text": "who listen to your programme regularly agree."
+    },
+    {
+      "start": 4149.76,
+      "end": 4151.24,
+      "text": "Why couldn't you play a couple of tracks off?"
+    },
+    {
+      "start": 4151.5,
+      "end": 4153.58,
+      "text": "Half of a new album instead of archive repeats."
+    },
+    {
+      "start": 4153.78,
+      "end": 4154.2,
+      "text": "So there."
+    },
+    {
+      "start": 4154.52,
+      "end": 4157.07,
+      "text": "And after the complaining, it says in the letter,"
+    },
+    {
+      "start": 4157.13,
+      "end": 4159.63,
+      "text": "could you play us a track from the No Remorse album by Motoring?"
+    },
+    {
+      "start": 4160.23,
+      "end": 4163.21,
+      "text": "The latest line-up, a track which you haven't played on your show before."
+    },
+    {
+      "start": 4163.67,
+      "end": 4166.31,
+      "text": "Eric and Carol, South Gode Road, Tufnel Park."
+    },
+    {
+      "start": 4166.75,
+      "end": 4167.27,
+      "text": "Hope you're happy."
+    },
+    {
+      "start": 4167.49,
+      "end": 4168.47,
+      "text": "That was Locomotive."
+    },
+    {
+      "start": 4171.63,
+      "end": 4173.49,
+      "text": "Before that, you heard Don Dockin and his band."
+    },
+    {
+      "start": 4173.57,
+      "end": 4175.57,
+      "text": "A new album just out on the Elektra record label."
+    },
+    {
+      "start": 4175.57,
+      "end": 4177.29,
+      "text": "The album is called Under Lock and Key."
+    },
+    {
+      "start": 4177.81,
+      "end": 4179.96,
+      "text": "The track was called Unchain the Night."
+    },
+    {
+      "start": 4180.08,
+      "end": 4182.34,
+      "text": "Dedicate that to three fellows from Bolton"
+    },
+    {
+      "start": 4182.34,
+      "end": 4189.4,
+      "text": "who met scott from north wales at an aussie concert hello to the talus rockers grenville"
+    },
+    {
+      "start": 4189.4,
+      "end": 4198.74,
+      "text": "college benefiting western will demon dutton al the metallica freak jim freak meanie and al maniac"
+    },
+    {
+      "start": 4199.94,
+      "end": 4203.54,
+      "text": "they all want to say hello all the edge hill girls who may be listening"
+    },
+    {
+      "start": 4205.62,
+      "end": 4211.38,
+      "text": "belvedere shrewsbury shropshire this is for me in greenfield tom please say hello to all those"
+    },
+    {
+      "start": 4211.38,
+      "end": 4215.46,
+      "text": "heavy rock is out there please would you also mention a mate i used to know called paul green"
+    },
+    {
+      "start": 4215.46,
+      "end": 4221.46,
+      "text": "and i hope he's listening paul green if you're out there somewhere how are you from ian greenfield"
+    },
+    {
+      "start": 4221.46,
+      "end": 4565.81,
+      "text": "who also says and paul do you still know john this is cougar as you see you don't hear those"
+    },
+    {
+      "start": 4565.81,
+      "end": 4759.52,
+      "text": "sounds as you hear but dig this the albums come out on the political record label it's called"
+    },
+    {
+      "start": 4759.52,
+      "end": 4766.76,
+      "text": "jimmy plays monterey jimmy hendrix and a version of foxy lady before that you heard cougar our"
+    },
+    {
+      "start": 4766.76,
+      "end": 4771.81,
+      "text": "session down or one of our session bands tonight to repeat the track there was across the water"
+    },
+    {
+      "start": 4771.81,
+      "end": 4781.69,
+      "text": "it is 10 20. many happy returns to richard adams of potten and bedfordshire he's 21 today well done"
+    },
+    {
+      "start": 4781.69,
+      "end": 4788.31,
+      "text": "mate hello to his mates as well spud and guff and john sorry gene sorry darling scott and woody the"
+    },
+    {
+      "start": 4788.31,
+      "end": 4796.32,
+      "text": "dio freak what did it before 11 no problem happy birthday to tracy 15 on the 11th of march"
+    },
+    {
+      "start": 4796.32,
+      "end": 4799.74,
+      "text": "from Wilb, Alistair Wilby of Doncaster."
+    },
+    {
+      "start": 4800.46,
+      "end": 4801.62,
+      "text": "Hello to all his mates as well."
+    },
+    {
+      "start": 4803.56,
+      "end": 4805.98,
+      "text": "Hello to some metalheads who live in Isleham, I think."
+    },
+    {
+      "start": 4806.24,
+      "end": 4808.56,
+      "text": "It's I-S-L-E-H-A-M, Isleham in Cambridgeshire."
+    },
+    {
+      "start": 4809.16,
+      "end": 4813.52,
+      "text": "Tom, Errol, Tony, McKay, and also Scotty."
+    },
+    {
+      "start": 4815.14,
+      "end": 4817.56,
+      "text": "And KV Chris says hello to a girl called Carol,"
+    },
+    {
+      "start": 4817.68,
+      "end": 4818.9,
+      "text": "who is close to his heart."
+    },
+    {
+      "start": 4821.36,
+      "end": 4824.32,
+      "text": "Right, out of the archives, six years ago we put this session out."
+    },
+    {
+      "start": 4824.32,
+      "end": 4827.28,
+      "text": "It was by a band who really were going places at the time."
+    },
+    {
+      "start": 4827.74,
+      "end": 4830.2,
+      "text": "And something went horrendously wrong with their career."
+    },
+    {
+      "start": 4830.38,
+      "end": 4834.32,
+      "text": "but we'll give you a bit of information about them that you'll enjoy once again,"
+    },
+    {
+      "start": 4834.4,
+      "end": 4836.66,
+      "text": "because I know you did the first time around, and indeed so did I."
+    },
+    {
+      "start": 4837.32,
+      "end": 4838.04,
+      "text": "Diamond Head."
+    },
+    {
+      "start": 4838.72,
+      "end": 5457.46,
+      "text": "Still sounds good to me, anyway."
+    },
+    {
+      "start": 5457.58,
+      "end": 5459.58,
+      "text": "I thought they were going to be a world-class band."
+    },
+    {
+      "start": 5459.7,
+      "end": 5460.14,
+      "text": "I really did."
+    },
+    {
+      "start": 5460.22,
+      "end": 5465.24,
+      "text": "I remember going to see them, in fact, introducing them on stage at the Dudley Town Hall, I think it was."
+    },
+    {
+      "start": 5465.7,
+      "end": 5466.54,
+      "text": "I'm sure it was Dudley."
+    },
+    {
+      "start": 5467.22,
+      "end": 5468.56,
+      "text": "And they were great live."
+    },
+    {
+      "start": 5468.74,
+      "end": 5469.98,
+      "text": "They were brilliant, the studio."
+    },
+    {
+      "start": 5470.18,
+      "end": 5471.48,
+      "text": "They put out some amazing material."
+    },
+    {
+      "start": 5472.08,
+      "end": 5473.42,
+      "text": "That was recorded six years ago."
+    },
+    {
+      "start": 5473.54,
+      "end": 5474.52,
+      "text": "Then they all fell apart."
+    },
+    {
+      "start": 5474.64,
+      "end": 5475.38,
+      "text": "I was such a shame."
+    },
+    {
+      "start": 5476.02,
+      "end": 5476.92,
+      "text": "They could have been superstars."
+    },
+    {
+      "start": 5476.92,
+      "end": 5479.78,
+      "text": "Diamond Head, Sweet and Innocent, and Borrowed Time."
+    },
+    {
+      "start": 5479.9,
+      "end": 5481.16,
+      "text": "A bit of information about Diamond Head"
+    },
+    {
+      "start": 5481.16,
+      "end": 5482.4,
+      "text": "when we play the other two numbers"
+    },
+    {
+      "start": 5482.4,
+      "end": 5483.94,
+      "text": "that we've got out of the archives for you"
+    },
+    {
+      "start": 5483.94,
+      "end": 5486.08,
+      "text": "by the very, very talented foursome."
+    },
+    {
+      "start": 5487.21,
+      "end": 5488.71,
+      "text": "27 and a half minutes to 11."
+    },
+    {
+      "start": 5488.93,
+      "end": 5490.41,
+      "text": "This is Metallica."
+    },
+    {
+      "start": 5490.41,
+      "end": 6148.9,
+      "text": "The track was Gabrielle."
+    },
+    {
+      "start": 6150.9,
+      "end": 6153.3,
+      "text": "The Metallica track before that was from their new album."
+    },
+    {
+      "start": 6153.42,
+      "end": 6154.4,
+      "text": "It's out on Music for Nations."
+    },
+    {
+      "start": 6154.96,
+      "end": 6156.86,
+      "text": "Master of Puppets is the album title."
+    },
+    {
+      "start": 6156.98,
+      "end": 6158.2,
+      "text": "The track was called Battery."
+    },
+    {
+      "start": 6160.61,
+      "end": 6161.85,
+      "text": "And it was for a fellow called Neil"
+    },
+    {
+      "start": 6161.85,
+      "end": 6164.09,
+      "text": "who sent me a postcard from, well, Croydon."
+    },
+    {
+      "start": 6164.21,
+      "end": 6164.77,
+      "text": "That's the postmark."
+    },
+    {
+      "start": 6165.39,
+      "end": 6168.14,
+      "text": "It was his birthday yesterday, also for his mate Mark,"
+    },
+    {
+      "start": 6168.2,
+      "end": 6169.74,
+      "text": "who had a birthday on the 2nd of March,"
+    },
+    {
+      "start": 6169.8,
+      "end": 6171.48,
+      "text": "also for the two Andes and Cy,"
+    },
+    {
+      "start": 6172.24,
+      "end": 6175.36,
+      "text": "the three Steves and Mark and Matt and Mike and Richard and Angus and Miles and Martin,"
+    },
+    {
+      "start": 6175.94,
+      "end": 6178.2,
+      "text": "and all the animals of metal everywhere."
+    },
+    {
+      "start": 6180.67,
+      "end": 6182.11,
+      "text": "Neil Burrett, happy birthday."
+    },
+    {
+      "start": 6186.96,
+      "end": 6189.7,
+      "text": "16 minutes to 11, the Friday Rock Show, BBC Radio 1,"
+    },
+    {
+      "start": 6189.8,
+      "end": 6191.32,
+      "text": "time to lie back and enjoy it."
+    },
+    {
+      "start": 6191.54,
+      "end": 6194.82,
+      "text": "Derwent Lane, Heather Sage, Raya Sheffield,"
+    },
+    {
+      "start": 6194.92,
+      "end": 6195.8,
+      "text": "that's where the letter's from,"
+    },
+    {
+      "start": 6195.8,
+      "end": 6199.64,
+      "text": "and it's from your sincerely-ish Derek Gladding."
+    },
+    {
+      "start": 6200.4,
+      "end": 6207.48,
+      "text": "also known as your friendly neighborhood pratt it says dear tv absolutely rather after absolutely"
+    },
+    {
+      "start": 6208.28,
+      "end": 6215.08,
+      "text": "uh dos all con contemplation worked that one out and deep thought i decided that i'd i'd like you"
+    },
+    {
+      "start": 6215.08,
+      "end": 6220.04,
+      "text": "to play the following on lie back and enjoy it if you don't play i'm very likely to come around"
+    },
+    {
+      "start": 6220.04,
+      "end": 6226.28,
+      "text": "there with the aerial of our nearest transmitter and ram it up your left nostril you have been"
+    },
+    {
+      "start": 6226.28,
+      "end": 6233.24,
+      "text": "warned centel the prat goes on to say hello to jaunty and jock and becky and helena and rach and"
+    },
+    {
+      "start": 6233.24,
+      "end": 6237.4,
+      "text": "gregs and jackie and eric and jacker and catherine and kirsty and everybody else he's missed out it's"
+    },
+    {
+      "start": 6237.4,
+      "end": 6243.4,
+      "text": "a very good live i can enjoy it three of them on cd this one is not they're good these four get into"
+    },
+    {
+      "start": 6243.4,
+      "end": 6245.4,
+      "text": "We don't know."
     }
   ]
 }

@@ -22,12 +22,14 @@
     {
       "artist": "Bon Jovi",
       "track": "In And Out Of Love",
-      "details": "LP-7800° Fahrenheit; Vertigo"
+      "details": "LP-7800° Fahrenheit; Vertigo",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "UFO",
       "track": "Love To Love",
-      "details": "LP-Strangers In The Night; Chrysalis"
+      "details": "LP-Strangers In The Night; Chrysalis",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Blind Fury",
@@ -37,32 +39,38 @@
     {
       "artist": "Fiona",
       "track": "Talk To Me",
-      "details": "LP-Fiona; Atlantic"
+      "details": "LP-Fiona; Atlantic",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "McCoy",
       "track": "Freemind",
-      "details": "LP-Think Hard; Mausoleum"
+      "details": "LP-Think Hard; Mausoleum",
+      "verified_timestamp": 1427.62
     },
     {
       "artist": "Lionheart",
       "track": "Wait For The Night",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1956.95
     },
     {
       "artist": "Molly Hatchet",
       "track": "Flirting With Disaster",
-      "details": "LP-Flirting With Disaster; Epic"
+      "details": "LP-Flirting With Disaster; Epic",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Blind Fury",
       "track": "Hard Times",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1337.01
     },
     {
       "artist": "W.A.S.P.",
       "track": "L.O.V.E. Machine",
-      "details": "LP-W.A.S.P.; Capitol"
+      "details": "LP-W.A.S.P.; Capitol",
+      "verified_timestamp": 2757.01
     },
     {
       "artist": "Lionheart",
@@ -72,12 +80,14 @@
     {
       "artist": "Mama's Boys",
       "track": "Needle In The Groove",
-      "details": "LP-Power And Passion; Jive"
+      "details": "LP-Power And Passion; Jive",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3506.91
     },
     {
       "artist": "Lionheart",
@@ -97,12 +107,14 @@
     {
       "artist": "Rogue Male",
       "track": "On The Line",
-      "details": "LP-First Visit; Music For Nations"
+      "details": "LP-First Visit; Music For Nations",
+      "verified_timestamp": 1967.81
     },
     {
       "artist": "IQ",
       "track": "Outer Limits",
-      "details": "LP-The Wake; Sahara"
+      "details": "LP-The Wake; Sahara",
+      "verified_timestamp": 6540.32
     },
     {
       "artist": "Lionheart",
@@ -117,7 +129,8 @@
     {
       "artist": "Waysted",
       "track": "Heaven Tonight",
-      "details": "Single; Music For Nations"
+      "details": "Single; Music For Nations",
+      "verified_timestamp": 7126.74
     }
   ],
   "transcript": [

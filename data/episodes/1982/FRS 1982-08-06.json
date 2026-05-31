@@ -21,7 +21,8 @@
     {
       "artist": "Brand X",
       "track": "'...And So To F...' (LP - Product) Charisma",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1717.0
     },
     {
       "artist": "Rush",
@@ -31,7 +32,8 @@
     {
       "artist": "Alkatrazz",
       "track": "Blinded",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1085.59
     },
     {
       "artist": "Heavy Pettin",
@@ -41,7 +43,8 @@
     {
       "artist": "Man",
       "track": "God Gave Us Turtles",
-      "details": "BBC Session"
+      "details": "BBC Session",
+      "verified_timestamp": 1003.13
     },
     {
       "artist": "Judas Priest",
@@ -81,7 +84,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4226.06
     },
     {
       "artist": "Alkatrazz",

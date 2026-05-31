@@ -21,12 +21,14 @@
     {
       "artist": "Motorhead",
       "track": "Stone Dead Forever",
-      "details": "Golden Years EP"
+      "details": "Golden Years EP",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "TT Quick",
       "track": "Fortunate Son",
-      "details": "TT Quick EP"
+      "details": "TT Quick EP",
+      "verified_timestamp": 457.8
     },
     {
       "artist": "Utopia",
@@ -41,7 +43,8 @@
     {
       "artist": "Killer",
       "track": "In The Eye Of My Gun",
-      "details": "LP – Shock Waves"
+      "details": "LP – Shock Waves",
+      "verified_timestamp": 1902.38
     },
     {
       "artist": "Saxon",
@@ -51,32 +54,38 @@
     {
       "artist": "Little Steven",
       "track": "Out Of The Darkness",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 2617.37
     },
     {
       "artist": "Chasar",
       "track": "Visions Of Time",
-      "details": "LP – Chasar"
+      "details": "LP – Chasar",
+      "verified_timestamp": 2611.06
     },
     {
       "artist": "Young Blood",
       "track": "Hold Onto Love",
-      "details": "First Blood EP"
+      "details": "First Blood EP",
+      "verified_timestamp": 3229.42
     },
     {
       "artist": "Jaguar",
       "track": "Last Flight",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 528.22
     },
     {
       "artist": "Joe Cocker",
       "track": "Civilised Man",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3525.09
     },
     {
       "artist": "Jaguar",

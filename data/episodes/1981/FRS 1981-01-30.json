@@ -21,22 +21,26 @@
     {
       "artist": "UFO",
       "track": "Lonely Heart",
-      "details": "LP-The Wild, The Willing And The Innocent; Chrysalis"
+      "details": "LP-The Wild, The Willing And The Innocent; Chrysalis",
+      "verified_timestamp": 673.52
     },
     {
       "artist": "Pink Floyd",
       "track": "Run Like Hell",
-      "details": "2xLP-The Wall; Harvest"
+      "details": "2xLP-The Wall; Harvest",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Motörhead",
       "track": "Live To Win",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Scorpions",
       "track": "Make It Real",
-      "details": "LP-Animal Magnetism; Harvest"
+      "details": "LP-Animal Magnetism; Harvest",
+      "verified_timestamp": 1161.17
     },
     {
       "artist": "Phil Collins",
@@ -46,47 +50,56 @@
     {
       "artist": "Phil Collins",
       "track": "Droned",
-      "details": "LP-Face Value; Virgin"
+      "details": "LP-Face Value; Virgin",
+      "verified_timestamp": 1963.1
     },
     {
       "artist": "Phil Collins",
       "track": "Hand In Hand",
-      "details": "LP-Face Value; Virgin"
+      "details": "LP-Face Value; Virgin",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Man",
       "track": "Day And Night",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 647.95
     },
     {
       "artist": "Emerson, Lake & Palmer",
       "track": "Stones Of Years",
-      "details": "LP-Tarkus; Island"
+      "details": "LP-Tarkus; Island",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Drifter",
-      "details": "LP-Killers; EMI"
+      "details": "LP-Killers; EMI",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Motörhead",
       "track": "Fire, Fire",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.48
     },
     {
       "artist": "Rush",
       "track": "Red Barchetta",
-      "details": "LP-Moving Pictures; Mercury"
+      "details": "LP-Moving Pictures; Mercury",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Rush",
       "track": "Limelight",
-      "details": "LP-Moving Pictures; Mercury"
+      "details": "LP-Moving Pictures; Mercury",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Man",
@@ -96,12 +109,14 @@
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Hellbound",
-      "details": "7\"; MCA"
+      "details": "7\"; MCA",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Jefferson Airplane",
       "track": "Wooden Ships",
-      "details": "LP-Volunteers; RCA"
+      "details": "LP-Volunteers; RCA",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Yes",
@@ -116,7 +131,8 @@
     {
       "artist": "Motörhead",
       "track": "Ace Of Spades",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [

@@ -29,7 +29,8 @@
     {
       "artist": null,
       "track": "Alice Cooper - Teenage Frankenstein",
-      "details": null
+      "details": null,
+      "verified_timestamp": 540.0
     },
     {
       "artist": null,
@@ -39,7 +40,8 @@
     {
       "artist": null,
       "track": "Black 'N Blue - Nasty Nasty",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1080.0
     },
     {
       "artist": null,
@@ -49,7 +51,8 @@
     {
       "artist": null,
       "track": "Ratt - Drive Me Crazy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
@@ -59,12 +62,14 @@
     {
       "artist": null,
       "track": "Johnny Winter - Mojo Boogie",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2160.0
     },
     {
       "artist": null,
       "track": "ZZ Top - Gimme All Your Lovin'",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2520.0
     },
     {
       "artist": null,
@@ -74,12 +79,14 @@
     {
       "artist": null,
       "track": "David Lee Roth - Yankee Rose",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3060.0
     },
     {
       "artist": null,
       "track": "AC/DC - She's Got Balls",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3240.0
     },
     {
       "artist": null,
@@ -89,7 +96,8 @@
     {
       "artist": null,
       "track": "Megadeth - Wake Up Dead",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4320.0
     },
     {
       "artist": null,
@@ -100,6 +108,1308 @@
       "artist": null,
       "track": "Warlock - Recorded at Castle Donington",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 54.77,
+      "end": 373.07,
+      "text": "That's an import album. It's on the Elektra record label by the band called Metal Church."
+    },
+    {
+      "start": 373.07,
+      "end": 376.21,
+      "text": "The album is called The Dark. The track you heard was called Burial at Sea. I played that"
+    },
+    {
+      "start": 376.21,
+      "end": 380.89,
+      "text": "for a fellow who's a crazy thresher, according to this. Carl from Nottingham. He's got a"
+    },
+    {
+      "start": 380.89,
+      "end": 385.97,
+      "text": "birthday. Fifteen today. Happy birthday. From the Crazy Gang in Nottingham. Also, hello"
+    },
+    {
+      "start": 385.97,
+      "end": 387.87,
+      "text": "to Sharon from Peter"
+    },
+    {
+      "start": 387.87,
+      "end": 389.97,
+      "text": "who she met at the"
+    },
+    {
+      "start": 389.97,
+      "end": 392.01,
+      "text": "Reading Festival, who then goes on to"
+    },
+    {
+      "start": 392.01,
+      "end": 393.77,
+      "text": "say on this card, posted in Oxford,"
+    },
+    {
+      "start": 394.09,
+      "end": 395.99,
+      "text": "I'm very sorry. That's underlined"
+    },
+    {
+      "start": 395.99,
+      "end": 397.89,
+      "text": "and in capital letters. I'm"
+    },
+    {
+      "start": 397.89,
+      "end": 399.77,
+      "text": "very sorry. I couldn't spend more time with her."
+    },
+    {
+      "start": 400.17,
+      "end": 401.99,
+      "text": "Play us something extremely good. And get rid"
+    },
+    {
+      "start": 401.99,
+      "end": 404.09,
+      "text": "of the news. Well, we didn't get rid of the news. We shifted"
+    },
+    {
+      "start": 404.09,
+      "end": 405.99,
+      "text": "it, though. Thank you, programme planners."
+    },
+    {
+      "start": 406.33,
+      "end": 407.91,
+      "text": "From 10.30, as you might have noticed,"
+    },
+    {
+      "start": 408.03,
+      "end": 410.03,
+      "text": "to two minutes, or rather, just till 10 o'clock"
+    },
+    {
+      "start": 410.03,
+      "end": 412.13,
+      "text": "so it doesn't sort of interfere with the music."
+    },
+    {
+      "start": 412.85,
+      "end": 413.99,
+      "text": "Sharon, maybe you'll see"
+    },
+    {
+      "start": 413.99,
+      "end": 414.99,
+      "text": "Peter again soon."
+    },
+    {
+      "start": 415.97,
+      "end": 425.09,
+      "text": "drug alert remember the lines to drug alert are open now on 0800 500 800 for confidential advice"
+    },
+    {
+      "start": 425.09,
+      "end": 431.23,
+      "text": "if you've got a drug problem or you can write to us for the drug alert leaflets send your name and"
+    },
+    {
+      "start": 431.23,
+      "end": 440.95,
+      "text": "address to radio one london w1a4ww we'll send you them for free drug alert it's 11 and a half"
+    },
+    {
+      "start": 440.95,
+      "end": 467.64,
+      "text": "minutes past 10 the friday rock show alice cooper is back on vinyl and he's now giving you a teenage"
+    },
+    {
+      "start": 467.64,
+      "end": 468.74,
+      "text": "frankenstein"
+    },
+    {
+      "start": 533.7,
+      "end": 538.76,
+      "text": "I spent my whole life burning, turning"
+    },
+    {
+      "start": 538.76,
+      "end": 543.12,
+      "text": "He's Frankenstein"
+    },
+    {
+      "start": 543.12,
+      "end": 547.74,
+      "text": "The local freak with a twisted mind"
+    },
+    {
+      "start": 547.74,
+      "end": 550.56,
+      "text": "I'm a teen, he's Frankenstein"
+    },
+    {
+      "start": 550.56,
+      "end": 555.44,
+      "text": "He's ain't mine, and his legs ain't mine"
+    },
+    {
+      "start": 555.44,
+      "end": 560.96,
+      "text": "He's got a face, got some scars and a brace"
+    },
+    {
+      "start": 560.96,
+      "end": 563.95,
+      "text": "My hands are rough and bloody"
+    },
+    {
+      "start": 563.95,
+      "end": 568.27,
+      "text": "I walk into the night with a faint at the sight"
+    },
+    {
+      "start": 568.27,
+      "end": 571.16,
+      "text": "I need no puny pie"
+    },
+    {
+      "start": 571.16,
+      "end": 573.92,
+      "text": "I can't walk in the day"
+    },
+    {
+      "start": 573.92,
+      "end": 575.94,
+      "text": "I must walk in the night"
+    },
+    {
+      "start": 575.94,
+      "end": 577.92,
+      "text": "Stay in the shadow"
+    },
+    {
+      "start": 577.92,
+      "end": 579.46,
+      "text": "Stay out of the light"
+    },
+    {
+      "start": 579.46,
+      "end": 581.36,
+      "text": "I'm a stolen divide"
+    },
+    {
+      "start": 581.36,
+      "end": 583.38,
+      "text": "It's my guess who's on time"
+    },
+    {
+      "start": 583.38,
+      "end": 585.7,
+      "text": "I spent my whole life"
+    },
+    {
+      "start": 585.7,
+      "end": 587.32,
+      "text": "Burning, turning"
+    },
+    {
+      "start": 587.32,
+      "end": 591.84,
+      "text": "I'm a teenage Frankenstein"
+    },
+    {
+      "start": 591.84,
+      "end": 594.53,
+      "text": "The local freak"
+    },
+    {
+      "start": 594.53,
+      "end": 596.31,
+      "text": "With a twisted mind"
+    },
+    {
+      "start": 596.31,
+      "end": 599.31,
+      "text": "I'm a teenage Frankenstein"
+    },
+    {
+      "start": 599.31,
+      "end": 893.82,
+      "text": "they be making that noise all over the world for the past six years they're called gbh it's a four"
+    },
+    {
+      "start": 893.82,
+      "end": 898.94,
+      "text": "track 12-incher the 12-incher is called oh no it's gbh again the track was called malice in"
+    },
+    {
+      "start": 898.94,
+      "end": 903.84,
+      "text": "wonderland before that alice cooper is back on the road good album as well it's just out on mca"
+    },
+    {
+      "start": 903.84,
+      "end": 908.36,
+      "text": "records in the uk just released constrictor the name of the album the track you heard was teenage"
+    },
+    {
+      "start": 908.36,
+      "end": 915.3,
+      "text": "frankenstein dedicated to lisa lisa dawn lisa dawn shivers in actual fact who's 20 i think today"
+    },
+    {
+      "start": 915.3,
+      "end": 920.98,
+      "text": "please tell her i love her not me carl might you know never met her actually carl calla or kayla"
+    },
+    {
+      "start": 920.98,
+      "end": 925.7,
+      "text": "of western super mayor definitely fancies her okay happy birthday also it's a little message"
+    },
+    {
+      "start": 925.7,
+      "end": 928.92,
+      "text": "from Jason Steele, Ecclesfield, Sheffield and Yorkshire."
+    },
+    {
+      "start": 929.0,
+      "end": 931.7,
+      "text": "Tom, please play something to keep the neighbours awake."
+    },
+    {
+      "start": 931.84,
+      "end": 932.72,
+      "text": "I think we've just done that."
+    },
+    {
+      "start": 932.84,
+      "end": 936.02,
+      "text": "Dedicate a record to all my mates Wayne, the trooper Dawson,"
+    },
+    {
+      "start": 936.2,
+      "end": 939.6,
+      "text": "Richard Sellout Dawson, and also Haida Paula and the Roy,"
+    },
+    {
+      "start": 939.86,
+      "end": 943.58,
+      "text": "and all the CB Radio FM metalheads, right,"
+    },
+    {
+      "start": 943.92,
+      "end": 945.8,
+      "text": "who promote metal over the airwaves."
+    },
+    {
+      "start": 945.96,
+      "end": 947.98,
+      "text": "Totally illegal. Don't know nothing about it."
+    },
+    {
+      "start": 948.1,
+      "end": 949.12,
+      "text": "You can get away with it. Good luck."
+    },
+    {
+      "start": 949.18,
+      "end": 952.1,
+      "text": "And remember, says Jason, if you ain't a metalhead,"
+    },
+    {
+      "start": 952.22,
+      "end": 954.06,
+      "text": "then you might as well be dead."
+    },
+    {
+      "start": 954.06,
+      "end": 955.16,
+      "text": "Yours deaf forever."
+    },
+    {
+      "start": 955.7,
+      "end": 956.84,
+      "text": "Jason Steele, okay."
+    },
+    {
+      "start": 957.18,
+      "end": 959.7,
+      "text": "This is Black and Blue, a track from their third album"
+    },
+    {
+      "start": 959.7,
+      "end": 960.78,
+      "text": "just released in this country."
+    },
+    {
+      "start": 961.1,
+      "end": 963.1,
+      "text": "This is the title track, Nasty Nasty."
+    },
+    {
+      "start": 963.1,
+      "end": 991.5,
+      "text": "I want to give you all a warning"
+    },
+    {
+      "start": 991.5,
+      "end": 995.32,
+      "text": "Tell you a little story"
+    },
+    {
+      "start": 995.32,
+      "end": 998.8,
+      "text": "A woman with a passion"
+    },
+    {
+      "start": 998.8,
+      "end": 1001.5,
+      "text": "For making history"
+    },
+    {
+      "start": 1001.5,
+      "end": 1005.66,
+      "text": "She's got snakeskin eyes"
+    },
+    {
+      "start": 1005.66,
+      "end": 1009.77,
+      "text": "Awesome men like flies"
+    },
+    {
+      "start": 1009.77,
+      "end": 1238.06,
+      "text": "Our drug alert lines are open until 11 o'clock tonight"
+    },
+    {
+      "start": 1238.06,
+      "end": 1243.58,
+      "text": "if you'd like to talk to one of our advisors simon's from cardiff he used heroin and reckoned"
+    },
+    {
+      "start": 1243.58,
+      "end": 1249.98,
+      "text": "he could control the habit he started experimenting with drugs at 14. i was dabbling with heroin"
+    },
+    {
+      "start": 1249.98,
+      "end": 1255.1,
+      "text": "and i wasn't addicted i you know i didn't have a habit i used to use it now and again when it"
+    },
+    {
+      "start": 1255.1,
+      "end": 1261.74,
+      "text": "came along i didn't ever expect to get addicted to it but the ability to say no to yourself and"
+    },
+    {
+      "start": 1261.74,
+      "end": 1267.42,
+      "text": "not actually go and have another smoke or another fix i wasn't strong enough to actually have that"
+    },
+    {
+      "start": 1267.42,
+      "end": 1275.42,
+      "text": "self-control out of 300 odd people that i know i know two that actually use heroin and control it"
+    },
+    {
+      "start": 1275.42,
+      "end": 1282.65,
+      "text": "one of them almost died of hepatitis mind you i know from my experience that over the nine years"
+    },
+    {
+      "start": 1282.65,
+      "end": 1289.29,
+      "text": "of addiction the longer you stay addicted the longer you're going to feel bad the harder it's"
+    },
+    {
+      "start": 1289.29,
+      "end": 1294.09,
+      "text": "going to be to come off not in physical terms not in actual physical withdrawals but in the"
+    },
+    {
+      "start": 1294.09,
+      "end": 1300.33,
+      "text": "emotional mess that you go through if you want our special leaflet drug alert the basic facts"
+    },
+    {
+      "start": 1300.33,
+      "end": 1309.45,
+      "text": "and how to get help just drop us a line to drug alert radio 1 london w 1 a 4 w w and remember"
+    },
+    {
+      "start": 1309.45,
+      "end": 1316.49,
+      "text": "there's still time to call the link line service on 0 800 500 800. we're open until 11 tonight"
+    },
+    {
+      "start": 1316.49,
+      "end": 1595.95,
+      "text": "that's a bit of a classic single that i dug out the other day i think it's actually the first"
+    },
+    {
+      "start": 1595.95,
+      "end": 1600.43,
+      "text": "record they ever made persian risk it was on their own record label the track was called"
+    },
+    {
+      "start": 1600.43,
+      "end": 1604.75,
+      "text": "calling for you it was put out back in 1981 played quite a lot on the rock show back in 1981"
+    },
+    {
+      "start": 1604.75,
+      "end": 1610.01,
+      "text": "the singer carl sentence i'm told has now joined the giza butler band but persian risk are"
+    },
+    {
+      "start": 1610.01,
+      "end": 1614.03,
+      "text": "continuing with another vocalist did a session recently with persian risk and it was very good"
+    },
+    {
+      "start": 1614.03,
+      "end": 1617.61,
+      "text": "good luck to carl with the giza butler band before that black and blue from the states"
+    },
+    {
+      "start": 1617.61,
+      "end": 1621.67,
+      "text": "track from their third album it has been released in this country it's on the geffen record label"
+    },
+    {
+      "start": 1621.67,
+      "end": 1627.65,
+      "text": "and you heard the title track called nasty nasty it is 10 31 the friday rock show bbc radio one"
+    },
+    {
+      "start": 1627.65,
+      "end": 1629.97,
+      "text": "Somebody tonight is going to get a little phone call."
+    },
+    {
+      "start": 1630.27,
+      "end": 1631.79,
+      "text": "That's somebody who knows who it is,"
+    },
+    {
+      "start": 1631.93,
+      "end": 1635.03,
+      "text": "because I won't make any sort of any mystery about it."
+    },
+    {
+      "start": 1635.37,
+      "end": 1636.47,
+      "text": "That's somebody who knows who it is,"
+    },
+    {
+      "start": 1636.61,
+      "end": 1638.89,
+      "text": "and that's the person who put together Lie Back and Enjoy It."
+    },
+    {
+      "start": 1638.93,
+      "end": 1640.33,
+      "text": "We'll give them the bell, play the music first,"
+    },
+    {
+      "start": 1640.41,
+      "end": 1643.91,
+      "text": "then phone them up and ask them why they wanted those particular tracks."
+    },
+    {
+      "start": 1644.47,
+      "end": 1648.79,
+      "text": "Friday Rock Show, BBC Radio 1, London, W1A4WW is our address."
+    },
+    {
+      "start": 1648.91,
+      "end": 1650.41,
+      "text": "If you'd like to get involved, write us a letter,"
+    },
+    {
+      "start": 1650.99,
+      "end": 1652.37,
+      "text": "put together a Lie Back and Enjoy It."
+    },
+    {
+      "start": 1652.71,
+      "end": 1656.43,
+      "text": "I like to get letters, criticisms, welcome ideas, anything you like."
+    },
+    {
+      "start": 1656.43,
+      "end": 2055.35,
+      "text": "this is rat and drive me crazy everybody's cup of tea but i like them they are called detente"
+    },
+    {
+      "start": 2055.35,
+      "end": 2060.07,
+      "text": "they're from the states the album is called recognize no authority it's out on the road"
+    },
+    {
+      "start": 2060.07,
+      "end": 2065.09,
+      "text": "runner record label it's an import the track there was called blood i bleed dawn crosby is the lady"
+    },
+    {
+      "start": 2065.09,
+      "end": 2069.57,
+      "text": "with that amazing voice she's the lead vocalist i played that for billy of penzance who liked the"
+    },
+    {
+      "start": 2069.57,
+      "end": 2073.99,
+      "text": "track i played by them quite recently track was russian roulette also he wants it dedicated to"
+    },
+    {
+      "start": 2073.99,
+      "end": 2076.25,
+      "text": "his mate, whose name is Kev"
+    },
+    {
+      "start": 2076.25,
+      "end": 2077.81,
+      "text": "and a lady called Morag"
+    },
+    {
+      "start": 2077.81,
+      "end": 2079.81,
+      "text": "who's in Scotland, that's from Billy"
+    },
+    {
+      "start": 2079.81,
+      "end": 2082.41,
+      "text": "the trendy headbanger from Penzance"
+    },
+    {
+      "start": 2082.41,
+      "end": 2084.09,
+      "text": "this is a letter that's"
+    },
+    {
+      "start": 2084.09,
+      "end": 2085.97,
+      "text": "half burnt, from Jace"
+    },
+    {
+      "start": 2085.97,
+      "end": 2087.93,
+      "text": "the high priest of Thrash"
+    },
+    {
+      "start": 2087.93,
+      "end": 2089.71,
+      "text": "somewhere in leafy Berkshire"
+    },
+    {
+      "start": 2089.71,
+      "end": 2091.87,
+      "text": "Tom, say hello to some mates of mine"
+    },
+    {
+      "start": 2091.87,
+      "end": 2094.07,
+      "text": "Balderick, Rice Crispy's"
+    },
+    {
+      "start": 2094.07,
+      "end": 2096.13,
+      "text": "Baron, Mad Dog Toof"
+    },
+    {
+      "start": 2096.13,
+      "end": 2097.79,
+      "text": "pronounced like woof"
+    },
+    {
+      "start": 2097.79,
+      "end": 2099.57,
+      "text": "Nick, I'm ill really, Roth"
+    },
+    {
+      "start": 2099.57,
+      "end": 2101.95,
+      "text": "Gorm, God of Thunder"
+    },
+    {
+      "start": 2101.95,
+      "end": 2104.5,
+      "text": "Joe and his pet stone"
+    },
+    {
+      "start": 2104.5,
+      "end": 2106.86,
+      "text": "Arthur, Mad Bomber Pete"
+    },
+    {
+      "start": 2106.86,
+      "end": 2109.2,
+      "text": "Johnny Bluehands, Garibaldi"
+    },
+    {
+      "start": 2109.2,
+      "end": 2110.78,
+      "text": "and his harem, lucky fella"
+    },
+    {
+      "start": 2110.78,
+      "end": 2113.02,
+      "text": "and Iggy, and everybody else who"
+    },
+    {
+      "start": 2113.02,
+      "end": 2114.5,
+      "text": "admits to knowing Jace"
+    },
+    {
+      "start": 2114.5,
+      "end": 2116.2,
+      "text": "the High Priest of Thrash"
+    },
+    {
+      "start": 2116.2,
+      "end": 2118.86,
+      "text": "also wish Ros Grey a very happy"
+    },
+    {
+      "start": 2118.86,
+      "end": 2120.56,
+      "text": "if embarrassing birthday"
+    },
+    {
+      "start": 2120.56,
+      "end": 2122.82,
+      "text": "tomorrow, Warlock"
+    },
+    {
+      "start": 2122.82,
+      "end": 2125.18,
+      "text": "had been requested by John the Marillion Addict"
+    },
+    {
+      "start": 2125.18,
+      "end": 2126.6,
+      "text": "Richard the Scorpion's fan"
+    },
+    {
+      "start": 2126.6,
+      "end": 2129.4,
+      "text": "and also Jeff Baxter I think it is"
+    },
+    {
+      "start": 2129.4,
+      "end": 2130.88,
+      "text": "near Kingham"
+    },
+    {
+      "start": 2130.88,
+      "end": 2132.8,
+      "text": "Church of Westgate, or Westcote,"
+    },
+    {
+      "start": 2133.16,
+      "end": 2134.52,
+      "text": "near Kingham in Oxford."
+    },
+    {
+      "start": 2134.74,
+      "end": 2137.02,
+      "text": "OK, Warlock at about 11.21 tonight."
+    },
+    {
+      "start": 2137.56,
+      "end": 2139.06,
+      "text": "40 minutes of Warlock, as they were"
+    },
+    {
+      "start": 2139.06,
+      "end": 2141.06,
+      "text": "at this year's Monsters of Rock Festival."
+    },
+    {
+      "start": 2141.5,
+      "end": 2142.48,
+      "text": "Here's a bit of blues for you"
+    },
+    {
+      "start": 2142.48,
+      "end": 2143.88,
+      "text": "at 20 and a half minutes to 11."
+    },
+    {
+      "start": 2144.46,
+      "end": 2147.1,
+      "text": "The great Johnny Winter and the Mojo Boogie."
+    },
+    {
+      "start": 2147.1,
+      "end": 2175.94,
+      "text": "And the show had a wonderful time"
+    },
+    {
+      "start": 2175.94,
+      "end": 2183.8,
+      "text": "And the show had a wonderful time"
+    },
+    {
+      "start": 2183.8,
+      "end": 2191.78,
+      "text": "And the dogs were fine"
+    },
+    {
+      "start": 2191.78,
+      "end": 2198.46,
+      "text": "Just to get me down on the Rimpop Street"
+    },
+    {
+      "start": 2198.46,
+      "end": 2202.48,
+      "text": "I've seen everybody that I wanted to meet"
+    },
+    {
+      "start": 2202.48,
+      "end": 2206.34,
+      "text": "She said, hey Johnny, stop and listen to me"
+    },
+    {
+      "start": 2206.34,
+      "end": 2210.24,
+      "text": "They got something to knock you off of your feet"
+    },
+    {
+      "start": 2210.24,
+      "end": 2212.52,
+      "text": "It's called a mojo boogie"
+    },
+    {
+      "start": 2212.52,
+      "end": 2216.8,
+      "text": "It's called that mojo boogie"
+    },
+    {
+      "start": 2216.8,
+      "end": 2220.36,
+      "text": "You know that mojo boogie"
+    },
+    {
+      "start": 2220.36,
+      "end": 2223.58,
+      "text": "Begins to slide on down"
+    },
+    {
+      "start": 2223.58,
+      "end": 2230.22,
+      "text": "She was teaching me a brand new way"
+    },
+    {
+      "start": 2230.22,
+      "end": 2234.08,
+      "text": "I said, Gypsy, tell me, tell me what to say."
+    },
+    {
+      "start": 2234.2,
+      "end": 2238.08,
+      "text": "They got the boozy and the boogie and the other kind of thing."
+    },
+    {
+      "start": 2238.52,
+      "end": 2241.86,
+      "text": "They even got the thing they call the mojo hand."
+    },
+    {
+      "start": 2242.08,
+      "end": 2244.14,
+      "text": "They got the mojo boogie."
+    },
+    {
+      "start": 2245.56,
+      "end": 2248.14,
+      "text": "It's called that mojo boogie."
+    },
+    {
+      "start": 2249.88,
+      "end": 2255.2,
+      "text": "And all that mojo boogie begins to slide on down."
+    },
+    {
+      "start": 2256.7,
+      "end": 2257.7,
+      "text": "Right on down."
+    },
+    {
+      "start": 2257.7,
+      "end": 2383.57,
+      "text": "Got to tell me just operated"
+    },
+    {
+      "start": 2383.57,
+      "end": 2387.58,
+      "text": "I went to a nightclub, I was reading it tight"
+    },
+    {
+      "start": 2387.58,
+      "end": 2397.62,
+      "text": "Mojo Boogie"
+    },
+    {
+      "start": 2397.62,
+      "end": 2409.27,
+      "text": "Boogie, I began to so Boogie"
+    },
+    {
+      "start": 2409.27,
+      "end": 2413.18,
+      "text": "What happened at Mojo Boogie?"
+    },
+    {
+      "start": 2413.86,
+      "end": 2417.26,
+      "text": "Mojo Boogie"
+    },
+    {
+      "start": 2417.26,
+      "end": 2421.04,
+      "text": "Got to be that Mojo Boogie"
+    },
+    {
+      "start": 2421.04,
+      "end": 2425.1,
+      "text": "It was at Mojo Boogie"
+    },
+    {
+      "start": 2425.1,
+      "end": 2428.1,
+      "text": "Began to splat on down"
+    },
+    {
+      "start": 2428.1,
+      "end": 2686.34,
+      "text": "ZZ Shop played from CD from the album Eliminator"
+    },
+    {
+      "start": 2688.33,
+      "end": 2690.29,
+      "text": "Now, the Tractor was a multi-million selling single"
+    },
+    {
+      "start": 2690.29,
+      "end": 2691.65,
+      "text": "called Gimme All Your Lovin'."
+    },
+    {
+      "start": 2691.65,
+      "end": 2694.73,
+      "text": "That album sold by, well, half a million units in this country."
+    },
+    {
+      "start": 2695.31,
+      "end": 2697.75,
+      "text": "Half a million people bought Eliminator here in the UK."
+    },
+    {
+      "start": 2698.19,
+      "end": 2700.71,
+      "text": "In the States, they sold five million copies."
+    },
+    {
+      "start": 2702.21,
+      "end": 2704.41,
+      "text": "ZZ Top, do in Europe, soon."
+    },
+    {
+      "start": 2705.99,
+      "end": 2707.23,
+      "text": "It's 11 minutes to 11."
+    },
+    {
+      "start": 2707.35,
+      "end": 2709.25,
+      "text": "It's time for the feature on the Friday Rock Show"
+    },
+    {
+      "start": 2709.25,
+      "end": 2711.05,
+      "text": "that we call Lie Back and Enjoy It."
+    },
+    {
+      "start": 2711.79,
+      "end": 2713.01,
+      "text": "Not going to tell you what we're going to play,"
+    },
+    {
+      "start": 2713.07,
+      "end": 2715.43,
+      "text": "not going to tell you whom we're actually going to speak to on the telephone"
+    },
+    {
+      "start": 2715.43,
+      "end": 2718.43,
+      "text": "because it is a telephonic communication one tonight, if you know what I mean."
+    },
+    {
+      "start": 2718.99,
+      "end": 2719.59,
+      "text": "Bit of a clue."
+    },
+    {
+      "start": 2720.35,
+      "end": 2723.37,
+      "text": "Tonbridge in Kent is actually the place where the fella comes from."
+    },
+    {
+      "start": 2723.77,
+      "end": 2727.17,
+      "text": "I'll be talking to him on the phone after we've played his selection."
+    },
+    {
+      "start": 2728.01,
+      "end": 2730.63,
+      "text": "Just a reminder, if you'd like to get involved in Lie Back and Enjoy It,"
+    },
+    {
+      "start": 2730.71,
+      "end": 2732.83,
+      "text": "send your selection of music, round about 20 minutes."
+    },
+    {
+      "start": 2732.95,
+      "end": 2735.17,
+      "text": "Tonight's selection is 22 minutes, 35 seconds."
+    },
+    {
+      "start": 2735.67,
+      "end": 2738.81,
+      "text": "Round about 20 minutes of good music that you think that the United Kingdom"
+    },
+    {
+      "start": 2738.81,
+      "end": 2740.73,
+      "text": "and wherever else people are listening."
+    },
+    {
+      "start": 2741.59,
+      "end": 2745.09,
+      "text": "Sort of stuff that people would like to hear, rock fans would like to hear."
+    },
+    {
+      "start": 2745.43,
+      "end": 4113.86,
+      "text": "at this time of night on this program but right now this is lie back and enjoy it 12 minutes past"
+    },
+    {
+      "start": 4113.86,
+      "end": 4118.58,
+      "text": "11 that was the feature call lie back and enjoy that tonight was put together by neil bisley of"
+    },
+    {
+      "start": 4118.58,
+      "end": 4123.74,
+      "text": "tonbridge and neil is on the phone can you hear me neil yes do you enjoy the music yeah it was great"
+    },
+    {
+      "start": 4123.74,
+      "end": 4127.42,
+      "text": "thanks okay let's run through what we heard what was the last track that we heard the last track"
+    },
+    {
+      "start": 4131.3,
+      "end": 4137.8,
+      "text": "right nine minute medley there the one before that that was okay that was the version that uh you"
+    },
+    {
+      "start": 4137.8,
+      "end": 4139.1,
+      "text": "You actually asked for a live version,"
+    },
+    {
+      "start": 4139.2,
+      "end": 4141.5,
+      "text": "but I played you a studio version instead from 1976."
+    },
+    {
+      "start": 4142.28,
+      "end": 4143.76,
+      "text": "Okay, the track by David Lee Roth."
+    },
+    {
+      "start": 4144.04,
+      "end": 4145.65,
+      "text": "Yeah, that was Yankee Rose."
+    },
+    {
+      "start": 4145.81,
+      "end": 4147.15,
+      "text": "All right, from his latest album."
+    },
+    {
+      "start": 4147.27,
+      "end": 4148.77,
+      "text": "And before that, what did we open with?"
+    },
+    {
+      "start": 4148.87,
+      "end": 4150.62,
+      "text": "We've opened Party."
+    },
+    {
+      "start": 4150.8,
+      "end": 4151.94,
+      "text": "Okay, why'd you choose them?"
+    },
+    {
+      "start": 4164.04,
+      "end": 4164.8,
+      "text": "It's excellent."
+    },
+    {
+      "start": 4165.52,
+      "end": 4168.43,
+      "text": "Sort of between David Lee Roth and Steve Byrne's guitar."
+    },
+    {
+      "start": 4168.63,
+      "end": 4168.87,
+      "text": "Yeah."
+    },
+    {
+      "start": 4169.21,
+      "end": 4175.26,
+      "text": "Because he really should make it on his own."
+    },
+    {
+      "start": 4175.5,
+      "end": 4175.94,
+      "text": "Agreed."
+    },
+    {
+      "start": 4176.7,
+      "end": 4179.98,
+      "text": "And she's got balls as a sort of tribute to Bond."
+    },
+    {
+      "start": 4182.58,
+      "end": 4182.82,
+      "text": "True."
+    },
+    {
+      "start": 4182.82,
+      "end": 4183.82,
+      "text": "And he's a great man."
+    },
+    {
+      "start": 4183.82,
+      "end": 4194.58,
+      "text": "and often present of rock and roll that he should."
+    },
+    {
+      "start": 4194.82,
+      "end": 4196.5,
+      "text": "Excellent choice there, because Ronnie James,"
+    },
+    {
+      "start": 4196.58,
+      "end": 4198.94,
+      "text": "I discovered a fact, I don't know if it's absolutely true,"
+    },
+    {
+      "start": 4199.0,
+      "end": 4203.48,
+      "text": "it's said that he put out his first album with a band in 1957."
+    },
+    {
+      "start": 4204.08,
+      "end": 4205.0,
+      "text": "Yeah, that's right."
+    },
+    {
+      "start": 4205.02,
+      "end": 4207.12,
+      "text": "He was one of the greatest rock singers, I think, ever."
+    },
+    {
+      "start": 4207.62,
+      "end": 4210.5,
+      "text": "£12 record token coming your way, anybody you want to say hello to?"
+    },
+    {
+      "start": 4210.5,
+      "end": 4213.61,
+      "text": "Yeah, can I just say my three friends,"
+    },
+    {
+      "start": 4213.73,
+      "end": 4216.09,
+      "text": "Robert Smeaton, Sam Pullen and Simon Williams."
+    },
+    {
+      "start": 4216.47,
+      "end": 4219.07,
+      "text": "OK, you've done it, stay on the line, we'll take your address."
+    },
+    {
+      "start": 4219.17,
+      "end": 4220.37,
+      "text": "Neil Bisney, thank you very much."
+    },
+    {
+      "start": 4220.41,
+      "end": 4221.33,
+      "text": "OK, thanks very much."
+    },
+    {
+      "start": 4221.39,
+      "end": 4221.67,
+      "text": "Good night."
+    },
+    {
+      "start": 4222.51,
+      "end": 4644.64,
+      "text": "The excellent track from a really good album"
+    },
+    {
+      "start": 4644.64,
+      "end": 4646.84,
+      "text": "that's out on Megaforce worldwide."
+    },
+    {
+      "start": 4647.6,
+      "end": 4648.64,
+      "text": "The band are called T.T. Quick."
+    },
+    {
+      "start": 4648.92,
+      "end": 4650.26,
+      "text": "Medal of Honor is the album title."
+    },
+    {
+      "start": 4650.34,
+      "end": 4651.76,
+      "text": "The track you heard there was called Front Burner."
+    },
+    {
+      "start": 4652.08,
+      "end": 4654.3,
+      "text": "Before that, something from the new Megadeth album."
+    },
+    {
+      "start": 4654.44,
+      "end": 4656.76,
+      "text": "Megadeth, the band who was formed a long time ago now"
+    },
+    {
+      "start": 4656.76,
+      "end": 4659.14,
+      "text": "by Dave Mustaine, who was a founder member of Metallica."
+    },
+    {
+      "start": 4659.6,
+      "end": 4661.0,
+      "text": "Peace sells, but who's buying?"
+    },
+    {
+      "start": 4661.16,
+      "end": 4661.94,
+      "text": "That's the album title."
+    },
+    {
+      "start": 4662.36,
+      "end": 4663.26,
+      "text": "Wake Up Dead."
+    },
+    {
+      "start": 4663.4,
+      "end": 4664.68,
+      "text": "It's an import on Capitol."
+    },
+    {
+      "start": 4664.94,
+      "end": 4666.46,
+      "text": "Warlock from Donington next."
+    },
+    {
+      "start": 4666.56,
+      "end": 4667.44,
+      "text": "Radio One."
+    },
+    {
+      "start": 4668.38,
+      "end": 4669.26,
+      "text": "Drug alert."
+    },
+    {
+      "start": 4669.26,
+      "end": 4675.92,
+      "text": "Remember, our lines to Drug Alert are open from 8.30 a.m. every morning until 11 o'clock at night."
+    },
+    {
+      "start": 4676.42,
+      "end": 4677.84,
+      "text": "Saturday and Sunday as well."
+    },
+    {
+      "start": 4678.18,
+      "end": 4682.74,
+      "text": "So if you've got a drug problem, call us on 0800-500-800."
+    },
+    {
+      "start": 4683.24,
+      "end": 4691.56,
+      "text": "If you want a copy of our Drug Alert leaflets, send your name and address to Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 4692.64,
+      "end": 4693.78,
+      "text": "Drug Alert."
+    },
+    {
+      "start": 4694.28,
+      "end": 4702.04,
+      "text": "From Germany, welcome Wallach."
+    },
+    {
+      "start": 4702.04,
+      "end": 6935.95,
+      "text": "and this song is called founded they were in the düsseldorf area of germany"
+    },
+    {
+      "start": 6935.95,
+      "end": 6941.21,
+      "text": "recorded earlier this year at donnington supporting wasp on tour in the united kingdom"
+    },
+    {
+      "start": 6941.21,
+      "end": 6945.97,
+      "text": "and just for the record we're recording wasp for future broadcast on this program"
+    },
+    {
+      "start": 6945.97,
+      "end": 6963.56,
+      "text": "thank you to warlock the friday rock show is a tony wilson production and that's it for this"
+    },
+    {
+      "start": 6963.56,
+      "end": 6967.76,
+      "text": "edition of the friday rock show which i trust you've enjoyed wherever you happen to be wherever"
+    },
+    {
+      "start": 6967.76,
+      "end": 6974.0,
+      "text": "who you are at this moment following the midnight pips you will hear on fm stereo radio 2 on medium"
+    },
+    {
+      "start": 6974.0,
+      "end": 6985.1,
+      "text": "wave the radio 1 news i wish you a truly excellent weekend if you're driving do take care and take"
+    },
+    {
+      "start": 6985.1,
+      "end": 6990.3,
+      "text": "care of yourself from all of us on the music side of radio 1 my name is tommy vance god bless good"
     }
   ]
 }

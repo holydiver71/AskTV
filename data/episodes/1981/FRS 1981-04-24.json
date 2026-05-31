@@ -36,12 +36,14 @@
     {
       "artist": "Pink Floyd",
       "track": "Nobody Home",
-      "details": "2xLP-The Wall; Harvest"
+      "details": "2xLP-The Wall; Harvest",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Witchfynde",
       "track": "'Give 'Em Hell'",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 4203.28
     },
     {
       "artist": "Rose Tattoo",
@@ -51,7 +53,8 @@
     {
       "artist": "Rory Gallagher",
       "track": "Hands Off",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1548.56
     },
     {
       "artist": "Rory Gallagher",
@@ -66,7 +69,8 @@
     {
       "artist": "Eagles",
       "track": "Desperado",
-      "details": "2xLP-Eagles Live; Elektra"
+      "details": "2xLP-Eagles Live; Elektra",
+      "verified_timestamp": 2822.75
     },
     {
       "artist": "Witchfynde",
@@ -76,12 +80,14 @@
     {
       "artist": "Gillan",
       "track": "Bite The Bullet",
-      "details": "LP-Future Shock; Virgin"
+      "details": "LP-Future Shock; Virgin",
+      "verified_timestamp": 2962.19
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.78
     },
     {
       "artist": "Witchfynde",
@@ -91,7 +97,8 @@
     {
       "artist": "Overdrive",
       "track": "Nightmare",
-      "details": "7\"-Overdrive EP; Boring Grantham"
+      "details": "7\"-Overdrive EP; Boring Grantham",
+      "verified_timestamp": 4636.77
     },
     {
       "artist": "Rory Gallagher",
@@ -106,12 +113,14 @@
     {
       "artist": "Export",
       "track": "You Gotta Rock",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 610.65
     },
     {
       "artist": "Caravan",
       "track": "Keeping Up De Fences",
-      "details": "7\""
+      "details": "7\"",
+      "verified_timestamp": 5899.58
     },
     {
       "artist": "Bruford",
@@ -126,7 +135,8 @@
     {
       "artist": "Sammy Hagar",
       "track": "Young Girl Blues",
-      "details": "LP-All Night Long; Capitol"
+      "details": "LP-All Night Long; Capitol",
+      "verified_timestamp": 6517.74
     }
   ],
   "transcript": [

@@ -21,7 +21,8 @@
     {
       "artist": "Black Sabbath",
       "track": "Die Young",
-      "details": "LP-Heaven And Hell; Vertigo"
+      "details": "LP-Heaven And Hell; Vertigo",
+      "verified_timestamp": 673.17
     },
     {
       "artist": "Robert Plant",
@@ -31,32 +32,38 @@
     {
       "artist": "Battleaxe",
       "track": "Ready To Deliver",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 699.31
     },
     {
       "artist": "Wildlife",
       "track": "Taking A Chance",
-      "details": "LP-Wildlife; Swan Song"
+      "details": "LP-Wildlife; Swan Song",
+      "verified_timestamp": 1187.75
     },
     {
       "artist": "Lone Star",
       "track": "Hypnotic Mover",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 697.07
     },
     {
       "artist": "Tank",
       "track": "This Means War",
-      "details": "LP-This Means War; Music For Nations"
+      "details": "LP-This Means War; Music For Nations",
+      "verified_timestamp": 2458.76
     },
     {
       "artist": "Stampede",
       "track": "Hurricane Town",
-      "details": "LP-Hurricane Town; Polydor"
+      "details": "LP-Hurricane Town; Polydor",
+      "verified_timestamp": 1710.02
     },
     {
       "artist": "Thin Lizzy",
       "track": "The Sun Goes Down",
-      "details": "LP-Thunder And Lightning; Vertigo"
+      "details": "LP-Thunder And Lightning; Vertigo",
+      "verified_timestamp": 3038.84
     },
     {
       "artist": "Battleaxe",
@@ -66,22 +73,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3043.92
     },
     {
       "artist": "Crosby, Stills & Nash",
       "track": "Barrel Of Pain",
-      "details": "LP-Allies; Atlantic"
+      "details": "LP-Allies; Atlantic",
+      "verified_timestamp": 4710.49
     },
     {
       "artist": "Gary Moore",
       "track": "White Knuckles",
-      "details": "LP-Rockin’ Every Night - Live In Japan; Virgin"
+      "details": "LP-Rockin’ Every Night - Live In Japan; Virgin",
+      "verified_timestamp": 4747.67
     },
     {
       "artist": "Gary Moore",
       "track": "Rockin’ And Rollin’",
-      "details": "LP-Rockin’ Every Night - Live in Japan; Virgin"
+      "details": "LP-Rockin’ Every Night - Live in Japan; Virgin",
+      "verified_timestamp": 4753.15
     },
     {
       "artist": "Battleaxe",
@@ -91,7 +102,8 @@
     {
       "artist": "Robin Trower",
       "track": "River",
-      "details": "LP-Back It Up; Chrysalis"
+      "details": "LP-Back It Up; Chrysalis",
+      "verified_timestamp": 673.17
     },
     {
       "artist": "Lone Star",
@@ -106,7 +118,8 @@
     {
       "artist": "Ground Zerø",
       "track": "The Electric Palace",
-      "details": "LP-Ground Zerø; demo"
+      "details": "LP-Ground Zerø; demo",
+      "verified_timestamp": 5853.34
     },
     {
       "artist": "Battleaxe",
@@ -116,7 +129,8 @@
     {
       "artist": "Sammy Hagar",
       "track": "Young Girl Blues",
-      "details": "LP-Nine On A Ten Scale; Capitol"
+      "details": "LP-Nine On A Ten Scale; Capitol",
+      "verified_timestamp": 6598.39
     }
   ],
   "transcript": [

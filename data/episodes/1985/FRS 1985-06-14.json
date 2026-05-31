@@ -23,22 +23,26 @@
     {
       "artist": "Ratt",
       "track": "Lay It Down",
-      "details": "12\"; Atlantic"
+      "details": "12\"; Atlantic",
+      "verified_timestamp": 1.1
     },
     {
       "artist": "Lyin' Rampant",
       "track": "Time Again",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 532.6
     },
     {
       "artist": "Pet Hate",
       "track": "Cry Of The Wild",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 539.44
     },
     {
       "artist": "Marillion",
       "track": "Blind Curve",
-      "details": "LP-Misplaced Childhood; EMI"
+      "details": "LP-Misplaced Childhood; EMI",
+      "verified_timestamp": 1142.12
     },
     {
       "artist": "Trash",

@@ -38,7 +38,8 @@
     {
       "artist": "Def Leppard",
       "track": "Lady Strange",
-      "details": "LP-High N Dry; Vertigo"
+      "details": "LP-High N Dry; Vertigo",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Be Bop Deluxe",
@@ -48,7 +49,8 @@
     {
       "artist": "Handsome Beasts",
       "track": "Local Heroes",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 3467.23
     },
     {
       "artist": "Handsome Beasts",
@@ -68,7 +70,8 @@
     {
       "artist": "Z Z Top",
       "track": "I Wanna Drive You Home",
-      "details": "LP-El Loco; Warner Bros."
+      "details": "LP-El Loco; Warner Bros.",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": null,
@@ -83,12 +86,14 @@
     {
       "artist": "Lynyrd Skynyrd",
       "track": "Freebird",
-      "details": "LP-Pronounced; MCA"
+      "details": "LP-Pronounced; MCA",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Handsome Beasts",
       "track": "Another Day",
-      "details": "FRS session 1981-06-24"
+      "details": "FRS session 1981-06-24",
+      "verified_timestamp": 3467.23
     }
   ],
   "transcript": [

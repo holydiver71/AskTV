@@ -18,57 +18,68 @@
     {
       "artist": "Status Quo",
       "track": "Break The Rules",
-      "details": "LP-Quo; Vertigo"
+      "details": "LP-Quo; Vertigo",
+      "verified_timestamp": 0.0
     },
     {
       "artist": "Warlock",
       "track": "Down And Out",
-      "details": "LP-Hellbound; Phonogram"
+      "details": "LP-Hellbound; Phonogram",
+      "verified_timestamp": 462.1
     },
     {
       "artist": "Tara Zara",
       "track": "Hold Me Tonight",
-      "details": "FRS session 1985-06-07"
+      "details": "FRS session 1985-06-07",
+      "verified_timestamp": 517.31
     },
     {
       "artist": "Demon",
       "track": "Wonderland",
-      "details": "7\" Single; Clay"
+      "details": "7\" Single; Clay",
+      "verified_timestamp": 972.67
     },
     {
       "artist": "Y&T",
       "track": "Go For The Throat",
-      "details": "LP-Open Fire; A&M"
+      "details": "LP-Open Fire; A&M",
+      "verified_timestamp": 1559.84
     },
     {
       "artist": "Legs Diamond",
       "track": "Out On Bail",
-      "details": "LP-Out On Bail; Music For Nations"
+      "details": "LP-Out On Bail; Music For Nations",
+      "verified_timestamp": 1545.6
     },
     {
       "artist": "Yes",
       "track": "Going For The One",
-      "details": "LP-Going For The One; Atlantic"
+      "details": "LP-Going For The One; Atlantic",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Phenomena",
       "track": "Dance With The Devil",
-      "details": "LP-Phenomena; Bronze"
+      "details": "LP-Phenomena; Bronze",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Blitzkrieg",
       "track": "Ragnarok",
-      "details": "LP-Time Of Changes; Neat"
+      "details": "LP-Time Of Changes; Neat",
+      "verified_timestamp": 2870.37
     },
     {
       "artist": "Blitzkrieg",
       "track": "Inferno",
-      "details": "LP-Time Of Changes; Neat"
+      "details": "LP-Time Of Changes; Neat",
+      "verified_timestamp": 2870.37
     },
     {
       "artist": "Silver Mountain",
       "track": "Call Of The Lords",
-      "details": "LP-Universe; Roadrunner"
+      "details": "LP-Universe; Roadrunner",
+      "verified_timestamp": 2834.33
     },
     {
       "artist": "Tara Zara",
@@ -78,27 +89,32 @@
     {
       "artist": "Angel Witch",
       "track": "Goodbye",
-      "details": "7\" Single; Killerwatt"
+      "details": "7\" Single; Killerwatt",
+      "verified_timestamp": 3345.16
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4474.98
     },
     {
       "artist": "Steve Miller Band",
       "track": "Going To The Country",
-      "details": "LP-Number 5; Capitol"
+      "details": "LP-Number 5; Capitol",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": "Flying Burrito Bros",
       "track": "'Hot Burrito #2' (LP-Last Of The Red Hot Burritos) (A&M). Although TV said he was going to play Hot Burrito #2, he actually played Hot Burrito #1.",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4460.21
     },
     {
       "artist": "Little Feat",
       "track": "Cold Cold Cold / Tripe Face Boogie",
-      "details": "LP-Feats Don't Fail Me Now; Warner Bros"
+      "details": "LP-Feats Don't Fail Me Now; Warner Bros",
+      "verified_timestamp": 3960.0
     },
     {
       "artist": "Tara Zara",
@@ -108,7 +124,8 @@
     {
       "artist": "Motley Crue",
       "track": "Home Sweet Home",
-      "details": "LP-Theatre Of Pain; Elektra"
+      "details": "LP-Theatre Of Pain; Elektra",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Marillion",
@@ -118,17 +135,20 @@
     {
       "artist": "Rage",
       "track": "Cry From A Hill",
-      "details": "LP-Run For The Night; Carrere"
+      "details": "LP-Run For The Night; Carrere",
+      "verified_timestamp": 5238.92
     },
     {
       "artist": "Ratt",
       "track": "Give It All",
-      "details": "LP-Invasion Of Your Privacy; Atlantic"
+      "details": "LP-Invasion Of Your Privacy; Atlantic",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "AC / DC",
       "track": "Send For The Man",
-      "details": "LP-Fly On The Wall; Atlantic"
+      "details": "LP-Fly On The Wall; Atlantic",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": "Lee Aaron",

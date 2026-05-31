@@ -21,27 +21,32 @@
     {
       "artist": "Black Sabbath",
       "track": "Neon Knights",
-      "details": "LP-Heaven And Hell; Vertigo"
+      "details": "LP-Heaven And Hell; Vertigo",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Prodigal Son",
-      "details": "LP-Killers; EMI"
+      "details": "LP-Killers; EMI",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Tommy Bolin",
       "track": "Post Toastie",
-      "details": "LP-Private Eyes; Columbia"
+      "details": "LP-Private Eyes; Columbia",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Witchfynde",
       "track": "Getting Heavy",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 775.21
     },
     {
       "artist": "Frampton's Camel",
       "track": "'It's A Plain Shame'",
-      "details": "Bob Harris session"
+      "details": "Bob Harris session",
+      "verified_timestamp": 1644.1
     },
     {
       "artist": "Frampton's Camel",
@@ -51,17 +56,20 @@
     {
       "artist": "Grace Slick",
       "track": "The Sea Of Love",
-      "details": "LP-Welcome To The Wrecking Ball; RCA Victor"
+      "details": "LP-Welcome To The Wrecking Ball; RCA Victor",
+      "verified_timestamp": 2944.23
     },
     {
       "artist": "Dire Straits",
       "track": "Skateaway",
-      "details": "LP-Making Movies; Vertigo"
+      "details": "LP-Making Movies; Vertigo",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Bob Dylan",
       "track": "Subterranean Homesick Blues",
-      "details": "LP-Bringing It All Back Home; Columbia"
+      "details": "LP-Bringing It All Back Home; Columbia",
+      "verified_timestamp": 3060.0
     },
     {
       "artist": "Witchfynde",
@@ -71,17 +79,20 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 67.67
     },
     {
       "artist": "Todd Rundgren",
       "track": "Healing",
-      "details": "LP-Healing; Bearsville"
+      "details": "LP-Healing; Bearsville",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "David Gilmour",
       "track": "Short And Sweet",
-      "details": "LP-David Gilmour; Harvest"
+      "details": "LP-David Gilmour; Harvest",
+      "verified_timestamp": 4680.0
     },
     {
       "artist": "Witchfynde",

@@ -244,15 +244,25 @@ def main():
         base = Path(args.episodes_dir)
         out_path = Path(args.output)
         out_path.parent.mkdir(parents=True, exist_ok=True)
-        # Process episode-by-episode and write incremental output when verbose
-        for fn in sorted(base.rglob("*.json")):
+        # Process episode-by-episode and write incremental output so user sees progress
+        files = sorted(base.rglob("*.json"))
+        total = len(files)
+        if total == 0:
+            print(f"No episode JSON files found in {base}")
+            raise SystemExit(2)
+        print(f"Found {total} episode files under {base}; starting checks...")
+        for i, fn in enumerate(files, start=1):
+            start_t = time.time()
+            print(f"[{i}/{total}] Processing: {fn}", flush=True)
             episode_flags = process_episode_file(fn, token, write_back=args.write, verbose=args.verbose)
             out.extend(episode_flags)
-            if args.verbose:
-                # write incremental report so user sees progress
-                with out_path.open("w", encoding="utf-8") as fh:
-                    json.dump(out, fh, ensure_ascii=False, indent=2)
-                print(f"Wrote incremental report ({len(out)} flags) to {out_path}", flush=True)
+            elapsed = time.time() - start_t
+            print(f"[{i}/{total}] Done: {fn} — found {len(episode_flags)} flag(s) — {elapsed:.1f}s", flush=True)
+
+            # write incremental report after each file so progress is visible
+            with out_path.open("w", encoding="utf-8") as fh:
+                json.dump(out, fh, ensure_ascii=False, indent=2)
+            print(f"Wrote incremental report ({len(out)} flags) to {out_path}", flush=True)
 
     out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)

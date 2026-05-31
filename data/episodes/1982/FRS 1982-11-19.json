@@ -22,12 +22,14 @@
     {
       "artist": "09",
       "track": "AC/DC: Whole Lotta Rosie",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "08",
       "track": "Pink Floyd: Shine On You Crazy Diamond",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "07",

@@ -26,12 +26,14 @@
     {
       "artist": "Girlschool",
       "track": "Kick It Down",
-      "details": "LP-Hit & Run; Bronze"
+      "details": "LP-Hit & Run; Bronze",
+      "verified_timestamp": 463.96
     },
     {
       "artist": "Yardbirds",
       "track": "'Mister You're A Better Man Than I'",
-      "details": "1965 Session"
+      "details": "1965 Session",
+      "verified_timestamp": 525.07
     },
     {
       "artist": "Yardbirds",
@@ -41,22 +43,26 @@
     {
       "artist": "Xero",
       "track": "Lone Wolf",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 509.11
     },
     {
       "artist": "Thin Lizzy",
       "track": "Bad Reputation",
-      "details": "7\"-Killers Live; Vertigo"
+      "details": "7\"-Killers Live; Vertigo",
+      "verified_timestamp": 1486.59
     },
     {
       "artist": "Tangerine Dream",
       "track": "Igneous",
-      "details": "LP-Thief; Virgin"
+      "details": "LP-Thief; Virgin",
+      "verified_timestamp": 2090.29
     },
     {
       "artist": "Spirit",
       "track": "Donut House",
-      "details": "LP-The Adventures Of Kaptain Kopter & Commander Cassidy In Potato Land; Beggars Banquet"
+      "details": "LP-The Adventures Of Kaptain Kopter & Commander Cassidy In Potato Land; Beggars Banquet",
+      "verified_timestamp": 2062.06
     },
     {
       "artist": "Xero",
@@ -71,7 +77,8 @@
     {
       "artist": "Yardbirds",
       "track": "Dust My Blues",
-      "details": "Feb 1966 Session"
+      "details": "Feb 1966 Session",
+      "verified_timestamp": 525.07
     },
     {
       "artist": "Yardbirds",
@@ -86,17 +93,20 @@
     {
       "artist": "Wild Horses",
       "track": "Miami Justice",
-      "details": "LP-Stand Your Ground; EMI"
+      "details": "LP-Stand Your Ground; EMI",
+      "verified_timestamp": 3850.88
     },
     {
       "artist": "Styx",
       "track": "Too Much Time On My Hands",
-      "details": "7\"; A&M"
+      "details": "7\"; A&M",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 58.06
     },
     {
       "artist": "Xero",
@@ -106,22 +116,26 @@
     {
       "artist": "REO Speedwagon",
       "track": "Follow My Heart",
-      "details": "LP-Hi Infidelity; Epic"
+      "details": "LP-Hi Infidelity; Epic",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Wishbone Ash",
       "track": "Number The Brave",
-      "details": "LP-Number The Brave; MCA"
+      "details": "LP-Number The Brave; MCA",
+      "verified_timestamp": 6013.26
     },
     {
       "artist": "Santana",
       "track": "Winning",
-      "details": "LP-Zebop!; Columbia"
+      "details": "LP-Zebop!; Columbia",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Yardbirds",
       "track": "The Sun Is Shining",
-      "details": "May 1966 Session"
+      "details": "May 1966 Session",
+      "verified_timestamp": 525.07
     },
     {
       "artist": "Yardbirds",
@@ -136,7 +150,8 @@
     {
       "artist": "Jefferson Starship",
       "track": "Save Your Love",
-      "details": "LP-Modern Times; Grunt"
+      "details": "LP-Modern Times; Grunt",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

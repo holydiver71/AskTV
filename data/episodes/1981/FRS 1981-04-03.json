@@ -21,17 +21,20 @@
     {
       "artist": "Saxon",
       "track": "And The Bands Played On",
-      "details": "7\"; Carrere"
+      "details": "7\"; Carrere",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Girlschool",
       "track": "Hit And Run",
-      "details": "10\"; Bronze"
+      "details": "10\"; Bronze",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Robin Trower",
       "track": "In This Place",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 486.58
     },
     {
       "artist": "Robin Trower",
@@ -41,27 +44,32 @@
     {
       "artist": "Roger Taylor",
       "track": "Magic Is Loose",
-      "details": "LP-Roger Taylor's Fun In Space; EMI"
+      "details": "LP-Roger Taylor's Fun In Space; EMI",
+      "verified_timestamp": 1032.86
     },
     {
       "artist": "Roger Taylor",
       "track": "Fun In Space",
-      "details": "LP-Roger Taylor's Fun In Space; EMI"
+      "details": "LP-Roger Taylor's Fun In Space; EMI",
+      "verified_timestamp": 1628.36
     },
     {
       "artist": "Cryer",
       "track": "Spaces",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1684.86
     },
     {
       "artist": "More",
       "track": "Depression",
-      "details": "LP-Warhead; Atlantic"
+      "details": "LP-Warhead; Atlantic",
+      "verified_timestamp": 2211.92
     },
     {
       "artist": "April Wine",
       "track": "Just Between You And Me",
-      "details": "LP-The Nature Of The Beast; Capitol"
+      "details": "LP-The Nature Of The Beast; Capitol",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Praying Mantis",
@@ -81,22 +89,26 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 71.47
     },
     {
       "artist": "Gillan",
       "track": "Future Shock",
-      "details": "LP-Future Shock; Virgin"
+      "details": "LP-Future Shock; Virgin",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Gillan",
       "track": "If I Sing Softly",
-      "details": "LP-Future Shock; Virgin"
+      "details": "LP-Future Shock; Virgin",
+      "verified_timestamp": 4935.42
     },
     {
       "artist": "Last Flight",
       "track": "Dance To The Music",
-      "details": "7\"; Heavy Metal"
+      "details": "7\"; Heavy Metal",
+      "verified_timestamp": 5548.29
     },
     {
       "artist": "Cryer",
@@ -116,12 +128,14 @@
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Gangland",
-      "details": "LP-Spellbound; MCA"
+      "details": "LP-Spellbound; MCA",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Mirror",
-      "details": "LP-Spellbound; MCA"
+      "details": "LP-Spellbound; MCA",
+      "verified_timestamp": 6656.87
     },
     {
       "artist": "Cryer",
@@ -131,7 +145,8 @@
     {
       "artist": "Trevor Rabin",
       "track": "Take Me To A Party",
-      "details": "7\"; Chrysalis"
+      "details": "7\"; Chrysalis",
+      "verified_timestamp": 7142.4
     }
   ],
   "transcript": [

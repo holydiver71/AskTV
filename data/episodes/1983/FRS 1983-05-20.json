@@ -36,12 +36,14 @@
     {
       "artist": "Severed Head",
       "track": "God of my father",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 887.54
     },
     {
       "artist": "Motörhead",
       "track": "Tear ya down",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1264.86
     },
     {
       "artist": "Motörhead",
@@ -81,7 +83,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 61.86
     },
     {
       "artist": "Stampede",

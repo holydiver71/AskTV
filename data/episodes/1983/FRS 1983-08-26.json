@@ -21,17 +21,20 @@
     {
       "artist": "AC/DC",
       "track": "Rock N' Roll Ain't No Pollution",
-      "details": "LP - Back In Black"
+      "details": "LP - Back In Black",
+      "verified_timestamp": 546.62
     },
     {
       "artist": "Def Leppard",
       "track": "Action Not Words",
-      "details": "LP - Pyromania"
+      "details": "LP - Pyromania",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Cloven Hoof",
       "track": "Laying Down The Law",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 6038.62
     },
     {
       "artist": "Manowar",
@@ -41,7 +44,8 @@
     {
       "artist": "Thin Lizzy",
       "track": "Emerald",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1356.4
     },
     {
       "artist": "Thin Lizzy",
@@ -51,17 +55,20 @@
     {
       "artist": "Jackson Browne",
       "track": "On The Day",
-      "details": "LP - Lawyers In Love"
+      "details": "LP - Lawyers In Love",
+      "verified_timestamp": 11.7
     },
     {
       "artist": "Quartz",
       "track": "Too Hot To Handle",
-      "details": "LP - Against All Odds"
+      "details": "LP - Against All Odds",
+      "verified_timestamp": 2321.86
     },
     {
       "artist": "Santana",
       "track": "Samba Pa Ti",
-      "details": "LP - Lotus"
+      "details": "LP - Lotus",
+      "verified_timestamp": 3313.74
     },
     {
       "artist": "Cloven Hoof",
@@ -71,22 +78,26 @@
     {
       "artist": "Virgin Steele",
       "track": "Metal City",
-      "details": "LP - Guardians Of The Flame"
+      "details": "LP - Guardians Of The Flame",
+      "verified_timestamp": 3794.25
     },
     {
       "artist": "Lloyd Langton Group",
       "track": "Wind Of Change",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 3786.47
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 60.28
     },
     {
       "artist": "AC/DC",
       "track": "Nervous Shakedown",
-      "details": "LP - Flick Of The Switch"
+      "details": "LP - Flick Of The Switch",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Cloven Hoof",
@@ -111,7 +122,8 @@
     {
       "artist": "UFO",
       "track": "Only You Can Rock Me",
-      "details": "LP - Headstone: The Best of UFO"
+      "details": "LP - Headstone: The Best of UFO",
+      "verified_timestamp": 6660.0
     }
   ],
   "transcript": [

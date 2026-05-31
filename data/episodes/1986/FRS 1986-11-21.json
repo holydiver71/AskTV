@@ -18,22 +18,26 @@
     {
       "artist": "Mass",
       "track": "Eternal Warrior",
-      "details": "LP-Kick Your Ass!; GVR"
+      "details": "LP-Kick Your Ass!; GVR",
+      "verified_timestamp": 581.45
     },
     {
       "artist": "Nuclear Assault",
       "track": "Betrayal",
-      "details": "LP-Game Over; Under One Flag"
+      "details": "LP-Game Over; Under One Flag",
+      "verified_timestamp": 551.31
     },
     {
       "artist": "Iron Maiden",
       "track": "That Girl",
-      "details": "12\"-Stranger In A Strange Land; EMI"
+      "details": "12\"-Stranger In A Strange Land; EMI",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Iron Maiden",
       "track": "Juanita",
-      "details": "12\"-Stranger In A Strange Land; EMI"
+      "details": "12\"-Stranger In A Strange Land; EMI",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Vow Wow",
@@ -43,42 +47,50 @@
     {
       "artist": "Vow Wow",
       "track": "Too Late To Turn Back",
-      "details": "LP-Live; Eastworld"
+      "details": "LP-Live; Eastworld",
+      "verified_timestamp": 1850.01
     },
     {
       "artist": "Accüsed",
       "track": "Buried Alive",
-      "details": "LP-The Return Of...Martha Splatterhead; Earache"
+      "details": "LP-The Return Of...Martha Splatterhead; Earache",
+      "verified_timestamp": 1895.64
     },
     {
       "artist": "Q5",
       "track": "Steel The Light",
-      "details": "2x Compilation LP-The Singles Album; Music For Nations"
+      "details": "2x Compilation LP-The Singles Album; Music For Nations",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Bad Company",
       "track": "Burning Up",
-      "details": "LP-Fame And Fortune; Atlantic"
+      "details": "LP-Fame And Fortune; Atlantic",
+      "verified_timestamp": 3022.1
     },
     {
       "artist": "Jack Starr's Burning Starr",
       "track": "Run For Your Life",
-      "details": "LP-No Turning Back; Cobra"
+      "details": "LP-No Turning Back; Cobra",
+      "verified_timestamp": 3022.1
     },
     {
       "artist": "Gary Moore",
       "track": "Over The Hills And Far Away",
-      "details": "7\"; 10"
+      "details": "7\"; 10",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Bon Jovi",
       "track": "Runaway",
-      "details": "CD-Bon Jovi; Mercury"
+      "details": "CD-Bon Jovi; Mercury",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Angel Dust",
       "track": "Gambler",
-      "details": "LP-Into The Dark Past; Disaster"
+      "details": "LP-Into The Dark Past; Disaster",
+      "verified_timestamp": 3602.35
     },
     {
       "artist": null,
@@ -88,7 +100,1290 @@
     {
       "artist": "Led Zeppelin",
       "track": "Stairway To Heaven",
-      "details": "LP-The Soundtrack From The Film The Song Remains The Same; Swan Song"
+      "details": "LP-The Soundtrack From The Film The Song Remains The Same; Swan Song",
+      "verified_timestamp": 6480.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.98,
+      "end": 8.7,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 8.7,
+      "end": 33.14,
+      "text": "This is TV on the Radio, Thomas Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 33.14,
+      "end": 42.56,
+      "text": "At about 11 minutes past, let's get that right, about 8 minutes past 11, the Friday Rock Show is going to bring you some really good concert material."
+    },
+    {
+      "start": 42.56,
+      "end": 46.56,
+      "text": "We have a band who are at Reading this year who are called The Outlaws."
+    },
+    {
+      "start": 46.56,
+      "end": 61.05,
+      "text": "And we've got some new stuff from"
+    },
+    {
+      "start": 61.05,
+      "end": 63.15,
+      "text": "Vow Wow, Bad Company, Jack Star"
+    },
+    {
+      "start": 63.15,
+      "end": 65.75,
+      "text": "Accused, Mass and Nuclear Assault"
+    },
+    {
+      "start": 65.75,
+      "end": 69.09,
+      "text": "Also got the two tracks that are on the B-side"
+    },
+    {
+      "start": 69.09,
+      "end": 70.41,
+      "text": "Of Iron Maiden's 12 Incher"
+    },
+    {
+      "start": 70.41,
+      "end": 71.67,
+      "text": "A classic from Bon Jovi"
+    },
+    {
+      "start": 71.67,
+      "end": 73.65,
+      "text": "And a great track by Angel Dust"
+    },
+    {
+      "start": 73.65,
+      "end": 75.97,
+      "text": "Don't forget, 8 minutes past 11"
+    },
+    {
+      "start": 75.97,
+      "end": 77.09,
+      "text": "The Outlaws, tonight"
+    },
+    {
+      "start": 77.09,
+      "end": 81.34,
+      "text": "And it was 8 years ago tonight"
+    },
+    {
+      "start": 81.34,
+      "end": 82.74,
+      "text": "That we started the Friday Rock Show"
+    },
+    {
+      "start": 82.74,
+      "end": 84.68,
+      "text": "This is our 8th birthday program"
+    },
+    {
+      "start": 84.68,
+      "end": 86.14,
+      "text": "Thank you for listening"
+    },
+    {
+      "start": 86.14,
+      "end": 546.19,
+      "text": "Here on the Under One Flag label"
+    },
+    {
+      "start": 546.19,
+      "end": 547.77,
+      "text": "And they're called Nuclear Assault"
+    },
+    {
+      "start": 547.77,
+      "end": 549.71,
+      "text": "Played a track from the album, I think it was last week as well."
+    },
+    {
+      "start": 550.13,
+      "end": 551.23,
+      "text": "The album's called Game Over."
+    },
+    {
+      "start": 551.31,
+      "end": 552.83,
+      "text": "The track you heard was entitled Betrayal."
+    },
+    {
+      "start": 552.87,
+      "end": 554.65,
+      "text": "If you're going to New York this weekend or next week,"
+    },
+    {
+      "start": 554.69,
+      "end": 556.69,
+      "text": "you can catch them, because they're gigging all over New York."
+    },
+    {
+      "start": 557.21,
+      "end": 559.15,
+      "text": "If you've got the money, or if you've got somebody who's got the money,"
+    },
+    {
+      "start": 559.33,
+      "end": 560.67,
+      "text": "get your ticket and get out there."
+    },
+    {
+      "start": 561.13,
+      "end": 562.97,
+      "text": "Before that, you heard a band called Mass."
+    },
+    {
+      "start": 563.05,
+      "end": 564.77,
+      "text": "One of two bands, I know, with the same name."
+    },
+    {
+      "start": 565.25,
+      "end": 566.63,
+      "text": "The other, Mass, come from Massachusetts."
+    },
+    {
+      "start": 566.83,
+      "end": 568.81,
+      "text": "This lot come from Germany, formed in 1978,"
+    },
+    {
+      "start": 568.99,
+      "end": 570.47,
+      "text": "put their first album out in 1980."
+    },
+    {
+      "start": 570.93,
+      "end": 573.05,
+      "text": "It's on the GVR record label."
+    },
+    {
+      "start": 573.05,
+      "end": 574.17,
+      "text": "That is an import."
+    },
+    {
+      "start": 574.77,
+      "end": 577.33,
+      "text": "Kick your, well, let's use the anglicization here,"
+    },
+    {
+      "start": 577.33,
+      "end": 580.59,
+      "text": "Kick Your Backside, or if you like, Your Bottom, is the name of the album."
+    },
+    {
+      "start": 580.79,
+      "end": 581.41,
+      "text": "I'm sure you know what I mean."
+    },
+    {
+      "start": 581.45,
+      "end": 583.31,
+      "text": "The track here was called Eternal Warrior."
+    },
+    {
+      "start": 583.81,
+      "end": 585.41,
+      "text": "It's eleven and a half, but it's past ten."
+    },
+    {
+      "start": 585.47,
+      "end": 587.35,
+      "text": "The Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 587.43,
+      "end": 593.23,
+      "text": "Victor Thurling of Louth in Lincolnshire wants me to say hello to a mate of his who was 17 yesterday,"
+    },
+    {
+      "start": 593.81,
+      "end": 597.59,
+      "text": "who calls himself Roscoe, Roscoe, of R.E.F. Waddington."
+    },
+    {
+      "start": 598.23,
+      "end": 602.93,
+      "text": "Also, Vic says a mention for Chris and Jammie and Ben, the Venom fan with the R.D."
+    },
+    {
+      "start": 602.93,
+      "end": 606.13,
+      "text": "Mark and Scott keep taking the tablets, mate Martin"
+    },
+    {
+      "start": 606.13,
+      "end": 607.49,
+      "text": "And all the lads from Scotland"
+    },
+    {
+      "start": 607.49,
+      "end": 609.43,
+      "text": "And also a special hello to a lady called Judy"
+    },
+    {
+      "start": 609.43,
+      "end": 611.21,
+      "text": "Who is a new metal fan"
+    },
+    {
+      "start": 611.21,
+      "end": 612.49,
+      "text": "Regards there from Vic"
+    },
+    {
+      "start": 612.49,
+      "end": 614.13,
+      "text": "Wilbur Foss in York"
+    },
+    {
+      "start": 614.13,
+      "end": 615.53,
+      "text": "This little letter comes from"
+    },
+    {
+      "start": 615.53,
+      "end": 616.83,
+      "text": "It comes from Simon Snowden"
+    },
+    {
+      "start": 616.83,
+      "end": 618.09,
+      "text": "Hello to my girlfriend, he says"
+    },
+    {
+      "start": 618.09,
+      "end": 618.93,
+      "text": "Jane Moorcroft"
+    },
+    {
+      "start": 618.93,
+      "end": 619.63,
+      "text": "Hello"
+    },
+    {
+      "start": 619.63,
+      "end": 620.87,
+      "text": "Tell her that I love her lots"
+    },
+    {
+      "start": 620.87,
+      "end": 621.91,
+      "text": "I'm missing her very much"
+    },
+    {
+      "start": 621.91,
+      "end": 623.61,
+      "text": "She's away working in Greece"
+    },
+    {
+      "start": 623.61,
+      "end": 624.99,
+      "text": "But I'll see her on Saturday"
+    },
+    {
+      "start": 624.99,
+      "end": 625.85,
+      "text": "You lucky boy"
+    },
+    {
+      "start": 625.85,
+      "end": 627.47,
+      "text": "I think I should have gone out last week"
+    },
+    {
+      "start": 627.47,
+      "end": 629.31,
+      "text": "Also, hello to Gavin Barrett"
+    },
+    {
+      "start": 629.31,
+      "end": 631.01,
+      "text": "Who had a birthday last week"
+    },
+    {
+      "start": 631.71,
+      "end": 633.83,
+      "text": "Regards from everybody from Ivy Bank."
+    },
+    {
+      "start": 633.99,
+      "end": 635.23,
+      "text": "The letter sent in by Keith."
+    },
+    {
+      "start": 635.69,
+      "end": 635.95,
+      "text": "Dad."
+    },
+    {
+      "start": 636.33,
+      "end": 636.81,
+      "text": "No problem."
+    },
+    {
+      "start": 637.43,
+      "end": 637.67,
+      "text": "Right."
+    },
+    {
+      "start": 638.01,
+      "end": 639.65,
+      "text": "I think a couple of Iron Maidens."
+    },
+    {
+      "start": 639.83,
+      "end": 640.31,
+      "text": "What do you reckon?"
+    },
+    {
+      "start": 641.03,
+      "end": 1175.94,
+      "text": "Both the tracks you've heard there are on the B side of the 12-incher of Iron Maidens' latest single."
+    },
+    {
+      "start": 1176.08,
+      "end": 1177.26,
+      "text": "Juanita was the track you heard."
+    },
+    {
+      "start": 1177.34,
+      "end": 1178.66,
+      "text": "That was called Juanita."
+    },
+    {
+      "start": 1178.82,
+      "end": 1179.48,
+      "text": "I just said that."
+    },
+    {
+      "start": 1179.62,
+      "end": 1180.68,
+      "text": "Oh, I won't bother to say it again."
+    },
+    {
+      "start": 1181.02,
+      "end": 1181.7,
+      "text": "By Iron Maiden."
+    },
+    {
+      "start": 1181.88,
+      "end": 1183.92,
+      "text": "And that girl was before Juanita."
+    },
+    {
+      "start": 1184.52,
+      "end": 1187.98,
+      "text": "That's on the A side and the B side rather of the 7-incher."
+    },
+    {
+      "start": 1188.16,
+      "end": 1189.76,
+      "text": "Stick around and get it right one of these days."
+    },
+    {
+      "start": 1189.82,
+      "end": 1190.92,
+      "text": "I've only been doing it for eight years."
+    },
+    {
+      "start": 1191.32,
+      "end": 1194.78,
+      "text": "It's now ten, twenty and a half, approximately."
+    },
+    {
+      "start": 1194.96,
+      "end": 1197.94,
+      "text": "Say hello, a big hello to all the Cardiff Mosh artists."
+    },
+    {
+      "start": 1198.38,
+      "end": 1198.68,
+      "text": "Really?"
+    },
+    {
+      "start": 1199.38,
+      "end": 1201.54,
+      "text": "Especially Al and Buck and Smitty and Nigel."
+    },
+    {
+      "start": 1201.7,
+      "end": 1205.28,
+      "text": "Also a huge hello to Alexia, because I love her."
+    },
+    {
+      "start": 1205.92,
+      "end": 1209.46,
+      "text": "And I didn't mind getting down on one knee, even if it was in the pub."
+    },
+    {
+      "start": 1209.54,
+      "end": 1210.72,
+      "text": "I'd do anything for a drink, wouldn't you?"
+    },
+    {
+      "start": 1210.96,
+      "end": 1212.3,
+      "text": "That was from the Cookie Monster."
+    },
+    {
+      "start": 1212.6,
+      "end": 1214.12,
+      "text": "Oh, no, Cookie Monster, I prefer animals."
+    },
+    {
+      "start": 1214.6,
+      "end": 1216.14,
+      "text": "Reminds me after a good night down the pub."
+    },
+    {
+      "start": 1216.56,
+      "end": 1219.02,
+      "text": "Hello to all the rivet heads of Wimborne as well,"
+    },
+    {
+      "start": 1219.02,
+      "end": 1223.02,
+      "text": "Especially Rob, the Iron Maiden fan, who's now got a big grin because he's heard two tracks."
+    },
+    {
+      "start": 1223.36,
+      "end": 1228.68,
+      "text": "Also Burgess, who is a dedicated rocker from Headbanger Hill, Wimborne in Dorset."
+    },
+    {
+      "start": 1228.86,
+      "end": 1229.34,
+      "text": "P.S."
+    },
+    {
+      "start": 1230.1,
+      "end": 1232.12,
+      "text": "Tell Barty to do his English homework."
+    },
+    {
+      "start": 1232.54,
+      "end": 1235.24,
+      "text": "And tell Lee to get his hair cut."
+    },
+    {
+      "start": 1236.52,
+      "end": 1238.34,
+      "text": "Oi. Oi, mate. Yeah, you."
+    },
+    {
+      "start": 1238.8,
+      "end": 1240.14,
+      "text": "Come here. Come a bit closer."
+    },
+    {
+      "start": 1241.25,
+      "end": 1244.55,
+      "text": "How would you like some really good sounds, eh?"
+    },
+    {
+      "start": 1244.85,
+      "end": 1246.39,
+      "text": "Yeah. No kidding, mate."
+    },
+    {
+      "start": 1246.55,
+      "end": 1248.25,
+      "text": "Just take a look under my coat."
+    },
+    {
+      "start": 1249.21,
+      "end": 1254.11,
+      "text": "Or maybe you like some of this."
+    },
+    {
+      "start": 1259.91,
+      "end": 1261.37,
+      "text": "I thought you'd be impressed."
+    },
+    {
+      "start": 1261.73,
+      "end": 1263.39,
+      "text": "Well, you can get a load more of that."
+    },
+    {
+      "start": 1263.55,
+      "end": 1267.47,
+      "text": "Plus, the Impossible Dreamers in session and the Cherry Bombs live."
+    },
+    {
+      "start": 1267.75,
+      "end": 1270.57,
+      "text": "That's Saturday night, 9.30, Radio 1."
+    },
+    {
+      "start": 1270.69,
+      "end": 1272.89,
+      "text": "The Midnight Runner Show."
+    },
+    {
+      "start": 1273.21,
+      "end": 1275.77,
+      "text": "I also got a great line in Radio 1 calendars."
+    },
+    {
+      "start": 1276.11,
+      "end": 1276.71,
+      "text": "Look at that picture."
+    },
+    {
+      "start": 1276.89,
+      "end": 1277.53,
+      "text": "Simon Bass."
+    },
+    {
+      "start": 1277.67,
+      "end": 1277.81,
+      "text": "Oh!"
+    },
+    {
+      "start": 1277.81,
+      "end": 1281.57,
+      "text": "Oh, really? Right, it's 10.23 now."
+    },
+    {
+      "start": 1281.97,
+      "end": 1283.63,
+      "text": "Bit of news here about Iron Maiden."
+    },
+    {
+      "start": 1283.85,
+      "end": 1285.81,
+      "text": "They did that charity gig at the Hammersmith Odeon."
+    },
+    {
+      "start": 1285.89,
+      "end": 1288.99,
+      "text": "It was in the afternoon, the afternoon of Sunday, the 9th,"
+    },
+    {
+      "start": 1289.07,
+      "end": 1293.79,
+      "text": "and the whole thing was for the NSPCC, the lighting people, everybody."
+    },
+    {
+      "start": 1294.15,
+      "end": 1298.07,
+      "text": "I mean, the merchandise, everybody gave every penny that was earned, OK?"
+    },
+    {
+      "start": 1298.07,
+      "end": 1307.33,
+      "text": "And Iron Maiden, on that afternoon, raised £25,531.70p for the NSPCC."
+    },
+    {
+      "start": 1308.13,
+      "end": 1309.77,
+      "text": "Gentlemen, I salute you."
+    },
+    {
+      "start": 1310.99,
+      "end": 1317.03,
+      "text": "This is one of the neighbours from down the street."
+    },
+    {
+      "start": 1317.61,
+      "end": 1320.99,
+      "text": "This racket of this music has been going on all afternoon,"
+    },
+    {
+      "start": 1321.31,
+      "end": 1322.73,
+      "text": "and I'm sick and tired of it."
+    },
+    {
+      "start": 1322.85,
+      "end": 1325.13,
+      "text": "If it doesn't stop, I'm calling the police."
+    },
+    {
+      "start": 1325.47,
+      "end": 1327.17,
+      "text": "Ha! Lady, you think that's loud?"
+    },
+    {
+      "start": 1327.29,
+      "end": 1328.15,
+      "text": "Have a listen to this."
+    },
+    {
+      "start": 1829.33,
+      "end": 1831.57,
+      "text": "I tell you, if I wasn't here working tonight live on the radio,"
+    },
+    {
+      "start": 1831.67,
+      "end": 1832.43,
+      "text": "that's where I would be,"
+    },
+    {
+      "start": 1832.49,
+      "end": 1834.49,
+      "text": "watching that band performing at the Marquee in London."
+    },
+    {
+      "start": 1834.61,
+      "end": 1836.83,
+      "text": "They've come over here to live in this country for some six months."
+    },
+    {
+      "start": 1836.93,
+      "end": 1838.35,
+      "text": "They're very, very good."
+    },
+    {
+      "start": 1838.89,
+      "end": 1840.83,
+      "text": "They're a Japanese band called Vow Wow,"
+    },
+    {
+      "start": 1840.83,
+      "end": 1844.25,
+      "text": "A couple of tracks from a live album that is not released in this country yet."
+    },
+    {
+      "start": 1844.33,
+      "end": 1847.05,
+      "text": "If you want to buy it on import, it's on the East World record label."
+    },
+    {
+      "start": 1847.15,
+      "end": 1849.83,
+      "text": "If you can wait till January, it should be coming out then."
+    },
+    {
+      "start": 1850.01,
+      "end": 1855.75,
+      "text": "They are Vow Wow, the tracks here are called Don't You Want To Come, Hangar 15 and Too Late To Turn Back."
+    },
+    {
+      "start": 1856.27,
+      "end": 1857.79,
+      "text": "Excellent band, I look forward to seeing them."
+    },
+    {
+      "start": 1857.85,
+      "end": 1858.91,
+      "text": "They really are good entertainment."
+    },
+    {
+      "start": 1859.57,
+      "end": 1861.37,
+      "text": "And they've got it off to a T."
+    },
+    {
+      "start": 1861.79,
+      "end": 1863.55,
+      "text": "It is now 27 and a half minutes to 11."
+    },
+    {
+      "start": 1863.97,
+      "end": 1868.39,
+      "text": "At about 8 minutes past 11, if I get my timing right, we'll have The Outlaws from Reading on the air."
+    },
+    {
+      "start": 1868.79,
+      "end": 1870.81,
+      "text": "30 odd minutes of good music by them."
+    },
+    {
+      "start": 1870.83,
+      "end": 1876.31,
+      "text": "going to play you something now from probably they will say that from probably the finest"
+    },
+    {
+      "start": 1876.31,
+      "end": 1883.59,
+      "text": "but they really are they they are a lot of people say they are the ultimate hardcore metal crossover"
+    },
+    {
+      "start": 1883.59,
+      "end": 1890.16,
+      "text": "band they've got a sort of punk background and a lot of metal and they make a lot of noise they're"
+    },
+    {
+      "start": 1890.16,
+      "end": 1895.64,
+      "text": "from seattle you might hate it but ever listen to it they're called the accused and this track"
+    },
+    {
+      "start": 1895.64,
+      "end": 2376.47,
+      "text": "is buried alive a couple of albums out at the moment i'm playing it from the singles album"
+    },
+    {
+      "start": 2376.47,
+      "end": 2381.57,
+      "text": "which is a double album that's just come out that has 23 tracks on it, well-chosen tracks as well."
+    },
+    {
+      "start": 2381.95,
+      "end": 2383.69,
+      "text": "It's out on the Music for Nations record label."
+    },
+    {
+      "start": 2383.85,
+      "end": 2385.19,
+      "text": "It is called The Singles Album."
+    },
+    {
+      "start": 2385.27,
+      "end": 2387.05,
+      "text": "Once again, the track you heard there was called Steal the Light."
+    },
+    {
+      "start": 2387.09,
+      "end": 2392.55,
+      "text": "It was by Q5, who are about to sign, we are told, in the States, a major record deal,"
+    },
+    {
+      "start": 2392.99,
+      "end": 2396.45,
+      "text": "which basically means once a band signs to a major record company,"
+    },
+    {
+      "start": 2396.85,
+      "end": 2399.85,
+      "text": "well, let's put it this way, 75 times out of 100,"
+    },
+    {
+      "start": 2400.05,
+      "end": 2402.57,
+      "text": "the record company will put quite a lot of money behind them."
+    },
+    {
+      "start": 2402.69,
+      "end": 2405.73,
+      "text": "In other words, they will promote them, then they stand a chance of success."
+    },
+    {
+      "start": 2406.17,
+      "end": 2409.45,
+      "text": "This is happening to quite a number of metal bands in the United States of America."
+    },
+    {
+      "start": 2409.83,
+      "end": 2412.87,
+      "text": "Major radio stations are starting to play a lot of metal,"
+    },
+    {
+      "start": 2413.25,
+      "end": 2415.35,
+      "text": "and also major record companies are signing them up."
+    },
+    {
+      "start": 2415.47,
+      "end": 2418.09,
+      "text": "So there's a lot of activity in the States,"
+    },
+    {
+      "start": 2418.19,
+      "end": 2420.33,
+      "text": "which unfortunately is not reflected in this country at all,"
+    },
+    {
+      "start": 2420.39,
+      "end": 2422.59,
+      "text": "because there's no airplay for metal in this country,"
+    },
+    {
+      "start": 2422.77,
+      "end": 2425.91,
+      "text": "and major record labels aren't bothering to look at anybody in that area."
+    },
+    {
+      "start": 2425.91,
+      "end": 2429.03,
+      "text": "But maybe it'll bounce back from the States over here."
+    },
+    {
+      "start": 2429.41,
+      "end": 2431.05,
+      "text": "Let us hope, but don't hold your breath."
+    },
+    {
+      "start": 2431.49,
+      "end": 2434.67,
+      "text": "Q5 there, steal the light there from the Pacific Northwest, from Seattle."
+    },
+    {
+      "start": 2435.23,
+      "end": 2436.73,
+      "text": "Before that, another band from Seattle."
+    },
+    {
+      "start": 2437.29,
+      "end": 2439.73,
+      "text": "And a track from an album that's coming out on the Earache."
+    },
+    {
+      "start": 2439.97,
+      "end": 2440.69,
+      "text": "I wonder why."
+    },
+    {
+      "start": 2440.85,
+      "end": 2444.37,
+      "text": "The Earache record label, which is a label out of Nottingham, I think."
+    },
+    {
+      "start": 2444.81,
+      "end": 2448.15,
+      "text": "The Return of Martha Splatterhead is the title of the album."
+    },
+    {
+      "start": 2448.63,
+      "end": 2449.75,
+      "text": "The band are called The Accused."
+    },
+    {
+      "start": 2449.81,
+      "end": 2451.09,
+      "text": "The lead singer's name is Blaine."
+    },
+    {
+      "start": 2451.49,
+      "end": 2452.11,
+      "text": "He's a lunatic."
+    },
+    {
+      "start": 2452.21,
+      "end": 2453.57,
+      "text": "If you like mosh, you'll love it."
+    },
+    {
+      "start": 2453.93,
+      "end": 2455.95,
+      "text": "The track you have is called Buried Alive."
+    },
+    {
+      "start": 2456.53,
+      "end": 2458.09,
+      "text": "Right, the time now is eight."
+    },
+    {
+      "start": 2458.41,
+      "end": 2460.15,
+      "text": "This is Bad Company, Reformed."
+    },
+    {
+      "start": 3022.1,
+      "end": 3025.54,
+      "text": "Jack Starr's Burning Star and Run For Your Life."
+    },
+    {
+      "start": 3025.54,
+      "end": 3027.4,
+      "text": "It's from an album called No Turning Back."
+    },
+    {
+      "start": 3027.48,
+      "end": 3030.54,
+      "text": "It's an import album from the States on the Cobra record label."
+    },
+    {
+      "start": 3031.22,
+      "end": 3033.34,
+      "text": "It's Jack Starr's second solo album."
+    },
+    {
+      "start": 3033.46,
+      "end": 3034.22,
+      "text": "He is the guitarist."
+    },
+    {
+      "start": 3034.28,
+      "end": 3036.04,
+      "text": "The singer is actually a guy called Mike Torelli."
+    },
+    {
+      "start": 3036.14,
+      "end": 3037.22,
+      "text": "I think they all sort of get together."
+    },
+    {
+      "start": 3037.64,
+      "end": 3038.7,
+      "text": "Just put that together in the studio."
+    },
+    {
+      "start": 3038.82,
+      "end": 3041.06,
+      "text": "But it is Jack Starr's second solo album."
+    },
+    {
+      "start": 3041.62,
+      "end": 3044.08,
+      "text": "Jack Starr used to be with the American band called Virgin Steel."
+    },
+    {
+      "start": 3044.2,
+      "end": 3044.8,
+      "text": "He's very good."
+    },
+    {
+      "start": 3045.34,
+      "end": 3046.1,
+      "text": "That's out on Cobra."
+    },
+    {
+      "start": 3046.22,
+      "end": 3048.2,
+      "text": "Before that, you heard Bad Company, the reformed band,"
+    },
+    {
+      "start": 3048.28,
+      "end": 3052.04,
+      "text": "who've recently been supporting 38 Special in the United States of America."
+    },
+    {
+      "start": 3052.36,
+      "end": 3054.8,
+      "text": "At the moment, they're supporting Triumph in the States"
+    },
+    {
+      "start": 3054.8,
+      "end": 3057.8,
+      "text": "and will continue to do so until Christmas when they will come home."
+    },
+    {
+      "start": 3057.98,
+      "end": 3059.22,
+      "text": "Bad Company's album is out here."
+    },
+    {
+      "start": 3059.7,
+      "end": 3060.78,
+      "text": "It's called Fame and Fortune."
+    },
+    {
+      "start": 3061.0,
+      "end": 3062.18,
+      "text": "The track is called Burning Up."
+    },
+    {
+      "start": 3062.24,
+      "end": 3065.42,
+      "text": "When I first saw it, I thought, uh-oh, dinosaur coming out of the sand"
+    },
+    {
+      "start": 3065.42,
+      "end": 3067.7,
+      "text": "and not to, you know, forget it."
+    },
+    {
+      "start": 3067.78,
+      "end": 3069.46,
+      "text": "Elbow that one, but not so."
+    },
+    {
+      "start": 3069.8,
+      "end": 3071.72,
+      "text": "It's a good album, well worth a listen."
+    },
+    {
+      "start": 3072.64,
+      "end": 3074.5,
+      "text": "Okay, Gary Moore, he's got a new single."
+    },
+    {
+      "start": 3074.6,
+      "end": 3075.04,
+      "text": "Here it is."
+    },
+    {
+      "start": 3075.72,
+      "end": 3542.63,
+      "text": "Am I back in 1983, playing it off-compact."
+    },
+    {
+      "start": 3542.73,
+      "end": 3544.79,
+      "text": "They are Bon Jovi, album still available."
+    },
+    {
+      "start": 3544.99,
+      "end": 3550.43,
+      "text": "Album title, Bon Jovi, who's run away."
+    },
+    {
+      "start": 3550.87,
+      "end": 3552.23,
+      "text": "Had to see them live the other night."
+    },
+    {
+      "start": 3552.31,
+      "end": 3555.31,
+      "text": "At times they were better live than they are on record,"
+    },
+    {
+      "start": 3555.43,
+      "end": 3556.73,
+      "text": "and that's saying something."
+    },
+    {
+      "start": 3556.95,
+      "end": 3557.91,
+      "text": "They are great."
+    },
+    {
+      "start": 3558.57,
+      "end": 3562.15,
+      "text": "Bon Jovi, who have this week the number one single in the States."
+    },
+    {
+      "start": 3562.65,
+      "end": 3563.91,
+      "text": "Go for it, rock and roll."
+    },
+    {
+      "start": 3564.45,
+      "end": 3565.95,
+      "text": "It's called You Give Love a Bad Name."
+    },
+    {
+      "start": 3566.13,
+      "end": 3566.97,
+      "text": "Number one in the States."
+    },
+    {
+      "start": 3567.05,
+      "end": 3568.37,
+      "text": "New single coming out in February."
+    },
+    {
+      "start": 3568.75,
+      "end": 3570.87,
+      "text": "Two more gigs on the current tour, added to the current tour,"
+    },
+    {
+      "start": 3570.93,
+      "end": 3572.19,
+      "text": "because of demand, Monday and Tuesday,"
+    },
+    {
+      "start": 3572.59,
+      "end": 3574.75,
+      "text": "with Queensryche at the Cameo, both sold out."
+    },
+    {
+      "start": 3575.17,
+      "end": 3576.43,
+      "text": "Good luck if you can get tickets."
+    },
+    {
+      "start": 3576.43,
+      "end": 3578.17,
+      "text": "Gary Moore, you heard before, Bon Jovi."
+    },
+    {
+      "start": 3578.51,
+      "end": 3580.13,
+      "text": "The new single, Over the Hills and Far Away,"
+    },
+    {
+      "start": 3580.13,
+      "end": 3581.81,
+      "text": "on the single Playing With The Chieftains."
+    },
+    {
+      "start": 3582.23,
+      "end": 3584.55,
+      "text": "Got some confirmed Gary Moore dates here."
+    },
+    {
+      "start": 3585.31,
+      "end": 3587.25,
+      "text": "And on April the 1st and 2nd,"
+    },
+    {
+      "start": 3587.27,
+      "end": 3590.19,
+      "text": "that's April the 1st and 2nd at the Hammersmith Odeon in London,"
+    },
+    {
+      "start": 3590.59,
+      "end": 3592.93,
+      "text": "Gary Moore, his new album will be out next March."
+    },
+    {
+      "start": 3593.01,
+      "end": 3594.33,
+      "text": "It's called Wild Frontier."
+    },
+    {
+      "start": 3594.97,
+      "end": 3597.37,
+      "text": "In approximately 7 minutes and 10 seconds,"
+    },
+    {
+      "start": 3597.47,
+      "end": 3599.31,
+      "text": "we'll have The Outlaws from Reading."
+    },
+    {
+      "start": 3599.41,
+      "end": 3602.13,
+      "text": "But first, a good bit of thrash I played before."
+    },
+    {
+      "start": 3602.35,
+      "end": 3605.21,
+      "text": "Angel Dust, Gambler, listen to the guitars."
+    },
+    {
+      "start": 3605.21,
+      "end": 4050.22,
+      "text": "exhausting and thoroughly respectable performance the name of the band are angel dust it's an import"
+    },
+    {
+      "start": 4050.22,
+      "end": 4054.42,
+      "text": "it's on the disaster record label into the past into the dark past rather is the title of the"
+    },
+    {
+      "start": 4054.42,
+      "end": 4059.02,
+      "text": "album the track was gambler we have played it before i think it's absolutely brilliant this"
+    },
+    {
+      "start": 4059.02,
+      "end": 4065.24,
+      "text": "is radio one it's nine minutes past 11 reading 1986 we now bring you the reformed country rock"
+    },
+    {
+      "start": 4065.24,
+      "end": 4066.52,
+      "text": "band the outlaws"
+    },
+    {
+      "start": 4066.52,
+      "end": 4335.22,
+      "text": "off a solo record i made a few years back how's that rain it's not bothering y'all out there"
+    },
+    {
+      "start": 4335.22,
+      "end": 4342.7,
+      "text": "all right fuck it it's all called hollywood paradise it goes like this"
+    },
+    {
+      "start": 4342.7,
+      "end": 4889.21,
+      "text": "i want to say it's really great to be back here in england i don't care whether it's"
+    },
+    {
+      "start": 4889.21,
+      "end": 4897.5,
+      "text": "raining or shining it's just good to be here there's throwing mud but if i was not up here"
+    },
+    {
+      "start": 4897.5,
+      "end": 6527.47,
+      "text": "playing i come out and kick your fans 1986 what a set there's a sign cause you know sometimes"
+    },
+    {
+      "start": 6527.47,
+      "end": 6542.67,
+      "text": "have to be a tree there's a songbird that sings sometimes all of my thoughts on"
+    },
+    {
+      "start": 6542.67,
+      "end": 6547.57,
+      "text": "And I think you can see that"
+    },
+    {
+      "start": 6547.57,
+      "end": 7076.26,
+      "text": "Thanks for listening over the last eight years"
+    },
+    {
+      "start": 7076.26,
+      "end": 7078.86,
+      "text": "I hope the next year is going to be just as good for you"
+    },
+    {
+      "start": 7078.86,
+      "end": 7083.28,
+      "text": "832 hours of rock so far provided by the Friday Rock Show"
+    },
+    {
+      "start": 7083.28,
+      "end": 7086.2,
+      "text": "At the Friday Rock Show news desk, Maggie Farren"
+    },
+    {
+      "start": 7086.2,
+      "end": 7088.66,
+      "text": "The Friday Rock Show is and always has been"
+    },
+    {
+      "start": 7088.66,
+      "end": 7090.2,
+      "text": "And I hope always will be"
+    },
+    {
+      "start": 7090.2,
+      "end": 7091.92,
+      "text": "A Tony Wilson production"
+    },
+    {
+      "start": 7091.92,
+      "end": 7094.32,
+      "text": "Happy birthday, Twilfs"
+    },
+    {
+      "start": 7094.32,
+      "end": 7097.12,
+      "text": "If you want to be in a video, see it made"
+    },
+    {
+      "start": 7097.12,
+      "end": 7101.94,
+      "text": "Skagorak are making a video tomorrow at London's Marquee from 10am"
+    },
+    {
+      "start": 7101.94,
+      "end": 7106.2,
+      "text": "A video being made with Skagorak for TV, obviously"
+    },
+    {
+      "start": 7106.2,
+      "end": 7109.8,
+      "text": "Saturday, 10am tomorrow, London's Marquee"
+    },
+    {
+      "start": 7109.8,
+      "end": 7112.25,
+      "text": "They're doing a gig there tomorrow night"
+    },
+    {
+      "start": 7112.25,
+      "end": 7113.09,
+      "text": "I'm Tommy Vance"
+    },
+    {
+      "start": 7113.09,
+      "end": 7115.91,
+      "text": "Wherever you are, whoever you are, I wish you well"
+    },
+    {
+      "start": 7115.91,
+      "end": 7117.21,
+      "text": "God bless, goodbye"
     }
   ]
 }

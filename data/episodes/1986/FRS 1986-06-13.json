@@ -20,22 +20,26 @@
     {
       "artist": null,
       "track": "Journey - Raised on Radio",
-      "details": null
+      "details": null,
+      "verified_timestamp": 0.0
     },
     {
       "artist": null,
       "track": "The Cult - She Sells Sanctuary",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": null,
       "track": "AC/DC - Sink the Pink",
-      "details": null
+      "details": null,
+      "verified_timestamp": 540.0
     },
     {
       "artist": null,
       "track": "Agent Steel - Back to Reign",
-      "details": null
+      "details": null,
+      "verified_timestamp": 730.62
     },
     {
       "artist": null,
@@ -45,22 +49,26 @@
     {
       "artist": null,
       "track": "Frank Zappa - San Ber'dino",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1260.0
     },
     {
       "artist": null,
       "track": "FM - Love Lies Dying",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1600.17
     },
     {
       "artist": null,
       "track": "Led Zeppelin - Whole Lotta Love",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
       "track": "King Crimson - The Court of the Crimson King",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2340.0
     },
     {
       "artist": null,
@@ -70,22 +78,26 @@
     {
       "artist": null,
       "track": "Genesis - Land of Confusion",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3420.0
     },
     {
       "artist": null,
       "track": "Genesis - The Lamb Lies on Broadway",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Warlock - Hellbound",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3960.0
     },
     {
       "artist": null,
       "track": "Status Quo - Again and Again",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4140.0
     },
     {
       "artist": null,
@@ -95,12 +107,14 @@
     {
       "artist": null,
       "track": "Battle Axe - Make It in America",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4579.76
     },
     {
       "artist": null,
       "track": "Iron Maiden - Run to the Hills",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5040.0
     },
     {
       "artist": null,
@@ -110,12 +124,716 @@
     {
       "artist": null,
       "track": "Motörhead - No Class",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5400.0
     },
     {
       "artist": null,
       "track": "Camel - Long Goodbyes",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5580.0
+    }
+  ],
+  "transcript": [
+    {
+      "start": 3.09,
+      "end": 228.58,
+      "text": "Journey, Raised on Radio. This was voted in NME or Melody Maker and I can't remember which. Best single of last year and I totally agreed."
+    },
+    {
+      "start": 228.58,
+      "end": 725.46,
+      "text": "The Cult, She Sells Sanctuary."
+    },
+    {
+      "start": 725.46,
+      "end": 727.46,
+      "text": "ACDC, Sink the Pink."
+    },
+    {
+      "start": 727.46,
+      "end": 730.62,
+      "text": "Just as well we have a heatwave."
+    },
+    {
+      "start": 730.62,
+      "end": 733.1,
+      "text": "Agent Steel, Back to Rain."
+    },
+    {
+      "start": 733.1,
+      "end": 932.61,
+      "text": "agent still from skeptics apocalypse back to rain i have to dedicate this to my local football team"
+    },
+    {
+      "start": 932.61,
+      "end": 937.35,
+      "text": "otherwise be a terrible trouble and also because it's got seagulls on it and also to chris burn"
+    },
+    {
+      "start": 937.35,
+      "end": 1165.11,
+      "text": "from willsbury nashville kent because he's our big hawkwin fan hawkwin from warrior on the edge"
+    },
+    {
+      "start": 1165.11,
+      "end": 1170.37,
+      "text": "of time that's the demented man although it says case in a two record ep pack pat ross from the"
+    },
+    {
+      "start": 1170.37,
+      "end": 1176.83,
+      "text": "polygon in southampton another one what a way to read to finish off the week he says i love reading"
+    },
+    {
+      "start": 1176.83,
+      "end": 1182.29,
+      "text": "tommy vance's mail see if it's all like the ones i get on sundays what a better way what better way"
+    },
+    {
+      "start": 1182.29,
+      "end": 1187.57,
+      "text": "to round off the week and start the weekend than to have a few beers at the pub see what is drinking"
+    },
+    {
+      "start": 1187.57,
+      "end": 1192.79,
+      "text": "going on come back home lie back and enjoy there's a lovely lie back and enjoy later two blissful"
+    },
+    {
+      "start": 1192.79,
+      "end": 1196.25,
+      "text": "hours of good heavy music please play me for some frank zapper you got it"
+    },
+    {
+      "start": 1196.25,
+      "end": 1234.34,
+      "text": "It's like a potato boy from the rodeo"
+    },
+    {
+      "start": 1234.34,
+      "end": 1239.58,
+      "text": "who pulls the rope on the chute when they let those suckers go."
+    },
+    {
+      "start": 1240.58,
+      "end": 1288.72,
+      "text": "The well of a shower, but it don't apply to Bobby."
+    },
+    {
+      "start": 1289.82,
+      "end": 1307.82,
+      "text": "You might think they're dumb and lonely,"
+    },
+    {
+      "start": 1308.34,
+      "end": 1312.38,
+      "text": "but you're wrong, cause their love is strong."
+    },
+    {
+      "start": 1312.38,
+      "end": 1318.62,
+      "text": "Stack them hair and a cheap little chair"
+    },
+    {
+      "start": 1318.62,
+      "end": 1375.94,
+      "text": "God, there don't be a thing you can feel"
+    },
+    {
+      "start": 1375.94,
+      "end": 1557.05,
+      "text": "Sam Bardino from Frank Zappa and the Mothers of Invention."
+    },
+    {
+      "start": 1557.35,
+      "end": 1558.59,
+      "text": "This is the Friday Rock Show."
+    },
+    {
+      "start": 1558.67,
+      "end": 1560.41,
+      "text": "This is Annie Nightingale sitting in for Tommy Vance."
+    },
+    {
+      "start": 1560.73,
+      "end": 1561.81,
+      "text": "If you've just tuned in and think,"
+    },
+    {
+      "start": 1561.89,
+      "end": 1563.63,
+      "text": "hello, this is definitely not Tommy Vance."
+    },
+    {
+      "start": 1564.21,
+      "end": 1567.77,
+      "text": "He's on his way back, we hope, from Vermont, Vaughan, New York,"
+    },
+    {
+      "start": 1567.91,
+      "end": 1570.29,
+      "text": "and apparently they're having weather problems over there."
+    },
+    {
+      "start": 1570.49,
+      "end": 1572.67,
+      "text": "I can't think what kind of weather problems in the middle of June,"
+    },
+    {
+      "start": 1572.79,
+      "end": 1573.35,
+      "text": "but they are."
+    },
+    {
+      "start": 1573.61,
+      "end": 1575.21,
+      "text": "So he will be back."
+    },
+    {
+      "start": 1575.65,
+      "end": 1577.97,
+      "text": "But in fact, he won't be on this program for a couple of weeks."
+    },
+    {
+      "start": 1577.97,
+      "end": 1579.49,
+      "text": "I'll tell you who's going to do that a bit later on."
+    },
+    {
+      "start": 1579.85,
+      "end": 1581.53,
+      "text": "People send me the strangest things."
+    },
+    {
+      "start": 1581.63,
+      "end": 1584.59,
+      "text": "They send me earrings and dog biscuits."
+    },
+    {
+      "start": 1584.97,
+      "end": 1589.67,
+      "text": "And I have a key ring here, which has Charlie Brown saying to Snoopy,"
+    },
+    {
+      "start": 1589.81,
+      "end": 1592.97,
+      "text": "if you sold your land to the airport commission, you could make a million dollars."
+    },
+    {
+      "start": 1593.85,
+      "end": 1596.69,
+      "text": "And he says, you'd probably get to meet some airline stewardesses,"
+    },
+    {
+      "start": 1597.07,
+      "end": 1599.19,
+      "text": "to which Snoopy goes, I'll sell, I'll sell."
+    },
+    {
+      "start": 1600.17,
+      "end": 1602.13,
+      "text": "This is FM Love Lies Dying."
+    },
+    {
+      "start": 1602.81,
+      "end": 1837.87,
+      "text": "That's FM Love Lies Dying."
+    },
+    {
+      "start": 1838.03,
+      "end": 1839.55,
+      "text": "Right, now, lie back and enjoy it."
+    },
+    {
+      "start": 1839.59,
+      "end": 1841.61,
+      "text": "I thought it was supposed to be lie back and think of England,"
+    },
+    {
+      "start": 1841.61,
+      "end": 1843.81,
+      "text": "but this is the Friday Rock Show"
+    },
+    {
+      "start": 1843.81,
+      "end": 1846.37,
+      "text": "and this week's selection"
+    },
+    {
+      "start": 1846.37,
+      "end": 1850.05,
+      "text": "and the winner of a £12 record token"
+    },
+    {
+      "start": 1850.05,
+      "end": 1852.81,
+      "text": "is Alex Hitchens from Knox Road in Norwich"
+    },
+    {
+      "start": 1852.81,
+      "end": 1855.35,
+      "text": "who has nominated these three tracks"
+    },
+    {
+      "start": 1855.35,
+      "end": 1858.71,
+      "text": "along with his friends Andy and Steve, I think it is"
+    },
+    {
+      "start": 1858.71,
+      "end": 1861.31,
+      "text": "or maybe it's just the two of them, Andy and Alex"
+    },
+    {
+      "start": 1861.31,
+      "end": 1863.63,
+      "text": "but the dedication is to Rainbow Village"
+    },
+    {
+      "start": 1863.63,
+      "end": 1866.67,
+      "text": "in the hope that they enjoy the fulfilling and peaceful summer"
+    },
+    {
+      "start": 1866.67,
+      "end": 1868.63,
+      "text": "that they very much deserve."
+    },
+    {
+      "start": 1868.63,
+      "end": 3199.51,
+      "text": "lie back and enjoy it i hope you did that was the selection of alex hitchens and his friends"
+    },
+    {
+      "start": 3199.51,
+      "end": 3204.07,
+      "text": "i've now found his correct names of his friends ian and auntie there in knox road in norwich"
+    },
+    {
+      "start": 3204.07,
+      "end": 3211.41,
+      "text": "so to alex hitchens goes a 12 pound record token spend it wisely and that was a whole lot of love"
+    },
+    {
+      "start": 3211.41,
+      "end": 3216.85,
+      "text": "from led zeppelin who i must say the americans actually went berserk at live age in philadelphia"
+    },
+    {
+      "start": 3216.85,
+      "end": 3220.93,
+      "text": "last year where i was when the reformed led zeppelin appeared they went absolutely crazy"
+    },
+    {
+      "start": 3220.93,
+      "end": 3224.61,
+      "text": "after that call to the crimson came from king crimson and i can remember the very first time"
+    },
+    {
+      "start": 3224.61,
+      "end": 3230.21,
+      "text": "i ever heard that it was half past four in the morning i thought hey this is incredible and then"
+    },
+    {
+      "start": 3230.21,
+      "end": 3233.69,
+      "text": "i had to get up again at nine to make sure it was still as good and then master of the universe"
+    },
+    {
+      "start": 3233.69,
+      "end": 3240.24,
+      "text": "from hawkwind from space ritual john taiseki from barrack street rochdale lancashire says"
+    },
+    {
+      "start": 3240.24,
+      "end": 3244.64,
+      "text": "all i want to do is take you on a world cruise for a month and show you the most breathtaking"
+    },
+    {
+      "start": 3244.64,
+      "end": 3248.7,
+      "text": "scenery and exotic sights known to man i also want to shower you with diamonds to smother you"
+    },
+    {
+      "start": 3248.7,
+      "end": 3252.68,
+      "text": "in furs i'd even make you the star of a new hollywood blockbuster movie playing opposite"
+    },
+    {
+      "start": 3252.68,
+      "end": 3257.2,
+      "text": "the heartthrob of your choice and last but not least i want to make you queen of the universe"
+    },
+    {
+      "start": 3257.2,
+      "end": 3261.96,
+      "text": "with the promise of scantily clad men waiting on you hand and foot and serving you every whim and"
+    },
+    {
+      "start": 3261.96,
+      "end": 3269.1,
+      "text": "desire but i'm sorry annie much as i want to i can't i don't have the means john i mean fancy"
+    },
+    {
+      "start": 3269.1,
+      "end": 3550.72,
+      "text": "building one's hopes up like that promises promises genesis from the new album invisible"
+    },
+    {
+      "start": 3550.72,
+      "end": 3555.76,
+      "text": "touch that was land of confusion and this is how they sounded in 1974 when peter gabriel was still"
+    },
+    {
+      "start": 3555.76,
+      "end": 3831.36,
+      "text": "with them genesis the lamb lies down on broadway now if you ever wondered what disc jockeys do"
+    },
+    {
+      "start": 3831.36,
+      "end": 3837.68,
+      "text": "when they're not on air i'm not telling you but yesterday i became an english teacher and i met"
+    },
+    {
+      "start": 3837.68,
+      "end": 3843.84,
+      "text": "a very stunning young lady called doro pesh who's the lead singer and also lyricist with a german"
+    },
+    {
+      "start": 3843.84,
+      "end": 3848.24,
+      "text": "band called warlock who i wasn't all that familiar with until yesterday and she's come over here"
+    },
+    {
+      "start": 3848.24,
+      "end": 3849.94,
+      "text": "because they're going to be doing quite a lot of gigs,"
+    },
+    {
+      "start": 3850.12,
+      "end": 3853.48,
+      "text": "the big ones, actually, in this country during the summer."
+    },
+    {
+      "start": 3853.6,
+      "end": 3854.9,
+      "text": "Well, they're doing Castle Donington anyway."
+    },
+    {
+      "start": 3854.94,
+      "end": 3856.82,
+      "text": "They're also doing the Monsters of Rock, but that's actually in Germany."
+    },
+    {
+      "start": 3857.38,
+      "end": 3860.0,
+      "text": "And they're supporting Judas Priest later on in the summer."
+    },
+    {
+      "start": 3860.46,
+      "end": 3863.0,
+      "text": "But anyway, so I had a marvellous afternoon talking to Doro Peschen."
+    },
+    {
+      "start": 3863.08,
+      "end": 3864.1,
+      "text": "For example, I was saying to her,"
+    },
+    {
+      "start": 3864.18,
+      "end": 3866.98,
+      "text": "now, well, you have to understand where it's like, it's a wind-up."
+    },
+    {
+      "start": 3867.14,
+      "end": 3868.9,
+      "text": "And she said, pardon, what is wind-up?"
+    },
+    {
+      "start": 3869.0,
+      "end": 3870.82,
+      "text": "And I said, it's actually very difficult to explain."
+    },
+    {
+      "start": 3870.9,
+      "end": 3872.5,
+      "text": "Anyway, I said, what's your favourite song that you've written?"
+    },
+    {
+      "start": 3872.56,
+      "end": 3874.06,
+      "text": "And she said, Hellbound."
+    },
+    {
+      "start": 4090.38,
+      "end": 4091.78,
+      "text": "That's Hellbound from Warlock."
+    },
+    {
+      "start": 4091.78,
+      "end": 4093.34,
+      "text": "which I'm rather impressed with, I must admit."
+    },
+    {
+      "start": 4093.44,
+      "end": 4096.1,
+      "text": "As I say, Doro Pesh, who's in London at the moment."
+    },
+    {
+      "start": 4096.24,
+      "end": 4097.06,
+      "text": "Hello, if you're listening."
+    },
+    {
+      "start": 4097.22,
+      "end": 4098.9,
+      "text": "And I'll come and see you, certainly,"
+    },
+    {
+      "start": 4098.94,
+      "end": 4099.96,
+      "text": "if I don't get to Castle Donaghan,"
+    },
+    {
+      "start": 4100.06,
+      "end": 4101.84,
+      "text": "certainly come and see you with Judas Priest"
+    },
+    {
+      "start": 4101.84,
+      "end": 4103.5,
+      "text": "at Hammersmith Odeon in September."
+    },
+    {
+      "start": 4104.0,
+      "end": 4106.2,
+      "text": "Sarah Beecham from Larkfield, Maidstone in Kent, says,"
+    },
+    {
+      "start": 4106.82,
+      "end": 4107.94,
+      "text": "Do you hate me or what?"
+    },
+    {
+      "start": 4108.12,
+      "end": 4109.48,
+      "text": "Well, Sarah, of course I don't hate you."
+    },
+    {
+      "start": 4110.1,
+      "end": 4113.74,
+      "text": "Apparently, her problem is her most horrendous O-level schedule,"
+    },
+    {
+      "start": 4114.3,
+      "end": 4115.82,
+      "text": "which she's given me entire details of."
+    },
+    {
+      "start": 4115.82,
+      "end": 4117.6,
+      "text": "God, it makes me feel cold just to read it."
+    },
+    {
+      "start": 4118.28,
+      "end": 4120.24,
+      "text": "And her problem is lack of status quo."
+    },
+    {
+      "start": 4120.24,
+      "end": 4343.16,
+      "text": "again and again from status quo back to the alliance you're in session tonight just let"
+    },
+    {
+      "start": 4343.16,
+      "end": 4348.18,
+      "text": "you know who they are kat martin on vocals very nice first name for our lead singer i think kat"
+    },
+    {
+      "start": 4348.18,
+      "end": 4355.06,
+      "text": "adrian dawson on guitars tim kelly on bass mitch archer on drums and on keyboards someone called"
+    },
+    {
+      "start": 4355.06,
+      "end": 4573.18,
+      "text": "jinner what to be jinner and tonic do you think yes alliance we are strangers and you might have"
+    },
+    {
+      "start": 4573.18,
+      "end": 4579.76,
+      "text": "seen them playing support to magnum recently on mr murdoch i do very formal on this show on the"
+    },
+    {
+      "start": 4579.76,
+      "end": 4888.3,
+      "text": "friday rock show a mr murdoch would like this for all basil headbangers that's battle axe make it in"
+    },
+    {
+      "start": 4888.3,
+      "end": 4893.02,
+      "text": "america from their album power from the universe on next week's friday rock show chris techley will"
+    },
+    {
+      "start": 4893.02,
+      "end": 4898.12,
+      "text": "be here with a preview of the motorhead album and then the following two weeks ian gillan will be"
+    },
+    {
+      "start": 4898.12,
+      "end": 4901.42,
+      "text": "hosting the friday rock show i wonder if he's still into building sports cars i'm sure he used"
+    },
+    {
+      "start": 4901.42,
+      "end": 4906.22,
+      "text": "be and of course tommy vance is not here tonight because he's got stranded in vermont in america"
+    },
+    {
+      "start": 4906.22,
+      "end": 5142.11,
+      "text": "and couldn't get back well it is friday the 13th iron maiden run to the hills last one coming up"
+    },
+    {
+      "start": 5142.11,
+      "end": 5148.43,
+      "text": "tonight from the alliance and i've been amused by their biography and i love this bit this is"
+    },
+    {
+      "start": 5148.43,
+      "end": 5153.87,
+      "text": "after they played a support slot at the marquee quite recently and it says the marquee found"
+    },
+    {
+      "start": 5153.87,
+      "end": 5159.79,
+      "text": "itself in the unheard of position while they were playing of having a completely empty bar"
+    },
+    {
+      "start": 5160.99,
+      "end": 5341.43,
+      "text": "I'm impressed"
+    },
+    {
+      "start": 5341.43,
+      "end": 5345.93,
+      "text": "Excellent track that's trying to forget from Alliance the last one of their session tonight"
+    },
+    {
+      "start": 5345.93,
+      "end": 5352.35,
+      "text": "I wish them very best of luck in the future. I would just like to warn any young lady who might ever meet Lemmy of Motorhead"
+    },
+    {
+      "start": 5353.17,
+      "end": 5354.35,
+      "text": "unsuspectingly"
+    },
+    {
+      "start": 5354.35,
+      "end": 5515.98,
+      "text": "He really does live up to his reputation does rude things to you. Well, that's no class from Motorhead"
+    },
+    {
+      "start": 5515.98,
+      "end": 5521.08,
+      "text": "I think I should qualify what I said before the record by saying that he's slightly rude if you meet him"
+    },
+    {
+      "start": 5521.08,
+      "end": 5524.9,
+      "text": "Let me but then he'd probably be disappointed with that. Anyway, he wants to be very rude"
+    },
+    {
+      "start": 5524.9,
+      "end": 5530.96,
+      "text": "no doubt anyway next on next week's friday rock show a preview of the new motorhead album when"
+    },
+    {
+      "start": 5530.96,
+      "end": 5535.54,
+      "text": "chris techley will be in charge and the following two weeks ian gillan will be in charge and it's"
+    },
+    {
+      "start": 5535.54,
+      "end": 5538.5,
+      "text": "nearly up for me for tonight annie nightingale and this time yesterday i didn't even know i was"
+    },
+    {
+      "start": 5538.5,
+      "end": 5542.6,
+      "text": "going to be doing this show it's been quite interesting evening my thanks to producer"
+    },
+    {
+      "start": 5542.6,
+      "end": 5546.82,
+      "text": "john sparrow thanks an awful lot for listening and uh we haven't gone yet haven't gone yet but"
+    },
+    {
+      "start": 5546.82,
+      "end": 5551.28,
+      "text": "i would recommend you to sunday night the request show which starts at seven o'clock right after"
+    },
+    {
+      "start": 5551.28,
+      "end": 5553.28,
+      "text": "the top 40. But"
+    },
+    {
+      "start": 5553.28,
+      "end": 5555.4,
+      "text": "I'm going to leave you with a track"
+    },
+    {
+      "start": 5555.4,
+      "end": 5557.02,
+      "text": "from Camel, and it's called"
+    },
+    {
+      "start": 5557.02,
+      "end": 5558.78,
+      "text": "The Long Goodbyes."
+    },
+    {
+      "start": 5558.78,
+      "end": 5610.9,
+      "text": "...on a time"
+    },
+    {
+      "start": 5610.9,
+      "end": 5613.6,
+      "text": "not long ago"
+    },
+    {
+      "start": 5613.6,
+      "end": 5616.33,
+      "text": "he lived"
+    },
+    {
+      "start": 5616.33,
+      "end": 5618.33,
+      "text": "in a house by the grove"
+    },
+    {
+      "start": 5618.87,
+      "end": 5620.71,
+      "text": "and she"
+    },
+    {
+      "start": 5620.71,
+      "end": 5622.83,
+      "text": "recalls the day"
+    },
+    {
+      "start": 5622.83,
+      "end": 5624.55,
+      "text": "when she"
+    },
+    {
+      "start": 5624.55,
+      "end": 5626.33,
+      "text": "left..."
     }
   ]
 }

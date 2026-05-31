@@ -29,7 +29,8 @@
     {
       "artist": "Solstice",
       "track": "Find Yourself",
-      "details": "FRS session 1983-07-29"
+      "details": "FRS session 1983-07-29",
+      "verified_timestamp": 2358.87
     },
     {
       "artist": "Friends",
@@ -39,7 +40,8 @@
     {
       "artist": "Def Leppard",
       "track": "Wasted",
-      "details": "FRS session 1979-10-03"
+      "details": "FRS session 1979-10-03",
+      "verified_timestamp": 1422.01
     },
     {
       "artist": "Def Leppard",
@@ -74,32 +76,38 @@
     {
       "artist": "Whitesnake",
       "track": "Crying In The Rain",
-      "details": "LP-Saints And Sinners; Liberty"
+      "details": "LP-Saints And Sinners; Liberty",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Accept",
       "track": "Balls To The Wall",
-      "details": "LP-Balls To The Wall; Portrait"
+      "details": "LP-Balls To The Wall; Portrait",
+      "verified_timestamp": 3240.0
     },
     {
       "artist": "Metallica",
       "track": "Metal Militia",
-      "details": "LP-Kill 'em All; Music For Nations"
+      "details": "LP-Kill 'em All; Music For Nations",
+      "verified_timestamp": 3854.61
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3874.74
     },
     {
       "artist": "Geordie",
       "track": "No Sweat",
-      "details": "LP-Geordie; Sanctuary"
+      "details": "LP-Geordie; Sanctuary",
+      "verified_timestamp": 5137.87
     },
     {
       "artist": "Whitesnake",
       "track": "Give Me A Little More Time",
-      "details": "LP-7\" Single; Liberty"
+      "details": "LP-7\" Single; Liberty",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Solstice",

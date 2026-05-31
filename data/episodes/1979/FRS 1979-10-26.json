@@ -23,27 +23,34 @@
     {
       "artist": "Queen",
       "track": "Sheer Heart Attack",
-      "details": "LP-News Of The World"
+      "details": "LP-News Of The World",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Steve Hillage",
       "track": "Open",
-      "details": "LP-Open"
+      "details": "LP-Open",
+      "verified_timestamp": 82.25
     },
     {
       "artist": "Def Leppard",
       "track": "Rock Brigade",
-      "details": "FRS session 1979-10-03"
+      "details": "FRS session 1979-10-03",
+      "verified_timestamp": 663.93
     },
     {
       "artist": "Beatles",
       "track": "'I Want You, She's So Heavy'",
-      "details": "LP-Abbey Road"
+      "details": "LP-Abbey Road",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i want you she s",
+      "verified_timestamp": 1257.07
     },
     {
       "artist": "Be Bop Deluxe",
       "track": "Mill Street Junction",
-      "details": "Peel session 1974-05-09"
+      "details": "Peel session 1974-05-09",
+      "verified_timestamp": 1313.42
     },
     {
       "artist": "Be Bop Deluxe",
@@ -63,17 +70,24 @@
     {
       "artist": "Tubes",
       "track": "TV Is King",
-      "details": "LP-Remote Control"
+      "details": "LP-Remote Control",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i wish i was the",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "AC DC",
       "track": "Girls Got Rhythm",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": "Yes",
       "track": "And You And I",
-      "details": "LP-Close To The Edge"
+      "details": "LP-Close To The Edge",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the album close to the",
+      "verified_timestamp": 2778.44
     },
     {
       "artist": "Def Leppard",
@@ -83,12 +97,14 @@
     {
       "artist": "Jimi Hendrix",
       "track": "Burning Of The Midnight Lamp",
-      "details": "LP-Electric Ladyland"
+      "details": "LP-Electric Ladyland",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.97
     },
     {
       "artist": "Def Leppard",
@@ -98,12 +114,16 @@
     {
       "artist": "Samson",
       "track": "I Wish I Was The Saddle Of A Schoolgirls Bike",
-      "details": "LP-Survivors"
+      "details": "LP-Survivors",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i wish i was the",
+      "verified_timestamp": 5466.46
     },
     {
       "artist": "Be Bop Deluxe",
       "track": "Maid In Heaven",
-      "details": "Peel session1975-03-11"
+      "details": "Peel session1975-03-11",
+      "verified_timestamp": 1313.42
     },
     {
       "artist": "Be Bop Deluxe",
@@ -113,7 +133,9 @@
     {
       "artist": "Be Bop Deluxe",
       "track": "Stage Whispers",
-      "details": "Peel session1975-03-11"
+      "details": "Peel session1975-03-11",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "this guitar does not lie"
     },
     {
       "artist": "Be Bop Deluxe",
@@ -123,17 +145,24 @@
     {
       "artist": "Brand X",
       "track": "And So To F",
-      "details": "LP-Product"
+      "details": "LP-Product",
+      "verified_timestamp": 2723.19
     },
     {
       "artist": "Bruce Springsteen",
       "track": "4th of July, Asbury Park",
-      "details": "Sandy; LP-Wild, The Innocent and The E Street Shuffle"
+      "details": "Sandy; LP-Wild, The Innocent and The E Street Shuffle",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "open like latin lovers on",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Dr Feelgood",
       "track": "Put Him Out Of Your Mind",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "put him out of your",
+      "verified_timestamp": 7134.27
     },
     {
       "artist": "Def Leppard",

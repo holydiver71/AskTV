@@ -24,7 +24,8 @@
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "AC/DC",
@@ -34,57 +35,68 @@
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "AC/DC",
       "track": "For Those About The Rock",
-      "details": "We Salute You; LP-For Those About To Rock; Atlantic"
+      "details": "We Salute You; LP-For Those About To Rock; Atlantic",
+      "verified_timestamp": 615.02
     },
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "Animals",
       "track": "We Gotta Get Out Of This Place",
-      "details": "7\" Single; Columbia"
+      "details": "7\" Single; Columbia",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "Led Zeppelin",
       "track": "Immigrant Song",
-      "details": "LP-Led Zeppelin III; Atlantic"
+      "details": "LP-Led Zeppelin III; Atlantic",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "AC/DC",
       "track": "'Bad Boy Boogie",
-      "details": "live"
+      "details": "live",
+      "verified_timestamp": 6684.45
     },
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "ZZ Top",
       "track": "La Grange",
-      "details": "LP-Tres Hombres; Warner Bros."
+      "details": "LP-Tres Hombres; Warner Bros.",
+      "verified_timestamp": 2520.0
     },
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "AC/DC",
@@ -94,42 +106,50 @@
     {
       "artist": null,
       "track": "Brian Johnson chats to TV",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1925.35
     },
     {
       "artist": "AC/DC",
       "track": "'Let's Get It Up' (LP-For Those About To Rock) (Atlantic)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5483.44
     },
     {
       "artist": null,
       "track": "Angus & Malcolm chat to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 574.42
     },
     {
       "artist": "Beatles",
       "track": "Get Back",
-      "details": "LP-Let It Be; Apple"
+      "details": "LP-Let It Be; Apple",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Cliff Williams chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1371.99
     },
     {
       "artist": "Procol Harum",
       "track": "Whiter Shade Of Pale",
-      "details": "LP-Procol Harum; Regal Zonophone"
+      "details": "LP-Procol Harum; Regal Zonophone",
+      "verified_timestamp": 3833.6
     },
     {
       "artist": null,
       "track": "Cliff Williams chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1371.99
     },
     {
       "artist": "Byrds",
       "track": "Eight Miles High",
-      "details": "LP-Fifth Dimension; CBS"
+      "details": "LP-Fifth Dimension; CBS",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": null,
@@ -139,7 +159,8 @@
     {
       "artist": "John Lennon",
       "track": "Happy Christmas",
-      "details": "War Is Over; 7\"; Apple"
+      "details": "War Is Over; 7\"; Apple",
+      "verified_timestamp": 3580.5
     },
     {
       "artist": null,
@@ -159,62 +180,74 @@
     {
       "artist": "Rolling Stones",
       "track": "Jumping Jack Flash",
-      "details": "2xLP-Rolled Gold; Decca"
+      "details": "2xLP-Rolled Gold; Decca",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": null,
       "track": "Cliff, Brian & Malcolm send Xmas wishes to the UK",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1371.99
     },
     {
       "artist": "Bing Crosby",
       "track": "White Christmas",
-      "details": "7\"; MCA"
+      "details": "7\"; MCA",
+      "verified_timestamp": 5760.0
     },
     {
       "artist": null,
       "track": "Angus chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 574.42
     },
     {
       "artist": "Aretha Franklin",
       "track": "Respect",
-      "details": "LP-I Never Loved A Man The Way I Loved You; Atlantic"
+      "details": "LP-I Never Loved A Man The Way I Loved You; Atlantic",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": null,
       "track": "Angus chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 574.42
     },
     {
       "artist": "AC/DC",
       "track": "'guitar solo",
-      "details": "live"
+      "details": "live",
+      "verified_timestamp": 1925.35
     },
     {
       "artist": null,
       "track": "Angus chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 574.42
     },
     {
       "artist": "Little Richard",
       "track": "Lucille",
-      "details": "LP-Little Richard; London"
+      "details": "LP-Little Richard; London",
+      "verified_timestamp": 6480.0
     },
     {
       "artist": null,
       "track": "Angus chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 574.42
     },
     {
       "artist": "AC/DC",
       "track": "'Rock And Roll Ain't Noise Pollution",
-      "details": "live"
+      "details": "live",
+      "verified_timestamp": 574.42
     },
     {
       "artist": null,
       "track": "Angus chats to Tommy",
-      "details": null
+      "details": null,
+      "verified_timestamp": 574.42
     },
     {
       "artist": "AC/DC",

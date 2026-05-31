@@ -431,6 +431,38 @@ def process_file(json_path: Path) -> bool:
         for w in windows:
             if w["end"] <= w["start"]:
                 continue
+            # Skip insertion if an existing music segment already covers
+            # this window (idempotency for repeated runs). We consider a
+            # match if either start/end are within a small tolerance, or
+            # an existing music segment overlaps the window by >60%.
+            w_start = float(w["start"])
+            w_end = float(w["end"])
+            w_len = max(0.0, w_end - w_start)
+            exists = False
+            for s in transcript:
+                if s.get("type") != "music":
+                    continue
+                try:
+                    s_start = float(s.get("start", 0))
+                    s_end = float(s.get("end", 0))
+                except Exception:
+                    continue
+                # close match by endpoints
+                if abs(s_start - w_start) < 0.5 and abs(s_end - w_end) < 0.5:
+                    exists = True
+                    break
+                # overlap fraction
+                overlap = max(0.0, min(s_end, w_end) - max(s_start, w_start))
+                if w_len > 0 and (overlap / w_len) > 0.6:
+                    exists = True
+                    break
+
+            if exists:
+                _log(
+                    f"[{date}] Placeholder for [{w_start:.1f}–{w_end:.1f}s] already present; skipping"
+                )
+                continue
+
             new_transcript.append({
                 "start": w["start"],
                 "end": w["end"],
@@ -455,6 +487,37 @@ def process_file(json_path: Path) -> bool:
         _log(f"[{date}] {active_windows} music placeholder(s) inserted; no segments removed")
         data["transcript"] = new_transcript
         modified = True
+
+    # Deduplicate near-identical music placeholder segments to avoid
+    # doubling when the script is run multiple times. This collapses
+    # consecutive or identical music segments (within a small tolerance).
+    if modified:
+        transcript = data.get("transcript", [])
+        deduped = []
+        removed_dupes = 0
+        for seg in transcript:
+            if not deduped:
+                deduped.append(seg)
+                continue
+            prev = deduped[-1]
+            try:
+                s_start = float(seg.get("start", 0))
+                s_end = float(seg.get("end", 0))
+                p_start = float(prev.get("start", 0))
+                p_end = float(prev.get("end", 0))
+            except Exception:
+                deduped.append(seg)
+                continue
+            # Consider duplicate if both are music and start/end nearly equal
+            if seg.get("type") == "music" and prev.get("type") == "music":
+                if abs(s_start - p_start) < 0.5 and abs(s_end - p_end) < 0.5 and seg.get("text") == prev.get("text"):
+                    removed_dupes += 1
+                    continue
+            deduped.append(seg)
+
+        if removed_dupes:
+            data["transcript"] = deduped
+            _log(f"[{date}] Removed {removed_dupes} duplicate music placeholder(s)")
 
     if modified:
         _atomic_write(json_path, data)

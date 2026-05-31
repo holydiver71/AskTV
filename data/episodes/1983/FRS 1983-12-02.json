@@ -44,7 +44,8 @@
     {
       "artist": "Queen",
       "track": "Spread Your Wings",
-      "details": "Peel session"
+      "details": "Peel session",
+      "verified_timestamp": 1237.66
     },
     {
       "artist": "Queen",
@@ -64,7 +65,8 @@
     {
       "artist": "Eloy",
       "track": "Through A Sombre Galaxy",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 679.28
     },
     {
       "artist": "Journey",
@@ -84,7 +86,8 @@
     {
       "artist": "Peter Green",
       "track": "Black Woman (LP - Kolors) Headline",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3785.48
     },
     {
       "artist": "Eloy",
@@ -94,7 +97,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 4316.52
     },
     {
       "artist": "Eloy",
@@ -114,7 +118,8 @@
     {
       "artist": "Queen",
       "track": "We Will Rock You (Fast Version) (Peel session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6458.46
     },
     {
       "artist": "Eloy",

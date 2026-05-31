@@ -19,27 +19,32 @@
     {
       "artist": "Def Leppard",
       "track": "Let It Go",
-      "details": "7\" Single from High N Dry; Vertigo"
+      "details": "7\" Single from High N Dry; Vertigo",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Michael Schenker Group",
       "track": "Ready To Rock",
-      "details": "7\" Single from MSG; Chrysalis"
+      "details": "7\" Single from MSG; Chrysalis",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Girlschool",
       "track": "Take It All Away",
-      "details": "7\" Single; City Records"
+      "details": "7\" Single; City Records",
+      "verified_timestamp": 1032.51
     },
     {
       "artist": "Cozy Powell",
       "track": "Sooner Or Later",
-      "details": "7\" Single from Tilt; Polydor"
+      "details": "7\" Single from Tilt; Polydor",
+      "verified_timestamp": 987.88
     },
     {
       "artist": "Handsome Beasts",
       "track": "Local Heroes",
-      "details": "FRS session 1981-06-24"
+      "details": "FRS session 1981-06-24",
+      "verified_timestamp": 1042.0
     },
     {
       "artist": "Tubes",
@@ -49,12 +54,14 @@
     {
       "artist": "Riot",
       "track": "Outlaw",
-      "details": "LP-Fire Down Under; Elektra"
+      "details": "LP-Fire Down Under; Elektra",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Legs Diamond",
       "track": "Stage Fright",
-      "details": "LP-Legs Diamond; Phonogram"
+      "details": "LP-Legs Diamond; Phonogram",
+      "verified_timestamp": 2115.61
     },
     {
       "artist": "Ashra",
@@ -69,7 +76,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.19
     },
     {
       "artist": "Handsome Beasts",
@@ -79,7 +87,8 @@
     {
       "artist": "Blackfoot",
       "track": "Rattlesnake Rock N Roller",
-      "details": "LP-Marauder; ATCO"
+      "details": "LP-Marauder; ATCO",
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "38 Special",
@@ -94,7 +103,8 @@
     {
       "artist": "Led Zeppelin",
       "track": "In My Time Of Dying",
-      "details": "2xLP-Physical Grafitti; Swan Song"
+      "details": "2xLP-Physical Grafitti; Swan Song",
+      "verified_timestamp": 6480.0
     }
   ],
   "transcript": [

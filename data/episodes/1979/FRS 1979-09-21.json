@@ -15,67 +15,82 @@
     {
       "artist": "UFO",
       "track": "Lights Out",
-      "details": "LP-Strangers In The Night"
+      "details": "LP-Strangers In The Night",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Foreigner",
       "track": "Dirty White Boy",
-      "details": "LP-Head Games"
+      "details": "LP-Head Games",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Rush",
       "track": "In The End",
-      "details": "3xLP-Archives"
+      "details": "3xLP-Archives",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Status Quo",
       "track": "Whatever You Want",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Eagles",
       "track": "Those Shoes",
-      "details": "LP-Long Run"
+      "details": "LP-Long Run",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Eagles",
       "track": "In The City",
-      "details": "LP-Long Run"
+      "details": "LP-Long Run",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Motorhead",
       "track": "Limb From Limb",
-      "details": "LP-Overkill"
+      "details": "LP-Overkill",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.17
     },
     {
       "artist": "Climax Blues Band",
       "track": "live at Reading Festival",
-      "details": null
+      "details": null,
+      "verified_timestamp": 29.11
     },
     {
       "artist": "Yes",
       "track": "Yours Is No Disgrace",
-      "details": "LP-Yes Album"
+      "details": "LP-Yes Album",
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Budgie",
       "track": "Parents",
-      "details": "LP-Best Of"
+      "details": "LP-Best Of",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i know it s got",
+      "verified_timestamp": 6660.0
     },
     {
       "artist": "Whitesnake",
       "track": "Outlaw",
-      "details": "LP-Love Hunter"
+      "details": "LP-Love Hunter",
+      "verified_timestamp": 2568.41
     },
     {
       "artist": "Whitesnake",
       "track": "We Wish You Well",
-      "details": "LP-Love Hunter"
+      "details": "LP-Love Hunter",
+      "verified_timestamp": 7292.45
     }
   ],
   "transcript": [

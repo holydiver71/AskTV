@@ -27,22 +27,26 @@
     {
       "artist": "Wayne County",
       "track": "Waiting For the Marines",
-      "details": "Peel Session 1979-06-11"
+      "details": "Peel Session 1979-06-11",
+      "verified_timestamp": 503.6
     },
     {
       "artist": "Genesis",
       "track": "Burning Rope",
-      "details": "LP-And Then There Were Three"
+      "details": "LP-And Then There Were Three",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Neil Young",
       "track": "Sedan Delivery",
-      "details": "LP-Rust Never Sleeps"
+      "details": "LP-Rust Never Sleeps",
+      "verified_timestamp": 1054.46
     },
     {
       "artist": "Poco",
       "track": "Legend",
-      "details": "LP-Legend"
+      "details": "LP-Legend",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Sex Pistols",
@@ -52,7 +56,8 @@
     {
       "artist": "Sex Pistols",
       "track": "Holidays In The Sun",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Wayne County",
@@ -62,52 +67,62 @@
     {
       "artist": "King Crimson",
       "track": "Epitaph",
-      "details": "Top Gear Session 1969-08-19"
+      "details": "Top Gear Session 1969-08-19",
+      "verified_timestamp": 1695.79
     },
     {
       "artist": "King Crimson",
       "track": "The Court Of The Crimson King",
-      "details": "Top Gear Session 1969-05-06"
+      "details": "Top Gear Session 1969-05-06",
+      "verified_timestamp": 1695.79
     },
     {
       "artist": "Straight Eight",
       "track": "Tell Me If You Want To Bleed",
-      "details": "LP-No Noise From Here"
+      "details": "LP-No Noise From Here",
+      "verified_timestamp": 3047.57
     },
     {
       "artist": "Van Duren",
       "track": "Grow Yourself Up",
-      "details": "LP-Staring At The Ceiling"
+      "details": "LP-Staring At The Ceiling",
+      "verified_timestamp": 3043.77
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3059.87
     },
     {
       "artist": "Cozy Powell",
       "track": "Na Na Na",
-      "details": "7\" Single - about 20 seconds of it…"
+      "details": "7\" Single - about 20 seconds of it…",
+      "verified_timestamp": 4041.27
     },
     {
       "artist": "Rainbow",
       "track": "All Night Long",
-      "details": "LP-Down To Earth"
+      "details": "LP-Down To Earth",
+      "verified_timestamp": 4140.0
     },
     {
       "artist": "Rainbow",
       "track": "Eyes Of the World",
-      "details": "LP-Down To Earth"
+      "details": "LP-Down To Earth",
+      "verified_timestamp": 4320.0
     },
     {
       "artist": "Frank Zappa",
       "track": "I Am the Slime",
-      "details": "LP-Overnite Sensation"
+      "details": "LP-Overnite Sensation",
+      "verified_timestamp": 5543.07
     },
     {
       "artist": "Soft Machine",
       "track": "Song Of Aeolus",
-      "details": "LP-Softs"
+      "details": "LP-Softs",
+      "verified_timestamp": 5533.33
     },
     {
       "artist": "Wayne County",
@@ -117,17 +132,21 @@
     {
       "artist": "Rush",
       "track": "In The End",
-      "details": "LP-Fly By Night"
+      "details": "LP-Fly By Night",
+      "verified_timestamp": 5580.0
     },
     {
       "artist": "Caravan",
       "track": "A Hunting We Shall Go",
-      "details": "Reprise; LP-For Girls Who Grow Plump In The Night"
+      "details": "Reprise; LP-For Girls Who Grow Plump In The Night",
+      "verified_timestamp": 6093.03
     },
     {
       "artist": "Wayne County",
       "track": "Midnight Pal",
-      "details": "Peel Session 1979-06-11"
+      "details": "Peel Session 1979-06-11",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "hear the jangle of the"
     }
   ],
   "transcript": [

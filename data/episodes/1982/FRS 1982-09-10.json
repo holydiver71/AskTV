@@ -13,22 +13,26 @@
     {
       "artist": "Diamond Head",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 30.51
     },
     {
       "artist": "Randy California",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 30.51
     },
     {
       "artist": "Tygers Of Pan Tang",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 30.51
     },
     {
       "artist": "Budgie",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 30.51
     }
   ],
   "transcript": [

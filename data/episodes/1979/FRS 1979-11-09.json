@@ -23,77 +23,100 @@
     {
       "artist": "Rolling Stones",
       "track": "Miss You",
-      "details": "LP-Some Girls"
+      "details": "LP-Some Girls",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Styx",
       "track": "Borrowed Time",
-      "details": "LP-Cornerstone"
+      "details": "LP-Cornerstone",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Point Me At The Sky",
-      "details": "only the first bit; 7\" Single"
+      "details": "only the first bit; 7\" Single",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Pink Floyd",
       "track": "One Of My Turns",
-      "details": "7\" Single - B Side"
+      "details": "7\" Single - B Side",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "bigger than our apartment let",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Pink Floyd",
       "track": "Another Brick In The Wall",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Deep Purple",
       "track": "Highway Star",
-      "details": "LP-Made In Japan"
+      "details": "LP-Made In Japan",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Damned",
       "track": "'I Just Can't Be Happy Today'",
-      "details": "LP-Machine Gun Etiquette"
+      "details": "LP-Machine Gun Etiquette",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i just can t be",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Praying Mantis",
       "track": "Captured City",
-      "details": "FRS session 1979-10-31"
+      "details": "FRS session 1979-10-31",
+      "verified_timestamp": 1878.82
     },
     {
       "artist": "Amon Duul II",
       "track": "Archangels Thunderbird",
-      "details": "LP-Yeti"
+      "details": "LP-Yeti",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "Caravan",
       "track": "Hello Hello",
-      "details": "LP-1970-08-19 Session"
+      "details": "LP-1970-08-19 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "up on a hilltop far",
+      "verified_timestamp": 2498.85
     },
     {
       "artist": "Caravan",
       "track": "'If I Could Do It All Over Again I'd Do It All Over You'",
-      "details": "LP-1970-08-19 Session"
+      "details": "LP-1970-08-19 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "if i could do it"
     },
     {
       "artist": "Caravan",
       "track": "As I Feel You Die",
-      "details": "LP-1970-08-19 Session"
+      "details": "LP-1970-08-19 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "as i feel i die"
     },
     {
       "artist": "Cozy Powell",
       "track": "Killer",
-      "details": "LP-Over The Top"
+      "details": "LP-Over The Top",
+      "verified_timestamp": 3863.98
     },
     {
       "artist": "Wild Horses",
       "track": "Criminal Tendancies",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 3843.47
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.94
     },
     {
       "artist": "Praying Mantis",
@@ -103,12 +126,14 @@
     {
       "artist": "Stingray",
       "track": "Better The Devil You Know",
-      "details": "LP-Stingray"
+      "details": "LP-Stingray",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Caravan",
       "track": "Better By Far",
-      "details": "Peel session 1977-05-02"
+      "details": "Peel session 1977-05-02",
+      "verified_timestamp": 2498.85
     },
     {
       "artist": "Caravan",
@@ -133,7 +158,8 @@
     {
       "artist": "Black Sabbath",
       "track": "Paranoid",
-      "details": "LP-Paranoid"
+      "details": "LP-Paranoid",
+      "verified_timestamp": 6840.0
     },
     {
       "artist": "Barclay James Harvest",

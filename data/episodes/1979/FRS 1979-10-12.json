@@ -15,27 +15,32 @@
     {
       "artist": "Motorhead",
       "track": "Dead Men Tell No Tales",
-      "details": "LP-Bomber"
+      "details": "LP-Bomber",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Cheap Trick",
       "track": "Writing On The Wall",
-      "details": "LP-Dream Police"
+      "details": "LP-Dream Police",
+      "verified_timestamp": 434.08
     },
     {
       "artist": "Free",
       "track": "Alright Now",
-      "details": "LP-"
+      "details": "LP-",
+      "verified_timestamp": 1014.9
     },
     {
       "artist": "The Beatles",
       "track": "Yer Blues",
-      "details": "LP-White Album"
+      "details": "LP-White Album",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "The Motels",
       "track": "Dressing Up",
-      "details": "LP-Motels"
+      "details": "LP-Motels",
+      "verified_timestamp": 1537.9
     },
     {
       "artist": "Random Hold",
@@ -45,17 +50,20 @@
     {
       "artist": "Status Quo",
       "track": "Your Smiling Face",
-      "details": "LP-Whatever You Want"
+      "details": "LP-Whatever You Want",
+      "verified_timestamp": 2151.0
     },
     {
       "artist": "Marseille",
       "track": "Armed and Ready",
-      "details": "LP-Marseille"
+      "details": "LP-Marseille",
+      "verified_timestamp": 2143.22
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 54.44
     },
     {
       "artist": "Rush",
@@ -65,7 +73,8 @@
     {
       "artist": "Police",
       "track": "Message In A Bottle",
-      "details": "LP-Reggatta de Blanc"
+      "details": "LP-Reggatta de Blanc",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Les Dudek",
@@ -75,7 +84,8 @@
     {
       "artist": "Motorhead",
       "track": "Stone Dead Forever",
-      "details": "LP-Bomber"
+      "details": "LP-Bomber",
+      "verified_timestamp": 6854.42
     }
   ],
   "transcript": [

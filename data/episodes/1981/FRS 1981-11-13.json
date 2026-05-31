@@ -23,7 +23,8 @@
     {
       "artist": "Michael Schenker Group",
       "track": "'Attack Of The Mad Axeman' (LP - MSG) Chrysalis",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Diesel",
@@ -38,7 +39,8 @@
     {
       "artist": "Tangerine Dream",
       "track": "Recorded at the Royal Albert Hall on 1975-04-02",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6030.38
     },
     {
       "artist": "Sweet Savage",
@@ -53,7 +55,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 56.8
     },
     {
       "artist": "Alvin Lee",
@@ -78,7 +81,8 @@
     {
       "artist": "Tangerine Dream",
       "track": "Recorded at the Royal Albert Hall on 1975-04-02",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6030.38
     },
     {
       "artist": null,

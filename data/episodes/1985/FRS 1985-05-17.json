@@ -22,12 +22,14 @@
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 107.26
     },
     {
       "artist": "Anaconda",
       "track": "Centurion",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1389.77
     },
     {
       "artist": "Enid",

@@ -25,7 +25,8 @@
     {
       "artist": "Geordie",
       "track": "No Sweat",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 824.37
     },
     {
       "artist": "Billy Squier",
@@ -55,7 +56,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3349.66
     },
     {
       "artist": "Hughes / Thrall",
@@ -80,7 +82,8 @@
     {
       "artist": "Alice Cooper",
       "track": "'Make That Money (Scrooge's Song)' (LP-Zipper Catches Skin) Warner Bros",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5765.45
     },
     {
       "artist": "John Mizarolli",

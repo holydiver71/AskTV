@@ -39,7 +39,8 @@
     {
       "artist": "Curved Air",
       "track": "It Happened Today",
-      "details": "Sounds of the Seventies Session 10/11/1970"
+      "details": "Sounds of the Seventies Session 10/11/1970",
+      "verified_timestamp": 1171.41
     },
     {
       "artist": "Curved Air",
@@ -74,7 +75,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 62.51
     },
     {
       "artist": "Enid",
@@ -99,7 +101,8 @@
     {
       "artist": "Curved Air",
       "track": "Situations",
-      "details": "Folk On 1 Session 27/01/1971"
+      "details": "Folk On 1 Session 27/01/1971",
+      "verified_timestamp": 1171.41
     },
     {
       "artist": "Curved Air",

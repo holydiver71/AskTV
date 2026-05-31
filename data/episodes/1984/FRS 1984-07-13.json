@@ -25,37 +25,44 @@
     {
       "artist": "Scorpions",
       "track": "‘Pictured Life’",
-      "details": "LP - Tokyo Tapes"
+      "details": "LP - Tokyo Tapes",
+      "verified_timestamp": 544.71
     },
     {
       "artist": "Badlands",
       "track": "‘Love Is’",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 626.34
     },
     {
       "artist": "X",
       "track": "‘Wild Thing’",
-      "details": "LP - Ain’t Life Grand!"
+      "details": "LP - Ain’t Life Grand!",
+      "verified_timestamp": 1370.97
     },
     {
       "artist": "Glasgow",
       "track": "‘Stranded’",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 1850.72
     },
     {
       "artist": "Badlands",
       "track": "‘Badlands (53rd State) (session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 626.34
     },
     {
       "artist": "Mark King",
       "track": "Excerpt from ‘The Essential’",
-      "details": "LP - Influences"
+      "details": "LP - Influences",
+      "verified_timestamp": 2303.18
     },
     {
       "artist": "Heaven",
       "track": "‘Scream For Me’",
-      "details": "LP - Where Angels Fear To Tread"
+      "details": "LP - Where Angels Fear To Tread",
+      "verified_timestamp": 2289.4
     },
     {
       "artist": "Badlands",
@@ -65,57 +72,68 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 28.72
     },
     {
       "artist": "ICON",
       "track": "‘On Your Feet’",
-      "details": "LP - ICON"
+      "details": "LP - ICON",
+      "verified_timestamp": 3524.52
     },
     {
       "artist": "Trouble",
       "track": "‘Victim Of The Insane’",
-      "details": "LP - Trouble"
+      "details": "LP - Trouble",
+      "verified_timestamp": 4035.14
     },
     {
       "artist": "Van Stephenson",
       "track": "‘You’ve Been Lied To Before’",
-      "details": "LP - Righteous Anger"
+      "details": "LP - Righteous Anger",
+      "verified_timestamp": 4489.44
     },
     {
       "artist": "Brocas Helm",
       "track": "‘Metallic Fury’",
-      "details": "LP - Into Battle"
+      "details": "LP - Into Battle",
+      "verified_timestamp": 4481.04
     },
     {
       "artist": "Alcatrazz",
       "track": "‘Island In The Sun’",
-      "details": "LP - Live Sentence"
+      "details": "LP - Live Sentence",
+      "verified_timestamp": 4508.99
     },
     {
       "artist": "Warlord",
       "track": "‘Lost And Lonely Days’",
-      "details": "12” single"
+      "details": "12” single",
+      "verified_timestamp": 4991.85
     },
     {
       "artist": "Billy Satellite",
       "track": "‘Last Call’",
-      "details": "LP - Billy Satellite"
+      "details": "LP - Billy Satellite",
+      "verified_timestamp": 5577.13
     },
     {
       "artist": "St Vitus",
       "track": "‘White Magic, Black Magic’",
-      "details": "LP - St Vitus"
+      "details": "LP - St Vitus",
+      "verified_timestamp": 5565.85
     },
     {
       "artist": "Eric Steel",
       "track": "‘Lady Luck’",
-      "details": "LP - Eric Steel"
+      "details": "LP - Eric Steel",
+      "verified_timestamp": 6177.63
     },
     {
       "artist": "Znowhite",
       "track": "‘Saturday Night’",
-      "details": "LP - All Hail To Thee"
+      "details": "LP - All Hail To Thee",
+      "verified_timestamp": 6144.45
     },
     {
       "artist": "Max Havoc",
@@ -130,7 +148,8 @@
     {
       "artist": "Lizzy Borden",
       "track": "‘No Time To Lose’",
-      "details": "LP - Give ‘Em The Axe"
+      "details": "LP - Give ‘Em The Axe",
+      "verified_timestamp": 6584.31
     },
     {
       "artist": "Legs Diamond",

@@ -101,7 +101,9 @@
       "artist": "Nils Lofgren",
       "track": "No Mercy",
       "details": "LP-Nils",
-      "verified_timestamp": 5400.0
+      "verified_timestamp": 5400.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "out for the first the"
     },
     {
       "artist": "Pink Fairies",
@@ -684,7 +686,7 @@
     {
       "start": 3592.87,
       "end": 3595.95,
-      "text": "This half of the deal was to put together his own Friday Night Connection."
+      "text": "his half of the deal was to put together his own Friday Night Connection."
     },
     {
       "start": 3595.95,
@@ -701,216 +703,6 @@
       "end": 4278.0,
       "text": "[Music]",
       "type": "music"
-    },
-    {
-      "start": 4278.0,
-      "end": 4285.59,
-      "text": "occupation big shot occupation at the moment just having fun what a party that was the drinks were"
-    },
-    {
-      "start": 4285.59,
-      "end": 4290.99,
-      "text": "loaded and so were the dolls i narrowed my eyes and bought a stiff manhattan then i saw"
-    },
-    {
-      "start": 4290.99,
-      "end": 4299.38,
-      "text": "hot seat what a dame a big bountiful babe in the region of 48 23 38 one hell of a region"
-    },
-    {
-      "start": 4299.38,
-      "end": 4305.44,
-      "text": "she had the hottest lips since hiroshima i had to stand back for fear of being burned"
-    },
-    {
-      "start": 4305.44,
-      "end": 4313.02,
-      "text": "whiskey wow wow i breathed she was dressed as before the bear and that kind of outfit"
-    },
-    {
-      "start": 4313.02,
-      "end": 4327.58,
-      "text": "she could roll at night it's kind of revealing isn't it revealing it's positively risque i like"
-    },
-    {
-      "start": 4328.24,
-      "end": 4330.88,
-      "text": "She said, you're a man with a thousand G's, right?"
-    },
-    {
-      "start": 4331.24,
-      "end": 4332.34,
-      "text": "A thousand what I quit?"
-    },
-    {
-      "start": 4332.46,
-      "end": 4334.52,
-      "text": "Why, G-man, girls, guns, guts."
-    },
-    {
-      "start": 4335.12,
-      "end": 4335.9,
-      "text": "You're my type."
-    },
-    {
-      "start": 4336.46,
-      "end": 4337.12,
-      "text": "Wrong, baby."
-    },
-    {
-      "start": 4337.18,
-      "end": 4337.94,
-      "text": "I slapped her hard."
-    },
-    {
-      "start": 4338.0,
-      "end": 4338.76,
-      "text": "I'm an old man."
-    },
-    {
-      "start": 4339.12,
-      "end": 4340.56,
-      "text": "Strictly liquor, love, and laughs."
-    },
-    {
-      "start": 4341.3,
-      "end": 4342.52,
-      "text": "She stared over my shoulder."
-    },
-    {
-      "start": 4343.22,
-      "end": 4344.02,
-      "text": "Play it cool, Johnny."
-    },
-    {
-      "start": 4344.86,
-      "end": 4345.4,
-      "text": "Play it what?"
-    },
-    {
-      "start": 4345.44,
-      "end": 4345.88,
-      "text": "I flipped."
-    },
-    {
-      "start": 4346.32,
-      "end": 4348.72,
-      "text": "Listen, I fought my way up from Tuffy's side in New York."
-    },
-    {
-      "start": 4348.72,
-      "end": 4351.1,
-      "text": "Lead-filled sacks and submachine guns."
-    },
-    {
-      "start": 4351.64,
-      "end": 4352.22,
-      "text": "Like this."
-    },
-    {
-      "start": 4358.78,
-      "end": 4360.14,
-      "text": "Johnny, this is a deadly game."
-    },
-    {
-      "start": 4360.24,
-      "end": 4361.62,
-      "text": "Have a few laughs and go home."
-    },
-    {
-      "start": 4362.46,
-      "end": 4363.2,
-      "text": "I shuddered."
-    },
-    {
-      "start": 4363.5,
-      "end": 4367.66,
-      "text": "Normally I pack a rod in pyjamas, I carry nothing but scars from Normandy Beach."
-    },
-    {
-      "start": 4368.3,
-      "end": 4370.2,
-      "text": "I said, wrong baby, you can't fool me."
-    },
-    {
-      "start": 4370.68,
-      "end": 4371.74,
-      "text": "She spat playfully."
-    },
-    {
-      "start": 4372.26,
-      "end": 4373.46,
-      "text": "I'm ahead of you, Johnny."
-    },
-    {
-      "start": 4374.66,
-      "end": 4377.28,
-      "text": "I started the swell of her enormous boobs and said,"
-    },
-    {
-      "start": 4377.94,
-      "end": 4381.58,
-      "text": "So far ahead, it's beautiful."
-    },
-    {
-      "start": 4428.24,
-      "end": 4429.68,
-      "text": "You're eccentric, I like that."
-    },
-    {
-      "start": 4430.16,
-      "end": 4432.78,
-      "text": "Electric, sherry, you bumped off my rocket, tu comprends."
-    },
-    {
-      "start": 4433.08,
-      "end": 4434.28,
-      "text": "We spoke French fluently."
-    },
-    {
-      "start": 4434.9,
-      "end": 4437.98,
-      "text": "Our lips met again and again, yeah, yeah, yeah, I slobbered."
-    },
-    {
-      "start": 4438.26,
-      "end": 4440.9,
-      "text": "Hot, he said, you're slobbering all over the seat, kid."
-    },
-    {
-      "start": 4441.82,
-      "end": 4444.6,
-      "text": "I went home late, very late."
-    },
-    {
-      "start": 4445.04,
-      "end": 4446.04,
-      "text": "What can I say to my wife?"
-    },
-    {
-      "start": 4446.5,
-      "end": 4447.98,
-      "text": "Darling, I've been beaten up again."
-    },
-    {
-      "start": 4448.64,
-      "end": 4450.38,
-      "text": "Let's face it, she's credulous as hell."
-    },
-    {
-      "start": 4451.5,
-      "end": 4452.7,
-      "text": "A punk stopped me on the street."
-    },
-    {
-      "start": 4452.78,
-      "end": 4454.64,
-      "text": "He said, you got a light back?"
-    },
-    {
-      "start": 4455.2,
-      "end": 4457.96,
-      "text": "I said, no, but I got a dark brown overcoat."
     },
     {
       "start": 4472.64,
@@ -1083,75 +875,10 @@
       "text": "Nils Lofgren has got a new album out."
     },
     {
-      "start": 5268.62,
-      "end": 5287.81,
-      "text": "Out for the first, atmosphere's heavy"
-    },
-    {
-      "start": 5287.81,
-      "end": 5291.74,
-      "text": "World title days on the line"
-    },
-    {
-      "start": 5291.74,
-      "end": 5295.96,
-      "text": "Strong and proud, he is much older"
-    },
-    {
-      "start": 5295.96,
-      "end": 5300.22,
-      "text": "I'm the faster, I'm in my prime"
-    },
-    {
-      "start": 5300.22,
-      "end": 5307.73,
-      "text": "Third round late, he starts to tire"
-    },
-    {
-      "start": 5307.73,
-      "end": 5312.04,
-      "text": "Open cut over his left eye"
-    },
-    {
-      "start": 5312.04,
-      "end": 5316.12,
-      "text": "Smelling blood, attack is relentless"
-    },
-    {
-      "start": 5316.12,
-      "end": 5320.98,
-      "text": "In the box seats I see his girl cry"
-    },
-    {
-      "start": 5320.98,
-      "end": 5357.0,
-      "text": "In one's eyes there are holes in my head"
-    },
-    {
-      "start": 5357.0,
-      "end": 5360.26,
-      "text": "But is his power a determined mother?"
-    },
-    {
       "start": 5400.0,
       "end": 5719.34,
       "text": "[Music]",
       "type": "music"
-    },
-    {
-      "start": 5441.4,
-      "end": 5444.46,
-      "text": "His eyes are flooded, God, he can't even see"
-    },
-    {
-      "start": 5444.46,
-      "end": 5448.77,
-      "text": "I've hunted this title but now it don't seem right"
-    },
-    {
-      "start": 5448.77,
-      "end": 5453.2,
-      "text": "I fight back tears while I destroy his life"
     },
     {
       "start": 5453.2,

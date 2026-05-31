@@ -18,47 +18,56 @@
     {
       "artist": "Little Steven",
       "track": "Out Of The Darkness",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 56.54
     },
     {
       "artist": "Cars",
       "track": "You Might Think",
-      "details": "LP - Heartbeat City"
+      "details": "LP - Heartbeat City",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Jim Steinman",
       "track": "Tonight Is What It Means To Be Young",
-      "details": "Streets Of Fire OST"
+      "details": "Streets Of Fire OST",
+      "verified_timestamp": 500.95
     },
     {
       "artist": "Twisted Sister",
       "track": "We’re Not Gonna Take It",
-      "details": "LP - Stay Hungry"
+      "details": "LP - Stay Hungry",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Marillion",
       "track": "Assassing",
-      "details": "LP - Fugazi"
+      "details": "LP - Fugazi",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Status Quo",
       "track": "Going Down Town Tonight",
-      "details": "LP - Back To Back"
+      "details": "LP - Back To Back",
+      "verified_timestamp": 1228.23
     },
     {
       "artist": "Ozzy Osbourne",
       "track": "Bark At The Moon",
-      "details": "B side of So Tired single"
+      "details": "B side of So Tired single",
+      "verified_timestamp": 1489.46
     },
     {
       "artist": "Queen",
       "track": "I Want To Break Free",
-      "details": "LP - The Works"
+      "details": "LP - The Works",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 25.51
     },
     {
       "artist": null,

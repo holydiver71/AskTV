@@ -29,7 +29,8 @@
     {
       "artist": "Tytan",
       "track": "Cold Bitch",
-      "details": "Session"
+      "details": "Session",
+      "verified_timestamp": 579.04
     },
     {
       "artist": "The Rods",
@@ -39,7 +40,8 @@
     {
       "artist": "Phil Manzanera's 801",
       "track": "On Remote Control",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 991.34
     },
     {
       "artist": "Diamond Head",
@@ -59,17 +61,20 @@
     {
       "artist": "Iron Maiden",
       "track": "'Hallowed Be Thy Name' (LP-The Number Of The Beast) EMI",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2978.51
     },
     {
       "artist": "Rainbow",
       "track": "'Stone Cold' (LP-Straight Between The Eyes) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6590.61
     },
     {
       "artist": "Rainbow",
       "track": "'Eyes Of Fire' (LP-Straight Between The Eyes) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 6590.61
     },
     {
       "artist": "Phil Manzanera's 801",
@@ -79,7 +84,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 60.64
     },
     {
       "artist": "Tytan",

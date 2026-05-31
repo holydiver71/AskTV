@@ -17,7 +17,8 @@
     {
       "artist": null,
       "track": "Part 1",
-      "details": null
+      "details": null,
+      "verified_timestamp": 31.78
     },
     {
       "artist": "Angel Witch",
@@ -42,7 +43,8 @@
     {
       "artist": "Armistice",
       "track": "Land Of The Giants",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1260.32
     },
     {
       "artist": "Carnivore",
@@ -52,22 +54,26 @@
     {
       "artist": "Elixir",
       "track": "Treachery (Ride Like The Wind) Elixir",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1742.99
     },
     {
       "artist": null,
       "track": "news",
-      "details": null
+      "details": null,
+      "verified_timestamp": 499.61
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1900.1
     },
     {
       "artist": "Armistice",
       "track": "Roses",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1260.32
     },
     {
       "artist": "Bon Jovi",
@@ -82,12 +88,14 @@
     {
       "artist": null,
       "track": "Part 2",
-      "details": null
+      "details": null,
+      "verified_timestamp": 31.78
     },
     {
       "artist": "Saxon",
       "track": "Waiting For The Night (7\") EMI",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Deaf Dealer",
@@ -112,7 +120,8 @@
     {
       "artist": null,
       "track": "Interview with Ozzy Osbourne",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5587.49
     },
     {
       "artist": "Vectom",
@@ -122,17 +131,20 @@
     {
       "artist": null,
       "track": "Interview with Ozzy Osbourne",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5587.49
     },
     {
       "artist": "Ozzy Osbourne",
       "track": "Shot In The Dark (7\") Epic",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5940.0
     },
     {
       "artist": null,
       "track": "Interview with Ozzy Osbourne",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5587.49
     },
     {
       "artist": "Agnostic Front",
@@ -142,7 +154,8 @@
     {
       "artist": null,
       "track": "Interview with Ozzy Osbourne",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5587.49
     },
     {
       "artist": "Ozzy Osbourne",
@@ -152,7 +165,3335 @@
     {
       "artist": null,
       "track": "news",
-      "details": null
+      "details": null,
+      "verified_timestamp": 499.61
+    }
+  ],
+  "transcript": [
+    {
+      "start": 1.52,
+      "end": 8.78,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 8.78,
+      "end": 31.78,
+      "text": "This is TV on the Radio, Thomas Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 31.78,
+      "end": 40.26,
+      "text": "At about 11.30 tonight, my guest on this here party is the man who headlines tomorrow's Monster of Rock Festival at Castle Dunnington."
+    },
+    {
+      "start": 40.26,
+      "end": 44.26,
+      "text": "He is that lovable, legendary rock singer, Ozzy Osbourne."
+    },
+    {
+      "start": 44.26,
+      "end": 60.25,
+      "text": "Now before I see we've got lots of good thud and thump for you"
+    },
+    {
+      "start": 60.25,
+      "end": 63.43,
+      "text": "via Angel Witch, Carnivore, Elixir and Death Dealer."
+    },
+    {
+      "start": 64.55,
+      "end": 68.35,
+      "text": "Cro-Mags, Exciter, Fastwave, Rainbow, Kiss and Bon Jovi."
+    },
+    {
+      "start": 69.25,
+      "end": 72.7,
+      "text": "If you've got the ears, I get the noise."
+    },
+    {
+      "start": 73.46,
+      "end": 459.57,
+      "text": "I am the BBC."
+    },
+    {
+      "start": 460.25,
+      "end": 463.87,
+      "text": "Today we're talking to a man who saluted one of America's national monuments"
+    },
+    {
+      "start": 463.87,
+      "end": 465.31,
+      "text": "in his own watery way."
+    },
+    {
+      "start": 465.69,
+      "end": 468.19,
+      "text": "The man who has scythed his way across continents,"
+    },
+    {
+      "start": 468.55,
+      "end": 471.09,
+      "text": "wreaking havoc and leaving his fans open-mouthed in awe"
+    },
+    {
+      "start": 471.09,
+      "end": 474.71,
+      "text": "and also rather deaf, Mr. Ozzy Osbourne."
+    },
+    {
+      "start": 475.33,
+      "end": 479.21,
+      "text": "Mr. Osbourne, why do they call you the monster of rock?"
+    },
+    {
+      "start": 479.43,
+      "end": 481.71,
+      "text": "Because I eat bats' heads."
+    },
+    {
+      "start": 481.81,
+      "end": 483.39,
+      "text": "Ah, I see. That's extremely interesting."
+    },
+    {
+      "start": 483.61,
+      "end": 485.37,
+      "text": "Now, how terribly novel that seems to me."
+    },
+    {
+      "start": 485.41,
+      "end": 487.55,
+      "text": "Is that something that is part of a rock singer's diet?"
+    },
+    {
+      "start": 487.93,
+      "end": 489.27,
+      "text": "What else do you actually eat?"
+    },
+    {
+      "start": 489.59,
+      "end": 492.45,
+      "text": "I eat microphones, cars, people's buildings."
+    },
+    {
+      "start": 492.61,
+      "end": 496.09,
+      "text": "In fact, I'm going to eat the BBC, starting with Television Centre."
+    },
+    {
+      "start": 496.09,
+      "end": 499.61,
+      "text": "Oh, my God, there he goes, straight down his throat."
+    },
+    {
+      "start": 499.61,
+      "end": 503.69,
+      "text": "The whole of television news, the whole of the newsroom, including Sue Lawley's legs."
+    },
+    {
+      "start": 504.13,
+      "end": 506.69,
+      "text": "Good heavens, Mr. Osborne is stewing Top of the Pops."
+    },
+    {
+      "start": 506.85,
+      "end": 509.27,
+      "text": "Now he's cramming the late, late breakfast show into his mouth."
+    },
+    {
+      "start": 509.43,
+      "end": 511.53,
+      "text": "Amazing. Noel's hair doesn't even move."
+    },
+    {
+      "start": 511.77,
+      "end": 513.37,
+      "text": "Ozzy Osborne is now striding across London."
+    },
+    {
+      "start": 513.59,
+      "end": 515.81,
+      "text": "He's tearing a broadcasting house. It's in his hand."
+    },
+    {
+      "start": 515.97,
+      "end": 521.25,
+      "text": "He plucks out Mike Smith, Mike Reed, Janice Long, Steve Wright, and now he eats."
+    },
+    {
+      "start": 524.86,
+      "end": 527.58,
+      "text": "Mr. Ozzy Osborne, following his light supper,"
+    },
+    {
+      "start": 527.58,
+      "end": 529.82,
+      "text": "will be a guest on the Friday Rock Show"
+    },
+    {
+      "start": 529.82,
+      "end": 530.84,
+      "text": "at 10pm."
+    },
+    {
+      "start": 531.62,
+      "end": 719.28,
+      "text": "From QR3, it's their new album"
+    },
+    {
+      "start": 719.28,
+      "end": 721.44,
+      "text": "that's Quiet Riot there. It's out on the Epic, a record"
+    },
+    {
+      "start": 721.44,
+      "end": 723.08,
+      "text": "label. The track was called Down and Dirty."
+    },
+    {
+      "start": 723.22,
+      "end": 725.26,
+      "text": "Before that, our little trailer for the appearance"
+    },
+    {
+      "start": 725.26,
+      "end": 727.4,
+      "text": "of Ozzy Osbourne later on this programme. Should be in the studio"
+    },
+    {
+      "start": 727.4,
+      "end": 729.38,
+      "text": "about 11.30. Lovable little"
+    },
+    {
+      "start": 729.38,
+      "end": 731.24,
+      "text": "chum that he is. Tomorrow, on the"
+    },
+    {
+      "start": 731.24,
+      "end": 732.7,
+      "text": "Darlington stage. Gonna be a good one."
+    },
+    {
+      "start": 733.28,
+      "end": 735.2,
+      "text": "Angel, which you heard before Quiet Riot from their"
+    },
+    {
+      "start": 735.2,
+      "end": 737.16,
+      "text": "album, which really is superb. It's on the Kilowatt"
+    },
+    {
+      "start": 737.16,
+      "end": 739.26,
+      "text": "record label, Frontal Assault. And who wouldn't?"
+    },
+    {
+      "start": 739.54,
+      "end": 741.06,
+      "text": "Rendezvous with a Blade is what it's called."
+    },
+    {
+      "start": 741.18,
+      "end": 742.26,
+      "text": "That's the track, anyway."
+    },
+    {
+      "start": 742.56,
+      "end": 743.34,
+      "text": "It's eight minutes past ten."
+    },
+    {
+      "start": 743.36,
+      "end": 747.18,
+      "text": "This is a little card that tells me that Patrick Cook has got a birthday today."
+    },
+    {
+      "start": 748.12,
+      "end": 748.48,
+      "text": "Nineteenth."
+    },
+    {
+      "start": 748.54,
+      "end": 749.62,
+      "text": "Actually, it was his birthday yesterday."
+    },
+    {
+      "start": 749.84,
+      "end": 751.48,
+      "text": "So he's nineteen and one day."
+    },
+    {
+      "start": 751.96,
+      "end": 754.22,
+      "text": "Please say it's from the Juice Man."
+    },
+    {
+      "start": 754.62,
+      "end": 755.36,
+      "text": "Whatever that means."
+    },
+    {
+      "start": 755.68,
+      "end": 756.68,
+      "text": "Somebody who works in a garage."
+    },
+    {
+      "start": 757.28,
+      "end": 758.94,
+      "text": "Aldrich in West Midlands."
+    },
+    {
+      "start": 759.38,
+      "end": 759.72,
+      "text": "Claire."
+    },
+    {
+      "start": 759.96,
+      "end": 760.76,
+      "text": "A little lady called Claire."
+    },
+    {
+      "start": 761.4,
+      "end": 768.08,
+      "text": "Tom, just say hello and thank you to my mate Sandy from 23 Sydney Road, Rugby, Warwickshire."
+    },
+    {
+      "start": 768.26,
+      "end": 770.22,
+      "text": "For giving me a ticket to Donington this year."
+    },
+    {
+      "start": 770.58,
+      "end": 771.16,
+      "text": "See you there, Claire."
+    },
+    {
+      "start": 771.9,
+      "end": 773.0,
+      "text": "Also, this is awesome."
+    },
+    {
+      "start": 773.1,
+      "end": 774.16,
+      "text": "Great artwork on this one."
+    },
+    {
+      "start": 774.32,
+      "end": 776.46,
+      "text": "It's from Rocking Paul, the handsome and tall."
+    },
+    {
+      "start": 776.78,
+      "end": 778.64,
+      "text": "He says, please say hello to the amazing Clark Brothers,"
+    },
+    {
+      "start": 779.0,
+      "end": 780.28,
+      "text": "Stew the Maniac Wiltshire,"
+    },
+    {
+      "start": 780.72,
+      "end": 782.62,
+      "text": "Bake, the bowl of sick."
+    },
+    {
+      "start": 782.92,
+      "end": 784.5,
+      "text": "What an awful thing to say on the BBC."
+    },
+    {
+      "start": 784.98,
+      "end": 787.16,
+      "text": "And somebody called Frankie Baby as well."
+    },
+    {
+      "start": 787.44,
+      "end": 788.92,
+      "text": "And may I say, Rocking Paul,"
+    },
+    {
+      "start": 789.6,
+      "end": 791.52,
+      "text": "that the artwork is absolutely marvellous."
+    },
+    {
+      "start": 791.58,
+      "end": 793.7,
+      "text": "And if you know the model's phone number, I'll have it."
+    },
+    {
+      "start": 794.42,
+      "end": 810.44,
+      "text": "I'm enjoying myself here tonight so much,"
+    },
+    {
+      "start": 810.44,
+      "end": 812.62,
+      "text": "I'm playing something at 33 when it should be at 45."
+    },
+    {
+      "start": 812.8,
+      "end": 813.78,
+      "text": "And like this."
+    },
+    {
+      "start": 1259.24,
+      "end": 1260.2,
+      "text": "That's a repeat session."
+    },
+    {
+      "start": 1260.32,
+      "end": 1261.2,
+      "text": "They're called Armistice."
+    },
+    {
+      "start": 1261.48,
+      "end": 1262.08,
+      "text": "Good man."
+    },
+    {
+      "start": 1262.38,
+      "end": 1263.6,
+      "text": "The track was called Land of the Giants."
+    },
+    {
+      "start": 1263.66,
+      "end": 1264.28,
+      "text": "Two more from them."
+    },
+    {
+      "start": 1264.66,
+      "end": 1266.68,
+      "text": "Before that, something by Fastway came out as a 12-incher,"
+    },
+    {
+      "start": 1266.76,
+      "end": 1268.08,
+      "text": "or part of a 12-incher some time ago."
+    },
+    {
+      "start": 1268.16,
+      "end": 1269.64,
+      "text": "It was called All Fired Up."
+    },
+    {
+      "start": 1269.7,
+      "end": 1271.82,
+      "text": "It's 22 minutes now, exactly past 10."
+    },
+    {
+      "start": 1271.9,
+      "end": 1274.1,
+      "text": "Dear Thomas Vance, says Fraser and the Lads."
+    },
+    {
+      "start": 1274.56,
+      "end": 1274.8,
+      "text": "Hello."
+    },
+    {
+      "start": 1275.28,
+      "end": 1277.28,
+      "text": "Fraser and Chaz and Bert and Wits and Beastie"
+    },
+    {
+      "start": 1277.28,
+      "end": 1279.82,
+      "text": "and all the rest of that lot deserve a mention"
+    },
+    {
+      "start": 1279.82,
+      "end": 1282.42,
+      "text": "because they're travelling down tonight from Selkirk and the Borders"
+    },
+    {
+      "start": 1282.42,
+      "end": 1286.28,
+      "text": "down toward Donington for what we hope will be a great weekend."
+    },
+    {
+      "start": 1286.28,
+      "end": 1288.56,
+      "text": "any record will do something by"
+    },
+    {
+      "start": 1288.56,
+      "end": 1290.48,
+      "text": "Buck's Fears or something by the"
+    },
+    {
+      "start": 1290.48,
+      "end": 1292.64,
+      "text": "Nolans, so, okay, they're not available"
+    },
+    {
+      "start": 1292.64,
+      "end": 1294.6,
+      "text": "so how about something by Carnivore"
+    },
+    {
+      "start": 1294.6,
+      "end": 1739.17,
+      "text": "and Elixir, from the album"
+    },
+    {
+      "start": 1739.17,
+      "end": 1741.01,
+      "text": "The Son of Odin, it's out on their own record label"
+    },
+    {
+      "start": 1741.01,
+      "end": 1742.99,
+      "text": "the Elixir record label, right, the track was called"
+    },
+    {
+      "start": 1742.99,
+      "end": 1745.07,
+      "text": "Treachery Ride Like the Wind, hello from one of the"
+    },
+    {
+      "start": 1745.07,
+      "end": 1746.85,
+      "text": "guitarists whom I met from that band"
+    },
+    {
+      "start": 1746.85,
+      "end": 1748.49,
+      "text": "to all his mates, and I think his mum as well"
+    },
+    {
+      "start": 1748.49,
+      "end": 1751.33,
+      "text": "in Luton, but I lost a bit of paper sir, sorry about that"
+    },
+    {
+      "start": 1751.33,
+      "end": 1753.05,
+      "text": "buy the album, excuse me"
+    },
+    {
+      "start": 1753.05,
+      "end": 1755.07,
+      "text": "please, because they borrow the money from the bank"
+    },
+    {
+      "start": 1755.07,
+      "end": 1757.05,
+      "text": "and if you don't buy it, and if they don't get the money back"
+    },
+    {
+      "start": 1757.05,
+      "end": 1759.13,
+      "text": "into the bank, all their houses are going to go down the"
+    },
+    {
+      "start": 1759.13,
+      "end": 1761.13,
+      "text": "tube. Before that you heard Carnivore"
+    },
+    {
+      "start": 1761.13,
+      "end": 1762.89,
+      "text": "from an album called Carnivore."
+    },
+    {
+      "start": 1763.31,
+      "end": 1765.07,
+      "text": "Only available in"
+    },
+    {
+      "start": 1765.07,
+      "end": 1767.17,
+      "text": "import shops, just out in New York actually, they're from"
+    },
+    {
+      "start": 1767.17,
+      "end": 1768.65,
+      "text": "New York, very hard band."
+    },
+    {
+      "start": 1769.13,
+      "end": 1771.07,
+      "text": "The track was called Armageddon. Don't forget"
+    },
+    {
+      "start": 1771.07,
+      "end": 1773.15,
+      "text": "Ozzy Osbourne at 11.30"
+    },
+    {
+      "start": 1773.15,
+      "end": 1774.97,
+      "text": "tonight on this here channel."
+    },
+    {
+      "start": 1783.9,
+      "end": 1785.14,
+      "text": "10.30, Tony Nutter"
+    },
+    {
+      "start": 1785.14,
+      "end": 1787.38,
+      "text": "reporting. The Queen Mother is spending"
+    },
+    {
+      "start": 1787.38,
+      "end": 1789.06,
+      "text": "the night in hospital in Aberdeen."
+    },
+    {
+      "start": 1789.18,
+      "end": 1791.02,
+      "text": "She was flown there by helicopter from the"
+    },
+    {
+      "start": 1791.02,
+      "end": 1793.18,
+      "text": "Castle of May, her home in Caithness, where"
+    },
+    {
+      "start": 1793.18,
+      "end": 1795.22,
+      "text": "she's been on holiday. The Queen Mother had"
+    },
+    {
+      "start": 1795.24,
+      "end": 1797.74,
+      "text": "complained of discomfort following a meal last night."
+    },
+    {
+      "start": 1798.18,
+      "end": 1800.58,
+      "text": "Clarence House said this evening that she's resting comfortably."
+    },
+    {
+      "start": 1800.94,
+      "end": 1802.5,
+      "text": "From Aberdeen, Colin Blaine reports."
+    },
+    {
+      "start": 1802.52,
+      "end": 1804.16,
+      "text": "Doctors at Aberdeen Royal Infirmary,"
+    },
+    {
+      "start": 1804.28,
+      "end": 1806.16,
+      "text": "the biggest hospital in the north-east of Scotland,"
+    },
+    {
+      "start": 1806.46,
+      "end": 1808.76,
+      "text": "are said to be very happy with the Queen Mother's condition."
+    },
+    {
+      "start": 1809.48,
+      "end": 1812.62,
+      "text": "A spokesman for the Queen Mother, described as Sheer Buncombe,"
+    },
+    {
+      "start": 1812.9,
+      "end": 1815.52,
+      "text": "reports that she was being prepared for surgery in the morning."
+    },
+    {
+      "start": 1815.88,
+      "end": 1818.44,
+      "text": "The hospital itself is saying little about its royal patient."
+    },
+    {
+      "start": 1819.1,
+      "end": 1820.94,
+      "text": "The Queen Mother is staying in a private room"
+    },
+    {
+      "start": 1820.94,
+      "end": 1822.84,
+      "text": "in the most modern part of the complex,"
+    },
+    {
+      "start": 1823.34,
+      "end": 1825.46,
+      "text": "a section she opened nearly 20 years ago."
+    },
+    {
+      "start": 1825.9,
+      "end": 1827.64,
+      "text": "If the Queen Mother is suffering discomfort,"
+    },
+    {
+      "start": 1828.0,
+      "end": 1830.76,
+      "text": "perhaps in her throat as a result of eating fish last night,"
+    },
+    {
+      "start": 1830.76,
+      "end": 1833.2,
+      "text": "there was no sign of that when she welcomed the Queen"
+    },
+    {
+      "start": 1833.2,
+      "end": 1836.16,
+      "text": "off the Royal Yacht Britannia at Scrabster earlier today."
+    },
+    {
+      "start": 1836.9,
+      "end": 1838.74,
+      "text": "It's been confirmed that the Queen will go ahead"
+    },
+    {
+      "start": 1838.74,
+      "end": 1841.26,
+      "text": "with a visit to Aberdeen Harbour in the morning as planned."
+    },
+    {
+      "start": 1841.58,
+      "end": 1845.02,
+      "text": "President Reagan has given the go-ahead for the building of a new space shuttle"
+    },
+    {
+      "start": 1845.02,
+      "end": 1848.76,
+      "text": "to replace the Challenger, which exploded shortly after liftoff in January."
+    },
+    {
+      "start": 1849.18,
+      "end": 1850.92,
+      "text": "It'll cost nearly $3,000 million"
+    },
+    {
+      "start": 1850.92,
+      "end": 1853.6,
+      "text": "and is expected to be ready by 1991."
+    },
+    {
+      "start": 1854.34,
+      "end": 1857.14,
+      "text": "The controversial Liverpool city councillor Derek Hatton"
+    },
+    {
+      "start": 1857.14,
+      "end": 1860.8,
+      "text": "has stepped down as chairman of the Labour Party's broad green constituency."
+    },
+    {
+      "start": 1861.36,
+      "end": 1864.0,
+      "text": "Mr Hatton was expelled by Labour's national executive"
+    },
+    {
+      "start": 1864.0,
+      "end": 1866.36,
+      "text": "for alleged membership of militant tendency."
+    },
+    {
+      "start": 1867.3,
+      "end": 1869.54,
+      "text": "In Northern Ireland, nine people have been arrested"
+    },
+    {
+      "start": 1869.54,
+      "end": 1872.1,
+      "text": "during skirmishes at Kilkeel in County Down."
+    },
+    {
+      "start": 1872.1,
+      "end": 1875.02,
+      "text": "The police say the trouble came after a nationalist march."
+    },
+    {
+      "start": 1875.48,
+      "end": 1876.94,
+      "text": "There were also a number of arrests"
+    },
+    {
+      "start": 1876.94,
+      "end": 1880.1,
+      "text": "after the traditional 15th of August parade in Tomb Bridge,"
+    },
+    {
+      "start": 1880.1,
+      "end": 1882.78,
+      "text": "A petrol bomb was thrown and one person was injured."
+    },
+    {
+      "start": 1883.68,
+      "end": 1887.54,
+      "text": "Police looking for the Healy family, missing from Stockport in Greater Manchester,"
+    },
+    {
+      "start": 1887.74,
+      "end": 1890.3,
+      "text": "have begun searching woodland near Hollywood in Clwyd."
+    },
+    {
+      "start": 1890.7,
+      "end": 1893.32,
+      "text": "Mr Healy disappeared after apparently faking suicide."
+    },
+    {
+      "start": 1893.62,
+      "end": 1896.84,
+      "text": "Police have said they're certain his wife and stepdaughter are dead."
+    },
+    {
+      "start": 1897.28,
+      "end": 1899.26,
+      "text": "And that's it for now. The next News on 1 is at midnight."
+    },
+    {
+      "start": 1900.1,
+      "end": 1913.25,
+      "text": "10.33, time to lie back and enjoy it."
+    },
+    {
+      "start": 1916.52,
+      "end": 1919.16,
+      "text": "Music's put together tonight by Craig, the killer Cameron."
+    },
+    {
+      "start": 1919.16,
+      "end": 1921.38,
+      "text": "A price slip in Middlesex."
+    },
+    {
+      "start": 1922.17,
+      "end": 1923.37,
+      "text": "Brick it close, actually."
+    },
+    {
+      "start": 1924.03,
+      "end": 1927.77,
+      "text": "Dear Thomas, I really enjoy the Friday Rock Show, and I agree with you."
+    },
+    {
+      "start": 1927.99,
+      "end": 1929.17,
+      "text": "Two hours a week ain't enough."
+    },
+    {
+      "start": 1929.63,
+      "end": 1932.43,
+      "text": "If you're into metal, and you're mental about it,"
+    },
+    {
+      "start": 1932.81,
+      "end": 1936.92,
+      "text": "I'd really appreciate it if you would play the following tracks."
+    },
+    {
+      "start": 1937.22,
+      "end": 1940.0,
+      "text": "I don't know what albums they're from, but they're all classics, he says."
+    },
+    {
+      "start": 1940.0,
+      "end": 1941.74,
+      "text": "Well, I've got them all out of the library, and I've got them here."
+    },
+    {
+      "start": 1942.06,
+      "end": 1942.56,
+      "text": "And I agree."
+    },
+    {
+      "start": 1943.08,
+      "end": 1945.08,
+      "text": "Not enough metal on the radio here at the BBC."
+    },
+    {
+      "start": 1945.82,
+      "end": 1947.32,
+      "text": "One day somebody will do something about it."
+    },
+    {
+      "start": 1947.94,
+      "end": 1948.84,
+      "text": "But don't hold your breath."
+    },
+    {
+      "start": 2955.2,
+      "end": 2956.4,
+      "text": "Cameron of Ryslip."
+    },
+    {
+      "start": 2956.4,
+      "end": 2959.84,
+      "text": "Four tracks, good stuff"
+    },
+    {
+      "start": 2959.84,
+      "end": 2961.86,
+      "text": "From the album Creatures of the Night"
+    },
+    {
+      "start": 2961.86,
+      "end": 2963.66,
+      "text": "Came out in 82, right by Kiss"
+    },
+    {
+      "start": 2963.66,
+      "end": 2965.14,
+      "text": "I Love It Loud, that track was"
+    },
+    {
+      "start": 2965.14,
+      "end": 2967.78,
+      "text": "The follow from 1983, the album was called"
+    },
+    {
+      "start": 2967.78,
+      "end": 2969.66,
+      "text": "Metal Health, Quiet Riot"
+    },
+    {
+      "start": 2969.66,
+      "end": 2970.54,
+      "text": "On the title track"
+    },
+    {
+      "start": 2970.54,
+      "end": 2973.08,
+      "text": "Queen's Rite, we've got a new album out"
+    },
+    {
+      "start": 2973.08,
+      "end": 2975.68,
+      "text": "Queen of the Rite was a single that came out in 1983"
+    },
+    {
+      "start": 2975.68,
+      "end": 2977.97,
+      "text": "And from back in 1979"
+    },
+    {
+      "start": 2977.97,
+      "end": 2980.53,
+      "text": "Rainbow, we played it from the best of Rainbow"
+    },
+    {
+      "start": 2980.53,
+      "end": 2981.83,
+      "text": "All Night Long"
+    },
+    {
+      "start": 2981.83,
+      "end": 2987.02,
+      "text": "All put together by Craig Cameron"
+    },
+    {
+      "start": 2987.02,
+      "end": 2988.52,
+      "text": "Of Brick It Close"
+    },
+    {
+      "start": 2988.52,
+      "end": 2990.22,
+      "text": "rice-lipped metal sax"
+    },
+    {
+      "start": 2990.22,
+      "end": 2990.94,
+      "text": "who gets himself"
+    },
+    {
+      "start": 2990.94,
+      "end": 2992.1,
+      "text": "a 12-pound record token."
+    },
+    {
+      "start": 2995.57,
+      "end": 2996.17,
+      "text": "He also says,"
+    },
+    {
+      "start": 2996.29,
+      "end": 2996.83,
+      "text": "when I say hello"
+    },
+    {
+      "start": 2996.83,
+      "end": 2997.43,
+      "text": "to all his mates"
+    },
+    {
+      "start": 2997.43,
+      "end": 2998.37,
+      "text": "in the sixth form"
+    },
+    {
+      "start": 2998.37,
+      "end": 3000.25,
+      "text": "at John Penrose School"
+    },
+    {
+      "start": 3000.25,
+      "end": 3001.17,
+      "text": "in Harefield,"
+    },
+    {
+      "start": 3001.85,
+      "end": 3002.27,
+      "text": "and especially"
+    },
+    {
+      "start": 3002.27,
+      "end": 3003.55,
+      "text": "the Noise Boys,"
+    },
+    {
+      "start": 3004.47,
+      "end": 3005.61,
+      "text": "Metal Penrose,"
+    },
+    {
+      "start": 3006.11,
+      "end": 3007.85,
+      "text": "and Spence Moulton"
+    },
+    {
+      "start": 3007.85,
+      "end": 3009.47,
+      "text": "from The Killer."
+    },
+    {
+      "start": 3013.41,
+      "end": 3013.83,
+      "text": "A lot of people"
+    },
+    {
+      "start": 3013.83,
+      "end": 3014.49,
+      "text": "are asking about"
+    },
+    {
+      "start": 3014.49,
+      "end": 3015.73,
+      "text": "the Iron Maiden album,"
+    },
+    {
+      "start": 3015.85,
+      "end": 3016.71,
+      "text": "next Iron Maiden album."
+    },
+    {
+      "start": 3016.85,
+      "end": 3017.67,
+      "text": "Well, I have to tell you"
+    },
+    {
+      "start": 3017.67,
+      "end": 3018.55,
+      "text": "I have a copy of it"
+    },
+    {
+      "start": 3018.55,
+      "end": 3019.13,
+      "text": "in my possession,"
+    },
+    {
+      "start": 3019.65,
+      "end": 3020.81,
+      "text": "but I haven't heard it yet."
+    },
+    {
+      "start": 3021.21,
+      "end": 3021.83,
+      "text": "It's on cassette,"
+    },
+    {
+      "start": 3022.33,
+      "end": 3022.83,
+      "text": "and over the weekend"
+    },
+    {
+      "start": 3022.83,
+      "end": 3023.73,
+      "text": "I'll have a listen to it"
+    },
+    {
+      "start": 3023.73,
+      "end": 3025.05,
+      "text": "but I'm not allowed to play it on the air,"
+    },
+    {
+      "start": 3025.09,
+      "end": 3027.43,
+      "text": "but at least I can mention it next week after I've heard it."
+    },
+    {
+      "start": 3027.85,
+      "end": 3030.33,
+      "text": "And also on this programme, during September,"
+    },
+    {
+      "start": 3030.91,
+      "end": 3032.17,
+      "text": "I'm going to be having a chat with Maiden,"
+    },
+    {
+      "start": 3032.59,
+      "end": 3036.45,
+      "text": "and we might be playing a couple of new tracks in our..."
+    },
+    {
+      "start": 3036.45,
+      "end": 3039.65,
+      "text": "We can, you know, hours behind the back and that."
+    },
+    {
+      "start": 3041.54,
+      "end": 3043.32,
+      "text": "So, Maiden in the near future."
+    },
+    {
+      "start": 3043.48,
+      "end": 3044.84,
+      "text": "Hairy Barry, how are you?"
+    },
+    {
+      "start": 3045.46,
+      "end": 3048.1,
+      "text": "Yes, I'll recognise you in the crowd tomorrow, Hairy Barry, I'm sure."
+    },
+    {
+      "start": 3048.74,
+      "end": 3052.36,
+      "text": "Say hello to Neera, possibly Vera, they're badly spelt,"
+    },
+    {
+      "start": 3052.76,
+      "end": 3054.32,
+      "text": "Leela, Metal Warrior Stuart,"
+    },
+    {
+      "start": 3054.72,
+      "end": 3055.84,
+      "text": "He-Man, Jeff and Julie,"
+    },
+    {
+      "start": 3056.0,
+      "end": 3058.04,
+      "text": "and all the hair is going down to Donington."
+    },
+    {
+      "start": 3058.94,
+      "end": 3060.8,
+      "text": "Can't wait to see the gorgeous Doro."
+    },
+    {
+      "start": 3061.44,
+      "end": 3061.92,
+      "text": "Nor can I."
+    },
+    {
+      "start": 3064.4,
+      "end": 3067.16,
+      "text": "Fabulous bit of artwork put together by a couple of gentlemen from Scotland,"
+    },
+    {
+      "start": 3067.36,
+      "end": 3070.14,
+      "text": "Fraser Meldrum and Scott Middlemiss."
+    },
+    {
+      "start": 3070.32,
+      "end": 3071.22,
+      "text": "Thank you very much indeed."
+    },
+    {
+      "start": 3071.88,
+      "end": 3073.3,
+      "text": "It's very, very good indeed."
+    },
+    {
+      "start": 3074.38,
+      "end": 3076.92,
+      "text": "You're obviously exceptionally talented, you two."
+    },
+    {
+      "start": 3078.39,
+      "end": 3080.23,
+      "text": "Hello to Geoffrey as well, a good mate of yours."
+    },
+    {
+      "start": 3081.57,
+      "end": 3085.13,
+      "text": "Thomas, please, please play something for Peter Wilkinson of Tynemara."
+    },
+    {
+      "start": 3085.91,
+      "end": 3088.51,
+      "text": "Newbie, Dunfreeshire in Scotland."
+    },
+    {
+      "start": 3089.15,
+      "end": 3090.99,
+      "text": "It's 21st birthday, August the 18th,"
+    },
+    {
+      "start": 3091.23,
+      "end": 3092.97,
+      "text": "and I'll say hello to Margaret Fawkes,"
+    },
+    {
+      "start": 3093.39,
+      "end": 3094.91,
+      "text": "who we got engaged to a few weeks ago,"
+    },
+    {
+      "start": 3095.05,
+      "end": 3096.93,
+      "text": "and I wish them all the best for the future."
+    },
+    {
+      "start": 3097.67,
+      "end": 3098.17,
+      "text": "So do I."
+    },
+    {
+      "start": 3098.59,
+      "end": 3100.51,
+      "text": "This is Armistice."
+    },
+    {
+      "start": 3100.99,
+      "end": 3692.55,
+      "text": "Let it rock and you give our lover bad names."
+    },
+    {
+      "start": 3692.65,
+      "end": 3693.21,
+      "text": "That's actually good, that."
+    },
+    {
+      "start": 3693.73,
+      "end": 3695.21,
+      "text": "Five minutes past 11, Donington tomorrow."
+    },
+    {
+      "start": 3695.21,
+      "end": 3696.45,
+      "text": "I'm trying to get the weather forecast,"
+    },
+    {
+      "start": 3696.53,
+      "end": 3697.55,
+      "text": "but I can't seem to find it anywhere."
+    },
+    {
+      "start": 3698.01,
+      "end": 3699.79,
+      "text": "We have these things called teleprinters, yes,"
+    },
+    {
+      "start": 3699.91,
+      "end": 3701.97,
+      "text": "high-tech BBC, but nothing on it, mate."
+    },
+    {
+      "start": 3702.27,
+      "end": 3704.09,
+      "text": "So I can't tell you the current weather forecast"
+    },
+    {
+      "start": 3704.09,
+      "end": 3706.81,
+      "text": "unless somebody who's listening to me on the BBC"
+    },
+    {
+      "start": 3706.81,
+      "end": 3708.59,
+      "text": "can shove one down the teleprinter,"
+    },
+    {
+      "start": 3708.93,
+      "end": 3709.75,
+      "text": "and I'll read it to you."
+    },
+    {
+      "start": 3710.23,
+      "end": 3711.81,
+      "text": "I'm just on my knees doing this programme,"
+    },
+    {
+      "start": 3711.93,
+      "end": 3713.05,
+      "text": "hoping that the weather tomorrow"
+    },
+    {
+      "start": 3713.05,
+      "end": 3715.81,
+      "text": "for the Monsters of Rock Festival is going to be good"
+    },
+    {
+      "start": 3715.81,
+      "end": 3717.47,
+      "text": "and not raining."
+    },
+    {
+      "start": 3717.65,
+      "end": 3719.59,
+      "text": "Uh-oh, somebody's telling me there might be rain about."
+    },
+    {
+      "start": 3720.15,
+      "end": 3722.67,
+      "text": "We'll shout loud enough, turn all the amplifiers up,"
+    },
+    {
+      "start": 3722.73,
+      "end": 3727.06,
+      "text": "the rain will just go straight up into the heavens, I hope."
+    },
+    {
+      "start": 3727.34,
+      "end": 3728.1,
+      "text": "Here's a little mention."
+    },
+    {
+      "start": 3728.52,
+      "end": 3730.0,
+      "text": "I can't read this on the radio."
+    },
+    {
+      "start": 3730.97,
+      "end": 3732.11,
+      "text": "Well, I can't, actually."
+    },
+    {
+      "start": 3732.11,
+      "end": 3738.92,
+      "text": "would you please play kiss and love it loud for jim well we played love it loud earlier on by kiss"
+    },
+    {
+      "start": 3738.92,
+      "end": 3746.54,
+      "text": "right the guy with the gorgeous body but she doesn't say that she is a word with a and i can't"
+    },
+    {
+      "start": 3746.54,
+      "end": 3750.86,
+      "text": "say that because i need the money got a mortgage and two kids the guy jim is the guy with the"
+    },
+    {
+      "start": 3750.86,
+      "end": 3758.62,
+      "text": "gorgeous you know what he sits on from kath who appreciates his gorgeous what he sits on sounds"
+    },
+    {
+      "start": 3758.62,
+      "end": 3759.88,
+      "text": "like the start of a love affair to me."
+    },
+    {
+      "start": 3760.66,
+      "end": 3762.48,
+      "text": "Toftwood in Norfolk and a sensible letter"
+    },
+    {
+      "start": 3762.48,
+      "end": 3763.62,
+      "text": "from Simon Gill."
+    },
+    {
+      "start": 3763.82,
+      "end": 3766.64,
+      "text": "Tom, message for Andy James in Oxford."
+    },
+    {
+      "start": 3767.26,
+      "end": 3768.92,
+      "text": "The message, all the best for the job"
+    },
+    {
+      "start": 3768.92,
+      "end": 3770.72,
+      "text": "from the crowd in Toftwood."
+    },
+    {
+      "start": 3771.12,
+      "end": 3771.7,
+      "text": "Thank you very much."
+    },
+    {
+      "start": 3772.8,
+      "end": 3775.62,
+      "text": "Sorry to put this in with the Donington competition entry,"
+    },
+    {
+      "start": 3775.9,
+      "end": 3777.08,
+      "text": "but he only had one stamp."
+    },
+    {
+      "start": 3777.24,
+      "end": 3778.08,
+      "text": "Well, he didn't win, Simon."
+    },
+    {
+      "start": 3778.56,
+      "end": 3781.28,
+      "text": "I'd like mate, but hello to Mr. James."
+    },
+    {
+      "start": 3781.94,
+      "end": 3783.24,
+      "text": "Oh, got the new single by Saxon."
+    },
+    {
+      "start": 3791.94,
+      "end": 3793.28,
+      "text": "Backside, would you settle for backside?"
+    },
+    {
+      "start": 3793.28,
+      "end": 3796.67,
+      "text": "Rear view, will you settle for that?"
+    },
+    {
+      "start": 3796.69,
+      "end": 3797.43,
+      "text": "Is that broadcastable?"
+    },
+    {
+      "start": 3797.99,
+      "end": 4206.46,
+      "text": "It'll happen, it's past 11, approximately 11.30 tonight."
+    },
+    {
+      "start": 4206.76,
+      "end": 4209.04,
+      "text": "We'll have in the studio here at the lovable BBC,"
+    },
+    {
+      "start": 4209.68,
+      "end": 4212.85,
+      "text": "Ozzy Osbourne, who tomorrow night,"
+    },
+    {
+      "start": 4212.93,
+      "end": 4214.39,
+      "text": "along with Jakey Lee and the rest of his band,"
+    },
+    {
+      "start": 4214.43,
+      "end": 4216.27,
+      "text": "is going to rip the stage apart at Darlington."
+    },
+    {
+      "start": 4216.53,
+      "end": 4217.01,
+      "text": "Should be good."
+    },
+    {
+      "start": 4217.74,
+      "end": 4219.04,
+      "text": "I hope he doesn't rip the studio apart,"
+    },
+    {
+      "start": 4219.34,
+      "end": 4221.62,
+      "text": "because I've got to sit here for another 45 minutes,"
+    },
+    {
+      "start": 4222.14,
+      "end": 4223.56,
+      "text": "and the BBC will probably bill me,"
+    },
+    {
+      "start": 4223.62,
+      "end": 4224.96,
+      "text": "and I'll have to pay for it, wouldn't I?"
+    },
+    {
+      "start": 4225.6,
+      "end": 4228.38,
+      "text": "Deaf Dealer, you heard, doing that extremely good instrumental"
+    },
+    {
+      "start": 4228.38,
+      "end": 4230.48,
+      "text": "from an album called Keeper of the Flame."
+    },
+    {
+      "start": 4230.84,
+      "end": 4233.6,
+      "text": "The track was called On the Wings of a Russian Foxbat."
+    },
+    {
+      "start": 4233.74,
+      "end": 4234.96,
+      "text": "It's out on American Mercury."
+    },
+    {
+      "start": 4235.64,
+      "end": 4238.2,
+      "text": "Prior to that, the new single by Saxon, Waiting for the Night."
+    },
+    {
+      "start": 4238.32,
+      "end": 4239.2,
+      "text": "That's just out. Excellent."
+    },
+    {
+      "start": 4239.38,
+      "end": 4242.02,
+      "text": "Saxon, of course, headlining Saturday at Reading this year."
+    },
+    {
+      "start": 4242.14,
+      "end": 4242.98,
+      "text": "This is Exciter."
+    },
+    {
+      "start": 4598.56,
+      "end": 4599.46,
+      "text": "That's another import."
+    },
+    {
+      "start": 4599.56,
+      "end": 4601.54,
+      "text": "It's out on the Profile record label."
+    },
+    {
+      "start": 4601.74,
+      "end": 4604.02,
+      "text": "It's by a band from New York, a hardcore band from New York,"
+    },
+    {
+      "start": 4604.08,
+      "end": 4605.2,
+      "text": "called the Cro-Mags."
+    },
+    {
+      "start": 4605.76,
+      "end": 4607.3,
+      "text": "The album's called The Age of Quarrel."
+    },
+    {
+      "start": 4607.36,
+      "end": 4608.5,
+      "text": "The track you heard was We Gotta Know."
+    },
+    {
+      "start": 4608.66,
+      "end": 4609.78,
+      "text": "I love that hardcore stuff."
+    },
+    {
+      "start": 4610.36,
+      "end": 4611.26,
+      "text": "Really over the top."
+    },
+    {
+      "start": 4611.26,
+      "end": 4612.64,
+      "text": "That's what we want music to be."
+    },
+    {
+      "start": 4613.1,
+      "end": 4614.36,
+      "text": "None of this old stuff anymore."
+    },
+    {
+      "start": 4614.8,
+      "end": 4617.66,
+      "text": "Excited before that, two minutes and fifty-five seconds of thud."
+    },
+    {
+      "start": 4618.02,
+      "end": 4619.14,
+      "text": "The track was called Feel the Knife."
+    },
+    {
+      "start": 4619.6,
+      "end": 4622.7,
+      "text": "We are waiting at twenty-one minutes, exactly past eleven in the studio."
+    },
+    {
+      "start": 4623.14,
+      "end": 4625.98,
+      "text": "The appearance of Mr. Ozzy Osbourne, who's going to be our guest tonight."
+    },
+    {
+      "start": 4626.48,
+      "end": 4628.36,
+      "text": "Friday, his appearing tomorrow at Donington."
+    },
+    {
+      "start": 4629.06,
+      "end": 4631.96,
+      "text": "I've got the red carpet out and a bottle of lemonade."
+    },
+    {
+      "start": 5145.64,
+      "end": 5147.16,
+      "text": "Armistice, a repeat session by them."
+    },
+    {
+      "start": 5147.48,
+      "end": 5149.22,
+      "text": "Good band. Gentlemen, the best of luck."
+    },
+    {
+      "start": 5149.3,
+      "end": 5150.5,
+      "text": "The track there was called Lean on Me."
+    },
+    {
+      "start": 5150.6,
+      "end": 5151.86,
+      "text": "The time is eleven-thirty."
+    },
+    {
+      "start": 5158.26,
+      "end": 5161.02,
+      "text": "And now the Friday Rock Show in this pre-Donington situation"
+    },
+    {
+      "start": 5161.02,
+      "end": 5163.66,
+      "text": "has in the studio the man who's going to be right there"
+    },
+    {
+      "start": 5163.66,
+      "end": 5164.8,
+      "text": "at the top of the bill tomorrow."
+    },
+    {
+      "start": 5165.06,
+      "end": 5167.9,
+      "text": "Tomorrow night, he'll be storming, storming Donington."
+    },
+    {
+      "start": 5168.32,
+      "end": 5169.26,
+      "text": "His name is Ozzy Osbourne."
+    },
+    {
+      "start": 5169.36,
+      "end": 5170.34,
+      "text": "Ozzy, welcome to our studios."
+    },
+    {
+      "start": 5170.46,
+      "end": 5171.1,
+      "text": "Good to be here."
+    },
+    {
+      "start": 5171.24,
+      "end": 5171.68,
+      "text": "How are you?"
+    },
+    {
+      "start": 5172.2,
+      "end": 5172.52,
+      "text": "Fantastic."
+    },
+    {
+      "start": 5172.8,
+      "end": 5173.7,
+      "text": "What happened in America?"
+    },
+    {
+      "start": 5173.82,
+      "end": 5174.58,
+      "text": "Was it a good tour?"
+    },
+    {
+      "start": 5174.68,
+      "end": 5176.08,
+      "text": "Haven't you been doing gigs in the States?"
+    },
+    {
+      "start": 5176.22,
+      "end": 5177.74,
+      "text": "Oh, it's been a very hard tour."
+    },
+    {
+      "start": 5177.82,
+      "end": 5179.38,
+      "text": "It's been a ridiculous tour."
+    },
+    {
+      "start": 5179.38,
+      "end": 5182.32,
+      "text": "You know, we just, you know, touring, you know, touring."
+    },
+    {
+      "start": 5183.24,
+      "end": 5185.2,
+      "text": "As you know, he's, like, hectic anyway,"
+    },
+    {
+      "start": 5185.38,
+      "end": 5187.72,
+      "text": "and there's kinds of plays he's told me these days."
+    },
+    {
+      "start": 5187.8,
+      "end": 5188.7,
+      "text": "But it was a good tour."
+    },
+    {
+      "start": 5188.76,
+      "end": 5189.36,
+      "text": "It was a good time."
+    },
+    {
+      "start": 5189.56,
+      "end": 5189.76,
+      "text": "OK."
+    },
+    {
+      "start": 5189.92,
+      "end": 5191.08,
+      "text": "I'm looking forward to Donington, though."
+    },
+    {
+      "start": 5191.24,
+      "end": 5193.34,
+      "text": "I think tomorrow is going to be one of the best ever."
+    },
+    {
+      "start": 5193.76,
+      "end": 5196.42,
+      "text": "I hope so. Keep your fingers crossed for the weather, folks."
+    },
+    {
+      "start": 5196.5,
+      "end": 5197.74,
+      "text": "That's the one. That's the one."
+    },
+    {
+      "start": 5197.82,
+      "end": 5199.64,
+      "text": "Any scandal in the States, though? Did anything happen?"
+    },
+    {
+      "start": 5199.64,
+      "end": 5203.16,
+      "text": "No, I've been... In actual fact, the case was dropped from the kid who committed suicide."
+    },
+    {
+      "start": 5203.3,
+      "end": 5206.08,
+      "text": "The judge threw it out of court, which I'm very happy to say."
+    },
+    {
+      "start": 5206.74,
+      "end": 5210.08,
+      "text": "Apart from that, I've been keeping myself kind of semi-normal."
+    },
+    {
+      "start": 5210.72,
+      "end": 5211.98,
+      "text": "You haven't been..."
+    },
+    {
+      "start": 5211.98,
+      "end": 5216.78,
+      "text": "Urinating up anybody's leg or biting the feet of presidents or none of that."
+    },
+    {
+      "start": 5216.8,
+      "end": 5217.66,
+      "text": "Nothing like that at all?"
+    },
+    {
+      "start": 5217.78,
+      "end": 5219.38,
+      "text": "It's been kind of a boring tour, actually."
+    },
+    {
+      "start": 5219.76,
+      "end": 5221.62,
+      "text": "So you haven't been up to any mischief at all?"
+    },
+    {
+      "start": 5221.78,
+      "end": 5223.82,
+      "text": "Well, I have, but I can't really speak of it."
+    },
+    {
+      "start": 5223.82,
+      "end": 5225.32,
+      "text": "I'm not going to tell anybody on the radio."
+    },
+    {
+      "start": 5225.6,
+      "end": 5226.62,
+      "text": "Listen, I must say this."
+    },
+    {
+      "start": 5226.74,
+      "end": 5228.5,
+      "text": "I did have a letter from a fellow last week"
+    },
+    {
+      "start": 5228.5,
+      "end": 5231.2,
+      "text": "who saw you on tour in the States, said it was good,"
+    },
+    {
+      "start": 5231.5,
+      "end": 5235.46,
+      "text": "but he did feel that you were only on the stage, I think, for about an hour."
+    },
+    {
+      "start": 5235.98,
+      "end": 5237.54,
+      "text": "No, hour and a half, every night."
+    },
+    {
+      "start": 5237.72,
+      "end": 5237.98,
+      "text": "Right."
+    },
+    {
+      "start": 5238.72,
+      "end": 5242.3,
+      "text": "Because it's so good, and it seems like it's going so fast."
+    },
+    {
+      "start": 5244.04,
+      "end": 5245.1,
+      "text": "Maybe one of the..."
+    },
+    {
+      "start": 5245.1,
+      "end": 5246.92,
+      "text": "Do you know which show he was referring to?"
+    },
+    {
+      "start": 5246.94,
+      "end": 5249.86,
+      "text": "I've had a lot of sinus problems."
+    },
+    {
+      "start": 5250.08,
+      "end": 5251.98,
+      "text": "on the road, you know, so we've been doing it."
+    },
+    {
+      "start": 5252.4,
+      "end": 5254.84,
+      "text": "Now and again, I've been cutting a show or two short,"
+    },
+    {
+      "start": 5255.2,
+      "end": 5258.42,
+      "text": "but most of the times I've been doing that over an hour and a half."
+    },
+    {
+      "start": 5258.46,
+      "end": 5259.46,
+      "text": "Not likely to happen tomorrow?"
+    },
+    {
+      "start": 5259.52,
+      "end": 5260.54,
+      "text": "Not in a chance."
+    },
+    {
+      "start": 5260.72,
+      "end": 5261.48,
+      "text": "Definite hour and a half?"
+    },
+    {
+      "start": 5261.68,
+      "end": 5262.92,
+      "text": "Definite good hour and a half."
+    },
+    {
+      "start": 5263.0,
+      "end": 5263.72,
+      "text": "Blow up at the end?"
+    },
+    {
+      "start": 5263.86,
+      "end": 5264.62,
+      "text": "Blow up at the end."
+    },
+    {
+      "start": 5264.76,
+      "end": 5265.54,
+      "text": "Certainly. Right."
+    },
+    {
+      "start": 5265.62,
+      "end": 5267.06,
+      "text": "What about the rock scene in the States?"
+    },
+    {
+      "start": 5267.64,
+      "end": 5268.86,
+      "text": "It's very weird, actually."
+    },
+    {
+      "start": 5269.0,
+      "end": 5271.58,
+      "text": "It's like there's a band happening in America now called Cinderella,"
+    },
+    {
+      "start": 5272.38,
+      "end": 5277.33,
+      "text": "which is like between a pop rock band,"
+    },
+    {
+      "start": 5277.47,
+      "end": 5279.19,
+      "text": "which seems to be really happening big."
+    },
+    {
+      "start": 5279.19,
+      "end": 5283.75,
+      "text": "like a like a like a um deaf leopard kind of a thing right that's the kind of thing that's"
+    },
+    {
+      "start": 5283.75,
+      "end": 5288.49,
+      "text": "happening but i still have i still have a following up there which as you know it's like"
+    },
+    {
+      "start": 5288.49,
+      "end": 5291.49,
+      "text": "it's like a cult following you know a lot of people keep thinking it's asking me whether"
+    },
+    {
+      "start": 5291.49,
+      "end": 5296.25,
+      "text": "sabbath's going to get back together again out with it but it'll never happen okay cinderella"
+    },
+    {
+      "start": 5296.25,
+      "end": 5300.23,
+      "text": "come from philadelphia i think we've been playing a couple of tracks from their album which is it's"
+    },
+    {
+      "start": 5300.23,
+      "end": 5304.21,
+      "text": "really going well good album actually to be honest with you i haven't really heard the album"
+    },
+    {
+      "start": 5304.21,
+      "end": 5308.21,
+      "text": "turning from music from the states can i play you something now i just thought i might like to you"
+    },
+    {
+      "start": 5308.21,
+      "end": 5312.83,
+      "text": "know play a bit here and get your sort of opinion this this is a band they come i think from germany"
+    },
+    {
+      "start": 5312.83,
+      "end": 5319.99,
+      "text": "they call vectum and the trap or rather the track or the trap in the track is satan's colors okay"
+    },
+    {
+      "start": 5319.99,
+      "end": 5582.55,
+      "text": "the friday rock show from bbc radio one and that was vectum and a track which is called satan's"
+    },
+    {
+      "start": 5582.55,
+      "end": 5585.59,
+      "text": "colors i think it's a really good track and i played it because i wanted to get the opinion"
+    },
+    {
+      "start": 5585.59,
+      "end": 5587.09,
+      "text": "and my guest here tonight on The Rock Show,"
+    },
+    {
+      "start": 5587.49,
+      "end": 5588.69,
+      "text": "who is Ozzy Osbourne."
+    },
+    {
+      "start": 5588.79,
+      "end": 5589.61,
+      "text": "Right, Oz, you heard that."
+    },
+    {
+      "start": 5589.71,
+      "end": 5591.11,
+      "text": "I know you haven't heard the track before."
+    },
+    {
+      "start": 5591.47,
+      "end": 5593.35,
+      "text": "What do you think of that style of music?"
+    },
+    {
+      "start": 5594.03,
+      "end": 5596.83,
+      "text": "I think it sounds like what we used to do,"
+    },
+    {
+      "start": 5596.89,
+      "end": 5598.61,
+      "text": "but more intense, you know."
+    },
+    {
+      "start": 5598.73,
+      "end": 5600.03,
+      "text": "It's very intense music."
+    },
+    {
+      "start": 5600.11,
+      "end": 5601.99,
+      "text": "I quite like it, actually, on the first hearing."
+    },
+    {
+      "start": 5602.11,
+      "end": 5604.57,
+      "text": "It's like a cross between punk and metal."
+    },
+    {
+      "start": 5605.15,
+      "end": 5606.59,
+      "text": "It's like they call it thrash metal,"
+    },
+    {
+      "start": 5606.75,
+      "end": 5610.07,
+      "text": "which is supposed to be a good brand."
+    },
+    {
+      "start": 5610.31,
+      "end": 5611.47,
+      "text": "Yeah, I quite like it, yeah."
+    },
+    {
+      "start": 5611.47,
+      "end": 5614.73,
+      "text": "The one thing that I notice about thrash and death metal"
+    },
+    {
+      "start": 5614.73,
+      "end": 5616.21,
+      "text": "and all the other names that they apply to it."
+    },
+    {
+      "start": 5616.39,
+      "end": 5617.43,
+      "text": "It's all essentially the same."
+    },
+    {
+      "start": 5617.49,
+      "end": 5619.15,
+      "text": "It's just really fast, dynamic music."
+    },
+    {
+      "start": 5619.15,
+      "end": 5619.35,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 5619.55,
+      "end": 5620.91,
+      "text": "It's that they're all very young bands."
+    },
+    {
+      "start": 5621.49,
+      "end": 5621.81,
+      "text": "I don't know."
+    },
+    {
+      "start": 5621.89,
+      "end": 5623.37,
+      "text": "I think, you know, it's like..."
+    },
+    {
+      "start": 5623.37,
+      "end": 5624.41,
+      "text": "You know, when I listen to them,"
+    },
+    {
+      "start": 5624.45,
+      "end": 5626.33,
+      "text": "I stop and think what I was doing"
+    },
+    {
+      "start": 5626.33,
+      "end": 5628.73,
+      "text": "when we started with Sabbath, you know?"
+    },
+    {
+      "start": 5628.87,
+      "end": 5631.56,
+      "text": "And so nothing changes."
+    },
+    {
+      "start": 5631.56,
+      "end": 5633.88,
+      "text": "I mean, we just did a tour with Metallica in America,"
+    },
+    {
+      "start": 5634.04,
+      "end": 5635.68,
+      "text": "and they were great guys to work with."
+    },
+    {
+      "start": 5635.76,
+      "end": 5636.52,
+      "text": "They're a great band."
+    },
+    {
+      "start": 5636.7,
+      "end": 5637.88,
+      "text": "They really are good guys."
+    },
+    {
+      "start": 5638.88,
+      "end": 5640.26,
+      "text": "And it's like these guys,"
+    },
+    {
+      "start": 5640.36,
+      "end": 5642.1,
+      "text": "at least they're thinking about something."
+    },
+    {
+      "start": 5642.2,
+      "end": 5643.56,
+      "text": "It's not just making a noise."
+    },
+    {
+      "start": 5643.8,
+      "end": 5644.74,
+      "text": "They're thinking..."
+    },
+    {
+      "start": 5644.74,
+      "end": 5646.7,
+      "text": "I mean, a lot of people out there think, what is he talking about?"
+    },
+    {
+      "start": 5646.8,
+      "end": 5647.92,
+      "text": "It's just a rout to me."
+    },
+    {
+      "start": 5647.98,
+      "end": 5651.66,
+      "text": "But there is some format, there is some structure to the songs."
+    },
+    {
+      "start": 5651.84,
+      "end": 5652.02,
+      "text": "Yeah."
+    },
+    {
+      "start": 5652.24,
+      "end": 5655.66,
+      "text": "Although it's fast, slow, whatever, you know, there is a lot of structure there."
+    },
+    {
+      "start": 5655.78,
+      "end": 5659.74,
+      "text": "But obviously you're a man that's written countless songs, sung countless songs countless times."
+    },
+    {
+      "start": 5660.02,
+      "end": 5664.86,
+      "text": "Now those guys, the way that they sing in that band Vectum, you can hardly understand a word of what they're saying."
+    },
+    {
+      "start": 5665.12,
+      "end": 5669.28,
+      "text": "I think, and I'm not a singer, I think that that's a very hard way to sing."
+    },
+    {
+      "start": 5669.9,
+      "end": 5673.54,
+      "text": "Well, it's not the fact that it's a hard way to sing."
+    },
+    {
+      "start": 5673.54,
+      "end": 5680.13,
+      "text": "first are germans yeah and like you try and understand a german speaking english without"
+    },
+    {
+      "start": 5680.13,
+      "end": 5684.41,
+      "text": "singing like mine singing you know i mean it's it's just it's it's i don't know i mean"
+    },
+    {
+      "start": 5684.41,
+      "end": 5689.77,
+      "text": "you know good luck to him you know that's all i say but you like thrash i mean you're into i like"
+    },
+    {
+      "start": 5689.77,
+      "end": 5694.87,
+      "text": "it and i don't because i think there's what i've always believed in is there's a time for moon"
+    },
+    {
+      "start": 5694.87,
+      "end": 5699.93,
+      "text": "mood changes in the respect that like if you listen to any of the early sabbath stuff we"
+    },
+    {
+      "start": 5699.93,
+      "end": 5704.07,
+      "text": "always try to have a mood through the album whether it would be a slow song build up to a"
+    },
+    {
+      "start": 5704.07,
+      "end": 5709.97,
+      "text": "slow bit to a fast bit to a mediocre bit it's just when you hear a record for for 40 minutes"
+    },
+    {
+      "start": 5709.97,
+      "end": 5715.83,
+      "text": "it's just one continuous battering you lose interest in it i do anyway you know i always"
+    },
+    {
+      "start": 5715.83,
+      "end": 5720.33,
+      "text": "always try and book with my records and the other records i used to do with sabbath we always try"
+    },
+    {
+      "start": 5720.33,
+      "end": 5725.09,
+      "text": "and put a bit of a mood there you know a little light and shade yeah light and shade light and"
+    },
+    {
+      "start": 5725.09,
+      "end": 5728.85,
+      "text": "shade let's turn to some cards i've got a card that comes from chris who's in bangor in northern"
+    },
+    {
+      "start": 5728.85,
+      "end": 5733.29,
+      "text": "Ireland says dear Tom and Ozzy please give a mention to Janet and Trevor from brother Chris"
+    },
+    {
+      "start": 5733.29,
+      "end": 5738.49,
+      "text": "we'll all be at Donington tomorrow flying straight back for Monday the 18th for Jan and Trev's wedding"
+    },
+    {
+      "start": 5738.49,
+      "end": 5743.87,
+      "text": "we'll be listening sober it says here on the card I don't believe it to the radio on the Belfast"
+    },
+    {
+      "start": 5743.87,
+      "end": 5749.03,
+      "text": "Liverpool ferry Friday night so there you go all right I've got a letter here from Debbie I can't"
+    },
+    {
+      "start": 5749.03,
+      "end": 5756.65,
+      "text": "really pronounce I think it's Tigginson from County Armagh Northern Ireland she's broke she's injured"
+    },
+    {
+      "start": 5756.65,
+      "end": 5761.05,
+      "text": "us off on a motorcycle, and I think it's silly that you should buy motorcycles, but I don't"
+    },
+    {
+      "start": 5761.05,
+      "end": 5765.92,
+      "text": "know. I'm sorry to hear you're sick. I hope you get well soon. I'm sorry you can't make"
+    },
+    {
+      "start": 5765.92,
+      "end": 5766.3,
+      "text": "the gig."
+    },
+    {
+      "start": 5766.96,
+      "end": 5771.6,
+      "text": "Okay. Well, for that lady, who's in hospital over there in Northern Ireland, here's Shot"
+    },
+    {
+      "start": 5771.6,
+      "end": 6009.09,
+      "text": "in the Dark. That's a classic, but you knew that anyway. Shot in the Dark by Ozzy Osbourne,"
+    },
+    {
+      "start": 6009.21,
+      "end": 6013.81,
+      "text": "the Friday rock show from BBC Radio 1, a pre-Donington special with Ozzy Osbourne, who's our guest"
+    },
+    {
+      "start": 6013.81,
+      "end": 6017.63,
+      "text": "in the studios. Oz, tomorrow night when you hit the stage, what are we going to see as"
+    },
+    {
+      "start": 6017.63,
+      "end": 6019.17,
+      "text": "a staging? Doing anything special?"
+    },
+    {
+      "start": 6019.45,
+      "end": 6020.23,
+      "text": "Oh, it's phenomenal."
+    },
+    {
+      "start": 6020.93,
+      "end": 6023.41,
+      "text": "But the whole of the American state of Anmore,"
+    },
+    {
+      "start": 6023.53,
+      "end": 6025.91,
+      "text": "we've got, like, television screens"
+    },
+    {
+      "start": 6025.91,
+      "end": 6029.31,
+      "text": "so the people at the back of the area will be able to see us."
+    },
+    {
+      "start": 6029.37,
+      "end": 6030.55,
+      "text": "It's got this diamond vision thing."
+    },
+    {
+      "start": 6030.85,
+      "end": 6031.37,
+      "text": "Which is good."
+    },
+    {
+      "start": 6031.51,
+      "end": 6032.17,
+      "text": "It's phenomenal."
+    },
+    {
+      "start": 6032.47,
+      "end": 6035.29,
+      "text": "And we've also got a magnificent firework display."
+    },
+    {
+      "start": 6035.85,
+      "end": 6037.73,
+      "text": "We've got this thing which we call Ernie,"
+    },
+    {
+      "start": 6037.87,
+      "end": 6041.25,
+      "text": "which is an effigy of me, which I appear on from time to time."
+    },
+    {
+      "start": 6041.45,
+      "end": 6041.69,
+      "text": "Yeah."
+    },
+    {
+      "start": 6042.11,
+      "end": 6043.77,
+      "text": "We've got incredible pyro."
+    },
+    {
+      "start": 6043.85,
+      "end": 6045.17,
+      "text": "It's going to be an amazing show."
+    },
+    {
+      "start": 6045.17,
+      "end": 6048.21,
+      "text": "And, I mean, it's just one of those, you know, Aussie, you know."
+    },
+    {
+      "start": 6049.45,
+      "end": 6050.37,
+      "text": "Never lets you down."
+    },
+    {
+      "start": 6050.97,
+      "end": 6052.03,
+      "text": "Never lets you down."
+    },
+    {
+      "start": 6052.07,
+      "end": 6052.55,
+      "text": "Which is true."
+    },
+    {
+      "start": 6052.65,
+      "end": 6055.65,
+      "text": "I mean, you're a real performer and a showman, first and foremost."
+    },
+    {
+      "start": 6055.99,
+      "end": 6056.99,
+      "text": "That's what it's..."
+    },
+    {
+      "start": 6056.99,
+      "end": 6058.37,
+      "text": "You know, I see these shows and I think,"
+    },
+    {
+      "start": 6058.45,
+      "end": 6060.91,
+      "text": "well, at least put some effort into it, guys."
+    },
+    {
+      "start": 6061.01,
+      "end": 6063.37,
+      "text": "You know, people have trekked their ways down the motorways"
+    },
+    {
+      "start": 6063.37,
+      "end": 6065.55,
+      "text": "and on planes and on ferries to come and see the show."
+    },
+    {
+      "start": 6065.55,
+      "end": 6067.15,
+      "text": "And they go up there and they go, like,"
+    },
+    {
+      "start": 6067.21,
+      "end": 6068.29,
+      "text": "well, we're rocking and rolling."
+    },
+    {
+      "start": 6068.43,
+      "end": 6069.73,
+      "text": "Like, that's it, go home, you know."
+    },
+    {
+      "start": 6069.93,
+      "end": 6071.05,
+      "text": "At least I try and..."
+    },
+    {
+      "start": 6071.05,
+      "end": 6071.77,
+      "text": "I do try."
+    },
+    {
+      "start": 6071.89,
+      "end": 6074.39,
+      "text": "It doesn't always come up, but nine times out of ten it does."
+    },
+    {
+      "start": 6074.83,
+      "end": 6078.81,
+      "text": "And I can guarantee on Saturday night it's going to be phenomenal for me."
+    },
+    {
+      "start": 6078.93,
+      "end": 6080.39,
+      "text": "I'm so hyped up for it."
+    },
+    {
+      "start": 6080.45,
+      "end": 6081.49,
+      "text": "I can't sleep at night."
+    },
+    {
+      "start": 6082.25,
+      "end": 6082.65,
+      "text": "Donington!"
+    },
+    {
+      "start": 6083.27,
+      "end": 6083.75,
+      "text": "You know?"
+    },
+    {
+      "start": 6083.83,
+      "end": 6084.39,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 6084.71,
+      "end": 6086.87,
+      "text": "Going to get there and kill them, as they say."
+    },
+    {
+      "start": 6086.89,
+      "end": 6087.39,
+      "text": "Yeah, yeah."
+    },
+    {
+      "start": 6087.61,
+      "end": 6088.19,
+      "text": "Got a card?"
+    },
+    {
+      "start": 6088.85,
+      "end": 6089.15,
+      "text": "Got a letter?"
+    },
+    {
+      "start": 6089.15,
+      "end": 6089.79,
+      "text": "I've got a card here."
+    },
+    {
+      "start": 6089.79,
+      "end": 6094.77,
+      "text": "It's from number 27, Coltoncroft, Streetly Sutton, Coalfield."
+    },
+    {
+      "start": 6095.27,
+      "end": 6095.63,
+      "text": "It says,"
+    },
+    {
+      "start": 6095.75,
+      "end": 6096.41,
+      "text": "Dear Thomas,"
+    },
+    {
+      "start": 6096.87,
+      "end": 6100.21,
+      "text": "Will you please say hello to everyone camping at Donington this year?"
+    },
+    {
+      "start": 6100.57,
+      "end": 6104.13,
+      "text": "Especially to Matthew, Stephen, Woody, Lockerham,"
+    },
+    {
+      "start": 6104.13,
+      "end": 6107.11,
+      "text": "Nigel, Dominic, Wendy"
+    },
+    {
+      "start": 6107.11,
+      "end": 6109.03,
+      "text": "Ricky, Bobby"
+    },
+    {
+      "start": 6109.03,
+      "end": 6111.33,
+      "text": "and a countless amount of others"
+    },
+    {
+      "start": 6111.33,
+      "end": 6113.37,
+      "text": "have a great time guys"
+    },
+    {
+      "start": 6113.37,
+      "end": 6114.95,
+      "text": "you got it, and I got one here who says"
+    },
+    {
+      "start": 6114.95,
+      "end": 6117.15,
+      "text": "to Thomas, do us a favour will you, it's my 16th"
+    },
+    {
+      "start": 6117.15,
+      "end": 6118.41,
+      "text": "birthday this Friday, tonight"
+    },
+    {
+      "start": 6118.41,
+      "end": 6120.87,
+      "text": "and I'd be dead chuffed if you would give me a mention on"
+    },
+    {
+      "start": 6120.87,
+      "end": 6122.35,
+      "text": "Europe's loudest radio show"
+    },
+    {
+      "start": 6122.35,
+      "end": 6125.11,
+      "text": "as well as saying, hello darling, to Jocelyn"
+    },
+    {
+      "start": 6125.11,
+      "end": 6126.87,
+      "text": "the drunken romantic Hooper"
+    },
+    {
+      "start": 6126.87,
+      "end": 6128.05,
+      "text": "whom I love very much"
+    },
+    {
+      "start": 6128.05,
+      "end": 6130.17,
+      "text": "what does Hooper mean?"
+    },
+    {
+      "start": 6130.61,
+      "end": 6131.89,
+      "text": "I don't know"
+    },
+    {
+      "start": 6131.89,
+      "end": 6133.53,
+      "text": "what does drunken mean?"
+    },
+    {
+      "start": 6134.13,
+      "end": 6138.63,
+      "text": "Could he also ask Ozzy Osbourne to say"
+    },
+    {
+      "start": 6138.63,
+      "end": 6139.93,
+      "text": "Happy birthday to me"
+    },
+    {
+      "start": 6139.93,
+      "end": 6141.77,
+      "text": "Happy birthday to me"
+    },
+    {
+      "start": 6141.77,
+      "end": 6143.03,
+      "text": "He did it and he did it well"
+    },
+    {
+      "start": 6143.03,
+      "end": 6144.81,
+      "text": "This is a band out of San Francisco"
+    },
+    {
+      "start": 6144.81,
+      "end": 6145.69,
+      "text": "Have a listen to this, Oz"
+    },
+    {
+      "start": 6145.69,
+      "end": 6147.07,
+      "text": "I've only heard this track once"
+    },
+    {
+      "start": 6147.07,
+      "end": 6148.55,
+      "text": "They're a band out of San Francisco"
+    },
+    {
+      "start": 6148.55,
+      "end": 6151.51,
+      "text": "They're called, believe it or not, Agnostic Front"
+    },
+    {
+      "start": 6151.51,
+      "end": 6152.69,
+      "text": "I like it, I like it"
+    },
+    {
+      "start": 6152.69,
+      "end": 6153.83,
+      "text": "The track's The Eliminator"
+    },
+    {
+      "start": 6153.83,
+      "end": 6337.58,
+      "text": "And I must say the end of it caught me out as well"
+    },
+    {
+      "start": 6337.58,
+      "end": 6338.88,
+      "text": "Agnostic Front"
+    },
+    {
+      "start": 6338.88,
+      "end": 6339.7,
+      "text": "I think it's great"
+    },
+    {
+      "start": 6339.7,
+      "end": 6340.18,
+      "text": "So do I"
+    },
+    {
+      "start": 6340.18,
+      "end": 6341.76,
+      "text": "I really do and I've only heard it once"
+    },
+    {
+      "start": 6341.76,
+      "end": 6342.54,
+      "text": "I think it's great"
+    },
+    {
+      "start": 6342.54,
+      "end": 6344.56,
+      "text": "The Eliminator, the track, was nice and lively,"
+    },
+    {
+      "start": 6344.78,
+      "end": 6345.94,
+      "text": "and that was the voice of Ozzy Osbourne."
+    },
+    {
+      "start": 6346.22,
+      "end": 6348.76,
+      "text": "And we were wishing happy birthday to Gareth Mitchell, rather."
+    },
+    {
+      "start": 6349.18,
+      "end": 6349.68,
+      "text": "Gareth Mitchell."
+    },
+    {
+      "start": 6350.04,
+      "end": 6351.58,
+      "text": "Also, I've got a little thing here."
+    },
+    {
+      "start": 6351.64,
+      "end": 6352.52,
+      "text": "Maybe you can help on this one."
+    },
+    {
+      "start": 6352.96,
+      "end": 6354.34,
+      "text": "Dun Gannon, again in Northern Ireland."
+    },
+    {
+      "start": 6354.56,
+      "end": 6356.5,
+      "text": "You've just done a gig, or recently done a gig in Belfast."
+    },
+    {
+      "start": 6356.5,
+      "end": 6360.5,
+      "text": "The first time I ever played in Belfast, or anywhere in Ireland,"
+    },
+    {
+      "start": 6360.58,
+      "end": 6363.64,
+      "text": "was this year, and I was scared of going about the bums."
+    },
+    {
+      "start": 6363.74,
+      "end": 6364.9,
+      "text": "It's all a lot of tripe."
+    },
+    {
+      "start": 6365.04,
+      "end": 6366.18,
+      "text": "We never saw a bum."
+    },
+    {
+      "start": 6366.4,
+      "end": 6370.18,
+      "text": "The only bum we saw was Ian Paisley picketing the gig in Belfast,"
+    },
+    {
+      "start": 6370.18,
+      "end": 6372.14,
+      "text": "and that was the only thing we ever saw about it there."
+    },
+    {
+      "start": 6372.54,
+      "end": 6374.58,
+      "text": "The kids there are so deprived."
+    },
+    {
+      "start": 6374.78,
+      "end": 6376.74,
+      "text": "If anybody in a band wants a good gig"
+    },
+    {
+      "start": 6376.74,
+      "end": 6378.68,
+      "text": "and wants to get out to see some good people"
+    },
+    {
+      "start": 6378.68,
+      "end": 6380.78,
+      "text": "who like good rock, go to Ireland."
+    },
+    {
+      "start": 6381.06,
+      "end": 6383.0,
+      "text": "It's great. Beer's good."
+    },
+    {
+      "start": 6383.16,
+      "end": 6384.62,
+      "text": "People are great. It's just"
+    },
+    {
+      "start": 6384.62,
+      "end": 6386.94,
+      "text": "fantastic. We had a real"
+    },
+    {
+      "start": 6386.94,
+      "end": 6388.9,
+      "text": "good time there. I'm glad to hear that. People also"
+    },
+    {
+      "start": 6388.9,
+      "end": 6390.8,
+      "text": "appreciate you going. We're going back."
+    },
+    {
+      "start": 6390.92,
+      "end": 6392.28,
+      "text": "We're definitely going back. I want to do"
+    },
+    {
+      "start": 6392.28,
+      "end": 6394.48,
+      "text": "a lot more work there. It's great."
+    },
+    {
+      "start": 6395.18,
+      "end": 6396.44,
+      "text": "I never saw any trouble there."
+    },
+    {
+      "start": 6397.0,
+      "end": 6398.7,
+      "text": "Right. Let's have a little read of this. It's from"
+    },
+    {
+      "start": 6398.7,
+      "end": 6400.8,
+      "text": "Keith Wright. You can help, in fact."
+    },
+    {
+      "start": 6401.22,
+      "end": 6402.8,
+      "text": "Keith says, I'm a Twisted Sister fan."
+    },
+    {
+      "start": 6403.42,
+      "end": 6404.22,
+      "text": "I think they're excellent."
+    },
+    {
+      "start": 6404.46,
+      "end": 6406.7,
+      "text": "There's only one thing I like more than them, and that is Ozzy."
+    },
+    {
+      "start": 6407.06,
+      "end": 6407.94,
+      "text": "Because the man's a genius."
+    },
+    {
+      "start": 6409.14,
+      "end": 6409.46,
+      "text": "What?"
+    },
+    {
+      "start": 6411.06,
+      "end": 6412.88,
+      "text": "No, come on, you're not telling me you're lost for words."
+    },
+    {
+      "start": 6413.06,
+      "end": 6416.46,
+      "text": "No, I get kind of embarrassed when people say things like that."
+    },
+    {
+      "start": 6416.52,
+      "end": 6418.94,
+      "text": "It's kind of like, you know, I would say I'm a genius, you know?"
+    },
+    {
+      "start": 6418.98,
+      "end": 6420.34,
+      "text": "I feel like a bit of a jerk."
+    },
+    {
+      "start": 6420.48,
+      "end": 6422.14,
+      "text": "I just have fun and write music, you know?"
+    },
+    {
+      "start": 6422.56,
+      "end": 6423.32,
+      "text": "Right, exactly."
+    },
+    {
+      "start": 6423.5,
+      "end": 6424.56,
+      "text": "Well, he thinks you are, anyway."
+    },
+    {
+      "start": 6424.72,
+      "end": 6425.36,
+      "text": "Good for him."
+    },
+    {
+      "start": 6425.72,
+      "end": 6426.84,
+      "text": "Anyway, goes on Keith."
+    },
+    {
+      "start": 6426.84,
+      "end": 6430.68,
+      "text": "I was wondering, would he please send me two signed photographs of himself?"
+    },
+    {
+      "start": 6431.0,
+      "end": 6433.0,
+      "text": "One for me, and one for my cousin, Esther."
+    },
+    {
+      "start": 6433.58,
+      "end": 6434.36,
+      "text": "Definitely will."
+    },
+    {
+      "start": 6434.48,
+      "end": 6434.76,
+      "text": "Possible?"
+    },
+    {
+      "start": 6435.1,
+      "end": 6435.54,
+      "text": "Definitely."
+    },
+    {
+      "start": 6435.78,
+      "end": 6436.34,
+      "text": "That's a guarantee."
+    },
+    {
+      "start": 6436.66,
+      "end": 6442.36,
+      "text": "I have one here from Kim, from 110 Ashland Road West, Sutton in Ashfield,"
+    },
+    {
+      "start": 6442.82,
+      "end": 6445.34,
+      "text": "Knott's Sit... Night... Night..."
+    },
+    {
+      "start": 6445.34,
+      "end": 6446.16,
+      "text": "Wherever."
+    },
+    {
+      "start": 6446.76,
+      "end": 6447.08,
+      "text": "Wherever."
+    },
+    {
+      "start": 6448.04,
+      "end": 6450.02,
+      "text": "Ozzy, wish me a happy birthday."
+    },
+    {
+      "start": 6450.2,
+      "end": 6452.04,
+      "text": "Happy birthday, darling. God bless you, Kim."
+    },
+    {
+      "start": 6452.04,
+      "end": 6452.66,
+      "text": "That's to Kim."
+    },
+    {
+      "start": 6453.26,
+      "end": 6457.0,
+      "text": "The band. Now, you move so quickly sometimes, we don't know who's in your band."
+    },
+    {
+      "start": 6457.04,
+      "end": 6458.04,
+      "text": "Who's in your band now?"
+    },
+    {
+      "start": 6458.18,
+      "end": 6460.06,
+      "text": "Phil Sussan, ex-Wildlife."
+    },
+    {
+      "start": 6460.28,
+      "end": 6460.42,
+      "text": "Yeah."
+    },
+    {
+      "start": 6461.0,
+      "end": 6463.06,
+      "text": "And he used to play Robin George as well, I believe."
+    },
+    {
+      "start": 6463.38,
+      "end": 6464.5,
+      "text": "Whoever he is, I don't know."
+    },
+    {
+      "start": 6464.82,
+      "end": 6466.52,
+      "text": "Fellow from Stoke-on-Trent, around that area."
+    },
+    {
+      "start": 6467.42,
+      "end": 6470.84,
+      "text": "I've got Randy Casillo, who used to play Lita Ford on drums."
+    },
+    {
+      "start": 6471.78,
+      "end": 6474.72,
+      "text": "Jake Ely on guitar."
+    },
+    {
+      "start": 6475.24,
+      "end": 6478.24,
+      "text": "John Sinclair on keyboards, who used to play with Uriah Hoop."
+    },
+    {
+      "start": 6478.44,
+      "end": 6479.7,
+      "text": "Yeah, and you up the front."
+    },
+    {
+      "start": 6479.92,
+      "end": 6481.54,
+      "text": "And me, quirking up the front there."
+    },
+    {
+      "start": 6481.84,
+      "end": 6482.7,
+      "text": "What do you think of the bill?"
+    },
+    {
+      "start": 6483.1,
+      "end": 6484.62,
+      "text": "I'm sure you're not going to be critical of it,"
+    },
+    {
+      "start": 6484.68,
+      "end": 6485.78,
+      "text": "but some people are being..."
+    },
+    {
+      "start": 6485.78,
+      "end": 6486.46,
+      "text": "Can I just put this to you?"
+    },
+    {
+      "start": 6486.52,
+      "end": 6490.6,
+      "text": "Some people are being critical about the involvement of bad news"
+    },
+    {
+      "start": 6491.22,
+      "end": 6495.84,
+      "text": "No, I think to have a little bit of humour doesn't hurt anyone."
+    },
+    {
+      "start": 6496.0,
+      "end": 6499.28,
+      "text": "I mean, I've been to a rock festival and it's just been slam-bam, thank you, ma'am, you know."
+    },
+    {
+      "start": 6499.58,
+      "end": 6501.96,
+      "text": "A little bit of just, you know, I like them, you know."
+    },
+    {
+      "start": 6501.98,
+      "end": 6504.46,
+      "text": "It's a bit of entertainment, they're good fun, you know."
+    },
+    {
+      "start": 6504.78,
+      "end": 6505.16,
+      "text": "You know."
+    },
+    {
+      "start": 6505.7,
+      "end": 6508.4,
+      "text": "I think you're right, I think it's a little lightener, as they say."
+    },
+    {
+      "start": 6508.56,
+      "end": 6512.56,
+      "text": "It's a little bit, I mean, everybody sees the Motorheads, the Aussies, the Sabbaths, the Purples."
+    },
+    {
+      "start": 6512.64,
+      "end": 6513.8,
+      "text": "It's like too serious."
+    },
+    {
+      "start": 6514.0,
+      "end": 6517.84,
+      "text": "And, you know, one thing that's kept me going over the years is having a great sense of humour."
+    },
+    {
+      "start": 6518.1,
+      "end": 6519.48,
+      "text": "And I love a good sense of humour."
+    },
+    {
+      "start": 6519.82,
+      "end": 6520.1,
+      "text": "OK."
+    },
+    {
+      "start": 6520.44,
+      "end": 6521.52,
+      "text": "Well, they're going on second."
+    },
+    {
+      "start": 6521.86,
+      "end": 6523.78,
+      "text": "Warlock are actually opening the bill tomorrow."
+    },
+    {
+      "start": 6524.02,
+      "end": 6525.74,
+      "text": "I think a lot of people think bad news are."
+    },
+    {
+      "start": 6525.8,
+      "end": 6526.14,
+      "text": "They're not."
+    },
+    {
+      "start": 6526.38,
+      "end": 6529.3,
+      "text": "So get there for 1 o'clock, because Warlock are on at 1 o'clock tomorrow."
+    },
+    {
+      "start": 6530.0,
+      "end": 6531.94,
+      "text": "And you'll be on, what, I suppose about 8 o'clock?"
+    },
+    {
+      "start": 6532.26,
+      "end": 6532.84,
+      "text": "I suppose so."
+    },
+    {
+      "start": 6533.5,
+      "end": 6536.06,
+      "text": "And the whole thing will blow up around about 10 o'clock, I suppose."
+    },
+    {
+      "start": 6536.06,
+      "end": 6537.6,
+      "text": "You'll just ascend into the heavens."
+    },
+    {
+      "start": 6538.04,
+      "end": 6540.9,
+      "text": "There's no going to be, like, tricks of helicopters and all that fairy stuff."
+    },
+    {
+      "start": 6540.9,
+      "end": 6544.22,
+      "text": "We're just going to play good rock and roll and drive it home."
+    },
+    {
+      "start": 6544.36,
+      "end": 6544.7,
+      "text": "Nice one."
+    },
+    {
+      "start": 6544.7,
+      "end": 6546.2,
+      "text": "I really am looking forward to playing."
+    },
+    {
+      "start": 6546.3,
+      "end": 6547.58,
+      "text": "I'm really looking forward to seeing the kids."
+    },
+    {
+      "start": 6547.58,
+      "end": 6549.46,
+      "text": "and I want him to come and go crazy."
+    },
+    {
+      "start": 6549.6,
+      "end": 6551.32,
+      "text": "Just go nuts for the day, you know."
+    },
+    {
+      "start": 6551.4,
+      "end": 6551.72,
+      "text": "Okay."
+    },
+    {
+      "start": 6552.24,
+      "end": 6553.3,
+      "text": "The Monsters of Rock Festival,"
+    },
+    {
+      "start": 6553.56,
+      "end": 6555.12,
+      "text": "tomorrow at Castle Donington."
+    },
+    {
+      "start": 6555.48,
+      "end": 6556.24,
+      "text": "Ozzy's been our guest."
+    },
+    {
+      "start": 6556.36,
+      "end": 6557.28,
+      "text": "He headlines tomorrow."
+    },
+    {
+      "start": 6557.68,
+      "end": 6558.1,
+      "text": "Thanks, Oz."
+    },
+    {
+      "start": 6558.34,
+      "end": 6559.2,
+      "text": "Okay, God bless you."
+    },
+    {
+      "start": 6804.71,
+      "end": 6805.73,
+      "text": "Ozzy, the Scorpions,"
+    },
+    {
+      "start": 6805.85,
+      "end": 6806.27,
+      "text": "Def Leppard,"
+    },
+    {
+      "start": 6806.37,
+      "end": 6806.79,
+      "text": "Motorhead,"
+    },
+    {
+      "start": 6806.91,
+      "end": 6807.35,
+      "text": "Bad News,"
+    },
+    {
+      "start": 6807.47,
+      "end": 6808.19,
+      "text": "and Warlock."
+    },
+    {
+      "start": 6808.35,
+      "end": 6809.85,
+      "text": "Junctions 25, 26,"
+    },
+    {
+      "start": 6809.97,
+      "end": 6811.17,
+      "text": "around about the old M1."
+    },
+    {
+      "start": 6811.57,
+      "end": 6812.59,
+      "text": "Starts one o'clock tomorrow."
+    },
+    {
+      "start": 6812.85,
+      "end": 6814.21,
+      "text": "The Monsters of Rock Festival"
+    },
+    {
+      "start": 6814.21,
+      "end": 6815.01,
+      "text": "at Castle Donington."
+    },
+    {
+      "start": 6815.45,
+      "end": 6816.17,
+      "text": "You can get there,"
+    },
+    {
+      "start": 6816.35,
+      "end": 6816.75,
+      "text": "be there."
+    },
+    {
+      "start": 6817.31,
+      "end": 6818.07,
+      "text": "Thanks to Ozzy"
+    },
+    {
+      "start": 6818.07,
+      "end": 6818.89,
+      "text": "for being our guest tonight"
+    },
+    {
+      "start": 6818.89,
+      "end": 6819.37,
+      "text": "on the program."
+    },
+    {
+      "start": 6819.99,
+      "end": 6820.85,
+      "text": "The Friday Rock Show"
+    },
+    {
+      "start": 6820.85,
+      "end": 6822.29,
+      "text": "is a Tony Wilson production"
+    },
+    {
+      "start": 6822.29,
+      "end": 6825.83,
+      "text": "and we're recording everybody but Def Leppard tomorrow for the rock show"
+    },
+    {
+      "start": 6825.83,
+      "end": 6827.95,
+      "text": "we're not recording Def Leppard because they won't let us"
+    },
+    {
+      "start": 6827.95,
+      "end": 6831.41,
+      "text": "they wouldn't say yes, so it's not our fault"
+    },
+    {
+      "start": 6831.41,
+      "end": 6834.54,
+      "text": "don't know what the weather's going to be like"
+    },
+    {
+      "start": 6834.54,
+      "end": 6836.34,
+      "text": "but I hope it's going to be wonderful"
+    },
+    {
+      "start": 6836.34,
+      "end": 6839.18,
+      "text": "following the Midnight Pips you will hear on FM Stereo"
+    },
+    {
+      "start": 6839.18,
+      "end": 6840.08,
+      "text": "Radio 2"
+    },
+    {
+      "start": 6840.08,
+      "end": 6842.58,
+      "text": "on Medium Wave, Radio 1 News"
+    },
+    {
+      "start": 6842.58,
+      "end": 6845.43,
+      "text": "be nice to me tomorrow when I'm on the stage"
+    },
+    {
+      "start": 6845.43,
+      "end": 6847.19,
+      "text": "none of those filthy songs, thank you very much"
+    },
+    {
+      "start": 6847.19,
+      "end": 6849.82,
+      "text": "have a good evening, see you tomorrow"
+    },
+    {
+      "start": 6849.82,
+      "end": 6851.34,
+      "text": "God bless, good night"
     }
   ]
 }

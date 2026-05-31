@@ -15,37 +15,44 @@
     {
       "artist": "Judas Priest",
       "track": "Exciter",
-      "details": "LP-Unleashed In The East"
+      "details": "LP-Unleashed In The East",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Captain Beyond",
       "track": "Dancing Madly Backwards",
-      "details": "LP-Captain Beyond"
+      "details": "LP-Captain Beyond",
+      "verified_timestamp": 540.0
     },
     {
       "artist": "Stranglers",
       "track": "Men In Black",
-      "details": "LP-Raven"
+      "details": "LP-Raven",
+      "verified_timestamp": 1301.72
     },
     {
       "artist": "Uriah Heep",
       "track": "'Stealin",
-      "details": "LP-Sweet Freedom"
+      "details": "LP-Sweet Freedom",
+      "verified_timestamp": 1276.88
     },
     {
       "artist": "One In A Million",
       "track": "'Use Your Imagination' (7” Single) Part of track played as a tribute to Jimmy McCulloch",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1378.63
     },
     {
       "artist": "Thunderclap Newman",
       "track": "Something In The Air",
-      "details": "LP-Hollywood Dream"
+      "details": "LP-Hollywood Dream",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "The Dukes",
       "track": "Heartbreaker",
-      "details": "LP-The Dukes"
+      "details": "LP-The Dukes",
+      "verified_timestamp": 1694.28
     },
     {
       "artist": "You can find a Youtube video with the above 3 tracks featured here",
@@ -55,27 +62,34 @@
     {
       "artist": "Bob Dylan",
       "track": "Forever Young",
-      "details": "LP-At Budokan"
+      "details": "LP-At Budokan",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "may god bless and keep",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Screams",
       "track": "I Play For You",
-      "details": "LP-Screams"
+      "details": "LP-Screams",
+      "verified_timestamp": 2593.8
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 32.05
     },
     {
       "artist": "Undertones",
       "track": "You Got My Number",
-      "details": "7\" Single"
+      "details": "7\" Single",
+      "verified_timestamp": 3927.88
     },
     {
       "artist": "Starjets",
       "track": "What A Life",
-      "details": "LP-Starjets"
+      "details": "LP-Starjets",
+      "verified_timestamp": 3926.02
     },
     {
       "artist": "Gillan",
@@ -85,12 +99,14 @@
     {
       "artist": "Joan Armatrading",
       "track": "Cool Blue Stole My Heart",
-      "details": "LP-Steppin' Out"
+      "details": "LP-Steppin' Out",
+      "verified_timestamp": 6881.54
     },
     {
       "artist": "Molly Hatchet",
       "track": "Boogie No More",
-      "details": "LP-Flirtin' With Disaster"
+      "details": "LP-Flirtin' With Disaster",
+      "verified_timestamp": 7020.0
     }
   ],
   "transcript": [

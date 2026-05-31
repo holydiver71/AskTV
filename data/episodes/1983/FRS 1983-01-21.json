@@ -37,7 +37,8 @@
     {
       "artist": "Rock Goddess",
       "track": "Satisfied Then Crucified",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1310.0
     },
     {
       "artist": "Mamas Boys",
@@ -77,7 +78,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 66.22
     },
     {
       "artist": "Heritage",

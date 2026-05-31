@@ -18,47 +18,56 @@
     {
       "artist": "Pink Floyd",
       "track": "Comfortably Numb",
-      "details": "2xLP-The Wall; Harvest"
+      "details": "2xLP-The Wall; Harvest",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Rolling Stones",
       "track": "Undercover Of The Night (LP-Rewind",
-      "details": "1971-1984; Rolling Stones"
+      "details": "1971-1984; Rolling Stones",
+      "verified_timestamp": 540.0
     },
     {
       "artist": null,
       "track": "Annie Nightingale trailer",
-      "details": null
+      "details": null,
+      "verified_timestamp": 758.41
     },
     {
       "artist": "Possessed",
       "track": "March To Die",
-      "details": "LP-Beyond The Gates; Under One Flag"
+      "details": "LP-Beyond The Gates; Under One Flag",
+      "verified_timestamp": 1348.99
     },
     {
       "artist": "Iron Maiden",
       "track": "Stranger In A Strange Land",
-      "details": "12\"; EMI"
+      "details": "12\"; EMI",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Black 'N Blue",
       "track": "Kiss Of Death",
-      "details": "LP-Nasty Nasty; Geffen"
+      "details": "LP-Nasty Nasty; Geffen",
+      "verified_timestamp": 2041.3
     },
     {
       "artist": "Metal Church",
       "track": "Method To Your Madness",
-      "details": "LP-The Dark; Elektra"
+      "details": "LP-The Dark; Elektra",
+      "verified_timestamp": 1800.0
     },
     {
       "artist": "Rio",
       "track": "When The Walls Come Down",
-      "details": "12\"-Atlantic Radio; Music For Nations"
+      "details": "12\"-Atlantic Radio; Music For Nations",
+      "verified_timestamp": 2755.78
     },
     {
       "artist": "Nuclear Assault",
       "track": "Brain Death",
-      "details": "LP-Game Over; Under One Flag"
+      "details": "LP-Game Over; Under One Flag",
+      "verified_timestamp": 2340.0
     },
     {
       "artist": "White Tiger",
@@ -73,17 +82,906 @@
     {
       "artist": "Robert Plant",
       "track": "Big Log",
-      "details": "CD-The Principle Of Moments; Es Paranza"
+      "details": "CD-The Principle Of Moments; Es Paranza",
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
       "track": "Lie Back And Enjoy It",
-      "details": null
+      "details": null,
+      "verified_timestamp": 36.07
     },
     {
       "artist": null,
       "track": "Skagarack - Live from Reading Festival",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 3.47,
+      "end": 8.47,
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+    },
+    {
+      "start": 8.47,
+      "end": 24.27,
+      "text": "Well, hello there. This is TV on the Radio, Thomas the Vance, the music vendor. Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 24.27,
+      "end": 36.07,
+      "text": "The understatement of the week, a few excellent records in tonight's show such as The Rolling Stones, Black and Blue, Rio, Metal Church, Iron Maiden, Wasp and White Tiger."
+    },
+    {
+      "start": 36.07,
+      "end": 51.44,
+      "text": "...and the feature called Lie Back and Enjoy It,"
+    },
+    {
+      "start": 51.52,
+      "end": 55.02,
+      "text": "Henricks, The Eagles, ACDC, and Fleetwood Mac."
+    },
+    {
+      "start": 56.46,
+      "end": 60.4,
+      "text": "Also possessed, Robert Plant, Nuclear Assault and Deep Switch."
+    },
+    {
+      "start": 61.24,
+      "end": 66.14,
+      "text": "23 minutes to midnight, we have, from Reading 1986, Skagorak."
+    },
+    {
+      "start": 66.6,
+      "end": 717.01,
+      "text": "...video went along with that one."
+    },
+    {
+      "start": 717.25,
+      "end": 719.89,
+      "text": "I played it there from Rewind 1971 to 1984."
+    },
+    {
+      "start": 719.89,
+      "end": 722.15,
+      "text": "They were the Rolling Stones' Undercover of the Night."
+    },
+    {
+      "start": 722.23,
+      "end": 723.65,
+      "text": "It was a single back in 1983."
+    },
+    {
+      "start": 724.33,
+      "end": 726.05,
+      "text": "And before that, one of the classics of all time,"
+    },
+    {
+      "start": 726.11,
+      "end": 728.95,
+      "text": "recorded back in 1979 from the double album The Wall,"
+    },
+    {
+      "start": 729.27,
+      "end": 733.99,
+      "text": "saw the concert performance twice it was brilliant comfortably numb was the track"
+    },
+    {
+      "start": 733.99,
+      "end": 741.11,
+      "text": "and i see now that mr roger waters has legally applied to wind up pink floyd which basically"
+    },
+    {
+      "start": 741.11,
+      "end": 746.95,
+      "text": "means i think he's afraid that some of the other guys might get together and continue without him"
+    },
+    {
+      "start": 746.95,
+      "end": 752.39,
+      "text": "i would say that's probably his motivation but of course i could be wrong it's 14 and a half"
+    },
+    {
+      "start": 752.39,
+      "end": 757.57,
+      "text": "Half minutes past ten. Mrs. Wilson, Mrs. Wilson, please call the news desk. Thank you."
+    },
+    {
+      "start": 758.41,
+      "end": 763.47,
+      "text": "Hello, Annie Nightingale here, ready to whisk you off this Sunday afternoon to New York"
+    },
+    {
+      "start": 763.47,
+      "end": 768.07,
+      "text": "to hear Santana for this week's Vintage American Bandstand."
+    },
+    {
+      "start": 768.41,
+      "end": 773.09,
+      "text": "Carlos and the boys giving it everything they've got from the Big Apple in 1978."
+    },
+    {
+      "start": 773.71,
+      "end": 776.29,
+      "text": "And you can take part in the concert competition, too."
+    },
+    {
+      "start": 777.25,
+      "end": 795.33,
+      "text": "Join me, 2.30 Sunday afternoon, for Santana on Vintage American Bandstand"
+    },
+    {
+      "start": 795.33,
+      "end": 796.65,
+      "text": "here on Radio 1."
+    },
+    {
+      "start": 800.03,
+      "end": 800.79,
+      "text": "Time now."
+    },
+    {
+      "start": 800.91,
+      "end": 801.91,
+      "text": "Radio 1 is 10.15."
+    },
+    {
+      "start": 843.94,
+      "end": 1332.01,
+      "text": "24 minutes after 10."
+    },
+    {
+      "start": 1332.21,
+      "end": 1332.81,
+      "text": "They're probably,"
+    },
+    {
+      "start": 1333.45,
+      "end": 1337.37,
+      "text": "well, probably may be doing that number right now on stage"
+    },
+    {
+      "start": 1337.37,
+      "end": 1339.05,
+      "text": "because that's where they are on stage at the moment."
+    },
+    {
+      "start": 1339.21,
+      "end": 1339.63,
+      "text": "Iron Maiden."
+    },
+    {
+      "start": 1340.09,
+      "end": 1340.93,
+      "text": "That's their new single,"
+    },
+    {
+      "start": 1341.09,
+      "end": 1343.21,
+      "text": "just released, Stranger in a Strange Land."
+    },
+    {
+      "start": 1343.35,
+      "end": 1345.29,
+      "text": "Before that, the band called Possessed,"
+    },
+    {
+      "start": 1345.29,
+      "end": 1346.83,
+      "text": "A track from their new album"
+    },
+    {
+      "start": 1346.83,
+      "end": 1348.99,
+      "text": "Beyond the Gates is the title of the album"
+    },
+    {
+      "start": 1348.99,
+      "end": 1351.25,
+      "text": "The track was called March to Die"
+    },
+    {
+      "start": 1351.25,
+      "end": 1353.53,
+      "text": "Four guys who record there in California"
+    },
+    {
+      "start": 1353.53,
+      "end": 1355.37,
+      "text": "Message from Uncle Dicky"
+    },
+    {
+      "start": 1355.37,
+      "end": 1358.37,
+      "text": "Uncle Dicky wishes the Cosmic Zaps"
+    },
+    {
+      "start": 1358.37,
+      "end": 1360.17,
+      "text": "All the best for their gig"
+    },
+    {
+      "start": 1360.17,
+      "end": 1361.21,
+      "text": "In Merthyr"
+    },
+    {
+      "start": 1361.21,
+      "end": 1363.87,
+      "text": "Robin Harrower, a mention for him"
+    },
+    {
+      "start": 1363.87,
+      "end": 1365.43,
+      "text": "Lock Vale, Dumfries in Scotland"
+    },
+    {
+      "start": 1365.43,
+      "end": 1367.97,
+      "text": "Dedicates a nice message to all the"
+    },
+    {
+      "start": 1367.97,
+      "end": 1370.05,
+      "text": "Head-banging metalheads at Dumfries"
+    },
+    {
+      "start": 1370.05,
+      "end": 1370.75,
+      "text": "High School"
+    },
+    {
+      "start": 1370.75,
+      "end": 1372.69,
+      "text": "A message here from"
+    },
+    {
+      "start": 1372.69,
+      "end": 1381.89,
+      "text": "from, where is it, Jenny and Tracy and Karadin, I think it is, Fiona, Amanda and Karen, and Maxine Monroe of Sandwick in Shetland."
+    },
+    {
+      "start": 1382.39,
+      "end": 1390.39,
+      "text": "Play new groups, by all means. I like most of them, but don't you dare, what is it, don't you dare forget about Willis Established Bands as well,"
+    },
+    {
+      "start": 1390.43,
+      "end": 1395.15,
+      "text": "because up here in Shetland, that's where we like, that's what we like. Say hi to Jenny and Tracy and all the other people."
+    },
+    {
+      "start": 1395.15,
+      "end": 1399.35,
+      "text": "Well, that's what I try to do, try to mix it up. Sometimes it works, sometimes it doesn't."
+    },
+    {
+      "start": 1399.75,
+      "end": 1404.05,
+      "text": "Dick and Terry and Wally and Debbie and the Mob of Norwich in Norfolk."
+    },
+    {
+      "start": 1404.49,
+      "end": 1405.81,
+      "text": "Hello to you, Black and Blue."
+    },
+    {
+      "start": 1535.95,
+      "end": 1998.26,
+      "text": "The album is called The Dark."
+    },
+    {
+      "start": 1998.32,
+      "end": 1999.3,
+      "text": "It is by Metal Church."
+    },
+    {
+      "start": 1999.54,
+      "end": 2002.38,
+      "text": "It's out on the Elektra record label in the United States of America."
+    },
+    {
+      "start": 2002.58,
+      "end": 2004.26,
+      "text": "Method to Your Madness was the track."
+    },
+    {
+      "start": 2004.9,
+      "end": 2007.44,
+      "text": "Now, it's not much use to you unless you're going to California, say, tonight."
+    },
+    {
+      "start": 2007.62,
+      "end": 2009.96,
+      "text": "If you are in California, Los Angeles tomorrow night,"
+    },
+    {
+      "start": 2009.96,
+      "end": 2014.68,
+      "text": "you can see that band, Metal Church, along with Metallica at the Country Club in L.A."
+    },
+    {
+      "start": 2014.74,
+      "end": 2016.84,
+      "text": "But, I mean, somebody might be going, you never know."
+    },
+    {
+      "start": 2016.84,
+      "end": 2020.76,
+      "text": "There is also a rumour that Metal Church might be coming to this country"
+    },
+    {
+      "start": 2020.76,
+      "end": 2025.5,
+      "text": "to do a gig with Megadeth and Anthrax round about January."
+    },
+    {
+      "start": 2025.72,
+      "end": 2026.62,
+      "text": "That's just a rumour."
+    },
+    {
+      "start": 2027.08,
+      "end": 2031.72,
+      "text": "Maybe Metal Church, Megadeth and Anthrax doing a gig in London in January."
+    },
+    {
+      "start": 2032.16,
+      "end": 2035.2,
+      "text": "Before that, you heard a very good band, an excellent album."
+    },
+    {
+      "start": 2035.62,
+      "end": 2036.9,
+      "text": "It's out on the Geffen record label."
+    },
+    {
+      "start": 2037.32,
+      "end": 2039.52,
+      "text": "Black and Blue, they're called. It's their third album."
+    },
+    {
+      "start": 2039.9,
+      "end": 2040.9,
+      "text": "It's called Nasty Nasty."
+    },
+    {
+      "start": 2041.3,
+      "end": 2043.54,
+      "text": "And the track we played was called Kiss of Death."
+    },
+    {
+      "start": 2043.98,
+      "end": 2045.12,
+      "text": "It's 24 minutes now to 11."
+    },
+    {
+      "start": 2045.12,
+      "end": 2048.94,
+      "text": "Hello to Joe and Hayden and Jane and Vic in Kent and Dave and Hammond and Phil."
+    },
+    {
+      "start": 2049.52,
+      "end": 2052.32,
+      "text": "And also Bod and Down and Roz and also Jeff."
+    },
+    {
+      "start": 2052.9,
+      "end": 2055.12,
+      "text": "Hello from, I think it's Jan Hardtop."
+    },
+    {
+      "start": 2055.96,
+      "end": 2057.88,
+      "text": "Jan Hardtop of Pontefract."
+    },
+    {
+      "start": 2058.32,
+      "end": 2059.12,
+      "text": "A little mention here."
+    },
+    {
+      "start": 2059.26,
+      "end": 2061.46,
+      "text": "Says, play a record for my lovely girlfriend Evelyn."
+    },
+    {
+      "start": 2062.04,
+      "end": 2063.6,
+      "text": "You tell her that I love her very much."
+    },
+    {
+      "start": 2064.22,
+      "end": 2064.8,
+      "text": "Anything at all."
+    },
+    {
+      "start": 2064.92,
+      "end": 2067.06,
+      "text": "John Williams of Blackpool says that."
+    },
+    {
+      "start": 2067.6,
+      "end": 2068.7,
+      "text": "Well, how about this?"
+    },
+    {
+      "start": 2068.94,
+      "end": 2069.56,
+      "text": "By Rio."
+    },
+    {
+      "start": 2070.36,
+      "end": 2722.64,
+      "text": "Other people on the bill as well."
+    },
+    {
+      "start": 2722.74,
+      "end": 2723.82,
+      "text": "In Montreux they did it."
+    },
+    {
+      "start": 2723.9,
+      "end": 2724.86,
+      "text": "I wish they'd done it over here."
+    },
+    {
+      "start": 2725.24,
+      "end": 2727.94,
+      "text": "The gig was called the No Speed Limit Thrash."
+    },
+    {
+      "start": 2728.14,
+      "end": 2729.44,
+      "text": "They are Nuclear Assault."
+    },
+    {
+      "start": 2729.92,
+      "end": 2731.66,
+      "text": "It's a track from an album called Game Over."
+    },
+    {
+      "start": 2731.82,
+      "end": 2733.1,
+      "text": "It's on the Under One Flag label."
+    },
+    {
+      "start": 2733.46,
+      "end": 2734.82,
+      "text": "The track you heard was called Brain Death."
+    },
+    {
+      "start": 2734.9,
+      "end": 2737.8,
+      "text": "They're from New York City, and they're mainly built around a couple of guys"
+    },
+    {
+      "start": 2737.8,
+      "end": 2741.74,
+      "text": "who used to be in anthrax but wanted to play music of a greater challenge."
+    },
+    {
+      "start": 2741.86,
+      "end": 2743.14,
+      "text": "Good band, Nuclear Assault."
+    },
+    {
+      "start": 2743.22,
+      "end": 2745.84,
+      "text": "Before that, a couple of guys from Hatfield in Hertfordshire."
+    },
+    {
+      "start": 2746.28,
+      "end": 2748.08,
+      "text": "They are Steve Rodford and John Neal."
+    },
+    {
+      "start": 2748.24,
+      "end": 2749.94,
+      "text": "Collectively, they call themselves Rio."
+    },
+    {
+      "start": 2750.14,
+      "end": 2753.18,
+      "text": "They used to call themselves Bombay, but now they're Rio."
+    },
+    {
+      "start": 2753.18,
+      "end": 2755.78,
+      "text": "And that is actually from the 12 Incher"
+    },
+    {
+      "start": 2755.78,
+      "end": 2757.08,
+      "text": "When the Walls Come Down"
+    },
+    {
+      "start": 2757.08,
+      "end": 2758.8,
+      "text": "It's out on Music for Nations"
+    },
+    {
+      "start": 2758.8,
+      "end": 2760.92,
+      "text": "Those two guys really deserve to get somewhere"
+    },
+    {
+      "start": 2760.92,
+      "end": 2761.68,
+      "text": "And I hope they do"
+    },
+    {
+      "start": 2761.68,
+      "end": 2765.03,
+      "text": "The Midnight Runner Show"
+    },
+    {
+      "start": 2765.03,
+      "end": 2766.61,
+      "text": "On Radio 1"
+    },
+    {
+      "start": 2766.61,
+      "end": 2771.27,
+      "text": "Saturday night from 9.30 to the witching hour"
+    },
+    {
+      "start": 2771.27,
+      "end": 2772.85,
+      "text": "It's Dixie Peach"
+    },
+    {
+      "start": 2772.85,
+      "end": 2774.83,
+      "text": "With the Midnight Runner Show"
+    },
+    {
+      "start": 2774.83,
+      "end": 2775.99,
+      "text": "And you know what?"
+    },
+    {
+      "start": 2776.13,
+      "end": 2777.57,
+      "text": "Music is great"
+    },
+    {
+      "start": 2777.57,
+      "end": 2779.25,
+      "text": "With Brian Spence"
+    },
+    {
+      "start": 2779.25,
+      "end": 2780.77,
+      "text": "Our session guest"
+    },
+    {
+      "start": 2780.77,
+      "end": 2783.73,
+      "text": "And live music comes from Magnum."
+    },
+    {
+      "start": 2784.27,
+      "end": 2788.31,
+      "text": "For all music lovers, Saturday night, 9.30, Radio 1,"
+    },
+    {
+      "start": 2788.63,
+      "end": 2791.77,
+      "text": "the Dixie Beach Midnight Runner Show, where our motto is..."
+    },
+    {
+      "start": 2792.31,
+      "end": 2792.75,
+      "text": "Everybody!"
+    },
+    {
+      "start": 2796.36,
+      "end": 2799.54,
+      "text": "Well worth a listen. The Magnum gig is great."
+    },
+    {
+      "start": 2799.7,
+      "end": 2800.86,
+      "text": "It is 12 minutes to 11."
+    },
+    {
+      "start": 2802.24,
+      "end": 2821.16,
+      "text": "At about 23 minutes to midnight, skag-a-rak as they were at Reading 1986."
+    },
+    {
+      "start": 2821.42,
+      "end": 2823.76,
+      "text": "A little message, you say, well, it's a very strange one, this one."
+    },
+    {
+      "start": 2824.3,
+      "end": 2829.22,
+      "text": "Hello to Joe, who, according to Helen, has the best set of pom-poms in the world."
+    },
+    {
+      "start": 2829.4,
+      "end": 2831.04,
+      "text": "Must be talking about the ski hat he wears."
+    },
+    {
+      "start": 2831.5,
+      "end": 2836.46,
+      "text": "And lots of love and thanks for the smallest room from A, Alison,"
+    },
+    {
+      "start": 2836.82,
+      "end": 2840.12,
+      "text": "also known as Miss Ware of 1986, I suppose."
+    },
+    {
+      "start": 2840.46,
+      "end": 2842.56,
+      "text": "Smallest room? About to live in the toilet."
+    },
+    {
+      "start": 2843.7,
+      "end": 3764.09,
+      "text": "...whom I hear is going to be going into the studio,"
+    },
+    {
+      "start": 3764.29,
+      "end": 3767.55,
+      "text": "or indeed might already be in the studio, with Robin George."
+    },
+    {
+      "start": 3768.09,
+      "end": 3770.35,
+      "text": "Good combination of Midlands-born people there."
+    },
+    {
+      "start": 3770.35,
+      "end": 3772.31,
+      "text": "Robert Plant from The Principle of Moments"
+    },
+    {
+      "start": 3772.31,
+      "end": 3774.45,
+      "text": "played a later, say it again, played off CD"
+    },
+    {
+      "start": 3774.45,
+      "end": 3775.75,
+      "text": "and the track was called Big Log"
+    },
+    {
+      "start": 3775.75,
+      "end": 3778.91,
+      "text": "before that you heard the band who are doing well on tour"
+    },
+    {
+      "start": 3778.91,
+      "end": 3780.15,
+      "text": "exceptionally well in the UK"
+    },
+    {
+      "start": 3780.15,
+      "end": 3782.45,
+      "text": "Wasp, great reports about them"
+    },
+    {
+      "start": 3782.45,
+      "end": 3783.99,
+      "text": "we recorded one of the gigs by Wasp"
+    },
+    {
+      "start": 3783.99,
+      "end": 3786.31,
+      "text": "and that will be broadcast ultimately on this year's show"
+    },
+    {
+      "start": 3786.31,
+      "end": 3787.15,
+      "text": "so stay tuned"
+    },
+    {
+      "start": 3787.15,
+      "end": 3788.39,
+      "text": "prior to that, White Tiger"
+    },
+    {
+      "start": 3788.39,
+      "end": 3790.49,
+      "text": "from their debut album called White Tiger"
+    },
+    {
+      "start": 3790.49,
+      "end": 3792.47,
+      "text": "on EMC Records, it's an import"
+    },
+    {
+      "start": 3792.47,
+      "end": 3795.23,
+      "text": "David Donato, he used to be with Black Sabbath"
+    },
+    {
+      "start": 3795.23,
+      "end": 3796.19,
+      "text": "did about six months with them"
+    },
+    {
+      "start": 3796.19,
+      "end": 3797.73,
+      "text": "and of course Mr St John"
+    },
+    {
+      "start": 3797.73,
+      "end": 3800.15,
+      "text": "who was the lead guitarist with Kiss for a while"
+    },
+    {
+      "start": 3800.15,
+      "end": 3804.97,
+      "text": "they've never done a live gig yet but they're currently rehearsing in the states for a big"
+    },
+    {
+      "start": 3804.97,
+      "end": 3809.55,
+      "text": "sort of mega tour next year the time now is exactly five past eleven it's time to lie back"
+    },
+    {
+      "start": 3809.55,
+      "end": 3816.01,
+      "text": "and enjoy it four bits of music chosen by tonight dave leonard of eulens close bandstead in surrey"
+    },
+    {
+      "start": 3816.01,
+      "end": 3820.63,
+      "text": "and i'm going to be talking to him after we hear his lie back and enjoy it"
+    },
+    {
+      "start": 3820.63,
+      "end": 5235.57,
+      "text": "that was the feature called lie back and enjoy it put together tonight by dave leonard of bandstead"
+    },
+    {
+      "start": 5235.57,
+      "end": 5240.21,
+      "text": "in surrey he gets a 12 pound record token and he's on the air now davey there yep how are you"
+    },
+    {
+      "start": 5240.21,
+      "end": 5246.07,
+      "text": "mate fine thanks okay can we just run through the tracks fleetwood mac and i'm so afraid recorded in"
+    },
+    {
+      "start": 5246.07,
+      "end": 5253.31,
+      "text": "1980 right yep from the double album live and before that we heard uh little wing no last"
+    },
+    {
+      "start": 5253.31,
+      "end": 5257.23,
+      "text": "resort was before that wasn't it oh was it yeah last resort hotel california by the eagles that"
+    },
+    {
+      "start": 5257.23,
+      "end": 5263.93,
+      "text": "was 76 little wing nice choice because that was a live version right yeah recorded in 68 and we"
+    },
+    {
+      "start": 5263.93,
+      "end": 5265.77,
+      "text": "started with Touch Too Much from Highway to Hell,"
+    },
+    {
+      "start": 5265.85,
+      "end": 5266.99,
+      "text": "still one of their best albums."
+    },
+    {
+      "start": 5267.81,
+      "end": 5269.31,
+      "text": "1979 by ACDC."
+    },
+    {
+      "start": 5270.09,
+      "end": 5271.19,
+      "text": "Thanks for your choice tonight."
+    },
+    {
+      "start": 5272.37,
+      "end": 5274.05,
+      "text": "Said you'd get a £12 record token."
+    },
+    {
+      "start": 5274.33,
+      "end": 5276.27,
+      "text": "I know you're a bit dissatisfied with the programme,"
+    },
+    {
+      "start": 5276.41,
+      "end": 5277.57,
+      "text": "so state your case."
+    },
+    {
+      "start": 5278.55,
+      "end": 5282.5,
+      "text": "Well, I was just a bit cheesed off"
+    },
+    {
+      "start": 5282.5,
+      "end": 5286.46,
+      "text": "with the usual trash metal stuff."
+    },
+    {
+      "start": 5287.08,
+      "end": 5288.5,
+      "text": "Well, I mean, you're not alone,"
+    },
+    {
+      "start": 5288.94,
+      "end": 5291.2,
+      "text": "because I do get a significant amount of mail"
+    },
+    {
+      "start": 5291.2,
+      "end": 5292.62,
+      "text": "that says they're fed up with the thrash"
+    },
+    {
+      "start": 5292.62,
+      "end": 5293.36,
+      "text": "and they don't like it."
+    },
+    {
+      "start": 5293.36,
+      "end": 5298.34,
+      "text": "they don't like if you like you know what i would call contemporary rock or rock bordering on punk"
+    },
+    {
+      "start": 5298.34,
+      "end": 5302.72,
+      "text": "but i have to say at the same time i get a lot of letters saying that they like it as well"
+    },
+    {
+      "start": 5302.72,
+      "end": 5307.72,
+      "text": "what i'm trying to do is to achieve a balance between the two which is very difficult"
+    },
+    {
+      "start": 5307.72,
+      "end": 5314.18,
+      "text": "uh and that's that's the i suppose it's an excuse that i'm giving you there yeah but i do i will"
+    },
+    {
+      "start": 5314.18,
+      "end": 5318.98,
+      "text": "bear it in mind honestly and if you think you think basically i think there should be more classics in"
+    },
+    {
+      "start": 5318.98,
+      "end": 5326.46,
+      "text": "the show right yeah i think um you can have some of the uh the heavier stuff like the acdc but um"
+    },
+    {
+      "start": 5326.46,
+      "end": 5333.58,
+      "text": "i mean uh all this wasp and stuff it's uh it's a bit too much it's a bit too much yeah all right"
+    },
+    {
+      "start": 5333.58,
+      "end": 5338.28,
+      "text": "dave well i'll try and balance it out better but uh as you well know you can't please everybody"
+    },
+    {
+      "start": 5338.28,
+      "end": 5361.74,
+      "text": "all the time but i'll do my best yeah all right okay thanks a lot david bye-bye it's 11 30 and"
+    },
+    {
+      "start": 5361.74,
+      "end": 5363.36,
+      "text": "now from Reading, 1981."
     }
   ]
 }

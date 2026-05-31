@@ -19,42 +19,50 @@
     {
       "artist": "Journey",
       "track": "Edge Of The Blade",
-      "details": "LP-Frontiers; Columbia"
+      "details": "LP-Frontiers; Columbia",
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Uriah Heep",
       "track": "Think It Over",
-      "details": "LP-Abominog; Bronze"
+      "details": "LP-Abominog; Bronze",
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Robin Trower",
       "track": "Too Rolling Stoned",
-      "details": "LP-Robin Trower Live!; Chrysalis"
+      "details": "LP-Robin Trower Live!; Chrysalis",
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Black Sabbath",
       "track": "Children Of The Grave",
-      "details": "2xLP-Live Evil; Vertigo"
+      "details": "2xLP-Live Evil; Vertigo",
+      "verified_timestamp": 1080.0
     },
     {
       "artist": "Chasar",
       "track": "Visions Of Time",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1414.14
     },
     {
       "artist": "Sammy Hagar",
       "track": "Rise Of The Animal",
-      "details": "LP-Three Lock Box; Geffen"
+      "details": "LP-Three Lock Box; Geffen",
+      "verified_timestamp": 2136.3
     },
     {
       "artist": "Terrain",
       "track": "The Damage Is Done",
-      "details": "Self released cassette"
+      "details": "Self released cassette",
+      "verified_timestamp": 2209.28
     },
     {
       "artist": "Queen",
       "track": "Put Out The Fire",
-      "details": "LP-Hot Space; EMI"
+      "details": "LP-Hot Space; EMI",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Chasar",
@@ -64,12 +72,14 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3401.06
     },
     {
       "artist": "Starfighters",
       "track": "Gallows Dancer",
-      "details": "LP-In-Flight Movie; Jive"
+      "details": "LP-In-Flight Movie; Jive",
+      "verified_timestamp": 4967.32
     },
     {
       "artist": "Chasar",
@@ -79,12 +89,14 @@
     {
       "artist": "Eric Clapton",
       "track": "Let It Rain",
-      "details": "LP-Eric Clapton; Polydor"
+      "details": "LP-Eric Clapton; Polydor",
+      "verified_timestamp": 5040.0
     },
     {
       "artist": "Frank Marino",
       "track": "Go Strange",
-      "details": "LP-The Power Of Rock 'n Roll; CBS"
+      "details": "LP-The Power Of Rock 'n Roll; CBS",
+      "verified_timestamp": 5732.09
     },
     {
       "artist": null,
@@ -94,12 +106,14 @@
     {
       "artist": "Thin Lizzy",
       "track": "Cold Sweat",
-      "details": "single-Cold Sweat; Vertigo"
+      "details": "single-Cold Sweat; Vertigo",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "Steve Hillage",
       "track": "Before The World Was Made",
-      "details": "7\"-Kamikaze Eyes B-Side; Virgin"
+      "details": "7\"-Kamikaze Eyes B-Side; Virgin",
+      "verified_timestamp": 7076.34
     },
     {
       "artist": "Chasar",
@@ -109,7 +123,8 @@
     {
       "artist": "Joe Walsh",
       "track": "Rocky Mountain Way",
-      "details": "LP-The Smoker You Drink, The Player You Get; ABC-Dunhill"
+      "details": "LP-The Smoker You Drink, The Player You Get; ABC-Dunhill",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

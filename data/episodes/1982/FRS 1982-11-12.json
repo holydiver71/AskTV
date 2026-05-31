@@ -33,7 +33,8 @@
     {
       "artist": "Terraplane",
       "track": "If You Could See Yourself",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 686.59
     },
     {
       "artist": "Whitesnake",
@@ -53,7 +54,8 @@
     {
       "artist": "Jethro Tull",
       "track": "My Sunday Feeling",
-      "details": "Top Gear Session 1968-11-05"
+      "details": "Top Gear Session 1968-11-05",
+      "verified_timestamp": 1890.78
     },
     {
       "artist": "Jethro Tull",
@@ -73,7 +75,8 @@
     {
       "artist": "Frank Zappa",
       "track": "'Stink-Foot' (LP - Apostrophe) Discreet",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2901.38
     },
     {
       "artist": "Tom Petty And The Heartbreakers",
@@ -88,7 +91,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 60.76
     },
     {
       "artist": "Terraplane",
@@ -103,7 +107,8 @@
     {
       "artist": "Jethro Tull",
       "track": "Living In The Past",
-      "details": "Top Gear Session 1969-06-16"
+      "details": "Top Gear Session 1969-06-16",
+      "verified_timestamp": 5400.0
     },
     {
       "artist": "Jethro Tull",

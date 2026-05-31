@@ -30,7 +30,8 @@
     {
       "artist": "Barclay James Harvest",
       "track": "Waiting For The Right Time (LP - Ring Of Changes) Polydor",
-      "details": null
+      "details": null,
+      "verified_timestamp": 615.22
     },
     {
       "artist": "Hawkwind",
@@ -40,7 +41,8 @@
     {
       "artist": "Accept",
       "track": "Fast As A Shark",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1331.44
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -50,7 +52,8 @@
     {
       "artist": "Yes",
       "track": "Owner Of A Lonely Heart (12\") ATCO",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Aldo Nova",
@@ -80,7 +83,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 3439.61
     },
     {
       "artist": "Accept",
@@ -100,7 +104,8 @@
     {
       "artist": "Dio",
       "track": "Stand Up And Shout (7\" B side to Rainbow In The Dark) Vertigo",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5429.58
     },
     {
       "artist": "Peter Blegvad",

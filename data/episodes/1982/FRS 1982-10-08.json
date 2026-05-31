@@ -12,22 +12,26 @@
     {
       "artist": "Twisted Sister",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1573.06
     },
     {
       "artist": "Bernie Marsden",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1573.06
     },
     {
       "artist": "Y & T",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1573.06
     },
     {
       "artist": "Michael Schenker Group",
       "track": "Reading Rock 1982",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1573.06
     }
   ],
   "transcript": [

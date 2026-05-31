@@ -30,17 +30,20 @@
     {
       "artist": "Graham Bonnet",
       "track": "Liar",
-      "details": "7\" Single; Vertigo"
+      "details": "7\" Single; Vertigo",
+      "verified_timestamp": 475.79
     },
     {
       "artist": "Genesis",
       "track": "Robbery, Assault & Battery",
-      "details": "2xLP-Seconds Out; Charisma"
+      "details": "2xLP-Seconds Out; Charisma",
+      "verified_timestamp": 1260.0
     },
     {
       "artist": "Steve Hillage",
       "track": "Hurdy Gurdy Man",
-      "details": "LP-L; Virgin"
+      "details": "LP-L; Virgin",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": "Rainbow",
@@ -50,17 +53,20 @@
     {
       "artist": "Cozy Powell & Friends",
       "track": "Superstrut",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1772.92
     },
     {
       "artist": "Wishbone Ash",
       "track": "Open Road",
-      "details": "LP-Number The Brave; MCA"
+      "details": "LP-Number The Brave; MCA",
+      "verified_timestamp": 5648.68
     },
     {
       "artist": "Cozy Powell",
       "track": "Foolish Girl",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "verified_timestamp": 1772.92
     },
     {
       "artist": "Cozy Powell",
@@ -90,27 +96,32 @@
     {
       "artist": "Graham Bonnet",
       "track": "Liar",
-      "details": "7\" Single; Vertigo"
+      "details": "7\" Single; Vertigo",
+      "verified_timestamp": 475.79
     },
     {
       "artist": "Vardis",
       "track": "'Let's Go'",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 538.54
     },
     {
       "artist": "Trespass",
       "track": "Stormchild",
-      "details": "v/a LP-Metal For Muthas; EMI"
+      "details": "v/a LP-Metal For Muthas; EMI",
+      "verified_timestamp": 1042.07
     },
     {
       "artist": "Genesis",
       "track": "Robbery, Assault & Battery",
-      "details": "2xLP-Seconds Out; Charisma"
+      "details": "2xLP-Seconds Out; Charisma",
+      "verified_timestamp": 1440.0
     },
     {
       "artist": "Geddes Axe",
       "track": "The Return Of The Gods",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 1703.06
     },
     {
       "artist": "Cozy Powell's Hammer",
@@ -120,7 +131,8 @@
     {
       "artist": "Brian Eno & David Byrne",
       "track": "Regiment",
-      "details": "LP-My Life In The Bush Of Ghosts"
+      "details": "LP-My Life In The Bush Of Ghosts",
+      "verified_timestamp": 2160.0
     },
     {
       "artist": "Vardis",
@@ -130,7 +142,8 @@
     {
       "artist": "Steve Hillage",
       "track": "Hurdy Gurdy Man",
-      "details": "LP-L; Virgin"
+      "details": "LP-L; Virgin",
+      "verified_timestamp": 2880.0
     },
     {
       "artist": "Rainbow",
@@ -145,7 +158,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 64.16
     },
     {
       "artist": "Vardis",
@@ -155,17 +169,20 @@
     {
       "artist": "Kraftwerk",
       "track": "Computer World",
-      "details": "LP-Computer World"
+      "details": "LP-Computer World",
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Sean Tyla",
       "track": "Diamond Lane",
-      "details": "LP-Sean Tyla's Just Popped Out"
+      "details": "LP-Sean Tyla's Just Popped Out",
+      "verified_timestamp": 5663.85
     },
     {
       "artist": "Wishbone Ash",
       "track": "Open Road",
-      "details": "LP-Number The Brave; MCA"
+      "details": "LP-Number The Brave; MCA",
+      "verified_timestamp": 5648.68
     },
     {
       "artist": "Cozy Powell's Hammer",
@@ -185,7 +202,8 @@
     {
       "artist": "Doors",
       "track": "LA Woman",
-      "details": "LP-LA Woman"
+      "details": "LP-LA Woman",
+      "verified_timestamp": 6660.0
     }
   ],
   "transcript": [

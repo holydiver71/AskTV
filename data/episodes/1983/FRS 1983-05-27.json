@@ -20,7 +20,8 @@
     {
       "artist": "Mott The Hoople",
       "track": "All The Way From Memphis (LP - Mott) CBS",
-      "details": null
+      "details": null,
+      "verified_timestamp": 360.0
     },
     {
       "artist": "Hanoi Rocks",
@@ -35,12 +36,14 @@
     {
       "artist": "Magnum",
       "track": "Breakdown",
-      "details": "FRS session"
+      "details": "FRS session",
+      "verified_timestamp": 1005.02
     },
     {
       "artist": "Michael Schenker Group",
       "track": "Lost Horizons (LP - The Michael Schenker Group) Chrysalis",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1007.44
     },
     {
       "artist": "Pallas",
@@ -75,7 +78,8 @@
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 537.41
     },
     {
       "artist": "Magnum",
@@ -90,12 +94,14 @@
     {
       "artist": "Dio",
       "track": "Gypsy (LP - Holy Diver) Vertigo",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5476.26
     },
     {
       "artist": "Dio",
       "track": "Rainbow In The Dark (LP - Holy Diver) Vertigo",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5473.68
     },
     {
       "artist": "Aerosmith",

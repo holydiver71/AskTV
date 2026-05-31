@@ -20,32 +20,38 @@
     {
       "artist": "Mötley Crüe",
       "track": "Keep Your Eye On The Money",
-      "details": null
+      "details": null,
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Hawkwind",
       "track": "Master Of The Universe",
-      "details": "live"
+      "details": "live",
+      "verified_timestamp": 787.37
     },
     {
       "artist": "M-80",
       "track": "Get Outa My Face",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1340.59
     },
     {
       "artist": "Viper",
       "track": "Cold As Stone",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1331.71
     },
     {
       "artist": "Wishbone Ash",
       "track": "Love Is Blue",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 1987.26
     },
     {
       "artist": "Robin Trower",
       "track": "Beyond The Mist",
-      "details": "LP-Beyond The Mist; Music For Nations"
+      "details": "LP-Beyond The Mist; Music For Nations",
+      "verified_timestamp": 1985.12
     },
     {
       "artist": "Razor",
@@ -55,7 +61,8 @@
     {
       "artist": "Heavy Pettin",
       "track": "Sole Survivor",
-      "details": "7\"; Polydor"
+      "details": "7\"; Polydor",
+      "verified_timestamp": 2436.09
     },
     {
       "artist": "Grand Funk",
@@ -75,12 +82,14 @@
     {
       "artist": "AC/DC",
       "track": "Shake Your Foundations",
-      "details": "LP-Fly On The Wall; Atlantic"
+      "details": "LP-Fly On The Wall; Atlantic",
+      "verified_timestamp": 3420.0
     },
     {
       "artist": "Warlock",
       "track": "Hellbound",
-      "details": "LP-Hellbound; Phonogram"
+      "details": "LP-Hellbound; Phonogram",
+      "verified_timestamp": 3780.0
     },
     {
       "artist": "Trash",
@@ -100,7 +109,8 @@
     {
       "artist": "Rapid Tears",
       "track": "Eve Of Rock",
-      "details": "12\"-Cry For Mercy; Chameleon"
+      "details": "12\"-Cry For Mercy; Chameleon",
+      "verified_timestamp": 7111.36
     },
     {
       "artist": "Rods",

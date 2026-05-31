@@ -14,7 +14,9 @@
     {
       "artist": "Status Quo",
       "track": "Recorded at the NEC",
-      "details": null
+      "details": null,
+      "verified_timestamp": 0
+
     }
   ],
   "transcript": [

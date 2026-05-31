@@ -56,7 +56,9 @@
       "artist": "Jimi Hendrix",
       "track": "Stone Free",
       "details": "Saturday Club 1967-02-13",
-      "verified_timestamp": 2138.6
+      "verified_timestamp": 2138.6,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "they talk about me like"
     },
     {
       "artist": "Jimi Hendrix",
@@ -74,7 +76,9 @@
       "artist": "Jimi Hendrix",
       "track": "Foxy Lady",
       "details": "Saturday Club 1967-02-13",
-      "verified_timestamp": 2138.6
+      "verified_timestamp": 2138.6,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you ve got to be"
     },
     {
       "artist": "Invaders",
@@ -86,13 +90,17 @@
       "artist": "Robert Palmer",
       "track": "Doctor Doctor",
       "details": "7\" Single",
-      "verified_timestamp": 2731.23
+      "verified_timestamp": 2731.23,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "bad case of loving you"
     },
     {
       "artist": "Devo",
       "track": "The Day My Baby Gave Me A Surprise",
       "details": "7\" Single",
-      "verified_timestamp": 2700.0
+      "verified_timestamp": 2700.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the day my baby gave"
     },
     {
       "artist": null,
@@ -116,7 +124,9 @@
       "artist": "Jimi Hendrix",
       "track": "Radio One Jingle",
       "details": "Top Gear 1967-12-15",
-      "verified_timestamp": 66.86
+      "verified_timestamp": 66.86,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "radio one you re the"
     },
     {
       "artist": "Jimi Hendrix",
@@ -164,7 +174,9 @@
       "artist": "Jimi Hendrix",
       "track": "Hoochie Coochie Man",
       "details": "World Service Rhythm & Blues 1967-10-17",
-      "verified_timestamp": 7149.18
+      "verified_timestamp": 7149.18,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "he s gonna be a"
     },
     {
       "artist": "Jimi Hendrix",
@@ -180,31 +192,6 @@
     }
   ],
   "transcript": [
-    {
-      "start": 0.0,
-      "end": 7.0,
-      "text": "5, 9, High Grange, 6-1, 13, Miss Horatio, 50-1."
-    },
-    {
-      "start": 7.0,
-      "end": 14.0,
-      "text": "Rugby League and the Great Britain Touring Team opened their tour of Australia by beating North Queensland 29-5 in Mackay."
-    },
-    {
-      "start": 14.0,
-      "end": 19.0,
-      "text": "Finally, a reminder of the score in tonight's International, Northern Ireland 1, Wales 1."
-    },
-    {
-      "start": 19.0,
-      "end": 22.67,
-      "text": "From all of us here, a very good night to you."
-    },
-    {
-      "start": 22.67,
-      "end": 24.67,
-      "text": "Now the Greenwich time signal for 10 o'clock."
-    },
     {
       "start": 24.67,
       "end": 55.84,
@@ -447,21 +434,6 @@
       "start": 1303.44,
       "end": 1307.08,
       "text": "Because I really just wanted to say, ladies and gentlemen, Jimi Hendrix."
-    },
-    {
-      "start": 1308.92,
-      "end": 1329.75,
-      "text": "It's been too long, way down"
-    },
-    {
-      "start": 1329.75,
-      "end": 1333.81,
-      "text": "They talk about me like a dog"
-    },
-    {
-      "start": 1333.81,
-      "end": 1335.79,
-      "text": "They talk about the cruiser"
     },
     {
       "start": 1335.79,
@@ -1325,26 +1297,7 @@
       "start": 7347.28,
       "end": 7362.53,
       "text": "Well then, God bless you."
-    },
-    {
-      "start": 7362.73,
-      "end": 7369.43,
-      "text": "It's midnight and we're together on all wavelengths 433, 330, 285, 275 and VHF."
-    },
-    {
-      "start": 7369.83,
-      "end": 7372.73,
-      "text": "And this is James Alexander Gordon in the Midnight Newsroom."
-    },
-    {
-      "start": 7373.39,
-      "end": 7374.05,
-      "text": "The headlines."
-    },
-    {
-      "start": 7374.75,
-      "end": 7378.07,
-      "text": "Getting on for 300 people die in America's worst ever..."
     }
+
   ]
 }

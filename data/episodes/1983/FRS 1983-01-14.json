@@ -31,7 +31,8 @@
     {
       "artist": "Rolling Stones",
       "track": "Everybody Needs Somebody To Love",
-      "details": "Top Gear, March 1965 Session"
+      "details": "Top Gear, March 1965 Session",
+      "verified_timestamp": 686.86
     },
     {
       "artist": "Rolling Stones",
@@ -41,7 +42,8 @@
     {
       "artist": "Shiva",
       "track": "How Can I",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "verified_timestamp": 627.14
     },
     {
       "artist": "Santers",
@@ -66,7 +68,8 @@
     {
       "artist": "Sammy Hagar",
       "track": "'Remember The Heroes' (LP - Three Lock Box) Geffen",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2891.9
     },
     {
       "artist": "Rolling Stones",
@@ -76,12 +79,14 @@
     {
       "artist": "Rolling Stones",
       "track": "Mercy, Mercy",
-      "details": "Yeah Yeah, August 1965 Session"
+      "details": "Yeah Yeah, August 1965 Session",
+      "verified_timestamp": 686.86
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 65.32
     },
     {
       "artist": "Triumph",
@@ -106,12 +111,14 @@
     {
       "artist": "Rolling Stones",
       "track": "Cry To Me",
-      "details": "Saturday Club, September 1965 Session"
+      "details": "Saturday Club, September 1965 Session",
+      "verified_timestamp": 686.86
     },
     {
       "artist": "Rolling Stones",
       "track": "'(I Can't Get No) Satisfaction' (Saturday Club, September 1965 Session)",
-      "details": null
+      "details": null,
+      "verified_timestamp": 5760.0
     },
     {
       "artist": "Black Sabbath",

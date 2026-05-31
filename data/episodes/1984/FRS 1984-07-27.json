@@ -22,27 +22,32 @@
     {
       "artist": "Teaze",
       "track": "Boys Night Out",
-      "details": "LP - A Taste Of Teaze"
+      "details": "LP - A Taste Of Teaze",
+      "verified_timestamp": 562.53
     },
     {
       "artist": "Fastway",
       "track": "Telephone",
-      "details": "LP - All Fired Up"
+      "details": "LP - All Fired Up",
+      "verified_timestamp": 543.45
     },
     {
       "artist": "Dirty Strangers",
       "track": "Hands Up",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 592.9
     },
     {
       "artist": "Triumph",
       "track": "Magic Power",
-      "details": "LP - Allied Forces"
+      "details": "LP - Allied Forces",
+      "verified_timestamp": 900.0
     },
     {
       "artist": "As Above...So Below",
       "track": "Flying Dreams",
-      "details": "session"
+      "details": "session",
+      "verified_timestamp": 1175.73
     },
     {
       "artist": "As Above...So Below",
@@ -52,12 +57,14 @@
     {
       "artist": "W.A.S.P.",
       "track": "I Wanna Be Somebody",
-      "details": "LP - W.A.S.P."
+      "details": "LP - W.A.S.P.",
+      "verified_timestamp": 1980.0
     },
     {
       "artist": "Bronz",
       "track": "Send Down An Angel",
-      "details": "single"
+      "details": "single",
+      "verified_timestamp": 2295.59
     },
     {
       "artist": "Dirty Strangers",
@@ -67,17 +74,20 @@
     {
       "artist": "Iron Maiden",
       "track": "2 Minutes To Midnight",
-      "details": "LP - Powerslave"
+      "details": "LP - Powerslave",
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
       "track": "Friday Night Connection",
-      "details": null
+      "details": null,
+      "verified_timestamp": 34.68
     },
     {
       "artist": "Roger Taylor",
       "track": "Strange Frontier",
-      "details": "LP - Strange Frontier"
+      "details": "LP - Strange Frontier",
+      "verified_timestamp": 4004.21
     },
     {
       "artist": "Pet Hate",
@@ -92,17 +102,20 @@
     {
       "artist": "Hyts",
       "track": "Loveblind",
-      "details": "LP - Hyts"
+      "details": "LP - Hyts",
+      "verified_timestamp": 4484.99
     },
     {
       "artist": "Quiet Riot",
       "track": "Sign Of The Times",
-      "details": "LP - Condition Critical"
+      "details": "LP - Condition Critical",
+      "verified_timestamp": 5220.0
     },
     {
       "artist": "Highway Chile",
       "track": "'Custer's Last Stand'",
-      "details": "12\" EP"
+      "details": "12\" EP",
+      "verified_timestamp": 5659.19
     },
     {
       "artist": "As Above...So Below",
@@ -117,7 +130,8 @@
     {
       "artist": "Gary Moore",
       "track": "Empty Rooms",
-      "details": "12\" single mix"
+      "details": "12\" single mix",
+      "verified_timestamp": 6840.0
     }
   ],
   "transcript": [

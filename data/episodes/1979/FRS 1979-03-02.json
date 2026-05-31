@@ -52,7 +52,9 @@
       "artist": "Moody Blues",
       "track": "‘Legend Of A Mind’",
       "details": "LP - In Search Of The Lost Chord",
-      "verified_timestamp": 2117.89
+      "verified_timestamp": 2117.89,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "about a light they say"
     },
     {
       "artist": "Outsiders",
@@ -85,13 +87,17 @@
       "artist": "Frank Zappa",
       "track": "‘Dancing Fool’",
       "details": "LP - Sheik Yerbouti",
-      "verified_timestamp": 3208.28
+      "verified_timestamp": 3208.28,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "one of my legs is"
     },
     {
       "artist": "Eddie and The Hot Rods",
       "track": "‘Power And the Glory’",
       "details": "7\" single",
-      "verified_timestamp": 3400.88
+      "verified_timestamp": 3400.88,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the power and the glory"
     },
     {
       "artist": "Streetwalkers",
@@ -135,7 +141,9 @@
       "artist": "Buzzcocks",
       "track": "‘Everybody's Happy Nowadays’",
       "details": "7\" single",
-      "verified_timestamp": 6645.24
+      "verified_timestamp": 6645.24,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "cause everybody s happy nowadays"
     },
     {
       "artist": "Velvet Underground",
@@ -367,36 +375,6 @@
       "type": "music"
     },
     {
-      "start": 1531.74,
-      "end": 1535.12,
-      "text": "About a light they say that shines so clear"
-    },
-    {
-      "start": 1535.12,
-      "end": 1539.4,
-      "text": "So raise your glass, we'll drink a toast"
-    },
-    {
-      "start": 1539.4,
-      "end": 1542.82,
-      "text": "To the little man who sells you thrills along the pier"
-    },
-    {
-      "start": 1542.82,
-      "end": 1547.17,
-      "text": "He'll take you up, he'll bring you down"
-    },
-    {
-      "start": 1547.17,
-      "end": 1549.17,
-      "text": "He'll plant your feet back firmly"
-    },
-    {
-      "start": 1549.17,
-      "end": 1558.18,
-      "text": "on the ground he flies so high he swoops so low he knows exactly which way he's gonna go"
-    },
-    {
       "start": 1558.18,
       "end": 1568.98,
       "text": "you'll probably have to scurry around looking for that one because it's out on the raw edge label"
@@ -584,131 +562,6 @@
       "text": "I've got this song."
     },
     {
-      "start": 3197.02,
-      "end": 3200.22,
-      "text": "One of my legs is shorter than the other and both of my feet's too long."
-    },
-    {
-      "start": 3200.68,
-      "end": 3203.8,
-      "text": "Of course, now right along with them, I got no natural rhythm."
-    },
-    {
-      "start": 3204.28,
-      "end": 3207.96,
-      "text": "But I go dancing every night, hoping one day I might get it right."
-    },
-    {
-      "start": 3208.28,
-      "end": 3210.2,
-      "text": "I'm a dancing fool."
-    },
-    {
-      "start": 3211.94,
-      "end": 3227.39,
-      "text": "I can't compete cause I'm a dancing fool"
-    },
-    {
-      "start": 3227.39,
-      "end": 3243.66,
-      "text": "Folks all dressed up like they spit to kill"
-    },
-    {
-      "start": 3243.66,
-      "end": 3245.92,
-      "text": "I walk on in and see them there"
-    },
-    {
-      "start": 3245.92,
-      "end": 3247.46,
-      "text": "Gonna give them all a thrill"
-    },
-    {
-      "start": 3247.46,
-      "end": 3249.36,
-      "text": "When they see me coming"
-    },
-    {
-      "start": 3249.36,
-      "end": 3251.38,
-      "text": "They all steps aside"
-    },
-    {
-      "start": 3251.38,
-      "end": 3255.04,
-      "text": "They hasn't been while I commit my social suicide"
-    },
-    {
-      "start": 3255.04,
-      "end": 3257.52,
-      "text": "I'm a dancing fool"
-    },
-    {
-      "start": 3282.94,
-      "end": 3293.35,
-      "text": "The beat goes on and I'm"
-    },
-    {
-      "start": 3293.35,
-      "end": 3295.45,
-      "text": "I may be totally wrong but I'm a"
-    },
-    {
-      "start": 3295.45,
-      "end": 3296.81,
-      "text": "Dancing fool"
-    },
-    {
-      "start": 3296.81,
-      "end": 3299.42,
-      "text": "I may be totally wrong but I'm a"
-    },
-    {
-      "start": 3299.42,
-      "end": 3301.38,
-      "text": "Dancing fool"
-    },
-    {
-      "start": 3301.38,
-      "end": 3312.25,
-      "text": "I got it all together"
-    },
-    {
-      "start": 3312.25,
-      "end": 3322.15,
-      "text": "now with my very own disco clothes hey my shirt's half open to show you my chain and the spoon for"
-    },
-    {
-      "start": 3322.15,
-      "end": 3333.48,
-      "text": "up my nose i am really something that's what you'd probably say so smoke your little smoke"
-    },
-    {
-      "start": 3333.48,
-      "end": 3337.92,
-      "text": "drink your little drink while i dance the night away"
-    },
-    {
-      "start": 3337.92,
-      "end": 3376.97,
-      "text": "Hey, darling, can I buy you a couple of drinks?"
-    },
-    {
-      "start": 3378.63,
-      "end": 3384.12,
-      "text": "Looking for Mr. Goodbye, here he is."
-    },
-    {
-      "start": 3385.96,
-      "end": 3387.74,
-      "text": "Wait a minute, I've got it."
-    },
-    {
-      "start": 3387.74,
-      "end": 3400.88,
-      "text": "you're an italian you're jewish oh love your nails you must be a libra your place or mine"
-    },
-    {
       "start": 3400.88,
       "end": 3412.88,
       "text": "before that the new single by eddie and the hot rods the power and the glory that's out on island"
@@ -727,7 +580,7 @@
     {
       "start": 3770.86,
       "end": 3775.64,
-      "text": "frank zapper and the track called dancing fool from the new album out on cbs"
+      "text": "frank zappa and the track called dancing fool from the new album out on cbs"
     },
     {
       "start": 3775.64,

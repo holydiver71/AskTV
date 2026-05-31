@@ -39,7 +39,9 @@
       "artist": "King Crimson",
       "track": "The Court Of The Crimson King",
       "details": "LP-In The Court Of The Crimson King; Island",
-      "verified_timestamp": 900.0
+      "verified_timestamp": 900.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the court of the crimson"
     },
     {
       "artist": "Frankie Miller",
@@ -79,7 +81,9 @@
     {
       "artist": "Frankie Miller",
       "track": "Sail Away",
-      "details": "Peel Session #2"
+      "details": "Peel Session #2",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and there s something i"
     },
     {
       "artist": null,
@@ -96,7 +100,9 @@
       "artist": "Bob Dylan",
       "track": "Sad Eyed Lady Of The Lowlands",
       "details": "2xLP-Blonde On Blonde; CBS",
-      "verified_timestamp": 4500.0
+      "verified_timestamp": 4500.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "sad eyed lady of the"
     },
     {
       "artist": "Magazine",
@@ -248,50 +254,14 @@
     },
     {
       "start": 599.12,
-      "end": 640.14,
-      "text": "You had this from the tip of your tongue"
-    },
-    {
-      "start": 640.14,
-      "end": 645.5,
-      "text": "But it went without saying"
-    },
-    {
-      "start": 645.5,
-      "end": 648.92,
-      "text": "It went on too long"
-    },
-    {
-      "start": 648.92,
-      "end": 657.36,
-      "text": "All the stars you have burst into flames"
-    },
-    {
-      "start": 657.36,
-      "end": 662.06,
-      "text": "And so you smile that way"
-    },
-    {
-      "start": 662.06,
-      "end": 664.8,
-      "text": "Controlazing the..."
-    },
-    {
-      "start": 664.8,
-      "end": 670.2,
-      "text": "In Crimson, in the court of the Crimson King"
-    },
-    {
-      "start": 670.2,
-      "end": 895.0,
+      "end": 1415.8,
       "text": "[Music]",
       "type": "music"
     },
     {
-      "start": 900.0,
-      "end": 1449.65,
-      "text": "[Music]",
-      "type": "music"
+      "start": 1415.8,
+      "end": 1441.08,
+      "text": "King Crimson, in the court of the Crimson King"
     },
     {
       "start": 1441.08,
@@ -408,7 +378,7 @@
     {
       "start": 2365.07,
       "end": 2367.13,
-      "text": "Nigel Chandler, 11, The Avenue."
+      "text": "Nigel Chandler, [redacted address]."
     },
     {
       "start": 2367.51,
@@ -453,7 +423,7 @@
     {
       "start": 2388.5,
       "end": 2391.14,
-      "text": "So indeed has John Cooper, number two, Burn Green."
+      "text": "So indeed has John Cooper, [redacted address]."
     },
     {
       "start": 2391.56,
@@ -463,80 +433,10 @@
     {
       "start": 2394.06,
       "end": 2434.28,
-      "text": "as if you didn't know here's a new track by kevin coyne something better than"
+      "text": "as if you didn't know here's a new track by kevin coyne"
     },
     {
       "start": 2434.28,
-      "end": 2441.77,
-      "text": "locked life you give her nothing to cry"
-    },
-    {
-      "start": 2441.77,
-      "end": 2491.19,
-      "text": "she has a brain she has a mind think of her own don't be kind"
-    },
-    {
-      "start": 2491.19,
-      "end": 2495.7,
-      "text": "We'll be right, we'll leave her tonight"
-    },
-    {
-      "start": 2495.7,
-      "end": 2501.93,
-      "text": "Let her fly, don't make her cry"
-    },
-    {
-      "start": 2501.93,
-      "end": 2510.89,
-      "text": "Don't blame Mandy, Mandy, Mandy, Mandy"
-    },
-    {
-      "start": 2510.89,
-      "end": 2524.07,
-      "text": "Don't blame Mandy, she's going to another place"
-    },
-    {
-      "start": 2524.07,
-      "end": 2529.22,
-      "text": "In another time, where she's strong"
-    },
-    {
-      "start": 2529.22,
-      "end": 2531.74,
-      "text": "Where she's stronger"
-    },
-    {
-      "start": 2531.74,
-      "end": 2536.71,
-      "text": "Arms up, grace, fighting on"
-    },
-    {
-      "start": 2536.71,
-      "end": 2539.45,
-      "text": "Finding freedom"
-    },
-    {
-      "start": 2539.45,
-      "end": 2541.9,
-      "text": "Have a book"
-    },
-    {
-      "start": 2541.9,
-      "end": 2546.58,
-      "text": "To sit and write"
-    },
-    {
-      "start": 2546.58,
-      "end": 2549.27,
-      "text": "Let hope fly"
-    },
-    {
-      "start": 2571.51,
-      "end": 2575.11,
-      "text": "Don't blame me, don't blame me"
-    },
-    {
-      "start": 2575.11,
       "end": 2695.0,
       "text": "[Music]",
       "type": "music"
@@ -813,210 +713,15 @@
       "text": "And June, this is especially for you."
     },
     {
-      "start": 4478.41,
-      "end": 4520.17,
-      "text": "Mercury mouth, the missionary times, and your eyes like smoke, and your prayers like rhymes, and your silver cross, and your voice like chimes."
-    },
-    {
-      "start": 4520.17,
-      "end": 4526.87,
-      "text": "Or who do they think they are?"
-    },
-    {
-      "start": 4526.87,
-      "end": 4537.38,
-      "text": "Your pockets well protected at last"
-    },
-    {
-      "start": 4537.38,
-      "end": 4545.79,
-      "text": "And your streetcar visions which you place on the grass"
-    },
-    {
-      "start": 4545.79,
-      "end": 4554.66,
-      "text": "And your flesh like silk, your face like glass"
-    },
-    {
-      "start": 4554.66,
-      "end": 4607.36,
-      "text": "The gates carry you out, lady of the low, where the sad-eyed prophet says that no, my way, should I put, should I wait?"
-    },
-    {
-      "start": 4607.36,
-      "end": 4618.34,
-      "text": "With your sheets like metal and your belt like lace"
-    },
-    {
-      "start": 4618.34,
-      "end": 4627.1,
-      "text": "Your deck of cards missing the jack and the ace"
-    },
-    {
-      "start": 4627.1,
-      "end": 4635.71,
-      "text": "And your basement clothes and your hollow face"
-    },
-    {
-      "start": 4635.71,
-      "end": 4642.96,
-      "text": "Who among them, he could outguess you"
-    },
-    {
-      "start": 4642.96,
-      "end": 4657.17,
-      "text": "When the sunlight into your eyes"
-    },
-    {
-      "start": 4657.17,
-      "end": 4660.88,
-      "text": "Where the moonlight swims"
-    },
-    {
-      "start": 4660.88,
-      "end": 4670.57,
-      "text": "And your matchbox songs and your gypsy hymns"
-    },
-    {
-      "start": 4670.57,
-      "end": 4676.42,
-      "text": "Who among them would try to impress you"
-    },
-    {
-      "start": 4676.42,
-      "end": 4734.14,
-      "text": "your beloved said that prophets say that no should i put him by your with their conflict list"
-    },
-    {
-      "start": 4734.14,
-      "end": 4768.78,
-      "text": "for that you ain't even like this who among them just to kiss you child flame on your midnight rug"
-    },
-    {
-      "start": 4768.78,
-      "end": 4777.48,
-      "text": "And your mother's drugs"
-    },
-    {
-      "start": 4777.48,
-      "end": 4783.72,
-      "text": "Your cowboys and your curfew"
-    },
-    {
-      "start": 4783.72,
-      "end": 4804.79,
-      "text": "Among them could resist you"
-    },
-    {
-      "start": 4804.79,
-      "end": 4808.11,
-      "text": "Where the sad-eyed prophets say"
-    },
-    {
-      "start": 4808.11,
-      "end": 4830.31,
-      "text": "That no, I am by your gate"
-    },
-    {
-      "start": 4830.31,
-      "end": 4842.26,
-      "text": "And I should I wait"
-    },
-    {
-      "start": 4842.26,
-      "end": 4846.38,
-      "text": "For the farmers and the businessmen"
-    },
-    {
-      "start": 4846.38,
-      "end": 4849.78,
-      "text": "They all did decide"
-    },
-    {
-      "start": 4849.78,
-      "end": 4892.77,
-      "text": "And the dead angels are that they used to hide. But that's with this side. How could you ever for the farm be at your feet? And the phony false alarm."
-    },
-    {
-      "start": 4892.77,
-      "end": 4908.46,
-      "text": "And with the child of the hoodlum, wrapped up in your arm, could they ever have persuaded you?"
-    },
-    {
-      "start": 4919.72,
-      "end": 4957.07,
-      "text": "With a set at profits, should I leave? And I should I wait?"
-    },
-    {
-      "start": 4957.07,
-      "end": 4972.92,
-      "text": "With your sheet metal memory of cannery row, just had to go."
-    },
-    {
-      "start": 4972.92,
-      "end": 4977.27,
-      "text": "A gentle list now"
-    },
-    {
-      "start": 4977.27,
-      "end": 4981.82,
-      "text": "You just can't help but show"
-    },
-    {
-      "start": 4981.82,
-      "end": 5003.13,
-      "text": "Medallion"
-    },
-    {
-      "start": 5003.13,
-      "end": 5007.82,
-      "text": "In your fingertips now that fold"
-    },
-    {
-      "start": 5007.82,
-      "end": 5015.82,
-      "text": "And your ghost-like soul"
-    },
-    {
-      "start": 5015.82,
-      "end": 5018.38,
-      "text": "Who among them"
-    },
-    {
-      "start": 5018.38,
-      "end": 5020.38,
-      "text": "Could ever think"
-    },
-    {
-      "start": 5020.38,
-      "end": 5023.4,
-      "text": "He could destroy you"
-    },
-    {
-      "start": 5023.4,
-      "end": 5035.04,
-      "text": "And I'd leave"
-    },
-    {
-      "start": 5035.04,
-      "end": 5036.98,
-      "text": "Where the sad-eyed prophet"
-    },
-    {
-      "start": 5036.98,
+      "start": 4478.66,
       "end": 5038.86,
-      "text": "Say that no"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5038.86,
       "end": 5043.66,
       "text": "You know, it's years since I've heard that."
-    },
-    {
-      "start": 5043.66,
-      "end": 5162.08,
-      "text": "[Music]",
-      "type": "music"
     },
     {
       "start": 5162.08,

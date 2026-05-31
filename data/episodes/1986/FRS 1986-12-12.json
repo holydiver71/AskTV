@@ -23,7 +23,8 @@
     {
       "artist": "Yngwie J. Malmsteen",
       "track": "Fury",
-      "details": "LP-Trilogy; Polydor"
+      "details": "LP-Trilogy; Polydor",
+      "verified_timestamp": 720.0
     },
     {
       "artist": null,
@@ -38,27 +39,32 @@
     {
       "artist": "Uriah Heep",
       "track": "Love Machine",
-      "details": "2xLP-Uriah Heep Live; Bronze"
+      "details": "2xLP-Uriah Heep Live; Bronze",
+      "verified_timestamp": 1240.23
     },
     {
       "artist": "Dirty Looks",
       "track": "Get Off",
-      "details": "LP-In Your Face; Sticky"
+      "details": "LP-In Your Face; Sticky",
+      "verified_timestamp": 1719.29
     },
     {
       "artist": "Thin Lizzy",
       "track": "Bad Reputation",
-      "details": "LP-Bad Reputation; Vertigo"
+      "details": "LP-Bad Reputation; Vertigo",
+      "verified_timestamp": 1620.0
     },
     {
       "artist": "Mass",
       "track": "Straight To Hell",
-      "details": "LP-Kick Your Ass!; GVR"
+      "details": "LP-Kick Your Ass!; GVR",
+      "verified_timestamp": 2254.22
     },
     {
       "artist": "Possessed",
       "track": "Restless Dead",
-      "details": "LP-Beyond The Gates; Under One Flag"
+      "details": "LP-Beyond The Gates; Under One Flag",
+      "verified_timestamp": 2227.82
     },
     {
       "artist": "Marillion",
@@ -78,32 +84,1154 @@
     {
       "artist": null,
       "track": "You'll Never Be Sixteen Again trailer",
-      "details": null
+      "details": null,
+      "verified_timestamp": 2915.88
     },
     {
       "artist": null,
       "track": "Ozzy Osbourne live at Castle Donington",
-      "details": null
+      "details": null,
+      "verified_timestamp": 1739.09
     },
     {
       "artist": "Queen",
       "track": "Get Down, Make Love",
-      "details": "LP-News Of The World; EMI"
+      "details": "LP-News Of The World; EMI",
+      "verified_timestamp": 6120.0
     },
     {
       "artist": "AC/DC",
       "track": "Let There Be Rock",
-      "details": "LP-Let There Be Rock; Atlantic"
+      "details": "LP-Let There Be Rock; Atlantic",
+      "verified_timestamp": 6300.0
     },
     {
       "artist": "Agent Steel",
       "track": "Mad Locust Rising",
-      "details": "12\"; Music For Nations"
+      "details": "12\"; Music For Nations",
+      "verified_timestamp": 7111.64
     },
     {
       "artist": "Who",
       "track": "'Summertime Blues (2xLP-Who's Last)' (MCA)",
       "details": null
+    }
+  ],
+  "transcript": [
+    {
+      "start": 0.98,
+      "end": 3.98,
+      "text": "Welcome to the Friday Rock Show."
+    },
+    {
+      "start": 3.98,
+      "end": 8.98,
+      "text": "Well, the highlight of the night has got to be what's going to go to air at about 10.50 tonight."
+    },
+    {
+      "start": 8.98,
+      "end": 16.98,
+      "text": "We will broadcast 50 minutes of the set that Ozzy Osbourne and his band performed at Donington in August this year."
+    },
+    {
+      "start": 16.98,
+      "end": 37.04,
+      "text": "Also got some stuff by Wengie Malmsteen, Warfare, Saint, Dirty Logs, Mass and Possessed."
+    },
+    {
+      "start": 37.04,
+      "end": 39.76,
+      "text": "Queen, Uriah Heep, Lizzy and ACDC"
+    },
+    {
+      "start": 39.76,
+      "end": 41.14,
+      "text": "and a little competition"
+    },
+    {
+      "start": 41.14,
+      "end": 43.16,
+      "text": "within which you might be able to win a copy"
+    },
+    {
+      "start": 43.16,
+      "end": 45.2,
+      "text": "of the Kerrang! Yearbook Volume 1."
+    },
+    {
+      "start": 45.76,
+      "end": 812.3,
+      "text": "...in the States, in fact, tonight they're in Phoenix, Arizona"
+    },
+    {
+      "start": 812.3,
+      "end": 813.86,
+      "text": "with Black and Blue and Saxon."
+    },
+    {
+      "start": 814.0,
+      "end": 816.02,
+      "text": "They are Wengie Malmsteen and his band."
+    },
+    {
+      "start": 816.52,
+      "end": 817.92,
+      "text": "A track there from the album Trilogy."
+    },
+    {
+      "start": 818.38,
+      "end": 820.74,
+      "text": "Out on Polydor, the track you heard was called Fury"
+    },
+    {
+      "start": 820.74,
+      "end": 822.94,
+      "text": "and Wengie and his band have got a tour with Iron Maiden"
+    },
+    {
+      "start": 822.94,
+      "end": 824.3,
+      "text": "in the States starting in January."
+    },
+    {
+      "start": 824.74,
+      "end": 827.22,
+      "text": "Before that, you heard Warfare from an album"
+    },
+    {
+      "start": 827.22,
+      "end": 829.42,
+      "text": "which I didn't tell you the title of"
+    },
+    {
+      "start": 829.42,
+      "end": 830.5,
+      "text": "because I'd be fired immediately."
+    },
+    {
+      "start": 830.5,
+      "end": 833.54,
+      "text": "but is available now, I'm told, in a plain black cover."
+    },
+    {
+      "start": 834.06,
+      "end": 836.04,
+      "text": "It's out on Neat Records, their Warfare album,"
+    },
+    {
+      "start": 836.34,
+      "end": 837.66,
+      "text": "and it's... well, I can't tell you that."
+    },
+    {
+      "start": 837.72,
+      "end": 839.26,
+      "text": "The track was called You Really Got Me, right?"
+    },
+    {
+      "start": 839.78,
+      "end": 843.44,
+      "text": "Which is the old... sort of based, if you like, on the old Kinks number."
+    },
+    {
+      "start": 843.92,
+      "end": 847.12,
+      "text": "And, of course, Warfare are the band who played outside the Hammersmith Odeon"
+    },
+    {
+      "start": 847.12,
+      "end": 849.86,
+      "text": "when Metallica were playing inside the Hammersmith Odeon."
+    },
+    {
+      "start": 850.3,
+      "end": 851.44,
+      "text": "Made a bit of a racket outside,"
+    },
+    {
+      "start": 851.58,
+      "end": 853.1,
+      "text": "Evo, the drummer and the lead vocalist,"
+    },
+    {
+      "start": 853.44,
+      "end": 857.28,
+      "text": "got arrested and was fined £325 for disturbing the piece."
+    },
+    {
+      "start": 857.64,
+      "end": 860.34,
+      "text": "Prior to that, you heard Saint, not the Australian band Saint,"
+    },
+    {
+      "start": 860.34,
+      "end": 863.3,
+      "text": "that an American Christian rock band out of Pennsylvania."
+    },
+    {
+      "start": 863.82,
+      "end": 865.66,
+      "text": "The album's at import. It's on pure metal."
+    },
+    {
+      "start": 866.2,
+      "end": 868.04,
+      "text": "It was called the album Time's End."
+    },
+    {
+      "start": 868.18,
+      "end": 870.52,
+      "text": "The track was entitled Through You I'm Winning."
+    },
+    {
+      "start": 870.64,
+      "end": 872.74,
+      "text": "It's nearly 17 minutes past 10."
+    },
+    {
+      "start": 873.8,
+      "end": 876.62,
+      "text": "If you're worried about AIDS"
+    },
+    {
+      "start": 876.62,
+      "end": 879.22,
+      "text": "and you want to know how you can best protect yourself"
+    },
+    {
+      "start": 879.22,
+      "end": 881.34,
+      "text": "and the people you care most about,"
+    },
+    {
+      "start": 881.76,
+      "end": 882.44,
+      "text": "play safe."
+    },
+    {
+      "start": 883.16,
+      "end": 885.96,
+      "text": "Call us on 0800 567 123."
+    },
+    {
+      "start": 886.82,
+      "end": 888.7,
+      "text": "Wherever you live in the United Kingdom,"
+    },
+    {
+      "start": 888.7,
+      "end": 893.28,
+      "text": "you'll get straight through to someone you can talk to in absolute confidence."
+    },
+    {
+      "start": 893.96,
+      "end": 896.72,
+      "text": "That's 0800 567 123."
+    },
+    {
+      "start": 897.56,
+      "end": 899.08,
+      "text": "Remember, play safe."
+    },
+    {
+      "start": 899.94,
+      "end": 908.46,
+      "text": "This Sunday evening at 9 on Radio 1, play safe, AIDS and you."
+    },
+    {
+      "start": 909.04,
+      "end": 912.54,
+      "text": "I'll be looking at the dangers of AIDS for those of you who are sexually active,"
+    },
+    {
+      "start": 912.94,
+      "end": 917.0,
+      "text": "as well as trying to dispel some of the myths about how the disease can be passed on."
+    },
+    {
+      "start": 917.0,
+      "end": 923.3,
+      "text": "it is a disease of consent and you can protect yourself and the people you love this sunday"
+    },
+    {
+      "start": 923.3,
+      "end": 953.07,
+      "text": "evening at nine play safe aids and you that's the nicest that's the nicest return to birmingham"
+    },
+    {
+      "start": 953.07,
+      "end": 956.16,
+      "text": "we've ever written i want to thank you for it really"
+    },
+    {
+      "start": 956.16,
+      "end": 1238.07,
+      "text": "that was recorded back in january 1973 from uriah heap live back in the days when the late david"
+    },
+    {
+      "start": 1238.07,
+      "end": 1240.23,
+      "text": "Byron used to be the lead singer. The tracks he heard"
+    },
+    {
+      "start": 1240.23,
+      "end": 1241.83,
+      "text": "were Love Machine and Magician's Birthday."
+    },
+    {
+      "start": 1242.45,
+      "end": 1244.21,
+      "text": "Uriah Heep still going, of course, still with"
+    },
+    {
+      "start": 1244.21,
+      "end": 1246.25,
+      "text": "two founder members, Mick Box and Lee Kerslake."
+    },
+    {
+      "start": 1246.37,
+      "end": 1248.31,
+      "text": "Also with Trevor Boulder, who's been"
+    },
+    {
+      "start": 1248.31,
+      "end": 1249.97,
+      "text": "with them on and off for a while, though he did"
+    },
+    {
+      "start": 1249.97,
+      "end": 1252.33,
+      "text": "he went and joined Wishbone Ash for a while,"
+    },
+    {
+      "start": 1252.37,
+      "end": 1253.95,
+      "text": "didn't he? The current lead vocalist"
+    },
+    {
+      "start": 1253.95,
+      "end": 1256.01,
+      "text": "of Uriah Heep is"
+    },
+    {
+      "start": 1256.01,
+      "end": 1258.15,
+      "text": "Stefan Fontaine. I think that's his name."
+    },
+    {
+      "start": 1258.55,
+      "end": 1260.35,
+      "text": "He's from Los Angeles. They've recently toured"
+    },
+    {
+      "start": 1260.35,
+      "end": 1262.21,
+      "text": "in the United States for America. Friday Rock"
+    },
+    {
+      "start": 1262.21,
+      "end": 1263.77,
+      "text": "Show, 10.23."
+    },
+    {
+      "start": 1264.09,
+      "end": 1266.13,
+      "text": "How you doing? Hello to Sarah"
+    },
+    {
+      "start": 1266.13,
+      "end": 1268.01,
+      "text": "Bell of Netherton, near"
+    },
+    {
+      "start": 1268.01,
+      "end": 1274.55,
+      "text": "wakefield hello sarah bell a message here from mick and all the rest of dream thief tell her"
+    },
+    {
+      "start": 1274.55,
+      "end": 1279.59,
+      "text": "that we hope to see her at the gig on the 22nd i wish her a very great christmas when it finally"
+    },
+    {
+      "start": 1279.59,
+      "end": 1285.37,
+      "text": "arrives this is to welcome a lady home a lady called claire huxley welcome home tell her that"
+    },
+    {
+      "start": 1285.37,
+      "end": 1293.53,
+      "text": "somebody somewhere is thinking of her also say hello says steve j to all the oaps in the unpa"
+    },
+    {
+      "start": 1293.53,
+      "end": 1297.55,
+      "text": "R-U-N-P-A, and Mrs. McCollum, that does include you."
+    },
+    {
+      "start": 1297.95,
+      "end": 1299.55,
+      "text": "Also, here's a letter from Birmingham."
+    },
+    {
+      "start": 1300.25,
+      "end": 1302.81,
+      "text": "Please, Tom, say something tonight like this."
+    },
+    {
+      "start": 1302.87,
+      "end": 1306.43,
+      "text": "Hello to Christine of Gillott Road, Edgebaston, Birmingham."
+    },
+    {
+      "start": 1306.95,
+      "end": 1308.97,
+      "text": "Only one more week till we meet again."
+    },
+    {
+      "start": 1309.11,
+      "end": 1313.55,
+      "text": "Usual place and time, and don't forget the Smarties."
+    },
+    {
+      "start": 1314.63,
+      "end": 1699.95,
+      "text": "The album that came out back in 1977, the late Philip Lleinert,"
+    },
+    {
+      "start": 1699.95,
+      "end": 1702.65,
+      "text": "who died, well, nearly a year ago now, still think of him,"
+    },
+    {
+      "start": 1703.23,
+      "end": 1704.97,
+      "text": "and a very good lad, he was a nice man."
+    },
+    {
+      "start": 1704.97,
+      "end": 1706.93,
+      "text": "Bad Reputation, the track was called"
+    },
+    {
+      "start": 1706.93,
+      "end": 1708.85,
+      "text": "and Scott Gorham, of course, who was on that track"
+    },
+    {
+      "start": 1708.85,
+      "end": 1710.17,
+      "text": "is getting together a new band"
+    },
+    {
+      "start": 1710.17,
+      "end": 1712.29,
+      "text": "just as soon as we get some tracks, we'll let you hear them"
+    },
+    {
+      "start": 1712.29,
+      "end": 1713.99,
+      "text": "before that, a band from the States"
+    },
+    {
+      "start": 1713.99,
+      "end": 1715.23,
+      "text": "they're called Dirty Looks"
+    },
+    {
+      "start": 1715.23,
+      "end": 1717.81,
+      "text": "it is an import on Sticky Records"
+    },
+    {
+      "start": 1717.81,
+      "end": 1719.29,
+      "text": "it's called In Your Face"
+    },
+    {
+      "start": 1719.29,
+      "end": 1720.91,
+      "text": "and the track was called Get Off"
+    },
+    {
+      "start": 1720.91,
+      "end": 1722.47,
+      "text": "Dirty Looks, don't know too much about them"
+    },
+    {
+      "start": 1722.47,
+      "end": 1724.51,
+      "text": "they're fan clubs in Pennsylvania"
+    },
+    {
+      "start": 1724.51,
+      "end": 1726.77,
+      "text": "and that was a track from their second album"
+    },
+    {
+      "start": 1726.77,
+      "end": 1728.65,
+      "text": "it's 10.31, don't forget"
+    },
+    {
+      "start": 1728.65,
+      "end": 1730.15,
+      "text": "at about 10.50 tonight"
+    },
+    {
+      "start": 1730.15,
+      "end": 1732.61,
+      "text": "10.50 tonight, 90 minutes time"
+    },
+    {
+      "start": 1732.61,
+      "end": 1735.13,
+      "text": "Ozzy at Donny, 1986"
+    },
+    {
+      "start": 1735.13,
+      "end": 1736.31,
+      "text": "Ozzy Osbourne and the band"
+    },
+    {
+      "start": 1736.31,
+      "end": 1739.09,
+      "text": "as they were on stage, 50 minutes of it"
+    },
+    {
+      "start": 1739.09,
+      "end": 1740.85,
+      "text": "at Donington"
+    },
+    {
+      "start": 1740.85,
+      "end": 1742.65,
+      "text": "well, back in August of this year"
+    },
+    {
+      "start": 1742.65,
+      "end": 1743.73,
+      "text": "well worth waiting up for"
+    },
+    {
+      "start": 1743.73,
+      "end": 1746.05,
+      "text": "this is Mass, there are two bands called Mass"
+    },
+    {
+      "start": 1746.05,
+      "end": 1748.31,
+      "text": "one from Massachusetts and one from Germany"
+    },
+    {
+      "start": 1748.31,
+      "end": 1750.21,
+      "text": "this is the German Mass"
+    },
+    {
+      "start": 1750.21,
+      "end": 2224.9,
+      "text": "you heard Possessed from their album"
+    },
+    {
+      "start": 2224.9,
+      "end": 2225.92,
+      "text": "called Beyond the Gates"
+    },
+    {
+      "start": 2225.92,
+      "end": 2227.82,
+      "text": "it's out on the Under One Flag label"
+    },
+    {
+      "start": 2227.82,
+      "end": 2229.22,
+      "text": "they sang about the wrestlers dead"
+    },
+    {
+      "start": 2229.22,
+      "end": 2230.2,
+      "text": "it's their second album"
+    },
+    {
+      "start": 2230.2,
+      "end": 2231.76,
+      "text": "they've recently toured Europe"
+    },
+    {
+      "start": 2231.76,
+      "end": 2234.26,
+      "text": "you might have seen them along with Voivod and Death Row"
+    },
+    {
+      "start": 2234.26,
+      "end": 2236.1,
+      "text": "they did some gigs over here, certainly one in London"
+    },
+    {
+      "start": 2236.1,
+      "end": 2238.06,
+      "text": "and they've been together for about a year"
+    },
+    {
+      "start": 2238.06,
+      "end": 2240.1,
+      "text": "they come from California, possessed"
+    },
+    {
+      "start": 2240.1,
+      "end": 2242.54,
+      "text": "back in the States at the moment, before that the German band"
+    },
+    {
+      "start": 2242.54,
+      "end": 2244.58,
+      "text": "Mass, who've been around for a long long time"
+    },
+    {
+      "start": 2244.58,
+      "end": 2246.38,
+      "text": "can't even work out exactly how long"
+    },
+    {
+      "start": 2246.38,
+      "end": 2247.08,
+      "text": "but a long time"
+    },
+    {
+      "start": 2247.08,
+      "end": 2250.12,
+      "text": "the album is called Kick Your A-S-S"
+    },
+    {
+      "start": 2250.12,
+      "end": 2252.24,
+      "text": "but, call it what you will, it's on the GVR"
+    },
+    {
+      "start": 2252.24,
+      "end": 2254.22,
+      "text": "record label, the track you heard was called"
+    },
+    {
+      "start": 2254.22,
+      "end": 2256.62,
+      "text": "Straight to Hell, it's their 6th or 7th"
+    },
+    {
+      "start": 2256.62,
+      "end": 2258.26,
+      "text": "album, this band"
+    },
+    {
+      "start": 2258.26,
+      "end": 2260.26,
+      "text": "at the moment are in the studio making"
+    },
+    {
+      "start": 2260.26,
+      "end": 2261.64,
+      "text": "a new album"
+    },
+    {
+      "start": 2261.64,
+      "end": 2582.07,
+      "text": "If you're worried about AIDS, and you want the facts, not the fiction, call 0800-567-123."
+    },
+    {
+      "start": 2582.53,
+      "end": 2585.45,
+      "text": "Our lines are open until 11 o'clock tonight."
+    },
+    {
+      "start": 2586.11,
+      "end": 2589.29,
+      "text": "That's 0800-567-123."
+    },
+    {
+      "start": 2590.09,
+      "end": 2834.58,
+      "text": "Happily before, I played the track called Digging That Grave."
+    },
+    {
+      "start": 2834.94,
+      "end": 2836.6,
+      "text": "Got quite a number of letters about it as well."
+    },
+    {
+      "start": 2836.72,
+      "end": 2838.88,
+      "text": "Most of them approving, some of them certainly not."
+    },
+    {
+      "start": 2839.38,
+      "end": 2842.88,
+      "text": "Jesters of Destiny, from their album called Fun at the Funeral."
+    },
+    {
+      "start": 2842.96,
+      "end": 2844.7,
+      "text": "It's on the Metal Blade record label."
+    },
+    {
+      "start": 2844.7,
+      "end": 2850.58,
+      "text": "I actually met somebody, a mate of mine, in fact, who had a copy of that album, independent of me."
+    },
+    {
+      "start": 2850.66,
+      "end": 2851.38,
+      "text": "I didn't give it to him."
+    },
+    {
+      "start": 2851.68,
+      "end": 2852.82,
+      "text": "A fellow by the name of Roley."
+    },
+    {
+      "start": 2853.02,
+      "end": 2854.82,
+      "text": "I always knew he had taste, Roley."
+    },
+    {
+      "start": 2855.22,
+      "end": 2859.5,
+      "text": "The tracks he heard were called Incubes, or Incubes, and Attack of the Jesters."
+    },
+    {
+      "start": 2859.78,
+      "end": 2861.44,
+      "text": "Fun at the Funeral is the name of the album."
+    },
+    {
+      "start": 2862.18,
+      "end": 2868.58,
+      "text": "And our lady at the news desk, Maggie, spoke actually to the bass player, Bruce Duff, today, in New York."
+    },
+    {
+      "start": 2868.64,
+      "end": 2869.78,
+      "text": "I think it was New York or Los Angeles."
+    },
+    {
+      "start": 2869.96,
+      "end": 2874.38,
+      "text": "And they're going to go into the studio and make an EP of ridiculous cover versions."
+    },
+    {
+      "start": 2874.7,
+      "end": 2877.5,
+      "text": "It's an interesting album, but I think some rock fans will go,"
+    },
+    {
+      "start": 2877.8,
+      "end": 2881.14,
+      "text": "yuck, and before that you heard He Knows, You Know by Marillion."
+    },
+    {
+      "start": 2881.5,
+      "end": 2885.34,
+      "text": "At the moment in the studio here in the United Kingdom doing a new album."
+    },
+    {
+      "start": 2885.72,
+      "end": 2890.18,
+      "text": "They are doing some gigs just after Christmas, 27th, 28th of December"
+    },
+    {
+      "start": 2890.18,
+      "end": 2893.9,
+      "text": "at the Civic Hall, also better known, I think, as the Friars in Aylesbury."
+    },
+    {
+      "start": 2894.62,
+      "end": 2898.96,
+      "text": "29th and 30th at the Royal Court in Liverpool, New Year's Eve."
+    },
+    {
+      "start": 2899.1,
+      "end": 2901.76,
+      "text": "Marillion are at the Barrowlands in Glasgow."
+    },
+    {
+      "start": 2902.4,
+      "end": 2905.4,
+      "text": "But I doubt very much if you can get any tickets for that."
+    },
+    {
+      "start": 2905.48,
+      "end": 2906.64,
+      "text": "I think they're all sold out by now."
+    },
+    {
+      "start": 2907.22,
+      "end": 2910.12,
+      "text": "Fish is going to get married in July to the girl who was in the Kaylee video."
+    },
+    {
+      "start": 2910.44,
+      "end": 2912.58,
+      "text": "There's going to be a single coming out in April by Marillion"
+    },
+    {
+      "start": 2912.58,
+      "end": 2914.48,
+      "text": "and a new album coming out in May."
+    },
+    {
+      "start": 2915.88,
+      "end": 2917.76,
+      "text": "In You'll Never Be Sixteen Again this Saturday,"
+    },
+    {
+      "start": 2917.88,
+      "end": 2920.58,
+      "text": "the history of the British teenager brings itself closer to home"
+    },
+    {
+      "start": 2920.58,
+      "end": 2923.9,
+      "text": "as teenagers of the early 80s recall the rise and fall of punk"
+    },
+    {
+      "start": 2923.9,
+      "end": 2925.86,
+      "text": "and the John Travolta disco boom."
+    },
+    {
+      "start": 2926.46,
+      "end": 2929.4,
+      "text": "Punk fashion, a royal wedding and inner-city riots at the backdrop."
+    },
+    {
+      "start": 2929.72,
+      "end": 2931.06,
+      "text": "And the music comes from The Clash."
+    },
+    {
+      "start": 2931.06,
+      "end": 2934.62,
+      "text": "elvis costello the adverts bob marley and the sex pistols"
+    },
+    {
+      "start": 2934.62,
+      "end": 2945.9,
+      "text": "part six if you'll never be 16 again pretty vacant is this saturday at two o'clock"
+    },
+    {
+      "start": 2945.9,
+      "end": 2956.79,
+      "text": "just coming up now to nine minutes to 11"
+    },
+    {
+      "start": 2956.79,
+      "end": 2966.51,
+      "text": "and as promised at this time we have the man himself ozzy osbourne in concert recorded at"
+    },
+    {
+      "start": 2966.51,
+      "end": 5926.91,
+      "text": "donnington 1986 in august 1986 ozzy osbourne and the band as they were headlining at donnington"
+    },
+    {
+      "start": 5926.91,
+      "end": 5932.47,
+      "text": "this year at the monsters of rock festival bit of information about oz there's a live album coming"
+    },
+    {
+      "start": 5932.47,
+      "end": 5937.77,
+      "text": "out in the spring of next year which will feature some previously unreleased material recorded with"
+    },
+    {
+      "start": 5937.77,
+      "end": 5942.93,
+      "text": "the late randy rhodes that album comes out in the spring conflicting reports about where ozzy is at"
+    },
+    {
+      "start": 5942.93,
+      "end": 5948.01,
+      "text": "the moment some people say he's back in the betty ford clinic in los angeles or just outside i think"
+    },
+    {
+      "start": 5948.01,
+      "end": 5951.83,
+      "text": "for people who take a little too much of, well, in his case, I think it's the booze"
+    },
+    {
+      "start": 5951.83,
+      "end": 5954.21,
+      "text": "he tends to like a little cocktail or four."
+    },
+    {
+      "start": 5954.99,
+      "end": 5955.93,
+      "text": "That's one report."
+    },
+    {
+      "start": 5956.07,
+      "end": 5959.21,
+      "text": "Another report is that he shaved his hair off the other day,"
+    },
+    {
+      "start": 5959.31,
+      "end": 5961.61,
+      "text": "sent it to his wife in a shoebox, and now he's bald."
+    },
+    {
+      "start": 5961.99,
+      "end": 5964.89,
+      "text": "Another report is that he's just decided to go on the rampage"
+    },
+    {
+      "start": 5964.89,
+      "end": 5967.95,
+      "text": "in the United States of America with his gold American Express card."
+    },
+    {
+      "start": 5968.23,
+      "end": 5971.97,
+      "text": "Who knows where he is, because he's a lovable old lunatic,"
+    },
+    {
+      "start": 5972.09,
+      "end": 5973.93,
+      "text": "but wherever he is, I hope he's safe."
+    },
+    {
+      "start": 5975.05,
+      "end": 5985.18,
+      "text": "We hope so."
+    },
+    {
+      "start": 5985.18,
+      "end": 5987.1,
+      "text": "It's now 19 minutes to midnight."
+    },
+    {
+      "start": 5987.3,
+      "end": 5988.5,
+      "text": "19 to midnight."
+    },
+    {
+      "start": 5988.72,
+      "end": 5989.86,
+      "text": "Here's something, McQueen."
+    },
+    {
+      "start": 5990.36,
+      "end": 6591.44,
+      "text": "A couple of tracks there from 1977."
+    },
+    {
+      "start": 6591.76,
+      "end": 6594.3,
+      "text": "That was called Let There Be Rock by ACDC."
+    },
+    {
+      "start": 6594.46,
+      "end": 6595.86,
+      "text": "Especially for Phil from Big A."
+    },
+    {
+      "start": 6596.02,
+      "end": 6598.42,
+      "text": "And Phil, don't forget, if it's on the sheet, lift it."
+    },
+    {
+      "start": 6598.52,
+      "end": 6599.58,
+      "text": "Hello, Marty, how you doing?"
+    },
+    {
+      "start": 6600.08,
+      "end": 6602.5,
+      "text": "Get Down, Make Love was by Queen from News of the World,"
+    },
+    {
+      "start": 6602.56,
+      "end": 6604.02,
+      "text": "an album that came out in 1977."
+    },
+    {
+      "start": 6604.54,
+      "end": 6607.14,
+      "text": "Freddie Mercury at the moment is in the studio doing a solo single."
+    },
+    {
+      "start": 6607.64,
+      "end": 6608.9,
+      "text": "Here's a little mention for some people."
+    },
+    {
+      "start": 6609.04,
+      "end": 6613.9,
+      "text": "Noddy, Webb and Wayne, who are in Bristol, like a bit of ACDC."
+    },
+    {
+      "start": 6613.9,
+      "end": 6617.22,
+      "text": "so indeed does Brian Collins of Chatterston in Derby"
+    },
+    {
+      "start": 6617.22,
+      "end": 6618.68,
+      "text": "hello to his girlfriend Deb"
+    },
+    {
+      "start": 6618.68,
+      "end": 6621.76,
+      "text": "and hello to David Mitchell of Pontefract"
+    },
+    {
+      "start": 6621.76,
+      "end": 6625.64,
+      "text": "and hello to everybody at the Haverig holiday camp"
+    },
+    {
+      "start": 6625.64,
+      "end": 6627.86,
+      "text": "you lucky lot, I don't think"
+    },
+    {
+      "start": 6627.86,
+      "end": 6630.76,
+      "text": "Ian, Sid, Tom, Phil and Kev"
+    },
+    {
+      "start": 6630.76,
+      "end": 6632.24,
+      "text": "well I haven't forgotten about it"
+    },
+    {
+      "start": 6632.24,
+      "end": 6636.0,
+      "text": "I have five copies of the Krang yearbook volume one"
+    },
+    {
+      "start": 6636.0,
+      "end": 6638.26,
+      "text": "if you want to sort of get in on the action"
+    },
+    {
+      "start": 6638.26,
+      "end": 6640.34,
+      "text": "to win yourself a little book"
+    },
+    {
+      "start": 6640.34,
+      "end": 6641.08,
+      "text": "it's a good one actually"
+    },
+    {
+      "start": 6641.08,
+      "end": 6643.04,
+      "text": "maybe you can answer this question accurately"
+    },
+    {
+      "start": 6643.04,
+      "end": 6645.42,
+      "text": "It is a bit of information that comes out of the book."
+    },
+    {
+      "start": 6645.8,
+      "end": 6646.8,
+      "text": "The question goes like this."
+    },
+    {
+      "start": 6647.28,
+      "end": 6651.26,
+      "text": "Who had a super session in Oxford Street during March 1986"
+    },
+    {
+      "start": 6651.26,
+      "end": 6656.5,
+      "text": "that also included Simon Kirk, Eric Clapton, Pete Townsend and Jeff Beck?"
+    },
+    {
+      "start": 6656.68,
+      "end": 6660.5,
+      "text": "Who had a super session in Oxford Street during March 1986"
+    },
+    {
+      "start": 6660.5,
+      "end": 6665.5,
+      "text": "that also included Simon Kirk, Eric Clapton, Pete Townsend and Jeff Beck?"
+    },
+    {
+      "start": 6665.66,
+      "end": 6667.06,
+      "text": "Answers on the postcard, please, too."
+    },
+    {
+      "start": 6667.52,
+      "end": 6672.32,
+      "text": "Book, The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 6672.96,
+      "end": 6678.4,
+      "text": "That's Book, The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 6678.8,
+      "end": 6679.52,
+      "text": "Something like that."
+    },
+    {
+      "start": 6679.66,
+      "end": 6681.6,
+      "text": "Well, just send it to the BBC, it'll find us, won't it?"
+    },
+    {
+      "start": 6682.2,
+      "end": 6684.54,
+      "text": "OK, The Crying Yearbook, five copies thereof."
+    },
+    {
+      "start": 6684.64,
+      "end": 6687.22,
+      "text": "Get your answers in as fast as you can."
+    },
+    {
+      "start": 6687.76,
+      "end": 6691.66,
+      "text": "Here's something, which is from an extremely good compilation double album."
+    },
+    {
+      "start": 6692.14,
+      "end": 6693.66,
+      "text": "This track is by Agent Steel."
+    },
+    {
+      "start": 6694.36,
+      "end": 7111.54,
+      "text": "From the United States of America, the old tune called Summertime Blues."
+    },
+    {
+      "start": 7111.64,
+      "end": 7114.22,
+      "text": "Before that, Agent Steel, Mad Locust Rising."
+    },
+    {
+      "start": 7114.22,
+      "end": 7124.64,
+      "text": "at the friday rock show news desk as always maggie farrow and the friday rock show is as always a"
+    },
+    {
+      "start": 7124.64,
+      "end": 7130.02,
+      "text": "tony wilson production following the midnight pips on radio 2 on fm stereo rather you will hear radio"
+    },
+    {
+      "start": 7130.02,
+      "end": 7137.88,
+      "text": "2 on medium wave radio 1 the news have yourself a good weekend wherever you are take care of"
+    },
+    {
+      "start": 7137.88,
+      "end": 7143.0,
+      "text": "yourself my name is tommy vance on behalf of all the music people on radio 1 god bless you"
     }
   ]
 }
