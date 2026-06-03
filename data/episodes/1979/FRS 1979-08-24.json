@@ -88,8 +88,6 @@
       "artist": "Van Morrison",
       "track": "The Healing Has Begun",
       "details": "LP-Into The Music",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "and all the rest and",
       "verified_timestamp": 3780.0
     },
     {
@@ -120,8 +118,6 @@
       "artist": "Rory Gallagher",
       "track": "'They Don't Make Them Like You Anymore'",
       "details": "Sounds Of The Seventies Session 1974-06-19",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "what would i do if",
       "verified_timestamp": 1346.0
     },
     {
@@ -620,12 +616,12 @@
     {
       "start": 3014.92,
       "end": 3016.68,
-      "text": "as well. He lives at the haven of 20"
+      "text": "as well. He lives at the haven of "
     },
     {
       "start": 3016.68,
       "end": 3018.94,
-      "text": "Hopton Road in Dursley"
+      "text": "[redacted address] in Dursley"
     },
     {
       "start": 3018.94,
@@ -933,79 +929,9 @@
       "text": "And did I mention Van Morrison?"
     },
     {
-      "start": 3710.35,
-      "end": 3714.55,
-      "text": "I saw you standing on the street."
-    },
-    {
-      "start": 4018.14,
-      "end": 4019.38,
-      "text": "It's just time to move on up here."
-    },
-    {
-      "start": 4019.38,
-      "end": 4021.7,
-      "text": "There's a windowsill a little bit here."
-    },
-    {
-      "start": 4024.27,
-      "end": 4026.31,
-      "text": "Yeah, I got some, take some sherry."
-    },
-    {
-      "start": 4032.91,
-      "end": 4037.3,
-      "text": "Yeah, I want you to come on in behind this door here."
-    },
-    {
-      "start": 4040.95,
-      "end": 4046.21,
-      "text": "I'll just move on up this letterbox."
-    },
-    {
-      "start": 4046.99,
-      "end": 4054.3,
-      "text": "Why don't we just go in your front room and just sit down and sit and see."
-    },
-    {
-      "start": 4055.8,
-      "end": 4058.04,
-      "text": "I'll just move on up a little bit now."
-    },
-    {
-      "start": 4059.51,
-      "end": 4063.19,
-      "text": "Yeah, I got to play this Muddy Waters record you got here."
-    },
-    {
-      "start": 4063.19,
-      "end": 4074.31,
-      "text": "if you just open up a little bit"
-    },
-    {
-      "start": 4074.31,
-      "end": 4076.51,
-      "text": "and just have me"
-    },
-    {
-      "start": 4076.51,
-      "end": 4078.11,
-      "text": "come on in"
-    },
-    {
-      "start": 4078.11,
-      "end": 4078.81,
-      "text": "somewhere"
-    },
-    {
-      "start": 4078.81,
-      "end": 4081.74,
-      "text": "it's a backstreet jailer"
-    },
-    {
       "start": 4081.74,
       "end": 4087.14,
-      "text": "I really do, The Ruts and their new single"
+      "text": "I like that band, I really do, The Ruts and their new single"
     },
     {
       "start": 4362.16,
@@ -1243,19 +1169,9 @@
       "text": "A little more Rory Gallagher."
     },
     {
-      "start": 6409.7,
-      "end": 6474.65,
-      "text": "how do i know if i'm to lose will you explain what would i do if you should run"
-    },
-    {
-      "start": 6474.65,
-      "end": 6480.1,
-      "text": "how do i know if i'm to lose will you explain"
-    },
-    {
       "start": 6480.1,
       "end": 6489.7,
-      "text": "am i stomping ground before that they don't make them like you anymore that was recorded"
+      "text": "back on my stomping ground before that they don't make them like you anymore that was recorded"
     },
     {
       "start": 6886.88,

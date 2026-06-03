@@ -49,9 +49,7 @@
       "artist": "David Bowie",
       "track": "‘Ziggy Stardust’",
       "details": "Peel Session 1972-01-11",
-      "verified_timestamp": 1082.67,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "and the spiders from mars"
+      "verified_timestamp": 1082.67
     },
     {
       "artist": "David Bowie",
@@ -61,16 +59,12 @@
     {
       "artist": "David Bowie",
       "track": "‘Hang On To Yourself’",
-      "details": "Peel Session 1972-01-11",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the rise and fall of"
+      "details": "Peel Session 1972-01-11"
     },
     {
       "artist": "David Bowie",
       "track": "‘Waiting For The Man’",
-      "details": "Peel Session 1972-01-11",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "m waiting for the man"
+      "details": "Peel Session 1972-01-11"
     },
     {
       "artist": "Frank Zappa",

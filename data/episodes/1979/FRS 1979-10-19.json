@@ -55,9 +55,7 @@
     {
       "artist": "Thin Lizzy",
       "track": "Little Girl In Bloom",
-      "details": "Peel session 1973-07-31",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "1 little girl in bloom"
+      "details": "Peel session 1973-07-31"
     },
     {
       "artist": "Thin Lizzy",
@@ -74,8 +72,6 @@
       "artist": "Robin Trower",
       "track": "'I'm Out To Get You'",
       "details": "LP-Caravan To Midnight",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i m out to get",
       "verified_timestamp": 2700.0
     },
     {
@@ -124,16 +120,12 @@
       "artist": "Lynyrd Skynyrd",
       "track": "Sweet Home Alabama",
       "details": "LP-Second Helping",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i think it s a",
       "verified_timestamp": 4860.0
     },
     {
       "artist": "Orchestral Manoeuvres In The Dark",
       "track": "Bunker Soldiers",
-      "details": "Peel session 1979-08-20",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "bunker soldiers but it s"
+      "details": "Peel session 1979-08-20"
     },
     {
       "artist": "Zero Pass Seven",
@@ -732,12 +724,12 @@
     {
       "start": 3593.87,
       "end": 3596.37,
-      "text": "and our winner is Rowan Long of No. 8,"
+      "text": "and our winner is Rowan Long of "
     },
     {
       "start": 3596.73,
       "end": 3599.87,
-      "text": "Boyer Drive, Sippenham Slough in Berkshire."
+      "text": "[redacted address], Sippenham Slough in Berkshire."
     },
     {
       "start": 3600.61,

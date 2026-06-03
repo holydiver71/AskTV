@@ -76,8 +76,6 @@
       "artist": "Fleetwood Mac",
       "track": "Man Of The World",
       "details": "Top Gear 1969-03-10",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "shall i tell you about",
       "verified_timestamp": 793.14
     },
     {
@@ -144,24 +142,18 @@
       "artist": "Fleetwood Mac",
       "track": "Linda",
       "details": "DLT 1969-10-06",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i don t want to",
       "verified_timestamp": 787.96
     },
     {
       "artist": "Fleetwood Mac",
       "track": "Oh Well",
       "details": "DLT 1969-10-06",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "about the shape i m",
       "verified_timestamp": 3879.75
     },
     {
       "artist": "Orleans",
       "track": "'Don't Throw Our Love Away'",
       "details": "LP-Forever",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "don t throw our love",
       "verified_timestamp": 6560.13
     },
     {
@@ -437,46 +429,6 @@
       "start": 1463.45,
       "end": 1464.33,
       "text": "Here's Fleetwood Mac."
-    },
-    {
-      "start": 1464.97,
-      "end": 1469.17,
-      "text": "Shall I tell you about my life?"
-    },
-    {
-      "start": 2229.18,
-      "end": 2230.64,
-      "text": "They say I'm a man."
-    },
-    {
-      "start": 2252.21,
-      "end": 2259.64,
-      "text": "I guess I've got everything that I wouldn't have."
-    },
-    {
-      "start": 2262.86,
-      "end": 2266.3,
-      "text": "And there's no one I'd rather be."
-    },
-    {
-      "start": 2314.61,
-      "end": 2315.77,
-      "text": "The good man."
-    },
-    {
-      "start": 2326.84,
-      "end": 2328.92,
-      "text": "All of my life."
-    },
-    {
-      "start": 2337.7,
-      "end": 2338.96,
-      "text": "Blames I draw."
-    },
-    {
-      "start": 2342.34,
-      "end": 2344.83,
-      "text": "I don't want to be sad."
     },
     {
       "start": 2345.25,
@@ -1037,41 +989,6 @@
       "start": 5706.78,
       "end": 5713.12,
       "text": "1969 and broadcast in the program simon's on sunday featuring peter green fleetwood mac"
-    },
-    {
-      "start": 5713.12,
-      "end": 5724.52,
-      "text": "shadow about my life now everybody point their hand at me picture about the shape i'm in i can't"
-    },
-    {
-      "start": 6109.6,
-      "end": 6114.68,
-      "text": "sing i ain't pretty and my legs are thin but don't ask me what i think of you i might not"
-    },
-    {
-      "start": 6114.68,
-      "end": 6116.68,
-      "text": "give the answer that you want me to"
-    },
-    {
-      "start": 6116.68,
-      "end": 6164.71,
-      "text": "Now when I talk to God, I know he don't understand"
-    },
-    {
-      "start": 6164.71,
-      "end": 6167.41,
-      "text": "He said, stick by me and I'll be your God in hand"
-    },
-    {
-      "start": 6167.41,
-      "end": 6169.33,
-      "text": "But don't ask me what I think of you"
-    },
-    {
-      "start": 6169.33,
-      "end": 6171.79,
-      "text": "I might not give an answer that you want me to"
     },
     {
       "start": 6171.79,

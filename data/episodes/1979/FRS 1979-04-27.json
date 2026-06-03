@@ -40,8 +40,6 @@
       "artist": "Whitesnake",
       "track": "'Ain't No Love In The Heart Of The City'",
       "details": "Peebles Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "love in the heart of",
       "verified_timestamp": 1005.48
     },
     {
@@ -145,9 +143,7 @@
     {
       "artist": "Whitesnake",
       "track": "You Gotta Have Love To Keep You Warm",
-      "details": "Peebles Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "love to keep you warm"
+      "details": "Peebles Session"
     }
   ],
   "transcript": [
@@ -1179,7 +1175,7 @@
     {
       "start": 7238.21,
       "end": 7240.23,
-      "text": "here on Radio 1 and Stereo BHF"
+      "text": "here on Radio 1 and Stereo VHF"
     },
     {
       "start": 7240.23,

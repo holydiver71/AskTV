@@ -33,9 +33,7 @@
     {
       "artist": "Police",
       "track": "Message In A Bottle",
-      "details": "Peel Session 1979-07-23",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "message in a bottle is"
+      "details": "Peel Session 1979-07-23"
     },
     {
       "artist": "Gary Numan",
@@ -65,9 +63,7 @@
     {
       "artist": "Bonzo Dog Do Dah Band",
       "track": "Hello Mabel",
-      "details": "1968 Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "but i can t help"
+      "details": "1968 Session"
     },
     {
       "artist": "Ian Gillan",
@@ -141,26 +137,6 @@
     }
   ],
   "transcript": [
-    {
-      "start": 0.0,
-      "end": 5.0,
-      "text": "...16.7 penalty points and trail behind West Germany, France and Holland in 5th place."
-    },
-    {
-      "start": 5.0,
-      "end": 10.0,
-      "text": "Finally, in Helsinki, a win for Britain on the final day of the European Tornado Yachting Championships."
-    },
-    {
-      "start": 10.0,
-      "end": 18.0,
-      "text": "Michael Martin and Martin Johnson chalked up their first ever international win, but they couldn't prevent a Russian pair taking the title."
-    },
-    {
-      "start": 18.0,
-      "end": 21.0,
-      "text": "That's it. From all of us here, a very good night to you."
-    },
     {
       "start": 21.0,
       "end": 48.42,
@@ -334,7 +310,7 @@
     {
       "start": 1857.62,
       "end": 1860.56,
-      "text": "Asked for by Stuart Kirk of 15 The Chase, Crowland and Peterborough,"
+      "text": "Asked for by Stuart Kirk of [redacted address], Crowland and Peterborough,"
     },
     {
       "start": 1860.76,
@@ -396,162 +372,7 @@
       "end": 1907.88,
       "text": "from 1968, the Bonzo Dog doodah band."
     },
-    {
-      "start": 2023.37,
-      "end": 2028.17,
-      "text": "The program you've just been listening to is a recording of a new play by G.G. Dunhill"
-    },
-    {
-      "start": 2028.17,
-      "end": 2031.25,
-      "text": "in one act for eight albatrosses in the reservoir."
-    },
-    {
-      "start": 2031.83,
-      "end": 2034.25,
-      "text": "The part of Gooch was played by a frying pan."
-    },
-    {
-      "start": 2034.65,
-      "end": 2036.51,
-      "text": "The other parts of Gooch were played by..."
-    },
-    {
-      "start": 2068.16,
-      "end": 2070.32,
-      "text": "...of your mind"
-    },
-    {
-      "start": 2070.32,
-      "end": 2077.24,
-      "text": "will wander through your brain"
-    },
-    {
-      "start": 2077.24,
-      "end": 2084.46,
-      "text": "The ventricles of your heart"
-    },
-    {
-      "start": 2084.46,
-      "end": 2085.8,
-      "text": "My dear"
-    },
-    {
-      "start": 2085.8,
-      "end": 2089.56,
-      "text": "Pumping you"
-    },
-    {
-      "start": 2089.56,
-      "end": 2097.42,
-      "text": "Mountains of your chair"
-    },
-    {
-      "start": 2097.42,
-      "end": 2117.76,
-      "text": "Holes in your string"
-    },
-    {
-      "start": 2202.86,
-      "end": 2207.66,
-      "text": "But I can't help the way I feel"
-    },
-    {
-      "start": 2439.9,
-      "end": 2444.08,
-      "text": "It's a lovely day on this day"
-    },
-    {
-      "start": 2444.08,
-      "end": 2445.92,
-      "text": "Hello Mabel"
-    },
-    {
-      "start": 2445.92,
-      "end": 2447.18,
-      "text": "If you're able"
-    },
-    {
-      "start": 2447.18,
-      "end": 2448.84,
-      "text": "Say you come please do"
-    },
-    {
-      "start": 2448.84,
-      "end": 2451.32,
-      "text": "For another two"
-    },
-    {
-      "start": 2451.32,
-      "end": 2454.07,
-      "text": "You know I love you"
-    },
-    {
-      "start": 2454.07,
-      "end": 2456.67,
-      "text": "People may say"
-    },
-    {
-      "start": 2456.67,
-      "end": 2458.88,
-      "text": "It will never do"
-    },
-    {
-      "start": 2458.88,
-      "end": 2461.48,
-      "text": "But I can't help the way"
-    },
-    {
-      "start": 2461.48,
-      "end": 2468.64,
-      "text": "You're able to sleep out on your own"
-    },
-    {
-      "start": 2468.64,
-      "end": 2471.1,
-      "text": "Use your chaperone"
-    },
-    {
-      "start": 2471.1,
-      "end": 2473.74,
-      "text": "And be comfy alone"
-    },
-    {
-      "start": 2518.89,
-      "end": 2539.8,
-      "text": "It will never do"
-    },
-    {
-      "start": 2539.8,
-      "end": 2542.32,
-      "text": "But I can't help the way"
-    },
-    {
-      "start": 2542.32,
-      "end": 2545.53,
-      "text": "Working out with you"
-    },
-    {
-      "start": 2545.53,
-      "end": 2546.65,
-      "text": "Hello, mate"
-    },
-    {
-      "start": 2546.65,
-      "end": 2549.71,
-      "text": "If you're able to sleep out on your own"
-    },
-    {
-      "start": 2549.71,
-      "end": 2552.19,
-      "text": "Use your chaperone"
-    },
-    {
-      "start": 2552.19,
-      "end": 2554.63,
-      "text": "And be comfy alone"
-    },
-    {
+ {
       "start": 2554.63,
       "end": 2564.64,
       "text": "The Bonzo Dog Doodah Band"
@@ -799,7 +620,7 @@
     {
       "start": 3966.08,
       "end": 3968.06,
-      "text": "of [redacted address]-Tree Road,"
+      "text": "of [redacted address],"
     },
     {
       "start": 3968.14,
@@ -1189,7 +1010,7 @@
     {
       "start": 6171.36,
       "end": 6174.09,
-      "text": "which was called Razzle My Lads"
+      "text": "which was called Razzamanazz"
     },
     {
       "start": 6174.09,
@@ -1270,66 +1091,6 @@
       "start": 6238.92,
       "end": 6241.12,
       "text": "But right now, here's the Bonzo Dog Doodah Band."
-    },
-    {
-      "start": 6330.96,
-      "end": 6334.06,
-      "text": "He makes a healthy mind."
-    },
-    {
-      "start": 6375.63,
-      "end": 6378.67,
-      "text": "Horses, he'll make you big and rough."
-    },
-    {
-      "start": 6381.13,
-      "end": 6383.47,
-      "text": "Kick the sand right back in their faces."
-    },
-    {
-      "start": 6383.93,
-      "end": 6393.96,
-      "text": "Kick, sounds like drips."
-    },
-    {
-      "start": 6394.06,
-      "end": 6468.5,
-      "text": "New arseholes, puny clowns on slip fendings."
-    },
-    {
-      "start": 6469.54,
-      "end": 6471.3,
-      "text": "Wrestle poodles and wind."
-    },
-    {
-      "start": 6472.34,
-      "end": 6476.2,
-      "text": "Shave your legs."
-    },
-    {
-      "start": 6516.92,
-      "end": 6518.36,
-      "text": "Get taxi to my tent."
-    },
-    {
-      "start": 6519.12,
-      "end": 6523.92,
-      "text": "All we're saying is give booze a chance."
-    },
-    {
-      "start": 6866.12,
-      "end": 6869.61,
-      "text": "Hey, one, two, one, two, three, four."
-    },
-    {
-      "start": 6869.61,
-      "end": 6872.43,
-      "text": "This one was created by the Bonzo Dogs"
-    },
-    {
-      "start": 6872.43,
-      "end": 6874.83,
-      "text": "in the convivial atmosphere of an Irish pub."
     },
     {
       "start": 6934.45,
@@ -1455,16 +1216,6 @@
       "start": 7339.65,
       "end": 7342.31,
       "text": "Until then, from me, Tommy Vance in London, take care and God bless."
-    },
-    {
-      "start": 7361.0,
-      "end": 7363.26,
-      "text": "It's midnight and we're together on all wavelengths,"
-    },
-    {
-      "start": 7363.26,
-      "end": 7370.88,
-      "text": "433 330 285 275 and vhf and this is vivian stewart in the midnight newsroom"
     }
-  ]
+   ]
 }

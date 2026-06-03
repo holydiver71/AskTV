@@ -47,9 +47,7 @@
     {
       "artist": "Jethro Tull",
       "track": "Beggars Farm",
-      "details": "Top Gear Session 1968-11-05",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "1 you re taking chances"
+      "details": "Top Gear Session 1968-11-05"
     },
     {
       "artist": "Jethro Tull",
@@ -60,8 +58,6 @@
       "artist": "Jethro Tull",
       "track": "Stormy Monday Blues",
       "details": "Top Gear Session 1968-11-05",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "won t you bring her",
       "verified_timestamp": 1800.0
     },
     {
@@ -85,8 +81,6 @@
       "artist": "Ian Hunter",
       "track": "Cleveland Rocks",
       "details": "LP-You're Never Alone With A Schizophrenic; Chrysalis",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "y all tonight this is",
       "verified_timestamp": 3338.37
     },
     {
@@ -126,9 +120,7 @@
     {
       "artist": "Jethro Tull",
       "track": "A New Day Yesterday",
-      "details": "Top Gear Session 1969-06-16",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "my first and last time"
+      "details": "Top Gear Session 1969-06-16"
     },
     {
       "artist": "Jethro Tull",
@@ -161,8 +153,6 @@
       "artist": "Peter Frampton",
       "track": "Feel Like I Do",
       "details": "2xLP-Frampton Comes Alive; A&M",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "do you feel like we",
       "verified_timestamp": 7020.0
     }
   ],
@@ -360,12 +350,12 @@
     {
       "start": 1174.35,
       "end": 1185.75,
-      "text": "remember that fine musician and now to our session from the tom robinson band one of the songs that"
+      "text": "remember that fine musician and now to our session from the tom robinson band."
     },
     {
       "start": 1353.64,
       "end": 1358.6,
-      "text": "you'll find on the album trb2 but they heard it as a session recorded in made of l studios"
+      "text": "one of the songs that you'll find on the album trb2 but they heard it as a session recorded in made of l studios"
     },
     {
       "start": 1358.6,
@@ -395,37 +385,7 @@
     {
       "start": 1383.82,
       "end": 1389.38,
-      "text": "tull and here's the last one today from jethro tull who mark what i say gonna be so big very soon"
-    },
-    {
-      "start": 1389.38,
-      "end": 1392.42,
-      "text": "This one's fantastically beautiful, Beggar's Farm."
-    },
-    {
-      "start": 1392.8,
-      "end": 1394.62,
-      "text": "You're taking chances"
-    },
-    {
-      "start": 1394.62,
-      "end": 1400.23,
-      "text": "Reputation's going down"
-    },
-    {
-      "start": 1400.23,
-      "end": 1403.58,
-      "text": "Going out in the night time"
-    },
-    {
-      "start": 1403.58,
-      "end": 1407.65,
-      "text": "Make no sound"
-    },
-    {
-      "start": 1407.65,
-      "end": 1416.74,
-      "text": "Cause I know what you feel"
+      "text": "tull. "
     },
     {
       "start": 1482.5,
@@ -451,26 +411,6 @@
       "start": 1767.6,
       "end": 1771.79,
       "text": "You know this group could be the biggest attraction since the Stones."
-    },
-    {
-      "start": 1771.79,
-      "end": 1773.79,
-      "text": "Now this is the T-Bone Walker Blues."
-    },
-    {
-      "start": 1814.6,
-      "end": 1817.4,
-      "text": "I'm so sad of the sex play"
-    },
-    {
-      "start": 1817.4,
-      "end": 1820.4,
-      "text": "I found my woman"
-    },
-    {
-      "start": 1971.02,
-      "end": 1976.8,
-      "text": "Won't you bring her"
     },
     {
       "start": 1976.8,
@@ -1086,21 +1026,6 @@
       "start": 5570.14,
       "end": 5585.72,
       "text": "And here comes Ian Anderson with one of his own songs."
-    },
-    {
-      "start": 5585.72,
-      "end": 5588.28,
-      "text": "My first and last time with you"
-    },
-    {
-      "start": 5588.28,
-      "end": 5596.16,
-      "text": "And we had some fun, sweet Jeff"
-    },
-    {
-      "start": 5596.16,
-      "end": 5614.75,
-      "text": "and i kissed you once just when i thought it wasn't you yesterday but it's an old day"
     },
     {
       "start": 5614.75,

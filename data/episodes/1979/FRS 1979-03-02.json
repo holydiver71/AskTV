@@ -52,9 +52,7 @@
       "artist": "Moody Blues",
       "track": "‘Legend Of A Mind’",
       "details": "LP - In Search Of The Lost Chord",
-      "verified_timestamp": 2117.89,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "about a light they say"
+      "verified_timestamp": 2117.89
     },
     {
       "artist": "Outsiders",
@@ -87,18 +85,14 @@
       "artist": "Frank Zappa",
       "track": "‘Dancing Fool’",
       "details": "LP - Sheik Yerbouti",
-      "verified_timestamp": 3208.28,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "one of my legs is"
+      "verified_timestamp": 3208.28
     },
     {
       "artist": "Eddie and The Hot Rods",
       "track": "‘Power And the Glory’",
       "details": "7\" single",
-      "verified_timestamp": 3400.88,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the power and the glory"
-    },
+      "verified_timestamp": 3400.88
+     },
     {
       "artist": "Streetwalkers",
       "track": "‘Systematic Stealth",
@@ -141,9 +135,7 @@
       "artist": "Buzzcocks",
       "track": "‘Everybody's Happy Nowadays’",
       "details": "7\" single",
-      "verified_timestamp": 6645.24,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "cause everybody s happy nowadays"
+      "verified_timestamp": 6645.24
     },
     {
       "artist": "Velvet Underground",

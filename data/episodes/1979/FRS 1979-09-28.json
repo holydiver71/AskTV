@@ -63,8 +63,6 @@
       "artist": "Bob Dylan",
       "track": "Forever Young",
       "details": "LP-At Budokan",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "may god bless and keep",
       "verified_timestamp": 1980.0
     },
     {
@@ -263,7 +261,7 @@
     {
       "start": 1285.38,
       "end": 1286.3,
-      "text": "at Arnie of Gatow."
+      "text": "at RAF Gatow."
     },
     {
       "start": 1287.86,
@@ -380,97 +378,7 @@
       "end": 1344.42,
       "text": "the band was called One in a Million"
     },
-    {
-      "start": 1363.47,
-      "end": 1365.77,
-      "text": "I told you last night"
-    },
-    {
-      "start": 1365.77,
-      "end": 1368.01,
-      "text": "I saw you sleeper out"
-    },
-    {
-      "start": 1368.01,
-      "end": 1369.89,
-      "text": "Back on track"
-    },
-    {
-      "start": 1369.89,
-      "end": 1372.13,
-      "text": "Don't tell me what you did"
-    },
-    {
-      "start": 1372.13,
-      "end": 1374.17,
-      "text": "Cause baby I know"
-    },
-    {
-      "start": 1374.17,
-      "end": 1376.65,
-      "text": "But I'm too much of a gentleman"
-    },
-    {
-      "start": 1376.65,
-      "end": 1378.63,
-      "text": "To tell you where to go"
-    },
-    {
-      "start": 1378.63,
-      "end": 1383.45,
-      "text": "Use your imagination"
-    },
-    {
-      "start": 1383.45,
-      "end": 1387.81,
-      "text": "Use your imagination"
-    },
-    {
-      "start": 1387.81,
-      "end": 1396.29,
-      "text": "I'm thinking all strong"
-    },
-    {
-      "start": 1396.29,
-      "end": 1398.41,
-      "text": "So where to keep my diamond"
-    },
-    {
-      "start": 1398.41,
-      "end": 1400.33,
-      "text": "All night long"
-    },
-    {
-      "start": 1400.33,
-      "end": 1402.51,
-      "text": "Well, you've got to know"
-    },
-    {
-      "start": 1402.51,
-      "end": 1404.87,
-      "text": "That I find that I choose"
-    },
-    {
-      "start": 1404.87,
-      "end": 1407.19,
-      "text": "But if I were a gentleman"
-    },
-    {
-      "start": 1407.19,
-      "end": 1409.17,
-      "text": "I'd tell you what to do"
-    },
-    {
-      "start": 1409.17,
-      "end": 1413.93,
-      "text": "Use your imagination"
-    },
-    {
-      "start": 1413.93,
-      "end": 1417.79,
-      "text": "Use your imagination"
-    },
-    {
+   {
       "start": 1417.79,
       "end": 1422.59,
       "text": "...on the 2nd of the 7th of 1969,"
@@ -604,71 +512,6 @@
       "start": 1943.41,
       "end": 1944.71,
       "text": "And he died at 26."
-    },
-    {
-      "start": 1945.99,
-      "end": 1948.79,
-      "text": "May God bless and keep you always."
-    },
-    {
-      "start": 1950.2,
-      "end": 1951.94,
-      "text": "May your wishes all come true."
-    },
-    {
-      "start": 1953.38,
-      "end": 1955.86,
-      "text": "May you always do for others."
-    },
-    {
-      "start": 1955.86,
-      "end": 1958.84,
-      "text": "And let others do for you"
-    },
-    {
-      "start": 1958.84,
-      "end": 1965.41,
-      "text": "May you build a ladder to the stars"
-    },
-    {
-      "start": 1965.41,
-      "end": 1967.96,
-      "text": "Climb on every rock"
-    },
-    {
-      "start": 1967.96,
-      "end": 1970.24,
-      "text": "And may you stay"
-    },
-    {
-      "start": 2004.86,
-      "end": 2017.27,
-      "text": "May you grow up and be true"
-    },
-    {
-      "start": 2017.27,
-      "end": 2020.62,
-      "text": "And may you always know the truth"
-    },
-    {
-      "start": 2020.62,
-      "end": 2023.94,
-      "text": "And see the lights around again"
-    },
-    {
-      "start": 2023.94,
-      "end": 2029.81,
-      "text": "May you always be courageous"
-    },
-    {
-      "start": 2029.81,
-      "end": 2033.2,
-      "text": "Stand up right and be strong"
-    },
-    {
-      "start": 2033.2,
-      "end": 2034.48,
-      "text": "And may you stay"
     },
     {
       "start": 2034.48,
@@ -984,71 +827,6 @@
       "start": 3954.24,
       "end": 3955.12,
       "text": "The Ian Gillen Band."
-    },
-    {
-      "start": 3956.7,
-      "end": 3957.3,
-      "text": "Hey!"
-    },
-    {
-      "start": 3958.04,
-      "end": 3969.5,
-      "text": "Thank you."
-    },
-    {
-      "start": 3970.92,
-      "end": 3972.84,
-      "text": "This is a new song called Sleeping on the Joke."
-    },
-    {
-      "start": 3972.84,
-      "end": 3975.84,
-      "text": "This is the title track."
-    },
-    {
-      "start": 4226.21,
-      "end": 4227.99,
-      "text": "It's called Miss the Universe."
-    },
-    {
-      "start": 5567.79,
-      "end": 5568.61,
-      "text": "It's called Vengeance."
-    },
-    {
-      "start": 5569.11,
-      "end": 5572.11,
-      "text": "It's just a random band."
-    },
-    {
-      "start": 5862.15,
-      "end": 5862.91,
-      "text": "One of the keyboards."
-    },
-    {
-      "start": 5863.09,
-      "end": 5863.73,
-      "text": "Coming Town."
-    },
-    {
-      "start": 5863.91,
-      "end": 5864.09,
-      "text": "Yeah!"
-    },
-    {
-      "start": 5864.59,
-      "end": 5868.78,
-      "text": "Bass guitar."
-    },
-    {
-      "start": 5869.02,
-      "end": 5869.36,
-      "text": "Jump!"
-    },
-    {
-      "start": 5869.56,
-      "end": 5902.22,
-      "text": "We've enough water here this weekend already, so..."
     },
     {
       "start": 5902.22,

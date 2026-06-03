@@ -56,9 +56,7 @@
       "artist": "Jimi Hendrix",
       "track": "Stone Free",
       "details": "Saturday Club 1967-02-13",
-      "verified_timestamp": 2138.6,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "they talk about me like"
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Jimi Hendrix",
@@ -76,9 +74,7 @@
       "artist": "Jimi Hendrix",
       "track": "Foxy Lady",
       "details": "Saturday Club 1967-02-13",
-      "verified_timestamp": 2138.6,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "you ve got to be"
+      "verified_timestamp": 2138.6
     },
     {
       "artist": "Invaders",
@@ -90,17 +86,13 @@
       "artist": "Robert Palmer",
       "track": "Doctor Doctor",
       "details": "7\" Single",
-      "verified_timestamp": 2731.23,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "bad case of loving you"
+      "verified_timestamp": 2731.23
     },
     {
       "artist": "Devo",
       "track": "The Day My Baby Gave Me A Surprise",
       "details": "7\" Single",
-      "verified_timestamp": 2700.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the day my baby gave"
+      "verified_timestamp": 2700.0
     },
     {
       "artist": null,
@@ -124,9 +116,13 @@
       "artist": "Jimi Hendrix",
       "track": "Radio One Jingle",
       "details": "Top Gear 1967-12-15",
-      "verified_timestamp": 66.86,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "radio one you re the"
+      "verified_timestamp": 66.86
+    },
+    {
+      "artist": "Jimi Hendrix",
+      "track": "Voodoo Chile",
+      "details": "Happening For Lulu 1969-01-04",
+      "verified_timestamp": 4657.23
     },
     {
       "artist": "Jimi Hendrix",
@@ -174,9 +170,7 @@
       "artist": "Jimi Hendrix",
       "track": "Hoochie Coochie Man",
       "details": "World Service Rhythm & Blues 1967-10-17",
-      "verified_timestamp": 7149.18,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "he s gonna be a"
+      "verified_timestamp": 7149.18
     },
     {
       "artist": "Jimi Hendrix",
@@ -675,7 +669,7 @@
     {
       "start": 2827.44,
       "end": 2834.24,
-      "text": "20 wolfson terrace university of bath down there in bath in avon and he wrote dear friday rock show"
+      "text": "[redacted address] university of bath down there in bath in avon and he wrote dear friday rock show"
     },
     {
       "start": 2834.24,

@@ -42,8 +42,6 @@
       "artist": "Beatles",
       "track": "'I Want You, She's So Heavy'",
       "details": "LP-Abbey Road",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i want you she s",
       "verified_timestamp": 1257.07
     },
     {
@@ -71,8 +69,6 @@
       "artist": "Tubes",
       "track": "TV Is King",
       "details": "LP-Remote Control",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i wish i was the",
       "verified_timestamp": 2340.0
     },
     {
@@ -85,8 +81,6 @@
       "artist": "Yes",
       "track": "And You And I",
       "details": "LP-Close To The Edge",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the album close to the",
       "verified_timestamp": 2778.44
     },
     {
@@ -115,8 +109,6 @@
       "artist": "Samson",
       "track": "I Wish I Was The Saddle Of A Schoolgirls Bike",
       "details": "LP-Survivors",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i wish i was the",
       "verified_timestamp": 5466.46
     },
     {
@@ -1082,26 +1074,6 @@
       "text": "and Mr Nelson on guitar and lead vocals."
     },
     {
-      "start": 5504.84,
-      "end": 5507.84,
-      "text": "This guitar does not lie."
-    },
-    {
-      "start": 5852.69,
-      "end": 5854.63,
-      "text": "The deception is not mine."
-    },
-    {
-      "start": 5854.73,
-      "end": 5859.04,
-      "text": "I'm not called upon to prove it."
-    },
-    {
-      "start": 5859.08,
-      "end": 5874.46,
-      "text": "The deception is not mine."
-    },
-    {
       "start": 5874.46,
       "end": 5878.66,
       "text": "Recorded on the 11th of March, 1975."
@@ -1127,29 +1099,9 @@
       "text": "Brand X, and so to F."
     },
     {
-      "start": 6253.62,
-      "end": 6258.42,
-      "text": "Church open like Latin lovers on the shore."
-    },
-    {
-      "start": 6650.19,
-      "end": 6652.91,
-      "text": "Chasing all them silly new y'all."
-    },
-    {
-      "start": 6652.91,
-      "end": 6660.11,
-      "text": "Just like a star in one of them cheap little seaside bars."
-    },
-    {
-      "start": 6848.54,
-      "end": 6850.52,
-      "text": "And I saw a pocket lover boy."
-    },
-    {
       "start": 6850.52,
       "end": 6928.48,
-      "text": "That for ages, and the reason that we played it was because Chris James, Mr. Chris James, wrote me a letter and said,"
+      "text": "I havent heard that for ages, and the reason that we played it was because Chris James, Mr. Chris James, wrote me a letter and said,"
     },
     {
       "start": 6928.56,

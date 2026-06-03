@@ -42,9 +42,7 @@
       "artist": "Manfred Mann",
       "track": "Visionary Mountains",
       "details": "LP-Nightingales And Bombers",
-      "verified_timestamp": 720.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "manfred mann s earth band"
+      "verified_timestamp": 720.0
     },
     {
       "artist": "Simple Minds",
@@ -79,9 +77,7 @@
     {
       "artist": "John Miles",
       "track": "All Fall Down",
-      "details": "1979 Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the stories they told of"
+      "details": "1979 Session"
     },
     {
       "artist": "Robert Fripp",
@@ -144,9 +140,7 @@
     {
       "artist": "John Miles",
       "track": "'You Can't Keep A Good Man Down'",
-      "details": "1979 Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "can t keep a good"
+      "details": "1979 Session"
     }
   ],
   "transcript": [
@@ -584,21 +578,6 @@
       "type": "music"
     },
     {
-      "start": 2395.38,
-      "end": 2398.24,
-      "text": "The stories they told are the dream"
-    },
-    {
-      "start": 2398.24,
-      "end": 2413.32,
-      "text": "It was his first big mistake he could see"
-    },
-    {
-      "start": 2413.32,
-      "end": 2467.16,
-      "text": "We all fall down, we all fall down"
-    },
-    {
       "start": 2467.16,
       "end": 2473.16,
       "text": "To the audience, I give it a round of applause."
@@ -898,7 +877,7 @@
     {
       "start": 4685.89,
       "end": 4687.51,
-      "text": "Station Road, Sidmouth in Devon."
+      "text": "[redacted address], Sidmouth in Devon."
     },
     {
       "start": 4687.51,

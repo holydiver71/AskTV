@@ -58,9 +58,7 @@
       "artist": "The Moody Blues",
       "track": "Go Now",
       "details": "session 1965-04",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "we ve already said so",
-      "verified_timestamp": 1260.0
+       "verified_timestamp": 1260.0
     },
     {
       "artist": "The Moody Blues",
@@ -70,9 +68,7 @@
     {
       "artist": "The Moody Blues",
       "track": "I’ll Go Crazy",
-      "details": "session 1965-04",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "cause i love you i"
+      "details": "session 1965-04"
     },
     {
       "artist": "Terra Nova",
@@ -84,9 +80,7 @@
       "artist": "Joe Walsh",
       "track": "Meadows",
       "details": "LP - The Smoker You Drink, the Player You Get",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the smoker you drink the",
-      "verified_timestamp": 2160.0
+       "verified_timestamp": 2160.0
     },
     {
       "artist": "Tom Petty & The Heartbreakers",
@@ -683,111 +677,6 @@
       "text": "Now, more Moody Blues from way back in 1967."
     },
     {
-      "start": 2856.2,
-      "end": 2859.82,
-      "text": "Baby, don't you understand me now?"
-    },
-    {
-      "start": 2861.04,
-      "end": 2864.02,
-      "text": "I feel a little mad"
-    },
-    {
-      "start": 2864.02,
-      "end": 2870.24,
-      "text": "Don't you know that no one alike can always be an angel"
-    },
-    {
-      "start": 2870.24,
-      "end": 2873.88,
-      "text": "When things go wrong, he's bound to feel a little mad"
-    },
-    {
-      "start": 2873.88,
-      "end": 2878.58,
-      "text": "Cause I'm just a soul whose intentions are good"
-    },
-    {
-      "start": 2878.58,
-      "end": 2882.82,
-      "text": "Please don't let me be misunderstood"
-    },
-    {
-      "start": 2882.82,
-      "end": 2895.82,
-      "text": "Sometimes I, oh, feel so carefree"
-    },
-    {
-      "start": 2895.82,
-      "end": 2899.14,
-      "text": "To the joy that's hard to hide"
-    },
-    {
-      "start": 2899.14,
-      "end": 2902.52,
-      "text": "Sometimes I spend long nights"
-    },
-    {
-      "start": 2902.52,
-      "end": 2913.1,
-      "text": "Looking down and the sounds are good"
-    },
-    {
-      "start": 2913.1,
-      "end": 2917.43,
-      "text": "Let me be misunderstood"
-    },
-    {
-      "start": 2917.43,
-      "end": 2923.18,
-      "text": "When I get edgy, I want you to know"
-    },
-    {
-      "start": 2923.18,
-      "end": 2927.3,
-      "text": "That I never mean to take it out on you"
-    },
-    {
-      "start": 2927.3,
-      "end": 2932.21,
-      "text": "There's a problem and I get my share"
-    },
-    {
-      "start": 2932.21,
-      "end": 2935.79,
-      "text": "But that's one thing that I never mean to do"
-    },
-    {
-      "start": 2935.79,
-      "end": 2941.58,
-      "text": "Baby, don't you know I'm human"
-    },
-    {
-      "start": 2941.58,
-      "end": 2945.1,
-      "text": "With thoughts like any other man"
-    },
-    {
-      "start": 2945.1,
-      "end": 2950.8,
-      "text": "Sometimes I spend all night long regretting"
-    },
-    {
-      "start": 2950.8,
-      "end": 2954.35,
-      "text": "Some simple little stupid thing that you've done"
-    },
-    {
-      "start": 2954.35,
-      "end": 2958.91,
-      "text": "Cause I'm just a soul whose intentions are good"
-    },
-    {
-      "start": 2958.91,
-      "end": 2963.21,
-      "text": "Please don't let me be misunderstood."
-    },
-    {
       "start": 2977.92,
       "end": 2980.92,
       "text": "Leave this man alone."
@@ -930,12 +819,12 @@
     {
       "start": 3701.64,
       "end": 3703.64,
-      "text": "Dave Miller of number 10"
+      "text": "Dave Miller of "
     },
     {
       "start": 3703.64,
       "end": 3706.06,
-      "text": "Creswell Street, Kingsland in Norfolk"
+      "text": "[redacted address], Kingsland in Norfolk"
     },
     {
       "start": 3706.06,
@@ -1401,151 +1290,6 @@
       "start": 7211.2,
       "end": 7211.8,
       "text": "Good night"
-    },
-    {
-      "start": 7211.8,
-      "end": 7222.88,
-      "text": "It's midnight and we're together on all wavelengths"
-    },
-    {
-      "start": 7222.88,
-      "end": 7226.8,
-      "text": "433-330-275-285 and VHF"
-    },
-    {
-      "start": 7226.8,
-      "end": 7229.14,
-      "text": "And this is Patrick Lunt in the Midnight Newsroom."
-    },
-    {
-      "start": 7230.02,
-      "end": 7234.06,
-      "text": "The headlines, President Carter proposes international economic sanctions against Iran."
-    },
-    {
-      "start": 7234.9,
-      "end": 7237.76,
-      "text": "After three months of talking, the Rhodesia Agreement is signed."
-    },
-    {
-      "start": 7238.32,
-      "end": 7242.12,
-      "text": "And the national steel strike is still on, despite a new offer."
-    },
-    {
-      "start": 7243.89,
-      "end": 7248.91,
-      "text": "President Carter has decided to ask the United Nations to approve worldwide economic sanctions against Iran"
-    },
-    {
-      "start": 7248.91,
-      "end": 7253.23,
-      "text": "in an effort to force the regime in Tehran to release the 50 American hostages."
-    },
-    {
-      "start": 7253.69,
-      "end": 7257.31,
-      "text": "Speaking at the White House tonight, Mr. Carter said the time for action had come."
-    },
-    {
-      "start": 7257.73,
-      "end": 7263.98,
-      "text": "The government of Iran must realize that it cannot flaunt with impunity"
-    },
-    {
-      "start": 7263.98,
-      "end": 7268.53,
-      "text": "the expressed will and law of the world community."
-    },
-    {
-      "start": 7268.85,
-      "end": 7275.98,
-      "text": "The Security Council must act to enforce its demand that Iran release the hostages."
-    },
-    {
-      "start": 7276.6,
-      "end": 7281.16,
-      "text": "And the United States is dispatching the giant nuclear aircraft carrier USS Nimitz"
-    },
-    {
-      "start": 7281.16,
-      "end": 7284.44,
-      "text": "and two guided missile cruisers to the waters off Iran."
-    },
-    {
-      "start": 7285.06,
-      "end": 7289.2,
-      "text": "They'll be relieving the carrier USS Kitty Hawk, which is returning to California."
-    },
-    {
-      "start": 7289.92,
-      "end": 7291.68,
-      "text": "The Nimitz is in the Mediterranean at present,"
-    },
-    {
-      "start": 7292.06,
-      "end": 7295.96,
-      "text": "and will be sailing around the Cape of Good Hope to reach the Arabian Sea by the end of January."
-    },
-    {
-      "start": 7297.63,
-      "end": 7300.41,
-      "text": "After the signing in London of the peace agreement for Rhodesia,"
-    },
-    {
-      "start": 7300.41,
-      "end": 7305.45,
-      "text": "the United Nations Security Council has lifted its 13-year economic embargo against the country."
-    },
-    {
-      "start": 7306.23,
-      "end": 7308.77,
-      "text": "And in Rhodesia itself, the British governor, Lord Soames,"
-    },
-    {
-      "start": 7308.85,
-      "end": 7311.99,
-      "text": "has now removed the ban on the political activities of the Patriotic Front."
-    },
-    {
-      "start": 7311.99,
-      "end": 7315.31,
-      "text": "and Lord Soames has been speaking on Rhodesian television"
-    },
-    {
-      "start": 7315.31,
-      "end": 7317.27,
-      "text": "about his hopes for the future of Rhodesia."
-    },
-    {
-      "start": 7317.71,
-      "end": 7329.26,
-      "text": "People have lost their lives."
-    },
-    {
-      "start": 7336.85,
-      "end": 7342.69,
-      "text": "It needs more than sentimental feelings to heal these wounds."
-    },
-    {
-      "start": 7342.69,
-      "end": 7348.21,
-      "text": "It needs a burning wish and a resolute will"
-    },
-    {
-      "start": 7348.21,
-      "end": 7351.8,
-      "text": "on behalf of every man and woman"
-    },
-    {
-      "start": 7351.8,
-      "end": 7355.56,
-      "text": "to turn away from the darkness of the past."
-    },
-    {
-      "start": 7355.88,
-      "end": 7360.38,
-      "text": "It seems that the provisional IRA are behind the current..."
     }
   ]
 }

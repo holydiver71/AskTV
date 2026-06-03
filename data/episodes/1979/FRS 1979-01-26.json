@@ -39,9 +39,7 @@
       "artist": "King Crimson",
       "track": "The Court Of The Crimson King",
       "details": "LP-In The Court Of The Crimson King; Island",
-      "verified_timestamp": 900.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the court of the crimson"
+      "verified_timestamp": 900.0
     },
     {
       "artist": "Frankie Miller",
@@ -81,9 +79,7 @@
     {
       "artist": "Frankie Miller",
       "track": "Sail Away",
-      "details": "Peel Session #2",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "and there s something i"
+      "details": "Peel Session #2"
     },
     {
       "artist": null,
@@ -100,9 +96,7 @@
       "artist": "Bob Dylan",
       "track": "Sad Eyed Lady Of The Lowlands",
       "details": "2xLP-Blonde On Blonde; CBS",
-      "verified_timestamp": 4500.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "sad eyed lady of the"
+      "verified_timestamp": 4500.0
     },
     {
       "artist": "Magazine",
@@ -118,7 +112,7 @@
     {
       "artist": "Dave Edmunds & Rockpile",
       "track": "I Hear You Knocking",
-      "details": "Live At The Bottom Line",
+      "details": "Live At The Bottlyom Line",
       "verified_timestamp": 5767.36
     },
     {

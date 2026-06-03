@@ -121,9 +121,7 @@
     {
       "artist": "Beatles",
       "track": "'Everybody's Trying To Be My Baby'",
-      "details": "Top Gear session 1964-11-17",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "everybody s trying to be"
+      "details": "Top Gear session 1964-11-17"
     },
     {
       "artist": "Beatles",
@@ -971,7 +969,7 @@
     {
       "start": 3761.68,
       "end": 3764.7,
-      "text": "of number two Fleetwood Street, Leyland in Lancashire."
+      "text": "of number [redacted address], Leyland in Lancashire."
     },
     {
       "start": 3765.06,
@@ -1011,7 +1009,7 @@
     {
       "start": 4876.75,
       "end": 4883.01,
-      "text": "there put together by tony sagilka of number two fleetwood street i think it's leyland in"
+      "text": "there put together by tony sagilka of number [redacted address] i think it's leyland in"
     },
     {
       "start": 4883.01,
@@ -1458,12 +1456,7 @@
       "end": 7269.8,
       "text": "Rock On Tommy"
     },
-    {
-      "start": 7269.8,
-      "end": 7273.27,
-      "text": "Rock On Tommy"
-    },
-    {
+      {
       "start": 7273.27,
       "end": 7276.5,
       "text": "wherever you are"

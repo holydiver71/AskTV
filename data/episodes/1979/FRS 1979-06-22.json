@@ -22,9 +22,7 @@
       "artist": "Led Zeppelin",
       "track": "Kashmir",
       "details": "LP-Physical Grafitti",
-      "verified_timestamp": 180.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i m on my way"
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Kiss",
@@ -83,9 +81,7 @@
       "artist": "Joni Mitchell",
       "track": "Dry Cleaner From Des Moines",
       "details": "LP-Mingus",
-      "verified_timestamp": 4860.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the dry cleaner from des"
+      "verified_timestamp": 4860.0
     },
     {
       "artist": "Hot Tuna",
@@ -97,23 +93,17 @@
       "artist": "Genesis",
       "track": "Twilight Alehouse",
       "details": "Peel Session 1972-09-25",
-      "verified_timestamp": 1094.85,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "what they re saying are"
+      "verified_timestamp": 1094.85
     },
     {
       "artist": "Genesis",
       "track": "Get Them Out By Friday",
-      "details": "Peel Session 1972-09-25",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "i can t believe oh"
+      "details": "Peel Session 1972-09-25"
     },
     {
       "artist": "Genesis",
       "track": "Watcher Of The Skies",
-      "details": "Peel Session 1972-09-25",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "do they play elsewhere do"
+      "details": "Peel Session 1972-09-25"
     },
     {
       "artist": "Def Leppard",
