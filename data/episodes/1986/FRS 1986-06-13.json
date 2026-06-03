@@ -137,13 +137,31 @@
   "transcript": [
     {
       "start": 3.09,
-      "end": 228.58,
+      "end": 18.69,
       "text": "Journey, Raised on Radio. This was voted in NME or Melody Maker and I can't remember which. Best single of last year and I totally agreed."
     },
     {
+      "start": 18.69,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 228.58,
-      "end": 725.46,
+      "end": 231.58,
       "text": "The Cult, She Sells Sanctuary."
+    },
+    {
+      "start": 360.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 725.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 725.46,
@@ -162,8 +180,14 @@
     },
     {
       "start": 733.1,
-      "end": 932.61,
+      "end": 743.9,
       "text": "agent still from skeptics apocalypse back to rain i have to dedicate this to my local football team"
+    },
+    {
+      "start": 743.9,
+      "end": 1165.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 932.61,
@@ -172,7 +196,7 @@
     },
     {
       "start": 937.35,
-      "end": 1165.11,
+      "end": 946.95,
       "text": "from willsbury nashville kent because he's our big hawkwin fan hawkwin from warrior on the edge"
     },
     {
@@ -242,8 +266,14 @@
     },
     {
       "start": 1375.94,
-      "end": 1557.05,
+      "end": 1381.94,
       "text": "Sam Bardino from Frank Zappa and the Mothers of Invention."
+    },
+    {
+      "start": 1381.94,
+      "end": 1557.35,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1557.35,
@@ -337,8 +367,14 @@
     },
     {
       "start": 1602.81,
-      "end": 1837.87,
+      "end": 1605.81,
       "text": "That's FM Love Lies Dying."
+    },
+    {
+      "start": 1605.81,
+      "end": 1838.03,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1838.03,
@@ -402,8 +438,20 @@
     },
     {
       "start": 1868.63,
-      "end": 3199.51,
+      "end": 1880.03,
       "text": "lie back and enjoy it i hope you did that was the selection of alex hitchens and his friends"
+    },
+    {
+      "start": 1980.0,
+      "end": 2335.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2340.0,
+      "end": 3199.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3199.51,
@@ -477,8 +525,14 @@
     },
     {
       "start": 3269.1,
-      "end": 3550.72,
+      "end": 3277.5,
       "text": "building one's hopes up like that promises promises genesis from the new album invisible"
+    },
+    {
+      "start": 3420.0,
+      "end": 3595.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3550.72,
@@ -487,8 +541,14 @@
     },
     {
       "start": 3555.76,
-      "end": 3831.36,
+      "end": 3566.56,
       "text": "with them genesis the lamb lies down on broadway now if you ever wondered what disc jockeys do"
+    },
+    {
+      "start": 3600.0,
+      "end": 3831.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3831.36,
@@ -564,6 +624,12 @@
       "start": 3872.56,
       "end": 3874.06,
       "text": "And she said, Hellbound."
+    },
+    {
+      "start": 3960.0,
+      "end": 4090.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4090.38,
@@ -642,8 +708,14 @@
     },
     {
       "start": 4120.24,
-      "end": 4343.16,
+      "end": 4129.84,
       "text": "again and again from status quo back to the alliance you're in session tonight just let"
+    },
+    {
+      "start": 4140.0,
+      "end": 4343.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4343.16,
@@ -657,7 +729,7 @@
     },
     {
       "start": 4355.06,
-      "end": 4573.18,
+      "end": 4366.46,
       "text": "jinner what to be jinner and tonic do you think yes alliance we are strangers and you might have"
     },
     {
@@ -667,8 +739,14 @@
     },
     {
       "start": 4579.76,
-      "end": 4888.3,
+      "end": 4591.16,
       "text": "friday rock show a mr murdoch would like this for all basil headbangers that's battle axe make it in"
+    },
+    {
+      "start": 4591.16,
+      "end": 4888.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4888.3,
@@ -692,8 +770,14 @@
     },
     {
       "start": 4906.22,
-      "end": 5142.11,
+      "end": 4918.22,
       "text": "and couldn't get back well it is friday the 13th iron maiden run to the hills last one coming up"
+    },
+    {
+      "start": 5040.0,
+      "end": 5142.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5142.11,
@@ -712,7 +796,7 @@
     },
     {
       "start": 5160.99,
-      "end": 5341.43,
+      "end": 5163.99,
       "text": "I'm impressed"
     },
     {
@@ -732,8 +816,14 @@
     },
     {
       "start": 5354.35,
-      "end": 5515.98,
+      "end": 5365.75,
       "text": "He really does live up to his reputation does rude things to you. Well, that's no class from Motorhead"
+    },
+    {
+      "start": 5400.0,
+      "end": 5515.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5515.98,
@@ -796,9 +886,10 @@
       "text": "The Long Goodbyes."
     },
     {
-      "start": 5558.78,
-      "end": 5610.9,
-      "text": "...on a time"
+      "start": 5580.0,
+      "end": 5626.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5610.9,

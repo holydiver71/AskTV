@@ -110,6 +110,12 @@
   ],
   "transcript": [
     {
+      "start": 0.0,
+      "end": 491.71,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 461.33,
       "end": 491.69,
       "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Pretenders, Todd Rundgren. This is Tommy Vance on Radio 1."
@@ -181,7 +187,7 @@
     },
     {
       "start": 521.71,
-      "end": 950.91,
+      "end": 530.11,
       "text": "I reckon they knew it was going to be hot when they recorded that."
     },
     {
@@ -236,8 +242,14 @@
     },
     {
       "start": 979.65,
-      "end": 2052.01,
+      "end": 982.65,
       "text": "What a beautiful recording"
+    },
+    {
+      "start": 982.65,
+      "end": 2052.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2052.01,
@@ -421,8 +433,14 @@
     },
     {
       "start": 2132.13,
-      "end": 2745.1,
+      "end": 2137.53,
       "text": "Mumma's Boys' Runaway Dreams, another track from their session."
+    },
+    {
+      "start": 2137.53,
+      "end": 2740.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2745.42,
@@ -531,8 +549,14 @@
     },
     {
       "start": 2829.25,
-      "end": 3086.55,
+      "end": 2835.85,
       "text": "Time again for another of your favourite rock and roll sessions"
+    },
+    {
+      "start": 2835.85,
+      "end": 3086.55,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3086.55,
@@ -541,7 +565,7 @@
     },
     {
       "start": 3089.89,
-      "end": 3673.56,
+      "end": 3097.69,
       "text": "Five past eleven, and that is the end of the Friday Night Connection."
     },
     {
@@ -616,8 +640,14 @@
     },
     {
       "start": 3728.51,
-      "end": 4358.7,
+      "end": 3735.11,
       "text": "Myofist from their LP Thunder and Rock, and that's evil cold."
+    },
+    {
+      "start": 3735.11,
+      "end": 4358.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4358.7,
@@ -901,7 +931,7 @@
     },
     {
       "start": 4496.91,
-      "end": 5594.12,
+      "end": 4501.11,
       "text": "Just hear that applause, and well-deserved too."
     },
     {
@@ -976,8 +1006,20 @@
     },
     {
       "start": 5625.24,
-      "end": 6129.58,
+      "end": 5628.24,
       "text": "Who else could it be"
+    },
+    {
+      "start": 5628.24,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6129.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6129.58,

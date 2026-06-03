@@ -50,7 +50,9 @@
       "artist": "Rory Gallagher",
       "track": "“Laundromat”",
       "details": "BBC session",
-      "verified_timestamp": 1146.75
+      "verified_timestamp": 1146.75,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "if you should pass be"
     },
     {
       "artist": null,
@@ -187,8 +189,14 @@
     },
     {
       "start": 72.59,
-      "end": 533.0,
+      "end": 77.99,
       "text": "And that's the band by the name of Alcatraz"
+    },
+    {
+      "start": 77.99,
+      "end": 533.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 533.0,
@@ -347,8 +355,14 @@
     },
     {
       "start": 641.67,
-      "end": 1084.77,
+      "end": 647.67,
       "text": "That's a band from Australia who call themselves Cold Chisel,"
+    },
+    {
+      "start": 647.67,
+      "end": 1084.93,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1084.93,
@@ -432,12 +446,18 @@
     },
     {
       "start": 1149.67,
-      "end": 1404.47,
+      "end": 1156.27,
       "text": "If you should pass by, be sure to jump right in"
     },
     {
-      "start": 1404.47,
+      "start": 1156.27,
       "end": 1616.2,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1404.47,
+      "end": 1409.87,
       "text": "Couple of tracks out of the BBC archives there"
     },
     {
@@ -582,7 +602,7 @@
     },
     {
       "start": 1705.85,
-      "end": 1832.34,
+      "end": 1708.85,
       "text": "It was safe outside."
     },
     {
@@ -597,7 +617,7 @@
     },
     {
       "start": 1877.5,
-      "end": 2416.12,
+      "end": 1884.1,
       "text": "That's one of our session tracks by the band called Chinatown."
     },
     {
@@ -717,7 +737,7 @@
     },
     {
       "start": 2517.03,
-      "end": 2893.18,
+      "end": 2522.43,
       "text": "I don't know if it's just to my ears,"
     },
     {
@@ -927,7 +947,7 @@
     },
     {
       "start": 2989.71,
-      "end": 3485.3,
+      "end": 2992.71,
       "text": "Rory Gallagher. Rory Gallagher."
     },
     {
@@ -1007,7 +1027,7 @@
     },
     {
       "start": 3581.92,
-      "end": 4601.58,
+      "end": 3592.12,
       "text": "give you is that it is chronological dennis in south devon own up time the speed differential"
     },
     {
@@ -1047,7 +1067,7 @@
     },
     {
       "start": 4652.25,
-      "end": 5140.29,
+      "end": 4661.25,
       "text": "don't think you're gonna be beat to chinatown collection of amazing musicians under the title"
     },
     {
@@ -1182,7 +1202,7 @@
     },
     {
       "start": 5268.58,
-      "end": 5671.06,
+      "end": 5280.58,
       "text": "The voice of Robert Plant from his new solo album, which is just out on the Swan Song record label."
     },
     {
@@ -1322,7 +1342,7 @@
     },
     {
       "start": 6263.69,
-      "end": 6743.42,
+      "end": 6268.49,
       "text": "And that's the final one by our session"
     },
     {

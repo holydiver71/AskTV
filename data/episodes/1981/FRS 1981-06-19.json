@@ -71,7 +71,9 @@
     {
       "artist": "The Who",
       "track": "'A Quick One While He's Away'",
-      "details": "Top Gear session 1967-10-10"
+      "details": "Top Gear session 1967-10-10",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "he was due home yesterday"
     },
     {
       "artist": "Spider",
@@ -120,7 +122,9 @@
       "artist": "The Who",
       "track": "The Seeker",
       "details": "DLT session 1970-04-13",
-      "verified_timestamp": 5940.0
+      "verified_timestamp": 5940.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "but i don t know"
     },
     {
       "artist": "Diamond Head",
@@ -187,8 +191,20 @@
     },
     {
       "start": 66.98,
-      "end": 533.96,
+      "end": 77.78,
       "text": "Right, that was more. It's a track from their album Warhead, the old Arthur Brown hit called Fire."
+    },
+    {
+      "start": 77.78,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 542.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 534.42,
@@ -289,6 +305,18 @@
       "start": 585.86,
       "end": 587.48,
       "text": "It could be a memorable day."
+    },
+    {
+      "start": 587.48,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1449.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1449.74,
@@ -392,12 +420,24 @@
     },
     {
       "start": 1525.38,
-      "end": 2139.62,
+      "end": 1528.38,
       "text": "Can't wait to hear it."
     },
     {
+      "start": 1528.38,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 2332.52,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2139.68,
-      "end": 2332.4,
+      "end": 2151.68,
       "text": "A couple of tracks there from an album that's just come out in this country on the Asylum record label."
     },
     {
@@ -521,21 +561,6 @@
       "text": "Happy Jack had some fun here on radio."
     },
     {
-      "start": 2401.89,
-      "end": 2418.59,
-      "text": "Talking about my favorite station"
-    },
-    {
-      "start": 2418.59,
-      "end": 2423.45,
-      "text": "Talking about my favorite station"
-    },
-    {
-      "start": 2423.45,
-      "end": 2429.31,
-      "text": "Talking about my favorite station"
-    },
-    {
       "start": 2429.31,
       "end": 2457.26,
       "text": "He was due home yesterday, but he ain't here"
@@ -564,6 +589,12 @@
       "start": 2501.91,
       "end": 2509.26,
       "text": "Can be heard all around the world"
+    },
+    {
+      "start": 2509.26,
+      "end": 2872.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2872.46,
@@ -842,7 +873,7 @@
     },
     {
       "start": 3974.06,
-      "end": 4436.41,
+      "end": 3977.06,
       "text": "Donington this year."
     },
     {
@@ -977,7 +1008,7 @@
     },
     {
       "start": 4509.72,
-      "end": 4980.59,
+      "end": 4514.52,
       "text": "25 Minutes After 11, that's a good single."
     },
     {
@@ -1242,8 +1273,14 @@
     },
     {
       "start": 5141.1,
-      "end": 5693.19,
+      "end": 5149.5,
       "text": "The band stays in the recording race because he's got so much to offer."
+    },
+    {
+      "start": 5220.0,
+      "end": 5690.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5693.19,
@@ -1287,8 +1324,20 @@
     },
     {
       "start": 5718.17,
-      "end": 6134.96,
+      "end": 5725.97,
       "text": "Couple of tasty ones out of the archives from way back in 1970."
+    },
+    {
+      "start": 5725.97,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6135.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6135.22,
@@ -1327,8 +1376,14 @@
     },
     {
       "start": 6159.32,
-      "end": 6672.56,
+      "end": 6167.72,
       "text": "In the days when Michael Schenker and Rudolf Schenker together were in the Scorpions,"
+    },
+    {
+      "start": 6480.0,
+      "end": 6672.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6672.56,
@@ -1372,7 +1427,7 @@
     },
     {
       "start": 6694.94,
-      "end": 7096.89,
+      "end": 6699.14,
       "text": "Final one tonight from our debut session"
     },
     {

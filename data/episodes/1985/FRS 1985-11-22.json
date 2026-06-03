@@ -149,8 +149,14 @@
     },
     {
       "start": 73.78,
-      "end": 547.75,
+      "end": 79.78,
       "text": "It was done by the Kinks a few yonks ago."
+    },
+    {
+      "start": 180.0,
+      "end": 546.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 548.05,
@@ -304,8 +310,20 @@
     },
     {
       "start": 637.9,
-      "end": 1209.19,
+      "end": 649.9,
       "text": "of lothian and this is the bbc the friday rock show that was mike and the mechanics and the track"
+    },
+    {
+      "start": 649.9,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1209.19,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1209.19,
@@ -509,8 +527,14 @@
     },
     {
       "start": 1322.54,
-      "end": 1761.19,
+      "end": 1329.74,
       "text": "A wonderful ZZ Top from their latest album, which is called Afterburner."
+    },
+    {
+      "start": 1620.0,
+      "end": 1761.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1761.23,
@@ -634,7 +658,7 @@
     },
     {
       "start": 1825.62,
-      "end": 2642.34,
+      "end": 1835.82,
       "text": "Half it is to 11, that was specially for all the girls who are together in Sunderland."
     },
     {
@@ -739,8 +763,14 @@
     },
     {
       "start": 2702.65,
-      "end": 3127.06,
+      "end": 2705.65,
       "text": "From Southern California, their debut"
+    },
+    {
+      "start": 2705.65,
+      "end": 3127.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3127.06,
@@ -904,7 +934,7 @@
     },
     {
       "start": 3229.31,
-      "end": 3686.36,
+      "end": 3232.31,
       "text": "That's from his solo album,"
     },
     {
@@ -1054,8 +1084,26 @@
     },
     {
       "start": 3795.28,
-      "end": 5073.32,
+      "end": 3803.08,
       "text": "The album Thunder and Lightning, The Sun Goes Down, came out in 1983."
+    },
+    {
+      "start": 3960.0,
+      "end": 4495.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4500.0,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4680.0,
+      "end": 5073.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5073.58,
@@ -1259,7 +1307,7 @@
     },
     {
       "start": 5182.29,
-      "end": 5580.66,
+      "end": 5190.69,
       "text": "...that this Saturday is in concert is the last in our series from Glastonbury"
     },
     {

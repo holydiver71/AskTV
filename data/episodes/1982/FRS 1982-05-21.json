@@ -16,7 +16,6 @@
       "track": "Recorded at the NEC",
       "details": null,
       "verified_timestamp": 0
-
     }
   ],
   "transcript": [
@@ -96,6 +95,12 @@
       "text": "ever ever experienced and that was how it sounded within the birmingham international arena now"
     },
     {
+      "start": 125.62,
+      "end": 6811.86,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 192.16,
       "end": 197.64,
       "text": "prince charles and the palace gave permission for the national anthem to be played by the band who"
@@ -107,7 +112,7 @@
     },
     {
       "start": 203.38,
-      "end": 6811.86,
+      "end": 211.18,
       "text": "status closed 20th anniversary concert as it happened last friday at the birmingham"
     },
     {

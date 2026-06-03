@@ -50,13 +50,17 @@
       "artist": "Steve Miller",
       "track": "Macho City",
       "details": "7\" Single; Mercury",
-      "verified_timestamp": 1293.72
+      "verified_timestamp": 1293.72,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "would you like to see"
     },
     {
       "artist": "Jethro Tull",
       "track": "Minstrel In The Gallery",
       "details": "LP-Minstrel in the Gallery; Chrysalis",
-      "verified_timestamp": 1800.0
+      "verified_timestamp": 1800.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "minstrel in the gallery ye"
     },
     {
       "artist": "Jethro Tull",
@@ -73,7 +77,9 @@
       "artist": "Black Sabbath",
       "track": "Turn Up The Night",
       "details": "12\" Single; Vertigo",
-      "verified_timestamp": 2880.0
+      "verified_timestamp": 2880.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "turn up the night it"
     },
     {
       "artist": null,
@@ -113,7 +119,9 @@
       "artist": "Jethro Tull",
       "track": "The Chequered Flag",
       "details": "Dead or Alive; LP-Too Old To Rock'n'Roll: Too Young To Die ; Chrysalis",
-      "verified_timestamp": 5569.96
+      "verified_timestamp": 5569.96,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the taker of the day"
     },
     {
       "artist": "Raven",
@@ -176,8 +184,26 @@
     },
     {
       "start": 66.43,
-      "end": 524.18,
+      "end": 73.63,
       "text": "Just done a couple of nights at the Hammersmith Odeon they have."
+    },
+    {
+      "start": 73.63,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 524.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 524.28,
@@ -253,6 +279,18 @@
       "start": 560.3,
       "end": 563.86,
       "text": "12 minutes after 10, the first of our session by Raven."
+    },
+    {
+      "start": 563.86,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 994.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 938.84,
@@ -506,8 +544,9 @@
     },
     {
       "start": 1330.56,
-      "end": 1378.36,
-      "text": "Head pre-time stuff"
+      "end": 1637.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1378.36,
@@ -546,7 +585,7 @@
     },
     {
       "start": 1405.45,
-      "end": 1637.62,
+      "end": 1411.45,
       "text": "Now, the original version of that is 18 minutes long."
     },
     {
@@ -921,8 +960,14 @@
     },
     {
       "start": 1890.39,
-      "end": 2314.37,
+      "end": 1893.39,
       "text": "A rough shot winging"
+    },
+    {
+      "start": 1893.39,
+      "end": 2335.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2314.37,
@@ -951,8 +996,14 @@
     },
     {
       "start": 2362.47,
-      "end": 2518.78,
+      "end": 2369.67,
       "text": "How the band in the world really ever sounds like Jethro Tull"
+    },
+    {
+      "start": 2369.67,
+      "end": 2518.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2518.78,
@@ -1026,8 +1077,14 @@
     },
     {
       "start": 2587.62,
-      "end": 3064.12,
+      "end": 2599.02,
       "text": "of 11 the friday rock show and now here's more from raven chainsaw just finished it as the new"
+    },
+    {
+      "start": 2880.0,
+      "end": 3064.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3064.12,
@@ -1231,7 +1288,7 @@
     },
     {
       "start": 3180.98,
-      "end": 4108.96,
+      "end": 3185.78,
       "text": "I can't understand the criticism of that album"
     },
     {
@@ -1436,8 +1493,14 @@
     },
     {
       "start": 4195.99,
-      "end": 4971.88,
+      "end": 4201.99,
       "text": "It's a track from the latest album by Aldo Miolo,"
+    },
+    {
+      "start": 4500.0,
+      "end": 4972.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4972.04,
@@ -1481,8 +1544,14 @@
     },
     {
       "start": 5002.86,
-      "end": 5546.9,
+      "end": 5009.46,
       "text": "And this is Raven, Hold Back the Fire, and Wishing Well."
+    },
+    {
+      "start": 5400.0,
+      "end": 5546.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5546.9,
@@ -1531,8 +1600,14 @@
     },
     {
       "start": 5596.3,
-      "end": 6060.42,
+      "end": 5601.1,
       "text": "The taker of the day means to say"
+    },
+    {
+      "start": 5601.1,
+      "end": 6116.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6060.42,
@@ -1578,11 +1653,6 @@
       "start": 6145.02,
       "end": 6152.49,
       "text": "That relies to be"
-    },
-    {
-      "start": 6152.49,
-      "end": 6213.47,
-      "text": "But that composer completes"
     },
     {
       "start": 6214.11,
@@ -1651,8 +1721,20 @@
     },
     {
       "start": 6306.71,
-      "end": 6992.52,
+      "end": 6313.91,
       "text": "...heavy metal that you'll find on the latest album by Sammy Hagar,"
+    },
+    {
+      "start": 6660.0,
+      "end": 6835.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6840.0,
+      "end": 6992.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6992.74,

@@ -125,8 +125,14 @@
     },
     {
       "start": 71.03,
-      "end": 485.77,
+      "end": 82.43,
       "text": "a tasty little classic that came out way back in 1969 that was frank zappa and the thing called"
+    },
+    {
+      "start": 82.43,
+      "end": 485.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 485.77,
@@ -215,8 +221,14 @@
     },
     {
       "start": 555.62,
-      "end": 1108.6,
+      "end": 561.62,
       "text": "He does everything on that track except play the drum."
+    },
+    {
+      "start": 561.62,
+      "end": 1108.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1108.64,
@@ -455,8 +467,14 @@
     },
     {
       "start": 1182.73,
-      "end": 1875.28,
+      "end": 1192.33,
       "text": "jethro tull from their album in through the outdoor great track that's called in the evening"
+    },
+    {
+      "start": 1192.33,
+      "end": 1875.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1875.28,
@@ -550,7 +568,7 @@
     },
     {
       "start": 1939.74,
-      "end": 2413.78,
+      "end": 1944.54,
       "text": "Or from Tank. A whole multitude of instruments"
     },
     {
@@ -715,7 +733,7 @@
     },
     {
       "start": 2491.92,
-      "end": 2989.1,
+      "end": 2496.72,
       "text": "Make you a bit jealous here, I think."
     },
     {
@@ -800,7 +818,7 @@
     },
     {
       "start": 3071.56,
-      "end": 3309.1,
+      "end": 3074.56,
       "text": "The Artillery."
     },
     {
@@ -845,7 +863,7 @@
     },
     {
       "start": 3344.99,
-      "end": 3935.11,
+      "end": 3349.79,
       "text": "Put together by Marions of Powers and Wales."
     },
     {
@@ -995,7 +1013,7 @@
     },
     {
       "start": 4000.34,
-      "end": 4548.72,
+      "end": 4005.14,
       "text": "The latest album by the Scorpions called Blackout."
     },
     {
@@ -1202,6 +1220,12 @@
       "start": 4659.46,
       "end": 4662.66,
       "text": "And this is how they were on stage at Donington last year."
+    },
+    {
+      "start": 4662.66,
+      "end": 6997.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6997.36,

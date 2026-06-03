@@ -39,7 +39,9 @@
     {
       "artist": "Budgie",
       "track": "She Used Me Up",
-      "details": "Session"
+      "details": "Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "she used me up and"
     },
     {
       "artist": "The Who",
@@ -78,7 +80,9 @@
       "artist": "Asia",
       "track": "Only Time Will tell",
       "details": "LP-Asia; Geffen",
-      "verified_timestamp": 2880.0
+      "verified_timestamp": 2880.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "to find that you d"
     },
     {
       "artist": null,
@@ -105,7 +109,9 @@
     {
       "artist": "The Who",
       "track": "Man With Money",
-      "details": "Session b"
+      "details": "Session b",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "a man with money a"
     },
     {
       "artist": "The Who",
@@ -116,7 +122,9 @@
     {
       "artist": "The Who",
       "track": "Dancing In The Street",
-      "details": "Session b"
+      "details": "Session b",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "dancing in the street oh"
     },
     {
       "artist": "Motorhead",
@@ -133,7 +141,9 @@
       "artist": "Van Morrison",
       "track": "Dweller On The Threshold",
       "details": "7”; Mercury",
-      "verified_timestamp": 5040.0
+      "verified_timestamp": 5040.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "let me go down to"
     },
     {
       "artist": "Budgie",
@@ -196,8 +206,14 @@
     },
     {
       "start": 78.44,
-      "end": 617.49,
+      "end": 89.84,
       "text": "but this evening we start with this was the new single by the scorpions it's also a track of"
+    },
+    {
+      "start": 89.84,
+      "end": 617.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 617.49,
@@ -326,8 +342,14 @@
     },
     {
       "start": 699.59,
-      "end": 1128.43,
+      "end": 707.99,
       "text": "As they were in our studios on the 27th year of the 11th, 1981,"
+    },
+    {
+      "start": 707.99,
+      "end": 1128.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1128.59,
@@ -461,7 +483,7 @@
     },
     {
       "start": 1183.39,
-      "end": 1631.7,
+      "end": 1186.39,
       "text": "Numbers out of the archives"
     },
     {
@@ -666,7 +688,7 @@
     },
     {
       "start": 1757.86,
-      "end": 2553.56,
+      "end": 1762.06,
       "text": "Well, I reckon it's a difficult one."
     },
     {
@@ -780,6 +802,12 @@
       "text": "from the debut album that's shortly coming out by Asia."
     },
     {
+      "start": 2700.0,
+      "end": 2862.27,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2862.27,
       "end": 2863.65,
       "text": "And that's a track called Heat of the Moment."
@@ -788,11 +816,6 @@
       "start": 2863.79,
       "end": 2866.77,
       "text": "It's a track from the debut album by the band called Asia."
-    },
-    {
-      "start": 2866.77,
-      "end": 2908.07,
-      "text": "But no disguising it"
     },
     {
       "start": 2908.07,
@@ -821,8 +844,20 @@
     },
     {
       "start": 2955.86,
-      "end": 3425.3,
+      "end": 2960.06,
       "text": "That's Asia, and only time will tell."
+    },
+    {
+      "start": 2960.06,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3425.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3425.3,
@@ -916,8 +951,14 @@
     },
     {
       "start": 3466.24,
-      "end": 3794.97,
+      "end": 3472.84,
       "text": "That's one of the great perks of being in this game"
+    },
+    {
+      "start": 3600.0,
+      "end": 3794.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3794.97,
@@ -1041,13 +1082,19 @@
     },
     {
       "start": 3853.13,
-      "end": 4057.04,
+      "end": 3857.93,
       "text": "She wants my shoes, so I'm all white."
     },
     {
       "start": 4057.32,
-      "end": 4220.48,
+      "end": 4061.52,
       "text": "Hearing right now a distinctive Who-type treatment"
+    },
+    {
+      "start": 4140.0,
+      "end": 4367.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4220.48,
@@ -1316,8 +1363,14 @@
     },
     {
       "start": 4498.06,
-      "end": 4838.95,
+      "end": 4501.06,
       "text": "New single by Girls' School."
+    },
+    {
+      "start": 4500.0,
+      "end": 4839.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4839.15,
@@ -1406,8 +1459,20 @@
     },
     {
       "start": 4991.3,
-      "end": 5506.68,
+      "end": 4994.3,
       "text": "Good Session, that was."
+    },
+    {
+      "start": 5040.0,
+      "end": 5215.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5220.0,
+      "end": 5506.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5506.76,

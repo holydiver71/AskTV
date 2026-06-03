@@ -106,6 +106,12 @@
   ],
   "transcript": [
     {
+      "start": 540.0,
+      "end": 618.75,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 608.75,
       "end": 618.75,
       "text": "Now that's a track from the brand new Black Sabbath album. It's also out as a single. It's called The Mob Rules and before that you heard that very strange sort of spacey thing which has the title E5150."
@@ -217,8 +223,20 @@
     },
     {
       "start": 689.82,
-      "end": 1260.86,
+      "end": 695.22,
       "text": "It's a piece of music that first came out"
+    },
+    {
+      "start": 695.22,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1260.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1260.86,
@@ -374,6 +392,12 @@
       "start": 1348.34,
       "end": 1350.98,
       "text": "Happy birthday, Keith. Don't say hello to the missus."
+    },
+    {
+      "start": 1440.0,
+      "end": 2043.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2042.13,
@@ -532,8 +556,14 @@
     },
     {
       "start": 2131.51,
-      "end": 2637.72,
+      "end": 2137.51,
       "text": "Now that's a band by the name of Grim Reaper"
+    },
+    {
+      "start": 2137.51,
+      "end": 2637.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2637.72,
@@ -662,7 +692,7 @@
     },
     {
       "start": 2713.84,
-      "end": 3198.99,
+      "end": 2718.04,
       "text": "Good little single. It's out on Mercury."
     },
     {
@@ -832,8 +862,14 @@
     },
     {
       "start": 3298.1,
-      "end": 4468.74,
+      "end": 3305.9,
       "text": "19 minutes after 11 o'clock, that's the Friday Night Connection for the night."
+    },
+    {
+      "start": 3305.9,
+      "end": 4468.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4468.74,
@@ -997,7 +1033,7 @@
     },
     {
       "start": 4608.97,
-      "end": 5098.04,
+      "end": 4616.17,
       "text": "As on the front of the album, the free bird flies on."
     },
     {
@@ -1241,6 +1277,12 @@
       "text": "Okay, here's Gillan live at Reading."
     },
     {
+      "start": 5237.11,
+      "end": 5665.64,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5665.64,
       "end": 5669.7,
       "text": "There's a song called, I've been trying to get the, announce this properly."
@@ -1252,7 +1294,7 @@
     },
     {
       "start": 5675.82,
-      "end": 6658.36,
+      "end": 5686.02,
       "text": "Well, I've got to tell you, it brings back some very nice memories to me, hearing that."
     },
     {

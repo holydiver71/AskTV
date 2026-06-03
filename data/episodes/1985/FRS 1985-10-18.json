@@ -121,6 +121,12 @@
   ],
   "transcript": [
     {
+      "start": 0.0,
+      "end": 488.68,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 493.68,
       "end": 508.68,
       "text": "It's a track from a really good album by a band I've been about for quite some time. I think they've got about three of their albums. They're called Vandenberg. It's out on the Atco record label in the UK. They're from Holland, though the album was actually recorded in Belgium. The album's called Alibi. The track was called Pedal to the Metal."
@@ -132,8 +138,14 @@
     },
     {
       "start": 519.45,
-      "end": 1038.32,
+      "end": 525.45,
       "text": "That's an interesting track that comes out of the States."
+    },
+    {
+      "start": 525.45,
+      "end": 1038.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1038.4,
@@ -189,6 +201,12 @@
       "start": 1073.47,
       "end": 1075.53,
       "text": "They're our session band tonight. Their track was Breaking Out."
+    },
+    {
+      "start": 1080.0,
+      "end": 1291.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1291.45,
@@ -267,8 +285,20 @@
     },
     {
       "start": 1699.49,
-      "end": 2128.77,
+      "end": 1709.69,
       "text": "A track there from the double album called Live After Death, it was of course Iron Maiden"
+    },
+    {
+      "start": 1709.69,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2379.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2128.77,
@@ -277,7 +307,7 @@
     },
     {
       "start": 2130.87,
-      "end": 2381.36,
+      "end": 2140.47,
       "text": "The album has just come out on the Elektra record label, it's by Joe Lynn Turner"
     },
     {
@@ -297,13 +327,31 @@
     },
     {
       "start": 2395.4,
-      "end": 3189.8,
+      "end": 2406.8,
       "text": "do if your bird ships on you the rhyme was the rhyme of the ancient maria mariner rather 13"
     },
     {
+      "start": 2406.8,
+      "end": 2515.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2520.0,
+      "end": 3184.8,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3189.8,
-      "end": 3458.9,
+      "end": 3201.8,
       "text": "minutes and a few seconds for your life used to be called clive burr's escape but now they uh call"
+    },
+    {
+      "start": 3201.8,
+      "end": 3458.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3458.9,
@@ -317,8 +365,14 @@
     },
     {
       "start": 3466.52,
-      "end": 3893.35,
+      "end": 3473.12,
       "text": "One of the tracks you'll find on the double live album,"
+    },
+    {
+      "start": 3600.0,
+      "end": 3893.67,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3893.67,
@@ -517,8 +571,20 @@
     },
     {
       "start": 4086.92,
-      "end": 4630.92,
+      "end": 4089.92,
       "text": "it's 12 minutes to midnight"
+    },
+    {
+      "start": 4140.0,
+      "end": 4495.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4500.0,
+      "end": 4630.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4630.92,
@@ -567,7 +633,7 @@
     },
     {
       "start": 4647.76,
-      "end": 5088.71,
+      "end": 4657.36,
       "text": "streets on fire another good band our session man tonight excellent prior to that alaska with"
     },
     {

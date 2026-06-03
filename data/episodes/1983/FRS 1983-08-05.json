@@ -32,7 +32,9 @@
       "artist": "Eloy",
       "track": "On The Verge Of Darkening Lights",
       "details": "session",
-      "verified_timestamp": 693.8
+      "verified_timestamp": 693.8,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "on the verge of darkening"
     },
     {
       "artist": "Thin Lizzy",
@@ -176,8 +178,14 @@
     },
     {
       "start": 72.87,
-      "end": 675.66,
+      "end": 76.47,
       "text": "That, of course, is Iron Maiden,"
+    },
+    {
+      "start": 76.47,
+      "end": 675.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 675.78,
@@ -326,8 +334,14 @@
     },
     {
       "start": 773.94,
-      "end": 1410.7,
+      "end": 781.14,
       "text": "That is the extended version of the new single by Thin Lizzy"
+    },
+    {
+      "start": 781.14,
+      "end": 1410.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1410.7,
@@ -426,7 +440,7 @@
     },
     {
       "start": 1465.8,
-      "end": 1941.96,
+      "end": 1476.6,
       "text": "I can just see it now, my mate Simon Bates, who works every morning here on Video One,"
     },
     {
@@ -776,8 +790,14 @@
     },
     {
       "start": 2068.82,
-      "end": 2359.36,
+      "end": 2074.22,
       "text": "What I got now, she drove my spirit away."
+    },
+    {
+      "start": 2074.22,
+      "end": 2359.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2359.94,
@@ -786,7 +806,7 @@
     },
     {
       "start": 2363.27,
-      "end": 2712.51,
+      "end": 2369.27,
       "text": "Not to see me right, not to see me right."
     },
     {
@@ -846,7 +866,7 @@
     },
     {
       "start": 2828.21,
-      "end": 3373.14,
+      "end": 2835.41,
       "text": "...acted in the United States of America, biggest-selling British act, that is."
     },
     {
@@ -1021,7 +1041,7 @@
     },
     {
       "start": 3464.42,
-      "end": 3947.43,
+      "end": 3468.62,
       "text": "Recorded in the mid-60s, then got together"
     },
     {
@@ -1186,7 +1206,7 @@
     },
     {
       "start": 4060.41,
-      "end": 4881.88,
+      "end": 4065.81,
       "text": "House full of buy time to do some thinking"
     },
     {
@@ -1251,7 +1271,7 @@
     },
     {
       "start": 5087.42,
-      "end": 5703.89,
+      "end": 5099.42,
       "text": "or letter as well ta chunky little band by the name of battle axe from their album which is called"
     },
     {
@@ -1281,12 +1301,12 @@
     },
     {
       "start": 5718.85,
-      "end": 5839.36,
+      "end": 5724.85,
       "text": "If you should run from me, how do I know?"
     },
     {
       "start": 5839.68,
-      "end": 6234.74,
+      "end": 5846.28,
       "text": "Beautiful archive stuff recorded by Rory Gallagher, 19th of June, 1974."
     },
     {
@@ -1311,8 +1331,14 @@
     },
     {
       "start": 6244.54,
-      "end": 7025.18,
+      "end": 6249.34,
       "text": "Excellent track from the latest album by Loverboy."
+    },
+    {
+      "start": 6249.34,
+      "end": 7025.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7025.18,

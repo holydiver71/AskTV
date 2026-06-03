@@ -45,7 +45,9 @@
       "artist": "Roger Taylor",
       "track": "Magic Is Loose",
       "details": "LP-Roger Taylor's Fun In Space; EMI",
-      "verified_timestamp": 1032.86
+      "verified_timestamp": 1032.86,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "but the calendar s wrong"
     },
     {
       "artist": "Roger Taylor",
@@ -123,7 +125,9 @@
     {
       "artist": "Robin Trower",
       "track": "Little Bit Of Sympathy",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "a little bit of sympathy"
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -202,8 +206,26 @@
     },
     {
       "start": 78.25,
-      "end": 445.18,
+      "end": 84.25,
       "text": "And that's a track that's just out by Girl School."
+    },
+    {
+      "start": 84.25,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 450.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 445.18,
@@ -272,8 +294,14 @@
     },
     {
       "start": 488.38,
-      "end": 975.08,
+      "end": 496.78,
       "text": "Man that still keeps alive the guitar technique of the late Mr. Jimi Hendrix."
+    },
+    {
+      "start": 496.78,
+      "end": 975.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 975.18,
@@ -432,8 +460,14 @@
     },
     {
       "start": 1055.79,
-      "end": 1619.26,
+      "end": 1060.59,
       "text": "A great mix there is on that track,"
+    },
+    {
+      "start": 1060.59,
+      "end": 1619.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1619.5,
@@ -552,8 +586,14 @@
     },
     {
       "start": 1686.9,
-      "end": 2196.98,
+      "end": 1697.1,
       "text": "memories of that particular album being recorded we went up one sunday to have lunch with them"
+    },
+    {
+      "start": 1697.1,
+      "end": 2196.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2196.98,
@@ -632,8 +672,20 @@
     },
     {
       "start": 2261.08,
-      "end": 2818.22,
+      "end": 2267.68,
       "text": "In a strange way I think that band are totally underrated"
+    },
+    {
+      "start": 2267.68,
+      "end": 2335.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2340.0,
+      "end": 2818.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2818.22,
@@ -717,7 +769,7 @@
     },
     {
       "start": 2874.45,
-      "end": 3451.45,
+      "end": 2885.85,
       "text": "here's crier a bunch of guys who are totally in control from their album ghost riders in the sky"
     },
     {
@@ -872,7 +924,7 @@
     },
     {
       "start": 3574.7,
-      "end": 4301.97,
+      "end": 3580.7,
       "text": "Friday Night Connection, which was put together by Ian Ledbetter,"
     },
     {
@@ -967,8 +1019,14 @@
     },
     {
       "start": 4368.92,
-      "end": 4933.42,
+      "end": 4372.52,
       "text": "Tracks from the forthcoming Gillan album."
+    },
+    {
+      "start": 4500.0,
+      "end": 4930.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4933.58,
@@ -1162,8 +1220,14 @@
     },
     {
       "start": 5054.55,
-      "end": 5541.91,
+      "end": 5061.15,
       "text": "That's Cryer and Footsteps Through Time from our session by them."
+    },
+    {
+      "start": 5061.15,
+      "end": 5543.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5542.35,
@@ -1207,8 +1271,14 @@
     },
     {
       "start": 5571.35,
-      "end": 6104.5,
+      "end": 5580.95,
       "text": "More feel than a billion, billion nerve ends. I love watching that guy when he plays."
+    },
+    {
+      "start": 5580.95,
+      "end": 6104.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6104.76,
@@ -1277,8 +1347,14 @@
     },
     {
       "start": 6141.8,
-      "end": 6650.35,
+      "end": 6145.4,
       "text": "Really blossomed and got themselves together"
+    },
+    {
+      "start": 6300.0,
+      "end": 6651.87,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6650.35,
@@ -1367,8 +1443,14 @@
     },
     {
       "start": 6688.9,
-      "end": 7142.2,
+      "end": 6696.7,
       "text": "Angled by Trevor Rabin, you'll also find it on his album called Wolf."
+    },
+    {
+      "start": 6696.7,
+      "end": 7137.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7142.4,

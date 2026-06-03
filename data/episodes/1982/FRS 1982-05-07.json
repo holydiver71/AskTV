@@ -22,7 +22,9 @@
       "artist": "Saxon",
       "track": "747",
       "details": "Strangers In The Night; LP-The Eagle Has Landed; Carrere",
-      "verified_timestamp": 623.04
+      "verified_timestamp": 623.04,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "747 strangers in the night"
     },
     {
       "artist": "Saxon",
@@ -84,7 +86,9 @@
     {
       "artist": "Gillan",
       "track": "Born To Kill",
-      "details": "Session"
+      "details": "Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "again until you ve got"
     },
     {
       "artist": "Brand X",
@@ -101,7 +105,9 @@
       "artist": "Iron Maiden",
       "track": "Number Of The Beast",
       "details": "7\"; EMI",
-      "verified_timestamp": 6300.0
+      "verified_timestamp": 6300.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the number of the beast"
     },
     {
       "artist": "Lord Sutch",
@@ -147,8 +153,20 @@
     },
     {
       "start": 69.94,
-      "end": 616.7,
+      "end": 81.34,
       "text": "we start with this from a brand new album that's just come out on the career record label it's"
+    },
+    {
+      "start": 81.34,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 618.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 616.7,
@@ -262,8 +280,14 @@
     },
     {
       "start": 676.24,
-      "end": 1272.56,
+      "end": 679.84,
       "text": "They toured with Gillan during 1981."
+    },
+    {
+      "start": 679.84,
+      "end": 1272.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1272.76,
@@ -406,6 +430,12 @@
       "text": "And also hello to Marilyn and Phil."
     },
     {
+      "start": 1343.46,
+      "end": 1347.41,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1348.67,
       "end": 1352.09,
       "text": "We're together in the BBC studios in February of 1976."
@@ -414,6 +444,12 @@
       "start": 1352.41,
       "end": 1353.15,
       "text": "Brand X."
+    },
+    {
+      "start": 1353.15,
+      "end": 2112.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2112.79,
@@ -567,8 +603,14 @@
     },
     {
       "start": 2191.02,
-      "end": 2743.65,
+      "end": 2202.42,
       "text": "that's a track from a compilation album which has just come out on the ebony record label which is"
+    },
+    {
+      "start": 2340.0,
+      "end": 2743.65,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2743.65,
@@ -662,7 +704,7 @@
     },
     {
       "start": 2805.71,
-      "end": 3430.83,
+      "end": 2808.71,
       "text": "Ancient Mysteries."
     },
     {
@@ -792,7 +834,7 @@
     },
     {
       "start": 3498.73,
-      "end": 4761.07,
+      "end": 3502.33,
       "text": "The Friday Night Connection for tonight,"
     },
     {
@@ -917,7 +959,7 @@
     },
     {
       "start": 4985.94,
-      "end": 6043.78,
+      "end": 4991.34,
       "text": "Recorded way back on the 26th of February, 1976."
     },
     {
@@ -967,8 +1009,14 @@
     },
     {
       "start": 6072.0,
-      "end": 6544.7,
+      "end": 6078.0,
       "text": "That's the new single, which is out by Iron Maiden"
+    },
+    {
+      "start": 6300.0,
+      "end": 6544.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6544.7,

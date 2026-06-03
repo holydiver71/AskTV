@@ -91,7 +91,9 @@
       "artist": "Van Stephenson",
       "track": "‘You’ve Been Lied To Before’",
       "details": "LP - Righteous Anger",
-      "verified_timestamp": 4489.44
+      "verified_timestamp": 4489.44,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you ve been lied to"
     },
     {
       "artist": "Brocas Helm",
@@ -103,19 +105,25 @@
       "artist": "Alcatrazz",
       "track": "‘Island In The Sun’",
       "details": "LP - Live Sentence",
-      "verified_timestamp": 4508.99
+      "verified_timestamp": 4508.99,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "an island in the sun"
     },
     {
       "artist": "Warlord",
       "track": "‘Lost And Lonely Days’",
       "details": "12” single",
-      "verified_timestamp": 4991.85
+      "verified_timestamp": 4991.85,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "tell her that i love"
     },
     {
       "artist": "Billy Satellite",
       "track": "‘Last Call’",
       "details": "LP - Billy Satellite",
-      "verified_timestamp": 5577.13
+      "verified_timestamp": 5577.13,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "now i don t know"
     },
     {
       "artist": "St Vitus",
@@ -149,7 +157,9 @@
       "artist": "Lizzy Borden",
       "track": "‘No Time To Lose’",
       "details": "LP - Give ‘Em The Axe",
-      "verified_timestamp": 6584.31
+      "verified_timestamp": 6584.31,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "no time to lose i"
     },
     {
       "artist": "Legs Diamond",
@@ -205,8 +215,14 @@
     },
     {
       "start": 70.18,
-      "end": 544.71,
+      "end": 80.98,
       "text": "they were the scorpions from the album called tokyo tapes that came out in 1978 the track was"
+    },
+    {
+      "start": 80.98,
+      "end": 539.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 544.71,
@@ -305,8 +321,14 @@
     },
     {
       "start": 626.78,
-      "end": 1370.97,
+      "end": 637.58,
       "text": "thank you very much they are called x it's a 12-inch that's just been released in this country"
+    },
+    {
+      "start": 637.58,
+      "end": 1365.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1370.97,
@@ -405,8 +427,14 @@
     },
     {
       "start": 1415.99,
-      "end": 1846.26,
+      "end": 1420.19,
       "text": "The track was called Badlands, 53rd State."
+    },
+    {
+      "start": 1420.19,
+      "end": 1845.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1847.4,
@@ -509,6 +537,12 @@
       "text": "This is a fella who's in Level 42."
     },
     {
+      "start": 1914.48,
+      "end": 2279.68,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2279.68,
       "end": 2282.76,
       "text": "Australian band by the name of Heaven who record in the United States of America."
@@ -585,8 +619,14 @@
     },
     {
       "start": 2317.44,
-      "end": 2663.52,
+      "end": 2322.24,
       "text": "Piece of music from our session by Badlands."
+    },
+    {
+      "start": 2322.24,
+      "end": 2664.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2664.7,
@@ -775,7 +815,7 @@
     },
     {
       "start": 2760.46,
-      "end": 3413.57,
+      "end": 2764.66,
       "text": "and that was the Friday Night Connection"
     },
     {
@@ -925,8 +965,14 @@
     },
     {
       "start": 3525.82,
-      "end": 4023.18,
+      "end": 3535.42,
       "text": "All the records you're hearing at the moment are only available in this country on import."
+    },
+    {
+      "start": 3535.42,
+      "end": 4023.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4023.56,
@@ -1010,8 +1056,14 @@
     },
     {
       "start": 4063.76,
-      "end": 4472.62,
+      "end": 4071.56,
       "text": "They're a tight band that we believe come from San Francisco in California."
+    },
+    {
+      "start": 4071.56,
+      "end": 4472.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4472.82,
@@ -1075,8 +1127,14 @@
     },
     {
       "start": 4511.63,
-      "end": 4985.51,
+      "end": 4520.63,
       "text": "It's 11.26, the Friday Rock Show, BBC Radio 1, playing American metal at the moment."
+    },
+    {
+      "start": 4520.63,
+      "end": 4986.85,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4985.69,
@@ -1215,8 +1273,14 @@
     },
     {
       "start": 5056.69,
-      "end": 5556.41,
+      "end": 5068.69,
       "text": "it's by a band from the states as indeed are all the bands you're listening to at the moment that"
+    },
+    {
+      "start": 5068.69,
+      "end": 5556.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5556.41,
@@ -1290,8 +1354,14 @@
     },
     {
       "start": 5586.31,
-      "end": 6119.81,
+      "end": 5597.71,
       "text": "driver that is out on the american triple platinum record label the name of the band are max havoc"
+    },
+    {
+      "start": 5597.71,
+      "end": 6119.81,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6119.81,
@@ -1377,6 +1447,12 @@
       "start": 6179.79,
       "end": 6181.25,
       "text": "Kick Axe."
+    },
+    {
+      "start": 6181.25,
+      "end": 6576.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6576.69,
@@ -1490,8 +1566,14 @@
     },
     {
       "start": 6620.41,
-      "end": 6827.09,
+      "end": 6630.01,
       "text": "legs diamond that's on the target record label available in the united states of america and"
+    },
+    {
+      "start": 6630.01,
+      "end": 6827.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6827.09,

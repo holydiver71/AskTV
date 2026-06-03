@@ -163,8 +163,14 @@
     },
     {
       "start": 74.5,
-      "end": 524.13,
+      "end": 83.5,
       "text": "Here's Saxon from their live album, The Eagle Has Landed, 747's Strangers in the Night."
+    },
+    {
+      "start": 83.5,
+      "end": 524.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 524.13,
@@ -368,7 +374,7 @@
     },
     {
       "start": 638.64,
-      "end": 1087.6,
+      "end": 646.44,
       "text": "The Tigers of Pantang, a track there from their album called The Cage."
     },
     {
@@ -528,8 +534,14 @@
     },
     {
       "start": 1173.99,
-      "end": 1783.83,
+      "end": 1183.59,
       "text": "According to way back in 1970, that was the band by the name of Curved Air."
+    },
+    {
+      "start": 1183.59,
+      "end": 1784.03,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1784.03,
@@ -633,7 +645,7 @@
     },
     {
       "start": 1892.92,
-      "end": 2266.55,
+      "end": 1898.32,
       "text": "That's a single that's out on the Neat label,"
     },
     {
@@ -748,7 +760,7 @@
     },
     {
       "start": 2326.22,
-      "end": 2827.12,
+      "end": 2329.22,
       "text": "Great single."
     },
     {
@@ -1018,12 +1030,12 @@
     },
     {
       "start": 3403.91,
-      "end": 4191.41,
+      "end": 3415.31,
       "text": "The city's race, look around for someone, like a cancer growth, it's removed by skin, let it be revealed."
     },
     {
       "start": 4191.41,
-      "end": 4617.16,
+      "end": 4198.61,
       "text": "The Friday Night Connection reflects the really good taste of Liz Wall"
     },
     {
@@ -1098,7 +1110,7 @@
     },
     {
       "start": 4688.53,
-      "end": 5251.23,
+      "end": 4699.93,
       "text": "...album which is in the charts at the moment and really is a beautiful album by Barclay James Harvest."
     },
     {
@@ -1248,7 +1260,7 @@
     },
     {
       "start": 5327.9,
-      "end": 5973.92,
+      "end": 5330.9,
       "text": "what a version that is"
     },
     {
@@ -1313,7 +1325,7 @@
     },
     {
       "start": 6003.02,
-      "end": 6745.32,
+      "end": 6009.02,
       "text": "Back to the archives and Curved Air, back in 70."
     },
     {
@@ -1403,7 +1415,7 @@
     },
     {
       "start": 6779.86,
-      "end": 6997.48,
+      "end": 6785.86,
       "text": "For the first ever time on the radio in session,"
     },
     {

@@ -39,7 +39,9 @@
       "artist": "Hawkwind",
       "track": "Ejection",
       "details": "Compilation LP-Hawkfan 12; Hawkfan",
-      "verified_timestamp": 1236.14
+      "verified_timestamp": 1236.14,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i think it s a"
     },
     {
       "artist": "Girlschool",
@@ -199,6 +201,18 @@
       "start": 62.7,
       "end": 67.64,
       "text": "All in all, if you want some really good rock from both sides of the curtain, stay tuned. It's here."
+    },
+    {
+      "start": 67.64,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 715.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 715.06,
@@ -471,6 +485,12 @@
       "text": "Hi, this is Dixie Peach with the Midnight Runner."
     },
     {
+      "start": 829.48,
+      "end": 829.89,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 830.87,
       "end": 834.57,
       "text": "Yes, on Saturday night, Radio 1 from 9.30 to midnight,"
@@ -586,9 +606,21 @@
       "text": "We have liftoff, we have music, we have Hawkwind."
     },
     {
+      "start": 889.64,
+      "end": 898.85,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 903.85,
-      "end": 1230.9,
+      "end": 912.25,
       "text": "The first of four by Girl School from our session by Girl School tonight."
+    },
+    {
+      "start": 912.25,
+      "end": 1231.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1231.02,
@@ -722,8 +754,20 @@
     },
     {
       "start": 1285.02,
-      "end": 1677.9,
+      "end": 1292.22,
       "text": "...and the Ace of Spades for a fellow by the name of..."
+    },
+    {
+      "start": 1292.22,
+      "end": 1615.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1620.0,
+      "end": 1712.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1677.9,
@@ -912,7 +956,7 @@
     },
     {
       "start": 1779.4,
-      "end": 2328.85,
+      "end": 1784.2,
       "text": "The film there is called Where Legend Began."
     },
     {
@@ -1102,8 +1146,14 @@
     },
     {
       "start": 2434.59,
-      "end": 2834.64,
+      "end": 2444.79,
       "text": "take number two from our session by girl school excellent session the track that was called all"
+    },
+    {
+      "start": 2444.79,
+      "end": 2834.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2834.64,
@@ -1117,7 +1167,7 @@
     },
     {
       "start": 2843.78,
-      "end": 3539.45,
+      "end": 2853.98,
       "text": "called running wild something now from gary moore from corridors of power reckon second on the bill"
     },
     {
@@ -1182,8 +1232,20 @@
     },
     {
       "start": 3571.25,
-      "end": 3984.59,
+      "end": 3574.85,
       "text": "The latest album by Metal Church"
+    },
+    {
+      "start": 3574.85,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 3984.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3984.59,
@@ -1337,7 +1399,7 @@
     },
     {
       "start": 4073.96,
-      "end": 5244.63,
+      "end": 4092.56,
       "text": "It's 27 minutes to midnight, that was Lie Back and Enjoy It, and it was put together by a fellow who's on the phone at the moment, Andy Page of Swansea."
     },
     {
@@ -1687,8 +1749,14 @@
     },
     {
       "start": 5390.12,
-      "end": 5775.15,
+      "end": 5393.12,
       "text": "It's called Crimson Umbrella."
+    },
+    {
+      "start": 5393.12,
+      "end": 5775.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5775.33,
@@ -1882,7 +1950,7 @@
     },
     {
       "start": 5886.85,
-      "end": 6293.4,
+      "end": 5891.65,
       "text": "Billy Squire, a track from his new album."
     },
     {
@@ -1917,8 +1985,14 @@
     },
     {
       "start": 6306.53,
-      "end": 6714.75,
+      "end": 6317.33,
       "text": "promised the album is called 915 live it is by pendragon leviathan was the track that he heard"
+    },
+    {
+      "start": 6317.33,
+      "end": 6767.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6714.75,

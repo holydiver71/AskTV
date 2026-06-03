@@ -168,8 +168,26 @@
     },
     {
       "start": 50.94,
-      "end": 495.76,
+      "end": 53.94,
       "text": "plan in. That was Wasp."
+    },
+    {
+      "start": 53.94,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 495.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 495.84,
@@ -323,8 +341,14 @@
     },
     {
       "start": 579.91,
-      "end": 1189.87,
+      "end": 582.91,
       "text": "They were Saxon"
+    },
+    {
+      "start": 582.91,
+      "end": 1189.87,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1189.87,
@@ -398,8 +422,14 @@
     },
     {
       "start": 1276.77,
-      "end": 2221.73,
+      "end": 1279.77,
       "text": "version of Assassin."
+    },
+    {
+      "start": 1279.77,
+      "end": 2221.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2221.75,
@@ -453,7 +483,7 @@
     },
     {
       "start": 2248.34,
-      "end": 2758.38,
+      "end": 2251.34,
       "text": "Very impressive band they are."
     },
     {
@@ -578,8 +608,14 @@
     },
     {
       "start": 2823.02,
-      "end": 3509.08,
+      "end": 2827.22,
       "text": "Deep Purple from their album Perfect Strangers."
+    },
+    {
+      "start": 2827.22,
+      "end": 3504.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3509.32,

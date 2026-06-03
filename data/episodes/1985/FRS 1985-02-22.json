@@ -115,7 +115,9 @@
       "artist": "Slade",
       "track": "Hey Ho Wish You Well",
       "details": "LP-Rogues Gallery; RCA",
-      "verified_timestamp": 3600.0
+      "verified_timestamp": 3600.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "wish you well hey ho"
     },
     {
       "artist": "Emerson Lake & Palmer",
@@ -147,6 +149,12 @@
     }
   ],
   "transcript": [
+    {
+      "start": 360.0,
+      "end": 469.53,
+      "text": "[Music]",
+      "type": "music"
+    },
     {
       "start": 468.18,
       "end": 474.53,
@@ -269,8 +277,14 @@
     },
     {
       "start": 542.6,
-      "end": 1053.22,
+      "end": 547.4,
       "text": "Four guys from Switzerland, two guys from England."
+    },
+    {
+      "start": 547.4,
+      "end": 1053.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1053.4,
@@ -344,8 +358,20 @@
     },
     {
       "start": 1091.09,
-      "end": 1589.56,
+      "end": 1094.09,
       "text": "It's an excellent album"
+    },
+    {
+      "start": 1094.09,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1589.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1589.56,
@@ -409,7 +435,7 @@
     },
     {
       "start": 1624.26,
-      "end": 2110.26,
+      "end": 1629.66,
       "text": "From his album called Dangerous Music, that's Robin George,"
     },
     {
@@ -429,8 +455,26 @@
     },
     {
       "start": 2120.6,
-      "end": 3055.81,
+      "end": 2132.6,
       "text": "the track is called i'm gonna make your mind tnt from a new album called nights of the new thunder"
+    },
+    {
+      "start": 2132.6,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2875.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2880.0,
+      "end": 3050.81,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3055.81,
@@ -469,8 +513,14 @@
     },
     {
       "start": 3108.32,
-      "end": 3544.8,
+      "end": 3117.92,
       "text": "snowblind no blind and that track is actually on their album though not that version because"
+    },
+    {
+      "start": 3117.92,
+      "end": 3544.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3544.8,
@@ -559,8 +609,20 @@
     },
     {
       "start": 3589.3,
-      "end": 4211.36,
+      "end": 3601.3,
       "text": "to come home so now you know here's slade horses and ladies in saturn video mix on that came out"
+    },
+    {
+      "start": 3600.0,
+      "end": 3955.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3960.0,
+      "end": 4211.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4211.36,
@@ -594,7 +656,7 @@
     },
     {
       "start": 4243.02,
-      "end": 4710.78,
+      "end": 4253.82,
       "text": "metal america in the uk the album's called white sister from their session by our session by them"
     },
     {
@@ -709,8 +771,14 @@
     },
     {
       "start": 4789.04,
-      "end": 5221.24,
+      "end": 4795.64,
       "text": "as they were back in 1977 from the album Killing Machine."
+    },
+    {
+      "start": 4860.0,
+      "end": 5216.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5221.86,

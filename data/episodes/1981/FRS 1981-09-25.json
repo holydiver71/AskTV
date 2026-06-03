@@ -15,7 +15,6 @@
       "track": "Saturday, August 29, 1981",
       "details": null,
       "verified_timestamp": 0
-
     },
     {
       "artist": "Trust",
@@ -66,8 +65,14 @@
     },
     {
       "start": 65.59,
-      "end": 1449.52,
+      "end": 72.79,
       "text": "Bruce Bruce on the vocals, Paul Samson on guitar and backing vocals"
+    },
+    {
+      "start": 72.79,
+      "end": 1449.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1449.52,
@@ -126,7 +131,7 @@
     },
     {
       "start": 1480.62,
-      "end": 3629.04,
+      "end": 1486.02,
       "text": "A band from France by the name of Trust."
     },
     {
@@ -186,7 +191,7 @@
     },
     {
       "start": 3652.18,
-      "end": 3922.16,
+      "end": 3655.18,
       "text": "Mrs. Redding."
     },
     {
@@ -216,7 +221,7 @@
     },
     {
       "start": 3942.16,
-      "end": 4362.26,
+      "end": 3948.16,
       "text": "Now we're going to try something from an older album."
     },
     {
@@ -231,7 +236,7 @@
     },
     {
       "start": 4372.02,
-      "end": 4774.59,
+      "end": 4375.02,
       "text": "by myself and Nick"
     },
     {
@@ -276,7 +281,7 @@
     },
     {
       "start": 4792.36,
-      "end": 5719.18,
+      "end": 4795.36,
       "text": "this is Chainsaw Massacre"
     },
     {
@@ -296,7 +301,7 @@
     },
     {
       "start": 5729.37,
-      "end": 6018.18,
+      "end": 5732.37,
       "text": "this one's from Acolyte again"
     },
     {
@@ -306,7 +311,7 @@
     },
     {
       "start": 6021.5,
-      "end": 6583.52,
+      "end": 6024.5,
       "text": "The drums, Ian Mosley"
     },
     {
@@ -316,7 +321,7 @@
     },
     {
       "start": 6588.42,
-      "end": 7029.9,
+      "end": 6591.42,
       "text": "1981, the Taxi Herber clocks"
     },
     {

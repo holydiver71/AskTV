@@ -48,7 +48,9 @@
       "artist": "Roger Waters",
       "track": "5.01am",
       "details": "LP - The Pros And Cons Of Hitchhiking",
-      "verified_timestamp": 1205.38
+      "verified_timestamp": 1205.38,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "m the pros and cons"
     },
     {
       "artist": "Harrier",
@@ -198,8 +200,20 @@
     },
     {
       "start": 45.81,
-      "end": 603.68,
+      "end": 53.01,
       "text": "The album Hail to England. The track was Each Dawn I Die."
+    },
+    {
+      "start": 53.01,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 603.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 603.68,
@@ -303,8 +317,14 @@
     },
     {
       "start": 659.62,
-      "end": 1205.38,
+      "end": 665.02,
       "text": "And that was the new single by Roger Waters."
+    },
+    {
+      "start": 665.02,
+      "end": 1200.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1205.38,
@@ -448,8 +468,14 @@
     },
     {
       "start": 1264.64,
-      "end": 1832.14,
+      "end": 1269.44,
       "text": "Birds Escape from our repeat session by then"
+    },
+    {
+      "start": 1269.44,
+      "end": 1832.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1832.14,
@@ -563,8 +589,20 @@
     },
     {
       "start": 1890.94,
-      "end": 2377.28,
+      "end": 1900.54,
       "text": "31 jokingly just starting highly recommended that album it's a new album by spirit and it's"
+    },
+    {
+      "start": 1900.54,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2376.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2377.28,
@@ -702,6 +740,18 @@
       "text": "Jaguar."
     },
     {
+      "start": 2447.87,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 2932.56,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2932.56,
       "end": 2933.08,
       "text": "Stranded."
@@ -798,8 +848,20 @@
     },
     {
       "start": 2969.66,
-      "end": 3413.21,
+      "end": 2976.26,
       "text": "That's an excellent new band from the United States of America."
+    },
+    {
+      "start": 2976.26,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3413.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3413.41,
@@ -1012,6 +1074,12 @@
       "text": "You can start listening now."
     },
     {
+      "start": 3527.96,
+      "end": 4318.45,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3730.78,
       "end": 3732.66,
       "text": "On yon big head."
@@ -1030,11 +1098,6 @@
       "start": 4176.39,
       "end": 4252.99,
       "text": "My mind's trying to shake off this crazy woman of mine."
-    },
-    {
-      "start": 4253.45,
-      "end": 4318.31,
-      "text": "Someone's choice of music."
     },
     {
       "start": 4318.45,
@@ -1133,7 +1196,7 @@
     },
     {
       "start": 4355.44,
-      "end": 4878.36,
+      "end": 4366.84,
       "text": "you and the very best of luck 60 minutes after 11 this is jaguar barclay james harvest a track"
     },
     {
@@ -1223,7 +1286,7 @@
     },
     {
       "start": 4931.33,
-      "end": 5605.57,
+      "end": 4934.33,
       "text": "That was Bernie Tomei"
     },
     {
@@ -1328,8 +1391,20 @@
     },
     {
       "start": 5642.67,
-      "end": 6383.87,
+      "end": 5648.07,
       "text": "A classy band have been around a long time."
+    },
+    {
+      "start": 5648.07,
+      "end": 6115.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6120.0,
+      "end": 6383.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6383.97,
@@ -1383,8 +1458,14 @@
     },
     {
       "start": 6420.24,
-      "end": 6852.99,
+      "end": 6425.64,
       "text": "Clive Burr's Escape and the Top of the Mountain."
+    },
+    {
+      "start": 6480.0,
+      "end": 6852.99,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6852.99,

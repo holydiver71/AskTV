@@ -232,8 +232,14 @@
     },
     {
       "start": 663.49,
-      "end": 1270.99,
+      "end": 676.69,
       "text": "that's a piece of music that came out in 1977 on an album called new age of earth and it was by"
+    },
+    {
+      "start": 676.69,
+      "end": 1270.99,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1270.99,
@@ -342,8 +348,14 @@
     },
     {
       "start": 1340.95,
-      "end": 1738.83,
+      "end": 1349.35,
       "text": "That is the new single that's just come out on the RCA Victor label."
+    },
+    {
+      "start": 1349.35,
+      "end": 1738.95,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1738.95,
@@ -467,7 +479,7 @@
     },
     {
       "start": 1813.55,
-      "end": 2337.53,
+      "end": 1824.35,
       "text": "That band really has got the art of making rock music off to a fine, fine honed art."
     },
     {
@@ -761,6 +773,12 @@
       "text": "Start listening about now."
     },
     {
+      "start": 3073.35,
+      "end": 3725.44,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3725.44,
       "end": 3727.16,
       "text": "That's it, the Friday Night Connection for tonight."
@@ -812,7 +830,7 @@
     },
     {
       "start": 3762.8,
-      "end": 4319.89,
+      "end": 3774.2,
       "text": "That's a track from a new album that's just come out on CBS over here in the United Kingdom"
     },
     {
@@ -1007,8 +1025,14 @@
     },
     {
       "start": 4428.05,
-      "end": 4859.8,
+      "end": 4431.65,
       "text": "...album intently, but I intend to."
+    },
+    {
+      "start": 4431.65,
+      "end": 4860.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4860.24,
@@ -1112,7 +1136,7 @@
     },
     {
       "start": 4917.76,
-      "end": 5788.91,
+      "end": 4923.76,
       "text": "Music that you think is either valid or absolute rubbish."
     },
     {
@@ -1247,7 +1271,7 @@
     },
     {
       "start": 5852.97,
-      "end": 6388.58,
+      "end": 5855.97,
       "text": "Nine gigs in Britain shortly."
     },
     {

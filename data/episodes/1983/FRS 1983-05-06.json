@@ -152,6 +152,12 @@
       "text": "But tonight, we start with this."
     },
     {
+      "start": 74.21,
+      "end": 492.76,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 428.09,
       "end": 491.94,
       "text": "That, of course, is the Jimi Hendrix Experience."
@@ -298,7 +304,7 @@
     },
     {
       "start": 577.3,
-      "end": 1206.45,
+      "end": 582.1,
       "text": "That's the title track from a new album"
     },
     {
@@ -483,7 +489,7 @@
     },
     {
       "start": 1283.06,
-      "end": 1683.39,
+      "end": 1289.06,
       "text": "It's 29 and a half minutes now past 10 o'clock"
     },
     {
@@ -523,8 +529,14 @@
     },
     {
       "start": 1696.13,
-      "end": 2127.06,
+      "end": 1700.33,
       "text": "The number 14 album in the country"
+    },
+    {
+      "start": 1700.33,
+      "end": 2127.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2127.06,
@@ -837,6 +849,12 @@
       "text": "Here are two tracks from it."
     },
     {
+      "start": 2937.55,
+      "end": 3519.46,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3519.46,
       "end": 3521.62,
       "text": "Two tracks from the new album by Iron Maiden"
@@ -1003,7 +1021,7 @@
     },
     {
       "start": 3624.9,
-      "end": 4568.76,
+      "end": 3628.5,
       "text": "This was the Friday Night Connection"
     },
     {
@@ -1258,8 +1276,14 @@
     },
     {
       "start": 5315.58,
-      "end": 5827.58,
+      "end": 5322.18,
       "text": "The Enid from our session by them, that's called Something Wicked."
+    },
+    {
+      "start": 5322.18,
+      "end": 5828.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5828.12,
@@ -1402,11 +1426,6 @@
       "text": "So here's Muddy Waters and Long Distance Call."
     },
     {
-      "start": 5903.56,
-      "end": 5928.63,
-      "text": "You said you love me, baby"
-    },
-    {
       "start": 5928.63,
       "end": 5935.7,
       "text": "Please call me on the phone sometime"
@@ -1463,8 +1482,9 @@
     },
     {
       "start": 6030.91,
-      "end": 6112.99,
-      "text": "Keep ringing, girl"
+      "end": 6144.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6112.99,
@@ -1523,7 +1543,7 @@
     },
     {
       "start": 6198.44,
-      "end": 6490.81,
+      "end": 6210.44,
       "text": "Dancing with Mr. D, the choice tonight in our staff selection spot of Mr. Tony Wilson, producer of this program"
     },
     {

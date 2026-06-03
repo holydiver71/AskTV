@@ -183,6 +183,12 @@
       "text": "Tony Iommi of Black Sabbath."
     },
     {
+      "start": 360.0,
+      "end": 486.32,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 486.32,
       "end": 487.66,
       "text": "Excellent album, honestly."
@@ -339,8 +345,14 @@
     },
     {
       "start": 551.84,
-      "end": 973.1,
+      "end": 556.64,
       "text": "That's the single which is called Locked In."
+    },
+    {
+      "start": 900.0,
+      "end": 993.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 973.1,
@@ -554,8 +566,14 @@
     },
     {
       "start": 1135.22,
-      "end": 1819.38,
+      "end": 1147.22,
       "text": "and his band this is the first of four it's called like a cry their latest single thinking it's called"
+    },
+    {
+      "start": 1620.0,
+      "end": 1819.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1819.38,
@@ -639,8 +657,14 @@
     },
     {
       "start": 1879.47,
-      "end": 2546.39,
+      "end": 1884.87,
       "text": "this is Radio 1, that is the new single"
+    },
+    {
+      "start": 1980.0,
+      "end": 2515.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2546.39,
@@ -733,6 +757,12 @@
       "text": "Lisa and Wendy, happy birthday."
     },
     {
+      "start": 2597.82,
+      "end": 2599.69,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2601.75,
       "end": 2604.29,
       "text": "Back to Hugh Lloyd Langton and his band."
@@ -741,6 +771,12 @@
       "start": 2604.69,
       "end": 2605.67,
       "text": "Take a back step."
+    },
+    {
+      "start": 2605.67,
+      "end": 3139.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3139.6,
@@ -839,7 +875,7 @@
     },
     {
       "start": 3198.74,
-      "end": 3442.84,
+      "end": 3202.34,
       "text": "The track is called Danger Zone"
     },
     {
@@ -1398,6 +1434,12 @@
       "text": "This is Sabbath, Bloody Sabbath."
     },
     {
+      "start": 3780.0,
+      "end": 4095.28,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4095.28,
       "end": 4096.26,
       "text": "Sabbath, Bloody Sabbath,"
@@ -1774,7 +1816,7 @@
     },
     {
       "start": 4248.54,
-      "end": 4573.97,
+      "end": 4256.94,
       "text": "From the double album Live Evil on the Friday Rock Show at the moment,"
     },
     {
@@ -2089,8 +2131,14 @@
     },
     {
       "start": 4717.44,
-      "end": 5084.41,
+      "end": 4720.44,
       "text": "audiences umpteen over the years"
+    },
+    {
+      "start": 4860.0,
+      "end": 5084.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5084.41,
@@ -2149,7 +2197,7 @@
     },
     {
       "start": 5111.53,
-      "end": 5795.4,
+      "end": 5122.93,
       "text": "just in case you've just tuned in this isn't radio 2 that was agent steel from an album which"
     },
     {
@@ -2224,8 +2272,14 @@
     },
     {
       "start": 5875.65,
-      "end": 6368.3,
+      "end": 5887.05,
       "text": "waiting and his group from our session by them so long waiting nice bit of bass playing i just"
+    },
+    {
+      "start": 6300.0,
+      "end": 6390.61,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6368.3,
@@ -2264,8 +2318,14 @@
     },
     {
       "start": 6396.46,
-      "end": 6895.79,
+      "end": 6401.26,
       "text": "Oh, that's Joe Cocker. That's his latest single."
+    },
+    {
+      "start": 6480.0,
+      "end": 6895.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6895.91,
@@ -2304,7 +2364,7 @@
     },
     {
       "start": 6912.67,
-      "end": 7210.88,
+      "end": 6918.67,
       "text": "John Clarke on the drums, on the bass, Kenny Wilson,"
     },
     {

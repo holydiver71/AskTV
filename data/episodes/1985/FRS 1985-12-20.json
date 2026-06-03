@@ -152,8 +152,14 @@
     },
     {
       "start": 56.09,
-      "end": 508.16,
+      "end": 70.49,
       "text": "I was actually on stage last night singing with that guy, along with quite a number of other people as well, including Neil Kinnock."
+    },
+    {
+      "start": 360.0,
+      "end": 508.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 508.98,
@@ -256,6 +262,18 @@
       "text": "It's just a vicious rumour."
     },
     {
+      "start": 588.42,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1214.9,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1214.9,
       "end": 1216.28,
       "text": "The crew have been churning out really good albums."
@@ -337,8 +355,14 @@
     },
     {
       "start": 1275.93,
-      "end": 1704.88,
+      "end": 1281.33,
       "text": "That's by Holland from their album called Little Monsters."
+    },
+    {
+      "start": 1281.33,
+      "end": 1705.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1705.52,
@@ -432,8 +456,14 @@
     },
     {
       "start": 1795.5,
-      "end": 2354.51,
+      "end": 1806.3,
       "text": "christmas and a prosperous new year they've got a double live album out it is called stages they"
+    },
+    {
+      "start": 1800.0,
+      "end": 2354.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2354.51,
@@ -487,8 +517,14 @@
     },
     {
       "start": 2413.0,
-      "end": 3011.21,
+      "end": 2425.0,
       "text": "out that's all i know at this moment about viper was guitarist has put a really good edge to that"
+    },
+    {
+      "start": 2520.0,
+      "end": 3011.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3011.21,
@@ -592,7 +628,7 @@
     },
     {
       "start": 3099.93,
-      "end": 3560.71,
+      "end": 3110.73,
       "text": "christmas too this is rogue male dressed incognito fun for cover the track you heard is also the"
     },
     {
@@ -882,8 +918,32 @@
     },
     {
       "start": 3721.72,
-      "end": 4811.79,
+      "end": 3726.52,
       "text": "The album that came out back in 1969"
+    },
+    {
+      "start": 3780.0,
+      "end": 3955.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3960.0,
+      "end": 4315.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4320.0,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4680.0,
+      "end": 4811.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4811.79,

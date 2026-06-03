@@ -135,7 +135,9 @@
       "artist": "James Gang",
       "track": "The Devil Is Singing Our Song",
       "details": "LP - Bang",
-      "verified_timestamp": 5531.6
+      "verified_timestamp": 5531.6,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the devil is singing our"
     },
     {
       "artist": "Pet Hate",
@@ -199,8 +201,20 @@
     },
     {
       "start": 73.0,
-      "end": 627.36,
+      "end": 83.2,
       "text": "...releases a single, has that? That of course is Deep Purple. The track is called Perfect Strangers."
+    },
+    {
+      "start": 83.2,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 627.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 627.64,
@@ -289,8 +303,14 @@
     },
     {
       "start": 683.27,
-      "end": 1095.12,
+      "end": 692.87,
       "text": "From their new album, which is out on Neat Records, the album is called Pure Filth,"
+    },
+    {
+      "start": 720.0,
+      "end": 1090.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1095.16,
@@ -368,14 +388,32 @@
       "text": "Hello to Derek from Moz."
     },
     {
+      "start": 1140.92,
+      "end": 1144.78,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1149.78,
       "end": 1152.1,
       "text": "Stuff first, stuff four from Abandoned City."
     },
     {
       "start": 1152.78,
-      "end": 1560.35,
+      "end": 1159.98,
       "text": "We've just done a couple of gigs at the Marquee this week."
+    },
+    {
+      "start": 1159.98,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1560.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1560.45,
@@ -489,8 +527,20 @@
     },
     {
       "start": 1626.82,
-      "end": 2123.17,
+      "end": 1631.02,
       "text": "that was alice cooper and nurse rosetta"
+    },
+    {
+      "start": 1800.0,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2123.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2123.17,
@@ -519,7 +569,7 @@
     },
     {
       "start": 2151.04,
-      "end": 2626.64,
+      "end": 2161.84,
       "text": "the moment tnt are from norway their track is called seven seas down again one of the best"
     },
     {
@@ -684,8 +734,14 @@
     },
     {
       "start": 2713.65,
-      "end": 3164.09,
+      "end": 2724.45,
       "text": "according to 11 abandoned city 11 excellent bit of engineering that is good mix it's sweet and it"
+    },
+    {
+      "start": 2724.45,
+      "end": 3159.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3164.09,
@@ -739,8 +795,14 @@
     },
     {
       "start": 3233.25,
-      "end": 3664.69,
+      "end": 3243.45,
       "text": "luck with their new album possessed we played the venom single about 20 minutes time foreigner it's"
+    },
+    {
+      "start": 3240.0,
+      "end": 3659.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3664.69,
@@ -993,6 +1055,18 @@
       "text": "Don't forget there's a £12 record token in it every week."
     },
     {
+      "start": 3858.68,
+      "end": 4135.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4140.0,
+      "end": 4348.57,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4345.65,
       "end": 4349.49,
       "text": "Magic Better Music came out first in 1978 on the album Call Back On The Streets,"
@@ -1059,8 +1133,14 @@
     },
     {
       "start": 4411.65,
-      "end": 4994.64,
+      "end": 4421.85,
       "text": "American band by the name of Stone Fury from an album which is only available on import."
+    },
+    {
+      "start": 4421.85,
+      "end": 4995.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4994.76,
@@ -1178,6 +1258,12 @@
       "text": "Now it's the latest single by Vardis."
     },
     {
+      "start": 5063.73,
+      "end": 5526.6,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5527.0,
       "end": 5529.06,
       "text": "And the late Tommy Bolan and the James Gang"
@@ -1269,8 +1355,14 @@
     },
     {
       "start": 5568.57,
-      "end": 6060.72,
+      "end": 5579.37,
       "text": "white sister from their debut album which in america is on emi but is coming out in this"
+    },
+    {
+      "start": 5579.37,
+      "end": 6065.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6060.72,
@@ -1299,8 +1391,20 @@
     },
     {
       "start": 6089.46,
-      "end": 6596.26,
+      "end": 6099.66,
       "text": "hey lady single which is manitou before that you heard abandoned city the final run from our"
+    },
+    {
+      "start": 6099.66,
+      "end": 6475.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6480.0,
+      "end": 6596.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6596.26,
@@ -1336,6 +1440,12 @@
       "start": 6614.1,
       "end": 6616.62,
       "text": "of Walton Liddell Preston in Lenks."
+    },
+    {
+      "start": 7020.0,
+      "end": 7210.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7210.06,

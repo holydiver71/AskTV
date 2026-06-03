@@ -29,7 +29,9 @@
       "artist": "Steve Miller Band",
       "track": "The Joker",
       "details": "7\"-Take The Money And Run; Mercury",
-      "verified_timestamp": 360.0
+      "verified_timestamp": 360.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "cause i m right here"
     },
     {
       "artist": "Iron Maiden",
@@ -106,7 +108,9 @@
       "artist": "Heads Hands & Feet",
       "track": "Country Boy",
       "details": "LP-Heads Hands & Feet; Island",
-      "verified_timestamp": 3960.0
+      "verified_timestamp": 3960.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "city slicker shinin up through"
     },
     {
       "artist": "Fastway",
@@ -128,7 +132,9 @@
       "artist": "Elvis Presley",
       "track": "Blue Moon Of Kentucky",
       "details": "LP-The Elvis Presley Sun Collection; RCA",
-      "verified_timestamp": 5247.1
+      "verified_timestamp": 5247.1,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "1 blue moon blue moon"
     },
     {
       "artist": "Derek & The Dominos",
@@ -140,19 +146,25 @@
       "artist": "Climax Blues Band",
       "track": "Friends In High Places",
       "details": "LP-Sample And Hold; Virgin",
-      "verified_timestamp": 5874.73
+      "verified_timestamp": 5874.73,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "friends in high places you"
     },
     {
       "artist": "Yardbirds",
       "track": "Over, Under, Sideways, Down",
       "details": "LP-Roger The Engineer; Edsel",
-      "verified_timestamp": 6162.45
+      "verified_timestamp": 6162.45,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "over under sideways down was"
     },
     {
       "artist": "Bob Dylan",
       "track": "Lay Lady Lay",
       "details": "LP-Nashville Skyline; CBS",
-      "verified_timestamp": 6480.0
+      "verified_timestamp": 6480.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "lay across my big brass"
     },
     {
       "artist": "Coney Hatch",
@@ -176,8 +188,14 @@
   "transcript": [
     {
       "start": 0.88,
-      "end": 171.98,
+      "end": 6.28,
       "text": "Hello, I'm Ian Gillan and this is Black Sabbath."
+    },
+    {
+      "start": 6.28,
+      "end": 171.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 171.98,
@@ -203,11 +221,6 @@
       "start": 196.26,
       "end": 200.22,
       "text": "well cop this it's called the joker let's hear it for steve miller"
-    },
-    {
-      "start": 200.22,
-      "end": 231.03,
-      "text": "people talk about me baby"
     },
     {
       "start": 237.53,
@@ -240,11 +253,6 @@
       "text": "Getting my loving on the run"
     },
     {
-      "start": 270.25,
-      "end": 322.84,
-      "text": "I'm a baker, I'm a grinner"
-    },
-    {
       "start": 322.84,
       "end": 325.68,
       "text": "I'm a lover, I'm a sinner"
@@ -253,11 +261,6 @@
       "start": 325.68,
       "end": 335.04,
       "text": "I'm a smoker, I am a..."
-    },
-    {
-      "start": 335.04,
-      "end": 382.9,
-      "text": "Steve Miller live, that's the Joker"
     },
     {
       "start": 382.9,
@@ -291,8 +294,20 @@
     },
     {
       "start": 405.76,
-      "end": 638.69,
+      "end": 408.76,
       "text": "Good scream there, Bruce."
+    },
+    {
+      "start": 408.76,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 639.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 639.15,
@@ -335,14 +350,15 @@
       "text": "And this is a thing called Vigilante Man."
     },
     {
-      "start": 660.53,
-      "end": 734.0,
-      "text": "Down in the engine house"
+      "start": 734.0,
+      "end": 737.0,
+      "text": "That's wonderful."
     },
     {
-      "start": 734.0,
-      "end": 874.5,
-      "text": "That's wonderful."
+      "start": 737.0,
+      "end": 875.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 875.02,
@@ -416,8 +432,14 @@
     },
     {
       "start": 908.22,
-      "end": 1366.66,
+      "end": 912.42,
       "text": "This is Robert Plant with Slow Dancer"
+    },
+    {
+      "start": 912.42,
+      "end": 1366.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1366.66,
@@ -516,8 +538,14 @@
     },
     {
       "start": 1409.1,
-      "end": 1793.31,
+      "end": 1412.1,
       "text": "Cell 151, that's C-E-L-L-1-5-1"
+    },
+    {
+      "start": 1440.0,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1793.31,
@@ -541,8 +569,14 @@
     },
     {
       "start": 1806.31,
-      "end": 1991.4,
+      "end": 1813.51,
       "text": "That's ZZ Top and Tube Snake Boogie from the album El Loco"
+    },
+    {
+      "start": 1813.51,
+      "end": 1991.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1991.4,
@@ -576,8 +610,14 @@
     },
     {
       "start": 2009.7,
-      "end": 2235.96,
+      "end": 2013.3,
       "text": "Well, they sound committed, don't they?"
+    },
+    {
+      "start": 2160.0,
+      "end": 2251.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2236.04,
@@ -645,6 +685,12 @@
       "text": "and it's called You Are In My System."
     },
     {
+      "start": 2340.0,
+      "end": 2533.2,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2533.2,
       "end": 2536.3,
       "text": "Well, from a beautifully and obviously very expensively produced album,"
@@ -671,8 +717,14 @@
     },
     {
       "start": 2556.26,
-      "end": 2885.39,
+      "end": 2567.06,
       "text": "live act in the States at the moment. And it's a song called Separate Ways. Well, that's Separate"
+    },
+    {
+      "start": 2700.0,
+      "end": 2885.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2885.39,
@@ -686,7 +738,7 @@
     },
     {
       "start": 2897.07,
-      "end": 3112.06,
+      "end": 2908.47,
       "text": "strange looking bunch of weirdos twisted sister and i am i'm me that's the single i am i'm me"
     },
     {
@@ -713,6 +765,12 @@
       "start": 3130.46,
       "end": 3133.04,
       "text": "It's a single from Pink Floyd, and it's called Not Now John."
+    },
+    {
+      "start": 3240.0,
+      "end": 3389.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3389.78,
@@ -760,6 +818,12 @@
       "text": "It's called Going Down."
     },
     {
+      "start": 3420.0,
+      "end": 3600.89,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3600.89,
       "end": 3604.25,
       "text": "Freddie King, Going Down, that really brings back memories for me."
@@ -801,8 +865,14 @@
     },
     {
       "start": 3653.83,
-      "end": 3849.14,
+      "end": 3656.83,
       "text": "Little Feet and Dixie Chicken,"
+    },
+    {
+      "start": 3780.0,
+      "end": 3955.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3849.14,
@@ -846,8 +916,14 @@
     },
     {
       "start": 3934.12,
-      "end": 4206.24,
+      "end": 3944.32,
       "text": "yes nice tricky ending there heads hands and feet and country boy well anyone who's seen eric"
+    },
+    {
+      "start": 3960.0,
+      "end": 4206.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4206.24,
@@ -901,8 +977,14 @@
     },
     {
       "start": 4244.04,
-      "end": 4576.02,
+      "end": 4248.24,
       "text": "That's Heft, H-E-F-T, from Fastway's new album"
+    },
+    {
+      "start": 4320.0,
+      "end": 4576.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4576.02,
@@ -971,7 +1053,7 @@
     },
     {
       "start": 4604.28,
-      "end": 4793.01,
+      "end": 4608.48,
       "text": "well, there's Persian Risk and Riding High"
     },
     {
@@ -1425,9 +1507,10 @@
       "text": "Shine on the moon that's gone and left me blue"
     },
     {
-      "start": 5304.92,
-      "end": 5365.4,
-      "text": "© BF-WATCH TV 2021"
+      "start": 5299.57,
+      "end": 5390.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5365.42,
@@ -1496,8 +1579,14 @@
     },
     {
       "start": 5394.5,
-      "end": 5821.73,
+      "end": 5399.3,
       "text": "that was Layla from Derek and the Dominoes"
+    },
+    {
+      "start": 5400.0,
+      "end": 5821.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5821.73,
@@ -1611,8 +1700,14 @@
     },
     {
       "start": 5876.09,
-      "end": 6120.77,
+      "end": 5879.69,
       "text": "well that's Friends in High Places"
+    },
+    {
+      "start": 5879.69,
+      "end": 6120.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6120.77,
@@ -1706,8 +1801,14 @@
     },
     {
       "start": 6165.09,
-      "end": 6308.84,
+      "end": 6172.89,
       "text": "Over Under, Sideways Down from the Yardbirds, from their new album, just re-released."
+    },
+    {
+      "start": 6172.89,
+      "end": 6309.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6309.7,
@@ -1936,8 +2037,20 @@
     },
     {
       "start": 6565.5,
-      "end": 6762.47,
+      "end": 6576.3,
       "text": "it's available on 7 and 12 inch and it's called hay operator that's coney hatch and hay operator"
+    },
+    {
+      "start": 6576.3,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6660.0,
+      "end": 6762.47,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6762.47,
@@ -1956,7 +2069,7 @@
     },
     {
       "start": 6778.52,
-      "end": 6956.11,
+      "end": 6787.52,
       "text": "the rolling stones and let's spend the night together well thanks for spending the night"
     },
     {
@@ -1983,6 +2096,12 @@
       "start": 6968.41,
       "end": 6971.11,
       "text": "But first, here's Little Richard and, good golly, Miss Molly."
+    },
+    {
+      "start": 6971.11,
+      "end": 7016.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7015.47,

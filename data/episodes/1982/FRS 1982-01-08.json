@@ -110,7 +110,9 @@
     {
       "artist": "Boxer",
       "track": "All The Time In The World",
-      "details": "session"
+      "details": "session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "all the time in the"
     },
     {
       "artist": null,
@@ -186,8 +188,14 @@
     },
     {
       "start": 72.41,
-      "end": 635.69,
+      "end": 79.01,
       "text": "We're calling it way back in 1974, that was Status Quo."
+    },
+    {
+      "start": 79.01,
+      "end": 635.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 635.91,
@@ -311,8 +319,14 @@
     },
     {
       "start": 692.53,
-      "end": 954.27,
+      "end": 695.53,
       "text": "For one second"
+    },
+    {
+      "start": 695.53,
+      "end": 954.27,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 954.27,
@@ -496,8 +510,14 @@
     },
     {
       "start": 1243.32,
-      "end": 1809.0,
+      "end": 1254.12,
       "text": "and here's the first of four from our repeat session by as above so below that's just part"
+    },
+    {
+      "start": 1254.12,
+      "end": 1836.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1809.0,
@@ -601,8 +621,14 @@
     },
     {
       "start": 1880.76,
-      "end": 2406.6,
+      "end": 1885.56,
       "text": "Tight playing on that session from way back,"
+    },
+    {
+      "start": 1885.56,
+      "end": 2406.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2406.68,
@@ -666,7 +692,7 @@
     },
     {
       "start": 2427.74,
-      "end": 2798.08,
+      "end": 2431.94,
       "text": "The four ladies known as Girl School,"
     },
     {
@@ -796,7 +822,7 @@
     },
     {
       "start": 2879.33,
-      "end": 3499.81,
+      "end": 2882.93,
       "text": "Mr. Cult, fire of unknown origin."
     },
     {
@@ -951,7 +977,7 @@
     },
     {
       "start": 3616.25,
-      "end": 4012.52,
+      "end": 3619.85,
       "text": "And his sisters, which he'll find,"
     },
     {
@@ -961,7 +987,7 @@
     },
     {
       "start": 4025.15,
-      "end": 4391.51,
+      "end": 4028.15,
       "text": "Brian Hester of Wandsworth."
     },
     {
@@ -1076,7 +1102,7 @@
     },
     {
       "start": 4495.78,
-      "end": 4908.48,
+      "end": 4507.18,
       "text": "and also producer and also writer was a track from a new album which is out on chrysalis the"
     },
     {
@@ -1176,7 +1202,7 @@
     },
     {
       "start": 5003.75,
-      "end": 5750.72,
+      "end": 5015.15,
       "text": "Magic moments in music throughout my sort of musical history was actually watching them do that as an encore"
     },
     {
@@ -1271,7 +1297,7 @@
     },
     {
       "start": 5813.64,
-      "end": 6365.88,
+      "end": 5818.44,
       "text": "We're together in the studios of the BBC"
     },
     {
@@ -1366,7 +1392,7 @@
     },
     {
       "start": 6405.28,
-      "end": 6902.56,
+      "end": 6408.88,
       "text": "I'm the Osborne, I'm Mr Crowley."
     },
     {

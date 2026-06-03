@@ -113,7 +113,7 @@
   "transcript": [
     {
       "start": 54.77,
-      "end": 373.07,
+      "end": 64.37,
       "text": "That's an import album. It's on the Elektra record label by the band called Metal Church."
     },
     {
@@ -338,8 +338,14 @@
     },
     {
       "start": 599.31,
-      "end": 893.82,
+      "end": 611.31,
       "text": "they be making that noise all over the world for the past six years they're called gbh it's a four"
+    },
+    {
+      "start": 611.31,
+      "end": 893.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 893.82,
@@ -483,8 +489,14 @@
     },
     {
       "start": 1009.77,
-      "end": 1238.06,
+      "end": 1015.77,
       "text": "Our drug alert lines are open until 11 o'clock tonight"
+    },
+    {
+      "start": 1080.0,
+      "end": 1238.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1238.06,
@@ -548,7 +560,7 @@
     },
     {
       "start": 1316.49,
-      "end": 1595.95,
+      "end": 1328.49,
       "text": "that's a bit of a classic single that i dug out the other day i think it's actually the first"
     },
     {
@@ -643,8 +655,14 @@
     },
     {
       "start": 1656.43,
-      "end": 2055.35,
+      "end": 1667.83,
       "text": "this is rat and drive me crazy everybody's cup of tea but i like them they are called detente"
+    },
+    {
+      "start": 1800.0,
+      "end": 2055.35,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2055.35,
@@ -943,8 +961,14 @@
     },
     {
       "start": 2257.7,
-      "end": 2383.57,
+      "end": 2261.3,
       "text": "Got to tell me just operated"
+    },
+    {
+      "start": 2261.3,
+      "end": 2409.27,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2383.57,
@@ -988,8 +1012,14 @@
     },
     {
       "start": 2428.1,
-      "end": 2686.34,
+      "end": 2433.5,
       "text": "ZZ Shop played from CD from the album Eliminator"
+    },
+    {
+      "start": 2520.0,
+      "end": 2688.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2688.33,
@@ -1098,8 +1128,20 @@
     },
     {
       "start": 2745.43,
-      "end": 4113.86,
+      "end": 2758.03,
       "text": "at this time of night on this program but right now this is lie back and enjoy it 12 minutes past"
+    },
+    {
+      "start": 3060.0,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 4113.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4113.86,
@@ -1268,8 +1310,14 @@
     },
     {
       "start": 4222.51,
-      "end": 4644.64,
+      "end": 4227.31,
       "text": "The excellent track from a really good album"
+    },
+    {
+      "start": 4320.0,
+      "end": 4644.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4644.64,
@@ -1373,7 +1421,7 @@
     },
     {
       "start": 4702.04,
-      "end": 6935.95,
+      "end": 4710.44,
       "text": "and this song is called founded they were in the düsseldorf area of germany"
     },
     {

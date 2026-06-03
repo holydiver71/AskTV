@@ -178,8 +178,14 @@
     },
     {
       "start": 81.23,
-      "end": 682.46,
+      "end": 84.23,
       "text": "The album is called Coda."
+    },
+    {
+      "start": 84.23,
+      "end": 682.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 682.86,
@@ -398,8 +404,14 @@
     },
     {
       "start": 758.96,
-      "end": 1326.55,
+      "end": 769.16,
       "text": "from the fat jelly bean in dragon land really come to fruition and matured the right lineup"
+    },
+    {
+      "start": 769.16,
+      "end": 1326.55,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1326.55,
@@ -453,8 +465,20 @@
     },
     {
       "start": 1375.92,
-      "end": 1832.18,
+      "end": 1384.32,
       "text": "A request of Mark Ashby of Whitehead County, Antrim, Northern Ireland. Dedicated to all"
+    },
+    {
+      "start": 1384.32,
+      "end": 1615.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1620.0,
+      "end": 1832.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1832.18,
@@ -513,7 +537,7 @@
     },
     {
       "start": 1954.45,
-      "end": 2343.79,
+      "end": 1964.65,
       "text": "An album that was actually recorded back in 1972, released in Germany on the Brain record label."
     },
     {
@@ -713,12 +737,13 @@
     },
     {
       "start": 2909.25,
-      "end": 2958.57,
-      "text": "I think about you"
+      "end": 3375.93,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2958.57,
-      "end": 3375.37,
+      "end": 2964.57,
       "text": "That's Whitesnake, and that's from their album Saints and Sinners."
     },
     {
@@ -828,7 +853,7 @@
     },
     {
       "start": 3427.8,
-      "end": 3976.38,
+      "end": 3444.6,
       "text": "But, in Denmark, that you'll find the four-track EP, 12 Incher, on Rayvon Records, which is a Dutch label, and I'm sure is available in various import shops."
     },
     {
@@ -953,7 +978,7 @@
     },
     {
       "start": 4061.31,
-      "end": 4724.2,
+      "end": 4066.11,
       "text": "Friday Night Connection put together by Jay Brinsford."
     },
     {
@@ -1083,7 +1108,7 @@
     },
     {
       "start": 4779.12,
-      "end": 5321.37,
+      "end": 4790.52,
       "text": "w1a for ww good luck gregory anderson and his mob from australia who at the moment are currently in"
     },
     {
@@ -1108,7 +1133,7 @@
     },
     {
       "start": 5339.7,
-      "end": 6192.73,
+      "end": 5349.9,
       "text": "travers that's the single that's just come up by stampede it is called photographs and before that"
     },
     {
@@ -1153,8 +1178,14 @@
     },
     {
       "start": 6226.07,
-      "end": 7050.63,
+      "end": 6230.87,
       "text": "That means he joins the Royal Air Force."
+    },
+    {
+      "start": 6230.87,
+      "end": 7050.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7050.71,

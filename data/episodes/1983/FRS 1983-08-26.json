@@ -45,7 +45,9 @@
       "artist": "Thin Lizzy",
       "track": "Emerald",
       "details": "session",
-      "verified_timestamp": 1356.4
+      "verified_timestamp": 1356.4,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "with their shields and their"
     },
     {
       "artist": "Thin Lizzy",
@@ -164,8 +166,20 @@
     },
     {
       "start": 71.62,
-      "end": 542.98,
+      "end": 75.82,
       "text": "That is the B-side of this single."
+    },
+    {
+      "start": 75.82,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 541.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 543.42,
@@ -284,8 +298,14 @@
     },
     {
       "start": 625.02,
-      "end": 1277.3,
+      "end": 631.62,
       "text": "Or from their second album, the album's called Into Glory Ride."
+    },
+    {
+      "start": 631.62,
+      "end": 1277.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1277.3,
@@ -454,8 +474,14 @@
     },
     {
       "start": 1391.61,
-      "end": 1681.7,
+      "end": 1394.61,
       "text": "Upward towards the passage here"
+    },
+    {
+      "start": 1394.61,
+      "end": 1681.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1681.7,
@@ -464,7 +490,7 @@
     },
     {
       "start": 1682.98,
-      "end": 1815.13,
+      "end": 1685.98,
       "text": "Who Bob Venus is"
     },
     {
@@ -559,7 +585,7 @@
     },
     {
       "start": 1871.5,
-      "end": 2319.96,
+      "end": 1874.5,
       "text": "The latest album by Quartz"
     },
     {
@@ -674,8 +700,14 @@
     },
     {
       "start": 2373.15,
-      "end": 3307.7,
+      "end": 2380.35,
       "text": "From our repeat session by them, it was called Road of Eagles."
+    },
+    {
+      "start": 2380.35,
+      "end": 3308.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3308.9,
@@ -776,6 +808,12 @@
       "start": 3353.24,
       "end": 3356.72,
       "text": "Once again, it was from Tetley, the ACDC freak."
+    },
+    {
+      "start": 3356.72,
+      "end": 3777.63,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3777.63,
@@ -969,8 +1007,14 @@
     },
     {
       "start": 3859.71,
-      "end": 4791.78,
+      "end": 3868.71,
       "text": "This is the Friday Night Connection of Brian Thompson of the Post Office, Main Street,"
+    },
+    {
+      "start": 3868.71,
+      "end": 4791.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4791.94,
@@ -1059,8 +1103,14 @@
     },
     {
       "start": 4844.11,
-      "end": 5382.93,
+      "end": 4847.11,
       "text": "Excellent track."
+    },
+    {
+      "start": 4860.0,
+      "end": 5383.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5383.01,
@@ -1094,7 +1144,7 @@
     },
     {
       "start": 5406.53,
-      "end": 5925.37,
+      "end": 5410.73,
       "text": "Magic Band, whatever the line-up ever was."
     },
     {
@@ -1224,8 +1274,20 @@
     },
     {
       "start": 6043.12,
-      "end": 6743.87,
+      "end": 6054.52,
       "text": "of the passover it's a bit of a classic by ufo from a new compilation album which is really"
+    },
+    {
+      "start": 6054.52,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6660.0,
+      "end": 6755.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6743.87,

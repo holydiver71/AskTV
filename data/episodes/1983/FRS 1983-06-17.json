@@ -59,7 +59,9 @@
     {
       "artist": "Mercyful Fate",
       "track": "Curse Of The Pharaohs",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the curse of the pharaohs"
     },
     {
       "artist": "Frank Zappa",
@@ -157,8 +159,14 @@
     },
     {
       "start": 77.91,
-      "end": 682.76,
+      "end": 83.91,
       "text": "Leonard Skinner and a great old classical, Sweet Home Alabama."
+    },
+    {
+      "start": 83.91,
+      "end": 684.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 684.32,
@@ -316,6 +324,12 @@
       "text": "from the new album by Uriah Heep."
     },
     {
+      "start": 757.62,
+      "end": 1286.41,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1286.41,
       "end": 1288.25,
       "text": "That's a track from an album which"
@@ -462,7 +476,7 @@
     },
     {
       "start": 1373.77,
-      "end": 2024.53,
+      "end": 1379.17,
       "text": "just listening to that, I wonder if that's where"
     },
     {
@@ -682,7 +696,7 @@
     },
     {
       "start": 2124.54,
-      "end": 2763.65,
+      "end": 2130.54,
       "text": "A track from the latest album by those crazy Canadians"
     },
     {
@@ -862,8 +876,14 @@
     },
     {
       "start": 2882.28,
-      "end": 3281.01,
+      "end": 2885.28,
       "text": "...perceptive Frank Zappa"
+    },
+    {
+      "start": 2885.28,
+      "end": 3276.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3281.01,
@@ -1012,8 +1032,14 @@
     },
     {
       "start": 3386.47,
-      "end": 3971.01,
+      "end": 3390.07,
       "text": "In to get your mind working."
+    },
+    {
+      "start": 3390.07,
+      "end": 3971.83,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3971.83,
@@ -1077,7 +1103,7 @@
     },
     {
       "start": 4030.69,
-      "end": 4609.66,
+      "end": 4042.09,
       "text": "that's a new band on the scene and also a new album the album is called wildlife as indeed"
     },
     {
@@ -1112,7 +1138,7 @@
     },
     {
       "start": 4644.74,
-      "end": 5236.49,
+      "end": 4656.74,
       "text": "t vance first the selection of mr t wilson hendrix just about my favorite guitar solo i think of all"
     },
     {
@@ -1167,7 +1193,7 @@
     },
     {
       "start": 5277.26,
-      "end": 5905.4,
+      "end": 5280.26,
       "text": "That is called Satan's Fall,"
     },
     {
@@ -1222,7 +1248,7 @@
     },
     {
       "start": 5930.72,
-      "end": 6980.95,
+      "end": 5933.72,
       "text": "Especially for Raymond Black."
     },
     {

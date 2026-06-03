@@ -32,7 +32,9 @@
       "artist": "Magnum",
       "track": "The Prize",
       "details": "FRS session",
-      "verified_timestamp": 1496.31
+      "verified_timestamp": 1496.31,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "it s hard to see"
     },
     {
       "artist": "Y&T",
@@ -63,7 +65,9 @@
     {
       "artist": "Magnum",
       "track": "Vicious Companions",
-      "details": "FRS session"
+      "details": "FRS session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t invite the vicious"
     },
     {
       "artist": "Whitesnake",
@@ -161,8 +165,14 @@
     },
     {
       "start": 68.84,
-      "end": 876.59,
+      "end": 76.04,
       "text": "On the album, Mercery Crime, that was Genesis and the musical box."
+    },
+    {
+      "start": 76.04,
+      "end": 876.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 876.73,
@@ -316,7 +326,7 @@
     },
     {
       "start": 1014.26,
-      "end": 1418.94,
+      "end": 1017.26,
       "text": "While in private..."
     },
     {
@@ -496,8 +506,14 @@
     },
     {
       "start": 1504.65,
-      "end": 1981.54,
+      "end": 1507.65,
       "text": "The forthcoming album by Asia."
+    },
+    {
+      "start": 1507.65,
+      "end": 1981.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1981.76,
@@ -615,6 +631,12 @@
       "text": "Two numbers, put it this way, and the intergalactic strut."
     },
     {
+      "start": 2046.6,
+      "end": 2658.34,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2658.34,
       "end": 2660.4,
       "text": "John Heisman on the drums, Gary Moore on the guitar,"
@@ -726,7 +748,7 @@
     },
     {
       "start": 2750.62,
-      "end": 3084.55,
+      "end": 2759.62,
       "text": "hoping one day will somebody care single by white snake they are guilty of love"
     },
     {
@@ -856,7 +878,7 @@
     },
     {
       "start": 3181.92,
-      "end": 4269.82,
+      "end": 3190.32,
       "text": "together by aldo matarandola of leith in edinburgh 13 minutes after 11 the time"
     },
     {
@@ -1071,7 +1093,7 @@
     },
     {
       "start": 4345.39,
-      "end": 4825.97,
+      "end": 4356.19,
       "text": "lynn who lives in doncaster and thank her for a very enjoyable evening from tim from our repeat"
     },
     {
@@ -1126,7 +1148,7 @@
     },
     {
       "start": 4901.28,
-      "end": 5365.4,
+      "end": 4911.48,
       "text": "our selection oswald osborne there from the album called diary of a madman and flying high again"
     },
     {
@@ -1141,7 +1163,7 @@
     },
     {
       "start": 5376.58,
-      "end": 6115.9,
+      "end": 5386.18,
       "text": "from 1977 two numbers lament and the inquisition the coliseum recorded in 1977 coliseum two the"
     },
     {

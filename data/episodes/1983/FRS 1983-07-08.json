@@ -42,7 +42,9 @@
       "artist": "Caravan",
       "track": "Love In Your Eye",
       "details": "Peel Session",
-      "verified_timestamp": 1099.91
+      "verified_timestamp": 1099.91,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the love in your eye"
     },
     {
       "artist": "Demon",
@@ -64,7 +66,9 @@
     {
       "artist": "Caravan",
       "track": "Virgin On The Ridiculous",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "never care someone you know"
     },
     {
       "artist": null,
@@ -110,7 +114,9 @@
     {
       "artist": "Caravan",
       "track": "Mirror For the Day",
-      "details": "Peel Session"
+      "details": "Peel Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "with his arm round it"
     },
     {
       "artist": "Earthshaker",
@@ -149,6 +155,12 @@
       "start": 61.35,
       "end": 64.63,
       "text": "But one thing I can promise you, we're going to have fun tonight."
+    },
+    {
+      "start": 64.63,
+      "end": 496.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 498.3,
@@ -292,8 +304,14 @@
     },
     {
       "start": 581.54,
-      "end": 1088.41,
+      "end": 591.74,
       "text": "from the fugitive lp by tony banks and that followed on the heels of peter gabriel playing"
+    },
+    {
+      "start": 591.74,
+      "end": 1083.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1088.41,
@@ -387,8 +405,14 @@
     },
     {
       "start": 1183.76,
-      "end": 1953.92,
+      "end": 1190.36,
       "text": "From February 1974, what, nine years or so ago, for Caravan."
+    },
+    {
+      "start": 1190.36,
+      "end": 1954.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1954.48,
@@ -447,7 +471,7 @@
     },
     {
       "start": 1980.86,
-      "end": 2607.0,
+      "end": 1985.66,
       "text": "At zero, zero with an X, of course."
     },
     {
@@ -554,6 +578,18 @@
       "start": 2649.08,
       "end": 2650.76,
       "text": "watching. See for yourself."
+    },
+    {
+      "start": 2650.76,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 3008.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2971.0,
@@ -682,7 +718,7 @@
     },
     {
       "start": 3383.99,
-      "end": 4047.5,
+      "end": 3394.19,
       "text": "released lp the principle of moments there we are that's our three mystery tracks that make up"
     },
     {
@@ -822,8 +858,26 @@
     },
     {
       "start": 4304.13,
-      "end": 4728.1,
+      "end": 4312.53,
       "text": "...memory from Midnight Oil, which I guess we're all burning a little of tonight,"
+    },
+    {
+      "start": 4312.53,
+      "end": 4315.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4320.0,
+      "end": 4495.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4500.0,
+      "end": 4728.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4728.1,
@@ -932,7 +986,7 @@
     },
     {
       "start": 4783.48,
-      "end": 5669.87,
+      "end": 4790.08,
       "text": "Really is quite a piece of music, I think you'll agree."
     },
     {
@@ -1046,6 +1100,12 @@
       "text": "with a song made famous much, much later by Cream Spoonful."
     },
     {
+      "start": 5760.0,
+      "end": 6162.97,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 6167.97,
       "end": 6169.71,
       "text": "Shadows from the Joe Walsh album."
@@ -1086,6 +1146,12 @@
       "text": "Sneaks up on you, but it's there really."
     },
     {
+      "start": 6190.01,
+      "end": 6466.75,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 6238.0,
       "end": 6240.14,
       "text": "Now the day seems around"
@@ -1097,7 +1163,7 @@
     },
     {
       "start": 6248.65,
-      "end": 6466.73,
+      "end": 6252.25,
       "text": "With its arm round its seat"
     },
     {

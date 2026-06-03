@@ -59,7 +59,9 @@
       "artist": "Diamond Head",
       "track": "'Don't You Ever Leave Me'",
       "details": "V/A LP - The Friday Rock Show",
-      "verified_timestamp": 2323.26
+      "verified_timestamp": 2323.26,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t you ever leave"
     },
     {
       "artist": "Atomic Rooster",
@@ -91,7 +93,9 @@
       "artist": "Rush",
       "track": "Closer to the Heart",
       "details": "2xLP - Exit Stage Left",
-      "verified_timestamp": 4320.0
+      "verified_timestamp": 4320.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "said closer to the heart"
     },
     {
       "artist": "Rush",
@@ -136,6 +140,18 @@
     }
   ],
   "transcript": [
+    {
+      "start": 0.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 557.63,
+      "text": "[Music]",
+      "type": "music"
+    },
     {
       "start": 539.31,
       "end": 548.31,
@@ -238,8 +254,14 @@
     },
     {
       "start": 628.96,
-      "end": 1146.9,
+      "end": 639.16,
       "text": "of gray hair and walking sticks ah the reformed atomic rooster well without a doubt honesty is"
+    },
+    {
+      "start": 639.16,
+      "end": 1146.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1146.9,
@@ -303,8 +325,20 @@
     },
     {
       "start": 1184.16,
-      "end": 1656.67,
+      "end": 1189.56,
       "text": "Humble opinion, that's a really superb piece of music."
+    },
+    {
+      "start": 1189.56,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1656.67,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1656.67,
@@ -458,7 +492,7 @@
     },
     {
       "start": 1739.94,
-      "end": 2294.56,
+      "end": 1747.74,
       "text": "That you'll find is a single, I think it's on the Polydor label,"
     },
     {
@@ -523,8 +557,14 @@
     },
     {
       "start": 2350.58,
-      "end": 2779.94,
+      "end": 2358.38,
       "text": "It's from the new album by the Tigers of Pantang called Crazy Nights."
+    },
+    {
+      "start": 2358.38,
+      "end": 2780.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2780.82,
@@ -628,8 +668,14 @@
     },
     {
       "start": 2871.09,
-      "end": 3764.64,
+      "end": 2878.89,
       "text": "Connection put together by Craig Morrison, the College Lord Mayor's Walk in York."
+    },
+    {
+      "start": 2878.89,
+      "end": 3779.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3764.9,
@@ -868,8 +914,14 @@
     },
     {
       "start": 3926.0,
-      "end": 4567.64,
+      "end": 3933.2,
       "text": "...they might even be doing that at this very moment of time."
+    },
+    {
+      "start": 4320.0,
+      "end": 4569.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4568.0,
@@ -988,8 +1040,14 @@
     },
     {
       "start": 4673.32,
-      "end": 5476.94,
+      "end": 4681.12,
       "text": "Nice to see that man back into the realms of rock and roll"
+    },
+    {
+      "start": 4681.12,
+      "end": 5476.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5476.94,
@@ -1073,7 +1131,7 @@
     },
     {
       "start": 5613.07,
-      "end": 5920.77,
+      "end": 5622.67,
       "text": "tight little band they are they're called star fighters it's a track from our repeat session"
     },
     {
@@ -1103,7 +1161,7 @@
     },
     {
       "start": 5946.85,
-      "end": 6621.24,
+      "end": 5958.25,
       "text": "w1a4ww tell me on the guitar there that of course is black sabbath it's a track from their latest"
     },
     {

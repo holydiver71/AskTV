@@ -105,7 +105,9 @@
       "artist": "Ozzy Osbourne",
       "track": "Fool Like You",
       "details": "LP-The Ultimate Sin; Epic",
-      "verified_timestamp": 4860.0
+      "verified_timestamp": 4860.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you re going to i"
     },
     {
       "artist": "Scorpions",
@@ -138,7 +140,9 @@
       "artist": "Motörhead",
       "track": "Nothing Up My Sleeve",
       "details": "LP-Orgasmatron; GWR",
-      "verified_timestamp": 6300.0
+      "verified_timestamp": 6300.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and that s a fact"
     },
     {
       "artist": "James Young with Jan Hammer",
@@ -187,8 +191,20 @@
     },
     {
       "start": 60.45,
-      "end": 487.09,
+      "end": 69.45,
       "text": "The wonderful Dorothea Pesch with the band Warlock, confirmed for this year's Donington Rock Festival,"
+    },
+    {
+      "start": 69.45,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 489.65,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 487.39,
@@ -209,6 +225,12 @@
       "start": 498.31,
       "end": 501.23,
       "text": "So let's take the first of their tracks. This one is called Roses."
+    },
+    {
+      "start": 501.23,
+      "end": 833.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 833.79,
@@ -277,8 +299,14 @@
     },
     {
       "start": 862.65,
-      "end": 1355.54,
+      "end": 866.85,
       "text": "A hot flash from his debut album."
+    },
+    {
+      "start": 866.85,
+      "end": 1355.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1355.92,
@@ -342,7 +370,7 @@
     },
     {
       "start": 1392.76,
-      "end": 1587.87,
+      "end": 1402.96,
       "text": "and schools out from newcastle upon time that's tyson dog and schools out an old alice cooper"
     },
     {
@@ -377,7 +405,7 @@
     },
     {
       "start": 1614.35,
-      "end": 2361.92,
+      "end": 1624.55,
       "text": "world flock to see him so let's take a triptych of three classic tracks very sophisticated noddy"
     },
     {
@@ -497,8 +525,20 @@
     },
     {
       "start": 2439.91,
-      "end": 2881.23,
+      "end": 2445.31,
       "text": "Nice to hear that again, American Woman from Crocus"
+    },
+    {
+      "start": 2445.31,
+      "end": 2515.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2520.0,
+      "end": 2881.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2881.23,
@@ -597,7 +637,7 @@
     },
     {
       "start": 2930.05,
-      "end": 3250.4,
+      "end": 2933.05,
       "text": "Five minutes to eleven, exactly."
     },
     {
@@ -717,8 +757,14 @@
     },
     {
       "start": 3311.8,
-      "end": 3802.66,
+      "end": 3320.8,
       "text": "And Guns for Hire from ACDC, one of the best live bands in the world."
+    },
+    {
+      "start": 3320.8,
+      "end": 3804.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3804.11,
@@ -772,7 +818,7 @@
     },
     {
       "start": 3829.4,
-      "end": 4081.36,
+      "end": 3833.6,
       "text": "That is a brilliant piece of music."
     },
     {
@@ -912,7 +958,7 @@
     },
     {
       "start": 4139.48,
-      "end": 4680.18,
+      "end": 4142.48,
       "text": "Passion band tonight, Armistice"
     },
     {
@@ -967,8 +1013,14 @@
     },
     {
       "start": 4708.76,
-      "end": 5234.53,
+      "end": 4712.96,
       "text": "...this year, Ozzy Osbourne and the Scorpions."
+    },
+    {
+      "start": 4860.0,
+      "end": 5234.89,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5234.89,
@@ -997,8 +1049,14 @@
     },
     {
       "start": 5245.5,
-      "end": 5513.64,
+      "end": 5249.7,
       "text": "new single from the forthcoming Motorhead album"
+    },
+    {
+      "start": 5400.0,
+      "end": 5513.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5513.64,
@@ -1332,8 +1390,14 @@
     },
     {
       "start": 5689.86,
-      "end": 5914.23,
+      "end": 5700.66,
       "text": "know i mean he couldn't listen to anything i thought it was going to be called riding with"
+    },
+    {
+      "start": 5760.0,
+      "end": 5914.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5914.23,
@@ -1627,8 +1691,14 @@
     },
     {
       "start": 6147.72,
-      "end": 6343.55,
+      "end": 6152.52,
       "text": "Excellent tracks from the forthcoming Motorhead album, Orgasmatron"
+    },
+    {
+      "start": 6300.0,
+      "end": 6365.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6343.55,
@@ -1682,8 +1752,14 @@
     },
     {
       "start": 6378.68,
-      "end": 6596.42,
+      "end": 6381.68,
       "text": "Excellent track there."
+    },
+    {
+      "start": 6381.68,
+      "end": 6596.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6596.56,
@@ -1752,8 +1828,20 @@
     },
     {
       "start": 6628.1,
-      "end": 7173.73,
+      "end": 6631.1,
       "text": "The Magnificent Magnum"
+    },
+    {
+      "start": 6631.1,
+      "end": 7015.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 7020.0,
+      "end": 7173.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7173.73,

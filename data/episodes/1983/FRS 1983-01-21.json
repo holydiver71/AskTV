@@ -160,8 +160,14 @@
     },
     {
       "start": 72.58,
-      "end": 649.4,
+      "end": 83.38,
       "text": "As it says on the back of the single, recorded live at the Roundhouse, February the 13th, 1972."
+    },
+    {
+      "start": 83.38,
+      "end": 650.61,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 650.61,
@@ -245,7 +251,7 @@
     },
     {
       "start": 712.83,
-      "end": 1268.85,
+      "end": 718.83,
       "text": "Really excellent singles that have just come on the market."
     },
     {
@@ -315,8 +321,14 @@
     },
     {
       "start": 1311.86,
-      "end": 1754.6,
+      "end": 1314.86,
       "text": "That was Mama's Boys."
+    },
+    {
+      "start": 1314.86,
+      "end": 1754.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1754.96,
@@ -445,7 +457,7 @@
     },
     {
       "start": 1848.34,
-      "end": 2432.46,
+      "end": 1859.74,
       "text": "new ufo album the album is called making contact it's the new album by ufo out on the chrysalis"
     },
     {
@@ -560,12 +572,12 @@
     },
     {
       "start": 2496.58,
-      "end": 2816.0,
+      "end": 2503.78,
       "text": "like a cancer growth it's removed by skin let it be revealed"
     },
     {
       "start": 2816.0,
-      "end": 3252.28,
+      "end": 2826.8,
       "text": "that of course is genesis from the album selling england by the pound the track was called the"
     },
     {
@@ -660,7 +672,7 @@
     },
     {
       "start": 3342.93,
-      "end": 4609.72,
+      "end": 3350.13,
       "text": "I reckon there are two tracks in there that people might recognise,"
     },
     {
@@ -1005,7 +1017,7 @@
     },
     {
       "start": 5264.13,
-      "end": 5689.48,
+      "end": 5271.33,
       "text": "It is said that that man drives his record company absolutely crazy,"
     },
     {
@@ -1264,23 +1276,8 @@
       "text": "With some others in mind"
     },
     {
-      "start": 5894.32,
-      "end": 5895.74,
-      "text": "Take my ticket on out"
-    },
-    {
-      "start": 5895.74,
-      "end": 5897.2,
-      "text": "Take my ticket on out"
-    },
-    {
-      "start": 5897.2,
-      "end": 5898.68,
-      "text": "Take my ticket on out"
-    },
-    {
       "start": 5898.68,
-      "end": 6566.23,
+      "end": 5905.88,
       "text": "It used to be three tracks, but it ended up being four,"
     },
     {

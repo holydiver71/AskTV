@@ -37,7 +37,9 @@
       "artist": "Def Leppard",
       "track": "Answer To The Master",
       "details": "Peebles Session",
-      "verified_timestamp": 630.51
+      "verified_timestamp": 630.51,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "answer to the master see"
     },
     {
       "artist": "Witchfynde",
@@ -59,7 +61,9 @@
       "artist": "Man",
       "track": "'A Night In Dad's Bag'",
       "details": "Archive Session",
-      "verified_timestamp": 571.96
+      "verified_timestamp": 571.96,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "a night in dad s"
     },
     {
       "artist": "Harvest Moon",
@@ -176,6 +180,12 @@
       "text": "But this evening, we start with this."
     },
     {
+      "start": 68.44,
+      "end": 566.96,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 562.9,
       "end": 568.42,
       "text": "That's a band by the name of Trapeze and a track called Hold On from an album that's recently come out on the Aura label."
@@ -276,6 +286,12 @@
       "text": "who lives in St. Osith in Essex."
     },
     {
+      "start": 623.27,
+      "end": 624.63,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 628.15,
       "end": 629.51,
       "text": "Twelve and a half minutes after ten,"
@@ -297,8 +313,14 @@
     },
     {
       "start": 633.65,
-      "end": 1184.44,
+      "end": 637.25,
       "text": "That is something from an album"
+    },
+    {
+      "start": 637.25,
+      "end": 1184.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1184.44,
@@ -422,7 +444,7 @@
     },
     {
       "start": 1266.28,
-      "end": 1771.33,
+      "end": 1270.48,
       "text": "That is out on the SRT label."
     },
     {
@@ -587,7 +609,7 @@
     },
     {
       "start": 1847.63,
-      "end": 2119.02,
+      "end": 1855.43,
       "text": "It was Man, and it caught me by surprise, for which I apologise."
     },
     {
@@ -641,11 +663,6 @@
       "text": "We've got another track by them later."
     },
     {
-      "start": 2150.06,
-      "end": 2195.67,
-      "text": "Was the way I'm done"
-    },
-    {
       "start": 2195.67,
       "end": 2198.94,
       "text": "Daylight passed me by"
@@ -662,7 +679,7 @@
     },
     {
       "start": 2210.19,
-      "end": 2769.81,
+      "end": 2219.19,
       "text": "That was Def Leppard, that was from our session by them, it was called Wasted"
     },
     {
@@ -996,28 +1013,13 @@
       "text": "Lick the dust from your eye"
     },
     {
-      "start": 3487.16,
-      "end": 3488.94,
-      "text": "Life's a long song"
-    },
-    {
-      "start": 3488.94,
-      "end": 3493.11,
-      "text": "Life's a long song"
-    },
-    {
-      "start": 3493.11,
-      "end": 3497.24,
-      "text": "Life's a long song"
-    },
-    {
       "start": 3497.24,
       "end": 3503.38,
       "text": "In the sweet light of dawn"
     },
     {
       "start": 3503.38,
-      "end": 4326.16,
+      "end": 3509.98,
       "text": "That's the Friday Night Connection for this Friday before Christmas Day."
     },
     {
@@ -1122,7 +1124,7 @@
     },
     {
       "start": 4387.0,
-      "end": 4870.65,
+      "end": 4390.0,
       "text": "Sorrow is a Woman."
     },
     {
@@ -1162,8 +1164,14 @@
     },
     {
       "start": 4897.18,
-      "end": 5503.84,
+      "end": 4909.18,
       "text": "Now that was Kiss. It's the track from their current album, which is out at the moment called The Elder."
+    },
+    {
+      "start": 5040.0,
+      "end": 5504.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5504.38,
@@ -1247,7 +1255,7 @@
     },
     {
       "start": 5592.33,
-      "end": 6023.32,
+      "end": 5604.33,
       "text": "definitely ain't their fight man as they were way back in 1973 recorded on the 18th of the 9th in"
     },
     {
@@ -1327,7 +1335,7 @@
     },
     {
       "start": 6056.87,
-      "end": 6481.71,
+      "end": 6059.87,
       "text": "This track by Thin Lizzy"
     },
     {
@@ -1402,7 +1410,7 @@
     },
     {
       "start": 6533.44,
-      "end": 6754.59,
+      "end": 6540.64,
       "text": "Now that's a track from a new double album of old material"
     },
     {

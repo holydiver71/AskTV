@@ -152,6 +152,12 @@
   ],
   "transcript": [
     {
+      "start": 360.0,
+      "end": 577.04,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 577.04,
       "end": 582.04,
       "text": "Obviously, I think that's one of the best rock records to come out in years. It's a very, very good record. Classy."
@@ -448,7 +454,7 @@
     },
     {
       "start": 1323.58,
-      "end": 1994.16,
+      "end": 1327.18,
       "text": "Back in 1976, Status Quo, Backwater."
     },
     {
@@ -593,7 +599,7 @@
     },
     {
       "start": 2082.87,
-      "end": 2565.88,
+      "end": 2094.27,
       "text": "see him on the 22nd the band here are called chastain go for a song that was except from"
     },
     {
@@ -838,8 +844,9 @@
     },
     {
       "start": 2662.48,
-      "end": 2700.7,
-      "text": "I think I'll fall, he said."
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2701.14,
@@ -855,6 +862,12 @@
       "start": 2713.75,
       "end": 2720.54,
       "text": "I'm in love with you."
+    },
+    {
+      "start": 2720.54,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2763.38,
@@ -873,8 +886,14 @@
     },
     {
       "start": 2779.8,
-      "end": 3454.96,
+      "end": 2787.6,
       "text": "Led Zeppelin from the album In Through The Outdoor came out in 1979."
+    },
+    {
+      "start": 3240.0,
+      "end": 3455.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3455.74,
@@ -973,8 +992,14 @@
     },
     {
       "start": 3542.09,
-      "end": 4083.94,
+      "end": 3545.69,
       "text": "Ended version, it's on the 12-inch."
+    },
+    {
+      "start": 3960.0,
+      "end": 4084.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4084.48,
@@ -1088,8 +1113,32 @@
     },
     {
       "start": 4154.43,
-      "end": 5384.99,
+      "end": 4159.83,
       "text": "The feature was called Lie Back and Enjoy It."
+    },
+    {
+      "start": 4320.0,
+      "end": 4495.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4500.0,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4680.0,
+      "end": 5035.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5040.0,
+      "end": 5385.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5385.01,
@@ -1323,8 +1372,14 @@
     },
     {
       "start": 5511.29,
-      "end": 6070.87,
+      "end": 5517.89,
       "text": "The album is called The Wedge, and it really is excellent."
+    },
+    {
+      "start": 5517.89,
+      "end": 6066.07,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6071.07,
@@ -1340,6 +1395,12 @@
       "start": 6076.98,
       "end": 6078.3,
       "text": "a lot of whom write into the show."
+    },
+    {
+      "start": 6078.3,
+      "end": 6078.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6078.7,
@@ -1383,8 +1444,20 @@
     },
     {
       "start": 6097.34,
-      "end": 6606.78,
+      "end": 6102.74,
       "text": "That was Motley Crue, Smokin' in the Boys' Room."
+    },
+    {
+      "start": 6102.74,
+      "end": 6475.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6480.0,
+      "end": 6607.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6607.22,
@@ -1458,7 +1531,7 @@
     },
     {
       "start": 6655.09,
-      "end": 7104.68,
+      "end": 6658.09,
       "text": "Extremely good album."
     },
     {

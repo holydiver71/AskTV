@@ -177,7 +177,7 @@
     },
     {
       "start": 69.02,
-      "end": 727.35,
+      "end": 79.82,
       "text": "one but tonight we start with this that was hawkwind from the album they brought out in 1972"
     },
     {
@@ -292,8 +292,14 @@
     },
     {
       "start": 821.82,
-      "end": 1348.07,
+      "end": 828.42,
       "text": "It's a track from an album by the Lita Ford Band."
+    },
+    {
+      "start": 828.42,
+      "end": 1348.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1348.23,
@@ -657,7 +663,7 @@
     },
     {
       "start": 2089.59,
-      "end": 2524.2,
+      "end": 2097.39,
       "text": "David Bowie and Soul Love, and before that, the same fellow with DJ."
     },
     {
@@ -787,7 +793,7 @@
     },
     {
       "start": 2598.26,
-      "end": 3091.55,
+      "end": 2601.26,
       "text": "Pick a record label."
     },
     {
@@ -932,7 +938,7 @@
     },
     {
       "start": 3161.41,
-      "end": 3571.93,
+      "end": 3164.41,
       "text": "This past 11"
     },
     {
@@ -1082,8 +1088,9 @@
     },
     {
       "start": 3665.38,
-      "end": 3716.0,
-      "text": "Gives visions of life"
+      "end": 3782.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3716.0,
@@ -1122,7 +1129,7 @@
     },
     {
       "start": 3783.58,
-      "end": 4163.04,
+      "end": 3790.18,
       "text": "That's put together by Neil Cox of the Whittle in Cheshire."
     },
     {
@@ -1192,8 +1199,14 @@
     },
     {
       "start": 4224.23,
-      "end": 4738.18,
+      "end": 4230.83,
       "text": "Only one man in the world who makes records like that"
+    },
+    {
+      "start": 4680.0,
+      "end": 4773.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4738.18,
@@ -1347,7 +1360,7 @@
     },
     {
       "start": 4903.02,
-      "end": 5371.3,
+      "end": 4909.02,
       "text": "Play that at this time of year for obvious reasons."
     },
     {
@@ -1427,7 +1440,7 @@
     },
     {
       "start": 5420.69,
-      "end": 5926.45,
+      "end": 5429.69,
       "text": "In the States where I went on holiday, they're on the radio all the time."
     },
     {
@@ -1542,7 +1555,7 @@
     },
     {
       "start": 5972.47,
-      "end": 6459.9,
+      "end": 5978.47,
       "text": "That, of course, is David Bowie and Across the Universe."
     },
     {
@@ -1647,7 +1660,7 @@
     },
     {
       "start": 6510.08,
-      "end": 6981.09,
+      "end": 6514.28,
       "text": "Find that track on an import album."
     },
     {

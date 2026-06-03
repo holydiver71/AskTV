@@ -207,7 +207,7 @@
     },
     {
       "start": 68.3,
-      "end": 572.02,
+      "end": 72.5,
       "text": "That's Mr. Gary Moore and a track"
     },
     {
@@ -327,7 +327,7 @@
     },
     {
       "start": 657.62,
-      "end": 1183.96,
+      "end": 660.62,
       "text": "Everybody else's as well."
     },
     {
@@ -422,8 +422,14 @@
     },
     {
       "start": 1229.02,
-      "end": 1615.08,
+      "end": 1235.02,
       "text": "That got us to number eight way back in 1971"
+    },
+    {
+      "start": 1235.02,
+      "end": 1615.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1615.08,
@@ -517,7 +523,7 @@
     },
     {
       "start": 1688.52,
-      "end": 2212.66,
+      "end": 1692.12,
       "text": "Bernie Tomei and the Electric Gypsies"
     },
     {
@@ -682,7 +688,7 @@
     },
     {
       "start": 2312.28,
-      "end": 2828.36,
+      "end": 2322.48,
       "text": "that was alcatraz and a track from the session recorded last july the track was called miles"
     },
     {
@@ -837,7 +843,7 @@
     },
     {
       "start": 2921.62,
-      "end": 3284.43,
+      "end": 2924.62,
       "text": "A severe amount of welly."
     },
     {
@@ -879,6 +885,12 @@
       "start": 3308.45,
       "end": 3312.95,
       "text": "A fellow that used to produce another Canadian band, or indeed, I think, wrote lyrics for another band once."
+    },
+    {
+      "start": 3312.95,
+      "end": 3316.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3321.88,
@@ -1037,8 +1049,14 @@
     },
     {
       "start": 3476.02,
-      "end": 4230.88,
+      "end": 3479.62,
       "text": "Bit tricky, that one, bit tricky."
+    },
+    {
+      "start": 3479.62,
+      "end": 4232.35,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4232.35,
@@ -1087,7 +1105,7 @@
     },
     {
       "start": 4280.32,
-      "end": 4718.38,
+      "end": 4291.12,
       "text": "the night that's what i call a really valid band everybody in that band knows exactly what they're"
     },
     {
@@ -1277,7 +1295,7 @@
     },
     {
       "start": 5225.53,
-      "end": 5753.19,
+      "end": 5234.53,
       "text": "sin after sin excellent band and that's their latest single that's golden earring and their"
     },
     {
@@ -1307,7 +1325,7 @@
     },
     {
       "start": 5784.22,
-      "end": 6325.36,
+      "end": 5795.62,
       "text": "ireland the album's out on electro it's by motley crew the album is called too fast for love they"
     },
     {

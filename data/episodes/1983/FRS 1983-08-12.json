@@ -122,7 +122,7 @@
   "transcript": [
     {
       "start": 2.61,
-      "end": 587.6,
+      "end": 22.41,
       "text": "Recorded live, I think, at Sheffield University during July. The track was called I'm Your Hoochie Coochie Man, an old Willie Dixon number. And it's on the B-side of the 12-incher of Shine."
     },
     {
@@ -202,8 +202,14 @@
     },
     {
       "start": 632.27,
-      "end": 1252.0,
+      "end": 635.87,
       "text": "That was the Charlie Daniels Band"
+    },
+    {
+      "start": 635.87,
+      "end": 1252.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1252.0,
@@ -402,7 +408,7 @@
     },
     {
       "start": 1357.22,
-      "end": 1836.41,
+      "end": 1362.02,
       "text": "And that's a track from a new album"
     },
     {
@@ -512,7 +518,7 @@
     },
     {
       "start": 1940.68,
-      "end": 2650.55,
+      "end": 1950.28,
       "text": "twisted sister that's their latest single just come out on the atlantic record label you can't"
     },
     {
@@ -642,7 +648,7 @@
     },
     {
       "start": 2724.14,
-      "end": 3194.67,
+      "end": 2733.74,
       "text": "It's a fella by the name of Stevie Ray Vaughan and his band called Double Trouble."
     },
     {
@@ -832,8 +838,14 @@
     },
     {
       "start": 3298.73,
-      "end": 4273.29,
+      "end": 3301.73,
       "text": "Now, Friday Night Connection."
+    },
+    {
+      "start": 3301.73,
+      "end": 4273.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4273.41,
@@ -932,8 +944,14 @@
     },
     {
       "start": 4348.47,
-      "end": 4962.67,
+      "end": 4355.07,
       "text": "That, of course, is the big lug himself, Mr Robert Plant,"
+    },
+    {
+      "start": 4355.07,
+      "end": 4962.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4962.79,
@@ -1057,7 +1075,7 @@
     },
     {
       "start": 5012.1,
-      "end": 5305.07,
+      "end": 5016.3,
       "text": "The respectable job of that great old"
     },
     {
@@ -1127,7 +1145,7 @@
     },
     {
       "start": 5329.37,
-      "end": 5904.89,
+      "end": 5335.97,
       "text": "Who says I don't work with a producer who's got taste"
     },
     {
@@ -1222,8 +1240,14 @@
     },
     {
       "start": 5956.73,
-      "end": 6371.47,
+      "end": 5963.93,
       "text": "The American record company Arista didn't release that album in this country."
+    },
+    {
+      "start": 5963.93,
+      "end": 6371.57,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6371.57,
@@ -1262,7 +1286,7 @@
     },
     {
       "start": 6389.87,
-      "end": 6828.74,
+      "end": 6395.87,
       "text": "Solstice there, and what you heard was called The Sea."
     },
     {

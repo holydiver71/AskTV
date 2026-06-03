@@ -200,7 +200,7 @@
     },
     {
       "start": 66.66,
-      "end": 637.15,
+      "end": 78.66,
       "text": "A couple of years in the making and a couple of years in the coming, but it's in the here."
     },
     {
@@ -370,8 +370,14 @@
     },
     {
       "start": 741.98,
-      "end": 1251.42,
+      "end": 746.78,
       "text": "It's a track from a double live album"
+    },
+    {
+      "start": 746.78,
+      "end": 1251.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1251.42,
@@ -520,7 +526,7 @@
     },
     {
       "start": 1322.6,
-      "end": 1762.72,
+      "end": 1327.4,
       "text": "...from our repeat session by them, Nida Lodolobin."
     },
     {
@@ -595,8 +601,14 @@
     },
     {
       "start": 1844.7,
-      "end": 2236.43,
+      "end": 1849.5,
       "text": "That was first a hit for Patti Smith,"
+    },
+    {
+      "start": 1849.5,
+      "end": 2236.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2236.53,
@@ -685,7 +697,7 @@
     },
     {
       "start": 2274.92,
-      "end": 2815.91,
+      "end": 2277.92,
       "text": "Just to repeat that session."
     },
     {
@@ -847,6 +859,12 @@
       "start": 2904.28,
       "end": 2907.16,
       "text": "And now, here's the music of the self-same lady."
+    },
+    {
+      "start": 2907.16,
+      "end": 4094.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4094.46,
@@ -1030,7 +1048,7 @@
     },
     {
       "start": 4197.6,
-      "end": 4733.88,
+      "end": 4203.6,
       "text": "From our session by them, Get Off Your High Horse."
     },
     {
@@ -1255,7 +1273,7 @@
     },
     {
       "start": 4884.73,
-      "end": 5401.1,
+      "end": 4888.33,
       "text": "Big Jack of the Rolling Stones"
     },
     {
@@ -1355,7 +1373,7 @@
     },
     {
       "start": 5460.44,
-      "end": 5901.52,
+      "end": 5471.24,
       "text": "the beginning this is sweet and innocent an easy love anew before that diamond head from an album"
     },
     {
@@ -1485,7 +1503,7 @@
     },
     {
       "start": 6021.18,
-      "end": 6571.66,
+      "end": 6025.98,
       "text": "Before that, Dokken, they're single in my dreams"
     },
     {
@@ -1575,7 +1593,7 @@
     },
     {
       "start": 6639.7,
-      "end": 7104.84,
+      "end": 6648.7,
       "text": "they are honeymoon sweet you're getting a lot of favorable reaction as a live band"
     },
     {

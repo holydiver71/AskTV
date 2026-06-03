@@ -100,7 +100,9 @@
       "artist": "Yardbirds",
       "track": "Too Much Monkey Business",
       "details": "LP-Five Live Yardbirds; Columbia",
-      "verified_timestamp": 2160.0
+      "verified_timestamp": 2160.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "too much monkey business for"
     },
     {
       "artist": "Birds",
@@ -174,7 +176,9 @@
       "artist": "Thin Lizzy",
       "track": "Are You Ready",
       "details": "2xLP-Live And Dangerous; Vertigo",
-      "verified_timestamp": 5400.0
+      "verified_timestamp": 5400.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "s a new one this"
     },
     {
       "artist": "Judas Priest",
@@ -186,7 +190,9 @@
       "artist": "Damned",
       "track": "New Rose",
       "details": "LP-Damned Damned Damned; Stiff",
-      "verified_timestamp": 5760.0
+      "verified_timestamp": 5760.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "is she really going out"
     },
     {
       "artist": "Pat Benatar",
@@ -236,8 +242,14 @@
     },
     {
       "start": 11.36,
-      "end": 144.04,
+      "end": 20.96,
       "text": "Yes, indeed, Little Richard, a wonderful person, as I'm sure you've noticed on the telly recently."
+    },
+    {
+      "start": 20.96,
+      "end": 147.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 144.04,
@@ -251,8 +263,15 @@
     },
     {
       "start": 152.04,
-      "end": 269.89,
-      "text": "Uh-huh, honey. That's enough for tonight."
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 288.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 269.89,
@@ -325,6 +344,12 @@
       "text": "Chuck Berry, a wondrous person, you will be hearing another track of his later."
     },
     {
+      "start": 540.0,
+      "end": 561.92,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 564.26,
       "end": 566.44,
       "text": "I'm sure he'd be pleased, he got the money after all."
@@ -341,8 +366,14 @@
     },
     {
       "start": 573.24,
-      "end": 698.43,
+      "end": 580.44,
       "text": "Little Richard and the Upsetters, which was the name of his band,"
+    },
+    {
+      "start": 580.44,
+      "end": 698.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 698.51,
@@ -405,6 +436,12 @@
       "text": "This is called Love Hurts."
     },
     {
+      "start": 900.0,
+      "end": 990.83,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 990.83,
       "end": 991.51,
       "text": "Wonderful, eh?"
@@ -450,6 +487,12 @@
       "text": "This is called Something Else."
     },
     {
+      "start": 1080.0,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1129.5,
       "end": 1130.9,
       "text": "Absolutely top-notch."
@@ -493,6 +536,12 @@
       "start": 1144.92,
       "end": 1146.48,
       "text": "It's Nadine, Chuck Berry."
+    },
+    {
+      "start": 1260.0,
+      "end": 1307.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1293.84,
@@ -546,8 +595,14 @@
     },
     {
       "start": 1314.02,
-      "end": 1448.16,
+      "end": 1317.02,
       "text": "this one is Shirell's number"
+    },
+    {
+      "start": 1317.02,
+      "end": 1448.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1448.16,
@@ -581,7 +636,7 @@
     },
     {
       "start": 1459.28,
-      "end": 1602.75,
+      "end": 1462.28,
       "text": "he's talking about boys everybody"
     },
     {
@@ -646,7 +701,7 @@
     },
     {
       "start": 1756.02,
-      "end": 1926.26,
+      "end": 1760.22,
       "text": "in a taxi in the West End"
     },
     {
@@ -690,6 +745,12 @@
       "text": "to be your man listen to this one in those days everybody i don't know if you know about this but"
     },
     {
+      "start": 1980.0,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2048.12,
       "end": 2052.32,
       "text": "guitars just didn't sound like that i still don't know how they did it i wish i could do it make a"
@@ -711,8 +772,14 @@
     },
     {
       "start": 2066.66,
-      "end": 2237.29,
+      "end": 2070.86,
       "text": "I don't know if you noticed, everybody"
+    },
+    {
+      "start": 2160.0,
+      "end": 2250.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2237.29,
@@ -776,8 +843,14 @@
     },
     {
       "start": 2258.85,
-      "end": 2440.17,
+      "end": 2269.05,
       "text": "how's that then for a drum sound pete still driving back to sheffield hello pete this one"
+    },
+    {
+      "start": 2340.0,
+      "end": 2440.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2440.17,
@@ -796,8 +869,14 @@
     },
     {
       "start": 2456.57,
-      "end": 2683.37,
+      "end": 2469.17,
       "text": "I did it's called rock and roll rock and roll is what it's all about and they're a good command of"
+    },
+    {
+      "start": 2520.0,
+      "end": 2683.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2683.37,
@@ -821,7 +900,7 @@
     },
     {
       "start": 2702.47,
-      "end": 2972.2,
+      "end": 2715.07,
       "text": "called see me feel me louise and was a great band i'm telling you i saw him when they wore medals"
     },
     {
@@ -856,8 +935,14 @@
     },
     {
       "start": 3000.31,
-      "end": 3276.56,
+      "end": 3009.31,
       "text": "Woodstock album. It's the best guitarist in the history of mankind, except for Julian Breen,"
+    },
+    {
+      "start": 3009.31,
+      "end": 3276.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3276.64,
@@ -926,7 +1011,7 @@
     },
     {
       "start": 3386.32,
-      "end": 3554.1,
+      "end": 3397.12,
       "text": "great i thought they were wonderful but too political you see i mean i got this book the"
     },
     {
@@ -986,8 +1071,14 @@
     },
     {
       "start": 3578.42,
-      "end": 3917.38,
+      "end": 3581.42,
       "text": "great again now as well"
+    },
+    {
+      "start": 3600.0,
+      "end": 3917.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3917.38,
@@ -1041,7 +1132,7 @@
     },
     {
       "start": 3952.19,
-      "end": 4206.2,
+      "end": 3962.99,
       "text": "idiots this is called whole lot of rosie wonderful stuff this is a rarity everyone for the collectors"
     },
     {
@@ -1061,8 +1152,14 @@
     },
     {
       "start": 4220.98,
-      "end": 4447.53,
+      "end": 4232.38,
       "text": "here's some guitar for you never heard that before this one is another ac dc track aren't you glad"
+    },
+    {
+      "start": 4320.0,
+      "end": 4448.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4448.21,
@@ -1130,6 +1227,12 @@
       "text": "One of their guitarists married Patti Smith, you know."
     },
     {
+      "start": 4860.0,
+      "end": 5035.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4908.32,
       "end": 4912.02,
       "text": "Yes, indeed, the MC5, or Motor City 5, as us buffs know them."
@@ -1151,8 +1254,14 @@
     },
     {
       "start": 4925.96,
-      "end": 5081.42,
+      "end": 4929.56,
       "text": "Fab gear, eh, boys and girls?"
+    },
+    {
+      "start": 5040.0,
+      "end": 5215.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5081.88,
@@ -1183,6 +1292,12 @@
       "start": 5095.13,
       "end": 5096.83,
       "text": "This is called Mystery Song, status quo."
+    },
+    {
+      "start": 5220.0,
+      "end": 5332.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5332.4,
@@ -1231,8 +1346,14 @@
     },
     {
       "start": 5362.33,
-      "end": 5520.88,
+      "end": 5367.13,
       "text": "A fine band, a very fine band indeed."
+    },
+    {
+      "start": 5400.0,
+      "end": 5521.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5521.44,
@@ -1281,8 +1402,14 @@
     },
     {
       "start": 5550.54,
-      "end": 5706.83,
+      "end": 5554.74,
       "text": "How about that then, Breaking the Law?"
+    },
+    {
+      "start": 5580.0,
+      "end": 5707.07,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5707.07,
@@ -1356,8 +1483,14 @@
     },
     {
       "start": 5737.93,
-      "end": 5899.46,
+      "end": 5740.93,
       "text": "Punk, eh?"
+    },
+    {
+      "start": 5760.0,
+      "end": 5899.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5899.72,
@@ -1416,8 +1549,14 @@
     },
     {
       "start": 5926.35,
-      "end": 6216.07,
+      "end": 5929.35,
       "text": "Pat Benatar."
+    },
+    {
+      "start": 5940.0,
+      "end": 6219.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6217.69,
@@ -1441,8 +1580,14 @@
     },
     {
       "start": 6230.36,
-      "end": 6639.95,
+      "end": 6244.16,
       "text": "person in one of the bands you will never know who it is but she knows who she is it says to me"
+    },
+    {
+      "start": 6244.16,
+      "end": 6639.95,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6639.95,
@@ -1486,7 +1631,7 @@
     },
     {
       "start": 6679.71,
-      "end": 6907.52,
+      "end": 6690.51,
       "text": "boys play with dolls the new church who are good boys despite the slur on their reputation brian"
     },
     {
@@ -1576,8 +1721,14 @@
     },
     {
       "start": 6953.62,
-      "end": 7139.34,
+      "end": 6959.62,
       "text": "Well then, everybody, the BBC has run out of time"
+    },
+    {
+      "start": 6959.62,
+      "end": 7139.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7139.34,

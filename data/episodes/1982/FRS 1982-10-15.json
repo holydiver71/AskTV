@@ -49,7 +49,9 @@
       "artist": "Humble Pie",
       "track": "Natural Born Boogie",
       "details": "1969 BBC Session",
-      "verified_timestamp": 1440.0
+      "verified_timestamp": 1440.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "there she is again steppin"
     },
     {
       "artist": "Humble Pie",
@@ -112,7 +114,9 @@
       "artist": "Humble Pie",
       "track": "The Big Black Dog",
       "details": "1971 BBC Session",
-      "verified_timestamp": 1423.07
+      "verified_timestamp": 1423.07,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i was on my way"
     },
     {
       "artist": "Humble Pie",
@@ -188,7 +192,7 @@
     },
     {
       "start": 198.0,
-      "end": 469.84,
+      "end": 202.8,
       "text": "Stray Dog there and Tramp, how it is."
     },
     {
@@ -233,8 +237,14 @@
     },
     {
       "start": 493.9,
-      "end": 731.53,
+      "end": 501.1,
       "text": "And Long Gone out as a single from his new album Magic"
+    },
+    {
+      "start": 501.1,
+      "end": 731.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 731.53,
@@ -283,7 +293,7 @@
     },
     {
       "start": 760.27,
-      "end": 951.62,
+      "end": 766.27,
       "text": "Lucy there from our session group, North East Band, Fist."
     },
     {
@@ -363,8 +373,14 @@
     },
     {
       "start": 1189.24,
-      "end": 1400.09,
+      "end": 1193.44,
       "text": "You Make It Swell there from Stars,"
+    },
+    {
+      "start": 1193.44,
+      "end": 1400.43,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1400.43,
@@ -448,8 +464,14 @@
     },
     {
       "start": 1443.11,
-      "end": 1732.97,
+      "end": 1447.31,
       "text": "There somewhere's got my soul to take"
+    },
+    {
+      "start": 1447.31,
+      "end": 1732.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1732.97,
@@ -478,7 +500,7 @@
     },
     {
       "start": 1751.86,
-      "end": 1935.4,
+      "end": 1757.26,
       "text": "Sure, Woody Woody never had it so good there."
     },
     {
@@ -518,7 +540,7 @@
     },
     {
       "start": 1956.46,
-      "end": 2155.82,
+      "end": 1960.06,
       "text": "This is Livewire, Motley Crue there,"
     },
     {
@@ -568,7 +590,7 @@
     },
     {
       "start": 2186.2,
-      "end": 2635.48,
+      "end": 2191.6,
       "text": "And a track from their off-the-record album, Windy City."
     },
     {
@@ -623,7 +645,7 @@
     },
     {
       "start": 2664.78,
-      "end": 2888.27,
+      "end": 2671.98,
       "text": "Powerful stuff there from our session band Fist, and that was Vamp."
     },
     {
@@ -643,7 +665,7 @@
     },
     {
       "start": 2900.87,
-      "end": 3346.66,
+      "end": 2908.67,
       "text": "Yes, more doomy riffs than the first six dozen Black Sabbath albums there."
     },
     {
@@ -753,8 +775,14 @@
     },
     {
       "start": 3394.32,
-      "end": 4480.79,
+      "end": 3397.32,
       "text": "The Friday Night Connection"
+    },
+    {
+      "start": 3397.32,
+      "end": 4480.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4480.79,
@@ -803,7 +831,7 @@
     },
     {
       "start": 4518.59,
-      "end": 4780.52,
+      "end": 4528.19,
       "text": "on the new lp this is assault attack assault attack there from the michael shenker group"
     },
     {
@@ -878,7 +906,7 @@
     },
     {
       "start": 4828.16,
-      "end": 4989.61,
+      "end": 4835.36,
       "text": "The Wanderer there from North East band Fist, our session band tonight."
     },
     {
@@ -948,8 +976,14 @@
     },
     {
       "start": 5020.27,
-      "end": 5390.37,
+      "end": 5023.87,
       "text": "the mysterious realm of Warsaw there"
+    },
+    {
+      "start": 5023.87,
+      "end": 5390.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5390.37,
@@ -998,7 +1032,7 @@
     },
     {
       "start": 5419.58,
-      "end": 5939.54,
+      "end": 5422.58,
       "text": "jumped back. Two excellent archive"
     },
     {
@@ -1058,7 +1092,7 @@
     },
     {
       "start": 5974.96,
-      "end": 6183.65,
+      "end": 5986.36,
       "text": "Run. Samson there and Life on the Run. I had to fade it a little early there because I've"
     },
     {
@@ -1078,7 +1112,7 @@
     },
     {
       "start": 6198.29,
-      "end": 6432.1,
+      "end": 6207.89,
       "text": "mind-blowing stuff there from blue cheer and uh one of my favorite albums of all time"
     },
     {
@@ -1093,7 +1127,7 @@
     },
     {
       "start": 6444.38,
-      "end": 6616.94,
+      "end": 6453.38,
       "text": "from our session band fist it's uh something called dog soldier powerful stuff there from"
     },
     {

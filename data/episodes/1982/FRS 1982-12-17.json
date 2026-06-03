@@ -78,7 +78,9 @@
     {
       "artist": "Movie Stars",
       "track": "Eye Of The Storm",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you know what i m"
     },
     {
       "artist": "Venom",
@@ -141,8 +143,14 @@
     },
     {
       "start": 67.6,
-      "end": 553.81,
+      "end": 79.6,
       "text": "and a new one but tonight we start with this who tonight are on stage with gillan here in london"
+    },
+    {
+      "start": 79.6,
+      "end": 553.81,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 553.81,
@@ -266,8 +274,20 @@
     },
     {
       "start": 620.94,
-      "end": 1249.02,
+      "end": 632.94,
       "text": "by the movie stars this is no time to kill heard that track for years it's called the sheriff it's"
+    },
+    {
+      "start": 632.94,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1259.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1249.02,
@@ -425,8 +445,14 @@
       "text": "This is something very pleasant by Twelfth Night."
     },
     {
-      "start": 2078.4,
+      "start": 1976.8,
       "end": 2443.8,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2078.4,
+      "end": 2083.8,
       "text": "I remember they had a really impressive album about..."
     },
     {
@@ -606,7 +632,7 @@
     },
     {
       "start": 3214.76,
-      "end": 3783.46,
+      "end": 3220.16,
       "text": "Metallic Storm is out on the Ebony record label."
     },
     {
@@ -751,8 +777,14 @@
     },
     {
       "start": 3867.52,
-      "end": 4003.09,
+      "end": 3874.72,
       "text": "That all the love you've been giving has all been meant for..."
+    },
+    {
+      "start": 3874.72,
+      "end": 4003.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4003.09,
@@ -771,7 +803,7 @@
     },
     {
       "start": 4073.13,
-      "end": 4822.16,
+      "end": 4078.53,
       "text": "as constructed from the vivid imagination of Sally Westwater"
     },
     {
@@ -1021,8 +1053,14 @@
     },
     {
       "start": 5349.02,
-      "end": 5791.06,
+      "end": 5353.82,
       "text": "This is a song off Wheels of Steel,"
+    },
+    {
+      "start": 5353.82,
+      "end": 6080.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5791.14,
@@ -1031,7 +1069,7 @@
     },
     {
       "start": 5793.22,
-      "end": 6080.36,
+      "end": 5804.62,
       "text": "it's called 747 strangers in the night that is how they were last april live on bbc radio one"
     },
     {
@@ -1236,7 +1274,7 @@
     },
     {
       "start": 6485.61,
-      "end": 6988.28,
+      "end": 6488.61,
       "text": "If you believe..."
     }
   ]

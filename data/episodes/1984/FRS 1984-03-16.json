@@ -219,8 +219,14 @@
     },
     {
       "start": 69.9,
-      "end": 465.97,
+      "end": 74.1,
       "text": "Pat Travers' band, Snorting Whiskey, Drinkin' Coke."
+    },
+    {
+      "start": 74.1,
+      "end": 467.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 467.32,
@@ -518,6 +524,12 @@
       "text": "You ready?"
     },
     {
+      "start": 636.08,
+      "end": 1127.04,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1127.04,
       "end": 1127.84,
       "text": "Classy band."
@@ -784,7 +796,7 @@
     },
     {
       "start": 1278.08,
-      "end": 1821.83,
+      "end": 1281.08,
       "text": "The track was called Headlines."
     },
     {
@@ -834,7 +846,7 @@
     },
     {
       "start": 1842.95,
-      "end": 2332.85,
+      "end": 1846.55,
       "text": "Remember the band called Generation X?"
     },
     {
@@ -964,8 +976,14 @@
     },
     {
       "start": 2400.44,
-      "end": 3012.84,
+      "end": 2405.84,
       "text": "buy me with a crate of Lone Star beer"
+    },
+    {
+      "start": 2405.84,
+      "end": 3012.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3012.84,
@@ -1011,6 +1029,12 @@
       "start": 3024.92,
       "end": 3027.74,
       "text": "BBC Radio 1, Alaska, and a Coupe de Ville."
+    },
+    {
+      "start": 3027.74,
+      "end": 3665.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3665.5,
@@ -1203,8 +1227,14 @@
       "text": "Here is Rep's connection."
     },
     {
+      "start": 3775.28,
+      "end": 4702.94,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3881.24,
-      "end": 4701.98,
+      "end": 3889.64,
       "text": "It's just an excerpt from the track because it's the whole of one side."
     },
     {
@@ -1254,7 +1284,7 @@
     },
     {
       "start": 4738.55,
-      "end": 5314.73,
+      "end": 4744.55,
       "text": "That's a track from the solo album by David Gilmour."
     },
     {
@@ -1343,13 +1373,8 @@
       "text": "It's called The Uncle Willie."
     },
     {
-      "start": 5352.73,
-      "end": 5421.0,
-      "text": "And nothing will do."
-    },
-    {
       "start": 5421.28,
-      "end": 5834.68,
+      "end": 5426.68,
       "text": "That was Alaska. From our repeat session by them,"
     },
     {
@@ -1394,7 +1419,7 @@
     },
     {
       "start": 5864.52,
-      "end": 6280.47,
+      "end": 5877.12,
       "text": "samson i love that is at number 24 in the american charts at the moment it looks like it's going to"
     },
     {
@@ -1414,7 +1439,7 @@
     },
     {
       "start": 6300.26,
-      "end": 6777.48,
+      "end": 6311.66,
       "text": "thrill that was alaska in the heart of the storm many thanks to alaska for their session also thanks"
     },
     {

@@ -97,7 +97,9 @@
       "artist": "The Rods",
       "track": "Nothing Going On In The City",
       "details": "LP - The Rods",
-      "verified_timestamp": 4320.0
+      "verified_timestamp": 4320.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "nothing going on in the"
     }
   ],
   "transcript": [
@@ -105,6 +107,12 @@
       "start": 0.98,
       "end": 4.98,
       "text": "A new one. But this week, we start with this."
+    },
+    {
+      "start": 720.0,
+      "end": 1333.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1324.42,
@@ -203,8 +211,14 @@
     },
     {
       "start": 1385.29,
-      "end": 2145.06,
+      "end": 1388.89,
       "text": "That's it, the Friday Night Connection"
+    },
+    {
+      "start": 1388.89,
+      "end": 2145.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2145.06,
@@ -288,8 +302,20 @@
     },
     {
       "start": 2190.54,
-      "end": 2703.27,
+      "end": 2206.14,
       "text": "A bit of a classic there from Ted Nugent, from the best of Ted Nugent, called Great Gonzo's, which is just out on the Epic label."
+    },
+    {
+      "start": 2340.0,
+      "end": 2515.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2520.0,
+      "end": 2703.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2703.39,
@@ -320,6 +346,12 @@
       "start": 2726.19,
       "end": 2728.37,
       "text": "and all of the Prescott mob."
+    },
+    {
+      "start": 3060.0,
+      "end": 3152.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3144.49,
@@ -398,8 +430,20 @@
     },
     {
       "start": 3191.07,
-      "end": 4040.01,
+      "end": 3195.27,
       "text": "That's Thin Lizzy from their album Renegade."
+    },
+    {
+      "start": 3195.27,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 4040.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4040.15,
@@ -425,6 +469,12 @@
       "start": 4048.93,
       "end": 4050.93,
       "text": "And here's The Last by Bitches Sin."
+    },
+    {
+      "start": 4320.0,
+      "end": 4463.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4463.17,

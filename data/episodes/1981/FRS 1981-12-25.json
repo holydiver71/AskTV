@@ -42,7 +42,9 @@
       "artist": "AC/DC",
       "track": "For Those About The Rock",
       "details": "We Salute You; LP-For Those About To Rock; Atlantic",
-      "verified_timestamp": 615.02
+      "verified_timestamp": 615.02,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "for those about to rock"
     },
     {
       "artist": null,
@@ -54,7 +56,9 @@
       "artist": "Animals",
       "track": "We Gotta Get Out Of This Place",
       "details": "7\" Single; Columbia",
-      "verified_timestamp": 1800.0
+      "verified_timestamp": 1800.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "get out of this place"
     },
     {
       "artist": null,
@@ -90,7 +94,9 @@
       "artist": "ZZ Top",
       "track": "La Grange",
       "details": "LP-Tres Hombres; Warner Bros.",
-      "verified_timestamp": 2520.0
+      "verified_timestamp": 2520.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you know what i m"
     },
     {
       "artist": null,
@@ -125,7 +131,9 @@
       "artist": "Beatles",
       "track": "Get Back",
       "details": "LP-Let It Be; Apple",
-      "verified_timestamp": 3600.0
+      "verified_timestamp": 3600.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "she thought she was a"
     },
     {
       "artist": null,
@@ -137,7 +145,9 @@
       "artist": "Procol Harum",
       "track": "Whiter Shade Of Pale",
       "details": "LP-Procol Harum; Regal Zonophone",
-      "verified_timestamp": 3833.6
+      "verified_timestamp": 3833.6,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and so it was that"
     },
     {
       "artist": null,
@@ -160,7 +170,9 @@
       "artist": "John Lennon",
       "track": "Happy Christmas",
       "details": "War Is Over; 7\"; Apple",
-      "verified_timestamp": 3580.5
+      "verified_timestamp": 3580.5,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "so this is christmas and"
     },
     {
       "artist": null,
@@ -193,7 +205,9 @@
       "artist": "Bing Crosby",
       "track": "White Christmas",
       "details": "7\"; MCA",
-      "verified_timestamp": 5760.0
+      "verified_timestamp": 5760.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "just like the ones i"
     },
     {
       "artist": null,
@@ -205,7 +219,9 @@
       "artist": "Aretha Franklin",
       "track": "Respect",
       "details": "LP-I Never Loved A Man The Way I Loved You; Atlantic",
-      "verified_timestamp": 5940.0
+      "verified_timestamp": 5940.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "when you get home you"
     },
     {
       "artist": null,
@@ -273,7 +289,7 @@
     },
     {
       "start": 28.44,
-      "end": 347.5,
+      "end": 38.64,
       "text": "working men's club yes and you were in newcastle yeah and you weren't doing all the accents"
     },
     {
@@ -993,8 +1009,14 @@
     },
     {
       "start": 615.02,
-      "end": 843.56,
+      "end": 618.62,
       "text": "Right, for those about to rock,"
+    },
+    {
+      "start": 618.62,
+      "end": 844.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 844.12,
@@ -1263,7 +1285,7 @@
     },
     {
       "start": 971.88,
-      "end": 1320.93,
+      "end": 974.88,
       "text": "before I joined"
     },
     {
@@ -2053,8 +2075,20 @@
     },
     {
       "start": 1692.84,
-      "end": 1840.76,
+      "end": 1697.04,
       "text": "Away from, say, somebody like Eric Burden,"
+    },
+    {
+      "start": 1697.04,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1891.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1840.82,
@@ -2333,8 +2367,20 @@
     },
     {
       "start": 1939.01,
-      "end": 2085.15,
+      "end": 1946.21,
       "text": "and the great thing is I like about Led Zeppelin as well"
+    },
+    {
+      "start": 1946.21,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2085.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2085.15,
@@ -2428,7 +2474,7 @@
     },
     {
       "start": 2129.49,
-      "end": 2328.98,
+      "end": 2132.49,
       "text": "What about guitarists?"
     },
     {
@@ -2538,8 +2584,14 @@
     },
     {
       "start": 2425.78,
-      "end": 2612.53,
+      "end": 2432.38,
       "text": "Prime, when you listen to all the back catalogue of ACDC"
+    },
+    {
+      "start": 2520.0,
+      "end": 2612.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2612.53,
@@ -2683,7 +2735,7 @@
     },
     {
       "start": 2677.32,
-      "end": 2968.38,
+      "end": 2680.32,
       "text": "the whole set"
     },
     {
@@ -2943,7 +2995,7 @@
     },
     {
       "start": 3079.92,
-      "end": 3317.44,
+      "end": 3082.92,
       "text": "...arrived through the door."
     },
     {
@@ -3358,8 +3410,14 @@
     },
     {
       "start": 3585.14,
-      "end": 3772.06,
+      "end": 3595.34,
       "text": "it's your turn now we're gonna choose about three or four records i'd like to know what"
+    },
+    {
+      "start": 3600.0,
+      "end": 3787.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3772.06,
@@ -3457,8 +3515,14 @@
       "text": "So why the shade of pale?"
     },
     {
+      "start": 3834.52,
+      "end": 4080.76,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3878.62,
-      "end": 4077.06,
+      "end": 3885.82,
       "text": "To you. So we've had what? Why the shade of pale, Adam?"
     },
     {
@@ -3488,8 +3552,14 @@
     },
     {
       "start": 4097.1,
-      "end": 4317.84,
+      "end": 4100.1,
       "text": "Right, we're choosing records."
+    },
+    {
+      "start": 4140.0,
+      "end": 4318.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4318.92,
@@ -3592,13 +3662,8 @@
       "text": "What have you done?"
     },
     {
-      "start": 4381.78,
-      "end": 4442.13,
-      "text": "And so this is..."
-    },
-    {
       "start": 4442.13,
-      "end": 4570.76,
+      "end": 4448.13,
       "text": "Right, that was John Lennon and that was Mel's choice."
     },
     {
@@ -3623,7 +3688,7 @@
     },
     {
       "start": 4588.16,
-      "end": 5114.47,
+      "end": 4599.56,
       "text": "and now we're going to get on to jumping jack flash by the stones that's right right but all"
     },
     {
@@ -3773,8 +3838,14 @@
     },
     {
       "start": 5191.5,
-      "end": 5414.8,
+      "end": 5202.9,
       "text": "does anybody want to say say hello to anybody in england i mean back in in the united kingdom"
+    },
+    {
+      "start": 5220.0,
+      "end": 5414.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5414.8,
@@ -4208,8 +4279,14 @@
     },
     {
       "start": 5643.66,
-      "end": 5782.28,
+      "end": 5647.26,
       "text": "Right, Angus, it's your turn, unfortunately."
+    },
+    {
+      "start": 5647.26,
+      "end": 5755.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5782.94,
@@ -4313,8 +4390,20 @@
     },
     {
       "start": 5842.66,
-      "end": 5983.71,
+      "end": 5846.26,
       "text": "That was Aretha Franklin and Respect."
+    },
+    {
+      "start": 5846.26,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6036.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5984.47,
@@ -4548,7 +4637,7 @@
     },
     {
       "start": 6141.15,
-      "end": 6337.47,
+      "end": 6150.75,
       "text": "let's think of a second record that you might see i always like little richard's voice"
     },
     {
@@ -4563,7 +4652,7 @@
     },
     {
       "start": 6351.06,
-      "end": 6502.12,
+      "end": 6361.26,
       "text": "one of them that's everybody going yeah well you hear these boys coming out by the remarkable"
     },
     {
@@ -4903,8 +4992,14 @@
     },
     {
       "start": 6701.59,
-      "end": 6966.81,
+      "end": 6705.79,
       "text": "A drop dead or whatever you like."
+    },
+    {
+      "start": 6705.79,
+      "end": 6968.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6968.14,
@@ -5033,7 +5128,7 @@
     },
     {
       "start": 7041.06,
-      "end": 7251.7,
+      "end": 7047.66,
       "text": "That was ACDC's Christmas Party, which I sincerely hope you enjoyed."
     },
     {

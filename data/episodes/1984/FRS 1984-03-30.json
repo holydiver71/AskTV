@@ -124,8 +124,20 @@
     },
     {
       "start": 16.3,
-      "end": 653.79,
+      "end": 29.5,
       "text": "we'll have some of that any day of the week any hour of the day that's a track from an album which"
+    },
+    {
+      "start": 29.5,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 653.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 653.79,
@@ -224,7 +236,7 @@
     },
     {
       "start": 714.06,
-      "end": 1203.08,
+      "end": 725.46,
       "text": "it's a four track 12 incher by taipan t-a-i-p-a-n it's out of a bullet record label in this country"
     },
     {
@@ -279,8 +291,14 @@
     },
     {
       "start": 1265.2,
-      "end": 1907.5,
+      "end": 1275.4,
       "text": "donna loves him simple as that gary moore record album which is called rough justice the track"
+    },
+    {
+      "start": 1275.4,
+      "end": 1902.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1907.5,
@@ -398,9 +416,21 @@
       "text": "at Warwick University from Louise."
     },
     {
+      "start": 1966.87,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2007.66,
-      "end": 2672.25,
+      "end": 2013.06,
       "text": "It's a track by a band called Baby Taku."
+    },
+    {
+      "start": 2013.06,
+      "end": 2672.55,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2672.55,
@@ -654,7 +684,7 @@
     },
     {
       "start": 3672.99,
-      "end": 4629.76,
+      "end": 3677.19,
       "text": "The Friday Night Connection of Annie Bickford."
     },
     {
@@ -824,8 +854,14 @@
     },
     {
       "start": 4694.58,
-      "end": 5165.5,
+      "end": 4699.38,
       "text": "For that, from our session by Gary Moore,"
+    },
+    {
+      "start": 5040.0,
+      "end": 5165.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5165.58,
@@ -906,6 +942,12 @@
       "start": 5222.46,
       "end": 5224.1,
       "text": "This is our final one from Palace."
+    },
+    {
+      "start": 5580.0,
+      "end": 5733.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5733.13,
@@ -1024,8 +1066,14 @@
     },
     {
       "start": 5778.53,
-      "end": 7072.39,
+      "end": 5782.13,
       "text": "Magnificent. That's from our repeat session"
+    },
+    {
+      "start": 6120.0,
+      "end": 7072.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7072.39,

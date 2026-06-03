@@ -113,7 +113,9 @@
       "artist": "Black Sabbath",
       "track": "Falling Off The Edge Of The World",
       "details": "LP-Mob Rules; Vertigo",
-      "verified_timestamp": 5220.0
+      "verified_timestamp": 5220.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "falling off the edge of"
     },
     {
       "artist": "Band Aid",
@@ -156,6 +158,12 @@
     }
   ],
   "transcript": [
+    {
+      "start": 540.0,
+      "end": 619.24,
+      "text": "[Music]",
+      "type": "music"
+    },
     {
       "start": 624.24,
       "end": 632.24,
@@ -208,8 +216,14 @@
     },
     {
       "start": 683.72,
-      "end": 1094.91,
+      "end": 689.12,
       "text": "That's from a new album called One Man Mission"
+    },
+    {
+      "start": 689.12,
+      "end": 1092.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1094.91,
@@ -293,8 +307,20 @@
     },
     {
       "start": 1135.34,
-      "end": 1841.18,
+      "end": 1146.14,
       "text": "by the late jimmy hendrix that came out on the jimmy hendrix concert set that actually came out"
+    },
+    {
+      "start": 1146.14,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1260.0,
+      "end": 1865.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1841.18,
@@ -388,7 +414,7 @@
     },
     {
       "start": 1899.27,
-      "end": 2342.82,
+      "end": 1904.67,
       "text": "A couple of singles that have recently come out."
     },
     {
@@ -523,8 +549,14 @@
     },
     {
       "start": 2430.15,
-      "end": 2920.24,
+      "end": 2439.75,
       "text": "eighteen and a half minutes to eleven. Fly with the Maltese Falcon. It's just come out"
+    },
+    {
+      "start": 2439.75,
+      "end": 2921.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2920.24,
@@ -728,8 +760,14 @@
     },
     {
       "start": 3033.44,
-      "end": 3525.55,
+      "end": 3041.84,
       "text": "With their single out on Legacy Records, which is called The Sound of Thunder."
+    },
+    {
+      "start": 3041.84,
+      "end": 3529.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3529.0,
@@ -813,7 +851,7 @@
     },
     {
       "start": 3604.38,
-      "end": 4260.98,
+      "end": 3615.18,
       "text": "heavy metal welcome home with good taste this is the enid second bank hall tko and the truck"
     },
     {
@@ -1018,8 +1056,20 @@
     },
     {
       "start": 4422.5,
-      "end": 5049.05,
+      "end": 4429.1,
       "text": "That's from an album that's not yet out in this country."
+    },
+    {
+      "start": 4429.1,
+      "end": 4855.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4860.0,
+      "end": 5049.27,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5049.27,
@@ -1193,8 +1243,20 @@
     },
     {
       "start": 5118.95,
-      "end": 5647.47,
+      "end": 5121.95,
       "text": "Do they know it's Christmas?"
+    },
+    {
+      "start": 5121.95,
+      "end": 5215.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5220.0,
+      "end": 5650.43,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5649.03,
@@ -1348,8 +1410,9 @@
     },
     {
       "start": 5746.97,
-      "end": 5778.5,
-      "text": "That was Glasgow, so how's this?"
+      "end": 6419.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6421.96,
@@ -1387,14 +1450,15 @@
       "text": "When you discover my love, you won't want to lose it."
     },
     {
+      "start": 6455.61,
+      "end": 6600.92,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 6531.09,
       "end": 6534.05,
       "text": "You won't want to keep it forever."
-    },
-    {
-      "start": 6534.85,
-      "end": 6600.92,
-      "text": "My love is a..."
     },
     {
       "start": 6600.92,

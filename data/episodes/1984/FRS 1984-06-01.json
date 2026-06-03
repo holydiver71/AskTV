@@ -22,7 +22,9 @@
       "artist": "Motorhead",
       "track": "Stone Dead Forever",
       "details": "Golden Years EP",
-      "verified_timestamp": 0.0
+      "verified_timestamp": 0.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you think you see me"
     },
     {
       "artist": "TT Quick",
@@ -221,12 +223,13 @@
     },
     {
       "start": 78.77,
-      "end": 148.53,
-      "text": "To mend your problem"
+      "end": 437.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 148.53,
-      "end": 437.22,
+      "end": 155.13,
       "text": "Some of us might be saying, I've heard that song before."
     },
     {
@@ -390,14 +393,26 @@
       "text": "the lady who runs the John Sykes Appreciation Society."
     },
     {
+      "start": 523.0,
+      "end": 523.22,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 523.58,
       "end": 526.84,
       "text": "Hope that she's listening, and hello to Philip Lynott as well."
     },
     {
       "start": 528.22,
-      "end": 1165.17,
+      "end": 533.02,
       "text": "...was Jaguar from our repeat session by then."
+    },
+    {
+      "start": 533.02,
+      "end": 1165.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1165.25,
@@ -496,7 +511,7 @@
     },
     {
       "start": 1233.35,
-      "end": 1885.08,
+      "end": 1244.75,
       "text": "saxon from the album wheels of steel 747 strangers in the night and before that you heard a belgian"
     },
     {
@@ -691,8 +706,14 @@
     },
     {
       "start": 1986.06,
-      "end": 2610.94,
+      "end": 1993.26,
       "text": "That was Chasar, from a cassette album that they're selling at gigs."
+    },
+    {
+      "start": 1993.26,
+      "end": 2606.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2611.06,
@@ -781,8 +802,14 @@
     },
     {
       "start": 2695.41,
-      "end": 3220.2,
+      "end": 2705.01,
       "text": "everybody in strewed and everybody at archway school in that said town that's jaguar from our"
+    },
+    {
+      "start": 2705.01,
+      "end": 3220.2,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3220.2,
@@ -898,6 +925,18 @@
       "start": 3305.42,
       "end": 3306.66,
       "text": "Looked like a blooming walrus."
+    },
+    {
+      "start": 3306.66,
+      "end": 3415.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3420.0,
+      "end": 3520.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3520.97,
@@ -1041,8 +1080,14 @@
     },
     {
       "start": 3606.42,
-      "end": 4457.62,
+      "end": 3611.22,
       "text": "to get it out. My Connection, put together"
+    },
+    {
+      "start": 3611.22,
+      "end": 4457.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4457.62,
@@ -1176,7 +1221,7 @@
     },
     {
       "start": 4511.5,
-      "end": 4972.94,
+      "end": 4516.9,
       "text": "That's there by Jaguar from our session by then."
     },
     {
@@ -1266,7 +1311,7 @@
     },
     {
       "start": 5030.18,
-      "end": 6784.55,
+      "end": 5035.58,
       "text": "ZZ Top, as they were at Donington last year."
     },
     {

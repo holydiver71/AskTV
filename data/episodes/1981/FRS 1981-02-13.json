@@ -69,7 +69,9 @@
       "artist": "Bob Dylan",
       "track": "Subterranean Homesick Blues",
       "details": "LP-Bringing It All Back Home; Columbia",
-      "verified_timestamp": 3060.0
+      "verified_timestamp": 3060.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "up the medicine i m"
     },
     {
       "artist": "Witchfynde",
@@ -165,6 +167,24 @@
       "start": 67.67,
       "end": 71.69,
       "text": "But we'll do our best. We also have our Friday Night Connection, but we start with this."
+    },
+    {
+      "start": 71.69,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 670.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 670.84,
@@ -368,8 +388,20 @@
     },
     {
       "start": 790.71,
-      "end": 1329.54,
+      "end": 799.71,
       "text": "you something by tommy boland amazing track recorded way back in 1976 that's tommy boland"
+    },
+    {
+      "start": 799.71,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1329.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1329.54,
@@ -383,7 +415,7 @@
     },
     {
       "start": 1339.08,
-      "end": 1574.88,
+      "end": 1349.88,
       "text": "which fine and the first of four that you're going to hear from our session by them tonight"
     },
     {
@@ -508,8 +540,14 @@
     },
     {
       "start": 1673.76,
-      "end": 2235.96,
+      "end": 1682.16,
       "text": "Well, in my humble opinion, that's the best version of that I've ever heard."
+    },
+    {
+      "start": 1682.16,
+      "end": 2236.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2236.1,
@@ -623,8 +661,14 @@
     },
     {
       "start": 2312.61,
-      "end": 2907.97,
+      "end": 2315.61,
       "text": "...of listening to that album."
+    },
+    {
+      "start": 2700.0,
+      "end": 2908.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2908.13,
@@ -903,8 +947,14 @@
     },
     {
       "start": 3087.04,
-      "end": 3338.47,
+      "end": 3091.84,
       "text": "That was Witchfire from our session by then"
+    },
+    {
+      "start": 3091.84,
+      "end": 3338.47,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3338.47,
@@ -1043,7 +1093,7 @@
     },
     {
       "start": 3440.24,
-      "end": 4137.69,
+      "end": 3446.84,
       "text": "Friday night connection for the night put together by Stephen Andrews."
     },
     {
@@ -1193,8 +1243,20 @@
     },
     {
       "start": 4205.72,
-      "end": 4942.32,
+      "end": 4208.72,
       "text": "that is David Gilmour"
+    },
+    {
+      "start": 4320.0,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4680.0,
+      "end": 4942.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4942.32,
@@ -1443,7 +1505,7 @@
     },
     {
       "start": 5064.56,
-      "end": 5646.0,
+      "end": 5071.16,
       "text": "...and a whole lot of really played it as our little"
     },
     {
@@ -1508,7 +1570,7 @@
     },
     {
       "start": 5674.45,
-      "end": 6257.1,
+      "end": 5677.45,
       "text": "Frampton's Camel. Guitar worker"
     },
     {
@@ -1528,7 +1590,7 @@
     },
     {
       "start": 6266.68,
-      "end": 6512.18,
+      "end": 6278.68,
       "text": "find and give them hell find and give them hell grace cosby on the drums pete sergi on the bass"
     },
     {

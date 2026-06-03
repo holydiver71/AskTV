@@ -156,8 +156,14 @@
     },
     {
       "start": 70.96,
-      "end": 699.17,
+      "end": 81.76,
       "text": "but this evening we start with this was ken hensley it's a track from his album which is"
+    },
+    {
+      "start": 81.76,
+      "end": 694.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 699.17,
@@ -326,8 +332,14 @@
     },
     {
       "start": 764.52,
-      "end": 1303.48,
+      "end": 771.72,
       "text": "That was Bad Company, as they were on the album Bad Company,"
+    },
+    {
+      "start": 771.72,
+      "end": 1303.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1303.48,
@@ -391,8 +403,14 @@
     },
     {
       "start": 1376.96,
-      "end": 1815.82,
+      "end": 1387.16,
       "text": "principle and it's by the tubes there's a band who really are coming on leaps and bounds"
+    },
+    {
+      "start": 1440.0,
+      "end": 1827.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1815.82,
@@ -566,7 +584,7 @@
     },
     {
       "start": 2061.9,
-      "end": 2334.46,
+      "end": 2068.5,
       "text": "Recorded on the 29th of May, 1973, We Believe in Paris,"
     },
     {
@@ -651,7 +669,7 @@
     },
     {
       "start": 2372.72,
-      "end": 2815.41,
+      "end": 2378.72,
       "text": "That's a track that you'll find on their double single,"
     },
     {
@@ -761,8 +779,20 @@
     },
     {
       "start": 2863.97,
-      "end": 3487.62,
+      "end": 2866.97,
       "text": "From the album Moving Pictures"
+    },
+    {
+      "start": 2880.0,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3487.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3487.62,
@@ -1001,8 +1031,14 @@
     },
     {
       "start": 3655.74,
-      "end": 4387.46,
+      "end": 3658.74,
       "text": "Concord-style boogie"
+    },
+    {
+      "start": 3658.74,
+      "end": 4387.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4387.46,
@@ -1076,7 +1112,7 @@
     },
     {
       "start": 4431.4,
-      "end": 5063.59,
+      "end": 4436.8,
       "text": "Two great albums, recently released by two great drummers,"
     },
     {
@@ -1266,7 +1302,7 @@
     },
     {
       "start": 5177.65,
-      "end": 5881.31,
+      "end": 5188.45,
       "text": "two here's dead ringer so still by the name of limb tiller who's the greatest thing in the"
     },
     {
@@ -1451,7 +1487,7 @@
     },
     {
       "start": 6015.32,
-      "end": 6687.56,
+      "end": 6021.32,
       "text": "Witch by Gong, recorded during the 5th month of 1973."
     },
     {
@@ -1501,7 +1537,7 @@
     },
     {
       "start": 6717.88,
-      "end": 7009.83,
+      "end": 6723.88,
       "text": "And that was Dead Ringer and the track called Maxine,"
     },
     {

@@ -181,8 +181,26 @@
     },
     {
       "start": 58.92,
-      "end": 552.28,
+      "end": 61.92,
       "text": "A Kiss"
+    },
+    {
+      "start": 61.92,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 552.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 552.28,
@@ -201,7 +219,7 @@
     },
     {
       "start": 557.32,
-      "end": 1135.02,
+      "end": 560.32,
       "text": "They are called Maniac"
     },
     {
@@ -280,6 +298,12 @@
       "text": "Have a listen. It's good."
     },
     {
+      "start": 1164.42,
+      "end": 1618.31,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1618.31,
       "end": 1620.53,
       "text": "That's a band who are together, actually, in Germany."
@@ -336,8 +360,14 @@
     },
     {
       "start": 1645.7,
-      "end": 2245.11,
+      "end": 1648.7,
       "text": "The name of Tormentor."
+    },
+    {
+      "start": 1980.0,
+      "end": 2246.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2245.93,
@@ -400,6 +430,12 @@
       "text": "Now, D'Anno again on the razor edge."
     },
     {
+      "start": 2277.12,
+      "end": 2866.14,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2866.14,
       "end": 2866.96,
       "text": "Ah, Severed Head."
@@ -426,8 +462,14 @@
     },
     {
       "start": 2882.51,
-      "end": 3649.67,
+      "end": 2892.71,
       "text": "and i'm happy to hear that they're still going on excellent session that really has been that"
+    },
+    {
+      "start": 2892.71,
+      "end": 3649.67,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3649.67,

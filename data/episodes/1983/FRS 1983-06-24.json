@@ -83,7 +83,9 @@
     {
       "artist": "Be Bop Deluxe",
       "track": "Crying To The Sky",
-      "details": "Archive Session"
+      "details": "Archive Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "praying on the holy mountain"
     },
     {
       "artist": "Be Bop Deluxe",
@@ -135,8 +137,14 @@
     },
     {
       "start": 50.3,
-      "end": 687.97,
+      "end": 62.3,
       "text": "with this track from an import album out on the a&m record label in the states it's by doc holiday"
+    },
+    {
+      "start": 62.3,
+      "end": 687.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 687.97,
@@ -354,6 +362,12 @@
       "text": "Where Do We Go From Here?"
     },
     {
+      "start": 1752.82,
+      "end": 1753.24,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1754.54,
       "end": 1755.0,
       "text": "I'll tell you."
@@ -375,8 +389,14 @@
     },
     {
       "start": 1761.6,
-      "end": 2181.03,
+      "end": 1764.6,
       "text": "Very, very tasty."
+    },
+    {
+      "start": 1764.6,
+      "end": 2181.03,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2181.03,
@@ -510,7 +530,7 @@
     },
     {
       "start": 2244.25,
-      "end": 2774.16,
+      "end": 2253.25,
       "text": "warlord lead vocals keyboards and bass dave gilmore guitar paul hammond on the drums at"
     },
     {
@@ -680,12 +700,12 @@
     },
     {
       "start": 2977.58,
-      "end": 3678.72,
+      "end": 2989.58,
       "text": "and i'm the one to help see the glazed eyes touch the dead skin feel the cold lips and know"
     },
     {
       "start": 3678.72,
-      "end": 4405.79,
+      "end": 3688.32,
       "text": "the war of the hip-hop goddess 17 that's the friday night connection put together by kath"
     },
     {
@@ -909,6 +929,12 @@
       "text": "Bebop Deluxe"
     },
     {
+      "start": 5016.13,
+      "end": 5107.48,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5071.54,
       "end": 5107.48,
       "text": "And all my troubles are like a silver fountain"
@@ -920,7 +946,7 @@
     },
     {
       "start": 5111.6,
-      "end": 5542.03,
+      "end": 5115.8,
       "text": "That was Bill Nelson and Bebop Deluxe."
     },
     {
@@ -1010,7 +1036,7 @@
     },
     {
       "start": 5579.63,
-      "end": 5918.22,
+      "end": 5589.83,
       "text": "really are good scorched earth shangri-la and in that band are dave cooper on vocals and keyboards"
     },
     {
@@ -1057,11 +1083,6 @@
       "start": 5975.8,
       "end": 5977.3,
       "text": "This is a song of hope."
-    },
-    {
-      "start": 5977.3,
-      "end": 6042.19,
-      "text": "The glitter's is gone"
     },
     {
       "start": 6042.19,
@@ -1124,11 +1145,6 @@
       "text": "And I think you can see that"
     },
     {
-      "start": 6108.11,
-      "end": 6142.36,
-      "text": "She does listen"
-    },
-    {
       "start": 6142.36,
       "end": 6155.29,
       "text": "There's a fear when I look to the west"
@@ -1150,7 +1166,7 @@
     },
     {
       "start": 6168.83,
-      "end": 6633.64,
+      "end": 6180.83,
       "text": "we'll see him with his new band i think at about half past 12 on television tonight and i'm going"
     },
     {

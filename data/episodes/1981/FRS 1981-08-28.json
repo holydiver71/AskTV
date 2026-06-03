@@ -32,7 +32,9 @@
       "artist": "Trust",
       "track": "Paris Is Still Burning",
       "details": "LP-Repression",
-      "verified_timestamp": 662.0
+      "verified_timestamp": 662.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and my confidence in liberty"
     },
     {
       "artist": "Billy Squier",
@@ -189,9 +191,21 @@
       "text": "But tonight, we start with this."
     },
     {
+      "start": 69.91,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 122.13,
-      "end": 503.1,
+      "end": 127.53,
       "text": "That's the new single by Nazareth. It's Morning Dew."
+    },
+    {
+      "start": 360.0,
+      "end": 503.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 503.42,
@@ -299,9 +313,10 @@
       "text": "And this is Trust."
     },
     {
-      "start": 555.71,
-      "end": 609.39,
-      "text": "Please cry the truth."
+      "start": 554.95,
+      "end": 657.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 616.5,
@@ -335,8 +350,20 @@
     },
     {
       "start": 672.98,
-      "end": 1054.07,
+      "end": 680.78,
       "text": "...the latest single to be put out in this country by Billy Squire."
+    },
+    {
+      "start": 680.78,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1054.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1054.23,
@@ -507,6 +534,18 @@
       "start": 1150.61,
       "end": 1153.79,
       "text": "because I just want to sit here and wallow in it."
+    },
+    {
+      "start": 1153.79,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1838.83,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1838.83,
@@ -685,8 +724,14 @@
     },
     {
       "start": 1925.09,
-      "end": 2460.41,
+      "end": 1929.29,
       "text": "That's 38 Special. It's their new single."
+    },
+    {
+      "start": 1980.0,
+      "end": 2455.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2460.51,
@@ -805,8 +850,14 @@
     },
     {
       "start": 2533.2,
-      "end": 2988.47,
+      "end": 2541.0,
       "text": "You just heard a track from the brand new album by Rose Tattoo,"
+    },
+    {
+      "start": 2541.0,
+      "end": 2988.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2988.59,
@@ -979,6 +1030,12 @@
       "text": "therein."
     },
     {
+      "start": 3086.67,
+      "end": 3171.86,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3121.35,
       "end": 3122.71,
       "text": "Touch down"
@@ -1004,14 +1061,21 @@
       "text": "silence"
     },
     {
-      "start": 3131.47,
-      "end": 3176.84,
-      "text": "We'll be right back."
+      "start": 3176.86,
+      "end": 3182.26,
+      "text": "From the album Cured, it was called Picture Postcard."
     },
     {
-      "start": 3176.86,
-      "end": 4242.3,
-      "text": "From the album Cured, it was called Picture Postcard."
+      "start": 3182.26,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 4244.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4244.71,
@@ -1169,6 +1233,12 @@
       "text": "Bernie Marsden."
     },
     {
+      "start": 4680.0,
+      "end": 4811.9,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4811.9,
       "end": 4813.84,
       "text": "That's the new single by Tangerine Dream."
@@ -1320,8 +1390,14 @@
     },
     {
       "start": 4910.26,
-      "end": 5342.79,
+      "end": 4925.26,
       "text": "Ain't Talking About Love came out in 1978, and that was specially for a gentleman whom I'm told is spending an enforced holiday in Swansea."
+    },
+    {
+      "start": 5220.0,
+      "end": 5342.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5342.79,

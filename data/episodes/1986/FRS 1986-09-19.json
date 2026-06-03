@@ -218,8 +218,14 @@
     },
     {
       "start": 136.69,
-      "end": 510.03,
+      "end": 145.69,
       "text": "Title track from an album that's just come out on the Megaforce Worldwide record label,"
+    },
+    {
+      "start": 360.0,
+      "end": 510.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 510.17,
@@ -347,9 +353,10 @@
       "text": "simpkins sac is in anglesey"
     },
     {
-      "start": 664.95,
-      "end": 691.56,
-      "text": "I don't even care."
+      "start": 563.79,
+      "end": 726.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 726.73,
@@ -418,8 +425,14 @@
     },
     {
       "start": 770.65,
-      "end": 1116.75,
+      "end": 774.25,
       "text": "There's one out of the archives"
+    },
+    {
+      "start": 900.0,
+      "end": 1116.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1116.75,
@@ -528,7 +541,7 @@
     },
     {
       "start": 1166.87,
-      "end": 1511.77,
+      "end": 1174.07,
       "text": "...forms. It's 10.25. This is the Friday Rock Show, BBC Radio 1."
     },
     {
@@ -628,8 +641,14 @@
     },
     {
       "start": 1551.73,
-      "end": 1833.46,
+      "end": 1556.53,
       "text": "Another brand new Saxon track follows the news."
+    },
+    {
+      "start": 1620.0,
+      "end": 1833.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1833.6,
@@ -868,7 +887,7 @@
     },
     {
       "start": 2014.1,
-      "end": 2621.94,
+      "end": 2021.3,
       "text": "That's the new band that's put together by Vinnie Vincent, the ex-kisser."
     },
     {
@@ -1102,6 +1121,12 @@
       "text": "This is Angus."
     },
     {
+      "start": 2728.06,
+      "end": 3267.7,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2772.34,
       "end": 2815.29,
       "text": "White warriors are ready, for their return, when dawn breaks free, white warriors are ready, for their return, he came away, the victims get slaughtered, let there be no mistake."
@@ -1273,8 +1298,14 @@
     },
     {
       "start": 3346.42,
-      "end": 3589.11,
+      "end": 3351.82,
       "text": "On the President record label, Forcefield are Ray Fennec"
+    },
+    {
+      "start": 3351.82,
+      "end": 3589.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3589.11,
@@ -1433,8 +1464,26 @@
     },
     {
       "start": 3668.35,
-      "end": 4759.41,
+      "end": 3680.35,
       "text": "That was Lie Back and Enjoy It, put together by Ian Reid at the moment of Knox Road in Norwich."
+    },
+    {
+      "start": 4140.0,
+      "end": 4315.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4320.0,
+      "end": 4495.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4500.0,
+      "end": 4759.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4759.53,
@@ -1653,8 +1702,14 @@
     },
     {
       "start": 4854.8,
-      "end": 5393.08,
+      "end": 4862.0,
       "text": "I know it's not everybody's cup of tea, but I love it."
+    },
+    {
+      "start": 4862.0,
+      "end": 5393.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5393.59,
@@ -1858,8 +1913,20 @@
     },
     {
       "start": 5483.2,
-      "end": 6317.21,
+      "end": 5494.0,
       "text": "well if you just rolled in from the pub you've missed two extremely good tracks but i'm sure"
+    },
+    {
+      "start": 5580.0,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6317.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6317.21,
@@ -1958,8 +2025,14 @@
     },
     {
       "start": 6423.16,
-      "end": 7088.9,
+      "end": 6434.56,
       "text": "now there's a band i think who deserve a break they are paul mcbride steve blades now i'm gonna"
+    },
+    {
+      "start": 6660.0,
+      "end": 7088.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7088.9,

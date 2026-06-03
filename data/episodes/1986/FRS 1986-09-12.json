@@ -134,6 +134,12 @@
       "text": "Quiet Riot, Warlock, Whitesnake, Angel Dust, Stevie Ray Vaughan, The Crumbsuckers, King Cobra and others."
     },
     {
+      "start": 180.0,
+      "end": 649.42,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 649.42,
       "end": 652.88,
       "text": "Dark Wizard, they are from Holland. Their album is called Reign of Evil."
@@ -275,8 +281,20 @@
     },
     {
       "start": 704.49,
-      "end": 1104.82,
+      "end": 708.09,
       "text": "Album that came out in 1983."
+    },
+    {
+      "start": 720.0,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1105.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1105.14,
@@ -370,7 +388,7 @@
     },
     {
       "start": 1233.5,
-      "end": 1795.02,
+      "end": 1237.7,
       "text": "They're on a major American record label,"
     },
     {
@@ -490,8 +508,14 @@
     },
     {
       "start": 1868.76,
-      "end": 2466.98,
+      "end": 1878.96,
       "text": "This is from Slippery When Wet by Bon Jovi. Five-piece band out of Sweden, they are. They"
+    },
+    {
+      "start": 1980.0,
+      "end": 2466.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2466.98,
@@ -700,7 +724,7 @@
     },
     {
       "start": 2629.8,
-      "end": 3350.85,
+      "end": 2638.8,
       "text": "they're called angel dust and this track's quite long interesting gambler that's a track that"
     },
     {
@@ -835,8 +859,14 @@
     },
     {
       "start": 3547.55,
-      "end": 3846.26,
+      "end": 3550.55,
       "text": "© BF-WATCH TV 2021"
+    },
+    {
+      "start": 3600.0,
+      "end": 3846.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3846.28,
@@ -910,7 +940,7 @@
     },
     {
       "start": 3901.62,
-      "end": 4197.38,
+      "end": 3908.22,
       "text": "I'm sure none of you here tonight have heard it before."
     },
     {
@@ -940,7 +970,7 @@
     },
     {
       "start": 4499.54,
-      "end": 6587.84,
+      "end": 4502.54,
       "text": "and his band"
     },
     {
@@ -1219,13 +1249,8 @@
       "text": "Sleeping on"
     },
     {
-      "start": 6799.6,
-      "end": 6831.6,
-      "text": "That's what you want"
-    },
-    {
       "start": 6831.6,
-      "end": 7016.2,
+      "end": 6835.8,
       "text": "The title track of that 1979 album"
     },
     {

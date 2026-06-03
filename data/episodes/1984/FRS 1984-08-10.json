@@ -37,7 +37,9 @@
       "artist": "Shy",
       "track": "My Apollo",
       "details": "session track",
-      "verified_timestamp": 425.66
+      "verified_timestamp": 425.66,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "it s all about hey"
     },
     {
       "artist": "Jefferson Starship",
@@ -118,8 +120,20 @@
   "transcript": [
     {
       "start": 1.17,
-      "end": 420.66,
+      "end": 13.17,
       "text": "For Flesh and Blood, Ted Nugent from the EP 4th Degree Burns. It was also on Scream Dream, the album."
+    },
+    {
+      "start": 13.17,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 420.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 420.66,
@@ -238,8 +252,14 @@
     },
     {
       "start": 488.2,
-      "end": 951.88,
+      "end": 494.2,
       "text": "...tracks from our repeat session by the band called Shy."
+    },
+    {
+      "start": 494.2,
+      "end": 952.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 952.46,
@@ -395,6 +415,12 @@
       "start": 1045.26,
       "end": 1046.42,
       "text": "Live and Let Live."
+    },
+    {
+      "start": 1046.42,
+      "end": 1714.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1714.16,
@@ -563,8 +589,20 @@
     },
     {
       "start": 1832.88,
-      "end": 2290.24,
+      "end": 1837.08,
       "text": "The album is only available on import."
+    },
+    {
+      "start": 1837.08,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2290.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2290.24,
@@ -618,7 +656,7 @@
     },
     {
       "start": 2315.82,
-      "end": 2805.24,
+      "end": 2320.62,
       "text": "Y&T on stage a week tomorrow at Arlington."
     },
     {
@@ -798,8 +836,20 @@
     },
     {
       "start": 2989.2,
-      "end": 3431.22,
+      "end": 2998.2,
       "text": "Although I must confess, when I first heard it, I thought it was Robert Plant."
+    },
+    {
+      "start": 3060.0,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3431.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3431.76,
@@ -958,8 +1008,14 @@
     },
     {
       "start": 3534.86,
-      "end": 4257.08,
+      "end": 3543.26,
       "text": "mightily surprised if anybody recognizes all those three tracks some people might be able"
+    },
+    {
+      "start": 3543.26,
+      "end": 4257.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4257.08,
@@ -1133,8 +1189,20 @@
     },
     {
       "start": 4437.99,
-      "end": 4941.52,
+      "end": 4442.19,
       "text": "Early Judas Priest, recorded back in 1975."
+    },
+    {
+      "start": 4442.19,
+      "end": 4855.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4860.0,
+      "end": 4951.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4941.52,

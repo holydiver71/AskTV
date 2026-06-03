@@ -91,7 +91,9 @@
       "artist": "Manfred Mann's Earth Band",
       "track": "Mighty Quinn",
       "details": "LP-Watch",
-      "verified_timestamp": 3240.0
+      "verified_timestamp": 3240.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "manfred mann s earth band"
     },
     {
       "artist": "Saga",
@@ -196,8 +198,20 @@
     },
     {
       "start": 66.33,
-      "end": 662.29,
+      "end": 77.13,
       "text": "but this evening we start with this 14 minutes after 10 that was budgie from an album they"
+    },
+    {
+      "start": 77.13,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 662.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 662.29,
@@ -375,14 +389,32 @@
       "text": "And Lisbeth, how could you ask too much?"
     },
     {
+      "start": 752.01,
+      "end": 754.39,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 756.91,
       "end": 758.77,
       "text": "Peter Frampton is back on course."
     },
     {
       "start": 759.39,
-      "end": 1501.42,
+      "end": 767.79,
       "text": "That was Dead Ringer, the first of four from our repeat session by them."
+    },
+    {
+      "start": 767.79,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1501.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1501.54,
@@ -565,6 +597,12 @@
       "text": "And now, out of the archives circa 1974, here are Hatfield and the North."
     },
     {
+      "start": 1586.86,
+      "end": 2007.06,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2007.06,
       "end": 2012.08,
       "text": "Tune in, night when Top Gear once again takes the air"
@@ -696,8 +734,14 @@
     },
     {
       "start": 2101.99,
-      "end": 2602.24,
+      "end": 2112.79,
       "text": "that's a track from the new blue oyster cult album their 10th album to come out on cbs"
+    },
+    {
+      "start": 2160.0,
+      "end": 2597.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2602.24,
@@ -751,8 +795,20 @@
     },
     {
       "start": 2675.1,
-      "end": 3197.63,
+      "end": 2685.9,
       "text": "is sticks that completes 50 of our session by dead ringer tonight that was called innocent who you"
+    },
+    {
+      "start": 2685.9,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 3197.63,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3197.63,
@@ -825,14 +881,26 @@
       "text": "So from Saudi Arabia to Southwick in Sussex,"
     },
     {
+      "start": 3246.33,
+      "end": 3246.71,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3246.77,
       "end": 3250.73,
       "text": "a lot of love in his Manfred Mann's Earth Band, Mighty Quinn."
     },
     {
       "start": 3251.71,
-      "end": 3881.72,
+      "end": 3258.31,
       "text": "From their album Silent Light, the track was called Someone Should."
+    },
+    {
+      "start": 3258.31,
+      "end": 3882.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3882.28,
@@ -1011,7 +1079,7 @@
     },
     {
       "start": 4010.82,
-      "end": 4707.06,
+      "end": 4016.22,
       "text": "I'm not going to tell you what it was."
     },
     {
@@ -1121,7 +1189,7 @@
     },
     {
       "start": 4804.85,
-      "end": 5424.0,
+      "end": 4811.45,
       "text": "That originally was recorded in 1971, but it's just been re-released."
     },
     {
@@ -1213,6 +1281,12 @@
       "start": 5444.02,
       "end": 5444.66,
       "text": "as Peter Green."
+    },
+    {
+      "start": 5444.66,
+      "end": 5445.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5445.6,
@@ -1330,6 +1404,12 @@
       "text": "under the blankets at boarding school."
     },
     {
+      "start": 5493.24,
+      "end": 5996.41,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5996.41,
       "end": 5998.75,
       "text": "Maxine, prior to that you heard Girl's School,"
@@ -1356,7 +1436,7 @@
     },
     {
       "start": 6012.75,
-      "end": 6608.73,
+      "end": 6019.95,
       "text": "The PBC Studios on the 19th of March, way back in 1974."
     },
     {

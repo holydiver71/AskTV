@@ -78,7 +78,9 @@
       "artist": "Gary Moore",
       "track": "Over The Hills And Far Away",
       "details": "7\"; 10",
-      "verified_timestamp": 3240.0
+      "verified_timestamp": 3240.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "over the hills and far"
     },
     {
       "artist": "Bon Jovi",
@@ -192,7 +194,7 @@
     },
     {
       "start": 86.14,
-      "end": 546.19,
+      "end": 90.34,
       "text": "Here on the Under One Flag label"
     },
     {
@@ -447,8 +449,26 @@
     },
     {
       "start": 641.03,
-      "end": 1175.94,
+      "end": 652.43,
       "text": "Both the tracks you've heard there are on the B side of the 12-incher of Iron Maidens' latest single."
+    },
+    {
+      "start": 652.43,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1176.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1176.08,
@@ -822,8 +842,20 @@
     },
     {
       "start": 1895.64,
-      "end": 2376.47,
+      "end": 1906.44,
       "text": "is buried alive a couple of albums out at the moment i'm playing it from the singles album"
+    },
+    {
+      "start": 1906.44,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2376.47,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2376.47,
@@ -1107,8 +1139,26 @@
     },
     {
       "start": 3075.72,
-      "end": 3542.63,
+      "end": 3080.52,
       "text": "Am I back in 1983, playing it off-compact."
+    },
+    {
+      "start": 3080.52,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3415.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3420.0,
+      "end": 3542.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3542.73,
@@ -1247,8 +1297,14 @@
     },
     {
       "start": 3605.21,
-      "end": 4050.22,
+      "end": 3614.81,
       "text": "exhausting and thoroughly respectable performance the name of the band are angel dust it's an import"
+    },
+    {
+      "start": 3614.81,
+      "end": 4050.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4050.22,
@@ -1272,7 +1328,7 @@
     },
     {
       "start": 4066.52,
-      "end": 4335.22,
+      "end": 4077.92,
       "text": "off a solo record i made a few years back how's that rain it's not bothering y'all out there"
     },
     {
@@ -1282,7 +1338,7 @@
     },
     {
       "start": 4342.7,
-      "end": 4889.21,
+      "end": 4353.5,
       "text": "i want to say it's really great to be back here in england i don't care whether it's"
     },
     {
@@ -1292,8 +1348,14 @@
     },
     {
       "start": 4897.5,
-      "end": 6527.47,
+      "end": 4908.9,
       "text": "playing i come out and kick your fans 1986 what a set there's a sign cause you know sometimes"
+    },
+    {
+      "start": 6480.0,
+      "end": 7076.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6527.47,
@@ -1307,7 +1369,7 @@
     },
     {
       "start": 6547.57,
-      "end": 7076.26,
+      "end": 6552.37,
       "text": "Thanks for listening over the last eight years"
     },
     {

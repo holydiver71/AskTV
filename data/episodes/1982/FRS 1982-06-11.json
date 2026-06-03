@@ -193,8 +193,20 @@
     },
     {
       "start": 79.07,
-      "end": 621.68,
+      "end": 84.47,
       "text": "The Rolling Stones, a track from their latest album,"
+    },
+    {
+      "start": 84.47,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 621.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 621.8,
@@ -337,6 +349,12 @@
       "text": "Frank, who is in France at the moment digging up skeletons,"
     },
     {
+      "start": 682.16,
+      "end": 682.72,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 682.72,
       "end": 687.14,
       "text": "Sean, Mark, and not forgetting Armpit, the ape man gardener."
@@ -348,8 +366,14 @@
     },
     {
       "start": 690.72,
-      "end": 1252.59,
+      "end": 695.52,
       "text": "That's the band by the name of Nightwing,"
+    },
+    {
+      "start": 695.52,
+      "end": 1252.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1252.75,
@@ -483,8 +507,14 @@
     },
     {
       "start": 1317.99,
-      "end": 1740.43,
+      "end": 1321.59,
       "text": "We're on top of the pop."
+    },
+    {
+      "start": 1321.59,
+      "end": 1740.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1740.79,
@@ -658,8 +688,14 @@
     },
     {
       "start": 1992.07,
-      "end": 2472.99,
+      "end": 1995.07,
       "text": "Amazing cover on the album"
+    },
+    {
+      "start": 1995.07,
+      "end": 2472.99,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2472.99,
@@ -728,8 +764,14 @@
     },
     {
       "start": 2509.54,
-      "end": 2954.8,
+      "end": 2519.74,
       "text": "It's the latest single by Asia. It's just come out. It is called Heat of the Moment."
+    },
+    {
+      "start": 2519.74,
+      "end": 2954.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2954.96,
@@ -888,7 +930,7 @@
     },
     {
       "start": 3054.91,
-      "end": 3478.84,
+      "end": 3058.51,
       "text": "This is Cheetah. Long time. Great"
     },
     {
@@ -1018,8 +1060,14 @@
     },
     {
       "start": 3573.0,
-      "end": 4557.17,
+      "end": 3582.6,
       "text": "start listening now that was the friday night connection put together by mr jeff donald of"
+    },
+    {
+      "start": 3582.6,
+      "end": 4597.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4557.17,
@@ -1073,7 +1121,7 @@
     },
     {
       "start": 4629.68,
-      "end": 5151.7,
+      "end": 4641.68,
       "text": "that's a single that's on the clean kill label it's by a band by the name of destroyer its title"
     },
     {
@@ -1223,8 +1271,14 @@
     },
     {
       "start": 5252.9,
-      "end": 5953.71,
+      "end": 5263.7,
       "text": "that time of the year. Good luck to everybody. This is John Anderson. It's a track from the"
+    },
+    {
+      "start": 5580.0,
+      "end": 5953.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5953.71,
@@ -1298,8 +1352,14 @@
     },
     {
       "start": 6011.83,
-      "end": 6711.82,
+      "end": 6023.83,
       "text": "the fire having the time of his life deep purple recorded the 23rd of the 9th way back in 1970"
+    },
+    {
+      "start": 6023.83,
+      "end": 6711.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6711.82,

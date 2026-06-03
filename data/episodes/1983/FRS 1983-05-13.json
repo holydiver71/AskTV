@@ -183,8 +183,14 @@
     },
     {
       "start": 71.86,
-      "end": 619.91,
+      "end": 74.86,
       "text": "This album just gets better"
+    },
+    {
+      "start": 74.86,
+      "end": 619.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 619.91,
@@ -313,8 +319,14 @@
     },
     {
       "start": 671.74,
-      "end": 1255.01,
+      "end": 684.34,
       "text": "and send her all my love fred i hope the bugs go soon this is battle axe still an amazing track"
+    },
+    {
+      "start": 684.34,
+      "end": 1255.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1255.01,
@@ -398,8 +410,14 @@
     },
     {
       "start": 1307.33,
-      "end": 1797.46,
+      "end": 1319.93,
       "text": "This is Marillion, recorded in the studios of the BBC on the 21st, rather the 29th of the 1st, in 1982."
+    },
+    {
+      "start": 1319.93,
+      "end": 1797.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1797.9,
@@ -593,7 +611,7 @@
     },
     {
       "start": 2541.37,
-      "end": 3007.25,
+      "end": 2545.57,
       "text": "Bocco looking for that in the shops."
     },
     {
@@ -683,7 +701,7 @@
     },
     {
       "start": 3051.4,
-      "end": 4382.4,
+      "end": 3056.2,
       "text": "No fan, no dance with the shirts open"
     },
     {
@@ -843,7 +861,7 @@
     },
     {
       "start": 4725.66,
-      "end": 5206.55,
+      "end": 4732.26,
       "text": "All for one. It's coming out on the Neat record label."
     },
     {
@@ -958,7 +976,7 @@
     },
     {
       "start": 5296.99,
-      "end": 5790.99,
+      "end": 5300.59,
       "text": "Apologise for that rather maladroit ending."
     },
     {
@@ -1033,8 +1051,14 @@
     },
     {
       "start": 5849.46,
-      "end": 6367.58,
+      "end": 5853.06,
       "text": "And that, of course, is Marillion,"
+    },
+    {
+      "start": 5853.06,
+      "end": 6367.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6367.88,

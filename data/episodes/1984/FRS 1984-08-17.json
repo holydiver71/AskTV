@@ -64,6 +64,30 @@
   ],
   "transcript": [
     {
+      "start": 0.0,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1174.62,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1155.79,
       "end": 1159.79,
       "text": "You've just heard them on the Friday Rock Show from BBC Radio 1."

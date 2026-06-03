@@ -134,7 +134,9 @@
       "artist": "Pink Floyd",
       "track": "The Post War Dream",
       "details": "LP-The Final Cut; Harvest",
-      "verified_timestamp": 6660.0
+      "verified_timestamp": 6660.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "did i watch too much"
     },
     {
       "artist": "Pink Floyd",
@@ -190,6 +192,12 @@
       "text": "But tonight, we start with this."
     },
     {
+      "start": 71.5,
+      "end": 392.89,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 392.89,
       "end": 395.87,
       "text": "I think I've got to own up, and I do think it is at the wrong speed, and I haven't even"
@@ -216,7 +224,7 @@
     },
     {
       "start": 405.54,
-      "end": 526.23,
+      "end": 408.54,
       "text": "Sincere apologies to Twisted Sister."
     },
     {
@@ -386,8 +394,14 @@
     },
     {
       "start": 1120.53,
-      "end": 1652.07,
+      "end": 1130.73,
       "text": "cracked 10 21 this is severed head free addison and his australian boogie crew there the new"
+    },
+    {
+      "start": 1130.73,
+      "end": 1652.07,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1652.07,
@@ -406,7 +420,7 @@
     },
     {
       "start": 1665.49,
-      "end": 2253.4,
+      "end": 1676.29,
       "text": "here's three good numbers by joe cocker honestly imagine that he came out of the womb singing like"
     },
     {
@@ -461,8 +475,14 @@
     },
     {
       "start": 2313.4,
-      "end": 2871.39,
+      "end": 2323.6,
       "text": "And also Saxon. That's Tame Cane from their album, which is out now in this country on"
+    },
+    {
+      "start": 2323.6,
+      "end": 2871.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2871.39,
@@ -536,7 +556,7 @@
     },
     {
       "start": 2930.2,
-      "end": 3328.06,
+      "end": 2933.2,
       "text": "God of my father."
     },
     {
@@ -731,7 +751,7 @@
     },
     {
       "start": 3426.84,
-      "end": 4393.08,
+      "end": 3430.44,
       "text": "A little tribute to Randy Rhodes."
     },
     {
@@ -826,7 +846,7 @@
     },
     {
       "start": 4477.01,
-      "end": 4980.08,
+      "end": 4487.81,
       "text": "...single by a band we did a session with, it must have been last August, they're called Terrorplane."
     },
     {
@@ -976,8 +996,14 @@
     },
     {
       "start": 5074.6,
-      "end": 5634.7,
+      "end": 5080.6,
       "text": "I wish they'd hurry up and get another record deal"
+    },
+    {
+      "start": 5080.6,
+      "end": 5634.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5634.7,
@@ -1021,7 +1047,7 @@
     },
     {
       "start": 5656.18,
-      "end": 6267.86,
+      "end": 5665.78,
       "text": "great song written by leon russell yonks ago delta lady that's your business and let's go"
     },
     {
@@ -1056,7 +1082,7 @@
     },
     {
       "start": 6301.24,
-      "end": 6527.42,
+      "end": 6305.44,
       "text": "I think that's a really interesting session."
     },
     {
@@ -1126,8 +1152,20 @@
     },
     {
       "start": 6621.81,
-      "end": 6994.0,
+      "end": 6633.21,
       "text": "couple of tracks from the latest pink floyd album which is just out on the harvest record label it'll"
+    },
+    {
+      "start": 6660.0,
+      "end": 6835.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6840.0,
+      "end": 6994.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6994.0,

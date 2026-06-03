@@ -92,7 +92,9 @@
     {
       "artist": "Cloven Hoof",
       "track": "Laying Down The Law",
-      "details": "FRS session"
+      "details": "FRS session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "laying down the law i"
     },
     {
       "artist": "Motorhead",
@@ -164,8 +166,14 @@
     },
     {
       "start": 69.73,
-      "end": 756.86,
+      "end": 78.73,
       "text": "A track from a new album, which is just out on the Towerbell record label."
+    },
+    {
+      "start": 78.73,
+      "end": 756.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 756.96,
@@ -319,7 +327,7 @@
     },
     {
       "start": 868.14,
-      "end": 1456.48,
+      "end": 875.34,
       "text": "Back from the Kiss album that came out in 1977, Love Gun."
     },
     {
@@ -484,8 +492,14 @@
     },
     {
       "start": 1554.93,
-      "end": 1809.21,
+      "end": 1562.73,
       "text": "Made a single by Iron Maiden just out on the EMI record label."
+    },
+    {
+      "start": 1562.73,
+      "end": 1809.35,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1809.35,
@@ -674,8 +688,14 @@
     },
     {
       "start": 1909.07,
-      "end": 2076.19,
+      "end": 1935.47,
       "text": "On the table lies black paper, and my tower is built of stone, I only have scissors, I only have the bluntest hoe, and wax, but it is beside disaster, and I count the cost, shining, dying, I know that I've almost lost time,"
+    },
+    {
+      "start": 1935.47,
+      "end": 2076.19,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2076.19,
@@ -684,7 +704,7 @@
     },
     {
       "start": 2083.82,
-      "end": 2477.89,
+      "end": 2091.02,
       "text": "Recorded in the BBC studios on Monday, the 24th of October, 1977."
     },
     {
@@ -729,7 +749,7 @@
     },
     {
       "start": 2498.9,
-      "end": 3030.14,
+      "end": 2501.9,
       "text": "fingers"
     },
     {
@@ -760,7 +780,8 @@
     {
       "start": 3045.09,
       "end": 3137.99,
-      "text": "sounding sounds"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3137.99,
@@ -1199,7 +1220,7 @@
     },
     {
       "start": 4229.0,
-      "end": 5005.28,
+      "end": 4235.6,
       "text": "Nice to see that album going straight into the album charts."
     },
     {
@@ -1299,7 +1320,7 @@
     },
     {
       "start": 5094.4,
-      "end": 5719.29,
+      "end": 5104.0,
       "text": "the sphinx in the face is an interesting band in whatever configuration or what incarnation they"
     },
     {
@@ -1334,7 +1355,7 @@
     },
     {
       "start": 5742.13,
-      "end": 6304.31,
+      "end": 5746.33,
       "text": "And from their album, Another Perfect Day,"
     },
     {

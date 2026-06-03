@@ -190,8 +190,14 @@
     },
     {
       "start": 99.53,
-      "end": 555.04,
+      "end": 107.33,
       "text": "This is Darby Mills, the band, of course, of the Headpins from Canada."
+    },
+    {
+      "start": 180.0,
+      "end": 555.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 555.22,
@@ -285,7 +291,7 @@
     },
     {
       "start": 619.54,
-      "end": 1261.16,
+      "end": 629.74,
       "text": "This little nightmare, it is by Black Rose, is from a four-track, 12-incher that's out on Neat."
     },
     {
@@ -394,6 +400,12 @@
       "text": "Happy Christmas to you too, Stuart."
     },
     {
+      "start": 1326.79,
+      "end": 1908.22,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1908.22,
       "end": 1909.42,
       "text": "all the things that are in your letter."
@@ -485,8 +497,14 @@
     },
     {
       "start": 1958.66,
-      "end": 2487.29,
+      "end": 1962.86,
       "text": "Their latest single, Run to the Hills."
+    },
+    {
+      "start": 2340.0,
+      "end": 2490.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2487.29,
@@ -560,8 +578,20 @@
     },
     {
       "start": 2523.59,
-      "end": 2962.92,
+      "end": 2526.59,
       "text": "Three-year-seat single by Magnum."
+    },
+    {
+      "start": 2526.59,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 2963.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2963.22,
@@ -615,7 +645,7 @@
     },
     {
       "start": 2996.14,
-      "end": 3403.66,
+      "end": 3002.74,
       "text": "Radio 1's in concert because we've got the cure for you."
     },
     {
@@ -730,8 +760,14 @@
     },
     {
       "start": 3513.53,
-      "end": 3968.59,
+      "end": 3524.33,
       "text": "On at 7 minutes past 11, here's some rather bad news for drivers heading north on the M1."
+    },
+    {
+      "start": 3780.0,
+      "end": 3969.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3969.21,
@@ -780,8 +816,14 @@
     },
     {
       "start": 3998.7,
-      "end": 4807.44,
+      "end": 4001.7,
       "text": "Kent College, Canterbury, Kent."
+    },
+    {
+      "start": 4500.0,
+      "end": 4807.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4807.6,
@@ -1010,8 +1052,14 @@
     },
     {
       "start": 4923.22,
-      "end": 5414.33,
+      "end": 4926.22,
       "text": "...from our session by then."
+    },
+    {
+      "start": 4926.22,
+      "end": 5425.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5414.67,

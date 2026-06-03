@@ -171,6 +171,12 @@
       "text": "But we're going to start with this single, which has just been released by Judas Priest, Freewheel Burning."
     },
     {
+      "start": 45.3,
+      "end": 563.03,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 563.03,
       "end": 564.69,
       "text": "That's the latest single by Van Halen."
@@ -376,6 +382,12 @@
       "text": "This is a band from Glasgow called Glasgow."
     },
     {
+      "start": 665.68,
+      "end": 1096.45,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1096.45,
       "end": 1098.91,
       "text": "Classic record there, Status Quo, Sweet Caroline."
@@ -512,7 +524,7 @@
     },
     {
       "start": 1172.87,
-      "end": 1697.08,
+      "end": 1178.87,
       "text": "I don't know too much about that band at all."
     },
     {
@@ -792,12 +804,18 @@
     },
     {
       "start": 2444.51,
-      "end": 3066.28,
+      "end": 2448.71,
       "text": "Howlin' Wolf song, and it's called Evil."
     },
     {
+      "start": 2448.71,
+      "end": 4149.33,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3066.28,
-      "end": 4148.31,
+      "end": 3078.28,
       "text": "a couple of friends on i don't know if you ever in your uh distant past seen a band called"
     },
     {
@@ -812,8 +830,14 @@
     },
     {
       "start": 4168.92,
-      "end": 4869.67,
+      "end": 4179.12,
       "text": "i know where you've been a solid band they are excellent musicians two original members in the"
+    },
+    {
+      "start": 4179.12,
+      "end": 4869.67,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4869.67,
@@ -927,8 +951,14 @@
     },
     {
       "start": 4944.2,
-      "end": 5364.5,
+      "end": 4954.4,
       "text": "appreciate it thanks this is glasgow the new single there by gary moore which is called hold"
+    },
+    {
+      "start": 4954.4,
+      "end": 5364.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5364.5,
@@ -1212,7 +1242,7 @@
     },
     {
       "start": 6131.83,
-      "end": 6695.99,
+      "end": 6136.03,
       "text": "Shine On Me. That's a new single"
     },
     {
@@ -1369,6 +1399,12 @@
       "start": 6809.18,
       "end": 6810.92,
       "text": "Hall in Liverpool, and you want this."
+    },
+    {
+      "start": 6840.0,
+      "end": 7082.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7082.53,

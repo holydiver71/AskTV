@@ -67,12 +67,24 @@
     },
     {
       "start": 266.66,
-      "end": 1340.81,
+      "end": 277.46,
       "text": "From the album called Restless, just come out on the Vertigo record label, the track was called Sane."
     },
     {
+      "start": 277.46,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 1345.01,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1340.81,
-      "end": 2241.76,
+      "end": 1345.01,
       "text": "Session by them, that was called Crazy."
     }
   ]

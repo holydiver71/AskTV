@@ -113,7 +113,9 @@
     {
       "artist": "Queen",
       "track": "My Melancholy Blues",
-      "details": "Peel session"
+      "details": "Peel session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "1 another party s over"
     },
     {
       "artist": "Queen",
@@ -124,7 +126,9 @@
     {
       "artist": "Eloy",
       "track": "On The Verge Of Darkening Lights",
-      "details": "FRS session"
+      "details": "FRS session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "on the verge of darkening"
     },
     {
       "artist": "Genesis",
@@ -200,7 +204,7 @@
     },
     {
       "start": 71.54,
-      "end": 659.43,
+      "end": 76.94,
       "text": "They've got the number one album in the States."
     },
     {
@@ -395,8 +399,14 @@
     },
     {
       "start": 772.82,
-      "end": 1201.76,
+      "end": 784.22,
       "text": "tsunami that was called black funeral it was by merciful fate it's from a 12 inch air they're from"
+    },
+    {
+      "start": 784.22,
+      "end": 1201.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1201.76,
@@ -455,8 +465,14 @@
     },
     {
       "start": 1257.52,
-      "end": 1987.14,
+      "end": 1268.32,
       "text": "they come what a session recorded the 28th of october 1977 in the studios of the bbc nearly"
+    },
+    {
+      "start": 1268.32,
+      "end": 2371.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1987.14,
@@ -465,7 +481,7 @@
     },
     {
       "start": 1991.0,
-      "end": 2371.75,
+      "end": 2001.2,
       "text": "come this is mccoy oh well whirling stones that's a track from their undercover album it's called"
     },
     {
@@ -575,7 +591,7 @@
     },
     {
       "start": 2465.95,
-      "end": 2987.05,
+      "end": 2472.55,
       "text": "Honey from the United States of America, send her my love."
     },
     {
@@ -675,7 +691,7 @@
     },
     {
       "start": 3058.95,
-      "end": 3670.81,
+      "end": 3064.95,
       "text": "Straight between the eyes, it was called Death Alley Driver."
     },
     {
@@ -865,8 +881,9 @@
     },
     {
       "start": 3789.85,
-      "end": 3827.74,
-      "text": "Cause if we lose it now"
+      "end": 4311.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3827.74,
@@ -910,7 +927,7 @@
     },
     {
       "start": 3858.46,
-      "end": 4316.52,
+      "end": 3869.86,
       "text": "some before that peter green from his album colors black woman well it's 13 and a half minutes after"
     },
     {
@@ -1069,6 +1086,12 @@
       "text": "and it starts here."
     },
     {
+      "start": 4385.61,
+      "end": 5261.75,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5261.75,
       "end": 5262.51,
       "text": "Of Sunderland"
@@ -1225,7 +1248,7 @@
     },
     {
       "start": 5326.25,
-      "end": 5946.97,
+      "end": 5332.85,
       "text": "38 Special, it's a track from a new album of theirs."
     },
     {
@@ -1355,7 +1378,7 @@
     },
     {
       "start": 6013.96,
-      "end": 6172.93,
+      "end": 6016.96,
       "text": "My enclosure"
     },
     {
@@ -1365,7 +1388,7 @@
     },
     {
       "start": 6177.57,
-      "end": 6457.24,
+      "end": 6184.77,
       "text": "One of the most requested sessions on the BBC Friday Rock Show"
     },
     {
@@ -1410,8 +1433,14 @@
     },
     {
       "start": 6489.7,
-      "end": 7019.07,
+      "end": 6494.5,
       "text": "Especially for a lady who is 21 today."
+    },
+    {
+      "start": 6494.5,
+      "end": 7019.89,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7019.89,

@@ -139,6 +139,12 @@
   ],
   "transcript": [
     {
+      "start": 0.0,
+      "end": 214.67,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 214.67,
       "end": 218.67,
       "text": "It goes past 11. That was Lie Back and Enjoy It."
@@ -315,7 +321,7 @@
     },
     {
       "start": 417.66,
-      "end": 902.34,
+      "end": 423.66,
       "text": "That's an old tune that's just been revived by Raven."
     },
     {
@@ -380,8 +386,14 @@
     },
     {
       "start": 967.03,
-      "end": 1574.62,
+      "end": 977.83,
       "text": "diamond head lightning to the nations and before that don't you ever leave me diamond head who were"
+    },
+    {
+      "start": 977.83,
+      "end": 1590.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1574.62,
@@ -500,8 +512,14 @@
     },
     {
       "start": 1663.32,
-      "end": 2175.04,
+      "end": 1673.52,
       "text": "we'll hear you. Well it looks like Status Quo are on the road but Alan Lancaster is"
+    },
+    {
+      "start": 1980.0,
+      "end": 2175.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2175.04,
@@ -675,8 +693,14 @@
     },
     {
       "start": 2258.57,
-      "end": 2833.01,
+      "end": 2270.57,
       "text": "Final one from our session band of the night called Cougar, who are Martin and Dave and Neville and Neil."
+    },
+    {
+      "start": 2270.57,
+      "end": 2833.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2833.13,
@@ -925,7 +949,7 @@
     },
     {
       "start": 3012.45,
-      "end": 3463.94,
+      "end": 3020.25,
       "text": "That was called Girl from the album Waiting for the Roar by Fastway."
     },
     {
@@ -1010,8 +1034,20 @@
     },
     {
       "start": 3606.61,
-      "end": 4132.76,
+      "end": 3609.61,
       "text": "Ten minutes past ten."
+    },
+    {
+      "start": 3609.61,
+      "end": 3955.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3960.0,
+      "end": 4132.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4132.88,
@@ -1160,12 +1196,12 @@
     },
     {
       "start": 4221.46,
-      "end": 4565.81,
+      "end": 4233.46,
       "text": "who also says and paul do you still know john this is cougar as you see you don't hear those"
     },
     {
       "start": 4565.81,
-      "end": 4759.52,
+      "end": 4576.61,
       "text": "sounds as you hear but dig this the albums come out on the political record label it's called"
     },
     {
@@ -1260,8 +1296,14 @@
     },
     {
       "start": 4838.72,
-      "end": 5457.46,
+      "end": 4842.32,
       "text": "Still sounds good to me, anyway."
+    },
+    {
+      "start": 4842.32,
+      "end": 5457.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5457.58,
@@ -1355,8 +1397,14 @@
     },
     {
       "start": 5490.41,
-      "end": 6148.9,
+      "end": 5493.41,
       "text": "The track was Gabrielle."
+    },
+    {
+      "start": 5580.0,
+      "end": 6150.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6150.9,

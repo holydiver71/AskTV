@@ -30,7 +30,9 @@
       "artist": "Iron Maiden",
       "track": "2 Minutes To Midnight",
       "details": "LP-Powerslave; EMI",
-      "verified_timestamp": 360.0
+      "verified_timestamp": 360.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "two minutes to midnight the"
     },
     {
       "artist": "Cannes",
@@ -197,8 +199,20 @@
     },
     {
       "start": 58.78,
-      "end": 732.34,
+      "end": 70.18,
       "text": "the right channel if you don't you're not reaching immediately if not you might go deaf band are good"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 732.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 732.34,
@@ -347,8 +361,14 @@
     },
     {
       "start": 846.99,
-      "end": 1533.42,
+      "end": 849.99,
       "text": "One minute, 12 incher"
+    },
+    {
+      "start": 849.99,
+      "end": 1533.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1533.42,
@@ -482,7 +502,7 @@
     },
     {
       "start": 1617.34,
-      "end": 2017.54,
+      "end": 1629.34,
       "text": "you after midnight and soul fans like that single i don't believe it why can't this be love and for"
     },
     {
@@ -661,14 +681,26 @@
       "text": "At the moment, though, I think he's in rugby."
     },
     {
+      "start": 2122.92,
+      "end": 2138.42,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2143.42,
       "end": 2144.82,
       "text": "Two here by State Trooper."
     },
     {
       "start": 2145.46,
-      "end": 2643.53,
+      "end": 2148.46,
       "text": "Musical master chefs they are."
+    },
+    {
+      "start": 2148.46,
+      "end": 2643.63,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2643.63,
@@ -719,6 +751,18 @@
       "start": 2662.57,
       "end": 2663.81,
       "text": "This is something by Dio."
+    },
+    {
+      "start": 2700.0,
+      "end": 2875.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2880.0,
+      "end": 3112.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3112.41,
@@ -837,7 +881,7 @@
     },
     {
       "start": 3208.44,
-      "end": 3783.38,
+      "end": 3211.44,
       "text": "...to their roots. Status quo."
     },
     {
@@ -947,8 +991,14 @@
     },
     {
       "start": 3841.84,
-      "end": 4847.37,
+      "end": 3846.64,
       "text": "That was our feature, lie back and enjoy."
+    },
+    {
+      "start": 3846.64,
+      "end": 4847.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4847.77,
@@ -1082,8 +1132,14 @@
     },
     {
       "start": 4941.2,
-      "end": 5458.5,
+      "end": 4946.0,
       "text": "It's five-track, 12-incher, and I'm playing that off."
+    },
+    {
+      "start": 5400.0,
+      "end": 5490.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5458.66,
@@ -1262,7 +1318,7 @@
     },
     {
       "start": 5555.46,
-      "end": 6036.8,
+      "end": 5565.66,
       "text": "more by state trooper harry barton on the vocals jeff summers jeff brown steve glover martin bushell"
     },
     {
@@ -1762,8 +1818,14 @@
     },
     {
       "start": 6736.86,
-      "end": 7196.28,
+      "end": 6747.66,
       "text": "alexandra as i always say finish with something nice and quiet and send them to sleep that was"
+    },
+    {
+      "start": 6747.66,
+      "end": 7195.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7196.28,

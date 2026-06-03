@@ -212,8 +212,14 @@
     },
     {
       "start": 73.46,
-      "end": 459.57,
+      "end": 76.46,
       "text": "I am the BBC."
+    },
+    {
+      "start": 76.46,
+      "end": 460.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 460.25,
@@ -337,8 +343,14 @@
     },
     {
       "start": 531.62,
-      "end": 719.28,
+      "end": 535.22,
       "text": "From QR3, it's their new album"
+    },
+    {
+      "start": 535.22,
+      "end": 719.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 719.28,
@@ -637,8 +649,14 @@
     },
     {
       "start": 1294.6,
-      "end": 1739.17,
+      "end": 1297.6,
       "text": "and Elixir, from the album"
+    },
+    {
+      "start": 1297.6,
+      "end": 1737.99,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1739.17,
@@ -1016,6 +1034,12 @@
       "text": "But don't hold your breath."
     },
     {
+      "start": 1948.84,
+      "end": 2955.2,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2955.2,
       "end": 2956.4,
       "text": "Cameron of Ryslip."
@@ -1362,7 +1386,7 @@
     },
     {
       "start": 3100.99,
-      "end": 3692.55,
+      "end": 3106.99,
       "text": "Let it rock and you give our lover bad names."
     },
     {
@@ -1562,8 +1586,14 @@
     },
     {
       "start": 3797.99,
-      "end": 4206.46,
+      "end": 3802.79,
       "text": "It'll happen, it's past 11, approximately 11.30 tonight."
+    },
+    {
+      "start": 3802.79,
+      "end": 4206.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4206.76,
@@ -2097,7 +2127,7 @@
     },
     {
       "start": 5319.99,
-      "end": 5582.55,
+      "end": 5331.39,
       "text": "the friday rock show from bbc radio one and that was vectum and a track which is called satan's"
     },
     {
@@ -2417,8 +2447,20 @@
     },
     {
       "start": 5771.6,
-      "end": 6009.09,
+      "end": 5782.4,
       "text": "in the Dark. That's a classic, but you knew that anyway. Shot in the Dark by Ozzy Osbourne,"
+    },
+    {
+      "start": 5782.4,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6030.85,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6009.21,
@@ -2792,7 +2834,7 @@
     },
     {
       "start": 6153.83,
-      "end": 6337.58,
+      "end": 6161.63,
       "text": "And I must say the end of it caught me out as well"
     },
     {

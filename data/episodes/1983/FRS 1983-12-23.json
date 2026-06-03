@@ -143,7 +143,7 @@
     },
     {
       "start": 34.46,
-      "end": 1417.17,
+      "end": 38.66,
       "text": "This is Tommy Vance on Radio 1."
     },
     {
@@ -247,6 +247,12 @@
       "text": "This is Zen Attack and Visions of Africa."
     },
     {
+      "start": 1452.37,
+      "end": 2329.73,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2329.73,
       "end": 2330.93,
       "text": "65A, The Lodge,"
@@ -308,8 +314,20 @@
     },
     {
       "start": 2358.87,
-      "end": 3124.52,
+      "end": 2369.07,
       "text": "name of jane who sent me a christmas card ta solstice from the album saints and sinners"
+    },
+    {
+      "start": 2369.07,
+      "end": 2875.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2880.0,
+      "end": 3124.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3124.52,
@@ -408,8 +426,14 @@
     },
     {
       "start": 3183.86,
-      "end": 3843.95,
+      "end": 3193.46,
       "text": "New Age. It's two minutes past eleven, this is Accept. They're going some on that track,"
+    },
+    {
+      "start": 3240.0,
+      "end": 3849.61,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3844.23,
@@ -578,8 +602,14 @@
     },
     {
       "start": 3933.2,
-      "end": 4623.46,
+      "end": 3936.2,
       "text": "There you have it."
+    },
+    {
+      "start": 3936.2,
+      "end": 4623.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4623.64,
@@ -620,6 +650,12 @@
       "start": 4654.32,
       "end": 4660.02,
       "text": "The Friday Night Connection, The Friday Rock Show, BBC Radio 1, London, W1A4WW."
+    },
+    {
+      "start": 5040.0,
+      "end": 5130.67,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5102.4,
@@ -705,6 +741,12 @@
       "start": 5146.3,
       "end": 5150.32,
       "text": "Just coming up to 25 minutes to 12, this is Solstice and the Sea."
+    },
+    {
+      "start": 5150.32,
+      "end": 5598.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5598.32,
@@ -793,7 +835,7 @@
     },
     {
       "start": 5641.93,
-      "end": 6102.89,
+      "end": 5646.73,
       "text": "That was Def Leppard out of our archives."
     },
     {

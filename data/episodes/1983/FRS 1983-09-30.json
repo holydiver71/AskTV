@@ -177,7 +177,7 @@
     },
     {
       "start": 82.07,
-      "end": 835.74,
+      "end": 85.67,
       "text": "Van Gellis. That wasn't the laser"
     },
     {
@@ -339,6 +339,12 @@
       "start": 912.37,
       "end": 914.55,
       "text": "The track is Wildest Dreams."
+    },
+    {
+      "start": 914.55,
+      "end": 1595.63,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1595.63,
@@ -512,7 +518,7 @@
     },
     {
       "start": 1695.28,
-      "end": 2231.8,
+      "end": 1700.08,
       "text": "Carlos Santana and Nueva York on CBS CD."
     },
     {
@@ -616,18 +622,13 @@
       "text": "Be a boy no more"
     },
     {
-      "start": 2330.58,
-      "end": 2377.18,
-      "text": "Young but not a child"
-    },
-    {
       "start": 2377.18,
       "end": 2459.7,
       "text": "Now look at him, ain't all he should be"
     },
     {
       "start": 2459.7,
-      "end": 2715.59,
+      "end": 2465.7,
       "text": "That, of course, was Kiss from the album Kiss Unmasked."
     },
     {
@@ -819,6 +820,12 @@
       "start": 2890.21,
       "end": 2891.23,
       "text": "Titan sound."
+    },
+    {
+      "start": 2891.23,
+      "end": 5123.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5123.25,

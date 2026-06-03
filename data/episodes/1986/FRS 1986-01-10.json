@@ -24,7 +24,9 @@
       "artist": "Thin Lizzy",
       "track": "Vagabonds Of The Western World",
       "details": "LP-Vagabonds Of The Western World; Decca",
-      "verified_timestamp": 360.0
+      "verified_timestamp": 360.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i could tell you the"
     },
     {
       "artist": null,
@@ -45,7 +47,9 @@
       "artist": "Thin Lizzy",
       "track": "Eire",
       "details": "LP-Thin Lizzy; Decca",
-      "verified_timestamp": 1207.79
+      "verified_timestamp": 1207.79,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "speaking the celtic tongue the"
     },
     {
       "artist": null,
@@ -77,7 +81,9 @@
       "artist": "Thin Lizzy",
       "track": "Dublin",
       "details": "7\"-New Day; Decca",
-      "verified_timestamp": 2340.0
+      "verified_timestamp": 2340.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i d left behind the"
     },
     {
       "artist": null,
@@ -88,7 +94,9 @@
       "artist": "Thin Lizzy",
       "track": "The Cowboy Song",
       "details": "LP-Jailbreak; Vertigo",
-      "verified_timestamp": 2700.0
+      "verified_timestamp": 2700.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i am just a cowboy"
     },
     {
       "artist": null,
@@ -110,7 +118,9 @@
       "artist": "Thin Lizzy",
       "track": "The Boys Are Back In Town",
       "details": "LP-Jailbreak; Vertigo",
-      "verified_timestamp": 3600.0
+      "verified_timestamp": 3600.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the boys are back in"
     },
     {
       "artist": null,
@@ -154,7 +164,9 @@
       "artist": "Thin Lizzy",
       "track": "Renegade",
       "details": "LP-Renegade; Vertigo",
-      "verified_timestamp": 5040.0
+      "verified_timestamp": 5040.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "he s a rebel that"
     },
     {
       "artist": null,
@@ -165,7 +177,9 @@
       "artist": "Thin Lizzy",
       "track": "Thunder And Lightning",
       "details": "LP-Thunder And Lightning; Vertgo/Phonogram",
-      "verified_timestamp": 2430.91
+      "verified_timestamp": 2430.91,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "in the middle of the"
     },
     {
       "artist": null,
@@ -187,7 +201,9 @@
       "artist": "Thin Lizzy",
       "track": "The Sun Goes Down",
       "details": "LP-Thunder And Lightning; Vertgo/Phonogram",
-      "verified_timestamp": 5940.0
+      "verified_timestamp": 5940.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "but she is still captured"
     },
     {
       "artist": null,
@@ -492,8 +508,14 @@
     },
     {
       "start": 219.47,
-      "end": 466.98,
+      "end": 229.07,
       "text": "rehearsing one day we had been together about three weeks four weeks we decided that we"
+    },
+    {
+      "start": 360.0,
+      "end": 466.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 466.98,
@@ -597,7 +619,7 @@
     },
     {
       "start": 536.8,
-      "end": 870.95,
+      "end": 547.0,
       "text": "because of ill health it was exhaustion and um just a lot of things that were available"
     },
     {
@@ -744,11 +766,6 @@
       "start": 1016.06,
       "end": 1055.27,
       "text": "They fight bitterly, the land is free"
-    },
-    {
-      "start": 1055.27,
-      "end": 1082.33,
-      "text": "My name's Brian Robertson."
     },
     {
       "start": 1083.09,
@@ -942,8 +959,14 @@
     },
     {
       "start": 1254.96,
-      "end": 1493.54,
+      "end": 1268.16,
       "text": "not really get them and it worked every time it was a day if he could he really would and he'd get"
+    },
+    {
+      "start": 1268.16,
+      "end": 1493.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1493.54,
@@ -1281,11 +1304,6 @@
       "text": "And you'd always know he was there behind you"
     },
     {
-      "start": 1716.84,
-      "end": 1751.49,
-      "text": "I think I'll fall, he said"
-    },
-    {
       "start": 1751.49,
       "end": 1757.83,
       "text": "If I don't find something else to do"
@@ -1302,8 +1320,14 @@
     },
     {
       "start": 1770.53,
-      "end": 2176.17,
+      "end": 1775.93,
       "text": "...engineer for Thin Lizzy for quite a long time."
+    },
+    {
+      "start": 1800.0,
+      "end": 2176.57,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2176.57,
@@ -1447,8 +1471,9 @@
     },
     {
       "start": 2365.28,
-      "end": 2396.16,
-      "text": "and see"
+      "end": 2407.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2396.16,
@@ -1846,9 +1871,16 @@
       "text": "Looking back, I got my job, busting broncs for the road"
     },
     {
-      "start": 2784.86,
-      "end": 2880.46,
-      "text": "Roll me, it's okay amigo"
+      "start": 2684.73,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 2994.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2880.46,
@@ -2042,7 +2074,7 @@
     },
     {
       "start": 3141.46,
-      "end": 3377.92,
+      "end": 3145.66,
       "text": "I played lead guitar with Thin Lizzy"
     },
     {
@@ -2179,6 +2211,12 @@
       "start": 3590.64,
       "end": 3653.28,
       "text": "Back in town, the boys are good with a spell"
+    },
+    {
+      "start": 3600.0,
+      "end": 3765.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3653.28,
@@ -2436,6 +2474,12 @@
       "text": "The main things that I remember about Phil was"
     },
     {
+      "start": 4018.32,
+      "end": 4111.67,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4098.44,
       "end": 4103.29,
       "text": "we all knew what it was like to be a support band"
@@ -2597,8 +2641,14 @@
     },
     {
       "start": 4209.72,
-      "end": 4405.05,
+      "end": 4219.92,
       "text": "this is snowy white here um i worked with phil from 1980 to the summer of 1982"
+    },
+    {
+      "start": 4320.0,
+      "end": 4412.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4405.05,
@@ -2637,8 +2687,14 @@
     },
     {
       "start": 4449.26,
-      "end": 4628.79,
+      "end": 4455.26,
       "text": "It's true that Phil and I were on different wavelengths"
+    },
+    {
+      "start": 4455.26,
+      "end": 4628.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4628.79,
@@ -2777,8 +2833,14 @@
     },
     {
       "start": 4814.5,
-      "end": 5084.14,
+      "end": 4821.1,
       "text": "We're on the scene as long as Phil had become established"
+    },
+    {
+      "start": 5040.0,
+      "end": 5132.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5084.14,
@@ -2877,7 +2939,7 @@
     },
     {
       "start": 5157.45,
-      "end": 5465.05,
+      "end": 5170.65,
       "text": "hi this is john sykes i first met phil in ireland when i was doing a solo single he very kindly said"
     },
     {
@@ -3022,8 +3084,14 @@
     },
     {
       "start": 5613.9,
-      "end": 5802.28,
+      "end": 5627.7,
       "text": "think of it it'd just come out with it you know i'll be that to get on a stage with phil and it"
+    },
+    {
+      "start": 5760.0,
+      "end": 5851.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5802.28,
@@ -3177,8 +3245,14 @@
     },
     {
       "start": 5908.95,
-      "end": 6363.3,
+      "end": 5920.35,
       "text": "she tries but she is still captured by herself she knows now can you remember at all brian anything"
+    },
+    {
+      "start": 5940.0,
+      "end": 6363.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6363.3,
@@ -3192,8 +3266,14 @@
     },
     {
       "start": 6369.08,
-      "end": 6837.24,
+      "end": 6375.08,
       "text": "Can I just ask you to, in your own words,"
+    },
+    {
+      "start": 6480.0,
+      "end": 6837.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6837.9,
@@ -3336,11 +3416,6 @@
       "text": "You can always hear the king call"
     },
     {
-      "start": 7015.71,
-      "end": 7091.77,
-      "text": "Radio 1's tribute to Phil Lynott"
-    },
-    {
       "start": 7091.77,
       "end": 7093.35,
       "text": "Presented you the voices of"
@@ -3389,6 +3464,12 @@
       "start": 7134.6,
       "end": 7216.6,
       "text": "It's 12 o'clock, midnight. Here's the news read by Steve Madden."
+    },
+    {
+      "start": 7134.6,
+      "end": 7226.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7216.9,

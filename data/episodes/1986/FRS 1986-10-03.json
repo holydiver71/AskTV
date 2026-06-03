@@ -198,7 +198,7 @@
     },
     {
       "start": 100.73,
-      "end": 681.04,
+      "end": 103.73,
       "text": "First came out in 1973."
     },
     {
@@ -318,8 +318,14 @@
     },
     {
       "start": 761.36,
-      "end": 1374.24,
+      "end": 766.16,
       "text": "It's a good album, that, I tell you."
+    },
+    {
+      "start": 766.16,
+      "end": 1371.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1374.3,
@@ -475,6 +481,12 @@
       "start": 1486.36,
       "end": 1486.64,
       "text": "Thank you."
+    },
+    {
+      "start": 1486.64,
+      "end": 1793.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1793.71,
@@ -838,8 +850,20 @@
     },
     {
       "start": 2476.75,
-      "end": 3233.58,
+      "end": 2480.95,
       "text": "That's the new single by Bon Jovi."
+    },
+    {
+      "start": 2700.0,
+      "end": 3055.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3060.0,
+      "end": 3233.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3233.72,
@@ -1123,8 +1147,14 @@
     },
     {
       "start": 3357.34,
-      "end": 7000.3,
+      "end": 3360.34,
       "text": "In 1986"
+    },
+    {
+      "start": 3360.34,
+      "end": 7000.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7000.3,

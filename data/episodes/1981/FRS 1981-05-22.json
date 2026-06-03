@@ -62,7 +62,9 @@
       "artist": "Samson",
       "track": "Riding With The Angels",
       "details": "LP-Shock Tactics; RCA",
-      "verified_timestamp": 2340.0
+      "verified_timestamp": 2340.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "way riding with the angels"
     },
     {
       "artist": "Hunt",
@@ -172,8 +174,20 @@
     },
     {
       "start": 73.34,
-      "end": 815.7,
+      "end": 84.14,
       "text": "and that's a track by a band called fortress from an album that's recently come out on the"
+    },
+    {
+      "start": 84.14,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 815.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 815.7,
@@ -276,9 +290,21 @@
       "text": "Say hello to Hazel, and also to Brad at the Rainbow Fan Club."
     },
     {
+      "start": 897.38,
+      "end": 897.93,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 902.93,
       "end": 904.87,
       "text": "1017. Here's Last Flight."
+    },
+    {
+      "start": 904.87,
+      "end": 1302.97,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1302.97,
@@ -367,8 +393,14 @@
     },
     {
       "start": 1367.32,
-      "end": 1779.42,
+      "end": 1370.32,
       "text": "By the Pink Floyd."
+    },
+    {
+      "start": 1370.32,
+      "end": 1780.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1780.04,
@@ -406,14 +438,26 @@
       "text": "When you're down in the dumps, you need something to bring you."
     },
     {
+      "start": 1800.0,
+      "end": 2335.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1859.16,
       "end": 1861.88,
       "text": "There's only one thing that's going to do it the way you want it."
     },
     {
       "start": 1862.32,
-      "end": 2422.98,
+      "end": 1867.72,
       "text": "That band just got tighter and tighter and tighter."
+    },
+    {
+      "start": 2340.0,
+      "end": 2432.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2424.04,
@@ -542,7 +586,7 @@
     },
     {
       "start": 2497.96,
-      "end": 2997.02,
+      "end": 2505.76,
       "text": "improvement as i'm sure you've noticed a recollection they actually brought that out"
     },
     {
@@ -607,8 +651,20 @@
     },
     {
       "start": 3061.9,
-      "end": 3866.89,
+      "end": 3064.9,
       "text": "Life's out, love to love."
+    },
+    {
+      "start": 3064.9,
+      "end": 3595.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3600.0,
+      "end": 3867.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3867.25,
@@ -777,7 +833,7 @@
     },
     {
       "start": 4816.83,
-      "end": 5267.2,
+      "end": 4828.23,
       "text": "it's nearly 11 23 this is last flight link to the label that is a digital spiral groove ep"
     },
     {
@@ -806,8 +862,14 @@
       "text": "Here are the Floyds."
     },
     {
+      "start": 5288.36,
+      "end": 5643.38,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5383.41,
-      "end": 5642.54,
+      "end": 5393.01,
       "text": "Not the greatest quality in the world, but that's the best we can do for you."
     },
     {
@@ -842,7 +904,7 @@
     },
     {
       "start": 5671.15,
-      "end": 6209.54,
+      "end": 5674.15,
       "text": "The lead comes from Liverpool."
     },
     {
@@ -967,8 +1029,20 @@
     },
     {
       "start": 6286.54,
-      "end": 7095.58,
+      "end": 6290.14,
       "text": "...enchanted evening, especially for Dougal, Miss,"
+    },
+    {
+      "start": 6290.14,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6660.0,
+      "end": 7095.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7095.94,

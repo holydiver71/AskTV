@@ -134,7 +134,7 @@
     },
     {
       "start": 411.49,
-      "end": 755.31,
+      "end": 421.69,
       "text": "It'll be difficult to get out of that track because it runs straight into the other one."
     },
     {
@@ -259,8 +259,14 @@
     },
     {
       "start": 831.1,
-      "end": 1265.84,
+      "end": 834.1,
       "text": "Pre-album he releases, that guy"
+    },
+    {
+      "start": 834.1,
+      "end": 1265.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1265.84,
@@ -394,7 +400,7 @@
     },
     {
       "start": 1376.2,
-      "end": 2556.28,
+      "end": 1380.4,
       "text": "That's Hawkwind, and you shouldn't do that."
     },
     {
@@ -564,7 +570,7 @@
     },
     {
       "start": 2633.72,
-      "end": 3336.04,
+      "end": 2644.52,
       "text": "from the new album called magic the track was called demon driver the album is out on virgin"
     },
     {
@@ -728,8 +734,14 @@
       "text": "All you've got to do is find out what the connection is."
     },
     {
-      "start": 4104.4,
+      "start": 3477.97,
       "end": 4483.82,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4104.4,
+      "end": 4111.6,
       "text": "Such is the Friday Night Connection put together by Mr. Les Featherstone"
     },
     {
@@ -784,7 +796,7 @@
     },
     {
       "start": 4548.85,
-      "end": 5073.45,
+      "end": 4551.85,
       "text": "Hughes Thrall from"
     },
     {
@@ -1024,7 +1036,7 @@
     },
     {
       "start": 5191.67,
-      "end": 5664.73,
+      "end": 5197.07,
       "text": "That's a track from the new Wishbone Ash album"
     },
     {
@@ -1229,8 +1241,14 @@
     },
     {
       "start": 5771.76,
-      "end": 6284.59,
+      "end": 5777.16,
       "text": "I don't know a darn thing about that guy."
+    },
+    {
+      "start": 5777.16,
+      "end": 6284.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6284.59,

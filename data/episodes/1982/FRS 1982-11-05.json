@@ -110,17 +110,23 @@
       "artist": "David Bowie",
       "track": "Let Me Sleep Beside You",
       "details": "DLT Session",
-      "verified_timestamp": 1259.08
+      "verified_timestamp": 1259.08,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "secrets were told place your"
     },
     {
       "artist": "David Bowie",
       "track": "Unwashed And Somewhat Slightly Dazed",
-      "details": "DLT Session"
+      "details": "DLT Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "if you need to you"
     },
     {
       "artist": "David Bowie",
       "track": "Janine",
-      "details": "DLT Session"
+      "details": "DLT Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i m helpless for your"
     },
     {
       "artist": "Whitesnake",
@@ -266,8 +272,14 @@
     },
     {
       "start": 509.66,
-      "end": 1165.52,
+      "end": 515.06,
       "text": "That's from an album that's coming out quite shortly."
+    },
+    {
+      "start": 515.06,
+      "end": 1165.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1165.76,
@@ -451,8 +463,14 @@
     },
     {
       "start": 1260.64,
-      "end": 1970.53,
+      "end": 1272.04,
       "text": "in 1972 the archives recorded back in 1972 david bowie and star waiting for the man and five years"
+    },
+    {
+      "start": 1272.04,
+      "end": 1970.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1970.53,
@@ -536,8 +554,14 @@
     },
     {
       "start": 2067.72,
-      "end": 2657.85,
+      "end": 2078.52,
       "text": "friday rock show radio one london w1a4 ww top back to the movie stars get nervous the track"
+    },
+    {
+      "start": 2520.0,
+      "end": 2657.85,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2657.85,
@@ -621,8 +645,14 @@
     },
     {
       "start": 2745.24,
-      "end": 3272.74,
+      "end": 2748.84,
       "text": "Excellent band. They come from Holland."
+    },
+    {
+      "start": 2748.84,
+      "end": 3272.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3272.84,
@@ -676,7 +706,7 @@
     },
     {
       "start": 3807.67,
-      "end": 4229.18,
+      "end": 3810.67,
       "text": "It came out in 1980,"
     },
     {
@@ -771,7 +801,7 @@
     },
     {
       "start": 4441.94,
-      "end": 4613.69,
+      "end": 4446.14,
       "text": "OK, just one more from David Bowie."
     },
     {
@@ -831,7 +861,7 @@
     },
     {
       "start": 4652.21,
-      "end": 4784.85,
+      "end": 4655.21,
       "text": "A really interesting session"
     },
     {
@@ -876,7 +906,7 @@
     },
     {
       "start": 4801.43,
-      "end": 5271.94,
+      "end": 4806.23,
       "text": "...of two previously unreleased tracks by Leonard Skinner"
     },
     {
@@ -911,7 +941,7 @@
     },
     {
       "start": 5284.98,
-      "end": 5491.14,
+      "end": 5295.18,
       "text": "really excellent session by movie stars who are larry lambourne on the keyboards andy brown on the"
     },
     {

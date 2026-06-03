@@ -41,7 +41,9 @@
       "artist": "Triumph",
       "track": "Magic Power",
       "details": "LP - Allied Forces",
-      "verified_timestamp": 900.0
+      "verified_timestamp": 900.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t know what it"
     },
     {
       "artist": "As Above...So Below",
@@ -109,7 +111,9 @@
       "artist": "Quiet Riot",
       "track": "Sign Of The Times",
       "details": "LP - Condition Critical",
-      "verified_timestamp": 5220.0
+      "verified_timestamp": 5220.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "a sign of the times"
     },
     {
       "artist": "Highway Chile",
@@ -167,8 +171,14 @@
     },
     {
       "start": 38.34,
-      "end": 543.39,
+      "end": 43.74,
       "text": "...from their album, which is called All Fired Up."
+    },
+    {
+      "start": 43.74,
+      "end": 538.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 543.45,
@@ -189,6 +199,12 @@
       "start": 553.25,
       "end": 557.21,
       "text": "Tees were a Canadian band whom I believe stopped recording back in about 1980."
+    },
+    {
+      "start": 557.21,
+      "end": 557.53,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 557.91,
@@ -247,8 +263,20 @@
     },
     {
       "start": 596.58,
-      "end": 1078.18,
+      "end": 603.18,
       "text": "Excellent track from an album that came out back in 1981,"
+    },
+    {
+      "start": 603.18,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1078.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1078.64,
@@ -427,8 +455,14 @@
     },
     {
       "start": 1175.73,
-      "end": 1840.66,
+      "end": 1188.33,
       "text": "and we are going to broadcast it again this is as above so below in october 1981 that's when it was"
+    },
+    {
+      "start": 1188.33,
+      "end": 1840.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1840.66,
@@ -487,8 +521,14 @@
     },
     {
       "start": 1875.38,
-      "end": 2292.79,
+      "end": 1889.18,
       "text": "It came out as a single once before, but that is a remixed version that I'm told is doing very well in America."
+    },
+    {
+      "start": 1980.0,
+      "end": 2290.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2292.99,
@@ -586,9 +626,21 @@
       "text": "More Dirty Strangers."
     },
     {
+      "start": 2371.31,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2417.64,
-      "end": 2958.96,
+      "end": 2428.44,
       "text": "now that you know you gotta borrow a time check for the brand new single by iron maiden"
+    },
+    {
+      "start": 2700.0,
+      "end": 2958.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2958.96,
@@ -682,7 +734,7 @@
     },
     {
       "start": 3214.78,
-      "end": 3819.25,
+      "end": 3221.98,
       "text": "North Amberside, three bits of music, the connection is in there somewhere."
     },
     {
@@ -772,8 +824,14 @@
     },
     {
       "start": 4005.97,
-      "end": 4459.71,
+      "end": 4011.97,
       "text": "It's 11.15 on the Friday Rock Show, BBC Radio 1."
+    },
+    {
+      "start": 4011.97,
+      "end": 4459.89,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4459.89,
@@ -817,8 +875,14 @@
     },
     {
       "start": 4484.99,
-      "end": 5078.34,
+      "end": 4510.19,
       "text": "Ah, they spell their name H-Y-T-S. Hits, I guess it is pronounced, H-Y-T-S, from an album of the same name. It's an import. It's out on the Gold Mountain record label from California, USA. The track you heard was entitled Love Blind."
+    },
+    {
+      "start": 4510.19,
+      "end": 5215.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5078.72,
@@ -827,8 +891,14 @@
     },
     {
       "start": 5091.22,
-      "end": 5650.29,
+      "end": 5096.02,
       "text": "excellent band they are, they are from Holland"
+    },
+    {
+      "start": 5220.0,
+      "end": 5650.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5650.29,
@@ -922,8 +992,14 @@
     },
     {
       "start": 5698.97,
-      "end": 6455.92,
+      "end": 5709.17,
       "text": "That track was called Damn the Bomb, and the other track you heard was Out of Touch."
+    },
+    {
+      "start": 5709.17,
+      "end": 6457.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6457.46,
@@ -1027,8 +1103,14 @@
     },
     {
       "start": 6533.99,
-      "end": 7129.76,
+      "end": 6539.39,
       "text": "12-inch version of Gary Moore's latest single, Empty Rooms."
+    },
+    {
+      "start": 6840.0,
+      "end": 7129.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7129.76,

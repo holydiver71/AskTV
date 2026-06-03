@@ -141,6 +141,12 @@
   ],
   "transcript": [
     {
+      "start": 540.0,
+      "end": 798.56,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 768.24,
       "end": 778.56,
       "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren. This is Tommy Vance on Radio 1."
@@ -192,7 +198,7 @@
     },
     {
       "start": 851.22,
-      "end": 1469.75,
+      "end": 861.42,
       "text": "of power burn in novemberland 15 and a half minutes after 10 this is white snake scorched"
     },
     {
@@ -272,8 +278,14 @@
     },
     {
       "start": 1529.91,
-      "end": 1999.91,
+      "end": 1534.71,
       "text": "Ah, got me on the end, didn't I?"
+    },
+    {
+      "start": 1534.71,
+      "end": 1997.55,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2000.17,
@@ -397,8 +409,14 @@
     },
     {
       "start": 2069.05,
-      "end": 2582.35,
+      "end": 2072.05,
       "text": "It's 16 minutes to 11."
+    },
+    {
+      "start": 2072.05,
+      "end": 2581.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2582.35,
@@ -572,8 +590,20 @@
     },
     {
       "start": 2656.64,
-      "end": 3272.76,
+      "end": 2663.24,
       "text": "Scorched Earth, a repeat session by them, recorded in June 1983"
+    },
+    {
+      "start": 2663.24,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 3272.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3272.76,
@@ -642,8 +672,14 @@
     },
     {
       "start": 3309.78,
-      "end": 3639.66,
+      "end": 3318.18,
       "text": "That was TNT from Scandinavia from their album called Nights of the New Thunder."
+    },
+    {
+      "start": 3318.18,
+      "end": 3640.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3640.02,
@@ -812,8 +848,14 @@
     },
     {
       "start": 3748.1,
-      "end": 4910.18,
+      "end": 3760.1,
       "text": "listening and that was sammy hagar from the album called nine on a ten scale came out back in 1976"
+    },
+    {
+      "start": 3760.1,
+      "end": 4910.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4910.18,
@@ -1032,7 +1074,7 @@
     },
     {
       "start": 5028.82,
-      "end": 5532.03,
+      "end": 5034.22,
       "text": "They've all just done on the epic record label."
     },
     {
@@ -1212,8 +1254,26 @@
     },
     {
       "start": 5643.54,
-      "end": 6194.93,
+      "end": 5654.34,
       "text": "it's the number one single in the states of the audio speed wagon i can't find this feeling"
+    },
+    {
+      "start": 5654.34,
+      "end": 5755.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5760.0,
+      "end": 5935.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5940.0,
+      "end": 6194.93,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6194.93,
@@ -1327,8 +1387,14 @@
     },
     {
       "start": 6283.45,
-      "end": 7105.67,
+      "end": 6291.85,
       "text": "jimmy page on the lead guitar all other instruments excluding the drums are played"
+    },
+    {
+      "start": 6660.0,
+      "end": 7105.67,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7105.67,

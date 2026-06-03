@@ -19,7 +19,9 @@
       "artist": "Status Quo",
       "track": "Break The Rules",
       "details": "LP-Quo; Vertigo",
-      "verified_timestamp": 0.0
+      "verified_timestamp": 0.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "done it so many times"
     },
     {
       "artist": "Warlock",
@@ -102,7 +104,9 @@
       "artist": "Steve Miller Band",
       "track": "Going To The Country",
       "details": "LP-Number 5; Capitol",
-      "verified_timestamp": 3600.0
+      "verified_timestamp": 3600.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "go goin to the country"
     },
     {
       "artist": "Flying Burrito Bros",
@@ -162,6 +166,12 @@
     }
   ],
   "transcript": [
+    {
+      "start": 0.0,
+      "end": 457.1,
+      "text": "[Music]",
+      "type": "music"
+    },
     {
       "start": 458.1,
       "end": 462.1,
@@ -234,8 +244,14 @@
     },
     {
       "start": 519.27,
-      "end": 964.97,
+      "end": 522.27,
       "text": "Demon is fast turned."
+    },
+    {
+      "start": 522.27,
+      "end": 965.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 965.11,
@@ -344,8 +360,14 @@
     },
     {
       "start": 1029.65,
-      "end": 1541.16,
+      "end": 1036.85,
       "text": "Got together back in 1977, broke up in 1982, reformed in 1984."
+    },
+    {
+      "start": 1036.85,
+      "end": 1540.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1541.44,
@@ -434,8 +456,20 @@
     },
     {
       "start": 1611.1,
-      "end": 2141.5,
+      "end": 1620.1,
       "text": "yes dance with the devil by phenomena it's the single lifted from the concept album"
+    },
+    {
+      "start": 1620.0,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2141.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2141.5,
@@ -554,7 +588,7 @@
     },
     {
       "start": 2239.58,
-      "end": 2827.77,
+      "end": 2242.58,
       "text": "Excellent band, they really are."
     },
     {
@@ -684,8 +718,14 @@
     },
     {
       "start": 2890.65,
-      "end": 3331.24,
+      "end": 2897.25,
       "text": "We actually did a session with Angel Witch back in 1980."
+    },
+    {
+      "start": 2897.25,
+      "end": 3331.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3331.72,
@@ -924,8 +964,26 @@
     },
     {
       "start": 3439.66,
-      "end": 4448.36,
+      "end": 3442.66,
       "text": "it's exactly 11.15"
+    },
+    {
+      "start": 3442.66,
+      "end": 3595.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3600.0,
+      "end": 3955.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3960.0,
+      "end": 4448.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4448.36,
@@ -1049,8 +1107,20 @@
     },
     {
       "start": 4533.49,
-      "end": 5029.88,
+      "end": 4545.49,
       "text": "That is us, and this is Tara Zara, Motley Crue, from their album The Theatre of Pain, Home Sweet Home."
+    },
+    {
+      "start": 4545.49,
+      "end": 4855.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4860.0,
+      "end": 5032.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5032.68,
@@ -1464,8 +1534,14 @@
     },
     {
       "start": 5238.92,
-      "end": 6122.41,
+      "end": 5244.32,
       "text": "Run for the night and cry from a hill."
+    },
+    {
+      "start": 5244.32,
+      "end": 6122.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6122.41,
@@ -1564,8 +1640,20 @@
     },
     {
       "start": 6174.01,
-      "end": 6568.44,
+      "end": 6177.61,
       "text": "It could possibly be that ACDC"
+    },
+    {
+      "start": 6300.0,
+      "end": 6475.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6480.0,
+      "end": 6570.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6568.44,
@@ -1734,7 +1822,7 @@
     },
     {
       "start": 6828.48,
-      "end": 7144.11,
+      "end": 6832.68,
       "text": "East End, there you had Tara Zara,"
     },
     {

@@ -109,7 +109,9 @@
       "artist": "Genesis",
       "track": "Twilight Alehouse",
       "details": "single 'B' side of I Know What I Like",
-      "verified_timestamp": 5040.0
+      "verified_timestamp": 5040.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "is it really true what"
     },
     {
       "artist": "Rossington Collins Band",
@@ -182,8 +184,26 @@
     },
     {
       "start": 69.02,
-      "end": 567.73,
+      "end": 82.82,
       "text": "Tattoo, that's the single that's just been lifted off their recent album and it's out and it's called Rock and Roll is King."
+    },
+    {
+      "start": 82.82,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 567.89,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 567.89,
@@ -262,8 +282,14 @@
     },
     {
       "start": 646.47,
-      "end": 858.51,
+      "end": 649.47,
       "text": "I don't remember."
+    },
+    {
+      "start": 649.47,
+      "end": 859.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 859.15,
@@ -272,8 +298,14 @@
     },
     {
       "start": 860.88,
-      "end": 1172.86,
+      "end": 863.88,
       "text": "...was free."
+    },
+    {
+      "start": 900.0,
+      "end": 1173.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1173.4,
@@ -332,8 +364,20 @@
     },
     {
       "start": 1226.39,
-      "end": 1779.37,
+      "end": 1235.99,
       "text": "around oxford that's the latest single that's out by gillan it is called nightmare and especially"
+    },
+    {
+      "start": 1235.99,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1260.0,
+      "end": 1779.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1779.37,
@@ -416,6 +460,12 @@
       "text": "I get, I get a fever that's so hard to bear"
     },
     {
+      "start": 1840.08,
+      "end": 1931.75,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1918.71,
       "end": 1920.13,
       "text": "You give me fever"
@@ -451,11 +501,6 @@
       "text": "And the night"
     },
     {
-      "start": 1942.78,
-      "end": 1972.01,
-      "text": "Everybody's got the fever"
-    },
-    {
       "start": 1972.01,
       "end": 1975.67,
       "text": "That is something we all know"
@@ -482,7 +527,7 @@
     },
     {
       "start": 1996.77,
-      "end": 2382.06,
+      "end": 2006.97,
       "text": "that's what i call a really interesting session out of our archives brian eno and the winkies"
     },
     {
@@ -522,7 +567,7 @@
     },
     {
       "start": 2429.04,
-      "end": 2888.54,
+      "end": 2434.44,
       "text": "And the album's out at the moment on RCA."
     },
     {
@@ -637,8 +682,14 @@
     },
     {
       "start": 2981.68,
-      "end": 3175.32,
+      "end": 2985.28,
       "text": "for somebody's sins but not mine"
+    },
+    {
+      "start": 2985.28,
+      "end": 3175.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3175.32,
@@ -677,8 +728,14 @@
     },
     {
       "start": 3207.94,
-      "end": 4274.14,
+      "end": 3212.74,
       "text": "The album called Greg Lake by Greg Lake"
+    },
+    {
+      "start": 3780.0,
+      "end": 4269.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4274.14,
@@ -867,8 +924,14 @@
     },
     {
       "start": 4387.96,
-      "end": 4800.2,
+      "end": 4396.36,
       "text": "That's a really good record, and it's out on their own label as well."
+    },
+    {
+      "start": 4396.36,
+      "end": 4798.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4800.3,
@@ -1102,12 +1165,18 @@
     },
     {
       "start": 5056.5,
-      "end": 5379.8,
+      "end": 5060.1,
       "text": "Which is I get a day"
     },
     {
+      "start": 5060.1,
+      "end": 5509.16,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5379.8,
-      "end": 5508.3,
+      "end": 5387.0,
       "text": "And a track from their new album, which is out on MCA,"
     },
     {
@@ -1232,8 +1301,14 @@
     },
     {
       "start": 5582.66,
-      "end": 6165.28,
+      "end": 5585.66,
       "text": "It's 60 Minutes of Midnight."
+    },
+    {
+      "start": 5585.66,
+      "end": 6165.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6165.42,
@@ -1297,7 +1372,7 @@
     },
     {
       "start": 6193.92,
-      "end": 6572.38,
+      "end": 6199.32,
       "text": "On the top by Cozy Powell at the moment,"
     },
     {

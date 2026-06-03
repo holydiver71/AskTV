@@ -90,7 +90,7 @@
   "transcript": [
     {
       "start": 2.51,
-      "end": 296.84,
+      "end": 17.51,
       "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren."
     },
     {
@@ -135,8 +135,20 @@
     },
     {
       "start": 351.99,
-      "end": 863.48,
+      "end": 357.39,
       "text": "This is the weather forecast here on Radio 1."
+    },
+    {
+      "start": 360.0,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 872.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 863.48,
@@ -265,8 +277,14 @@
     },
     {
       "start": 966.99,
-      "end": 1429.37,
+      "end": 969.99,
       "text": "from wind and"
+    },
+    {
+      "start": 969.99,
+      "end": 1424.85,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1429.37,
@@ -414,6 +432,12 @@
       "text": "Good on you, Angus, so we don't get seasick."
     },
     {
+      "start": 1498.47,
+      "end": 1499.21,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1502.73,
       "end": 1504.05,
       "text": "Warfare have a new single out."
@@ -422,6 +446,12 @@
       "start": 1504.21,
       "end": 1506.03,
       "text": "They want to burn the King's Road."
+    },
+    {
+      "start": 1506.03,
+      "end": 1831.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1831.3,
@@ -560,8 +590,20 @@
     },
     {
       "start": 1910.68,
-      "end": 2434.39,
+      "end": 1920.88,
       "text": "hello to you. He's in Bradford. Red Vet. The understatement of the year, that is, we rock."
+    },
+    {
+      "start": 1920.88,
+      "end": 2335.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2340.0,
+      "end": 2434.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2434.59,
@@ -720,7 +762,7 @@
     },
     {
       "start": 2518.2,
-      "end": 3609.1,
+      "end": 2523.0,
       "text": "wonderful stuff, that was the Friday Night Connection"
     },
     {
@@ -955,7 +997,7 @@
     },
     {
       "start": 5021.58,
-      "end": 5546.84,
+      "end": 5024.58,
       "text": "The band were Opus."
     },
     {
@@ -1060,7 +1102,7 @@
     },
     {
       "start": 5597.86,
-      "end": 6106.13,
+      "end": 5603.26,
       "text": "The latest single by them is called I'll Wait."
     },
     {

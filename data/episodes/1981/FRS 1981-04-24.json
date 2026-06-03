@@ -70,7 +70,9 @@
       "artist": "Eagles",
       "track": "Desperado",
       "details": "2xLP-Eagles Live; Elektra",
-      "verified_timestamp": 2822.75
+      "verified_timestamp": 2822.75,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you ve been out ridin"
     },
     {
       "artist": "Witchfynde",
@@ -136,7 +138,9 @@
       "artist": "Sammy Hagar",
       "track": "Young Girl Blues",
       "details": "LP-All Night Long; Capitol",
-      "verified_timestamp": 6517.74
+      "verified_timestamp": 6517.74,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "your way through the pho"
     }
   ],
   "transcript": [
@@ -197,8 +201,14 @@
     },
     {
       "start": 100.15,
-      "end": 521.97,
+      "end": 113.95,
       "text": "I don't know too much about that guy and his band at all, other than the fact that it's come out on Capitol."
+    },
+    {
+      "start": 113.95,
+      "end": 522.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 522.13,
@@ -342,8 +352,20 @@
     },
     {
       "start": 671.91,
-      "end": 992.12,
+      "end": 682.71,
       "text": "soon to be seen again in our country i'm happy to say i hope i'm there every single"
+    },
+    {
+      "start": 682.71,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 992.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 992.12,
@@ -427,7 +449,7 @@
     },
     {
       "start": 1050.38,
-      "end": 1497.8,
+      "end": 1053.38,
       "text": "Collect your pennies,"
     },
     {
@@ -546,8 +568,14 @@
       "text": "Studios, Rory Gallagher."
     },
     {
-      "start": 1900.07,
+      "start": 1550.66,
       "end": 2101.54,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1900.07,
+      "end": 1906.07,
       "text": "And as they were, we're back in January, February 1973"
     },
     {
@@ -602,7 +630,7 @@
     },
     {
       "start": 2148.76,
-      "end": 2410.54,
+      "end": 2156.56,
       "text": "you've been out riding fences for so long now you're a hard one"
     },
     {
@@ -612,7 +640,7 @@
     },
     {
       "start": 2455.05,
-      "end": 2822.75,
+      "end": 2465.25,
       "text": "was which fine from our session by them our repeat session by them the track was called"
     },
     {
@@ -817,8 +845,14 @@
     },
     {
       "start": 2962.19,
-      "end": 3268.84,
+      "end": 2967.59,
       "text": "For Future Shock, the track was Bite the Bullet."
+    },
+    {
+      "start": 2967.59,
+      "end": 3269.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3269.92,
@@ -977,7 +1011,7 @@
     },
     {
       "start": 3372.14,
-      "end": 4168.26,
+      "end": 3381.74,
       "text": "10 pound record token and this is mr scrivener's own friday night connection friday night connection"
     },
     {
@@ -1037,8 +1071,14 @@
     },
     {
       "start": 4212.77,
-      "end": 4636.77,
+      "end": 4215.77,
       "text": "And they call themselves Overdrive"
+    },
+    {
+      "start": 4215.77,
+      "end": 4631.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4636.77,
@@ -1082,8 +1122,14 @@
     },
     {
       "start": 4659.57,
-      "end": 5455.51,
+      "end": 4667.97,
       "text": "That's Rory Gallagher out of the archives from the 5th of the 2nd, 1973"
+    },
+    {
+      "start": 4667.97,
+      "end": 5455.51,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5455.51,
@@ -1157,7 +1203,7 @@
     },
     {
       "start": 5500.36,
-      "end": 5895.12,
+      "end": 5508.76,
       "text": "I tell you, the writer of that particular piece of music is Pye Hastings."
     },
     {
@@ -1222,8 +1268,14 @@
     },
     {
       "start": 5923.84,
-      "end": 6467.78,
+      "end": 5931.04,
       "text": "That was our repeat session by Witchfind, a nice session by them."
+    },
+    {
+      "start": 5931.04,
+      "end": 6467.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6467.94,
@@ -1306,6 +1358,12 @@
       "text": "And we play you this, the Young Girl Blues."
     },
     {
+      "start": 6520.2,
+      "end": 6647.32,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 6604.29,
       "end": 6619.5,
       "text": "Continue your way through the phonies."
@@ -1322,7 +1380,7 @@
     },
     {
       "start": 6648.54,
-      "end": 7081.71,
+      "end": 6655.74,
       "text": "From a chap who says he has not yet got a girlfriend."
     },
     {

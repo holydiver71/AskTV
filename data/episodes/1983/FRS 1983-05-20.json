@@ -175,8 +175,14 @@
     },
     {
       "start": 99.19,
-      "end": 521.23,
+      "end": 108.19,
       "text": "Now, that's a track from an import album. It's out on the Dutch backdoor label."
+    },
+    {
+      "start": 108.19,
+      "end": 521.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 521.23,
@@ -315,8 +321,14 @@
     },
     {
       "start": 887.54,
-      "end": 1207.94,
+      "end": 892.94,
       "text": "That's a track from our session by Severed Head."
+    },
+    {
+      "start": 892.94,
+      "end": 1208.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1208.6,
@@ -424,6 +436,12 @@
       "text": "So if you're into the original Motorhead, here's two by them."
     },
     {
+      "start": 1281.58,
+      "end": 1596.09,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1596.09,
       "end": 1599.19,
       "text": "Actually recorded on the 18th of the 9th, way back in 1978."
@@ -485,7 +503,7 @@
     },
     {
       "start": 1626.77,
-      "end": 2229.06,
+      "end": 1629.77,
       "text": "That, of course, was Rainbow."
     },
     {
@@ -555,7 +573,7 @@
     },
     {
       "start": 2285.22,
-      "end": 2730.54,
+      "end": 2294.82,
       "text": "track from a new album which is actually a compilation of our album rather of various"
     },
     {
@@ -705,7 +723,7 @@
     },
     {
       "start": 2808.34,
-      "end": 3485.59,
+      "end": 2811.34,
       "text": "Ascension. That was"
     },
     {
@@ -985,7 +1003,7 @@
     },
     {
       "start": 4978.88,
-      "end": 5683.57,
+      "end": 4989.08,
       "text": "To be absolutely honest, I don't think they let me through the doors on my old school."
     },
     {
@@ -1030,7 +1048,7 @@
     },
     {
       "start": 5711.15,
-      "end": 6222.87,
+      "end": 5717.15,
       "text": "And as they were, the BBC studios in September 1978."
     },
     {
@@ -1115,7 +1133,7 @@
     },
     {
       "start": 6268.35,
-      "end": 7022.2,
+      "end": 6278.55,
       "text": "We like that band. I think they've got a great distinctive sound. There's something different about them."
     },
     {

@@ -92,7 +92,9 @@
       "artist": "Alice Cooper",
       "track": "Nurse Rosetta",
       "details": "LP - From The Inside",
-      "verified_timestamp": 5400.0
+      "verified_timestamp": 5400.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i won t let her"
     },
     {
       "artist": "Helix",
@@ -168,8 +170,20 @@
     },
     {
       "start": 68.02,
-      "end": 992.72,
+      "end": 74.02,
       "text": "That's the title track from the new Judas Priest album,"
+    },
+    {
+      "start": 74.02,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 992.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 992.84,
@@ -402,6 +416,12 @@
       "text": "And lots of love to his wife as well."
     },
     {
+      "start": 1076.11,
+      "end": 1076.27,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1076.45,
       "end": 1078.29,
       "text": "Talking about a good mate of ours called Mike Willis."
@@ -418,8 +438,14 @@
     },
     {
       "start": 1084.65,
-      "end": 1784.09,
+      "end": 1092.45,
       "text": "That was recorded live in front of a quarter of a million people"
+    },
+    {
+      "start": 1092.45,
+      "end": 1784.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1784.09,
@@ -583,7 +609,7 @@
     },
     {
       "start": 1869.33,
-      "end": 2343.3,
+      "end": 1875.93,
       "text": "We first went out that session way back in about 1980,"
     },
     {
@@ -723,8 +749,14 @@
     },
     {
       "start": 2433.81,
-      "end": 3144.8,
+      "end": 2444.01,
       "text": "don't forget me white maggie and all bikers everywhere back to jordy and move away i was"
+    },
+    {
+      "start": 2444.01,
+      "end": 3144.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3144.8,
@@ -853,8 +885,14 @@
     },
     {
       "start": 3254.76,
-      "end": 4099.93,
+      "end": 3257.76,
       "text": "And that was it."
+    },
+    {
+      "start": 3257.76,
+      "end": 4099.99,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4099.99,
@@ -1268,7 +1306,7 @@
     },
     {
       "start": 4948.49,
-      "end": 5332.18,
+      "end": 4953.29,
       "text": "That album really is a joy and delight."
     },
     {
@@ -1418,8 +1456,14 @@
     },
     {
       "start": 5390.85,
-      "end": 5513.6,
+      "end": 5396.85,
       "text": "I won't let her catch me peering down her sweater."
+    },
+    {
+      "start": 5400.0,
+      "end": 5513.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5513.78,
@@ -1473,7 +1517,7 @@
     },
     {
       "start": 5562.54,
-      "end": 6031.18,
+      "end": 5570.34,
       "text": "That's a track from an album that's just come out in this country"
     },
     {
@@ -1573,7 +1617,7 @@
     },
     {
       "start": 6071.72,
-      "end": 6698.16,
+      "end": 6076.52,
       "text": "it's quite a very different album I think"
     },
     {

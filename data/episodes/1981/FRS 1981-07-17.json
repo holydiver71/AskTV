@@ -99,8 +99,26 @@
   "transcript": [
     {
       "start": 1.23,
-      "end": 3416.46,
+      "end": 20.43,
       "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren. This is Tommy Vance on Radio 1."
+    },
+    {
+      "start": 540.0,
+      "end": 2515.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2520.0,
+      "end": 2875.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2880.0,
+      "end": 3416.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3416.48,
@@ -186,6 +204,12 @@
       "start": 3469.13,
       "end": 3470.39,
       "text": "It's called Another Day."
+    },
+    {
+      "start": 3470.39,
+      "end": 3989.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3989.13,

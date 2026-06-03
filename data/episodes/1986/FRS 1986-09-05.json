@@ -207,7 +207,7 @@
     },
     {
       "start": 67.42,
-      "end": 420.89,
+      "end": 72.22,
       "text": "Derringer and illusion around a mission from rod"
     },
     {
@@ -717,8 +717,14 @@
     },
     {
       "start": 673.18,
-      "end": 1043.08,
+      "end": 679.78,
       "text": "Complimentary review in a magazine that I was reading earlier on,"
+    },
+    {
+      "start": 679.78,
+      "end": 1043.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1043.1,
@@ -1162,8 +1168,9 @@
     },
     {
       "start": 1911.94,
-      "end": 1991.67,
-      "text": "Out to the tree"
+      "end": 2006.85,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1991.67,
@@ -1212,7 +1219,7 @@
     },
     {
       "start": 2074.58,
-      "end": 2500.78,
+      "end": 2080.58,
       "text": "She's a good looking woman, bet you knew that anyway"
     },
     {
@@ -1497,7 +1504,7 @@
     },
     {
       "start": 2647.75,
-      "end": 3092.09,
+      "end": 2650.75,
       "text": "Minutes now to 11."
     },
     {
@@ -1627,8 +1634,26 @@
     },
     {
       "start": 3165.43,
-      "end": 4374.2,
+      "end": 3168.43,
       "text": "Now, 11.15."
+    },
+    {
+      "start": 3240.0,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 4135.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4140.0,
+      "end": 4377.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4377.71,
@@ -1817,8 +1842,20 @@
     },
     {
       "start": 4533.23,
-      "end": 5000.72,
+      "end": 4539.83,
       "text": "You're listening to the Friday Rock Show from BBC Radio 1."
+    },
+    {
+      "start": 4539.83,
+      "end": 4855.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4860.0,
+      "end": 5000.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5000.72,
@@ -2092,8 +2129,14 @@
     },
     {
       "start": 5141.76,
-      "end": 5643.4,
+      "end": 5147.76,
       "text": "Look out, theatre managers and owners of the United Kingdom,"
+    },
+    {
+      "start": 5147.76,
+      "end": 5643.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5643.54,
@@ -2232,8 +2275,14 @@
     },
     {
       "start": 5697.56,
-      "end": 6316.14,
+      "end": 5702.36,
       "text": "Man who knows his way around a guitar."
+    },
+    {
+      "start": 5702.36,
+      "end": 6316.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6316.36,
@@ -2386,9 +2435,21 @@
       "text": "to Motorhead"
     },
     {
+      "start": 6372.8,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 6514.96,
-      "end": 6802.33,
+      "end": 6520.96,
       "text": "I was Bon Jovi from their album Slippery When Wet."
+    },
+    {
+      "start": 6660.0,
+      "end": 6802.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6802.33,
@@ -2417,8 +2478,14 @@
     },
     {
       "start": 6816.4,
-      "end": 7002.72,
+      "end": 6827.2,
       "text": "this is illusion and i like it loud band to record in atlanta in georgia in the states"
+    },
+    {
+      "start": 6827.2,
+      "end": 7002.72,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7002.72,

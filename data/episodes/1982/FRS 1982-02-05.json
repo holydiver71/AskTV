@@ -143,8 +143,14 @@
       "text": "We start with this."
     },
     {
+      "start": 72.49,
+      "end": 544.2,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 327.56,
-      "end": 544.58,
+      "end": 335.36,
       "text": "It's a real old classic that first came out way back in 1978,"
     },
     {
@@ -244,8 +250,14 @@
     },
     {
       "start": 645.87,
-      "end": 1200.0,
+      "end": 656.67,
       "text": "That is Lucifer's Friend. It's another track from the Import album, which is out on the Elektra label,"
+    },
+    {
+      "start": 656.67,
+      "end": 1200.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1200.0,
@@ -479,7 +491,7 @@
     },
     {
       "start": 1330.76,
-      "end": 2436.92,
+      "end": 1337.96,
       "text": "The first set by the Enid in the region of summer stars,"
     },
     {
@@ -549,7 +561,7 @@
     },
     {
       "start": 2502.58,
-      "end": 3029.83,
+      "end": 2513.38,
       "text": "Here's a track from that. That was Rough Justice from our session by them. It was called Motorway"
     },
     {
@@ -824,8 +836,14 @@
     },
     {
       "start": 3154.26,
-      "end": 3834.01,
+      "end": 3160.86,
       "text": "Friday Night Connection, of a gentleman who's at college in Oxford."
+    },
+    {
+      "start": 3160.86,
+      "end": 3835.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3835.13,
@@ -999,8 +1017,14 @@
     },
     {
       "start": 3948.33,
-      "end": 4829.72,
+      "end": 3954.33,
       "text": "A sensational Alex Harvey Band recorded 6th of March, 1978."
+    },
+    {
+      "start": 3954.33,
+      "end": 4830.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4830.0,
@@ -1094,8 +1118,14 @@
     },
     {
       "start": 4890.82,
-      "end": 5310.64,
+      "end": 4899.22,
       "text": "First appeared on the single, not the single, the solo album by Greg Lake."
+    },
+    {
+      "start": 4899.22,
+      "end": 5310.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5310.84,
@@ -1199,7 +1229,7 @@
     },
     {
       "start": 5369.44,
-      "end": 6470.54,
+      "end": 5373.04,
       "text": "It is composers this country has."
     },
     {

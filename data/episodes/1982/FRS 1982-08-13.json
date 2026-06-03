@@ -59,7 +59,9 @@
     {
       "artist": "Chicken Shack",
       "track": "Get Like You Used To Be",
-      "details": "BBC Session"
+      "details": "BBC Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "get like you used to"
     },
     {
       "artist": "Chicken Shack",
@@ -182,8 +184,20 @@
     },
     {
       "start": 74.89,
-      "end": 523.68,
+      "end": 84.49,
       "text": "That's the new single by Gillen, the old Stevie Wonder song called Living for the City."
+    },
+    {
+      "start": 84.49,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 524.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 524.18,
@@ -337,8 +351,14 @@
     },
     {
       "start": 608.98,
-      "end": 1253.14,
+      "end": 612.58,
       "text": "Haven't heard that for a while."
+    },
+    {
+      "start": 900.0,
+      "end": 1253.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1253.22,
@@ -527,8 +547,14 @@
     },
     {
       "start": 1391.47,
-      "end": 1932.24,
+      "end": 1395.67,
       "text": "Excellent session that was. Recorded last April."
+    },
+    {
+      "start": 1395.67,
+      "end": 1932.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1932.36,
@@ -746,18 +772,19 @@
       "text": "Night is when it matters."
     },
     {
+      "start": 2031.7,
+      "end": 2531.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2159.5,
       "end": 2161.48,
       "text": "Hear the Chicken Shack again next week."
     },
     {
-      "start": 2244.86,
-      "end": 2339.1,
-      "text": "That's Christine Perfect of Chicken Shack."
-    },
-    {
       "start": 2364.16,
-      "end": 2531.0,
+      "end": 2368.36,
       "text": "The uncompromising blues style of Chicken Shack"
     },
     {
@@ -837,7 +864,7 @@
     },
     {
       "start": 2729.96,
-      "end": 3332.07,
+      "end": 2741.36,
       "text": "couple of tracks from two albums which have just come out this week or at least have just arrived"
     },
     {
@@ -1017,7 +1044,7 @@
     },
     {
       "start": 3590.72,
-      "end": 4043.3,
+      "end": 3600.32,
       "text": "Is the Friday Night Connection put together by Max Murray at 21 Leeper Street in Derby?"
     },
     {
@@ -1102,7 +1129,7 @@
     },
     {
       "start": 4103.0,
-      "end": 4645.47,
+      "end": 4112.6,
       "text": "go forward looking forward to seeing them at donnington never seen that band that was gillan"
     },
     {
@@ -1182,7 +1209,7 @@
     },
     {
       "start": 4711.53,
-      "end": 5218.77,
+      "end": 4715.73,
       "text": "Beautiful single, the way it's put together."
     },
     {
@@ -1322,7 +1349,7 @@
     },
     {
       "start": 5488.34,
-      "end": 5678.8,
+      "end": 5491.94,
       "text": "Here's something beautiful called Midnight Hour."
     },
     {
@@ -1462,8 +1489,14 @@
     },
     {
       "start": 5918.89,
-      "end": 6458.06,
+      "end": 5924.29,
       "text": "CDC, who else from the album called Leatherly Rock?"
+    },
+    {
+      "start": 6300.0,
+      "end": 6458.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6458.54,

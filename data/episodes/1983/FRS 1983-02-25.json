@@ -95,7 +95,9 @@
     {
       "artist": "AC/DC",
       "track": "Live in NY Studio - part one of Atlantic Studios",
-      "details": null
+      "details": null,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "is called it s all"
     }
   ],
   "transcript": [
@@ -156,8 +158,14 @@
     },
     {
       "start": 72.36,
-      "end": 528.72,
+      "end": 77.76,
       "text": "And new tracks there from two brand new albums"
+    },
+    {
+      "start": 77.76,
+      "end": 525.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 528.72,
@@ -241,8 +249,14 @@
     },
     {
       "start": 592.15,
-      "end": 1152.42,
+      "end": 605.35,
       "text": "That's a track from a new album. The album is called In Flight Movie and it features the talent of the Starfighters."
+    },
+    {
+      "start": 605.35,
+      "end": 1152.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1152.42,
@@ -341,7 +355,7 @@
     },
     {
       "start": 1211.7,
-      "end": 1614.22,
+      "end": 1218.9,
       "text": "At the moment, they're doing a 50-day tour of the United Kingdom."
     },
     {
@@ -381,7 +395,7 @@
     },
     {
       "start": 1629.32,
-      "end": 2199.65,
+      "end": 1635.92,
       "text": "Tigers of Pantang from their 1980 album Wildcat and Susie Smile."
     },
     {
@@ -576,7 +590,7 @@
     },
     {
       "start": 2366.92,
-      "end": 2888.34,
+      "end": 2369.92,
       "text": "And that's the Enid,"
     },
     {
@@ -756,7 +770,7 @@
     },
     {
       "start": 2992.06,
-      "end": 3588.78,
+      "end": 2996.86,
       "text": "...new album which is thematic in its intent."
     },
     {
@@ -976,7 +990,7 @@
     },
     {
       "start": 3731.22,
-      "end": 4632.46,
+      "end": 3736.02,
       "text": "What's the Friday Night Connection for the life?"
     },
     {
@@ -1031,7 +1045,7 @@
     },
     {
       "start": 4726.75,
-      "end": 5201.61,
+      "end": 4735.15,
       "text": "That's a really excellent record that actually came out in this country last December."
     },
     {
@@ -1091,7 +1105,7 @@
     },
     {
       "start": 5227.61,
-      "end": 5447.28,
+      "end": 5231.21,
       "text": "Robert John Godfrey, vocals and keyboards,"
     },
     {
@@ -1186,12 +1200,12 @@
     },
     {
       "start": 5509.5,
-      "end": 5852.72,
+      "end": 5520.3,
       "text": "This one is called, it's all about anguish actually, inspired me for this one, it's called Problem Child."
     },
     {
       "start": 5853.14,
-      "end": 6133.01,
+      "end": 5867.54,
       "text": "Look at that, we've got this song now for you, off the first album out here, you might remember, I've always rock and rolled."
     },
     {
@@ -1201,7 +1215,7 @@
     },
     {
       "start": 6490.26,
-      "end": 6746.04,
+      "end": 6501.66,
       "text": "New York, this happens all the time, and this song is all about it, it's called Dog Eat Dog."
     }
   ]

@@ -146,7 +146,7 @@
     },
     {
       "start": 6.0,
-      "end": 518.17,
+      "end": 18.6,
       "text": "Absolutely classic record by Montrose. Came out 10 years ago. Hard to believe. Came out in 1973. Space station number 5."
     },
     {
@@ -316,8 +316,14 @@
     },
     {
       "start": 616.84,
-      "end": 1255.54,
+      "end": 622.84,
       "text": "...or Hawkwind from a new album which is called Zones."
+    },
+    {
+      "start": 622.84,
+      "end": 1255.76,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1255.76,
@@ -426,8 +432,14 @@
     },
     {
       "start": 1345.73,
-      "end": 1768.3,
+      "end": 1348.73,
       "text": "Two tracks on that album"
+    },
+    {
+      "start": 1348.73,
+      "end": 1768.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1768.3,
@@ -501,8 +513,14 @@
     },
     {
       "start": 1844.18,
-      "end": 2387.32,
+      "end": 1853.78,
       "text": "exceptional and a track from his new album just come out on the portrait record label"
+    },
+    {
+      "start": 1980.0,
+      "end": 2387.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2387.32,
@@ -636,7 +654,7 @@
     },
     {
       "start": 2461.92,
-      "end": 2973.35,
+      "end": 2472.12,
       "text": "words of the noble lemmy specially recorded by the friday rock show team in cologne in germany"
     },
     {
@@ -761,7 +779,7 @@
     },
     {
       "start": 3055.09,
-      "end": 3424.66,
+      "end": 3061.69,
       "text": "...little track. It's a new single out on Atco by Act."
     },
     {
@@ -871,8 +889,14 @@
     },
     {
       "start": 3506.44,
-      "end": 4068.25,
+      "end": 3513.64,
       "text": "Here goes the Friday Night Connection of Andrew Bateman, Huntington in Yorkshire."
+    },
+    {
+      "start": 3513.64,
+      "end": 4068.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4068.59,
@@ -951,7 +975,7 @@
     },
     {
       "start": 4151.64,
-      "end": 4873.31,
+      "end": 4155.84,
       "text": "from their latest album, the title track"
     },
     {
@@ -1066,7 +1090,7 @@
     },
     {
       "start": 4992.84,
-      "end": 5410.23,
+      "end": 4997.04,
       "text": "That one's shot. Recorded live at Donington."
     },
     {
@@ -1145,6 +1169,12 @@
       "text": "It's called How Beautiful You Are."
     },
     {
+      "start": 5443.1,
+      "end": 5928.49,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5507.68,
       "end": 5511.36,
       "text": "Outside the law"
@@ -1176,7 +1206,7 @@
     },
     {
       "start": 5536.15,
-      "end": 5928.39,
+      "end": 5540.95,
       "text": "Alice Cooper, who never lets his fans down."
     },
     {
@@ -1226,7 +1256,7 @@
     },
     {
       "start": 5947.15,
-      "end": 6359.32,
+      "end": 5956.75,
       "text": "manchester playing hamlet keep potting the skulls bob this is except focus from their album hardware"
     },
     {
@@ -1241,7 +1271,7 @@
     },
     {
       "start": 6369.04,
-      "end": 6874.76,
+      "end": 6381.64,
       "text": "this is a new single by bob dylan he's back on the track that is blue oyster cult it's a track"
     },
     {

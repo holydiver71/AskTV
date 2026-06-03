@@ -68,7 +68,9 @@
       "artist": "Hawkwind",
       "track": "Night Of The Hawks",
       "details": "Earth Ritual Preview EP; Flicknife",
-      "verified_timestamp": 2901.25
+      "verified_timestamp": 2901.25,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "nowhere to hide in this"
     },
     {
       "artist": "Clive Burr's Escape",
@@ -79,7 +81,9 @@
       "artist": "Ted Nugent",
       "track": "(Where Do You) Draw The Line",
       "details": "LP-Penetrator; Atlantic",
-      "verified_timestamp": 3442.88
+      "verified_timestamp": 3442.88,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "where do you draw the"
     },
     {
       "artist": null,
@@ -223,8 +227,20 @@
     },
     {
       "start": 55.12,
-      "end": 474.75,
+      "end": 61.72,
       "text": "A track by Uriah Heep from their album that came out"
+    },
+    {
+      "start": 180.0,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 474.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 474.75,
@@ -403,8 +419,20 @@
     },
     {
       "start": 574.2,
-      "end": 1068.4,
+      "end": 577.8,
       "text": "synthesizers are no word these days"
+    },
+    {
+      "start": 577.8,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1068.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1068.4,
@@ -538,8 +566,14 @@
     },
     {
       "start": 1162.48,
-      "end": 1638.25,
+      "end": 1167.28,
       "text": "It's our time on the Friday Rock Show."
+    },
+    {
+      "start": 1260.0,
+      "end": 1638.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1638.33,
@@ -793,8 +827,14 @@
     },
     {
       "start": 1761.59,
-      "end": 2319.33,
+      "end": 1767.59,
       "text": "Canadian band, by the name of Exciter, from their album,"
+    },
+    {
+      "start": 1767.59,
+      "end": 2319.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2319.33,
@@ -918,8 +958,14 @@
     },
     {
       "start": 2355.74,
-      "end": 2895.79,
+      "end": 2359.94,
       "text": "That is a brand-new release by them."
+    },
+    {
+      "start": 2359.94,
+      "end": 2896.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2896.15,
@@ -1088,8 +1134,14 @@
     },
     {
       "start": 2995.9,
-      "end": 3440.16,
+      "end": 3004.9,
       "text": "I personally reckon that's the best album you've put out in a long, long time."
+    },
+    {
+      "start": 3004.9,
+      "end": 3437.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3440.3,
@@ -1212,6 +1264,12 @@
       "text": "Start listening and concentrating now."
     },
     {
+      "start": 3533.86,
+      "end": 4093.94,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4093.94,
       "end": 4097.0,
       "text": "Redford, not a good, clever connection."
@@ -1323,7 +1381,7 @@
     },
     {
       "start": 4145.92,
-      "end": 4616.6,
+      "end": 4149.52,
       "text": "That is a really excellent record"
     },
     {
@@ -1543,8 +1601,20 @@
     },
     {
       "start": 4762.8,
-      "end": 5268.96,
+      "end": 4769.4,
       "text": "That is from the latest album by the Alan Parsons Project."
+    },
+    {
+      "start": 4769.4,
+      "end": 5215.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5220.0,
+      "end": 5272.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5269.32,
@@ -1687,6 +1757,12 @@
       "text": "And love is stretched cut off when ain't she laid to rest"
     },
     {
+      "start": 5445.22,
+      "end": 5536.12,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5531.12,
       "end": 5536.12,
       "text": "Face apart now woven caress"
@@ -1768,7 +1844,7 @@
     },
     {
       "start": 5644.88,
-      "end": 6050.78,
+      "end": 5648.48,
       "text": "Band, they are actually from Poland."
     },
     {
@@ -1873,8 +1949,20 @@
     },
     {
       "start": 6097.96,
-      "end": 6739.9,
+      "end": 6101.56,
       "text": "Remember the band there are Kraft."
+    },
+    {
+      "start": 6101.56,
+      "end": 6115.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6120.0,
+      "end": 6740.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6740.06,
@@ -1933,8 +2021,14 @@
     },
     {
       "start": 6780.58,
-      "end": 7119.79,
+      "end": 6787.18,
       "text": "And that's it for this edition of the Friday Rock Show,"
+    },
+    {
+      "start": 6840.0,
+      "end": 7119.85,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7119.85,

@@ -77,7 +77,9 @@
       "artist": "Meat Loaf",
       "track": "Bat Out Of Hell",
       "details": "LP-Bat Out Of Hell; Epic",
-      "verified_timestamp": 4680.0
+      "verified_timestamp": 4680.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i swear i saw a"
     },
     {
       "artist": "AC / DC",
@@ -118,7 +120,9 @@
       "artist": "Led Zeppelin",
       "track": "Stairway To Heaven",
       "details": "LP-Led Zeppelin IV; Atlantic",
-      "verified_timestamp": 10260.0
+      "verified_timestamp": 10260.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and she s buying a"
     }
   ],
   "transcript": [
@@ -254,8 +258,14 @@
     },
     {
       "start": 82.35,
-      "end": 1163.52,
+      "end": 86.55,
       "text": "Number 16 in the Friday Rock Show"
+    },
+    {
+      "start": 86.55,
+      "end": 1163.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1163.52,
@@ -294,8 +304,14 @@
     },
     {
       "start": 1358.51,
-      "end": 1625.78,
+      "end": 1362.11,
       "text": "At number 14 in our chart"
+    },
+    {
+      "start": 1362.11,
+      "end": 1625.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1625.78,
@@ -314,7 +330,7 @@
     },
     {
       "start": 1636.42,
-      "end": 2097.9,
+      "end": 1647.82,
       "text": "this year down from last week's number seven this by rush was number seven last year in our chart"
     },
     {
@@ -329,8 +345,14 @@
     },
     {
       "start": 2107.9,
-      "end": 3229.63,
+      "end": 2119.9,
       "text": "last year the floyd by the pink floyd this year it's at number 11 last year at number eight still"
+    },
+    {
+      "start": 2520.0,
+      "end": 3229.63,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3229.63,
@@ -389,7 +411,7 @@
     },
     {
       "start": 3252.73,
-      "end": 3584.64,
+      "end": 3255.73,
       "text": "10, recorded"
     },
     {
@@ -421,6 +443,12 @@
       "start": 3595.7,
       "end": 3596.14,
       "text": "Rock!"
+    },
+    {
+      "start": 3596.14,
+      "end": 3608.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3613.01,
@@ -469,8 +497,20 @@
     },
     {
       "start": 3633.75,
-      "end": 4541.0,
+      "end": 3637.35,
       "text": "Well, that came out in 1977."
+    },
+    {
+      "start": 3637.35,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 4541.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4541.34,
@@ -519,8 +559,14 @@
     },
     {
       "start": 4560.16,
-      "end": 5127.35,
+      "end": 4566.76,
       "text": "That is a new entry into our listeners' chart this year."
+    },
+    {
+      "start": 4680.0,
+      "end": 5127.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5127.49,
@@ -579,8 +625,14 @@
     },
     {
       "start": 5151.31,
-      "end": 5466.78,
+      "end": 5159.11,
       "text": "Still one of the biggest numbers that they do in terms of response"
+    },
+    {
+      "start": 5220.0,
+      "end": 5466.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5466.78,
@@ -793,6 +845,18 @@
       "text": "Once again, Deep Purple, Child in Time."
     },
     {
+      "start": 6804.69,
+      "end": 6835.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6840.0,
+      "end": 8220.26,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 8220.28,
       "end": 8222.54,
       "text": "Recorded live in Atlanta, July 1976."
@@ -859,8 +923,14 @@
     },
     {
       "start": 8253.96,
-      "end": 8725.42,
+      "end": 8258.76,
       "text": "On the double album, or double CD album,"
+    },
+    {
+      "start": 8258.76,
+      "end": 8725.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 8725.5,
@@ -1034,7 +1104,7 @@
     },
     {
       "start": 8848.18,
-      "end": 9465.45,
+      "end": 8851.18,
       "text": "We're growing everything"
     },
     {
@@ -1068,18 +1138,13 @@
       "text": "Feel your body melt"
     },
     {
-      "start": 9487.68,
-      "end": 9534.97,
-      "text": "Mum-to-mum-to-mum"
-    },
-    {
       "start": 9534.97,
       "end": 9536.23,
       "text": "If you run with the soil"
     },
     {
       "start": 9536.23,
-      "end": 10108.32,
+      "end": 9545.23,
       "text": "Caught it way back in 1972, the album was called Foxtrot Genesis and Supper's Ready."
     },
     {
@@ -1138,11 +1203,6 @@
       "text": "This is still number one"
     },
     {
-      "start": 10138.0,
-      "end": 10195.84,
-      "text": "Glitters as gold"
-    },
-    {
       "start": 10195.84,
       "end": 10197.9,
       "text": "And she's buying"
@@ -1189,8 +1249,14 @@
     },
     {
       "start": 10249.54,
-      "end": 10612.22,
+      "end": 10253.74,
       "text": "sometimes all of our thoughts are missing..."
+    },
+    {
+      "start": 10260.0,
+      "end": 10614.2,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 10612.22,

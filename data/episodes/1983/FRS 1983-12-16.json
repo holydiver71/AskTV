@@ -129,18 +129,25 @@
     },
     {
       "start": 53.46,
-      "end": 441.44,
+      "end": 57.06,
       "text": "It's an attraction whenever it's cold"
+    },
+    {
+      "start": 57.06,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 494.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 441.44,
       "end": 462.7,
       "text": "You'd serve the ride, think you'd serve the ride"
-    },
-    {
-      "start": 462.7,
-      "end": 494.62,
-      "text": "It's wet T-shirt time again"
     },
     {
       "start": 494.62,
@@ -404,7 +411,7 @@
     },
     {
       "start": 620.45,
-      "end": 765.6,
+      "end": 626.45,
       "text": "Quarter after 10, the Friday Rock Show, BBC Radio 1."
     },
     {
@@ -479,8 +486,14 @@
     },
     {
       "start": 815.31,
-      "end": 1588.36,
+      "end": 822.51,
       "text": "Interesting track from an interesting new band. They are simply called IQ."
+    },
+    {
+      "start": 1080.0,
+      "end": 1588.78,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1588.78,
@@ -584,7 +597,7 @@
     },
     {
       "start": 1653.69,
-      "end": 2313.24,
+      "end": 1663.29,
       "text": "It's actually a song that they did on the session they did for us quite recently,"
     },
     {
@@ -724,8 +737,14 @@
     },
     {
       "start": 2414.33,
-      "end": 2828.89,
+      "end": 2417.93,
       "text": "Absolute classic out of the archives."
+    },
+    {
+      "start": 2417.93,
+      "end": 2826.95,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2829.03,
@@ -859,8 +878,14 @@
     },
     {
       "start": 2913.51,
-      "end": 3735.26,
+      "end": 2917.11,
       "text": "by the Big Jim Sullivan Band,"
+    },
+    {
+      "start": 2917.11,
+      "end": 3735.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3735.36,
@@ -994,8 +1019,14 @@
     },
     {
       "start": 3840.23,
-      "end": 4187.53,
+      "end": 3846.83,
       "text": "to find the time to develop my mind and be kind"
+    },
+    {
+      "start": 3846.83,
+      "end": 4263.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4187.53,
@@ -1006,11 +1037,6 @@
       "start": 4197.23,
       "end": 4211.35,
       "text": "When I knew that I was right"
-    },
-    {
-      "start": 4211.35,
-      "end": 4263.92,
-      "text": "To be young again"
     },
     {
       "start": 4263.92,
@@ -1054,7 +1080,7 @@
     },
     {
       "start": 4305.81,
-      "end": 6596.92,
+      "end": 4308.81,
       "text": "His sister wrote this song"
     },
     {

@@ -154,8 +154,14 @@
   "transcript": [
     {
       "start": 1.2,
-      "end": 582.22,
+      "end": 20.4,
       "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren. This is Tommy Vance on Radio 1."
+    },
+    {
+      "start": 20.4,
+      "end": 582.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 582.24,
@@ -184,8 +190,14 @@
     },
     {
       "start": 591.56,
-      "end": 757.86,
+      "end": 595.16,
       "text": "fine tracks off this album, Profiles"
+    },
+    {
+      "start": 595.16,
+      "end": 757.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 757.86,
@@ -234,8 +246,20 @@
     },
     {
       "start": 775.32,
-      "end": 1283.8,
+      "end": 781.32,
       "text": "Well, a double dose of Paul Rogers for you there."
+    },
+    {
+      "start": 900.0,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1283.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1283.94,
@@ -364,8 +388,14 @@
     },
     {
       "start": 1371.19,
-      "end": 1680.92,
+      "end": 1378.39,
       "text": "Well, it was certainly worth the wait, I can tell you, lads."
+    },
+    {
+      "start": 1378.39,
+      "end": 1681.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1681.12,
@@ -439,7 +469,7 @@
     },
     {
       "start": 1713.62,
-      "end": 1919.38,
+      "end": 1720.22,
       "text": "Are we allowed anywhere else to come to think of it?"
     },
     {
@@ -529,8 +559,14 @@
     },
     {
       "start": 1984.15,
-      "end": 2209.98,
+      "end": 1994.95,
       "text": "from the past there for you from uh deepest purple yeah the very best of deep purple the"
+    },
+    {
+      "start": 1994.95,
+      "end": 2209.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2209.98,
@@ -609,8 +645,14 @@
     },
     {
       "start": 2274.54,
-      "end": 2523.57,
+      "end": 2277.54,
       "text": "OK, OK."
+    },
+    {
+      "start": 2277.54,
+      "end": 2523.57,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2523.57,
@@ -714,8 +756,14 @@
     },
     {
       "start": 2589.37,
-      "end": 2800.42,
+      "end": 2592.37,
       "text": "Loving every minute of it"
+    },
+    {
+      "start": 2592.37,
+      "end": 2800.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2800.42,
@@ -744,8 +792,14 @@
     },
     {
       "start": 2811.56,
-      "end": 3054.35,
+      "end": 2815.76,
       "text": "Great number there from Tigers of Pantang,"
+    },
+    {
+      "start": 2815.76,
+      "end": 3053.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3054.59,
@@ -831,6 +885,12 @@
       "start": 3129.16,
       "end": 3137.72,
       "text": "So let's all lie back and enjoy the first number now, which is from the Groundhog's 1971 album Split, and it is Cherry Red."
+    },
+    {
+      "start": 3137.72,
+      "end": 4207.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4076.53,
@@ -974,7 +1034,7 @@
     },
     {
       "start": 4369.11,
-      "end": 4564.14,
+      "end": 4380.51,
       "text": "this is women in cages a horrible thought women in cages from tigers of pantang who are our studio"
     },
     {
@@ -989,7 +1049,7 @@
     },
     {
       "start": 4573.88,
-      "end": 5152.21,
+      "end": 4584.08,
       "text": "well a couple of aggressive sounding tracks for you there shoot shoot that comes from dio's album"
     },
     {
@@ -1029,7 +1089,7 @@
     },
     {
       "start": 5176.55,
-      "end": 6002.61,
+      "end": 5179.55,
       "text": "Heavy stuff indeed."
     },
     {
@@ -1074,7 +1134,7 @@
     },
     {
       "start": 6027.47,
-      "end": 6201.83,
+      "end": 6030.47,
       "text": "This week on Saturday Live,"
     },
     {
@@ -1099,7 +1159,7 @@
     },
     {
       "start": 6227.49,
-      "end": 6467.27,
+      "end": 6232.89,
       "text": "And the good times roll, they're back in 1978."
     },
     {
@@ -1179,7 +1239,7 @@
     },
     {
       "start": 6582.63,
-      "end": 6704.12,
+      "end": 6586.23,
       "text": "You must know who this is."
     },
     {
@@ -1294,8 +1354,14 @@
     },
     {
       "start": 6810.45,
-      "end": 7058.28,
+      "end": 6815.25,
       "text": "Heavy stuff there from that Swedish band, Spellbound,"
+    },
+    {
+      "start": 6815.25,
+      "end": 7058.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7058.42,

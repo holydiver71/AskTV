@@ -98,6 +98,12 @@
       "text": "We've got the Friday Night Connection and loads of good music."
     },
     {
+      "start": 66.73,
+      "end": 604.15,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 604.15,
       "end": 608.11,
       "text": "That's the band from Spain who are called Baron Roya or Roja,"
@@ -259,8 +265,14 @@
     },
     {
       "start": 692.39,
-      "end": 1346.56,
+      "end": 699.59,
       "text": "Barclay James Harvest from their new album, which is out on Polydor."
+    },
+    {
+      "start": 699.59,
+      "end": 1347.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1347.06,
@@ -384,7 +396,7 @@
     },
     {
       "start": 1416.81,
-      "end": 1916.76,
+      "end": 1423.41,
       "text": "Without a doubt, the best album that guy has ever made."
     },
     {
@@ -604,7 +616,7 @@
     },
     {
       "start": 2053.72,
-      "end": 2699.56,
+      "end": 2066.32,
       "text": "full of that sort of playing if you get hold of the import triple set which is in a box and"
     },
     {
@@ -669,12 +681,12 @@
     },
     {
       "start": 2772.29,
-      "end": 3858.65,
+      "end": 2783.09,
       "text": "i've always been mad i know i've been mad so you had to explain why you were mad"
     },
     {
       "start": 3858.65,
-      "end": 6673.35,
+      "end": 3862.85,
       "text": "is on the grass remembering daisy chains"
     },
     {
@@ -684,7 +696,7 @@
     },
     {
       "start": 6712.27,
-      "end": 6985.86,
+      "end": 6720.67,
       "text": "The Pink Floyd, as they were, at Wembley on the 16th of November, 1974,"
     },
     {

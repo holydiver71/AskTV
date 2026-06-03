@@ -94,7 +94,9 @@
       "artist": "Slade",
       "track": "Slam The Hammer Down",
       "details": "LP-Amazing Kamaikaze Syndrome; RCA",
-      "verified_timestamp": 3780.0
+      "verified_timestamp": 3780.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the wheels go round and"
     },
     {
       "artist": "Terraplane",
@@ -137,8 +139,14 @@
     },
     {
       "start": 13.75,
-      "end": 860.7,
+      "end": 23.35,
       "text": "It's from their first ever album, which has just come out on the Flickknife record label."
+    },
+    {
+      "start": 23.35,
+      "end": 855.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 860.7,
@@ -197,8 +205,14 @@
     },
     {
       "start": 931.43,
-      "end": 1397.17,
+      "end": 941.63,
       "text": "in august 1982 out of our archives video 6th of august 1982 but they were terror playing"
+    },
+    {
+      "start": 941.63,
+      "end": 1397.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1397.17,
@@ -367,8 +381,14 @@
     },
     {
       "start": 1492.24,
-      "end": 1936.73,
+      "end": 1503.04,
       "text": "crew molly from our session by them too far gone and before that from south wales samurai from"
+    },
+    {
+      "start": 1503.04,
+      "end": 1936.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1936.73,
@@ -404,6 +424,12 @@
       "start": 1970.31,
       "end": 1971.69,
       "text": "That's the word on Samurai."
+    },
+    {
+      "start": 1971.69,
+      "end": 1971.81,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1974.11,
@@ -476,6 +502,12 @@
       "text": "So lie back and enjoy it."
     },
     {
+      "start": 2026.61,
+      "end": 3134.68,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2083.79,
       "end": 2086.31,
       "text": "Too young to admit it"
@@ -492,7 +524,7 @@
     },
     {
       "start": 2093.03,
-      "end": 3134.68,
+      "end": 2096.03,
       "text": "Two minutes past eleven"
     },
     {
@@ -647,8 +679,14 @@
     },
     {
       "start": 3260.41,
-      "end": 3967.4,
+      "end": 3263.41,
       "text": "you. Slade, and the track"
+    },
+    {
+      "start": 3780.0,
+      "end": 3967.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3967.4,
@@ -707,8 +745,14 @@
     },
     {
       "start": 4004.81,
-      "end": 4472.13,
+      "end": 4014.41,
       "text": "called lose again into the archives august 1982 two from terraplane were virtually at the beginning"
+    },
+    {
+      "start": 4014.41,
+      "end": 4472.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4472.13,
@@ -842,8 +886,14 @@
     },
     {
       "start": 4504.39,
-      "end": 5127.22,
+      "end": 4513.39,
       "text": "The band called Kick-Act, and it's a track from their album, which is entitled Vices."
+    },
+    {
+      "start": 4513.39,
+      "end": 5124.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5127.4,

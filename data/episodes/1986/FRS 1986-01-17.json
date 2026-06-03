@@ -123,7 +123,9 @@
       "artist": "Stryper",
       "track": "‘The Rock That Makes Me Roll'",
       "details": "LP - Soldiers Under Command",
-      "verified_timestamp": 5551.3
+      "verified_timestamp": 5551.3,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the rock that makes me"
     },
     {
       "artist": "Streets On Fire",
@@ -177,8 +179,14 @@
     },
     {
       "start": 54.02,
-      "end": 604.7,
+      "end": 61.82,
       "text": "Classic tracks by Iron Maiden, UFO, Rush, MSG, Dio, Priest, and Stardust Boy."
+    },
+    {
+      "start": 180.0,
+      "end": 604.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 604.7,
@@ -542,8 +550,20 @@
     },
     {
       "start": 1266.93,
-      "end": 1635.21,
+      "end": 1275.93,
       "text": "...from back in 1976 for the album 2112, Rush from Canada, A Passage to Bangkok."
+    },
+    {
+      "start": 1275.93,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1630.43,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1635.43,
@@ -657,8 +677,26 @@
     },
     {
       "start": 1709.63,
-      "end": 2213.17,
+      "end": 1713.23,
       "text": "Really excellent singles just on release."
+    },
+    {
+      "start": 1713.23,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1975.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1980.0,
+      "end": 2213.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2213.29,
@@ -877,8 +915,14 @@
     },
     {
       "start": 2311.9,
-      "end": 2754.01,
+      "end": 2317.9,
       "text": "For the band, that's a track from their second album."
+    },
+    {
+      "start": 2520.0,
+      "end": 2754.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2754.11,
@@ -1047,7 +1091,7 @@
     },
     {
       "start": 2839.09,
-      "end": 3349.94,
+      "end": 2842.09,
       "text": "5 minutes to 11"
     },
     {
@@ -1087,7 +1131,7 @@
     },
     {
       "start": 3389.94,
-      "end": 3853.82,
+      "end": 3401.94,
       "text": "of love from sam and mary and tracy van zandt at springsteen and sun city fame the artist was eric"
     },
     {
@@ -1232,8 +1276,14 @@
     },
     {
       "start": 3925.85,
-      "end": 4600.76,
+      "end": 3937.25,
       "text": "let him who hath understanding reckon the number of the beast for it is a human number its number"
+    },
+    {
+      "start": 3937.25,
+      "end": 4898.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4600.76,
@@ -1242,7 +1292,7 @@
     },
     {
       "start": 4603.3,
-      "end": 4889.4,
+      "end": 4615.3,
       "text": "bit of a classic from iron maiden the number of the beast the title track of an album that came"
     },
     {
@@ -1332,7 +1382,7 @@
     },
     {
       "start": 4967.34,
-      "end": 5543.54,
+      "end": 4971.54,
       "text": "The name of the band are Striper."
     },
     {
@@ -1466,14 +1516,26 @@
       "text": "How could you run down the high street with nothing on, especially in this cold weather?"
     },
     {
+      "start": 5607.9,
+      "end": 5608.02,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5608.14,
       "end": 5609.38,
       "text": "Boy, you must be brave."
     },
     {
       "start": 5613.02,
-      "end": 5933.71,
+      "end": 5625.62,
       "text": "we'll break in the law and for richard was rich as the greasy hippie says if we say hello to chris"
+    },
+    {
+      "start": 5625.62,
+      "end": 5933.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5933.71,
@@ -1507,8 +1569,14 @@
     },
     {
       "start": 5973.32,
-      "end": 6754.44,
+      "end": 5983.52,
       "text": "music mental course not you're discerning status quo from 1977 big fat mama the albums status quo"
+    },
+    {
+      "start": 5983.52,
+      "end": 6749.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6754.44,
@@ -1567,8 +1635,14 @@
     },
     {
       "start": 6795.5,
-      "end": 7256.56,
+      "end": 6798.5,
       "text": "It really is."
+    },
+    {
+      "start": 6798.5,
+      "end": 7256.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7256.62,

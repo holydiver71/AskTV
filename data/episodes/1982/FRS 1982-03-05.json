@@ -26,7 +26,9 @@
       "artist": "Thin Lizzy",
       "track": "Hollywood",
       "details": "Down On Your Luck; LP-Renegade; Vertigo",
-      "verified_timestamp": 562.93
+      "verified_timestamp": 562.93,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "hollywood down on your luck"
     },
     {
       "artist": "Blackfoot",
@@ -179,6 +181,18 @@
       "text": "It starts like this."
     },
     {
+      "start": 73.8,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 557.93,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 562.93,
       "end": 567.79,
       "text": "That, of course, is Thin Lizzy and Hollywood Down on Your Luck, which is their current single."
@@ -310,8 +324,26 @@
     },
     {
       "start": 644.89,
-      "end": 1042.64,
+      "end": 648.49,
       "text": "You'll get to see that band."
+    },
+    {
+      "start": 648.49,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1043.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1043.0,
@@ -565,8 +597,20 @@
     },
     {
       "start": 1131.73,
-      "end": 1688.82,
+      "end": 1143.13,
       "text": "your pardon but now we're going to rebroadcast it this is euphoria and no one else but you what"
+    },
+    {
+      "start": 1143.13,
+      "end": 1435.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1440.0,
+      "end": 1688.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1688.82,
@@ -785,7 +829,7 @@
     },
     {
       "start": 1810.52,
-      "end": 2096.99,
+      "end": 1821.92,
       "text": "Radio Gnome is the way in which the potter dixies of the planet Gong communicate one to the other."
     },
     {
@@ -854,18 +898,13 @@
       "text": "a few happy ditties."
     },
     {
-      "start": 2220.89,
-      "end": 2248.31,
-      "text": "Of record company!"
-    },
-    {
       "start": 2265.01,
       "end": 2265.69,
       "text": "Virgin."
     },
     {
       "start": 2266.69,
-      "end": 2527.26,
+      "end": 2269.69,
       "text": "Havoc with the imagination."
     },
     {
@@ -930,8 +969,20 @@
     },
     {
       "start": 2564.49,
-      "end": 2892.35,
+      "end": 2574.09,
       "text": "Title track there from the most recent album by the Cars, whom I really do like."
+    },
+    {
+      "start": 2574.09,
+      "end": 2695.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2700.0,
+      "end": 2892.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2892.71,
@@ -1125,7 +1176,7 @@
     },
     {
       "start": 2996.38,
-      "end": 3416.34,
+      "end": 2999.38,
       "text": "It was euphoria"
     },
     {
@@ -1430,8 +1481,14 @@
     },
     {
       "start": 4512.96,
-      "end": 4909.4,
+      "end": 4523.16,
       "text": "From Western Canada, who I think are doing a gig over here during the month of April,"
+    },
+    {
+      "start": 4860.0,
+      "end": 4950.2,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4909.5,
@@ -1530,7 +1587,7 @@
     },
     {
       "start": 4979.25,
-      "end": 5649.76,
+      "end": 4990.65,
       "text": "called oily way absolutely in a world of their own when they recorded that i'm sure that was called"
     },
     {
@@ -1545,7 +1602,7 @@
     },
     {
       "start": 5665.35,
-      "end": 6212.29,
+      "end": 5675.55,
       "text": "The album's on release in this country, so no longer do you have to pay those extortionate"
     },
     {
@@ -1585,8 +1642,14 @@
     },
     {
       "start": 6237.29,
-      "end": 6991.42,
+      "end": 6243.29,
       "text": "This year, it's going to be Magnum's year, me thinks."
+    },
+    {
+      "start": 6660.0,
+      "end": 6991.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6991.56,

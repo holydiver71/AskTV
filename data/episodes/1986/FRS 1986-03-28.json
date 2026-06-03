@@ -114,7 +114,7 @@
     },
     {
       "start": 110.32,
-      "end": 760.66,
+      "end": 119.92,
       "text": "we're just having a good time okay all right i don't know if anybody knows but"
     },
     {
@@ -134,7 +134,7 @@
     },
     {
       "start": 790.01,
-      "end": 1078.62,
+      "end": 796.01,
       "text": "Listen, let's do a bit of making some noise, eh?"
     },
     {
@@ -174,7 +174,7 @@
     },
     {
       "start": 1509.6,
-      "end": 1911.77,
+      "end": 1515.6,
       "text": "Okay, here's a song we play all over the world"
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "start": 1927.64,
-      "end": 2134.78,
+      "end": 1934.84,
       "text": "it's gonna make us cry or something what's the matter with you"
     },
     {
@@ -204,7 +204,7 @@
     },
     {
       "start": 2158.65,
-      "end": 2531.6,
+      "end": 2168.25,
       "text": "some noise wow look at this what'd you say welcome back to hammer smith you bastards"
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "start": 2547.85,
-      "end": 2835.44,
+      "end": 2559.25,
       "text": "anyway oh yeah anybody know what it is some ice as if you keep on making lots of noise"
     },
     {
@@ -224,7 +224,7 @@
     },
     {
       "start": 2853.4,
-      "end": 3812.78,
+      "end": 2863.6,
       "text": "and the center forward in this team okay wheels of steel and who stopped us in london"
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "start": 3825.1,
-      "end": 4470.73,
+      "end": 3829.9,
       "text": "And that's what we call an appreciative crowd."
     },
     {
@@ -364,8 +364,14 @@
     },
     {
       "start": 4554.95,
-      "end": 5100.61,
+      "end": 4559.15,
       "text": "That was Exciter from their new album,"
+    },
+    {
+      "start": 4680.0,
+      "end": 5100.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5100.77,
@@ -469,8 +475,20 @@
     },
     {
       "start": 5201.6,
-      "end": 5725.16,
+      "end": 5213.6,
       "text": "and here are two tracks from it. Sammy Hagar is now the lead singer of Van Halen. The album is"
+    },
+    {
+      "start": 5220.0,
+      "end": 5575.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5580.0,
+      "end": 5734.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5725.16,
@@ -653,14 +671,15 @@
       "text": "And I cannot wait till we're back together again"
     },
     {
-      "start": 5860.04,
-      "end": 5941.96,
-      "text": "up north on friday"
+      "start": 5941.96,
+      "end": 5950.96,
+      "text": "three minutes to midnight that's a track from the new album that's just come out"
     },
     {
-      "start": 5941.96,
+      "start": 6300.0,
       "end": 6413.71,
-      "text": "three minutes to midnight that's a track from the new album that's just come out"
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6413.71,
@@ -694,8 +713,14 @@
     },
     {
       "start": 6432.75,
-      "end": 7160.06,
+      "end": 6445.95,
       "text": "band metallica it would be a nice idea to go out the way we came in because that single was not or"
+    },
+    {
+      "start": 6480.0,
+      "end": 7160.06,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7160.06,

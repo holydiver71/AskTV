@@ -78,8 +78,14 @@
     },
     {
       "start": 263.04,
-      "end": 1865.64,
+      "end": 269.64,
       "text": "Concert at Reading last year, and the tracks we played you,"
+    },
+    {
+      "start": 269.64,
+      "end": 1865.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1865.74,
@@ -133,18 +139,13 @@
     },
     {
       "start": 1893.32,
-      "end": 2192.53,
+      "end": 1898.72,
       "text": "We've got some new stuff and some old stuff."
     },
     {
       "start": 2195.55,
       "end": 2198.72,
       "text": "Here's one you're going to know. It's a thing called War Pigs."
-    },
-    {
-      "start": 2199.58,
-      "end": 2278.79,
-      "text": "Minds of plot destruction"
     },
     {
       "start": 2278.79,
@@ -170,16 +171,6 @@
       "start": 2298.67,
       "end": 2302.93,
       "text": "Bullets in the air bring what's mine"
-    },
-    {
-      "start": 2302.93,
-      "end": 2342.15,
-      "text": "Why should they"
-    },
-    {
-      "start": 2342.15,
-      "end": 2461.68,
-      "text": "When darkness' world stops turning"
     },
     {
       "start": 2461.68,
@@ -218,12 +209,12 @@
     },
     {
       "start": 2494.74,
-      "end": 3062.55,
+      "end": 2498.94,
       "text": "This song is called Zero, the Hero."
     },
     {
       "start": 3063.03,
-      "end": 4400.38,
+      "end": 3073.23,
       "text": "Which have been next year, maybe not this time, but it will still be in the wedding."
     },
     {
@@ -233,7 +224,7 @@
     },
     {
       "start": 4405.4,
-      "end": 4946.46,
+      "end": 4413.2,
       "text": "like Sabbath live at Reading recorded specially for the Friday Rock Show they"
     },
     {

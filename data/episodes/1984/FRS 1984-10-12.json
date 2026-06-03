@@ -167,8 +167,20 @@
     },
     {
       "start": 60.3,
-      "end": 668.22,
+      "end": 63.3,
       "text": "That is their single."
+    },
+    {
+      "start": 63.3,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 663.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 668.34,
@@ -187,8 +199,14 @@
     },
     {
       "start": 679.15,
-      "end": 1144.67,
+      "end": 682.15,
       "text": "That was Badlands."
+    },
+    {
+      "start": 682.15,
+      "end": 1144.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1144.79,
@@ -222,8 +240,14 @@
     },
     {
       "start": 1161.11,
-      "end": 1733.48,
+      "end": 1164.71,
       "text": "Essex from back in 1976, Boston."
+    },
+    {
+      "start": 1164.71,
+      "end": 1728.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1733.94,
@@ -237,8 +261,14 @@
     },
     {
       "start": 1739.1,
-      "end": 1958.24,
+      "end": 1745.1,
       "text": "It's 27 and a half minutes or thereabouts before midnight."
+    },
+    {
+      "start": 1745.1,
+      "end": 1958.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1958.24,
@@ -257,8 +287,20 @@
     },
     {
       "start": 1966.48,
-      "end": 2424.05,
+      "end": 1972.48,
       "text": "I think he's well in with a chance with that."
+    },
+    {
+      "start": 1980.0,
+      "end": 2335.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2340.0,
+      "end": 2428.87,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2424.17,
@@ -297,8 +339,14 @@
     },
     {
       "start": 2437.03,
-      "end": 3028.64,
+      "end": 2440.63,
       "text": "They were such a good band."
+    },
+    {
+      "start": 2440.63,
+      "end": 3029.16,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3029.16,
@@ -342,8 +390,14 @@
     },
     {
       "start": 3057.02,
-      "end": 3394.69,
+      "end": 3065.42,
       "text": "very talented bunch of musicians they are they are called badlands that's our final"
+    },
+    {
+      "start": 3065.42,
+      "end": 3394.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3394.69,

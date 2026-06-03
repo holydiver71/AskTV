@@ -38,7 +38,9 @@
     {
       "artist": "Yardbirds",
       "track": "Train Kept A Rollin",
-      "details": "1965 Session"
+      "details": "1965 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the train kept a rollin"
     },
     {
       "artist": "Xero",
@@ -83,7 +85,9 @@
     {
       "artist": "Yardbirds",
       "track": "Scratch My Back",
-      "details": "Feb 1966 Session"
+      "details": "Feb 1966 Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "me back babe just scratch"
     },
     {
       "artist": "Yardbirds",
@@ -100,7 +104,9 @@
       "artist": "Styx",
       "track": "Too Much Time On My Hands",
       "details": "7\"; A&M",
-      "verified_timestamp": 3600.0
+      "verified_timestamp": 3600.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "too much time on my"
     },
     {
       "artist": null,
@@ -197,8 +203,14 @@
     },
     {
       "start": 65.33,
-      "end": 453.9,
+      "end": 76.73,
       "text": "with this and that was girl school their latest album the album called come and get it and the"
+    },
+    {
+      "start": 76.73,
+      "end": 458.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 453.9,
@@ -291,6 +303,12 @@
       "text": "dave evans who lives in hairfield oxbridge middlesex is well into whitespace"
     },
     {
+      "start": 519.58,
+      "end": 520.07,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 520.26,
       "end": 524.53,
       "text": "It's 11 minutes after 10."
@@ -302,8 +320,14 @@
     },
     {
       "start": 528.69,
-      "end": 742.88,
+      "end": 535.29,
       "text": "The Yardbirds' last contribution to our show is an item titled"
+    },
+    {
+      "start": 535.29,
+      "end": 742.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 742.88,
@@ -312,7 +336,7 @@
     },
     {
       "start": 745.74,
-      "end": 887.64,
+      "end": 753.54,
       "text": "To the very best of our knowledge, recorded way back in May 1966,"
     },
     {
@@ -332,7 +356,7 @@
     },
     {
       "start": 896.14,
-      "end": 1486.59,
+      "end": 903.34,
       "text": "There's a live version of that song that you've not heard before,"
     },
     {
@@ -424,6 +448,12 @@
       "start": 1539.47,
       "end": 1541.45,
       "text": "by Tangerine Dream."
+    },
+    {
+      "start": 1541.45,
+      "end": 2044.15,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2044.15,
@@ -537,8 +567,14 @@
     },
     {
       "start": 2100.57,
-      "end": 2686.61,
+      "end": 2105.37,
       "text": "There's a band who never let you down."
+    },
+    {
+      "start": 2105.37,
+      "end": 2686.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2686.73,
@@ -732,7 +768,7 @@
     },
     {
       "start": 3057.73,
-      "end": 3248.29,
+      "end": 3062.53,
       "text": "The Yardbirds from way back in our archives."
     },
     {
@@ -787,8 +823,14 @@
     },
     {
       "start": 3286.97,
-      "end": 3842.24,
+      "end": 3292.37,
       "text": "Just for you there, the new single by Styx"
+    },
+    {
+      "start": 3600.0,
+      "end": 3842.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3842.24,
@@ -977,8 +1019,14 @@
     },
     {
       "start": 3943.22,
-      "end": 4782.29,
+      "end": 3950.42,
       "text": "Friday Night Connection for tonight, the one put together by Pete Flanagan"
+    },
+    {
+      "start": 3950.42,
+      "end": 4782.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4782.29,
@@ -1072,8 +1120,14 @@
     },
     {
       "start": 4855.77,
-      "end": 5396.4,
+      "end": 4863.57,
       "text": "Some people have been walking around saying that that's a wimpy American album."
+    },
+    {
+      "start": 5220.0,
+      "end": 5396.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5396.64,
@@ -1217,8 +1271,14 @@
     },
     {
       "start": 5496.8,
-      "end": 6004.72,
+      "end": 5501.0,
       "text": "track there from the new Santana album"
+    },
+    {
+      "start": 5940.0,
+      "end": 6008.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6004.72,
@@ -1447,8 +1507,14 @@
     },
     {
       "start": 6117.15,
-      "end": 6269.57,
+      "end": 6120.15,
       "text": "So everything."
+    },
+    {
+      "start": 6120.15,
+      "end": 6425.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6425.96,
@@ -1477,8 +1543,14 @@
     },
     {
       "start": 6460.01,
-      "end": 7119.38,
+      "end": 6470.21,
       "text": "zero the starship from their new album called modern times the track was entitled save your love"
+    },
+    {
+      "start": 6840.0,
+      "end": 7119.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7119.38,

@@ -44,7 +44,9 @@
       "artist": "Steve Hackett",
       "track": "Cell 151",
       "details": "1983-03-04 FRS Session. First TX 1983-04-01",
-      "verified_timestamp": 1093.51
+      "verified_timestamp": 1093.51,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and i ve got to"
     },
     {
       "artist": "Accept",
@@ -166,7 +168,7 @@
     },
     {
       "start": 69.39,
-      "end": 497.16,
+      "end": 81.39,
       "text": "we start with this they were such a great band that of course is cheap trick and the track was"
     },
     {
@@ -221,7 +223,7 @@
     },
     {
       "start": 561.18,
-      "end": 1048.77,
+      "end": 572.58,
       "text": "that's an american band by the name of the buzz b apostrophe zz it's an import album it's called"
     },
     {
@@ -271,8 +273,14 @@
     },
     {
       "start": 1097.85,
-      "end": 1765.65,
+      "end": 1105.05,
       "text": "By except, it's from the album which is called Restless and Wild."
+    },
+    {
+      "start": 1105.05,
+      "end": 1765.65,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1765.65,
@@ -526,7 +534,7 @@
     },
     {
       "start": 2529.46,
-      "end": 3109.25,
+      "end": 2534.26,
       "text": "Pack it from our repeat session by them."
     },
     {
@@ -651,7 +659,7 @@
     },
     {
       "start": 3322.71,
-      "end": 3787.6,
+      "end": 3331.71,
       "text": "Friday Night Connection of Elizabeth Kirkham, who lives at No. 3 Park Avenue, Barhead, Glasgow."
     },
     {
@@ -776,7 +784,7 @@
     },
     {
       "start": 3881.92,
-      "end": 4305.09,
+      "end": 3884.92,
       "text": "That was Steve Hackett"
     },
     {
@@ -1066,8 +1074,14 @@
     },
     {
       "start": 5099.88,
-      "end": 5483.16,
+      "end": 5110.68,
       "text": "chase on all the women around detected by the stars is the mandolin before he goes to sleep"
+    },
+    {
+      "start": 5110.68,
+      "end": 5494.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5483.16,
@@ -1226,7 +1240,7 @@
     },
     {
       "start": 5718.66,
-      "end": 6062.15,
+      "end": 5726.46,
       "text": "A session recorded on the 25th of the 3rd, 1970, featuring David Bowie."
     },
     {
@@ -1296,7 +1310,7 @@
     },
     {
       "start": 6095.27,
-      "end": 7005.4,
+      "end": 6100.07,
       "text": "and the latest album by Bartley James Harvest"
     },
     {

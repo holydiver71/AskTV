@@ -174,8 +174,14 @@
     },
     {
       "start": 81.9,
-      "end": 665.72,
+      "end": 86.7,
       "text": "Excellent band. They've actually been around since 1976."
+    },
+    {
+      "start": 180.0,
+      "end": 664.9,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 665.72,
@@ -434,8 +440,14 @@
     },
     {
       "start": 774.96,
-      "end": 1136.64,
+      "end": 786.96,
       "text": "here at all me what a new single out you just heard it here on the rock show throwing stones"
+    },
+    {
+      "start": 786.96,
+      "end": 1136.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1136.64,
@@ -544,8 +556,14 @@
     },
     {
       "start": 1223.82,
-      "end": 1828.68,
+      "end": 1226.82,
       "text": "Excellent stuff."
+    },
+    {
+      "start": 1260.0,
+      "end": 1828.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1828.84,
@@ -649,8 +667,14 @@
     },
     {
       "start": 3759.55,
-      "end": 4134.04,
+      "end": 3762.55,
       "text": "On their album Delirious Nomad,"
+    },
+    {
+      "start": 3960.0,
+      "end": 4134.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4134.12,
@@ -899,8 +923,20 @@
     },
     {
       "start": 4265.86,
-      "end": 4745.35,
+      "end": 4268.86,
       "text": "Repeat session by then."
+    },
+    {
+      "start": 4268.86,
+      "end": 4315.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4320.0,
+      "end": 4745.43,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4745.43,
@@ -1033,6 +1069,12 @@
       "text": "Glasgow."
     },
     {
+      "start": 4806.89,
+      "end": 4808.53,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4809.17,
       "end": 4812.13,
       "text": "20 minutes past 11."
@@ -1119,8 +1161,14 @@
     },
     {
       "start": 4862.18,
-      "end": 5958.27,
+      "end": 4872.98,
       "text": "and enjoy this. North Devon invited you to lie back and enjoy that lot. I hope you did."
+    },
+    {
+      "start": 4872.98,
+      "end": 5958.27,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5958.27,
@@ -1269,7 +1317,7 @@
     },
     {
       "start": 6066.96,
-      "end": 6466.6,
+      "end": 6076.56,
       "text": "It's a very good album, that, called Shackled Past, by a band called Shackled Past, that"
     },
     {
@@ -1418,14 +1466,21 @@
       "text": "this Saturday at 2 o'clock."
     },
     {
-      "start": 6533.51,
-      "end": 6565.04,
-      "text": "Radio 1, I feel alive."
+      "start": 6533.23,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6565.04,
-      "end": 7176.75,
+      "end": 6569.84,
       "text": "On the lead guitar, also on the vocals,"
+    },
+    {
+      "start": 6660.0,
+      "end": 7176.95,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7176.95,

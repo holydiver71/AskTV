@@ -97,7 +97,9 @@
       "artist": "Magnum",
       "track": "Sacred Hour",
       "details": null,
-      "verified_timestamp": 4379.36
+      "verified_timestamp": 4379.36,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "still i ve been moved"
     },
     {
       "artist": "Magnum",
@@ -133,13 +135,17 @@
       "artist": "Pat Travers",
       "track": "Born Under A Bad Sign",
       "details": null,
-      "verified_timestamp": 7118.74
+      "verified_timestamp": 7118.74,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "under a bad sign i"
     },
     {
       "artist": "Pat Travers",
       "track": "Boom Boom Out Go The Lights",
       "details": null,
-      "verified_timestamp": 5811.25
+      "verified_timestamp": 5811.25,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "boom boom out go the"
     }
   ],
   "transcript": [
@@ -169,6 +175,12 @@
       "text": "But we start our reading revisited doubleheader with five numbers from Iron Maiden and here they are"
     },
     {
+      "start": 58.35,
+      "end": 1189.54,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1189.54,
       "end": 1190.82,
       "text": "Mr. Stevie Harris."
@@ -190,7 +202,7 @@
     },
     {
       "start": 1207.56,
-      "end": 1465.23,
+      "end": 1212.96,
       "text": "Iron Maiden, those bunch of loony West Ham supporters"
     },
     {
@@ -299,8 +311,14 @@
       "text": "And that particular band is the amazing Driving Gillen."
     },
     {
+      "start": 1529.14,
+      "end": 3061.02,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1841.43,
-      "end": 3061.5,
+      "end": 1847.43,
       "text": "In one of rock's greatest all-time classics, I'm Barry Manilow."
     },
     {
@@ -420,8 +438,14 @@
     },
     {
       "start": 3136.79,
-      "end": 4343.02,
+      "end": 3145.79,
       "text": "and now here's four good numbers by the band called samson thunderstake chris aylmer bruce"
+    },
+    {
+      "start": 3145.79,
+      "end": 4342.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4343.02,
@@ -465,8 +489,14 @@
     },
     {
       "start": 4379.36,
-      "end": 4607.36,
+      "end": 4390.16,
       "text": "midnight but now here's magnum the album is called chase the dragon this song is called sacred hour"
+    },
+    {
+      "start": 4390.16,
+      "end": 4640.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4607.36,
@@ -480,7 +510,7 @@
     },
     {
       "start": 4648.27,
-      "end": 4877.52,
+      "end": 4651.27,
       "text": "Nice to see you."
     },
     {
@@ -500,8 +530,14 @@
     },
     {
       "start": 4886.42,
-      "end": 5791.63,
+      "end": 4893.02,
       "text": "Kingdom of Madness, Invasion, All of My Life and Sacred Hour."
+    },
+    {
+      "start": 4893.02,
+      "end": 5786.63,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5791.63,
@@ -520,8 +556,14 @@
     },
     {
       "start": 5811.25,
-      "end": 7118.74,
+      "end": 5823.25,
       "text": "top that if you possibly can there you have the pat travis band boom boom out go the lights born"
+    },
+    {
+      "start": 5823.25,
+      "end": 7113.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7118.74,

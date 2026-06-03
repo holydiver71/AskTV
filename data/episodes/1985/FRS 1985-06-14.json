@@ -143,8 +143,14 @@
     },
     {
       "start": 74.35,
-      "end": 530.88,
+      "end": 80.35,
       "text": "You're only a child is the cry of the wild."
+    },
+    {
+      "start": 80.35,
+      "end": 527.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 531.38,
@@ -258,8 +264,14 @@
     },
     {
       "start": 580.04,
-      "end": 1128.87,
+      "end": 583.04,
       "text": "Favourite albums of all time"
+    },
+    {
+      "start": 583.04,
+      "end": 1128.87,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1128.87,
@@ -568,8 +580,14 @@
     },
     {
       "start": 1277.72,
-      "end": 1852.66,
+      "end": 1280.72,
       "text": "They are a pet hate."
+    },
+    {
+      "start": 1280.72,
+      "end": 1852.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1852.66,

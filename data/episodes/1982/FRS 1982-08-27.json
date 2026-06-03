@@ -53,7 +53,9 @@
       "artist": "Led Zeppelin",
       "track": "What Is And What Should Never Be",
       "details": "BBC Session",
-      "verified_timestamp": 1980.0
+      "verified_timestamp": 1980.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "if i say to you"
     },
     {
       "artist": "Led Zeppelin",
@@ -197,8 +199,14 @@
     },
     {
       "start": 91.28,
-      "end": 556.42,
+      "end": 97.88,
       "text": "I'll take some right here, I'm going to tell you something."
+    },
+    {
+      "start": 97.88,
+      "end": 556.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 556.44,
@@ -267,8 +275,14 @@
     },
     {
       "start": 627.36,
-      "end": 1166.07,
+      "end": 632.16,
       "text": "And their song called More Than a Feeling."
+    },
+    {
+      "start": 632.16,
+      "end": 1166.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1166.23,
@@ -362,7 +376,7 @@
     },
     {
       "start": 1227.6,
-      "end": 1758.09,
+      "end": 1232.4,
       "text": "The name of Chris, which is spelled C-R-Y-S."
     },
     {
@@ -496,11 +510,6 @@
       "text": "they say"
     },
     {
-      "start": 1869.73,
-      "end": 1907.38,
-      "text": "I'd find it"
-    },
-    {
       "start": 1907.38,
       "end": 1913.6,
       "text": "what's to stop"
@@ -517,8 +526,14 @@
     },
     {
       "start": 1922.02,
-      "end": 2412.58,
+      "end": 1925.02,
       "text": "And that was Les Zeppelin"
+    },
+    {
+      "start": 1980.0,
+      "end": 2412.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2412.58,
@@ -657,7 +672,7 @@
     },
     {
       "start": 2473.97,
-      "end": 3060.33,
+      "end": 2484.17,
       "text": "Y&T is the track from their latest album, which is just out on the A&M record label."
     },
     {
@@ -742,7 +757,7 @@
     },
     {
       "start": 3120.74,
-      "end": 3544.45,
+      "end": 3132.74,
       "text": "That's the band who are on stage at this moment of time up there at this year's Reading Rock 1982."
     },
     {
@@ -947,7 +962,7 @@
     },
     {
       "start": 4144.79,
-      "end": 4789.21,
+      "end": 4150.79,
       "text": "His latest album, which is out on CBS, good listening."
     },
     {
@@ -1217,8 +1232,14 @@
     },
     {
       "start": 4911.5,
-      "end": 5442.34,
+      "end": 4914.5,
       "text": "Archive, circa 1969."
+    },
+    {
+      "start": 5040.0,
+      "end": 5442.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5442.88,
@@ -1452,8 +1473,14 @@
     },
     {
       "start": 6017.7,
-      "end": 6992.2,
+      "end": 6024.3,
       "text": "Blackfoot Live is by Blackfoot, a tasty rock and roll band."
+    },
+    {
+      "start": 6024.3,
+      "end": 6992.58,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6992.58,

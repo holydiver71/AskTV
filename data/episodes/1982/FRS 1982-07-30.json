@@ -207,8 +207,14 @@
     },
     {
       "start": 73.73,
-      "end": 935.51,
+      "end": 78.53,
       "text": "Really hard to get out of that track."
+    },
+    {
+      "start": 78.53,
+      "end": 936.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 936.39,
@@ -347,8 +353,14 @@
     },
     {
       "start": 1023.82,
-      "end": 1395.34,
+      "end": 1030.42,
       "text": "A track from the album called Diver Down by Van Halen."
+    },
+    {
+      "start": 1030.42,
+      "end": 1395.34,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1395.34,
@@ -557,7 +569,7 @@
     },
     {
       "start": 1495.24,
-      "end": 2251.93,
+      "end": 1502.44,
       "text": "I think that's the best version of that that they ever recorded."
     },
     {
@@ -607,8 +619,14 @@
     },
     {
       "start": 2289.75,
-      "end": 2767.65,
+      "end": 2298.75,
       "text": "That's a track from a new album that's out on career records in this country."
+    },
+    {
+      "start": 2298.75,
+      "end": 2767.65,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2767.65,
@@ -707,7 +725,7 @@
     },
     {
       "start": 2858.77,
-      "end": 3406.58,
+      "end": 2868.97,
       "text": "more from fist and a track called pyramid to the stars you'll find it on the 12-inch"
     },
     {
@@ -827,7 +845,7 @@
     },
     {
       "start": 3652.73,
-      "end": 4160.68,
+      "end": 3661.73,
       "text": "Put together by Mr. David Topping, the only fellow to get it right last week."
     },
     {
@@ -947,7 +965,7 @@
     },
     {
       "start": 4233.64,
-      "end": 4424.79,
+      "end": 4237.24,
       "text": "On a steamer of the sun."
     },
     {
@@ -962,8 +980,14 @@
     },
     {
       "start": 4499.23,
-      "end": 4795.92,
+      "end": 4504.03,
       "text": "For the archives by Cream, we're going wrong."
+    },
+    {
+      "start": 4504.03,
+      "end": 4791.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4796.08,
@@ -1062,8 +1086,14 @@
     },
     {
       "start": 4865.09,
-      "end": 5255.98,
+      "end": 4871.09,
       "text": "This is Fist and Dog Soldier from the classic album"
+    },
+    {
+      "start": 4871.09,
+      "end": 5255.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5255.98,
@@ -1112,7 +1142,7 @@
     },
     {
       "start": 5282.53,
-      "end": 5789.36,
+      "end": 5285.53,
       "text": "Album by April Wine"
     },
     {
@@ -1262,18 +1292,13 @@
     },
     {
       "start": 6242.24,
-      "end": 6460.91,
+      "end": 6249.44,
       "text": "I just can't tell you the title of this one from Cream."
     },
     {
       "start": 6460.91,
       "end": 6481.93,
       "text": "The people has a beard."
-    },
-    {
-      "start": 6482.67,
-      "end": 6510.88,
-      "text": "The picture has a moustache."
     },
     {
       "start": 6511.44,
@@ -1287,8 +1312,14 @@
     },
     {
       "start": 6604.91,
-      "end": 6841.06,
+      "end": 6611.51,
       "text": "That was first broadcast on the 3rd of the 6th, 1967,"
+    },
+    {
+      "start": 6611.51,
+      "end": 6841.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6841.36,
@@ -1342,8 +1373,14 @@
     },
     {
       "start": 6866.16,
-      "end": 7068.69,
+      "end": 6871.56,
       "text": "and it is from their album called Wild Dogs"
+    },
+    {
+      "start": 6871.56,
+      "end": 7068.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7068.69,

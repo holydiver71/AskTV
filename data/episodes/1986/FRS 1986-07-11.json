@@ -63,11 +63,6 @@
       "text": "Action! Radio! Radio Barn!"
     },
     {
-      "start": 29.67,
-      "end": 55.89,
-      "text": "I lie back and enjoy it."
-    },
-    {
       "start": 56.05,
       "end": 58.23,
       "text": "I don't know if you've heard so far, I thought I'd better slip this in,"
@@ -191,6 +186,30 @@
       "start": 123.94,
       "end": 125.62,
       "text": "Four tracks, each one."
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1384.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1384.21,

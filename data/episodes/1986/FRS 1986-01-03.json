@@ -76,7 +76,9 @@
       "artist": "Fates Warning",
       "track": "Pirates Of The Underground",
       "details": "LP-The Spectre Within; Metal Blade",
-      "verified_timestamp": 3094.04
+      "verified_timestamp": 3094.04,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "2 pirates of the underground"
     },
     {
       "artist": "Blue Öyster Cult",
@@ -192,7 +194,7 @@
     },
     {
       "start": 338.2,
-      "end": 841.97,
+      "end": 343.6,
       "text": "20 years ago, by the Shangri-Las, an all-girl group."
     },
     {
@@ -577,8 +579,14 @@
     },
     {
       "start": 1029.63,
-      "end": 2245.25,
+      "end": 1037.43,
       "text": "22 minutes to midnight, that was the feature that we call Lie Back."
+    },
+    {
+      "start": 1037.43,
+      "end": 2245.65,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2245.65,
@@ -949,6 +957,12 @@
       "start": 3156.86,
       "end": 3162.22,
       "text": "One from Cougar."
+    },
+    {
+      "start": 3162.22,
+      "end": 3501.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3501.08,

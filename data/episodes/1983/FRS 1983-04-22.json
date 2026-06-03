@@ -116,7 +116,9 @@
     {
       "artist": "Mercyful Fate",
       "track": "Curse Of The Pharaohs",
-      "details": "FRS session"
+      "details": "FRS session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the curse of the pharaohs"
     },
     {
       "artist": "Trilogy",
@@ -171,6 +173,12 @@
       "text": "But tonight we start with this."
     },
     {
+      "start": 72.92,
+      "end": 538.96,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 538.96,
       "end": 542.48,
       "text": "That of course is the Scorpions from their album that came out last year called Blackout."
@@ -222,7 +230,7 @@
     },
     {
       "start": 583.39,
-      "end": 1178.44,
+      "end": 592.39,
       "text": "...at the end of January this year, went out actually at the beginning of February."
     },
     {
@@ -272,8 +280,14 @@
     },
     {
       "start": 1220.4,
-      "end": 1765.68,
+      "end": 1226.4,
       "text": "I still rate that to be one of the best"
+    },
+    {
+      "start": 1226.4,
+      "end": 1765.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1765.68,
@@ -382,8 +396,14 @@
     },
     {
       "start": 1812.23,
-      "end": 2380.88,
+      "end": 1816.43,
       "text": "What that sounded like at your end,"
+    },
+    {
+      "start": 2340.0,
+      "end": 3006.62,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2380.92,
@@ -537,8 +557,14 @@
     },
     {
       "start": 3046.56,
-      "end": 3687.66,
+      "end": 3050.16,
       "text": "That was Merciful Fate from Scandinavia."
+    },
+    {
+      "start": 3050.16,
+      "end": 3687.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3687.82,
@@ -647,7 +673,7 @@
     },
     {
       "start": 3778.06,
-      "end": 4527.09,
+      "end": 3782.86,
       "text": "Three bits of music, it's in there somewhere."
     },
     {
@@ -927,7 +953,7 @@
     },
     {
       "start": 5319.35,
-      "end": 6204.4,
+      "end": 5323.55,
       "text": "Do you think that is a masterpiece?"
     },
     {
@@ -992,7 +1018,7 @@
     },
     {
       "start": 6231.66,
-      "end": 6769.93,
+      "end": 6234.66,
       "text": "And that was Trilogy"
     },
     {
@@ -1047,7 +1073,7 @@
     },
     {
       "start": 6795.22,
-      "end": 6992.32,
+      "end": 6805.42,
       "text": "twisted sister that of course is twisted sister from their album you can't stop rock and roll"
     },
     {

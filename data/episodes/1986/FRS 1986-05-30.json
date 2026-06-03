@@ -46,7 +46,7 @@
     },
     {
       "start": 26.82,
-      "end": 2539.06,
+      "end": 33.42,
       "text": "In Motley Crue, as they were in concert in Fresno, California."
     },
     {
@@ -143,11 +143,6 @@
       "start": 2580.18,
       "end": 2581.72,
       "text": "Radio 1!"
-    },
-    {
-      "start": 2582.26,
-      "end": 2608.59,
-      "text": "Lie back and enjoy it."
     },
     {
       "start": 2608.59,
@@ -276,8 +271,14 @@
     },
     {
       "start": 2678.74,
-      "end": 3937.98,
+      "end": 2688.94,
       "text": "That was the feature Lie Back and Enjoy It, put together by Neil Robinson of Jesmond, Newcastle-upon-Tyne."
+    },
+    {
+      "start": 2688.94,
+      "end": 3934.04,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3938.08,
@@ -541,8 +542,14 @@
     },
     {
       "start": 4115.11,
-      "end": 4722.28,
+      "end": 4120.51,
       "text": "Two tracks from the forthcoming Here and Aid album."
+    },
+    {
+      "start": 4120.51,
+      "end": 4722.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4722.28,
@@ -801,7 +808,7 @@
     },
     {
       "start": 4866.64,
-      "end": 5419.24,
+      "end": 4869.64,
       "text": "called Agent Steel"
     },
     {

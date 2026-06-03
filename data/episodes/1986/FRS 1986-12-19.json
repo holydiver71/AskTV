@@ -21,7 +21,9 @@
       "artist": "Brighton Rock",
       "track": "Young, Wild And Free",
       "details": "LP-Young, Wild And Free; WEA",
-      "verified_timestamp": 600.79
+      "verified_timestamp": 600.79,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "re young wild and free"
     },
     {
       "artist": "Ted Nugent",
@@ -161,6 +163,12 @@
       "start": 67.04,
       "end": 68.9,
       "text": "You name them, I got them."
+    },
+    {
+      "start": 360.0,
+      "end": 554.23,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 554.23,
@@ -434,8 +442,14 @@
     },
     {
       "start": 678.09,
-      "end": 1175.41,
+      "end": 688.29,
       "text": "where do they come from chicago actually a glam band out of chicago signed to a major"
+    },
+    {
+      "start": 688.29,
+      "end": 1175.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1175.41,
@@ -471,6 +485,12 @@
       "start": 1203.73,
       "end": 1205.07,
       "text": "I hope you believe this is Girl School."
+    },
+    {
+      "start": 1205.07,
+      "end": 1623.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1623.98,
@@ -684,8 +704,14 @@
     },
     {
       "start": 1756.74,
-      "end": 2334.64,
+      "end": 1766.94,
       "text": "solo back in 1986 years ago now billy squire and the track from his latest album imported"
+    },
+    {
+      "start": 1766.94,
+      "end": 2334.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2334.64,
@@ -863,8 +889,14 @@
       "text": "Cryptic Slaughter."
     },
     {
-      "start": 2513.28,
+      "start": 2451.56,
       "end": 2853.58,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2513.28,
+      "end": 2524.68,
       "text": "quite an old album now came out back in 1985 pantera the name of the band they're out of"
     },
     {
@@ -1069,8 +1101,14 @@
     },
     {
       "start": 2969.23,
-      "end": 3414.94,
+      "end": 2977.63,
       "text": "girls call it's really good considering that they're japanese i mean honestly really good"
+    },
+    {
+      "start": 2977.63,
+      "end": 3414.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3414.94,

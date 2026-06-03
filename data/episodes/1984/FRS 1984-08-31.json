@@ -117,8 +117,14 @@
     },
     {
       "start": 56.32,
-      "end": 670.12,
+      "end": 65.92,
       "text": "A couple of tracks from their latest LP just come out on the EMI record label."
+    },
+    {
+      "start": 360.0,
+      "end": 666.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 670.24,
@@ -152,8 +158,14 @@
     },
     {
       "start": 687.58,
-      "end": 1224.04,
+      "end": 691.18,
       "text": "Their album is called Trust Me."
+    },
+    {
+      "start": 691.18,
+      "end": 1220.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1224.16,
@@ -177,8 +189,14 @@
     },
     {
       "start": 1232.23,
-      "end": 1443.47,
+      "end": 1235.23,
       "text": "That is from an import."
+    },
+    {
+      "start": 1235.23,
+      "end": 1442.47,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1443.71,
@@ -189,6 +207,12 @@
       "start": 1447.47,
       "end": 1450.43,
       "text": "It was called Caught in the Ruts, Black Swampy Water."
+    },
+    {
+      "start": 1450.43,
+      "end": 2217.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2222.44,
@@ -392,8 +416,14 @@
     },
     {
       "start": 2323.65,
-      "end": 2986.95,
+      "end": 2328.45,
       "text": "Friday Night Connection put together by Martin Buckby"
+    },
+    {
+      "start": 2328.45,
+      "end": 2986.95,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2986.95,
@@ -552,7 +582,7 @@
     },
     {
       "start": 3154.93,
-      "end": 3462.58,
+      "end": 3163.33,
       "text": "One and a half minutes after eleven, it's time for the Friday Night Connection."
     },
     {

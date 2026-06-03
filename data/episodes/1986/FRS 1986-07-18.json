@@ -87,7 +87,9 @@
     {
       "artist": "Excalibur",
       "track": "Early In The Morning",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "early in the morning i"
     },
     {
       "artist": "James Young with Jan Hammer",
@@ -116,7 +118,9 @@
       "artist": "Saxon",
       "track": "Princess Of The Night",
       "details": "LP-Denim And Leather; Carrere",
-      "verified_timestamp": 4320.0
+      "verified_timestamp": 4320.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "years ago used to bring"
     },
     {
       "artist": null,
@@ -165,7 +169,9 @@
       "artist": "Bon Jovi",
       "track": "You Give Love A Bad Name",
       "details": "7\"; Vertigo",
-      "verified_timestamp": 6120.0
+      "verified_timestamp": 6120.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you give love a bad"
     },
     {
       "artist": "Status Quo",
@@ -242,8 +248,14 @@
     },
     {
       "start": 78.04,
-      "end": 439.24,
+      "end": 84.04,
       "text": "A little bit of a classic from back in 1980."
+    },
+    {
+      "start": 84.04,
+      "end": 439.54,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 439.54,
@@ -427,8 +439,14 @@
     },
     {
       "start": 539.68,
-      "end": 1018.77,
+      "end": 549.28,
       "text": "First time I heard of them, I thought they were nothing more than a big hype."
+    },
+    {
+      "start": 540.0,
+      "end": 1018.19,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1018.77,
@@ -597,8 +615,14 @@
     },
     {
       "start": 1101.17,
-      "end": 1827.64,
+      "end": 1107.17,
       "text": "...stands up. He was on an album called Metal Explosion,"
+    },
+    {
+      "start": 1107.17,
+      "end": 1826.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1827.64,
@@ -882,8 +906,20 @@
     },
     {
       "start": 2050.7,
-      "end": 2449.99,
+      "end": 2062.1,
       "text": "their next album that happens in the show later on but now queens are right the album has just"
+    },
+    {
+      "start": 2062.1,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 2160.0,
+      "end": 2449.99,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2449.99,
@@ -1252,8 +1288,14 @@
     },
     {
       "start": 2864.66,
-      "end": 3369.0,
+      "end": 2874.86,
       "text": "the morning that's a surprising combination i tell you james young is the vocalist also plays guitar"
+    },
+    {
+      "start": 2874.86,
+      "end": 3369.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3369.0,
@@ -1481,6 +1523,18 @@
       "text": "and motorhead bangers everywhere two by motorhead from the forthcoming album"
     },
     {
+      "start": 3493.78,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 3933.84,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3933.84,
       "end": 3938.16,
       "text": "i'm exhausted after that a couple of tracks there by motorhead from their forthcoming album"
@@ -1541,6 +1595,12 @@
       "text": "Rebel Rebel, the track."
     },
     {
+      "start": 3964.32,
+      "end": 4228.3,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4228.3,
       "end": 4230.52,
       "text": "Rebel Rebel came out in 1974."
@@ -1579,6 +1639,12 @@
       "start": 4324.05,
       "end": 4404.24,
       "text": "Recognises Princess of the Night by Saxon."
+    },
+    {
+      "start": 4324.05,
+      "end": 4418.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4404.24,
@@ -1802,8 +1868,14 @@
     },
     {
       "start": 4592.79,
-      "end": 4783.28,
+      "end": 4603.59,
       "text": "actually just a bit of history there and it's called battle cry part of the track that's going"
+    },
+    {
+      "start": 4603.59,
+      "end": 4783.28,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4783.28,
@@ -2137,7 +2209,7 @@
     },
     {
       "start": 4998.12,
-      "end": 5138.25,
+      "end": 5007.72,
       "text": "Strong Charms said that's going to be the new single by Saxon off their forthcoming album."
     },
     {
@@ -2461,6 +2533,12 @@
       "text": "From the album Over The Top, this track is killer."
     },
     {
+      "start": 5401.68,
+      "end": 5833.56,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5833.56,
       "end": 5835.44,
       "text": "Some are Britain's finest there."
@@ -2522,8 +2600,14 @@
     },
     {
       "start": 5851.12,
-      "end": 6242.58,
+      "end": 5857.12,
       "text": "The press is in as fast as possible for you."
+    },
+    {
+      "start": 6120.0,
+      "end": 6242.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6242.7,
@@ -2717,8 +2801,14 @@
     },
     {
       "start": 6347.75,
-      "end": 6818.3,
+      "end": 6357.95,
       "text": "I think it's a band with a future, and according to the notes in front of me,"
+    },
+    {
+      "start": 6480.0,
+      "end": 6818.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6818.42,

@@ -25,7 +25,9 @@
       "artist": "Cars",
       "track": "You Might Think",
       "details": "LP - Heartbeat City",
-      "verified_timestamp": 360.0
+      "verified_timestamp": 360.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "till the sun fell down"
     },
     {
       "artist": "Jim Steinman",
@@ -103,8 +105,14 @@
     },
     {
       "start": 63.78,
-      "end": 281.34,
+      "end": 69.78,
       "text": "That's Out of the Darkness, Little Steven, Steven Van Zandt."
+    },
+    {
+      "start": 69.78,
+      "end": 281.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 281.44,
@@ -135,6 +143,12 @@
       "start": 303.48,
       "end": 414.7,
       "text": "Till the sun fell down, it kept it."
+    },
+    {
+      "start": 360.0,
+      "end": 483.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 415.14,
@@ -173,8 +187,14 @@
     },
     {
       "start": 506.93,
-      "end": 795.88,
+      "end": 518.33,
       "text": "jim steinman go to that song yes from the new walter hill movie streets of fire do so soon"
+    },
+    {
+      "start": 518.33,
+      "end": 795.88,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 795.88,
@@ -203,8 +223,14 @@
     },
     {
       "start": 816.94,
-      "end": 1001.9,
+      "end": 821.74,
       "text": "Just love to see them live, I think."
+    },
+    {
+      "start": 900.0,
+      "end": 1001.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1001.98,
@@ -222,6 +248,12 @@
       "text": "And at number four, Marillion."
     },
     {
+      "start": 1080.0,
+      "end": 1223.23,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1222.47,
       "end": 1225.51,
       "text": "Assassin from Marillion at number four in the rock and metal singles chart,"
@@ -235,6 +267,12 @@
       "start": 1228.23,
       "end": 1231.35,
       "text": "At number three, Going Down Down Tonight and Sadist Quo."
+    },
+    {
+      "start": 1231.35,
+      "end": 1466.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1466.02,
@@ -282,6 +320,12 @@
       "text": "We're going to play the other side here on the Friday Rock Show, live, Bark at the Moon."
     },
     {
+      "start": 1493.66,
+      "end": 1683.53,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1683.53,
       "end": 1687.09,
       "text": "That's Ozzy Osbourne on the B-side tonight of his current single, So Tired."
@@ -308,8 +352,14 @@
     },
     {
       "start": 1703.15,
-      "end": 1914.46,
+      "end": 1713.95,
       "text": "Can you say, Queen at number one again in the rock singles chart, I Want to Break Free."
+    },
+    {
+      "start": 1800.0,
+      "end": 1914.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1914.52,
@@ -438,7 +488,7 @@
     },
     {
       "start": 2017.61,
-      "end": 2649.62,
+      "end": 2027.81,
       "text": "somewhere i promise you listen closely so the friday night connection for the 8th of june on"
     },
     {

@@ -30,7 +30,9 @@
       "artist": "UFO",
       "track": "The Way The Wild Wind Blows",
       "details": "LP - Making Contact; Chrysalis",
-      "verified_timestamp": 555.44
+      "verified_timestamp": 555.44,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the way the wild wind"
     },
     {
       "artist": "Trilogy",
@@ -47,12 +49,16 @@
     {
       "artist": "Bonzo Dog Doo Dah Band",
       "track": "Do The Trouser Press",
-      "details": "Top Gear Session"
+      "details": "Top Gear Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "been listening to is a"
     },
     {
       "artist": "Bonzo Dog Doo Dah Band",
       "track": "Canyons Of Your Mind",
-      "details": "Top Gear Session"
+      "details": "Top Gear Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the canyons of your mind"
     },
     {
       "artist": "Bonzo Dog Doo Dah Band",
@@ -68,7 +74,9 @@
       "artist": "Yardbirds",
       "track": "Rack My Mind",
       "details": "LP - Yardbirds; Columbia",
-      "verified_timestamp": 1980.0
+      "verified_timestamp": 1980.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i don t know what"
     },
     {
       "artist": "Triumph",
@@ -114,13 +122,17 @@
       "artist": "Pat Benatar",
       "track": "Shadows Of The Night",
       "details": "LP - Get Nervous; Chrysalis",
-      "verified_timestamp": 5220.0
+      "verified_timestamp": 5220.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "the shadows of the night"
     },
     {
       "artist": "Bonzo Dog Doo Dah Band",
       "track": "Mr Apollo",
       "details": "Top Gear Session",
-      "verified_timestamp": 5400.0
+      "verified_timestamp": 5400.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "everybody knows he s the"
     },
     {
       "artist": "Bonzo Dog Doo Dah Band",
@@ -178,7 +190,7 @@
     },
     {
       "start": 46.42,
-      "end": 555.44,
+      "end": 57.82,
       "text": "cuts on record too oh and tommy get well soon mate ufo from their new lp called making contact"
     },
     {
@@ -273,8 +285,20 @@
     },
     {
       "start": 605.48,
-      "end": 1149.2,
+      "end": 610.28,
       "text": "It's the Friday Rock Show with Richard Skinner"
+    },
+    {
+      "start": 610.28,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1149.2,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1149.2,
@@ -478,7 +502,7 @@
     },
     {
       "start": 1363.17,
-      "end": 1724.6,
+      "end": 1370.97,
       "text": "Urban Spaceman, that's Bonzo Dog Doodah Band, recorded on 29th of March, 1968."
     },
     {
@@ -528,8 +552,14 @@
     },
     {
       "start": 1752.26,
-      "end": 2179.34,
+      "end": 1760.06,
       "text": "Sort of tenuous link in that little segue two in a row there."
+    },
+    {
+      "start": 1980.0,
+      "end": 2179.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2179.42,
@@ -633,7 +663,7 @@
     },
     {
       "start": 2235.44,
-      "end": 2551.98,
+      "end": 2246.24,
       "text": "before a falsehood let me tell you that is what i said before a speculation triumph their album"
     },
     {
@@ -738,8 +768,20 @@
     },
     {
       "start": 2592.2,
-      "end": 3192.08,
+      "end": 2595.2,
       "text": "Pretty good, isn't it?"
+    },
+    {
+      "start": 2595.2,
+      "end": 3055.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3060.0,
+      "end": 3192.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3192.1,
@@ -933,8 +975,14 @@
     },
     {
       "start": 3308.75,
-      "end": 4438.66,
+      "end": 3311.75,
       "text": "The Friday Night Connection."
+    },
+    {
+      "start": 3311.75,
+      "end": 4438.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4438.66,
@@ -993,8 +1041,20 @@
     },
     {
       "start": 4542.04,
-      "end": 4840.02,
+      "end": 4545.04,
       "text": "...Hendrix and Voodoo Child."
+    },
+    {
+      "start": 4545.04,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4680.0,
+      "end": 4840.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4840.14,
@@ -1028,8 +1088,14 @@
     },
     {
       "start": 4854.78,
-      "end": 5386.11,
+      "end": 4857.78,
       "text": "Benatar, a superstar in America."
+    },
+    {
+      "start": 5220.0,
+      "end": 5386.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5386.49,
@@ -1072,6 +1138,12 @@
       "text": "And a few more wonderful bits of idiocy"
     },
     {
+      "start": 5406.29,
+      "end": 6016.54,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5482.53,
       "end": 5484.63,
       "text": "Everybody knows he's the greatest man."
@@ -1100,11 +1172,6 @@
       "start": 5629.2,
       "end": 5630.08,
       "text": "One person bending."
-    },
-    {
-      "start": 5630.56,
-      "end": 5679.42,
-      "text": "Into my tent."
     },
     {
       "start": 6016.54,
@@ -1198,8 +1265,20 @@
     },
     {
       "start": 6070.54,
-      "end": 6725.25,
+      "end": 6077.74,
       "text": "Tony Wilson's staff selection for this week, Jessica from the Ormond Brothers."
+    },
+    {
+      "start": 6077.74,
+      "end": 6295.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6300.0,
+      "end": 6725.89,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6725.89,
@@ -1213,7 +1292,7 @@
     },
     {
       "start": 6730.57,
-      "end": 7044.38,
+      "end": 6733.57,
       "text": "Dark Hunter. Trilogy."
     },
     {

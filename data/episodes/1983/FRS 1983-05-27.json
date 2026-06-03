@@ -84,7 +84,9 @@
     {
       "artist": "Magnum",
       "track": "Vicious Companions",
-      "details": "FRS session"
+      "details": "FRS session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t invite the vicious"
     },
     {
       "artist": "Tubes",
@@ -116,7 +118,9 @@
     {
       "artist": "Magnum",
       "track": "The Prize",
-      "details": "FRS session"
+      "details": "FRS session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "all our troubles are rolled"
     },
     {
       "artist": "Snowy White",
@@ -177,8 +181,14 @@
     },
     {
       "start": 74.15,
-      "end": 528.08,
+      "end": 77.75,
       "text": "And that was Mott the Hoople."
+    },
+    {
+      "start": 360.0,
+      "end": 528.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 528.6,
@@ -312,8 +322,14 @@
     },
     {
       "start": 616.34,
-      "end": 958.46,
+      "end": 627.14,
       "text": "Now that's a track from an import, rather LP, which is out on the Metal Blade record label."
+    },
+    {
+      "start": 627.14,
+      "end": 958.98,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 958.98,
@@ -392,8 +408,14 @@
     },
     {
       "start": 1007.44,
-      "end": 1651.18,
+      "end": 1010.44,
       "text": "Lost Horizons"
+    },
+    {
+      "start": 1010.44,
+      "end": 1651.18,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1651.18,
@@ -542,7 +564,7 @@
     },
     {
       "start": 1719.86,
-      "end": 2244.66,
+      "end": 1724.66,
       "text": "That's the Japanese metal band called Bow Wow."
     },
     {
@@ -672,7 +694,7 @@
     },
     {
       "start": 2343.55,
-      "end": 2962.64,
+      "end": 2352.55,
       "text": "That is just part of one side of the new album by Mike Oldfield, rather."
     },
     {
@@ -732,7 +754,7 @@
     },
     {
       "start": 2988.36,
-      "end": 3436.76,
+      "end": 2991.36,
       "text": "Started way back in 1970,"
     },
     {
@@ -1126,11 +1148,6 @@
       "text": "In the car and on my way to stone"
     },
     {
-      "start": 3640.44,
-      "end": 3681.06,
-      "text": "On a table covered lace"
-    },
-    {
       "start": 3681.06,
       "end": 3688.56,
       "text": "Finds a cobweb on her face"
@@ -1172,7 +1189,7 @@
     },
     {
       "start": 3765.32,
-      "end": 3962.52,
+      "end": 3769.52,
       "text": "People said it was a virgin birth"
     },
     {
@@ -1202,7 +1219,7 @@
     },
     {
       "start": 4028.36,
-      "end": 4428.85,
+      "end": 4031.96,
       "text": "Friday Night Connection put together by"
     },
     {
@@ -1361,11 +1378,6 @@
       "text": "What you give is what you get"
     },
     {
-      "start": 4566.46,
-      "end": 4593.06,
-      "text": "What you give for more"
-    },
-    {
       "start": 4593.06,
       "end": 4597.01,
       "text": "And the self-ordained proceed to shut the door"
@@ -1382,7 +1394,7 @@
     },
     {
       "start": 4607.54,
-      "end": 4936.45,
+      "end": 4610.54,
       "text": "Makers of really excellent records."
     },
     {
@@ -1512,7 +1524,7 @@
     },
     {
       "start": 5019.44,
-      "end": 5465.4,
+      "end": 5023.04,
       "text": "I reckon it's safe to say"
     },
     {
@@ -1712,8 +1724,14 @@
     },
     {
       "start": 5531.96,
-      "end": 6114.18,
+      "end": 5539.16,
       "text": "The staff selection of Tony Wilson, the producer of this year's programme."
+    },
+    {
+      "start": 5539.16,
+      "end": 6114.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6114.32,
@@ -1772,7 +1790,7 @@
     },
     {
       "start": 6173.12,
-      "end": 6731.17,
+      "end": 6177.92,
       "text": "Not Carla Santana at all, but Snowy White,"
     },
     {

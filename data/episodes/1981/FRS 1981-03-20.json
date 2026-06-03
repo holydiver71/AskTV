@@ -93,7 +93,9 @@
       "artist": "Ken Hensley",
       "track": "No More",
       "details": "LP-Free Spirit; Bronze",
-      "verified_timestamp": 4010.48
+      "verified_timestamp": 4010.48,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "giving me the run around"
     },
     {
       "artist": "Uriah Heep",
@@ -127,7 +129,9 @@
     {
       "artist": "Nazareth",
       "track": "Too Bad Too Sad",
-      "details": "1973 Harris Session"
+      "details": "1973 Harris Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "we had a lot of"
     },
     {
       "artist": "Last Flight",
@@ -187,6 +191,18 @@
       "start": 71.41,
       "end": 76.69,
       "text": "Not forgetting our Friday night connection, the time when titillation comes into your life, but we start with this."
+    },
+    {
+      "start": 76.69,
+      "end": 175.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 180.0,
+      "end": 463.47,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 463.47,
@@ -345,8 +361,20 @@
     },
     {
       "start": 550.28,
-      "end": 1143.74,
+      "end": 554.48,
       "text": "Came out first on the album Burn"
+    },
+    {
+      "start": 554.48,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 1143.74,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1143.74,
@@ -460,8 +488,14 @@
     },
     {
       "start": 1191.04,
-      "end": 1686.98,
+      "end": 1199.44,
       "text": "10.30 on the Friday Rock Show, the amazing voice of Geddy Lee and Rush."
+    },
+    {
+      "start": 1440.0,
+      "end": 1688.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1688.0,
@@ -605,8 +639,14 @@
     },
     {
       "start": 1800.73,
-      "end": 2215.16,
+      "end": 1810.93,
       "text": "But I'm totally anti their latest album, but I wish they were still making music like that."
+    },
+    {
+      "start": 1810.93,
+      "end": 2215.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2215.26,
@@ -680,7 +720,7 @@
     },
     {
       "start": 2279.31,
-      "end": 2665.24,
+      "end": 2284.11,
       "text": "For this new band called the Barnet Dogs"
     },
     {
@@ -812,6 +852,12 @@
       "start": 2730.76,
       "end": 2733.28,
       "text": "And now here's something that came out in 1976."
+    },
+    {
+      "start": 2733.28,
+      "end": 3247.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3247.1,
@@ -969,11 +1015,6 @@
       "text": "and here's a beautiful track from it."
     },
     {
-      "start": 3336.28,
-      "end": 3370.94,
-      "text": "You've been cheating me so long"
-    },
-    {
       "start": 3370.94,
       "end": 3374.86,
       "text": "Giving me the runaround"
@@ -982,11 +1023,6 @@
       "start": 3374.86,
       "end": 3380.36,
       "text": "Spreading evil everywhere you go"
-    },
-    {
-      "start": 3380.36,
-      "end": 3434.06,
-      "text": "Trying to confuse your brother"
     },
     {
       "start": 3434.06,
@@ -1000,8 +1036,14 @@
     },
     {
       "start": 3448.66,
-      "end": 3989.42,
+      "end": 3451.66,
       "text": "Ramsgate Rockers"
+    },
+    {
+      "start": 3780.0,
+      "end": 3989.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3989.42,
@@ -1194,6 +1236,12 @@
       "text": "Three pieces of music with a connection or theme contained therein."
     },
     {
+      "start": 4086.08,
+      "end": 4941.72,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4941.72,
       "end": 4944.0,
       "text": "The Friday Night Connection, put together by Stuart Antony,"
@@ -1290,7 +1338,7 @@
     },
     {
       "start": 4995.82,
-      "end": 5512.78,
+      "end": 5006.02,
       "text": "another one from last flight and i think they come from the midlands they have the name"
     },
     {
@@ -1439,6 +1487,12 @@
       "text": "It's Nazareth."
     },
     {
+      "start": 5580.69,
+      "end": 5978.99,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5978.99,
       "end": 5982.05,
       "text": "That was Nazareth, out of the archives from way back in 1973."
@@ -1495,7 +1549,7 @@
     },
     {
       "start": 6030.17,
-      "end": 6547.8,
+      "end": 6038.57,
       "text": "A little tribute to a man who died March the 19th, 1976, Paul Kossoff."
     },
     {

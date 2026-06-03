@@ -36,7 +36,9 @@
       "artist": "Hanoi Rocks",
       "track": "'Don't You Ever Leave Me'",
       "details": "FRS Session",
-      "verified_timestamp": 3077.83
+      "verified_timestamp": 3077.83,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t you ever leave"
     },
     {
       "artist": "Foreigner",
@@ -111,7 +113,9 @@
     {
       "artist": "Hanoi Rocks",
       "track": "Boulevard Of Broken Dreams",
-      "details": "FRS Session"
+      "details": "FRS Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "on the boulevard of broken"
     },
     {
       "artist": "Warlord",
@@ -149,8 +153,14 @@
   "transcript": [
     {
       "start": 2.48,
-      "end": 201.14,
+      "end": 10.88,
       "text": "Excellent track by the American band called Rat. It is called Lack of Communication."
+    },
+    {
+      "start": 10.88,
+      "end": 201.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 201.14,
@@ -239,8 +249,14 @@
     },
     {
       "start": 275.77,
-      "end": 867.74,
+      "end": 285.37,
       "text": "...Rox from our repeat session by them. The track was called Don't You Ever Leave Me."
+    },
+    {
+      "start": 360.0,
+      "end": 867.86,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 867.86,
@@ -336,6 +352,18 @@
       "start": 941.18,
       "end": 943.27,
       "text": "Thank you. This is Foreigner."
+    },
+    {
+      "start": 943.27,
+      "end": 1075.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1080.0,
+      "end": 1361.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1359.33,
@@ -459,8 +487,20 @@
     },
     {
       "start": 1442.85,
-      "end": 1910.6,
+      "end": 1448.85,
       "text": "Before that, you heard TKO from a really good album,"
+    },
+    {
+      "start": 1448.85,
+      "end": 1795.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1800.0,
+      "end": 1911.01,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1910.72,
@@ -523,9 +563,21 @@
       "text": "just listen to the guitar, it's really tasty, and it's by an English fella."
     },
     {
+      "start": 1995.07,
+      "end": 2155.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2079.74,
-      "end": 2952.02,
+      "end": 2089.94,
       "text": "from their double album who's last now before that something from a new live album has just"
+    },
+    {
+      "start": 2160.0,
+      "end": 2952.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2952.02,
@@ -639,8 +691,14 @@
     },
     {
       "start": 3077.83,
-      "end": 3628.79,
+      "end": 3089.83,
       "text": "here are hanoi rocks a band who don't know too much about them at all other than the fact that"
+    },
+    {
+      "start": 3089.83,
+      "end": 3629.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3628.79,
@@ -669,8 +727,20 @@
     },
     {
       "start": 3647.66,
-      "end": 4078.26,
+      "end": 3655.46,
       "text": "The album is not going to be released here in the United Kingdom."
+    },
+    {
+      "start": 3655.46,
+      "end": 3775.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3780.0,
+      "end": 4078.4,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4078.4,
@@ -764,8 +834,20 @@
     },
     {
       "start": 4171.47,
-      "end": 4786.28,
+      "end": 4177.47,
       "text": "We did a session with them about two years ago."
+    },
+    {
+      "start": 4177.47,
+      "end": 4315.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 4320.0,
+      "end": 4786.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4786.38,
@@ -919,8 +1001,14 @@
     },
     {
       "start": 4858.2,
-      "end": 5336.64,
+      "end": 4863.0,
       "text": "Hanoi rocks on their album, which is called"
+    },
+    {
+      "start": 4863.0,
+      "end": 5335.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5336.64,

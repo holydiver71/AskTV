@@ -50,7 +50,9 @@
       "artist": "Tank",
       "track": "\"Heavy Artillery",
       "details": "Session",
-      "verified_timestamp": 719.92
+      "verified_timestamp": 719.92,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "and you ll be a"
     },
     {
       "artist": "Rolling Stones",
@@ -216,8 +218,14 @@
     },
     {
       "start": 55.94,
-      "end": 704.66,
+      "end": 59.54,
       "text": "the choir of the Sussex Countryside"
+    },
+    {
+      "start": 59.54,
+      "end": 704.66,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 704.66,
@@ -316,8 +324,14 @@
     },
     {
       "start": 751.94,
-      "end": 1379.83,
+      "end": 760.34,
       "text": "There was no quarter, and that's a track from our repeat session by them."
+    },
+    {
+      "start": 760.34,
+      "end": 1379.91,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1379.91,
@@ -411,7 +425,7 @@
     },
     {
       "start": 1435.68,
-      "end": 1842.02,
+      "end": 1447.08,
       "text": "time starts tracks there start me up and i played that because they got a very nice postcard here"
     },
     {
@@ -531,7 +545,7 @@
     },
     {
       "start": 1907.92,
-      "end": 2501.52,
+      "end": 1911.52,
       "text": "The world is sounds like that."
     },
     {
@@ -591,7 +605,7 @@
     },
     {
       "start": 2541.82,
-      "end": 3140.92,
+      "end": 2554.42,
       "text": "quarter to 11. this once again is no quarter it's a very good songs on that album it's the new album"
     },
     {
@@ -666,8 +680,14 @@
     },
     {
       "start": 3199.37,
-      "end": 3601.61,
+      "end": 3210.77,
       "text": "dedicate this song to build the third row with the repeat session by then the track was called don't"
+    },
+    {
+      "start": 3210.77,
+      "end": 3601.61,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3601.61,
@@ -1091,8 +1111,14 @@
     },
     {
       "start": 4454.65,
-      "end": 4920.48,
+      "end": 4461.25,
       "text": "Campus No Quarter, we're doing an event called Riverside Rock tonight"
+    },
+    {
+      "start": 4461.25,
+      "end": 4920.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4920.48,
@@ -1191,7 +1217,7 @@
     },
     {
       "start": 4962.77,
-      "end": 5698.6,
+      "end": 4966.37,
       "text": "That's a really good rock track."
     },
     {
@@ -1261,8 +1287,14 @@
     },
     {
       "start": 5729.7,
-      "end": 6495.2,
+      "end": 5733.9,
       "text": "No Quarter, and the track called Calling."
+    },
+    {
+      "start": 5733.9,
+      "end": 6495.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6495.42,
@@ -1336,8 +1368,14 @@
     },
     {
       "start": 6526.14,
-      "end": 6973.96,
+      "end": 6529.74,
       "text": "Definitely giving it some of that"
+    },
+    {
+      "start": 6529.74,
+      "end": 6973.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6973.96,

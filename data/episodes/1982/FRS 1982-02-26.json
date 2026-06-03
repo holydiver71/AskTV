@@ -72,7 +72,9 @@
     {
       "artist": "Marillion",
       "track": "Three Boats Down From The Candy",
-      "details": "Session"
+      "details": "Session",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "three boats down from the"
     },
     {
       "artist": "Magnum",
@@ -185,8 +187,14 @@
     },
     {
       "start": 98.03,
-      "end": 592.3,
+      "end": 101.03,
       "text": "We'll be right back."
+    },
+    {
+      "start": 101.03,
+      "end": 592.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 592.32,
@@ -240,7 +248,7 @@
     },
     {
       "start": 646.74,
-      "end": 1325.93,
+      "end": 656.34,
       "text": "it's just like listening to velvet on the underground again that's lou reed and a track"
     },
     {
@@ -354,8 +362,14 @@
       "text": "Forgotten Sons."
     },
     {
+      "start": 1421.22,
+      "end": 1922.55,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1535.14,
-      "end": 1922.25,
+      "end": 1542.34,
       "text": "For the first time ever on Radio 1, a session by them."
     },
     {
@@ -505,8 +519,14 @@
     },
     {
       "start": 2005.3,
-      "end": 2804.06,
+      "end": 2008.3,
       "text": "...boogie band they are."
+    },
+    {
+      "start": 2008.3,
+      "end": 2804.22,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2804.22,
@@ -565,8 +585,14 @@
     },
     {
       "start": 2831.62,
-      "end": 3269.65,
+      "end": 2844.22,
       "text": "That's a good new single. It's not on the Guardian label. It's by Battleaxe, and its title is Burn This Town."
+    },
+    {
+      "start": 2844.22,
+      "end": 3269.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3269.77,
@@ -635,7 +661,7 @@
     },
     {
       "start": 3319.04,
-      "end": 3808.29,
+      "end": 3322.04,
       "text": "Across the Atlantic last October."
     },
     {
@@ -795,7 +821,7 @@
     },
     {
       "start": 3908.84,
-      "end": 4678.9,
+      "end": 3913.04,
       "text": "Three bits of music with a definite"
     },
     {
@@ -865,7 +891,7 @@
     },
     {
       "start": 4728.22,
-      "end": 5247.26,
+      "end": 4731.82,
       "text": "And a track called The Web"
     },
     {
@@ -950,7 +976,7 @@
     },
     {
       "start": 5289.6,
-      "end": 6923.25,
+      "end": 5299.8,
       "text": "heard before i think i've blown the speakers there aren't too many bands in the world who"
     },
     {

@@ -86,13 +86,17 @@
       "artist": "Gary Moore",
       "track": "White Knuckles",
       "details": "LP-Rockin’ Every Night - Live In Japan; Virgin",
-      "verified_timestamp": 4747.67
+      "verified_timestamp": 4747.67,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "tell you what i ll"
     },
     {
       "artist": "Gary Moore",
       "track": "Rockin’ And Rollin’",
       "details": "LP-Rockin’ Every Night - Live in Japan; Virgin",
-      "verified_timestamp": 4753.15
+      "verified_timestamp": 4753.15,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "tell you what i ll"
     },
     {
       "artist": "Battleaxe",
@@ -156,7 +160,7 @@
     },
     {
       "start": 70.2,
-      "end": 661.99,
+      "end": 81.0,
       "text": "Robert Plant, in the mood for a melody from the Principle of Moments LP that's just been released,"
     },
     {
@@ -173,6 +177,12 @@
       "start": 673.17,
       "end": 691.73,
       "text": "And before I die young from Heaven and Hell by Black Sabbath, which was called into being tonight for Adam Lawrence from Norfolk, who wrote and asked for that particular track, for his schoolmates Jackie, Goz, Hatton, Steve L, Ali and his girlfriend Val, and also for Peter Stanway from Mike Swinbourne of Liverpool."
+    },
+    {
+      "start": 691.73,
+      "end": 692.07,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 692.21,
@@ -198,6 +208,12 @@
       "start": 704.91,
       "end": 708.59,
       "text": "Ready to deliver, this one's called, and just between you and me, I think they mean it."
+    },
+    {
+      "start": 708.59,
+      "end": 1182.75,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1187.75,
@@ -266,8 +282,14 @@
     },
     {
       "start": 1253.09,
-      "end": 1677.48,
+      "end": 1265.09,
       "text": "recorded for the john peel show on thursday april the 15th of 1976 from lone star from lone star and"
+    },
+    {
+      "start": 1265.09,
+      "end": 1677.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1677.48,
@@ -301,8 +323,14 @@
     },
     {
       "start": 1710.02,
-      "end": 2434.8,
+      "end": 1721.42,
       "text": "means war stampede and the title track from their new album hurricane town and you know i used to"
+    },
+    {
+      "start": 1721.42,
+      "end": 2434.8,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2434.8,
@@ -401,8 +429,14 @@
     },
     {
       "start": 2515.01,
-      "end": 3038.84,
+      "end": 2525.81,
       "text": "goes down from thin lizzy wax from our session tonight and shout it out and before that thin"
+    },
+    {
+      "start": 2525.81,
+      "end": 3033.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3038.84,
@@ -486,8 +520,14 @@
     },
     {
       "start": 3127.23,
-      "end": 3758.93,
+      "end": 3137.43,
       "text": "so that's the friday night connection for this week our three mystery tracks that you heard there"
+    },
+    {
+      "start": 3137.43,
+      "end": 3758.93,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3758.93,
@@ -606,7 +646,7 @@
     },
     {
       "start": 3899.72,
-      "end": 4710.37,
+      "end": 3911.72,
       "text": "Three tracks on the Friday Rock Show, all in concert, beginning with Crosby, Stills and Nash from the Allies LP."
     },
     {
@@ -686,8 +726,14 @@
     },
     {
       "start": 4760.97,
-      "end": 5277.5,
+      "end": 4773.57,
       "text": "of 1976 but our other feature group this week are battle axe bobin treuer from the new back it up lp"
+    },
+    {
+      "start": 4773.57,
+      "end": 5277.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5277.5,
@@ -756,7 +802,7 @@
     },
     {
       "start": 5320.44,
-      "end": 5827.06,
+      "end": 5330.64,
       "text": "The very last second of that one, Spaceships from Lone Star, recorded for the BBC in 1976,"
     },
     {
@@ -791,8 +837,14 @@
     },
     {
       "start": 5853.34,
-      "end": 6561.65,
+      "end": 5860.54,
       "text": "...was the Electric Palace from a Norwich-based group, Ground Zero, a six-piece,"
+    },
+    {
+      "start": 5860.54,
+      "end": 6562.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6562.11,
@@ -880,13 +932,19 @@
       "text": "to 12."
     },
     {
+      "start": 6620.15,
+      "end": 7327.89,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 6756.67,
       "end": 6762.32,
       "text": "...and I'm running out of time, just moving mine at the end of a line."
     },
     {
       "start": 6762.82,
-      "end": 7327.05,
+      "end": 6774.22,
       "text": "...and Girl Blues, written by Donovan, but sung by Sammy Hager from the Nine on the Ten Scale LP."
     },
     {

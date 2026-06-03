@@ -177,7 +177,7 @@
     },
     {
       "start": 5.01,
-      "end": 297.36,
+      "end": 12.21,
       "text": "Robert Palmer, Addicted to Love. Well, here we are in Stowe, Vermont."
     },
     {
@@ -222,7 +222,7 @@
     },
     {
       "start": 328.74,
-      "end": 520.21,
+      "end": 333.54,
       "text": "That was Motorhead, we are the road crew."
     },
     {
@@ -296,6 +296,12 @@
       "text": "And this is Mississippi Queen."
     },
     {
+      "start": 563.69,
+      "end": 716.14,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 716.14,
       "end": 719.52,
       "text": "Well, that was Leslie and Corky and the gang and Mississippi Queen."
@@ -327,7 +333,7 @@
     },
     {
       "start": 734.28,
-      "end": 974.91,
+      "end": 737.28,
       "text": "Great voice that guy's got."
     },
     {
@@ -727,8 +733,14 @@
     },
     {
       "start": 1247.56,
-      "end": 1446.38,
+      "end": 1252.96,
       "text": "Why can't this be love? Van Halen, great stuff."
+    },
+    {
+      "start": 1252.96,
+      "end": 1446.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1446.92,
@@ -1017,8 +1029,14 @@
     },
     {
       "start": 1619.9,
-      "end": 1760.49,
+      "end": 1623.5,
       "text": "I was Chuck Berry and Maybelline"
+    },
+    {
+      "start": 1623.5,
+      "end": 1760.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1760.49,
@@ -1077,7 +1095,7 @@
     },
     {
       "start": 1783.09,
-      "end": 2321.14,
+      "end": 1787.29,
       "text": "That was Still The One from Cannes."
     },
     {
@@ -1227,7 +1245,7 @@
     },
     {
       "start": 2414.37,
-      "end": 2745.5,
+      "end": 2426.37,
       "text": "i just got so much respect for this is ozzy and rock and roll rebel the ozzy the ozzy osbourne"
     },
     {
@@ -1612,8 +1630,9 @@
     },
     {
       "start": 3305.05,
-      "end": 3351.1,
-      "text": "What they've done to you"
+      "end": 3443.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3351.1,
@@ -1654,11 +1673,6 @@
       "start": 3392.95,
       "end": 3394.77,
       "text": "Was your part"
-    },
-    {
-      "start": 3394.77,
-      "end": 3442.86,
-      "text": "The Pretenders with Chain Gang."
     },
     {
       "start": 3443.0,
@@ -1931,6 +1945,12 @@
       "text": "please play both sides at one meeting."
     },
     {
+      "start": 3563.51,
+      "end": 3837.48,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3837.48,
       "end": 3839.46,
       "text": "Well that was Talk To You Later from the Tubes"
@@ -2122,7 +2142,7 @@
     },
     {
       "start": 3928.81,
-      "end": 4189.37,
+      "end": 3931.81,
       "text": "Talking Heads and Little Creatures"
     },
     {
@@ -2162,8 +2182,14 @@
     },
     {
       "start": 4202.69,
-      "end": 4481.1,
+      "end": 4205.69,
       "text": "the same old son"
+    },
+    {
+      "start": 4205.69,
+      "end": 4481.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4481.1,
@@ -2487,8 +2513,14 @@
     },
     {
       "start": 4611.62,
-      "end": 4919.6,
+      "end": 4623.02,
       "text": "is a really good track that was demon's eye from uh who's nobody deep deep purple that's right it"
+    },
+    {
+      "start": 4623.02,
+      "end": 4919.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4919.6,

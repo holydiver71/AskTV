@@ -211,7 +211,7 @@
     },
     {
       "start": 90.84,
-      "end": 423.9,
+      "end": 98.04,
       "text": "The album is called The Pack. It is the product of Alaska,"
     },
     {
@@ -431,7 +431,7 @@
     },
     {
       "start": 553.09,
-      "end": 791.56,
+      "end": 564.49,
       "text": "problem back to some music this again is alaska i can honestly say that i really like that single"
     },
     {
@@ -681,7 +681,7 @@
     },
     {
       "start": 949.2,
-      "end": 1263.67,
+      "end": 952.8,
       "text": "This is the Friday Rock Show"
     },
     {
@@ -856,8 +856,14 @@
     },
     {
       "start": 1363.75,
-      "end": 1537.81,
+      "end": 1366.75,
       "text": "And once again, it's Mountain."
+    },
+    {
+      "start": 1366.75,
+      "end": 1538.17,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1538.17,
@@ -926,7 +932,7 @@
     },
     {
       "start": 1576.69,
-      "end": 2046.93,
+      "end": 1581.49,
       "text": "Three guys from ERA, they're called Mama's Boys."
     },
     {
@@ -1346,7 +1352,7 @@
     },
     {
       "start": 2644.8,
-      "end": 2932.11,
+      "end": 2650.8,
       "text": "Possibly 3 o'clock tomorrow afternoon on the stage at Nebworth."
     },
     {
@@ -1481,7 +1487,7 @@
     },
     {
       "start": 3011.08,
-      "end": 3273.92,
+      "end": 3023.08,
       "text": "of course in nebworth it's going to be lights out lights out in nebworth you can bet your life that"
     },
     {
@@ -1666,7 +1672,7 @@
     },
     {
       "start": 3349.98,
-      "end": 3588.76,
+      "end": 3355.38,
       "text": "On the stage, I go tomorrow at approximately 4.15"
     },
     {
@@ -2205,9 +2211,21 @@
       "text": "songs we are likely to expect."
     },
     {
+      "start": 4045.09,
+      "end": 4135.64,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 4140.64,
-      "end": 4336.67,
+      "end": 4143.64,
       "text": "And Bad Attitude,"
+    },
+    {
+      "start": 4143.64,
+      "end": 4336.79,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4336.79,
@@ -2951,8 +2969,14 @@
     },
     {
       "start": 4622.96,
-      "end": 5007.31,
+      "end": 4628.96,
       "text": "The moment of the stage here in Nebworth, of course,"
+    },
+    {
+      "start": 4628.96,
+      "end": 5007.31,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5007.31,
@@ -3235,8 +3259,14 @@
       "text": "Now this is the Scorpions."
     },
     {
-      "start": 5264.46,
+      "start": 5179.3,
       "end": 5601.32,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 5264.46,
+      "end": 5272.86,
       "text": "Fantasy rather in its early planning stages, but now it most significantly is real."
     },
     {
@@ -3396,7 +3426,7 @@
     },
     {
       "start": 5676.18,
-      "end": 5858.31,
+      "end": 5679.78,
       "text": "The Scorpions, Is There Anybody There?"
     },
     {
@@ -3446,7 +3476,7 @@
     },
     {
       "start": 5887.03,
-      "end": 6423.29,
+      "end": 5892.43,
       "text": "That's actually went between the recording of those tracks."
     },
     {
@@ -3751,8 +3781,14 @@
     },
     {
       "start": 6548.69,
-      "end": 7153.84,
+      "end": 6551.69,
       "text": "Blackmoor and Glover"
+    },
+    {
+      "start": 6551.69,
+      "end": 7153.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7153.84,

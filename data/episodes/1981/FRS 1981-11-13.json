@@ -138,8 +138,20 @@
     },
     {
       "start": 70.36,
-      "end": 600.21,
+      "end": 73.96,
       "text": "...shaker group from their album MSG."
+    },
+    {
+      "start": 73.96,
+      "end": 355.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 360.0,
+      "end": 600.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 600.45,
@@ -243,7 +255,7 @@
     },
     {
       "start": 677.61,
-      "end": 1402.28,
+      "end": 689.01,
       "text": "of music but very well done it's by a dutch band called diesel the thinking man's band that is"
     },
     {
@@ -383,7 +395,7 @@
     },
     {
       "start": 1502.5,
-      "end": 2727.62,
+      "end": 1512.1,
       "text": "right frame of mind to hear it. Tangerine Dream, as recorded in concert on the 2nd"
     },
     {
@@ -433,7 +445,7 @@
     },
     {
       "start": 2789.39,
-      "end": 3223.25,
+      "end": 2801.99,
       "text": "of the single by mistake last week this week is the a side of the single by sweet savage that was"
     },
     {
@@ -633,7 +645,7 @@
     },
     {
       "start": 3353.62,
-      "end": 4558.94,
+      "end": 3359.62,
       "text": "Friday Night Connection for tonight, put together by Andy Saunders."
     },
     {
@@ -748,7 +760,7 @@
     },
     {
       "start": 4644.72,
-      "end": 5114.14,
+      "end": 4651.32,
       "text": "We've been making great records for years and years and years"
     },
     {
@@ -948,7 +960,7 @@
     },
     {
       "start": 5390.38,
-      "end": 5984.88,
+      "end": 5393.38,
       "text": "...the album, but seriously, folks,"
     },
     {
@@ -1053,8 +1065,14 @@
     },
     {
       "start": 6030.38,
-      "end": 6791.18,
+      "end": 6036.98,
       "text": "Dream as recorded at the Royal Albert Hall, 2nd, 4th, 1975."
+    },
+    {
+      "start": 6036.98,
+      "end": 6806.11,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6792.2,

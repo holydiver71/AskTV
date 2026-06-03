@@ -40,7 +40,7 @@
     },
     {
       "start": 23.03,
-      "end": 765.6,
+      "end": 27.23,
       "text": "Andy Sears, Rick Battersby and Clive Mitten."
     },
     {
@@ -125,8 +125,14 @@
     },
     {
       "start": 818.44,
-      "end": 1588.52,
+      "end": 824.44,
       "text": "Well, you lose your money and you take your choice"
+    },
+    {
+      "start": 824.44,
+      "end": 1588.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1588.52,
@@ -135,7 +141,7 @@
     },
     {
       "start": 1590.66,
-      "end": 2292.76,
+      "end": 1595.46,
       "text": "Andy Parker, Paul Chapman, Pete Way and Finn."
     },
     {

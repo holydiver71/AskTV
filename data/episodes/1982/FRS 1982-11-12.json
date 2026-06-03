@@ -55,7 +55,9 @@
       "artist": "Jethro Tull",
       "track": "My Sunday Feeling",
       "details": "Top Gear Session 1968-11-05",
-      "verified_timestamp": 1890.78
+      "verified_timestamp": 1890.78,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "my sunday feeling s coming"
     },
     {
       "artist": "Jethro Tull",
@@ -113,7 +115,9 @@
     {
       "artist": "Jethro Tull",
       "track": "Fat Man",
-      "details": "Top Gear Session 1969-06-16"
+      "details": "Top Gear Session 1969-06-16",
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "1 don t want to"
     },
     {
       "artist": "Jethro Tull",
@@ -179,8 +183,14 @@
     },
     {
       "start": 72.98,
-      "end": 609.94,
+      "end": 87.98,
       "text": "A classic, of course, it is called Fire and Water, but now you'll find it on a new compilation album, which is called Completely Free."
+    },
+    {
+      "start": 87.98,
+      "end": 610.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 610.42,
@@ -329,8 +339,14 @@
     },
     {
       "start": 699.55,
-      "end": 1302.12,
+      "end": 704.35,
       "text": "That's for David Coverdale on the lead vocals."
+    },
+    {
+      "start": 704.35,
+      "end": 1302.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1302.32,
@@ -718,14 +734,15 @@
       "text": "That old feeling, oh, that old feeling is in my head"
     },
     {
+      "start": 1975.74,
+      "end": 2125.27,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2071.1,
       "end": 2088.44,
       "text": "Oh, that old feeling is in my head"
-    },
-    {
-      "start": 2088.44,
-      "end": 2125.27,
-      "text": "That's a fantastic sound for you."
     },
     {
       "start": 2125.27,
@@ -789,7 +806,7 @@
     },
     {
       "start": 2295.56,
-      "end": 2489.64,
+      "end": 2300.96,
       "text": "Recording way back in 1968, that was Jethro Tull"
     },
     {
@@ -954,7 +971,7 @@
     },
     {
       "start": 2597.28,
-      "end": 2846.1,
+      "end": 2608.08,
       "text": "bubbles blow in the morning by your radio walls close in the suffocation you ain't got no friends"
     },
     {
@@ -1088,6 +1105,12 @@
       "text": "then fido got up off the floor and he rolled over and he looked me straight in the eye"
     },
     {
+      "start": 2956.14,
+      "end": 3080.1,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3057.78,
       "end": 3068.33,
       "text": "and you know what he said once upon a time somebody say to me this is a dog dog now what is"
@@ -1219,7 +1242,7 @@
     },
     {
       "start": 3285.03,
-      "end": 4573.63,
+      "end": 3289.23,
       "text": "And that was the Friday Night Connection,"
     },
     {
@@ -1314,7 +1337,7 @@
     },
     {
       "start": 4647.1,
-      "end": 5191.89,
+      "end": 4654.3,
       "text": "The new Pat Travers album, just out on the Polydor record label."
     },
     {
@@ -1489,8 +1512,14 @@
     },
     {
       "start": 5267.91,
-      "end": 5930.44,
+      "end": 5277.51,
       "text": "It was a session out of the archives, recorded way back in 1969 by Jethro Tull."
+    },
+    {
+      "start": 5400.0,
+      "end": 5930.56,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5930.56,

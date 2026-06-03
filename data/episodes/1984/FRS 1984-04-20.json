@@ -46,13 +46,17 @@
       "artist": "Lita Ford",
       "track": "Gotta Let Go",
       "details": "single",
-      "verified_timestamp": 720.0
+      "verified_timestamp": 720.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "so if you want to"
     },
     {
       "artist": "Johnny Winter",
       "track": "Don't Take Advantage Of Me",
       "details": "LP - Guitar Slinger",
-      "verified_timestamp": 900.0
+      "verified_timestamp": 900.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "don t take advantage of"
     },
     {
       "artist": "Baby Tuckoo",
@@ -101,8 +105,14 @@
     },
     {
       "start": 40.56,
-      "end": 478.47,
+      "end": 50.76,
       "text": "and this by rock goddess they're a band from australia i think that's about their third album"
+    },
+    {
+      "start": 180.0,
+      "end": 480.55,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 478.47,
@@ -246,8 +256,26 @@
     },
     {
       "start": 602.43,
-      "end": 1176.68,
+      "end": 606.03,
       "text": "And that is Mr. Johnny Winter."
+    },
+    {
+      "start": 606.03,
+      "end": 715.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 720.0,
+      "end": 895.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 900.0,
+      "end": 1177.02,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1177.02,
@@ -376,7 +404,7 @@
     },
     {
       "start": 1269.9,
-      "end": 1819.76,
+      "end": 1277.1,
       "text": "And our baby Chaku, they've got an album out at the moment"
     },
     {
@@ -411,7 +439,7 @@
     },
     {
       "start": 1830.24,
-      "end": 2010.41,
+      "end": 1833.84,
       "text": "Really unique voice is Mr. Chapman"
     },
     {
@@ -576,8 +604,14 @@
     },
     {
       "start": 2091.55,
-      "end": 3222.12,
+      "end": 2094.55,
       "text": "The track that is great."
+    },
+    {
+      "start": 2094.55,
+      "end": 3223.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3223.45,
@@ -646,12 +680,12 @@
     },
     {
       "start": 3275.44,
-      "end": 3908.63,
+      "end": 3280.84,
       "text": "It's a Howlin' Wolf song, and it's called Evil."
     },
     {
       "start": 3909.63,
-      "end": 4996.7,
+      "end": 3918.63,
       "text": "I don't know if you've ever, in your distant past, seen a band called Supercharge."
     },
     {
@@ -676,8 +710,14 @@
     },
     {
       "start": 5018.55,
-      "end": 5697.42,
+      "end": 5021.55,
       "text": "The Climax Blues Band."
+    },
+    {
+      "start": 5021.55,
+      "end": 5697.52,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5697.52,

@@ -176,8 +176,14 @@
     },
     {
       "start": 71.5,
-      "end": 1092.76,
+      "end": 75.1,
       "text": "A medley of Australian folk music."
+    },
+    {
+      "start": 75.1,
+      "end": 1088.5,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1093.5,
@@ -311,8 +317,20 @@
     },
     {
       "start": 1159.63,
-      "end": 1807.69,
+      "end": 1165.03,
       "text": "Right, that was Les Zeppelin from the album Presence."
+    },
+    {
+      "start": 1165.03,
+      "end": 1615.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1620.0,
+      "end": 1807.69,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1807.69,
@@ -496,8 +514,14 @@
     },
     {
       "start": 1892.39,
-      "end": 2253.68,
+      "end": 1897.19,
       "text": "The band that started life as Simon Dupree"
+    },
+    {
+      "start": 1897.19,
+      "end": 2253.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2253.68,
@@ -626,8 +650,14 @@
     },
     {
       "start": 2316.14,
-      "end": 2859.74,
+      "end": 2320.34,
       "text": "They'll be on the stage at Donington,"
+    },
+    {
+      "start": 2700.0,
+      "end": 2860.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2860.08,
@@ -811,8 +841,20 @@
     },
     {
       "start": 2953.17,
-      "end": 3511.69,
+      "end": 2957.97,
       "text": "The same name as if you didn't know,"
+    },
+    {
+      "start": 2957.97,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3511.73,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3511.73,
@@ -996,8 +1038,14 @@
     },
     {
       "start": 3636.25,
-      "end": 4588.62,
+      "end": 3644.05,
       "text": "put together by martin haweswood three glendale pink ms green maidenhead in box"
+    },
+    {
+      "start": 3644.05,
+      "end": 4675.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4588.62,
@@ -1021,8 +1069,14 @@
     },
     {
       "start": 4625.01,
-      "end": 5238.6,
+      "end": 4637.01,
       "text": "london w1a 4 ww 10 pound record token to the winner and the best of luck rock and roll by"
+    },
+    {
+      "start": 4680.0,
+      "end": 5238.6,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5238.6,
@@ -1225,6 +1279,12 @@
       "text": "This is the other bit of the session that was recorded in December 1974 by Gentle Giant."
     },
     {
+      "start": 5400.0,
+      "end": 5877.79,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5877.79,
       "end": 5882.09,
       "text": "Listening back to that, I really believe they were completely underrated by their critics."
@@ -1261,8 +1321,20 @@
     },
     {
       "start": 5901.24,
-      "end": 6487.38,
+      "end": 5904.24,
       "text": "The course is The Fish,"
+    },
+    {
+      "start": 5940.0,
+      "end": 6295.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6300.0,
+      "end": 6487.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6487.68,

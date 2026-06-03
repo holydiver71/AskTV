@@ -116,8 +116,14 @@
     },
     {
       "start": 69.85,
-      "end": 547.59,
+      "end": 80.05,
       "text": "we start with this label in this country uh it's a canadian album so therefore it might"
+    },
+    {
+      "start": 80.05,
+      "end": 547.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 547.59,
@@ -216,7 +222,7 @@
     },
     {
       "start": 627.27,
-      "end": 1165.66,
+      "end": 632.07,
       "text": "from his solo album called Small Creeps Day"
     },
     {
@@ -316,7 +322,7 @@
     },
     {
       "start": 1224.04,
-      "end": 1682.38,
+      "end": 1230.64,
       "text": "A couple of good new singles that have just come out."
     },
     {
@@ -501,7 +507,7 @@
     },
     {
       "start": 1783.59,
-      "end": 2062.09,
+      "end": 1791.99,
       "text": "Time since we've heard anything that's come out of the studios by that fella."
     },
     {
@@ -576,7 +582,7 @@
     },
     {
       "start": 2118.73,
-      "end": 2705.38,
+      "end": 2122.93,
       "text": "Is it related to Led Zeppelin Requests?"
     },
     {
@@ -691,7 +697,7 @@
     },
     {
       "start": 2787.17,
-      "end": 3703.41,
+      "end": 2798.57,
       "text": "by chris tankard the cult freak and graham thomas also known as lux in canada and it is a"
     },
     {
@@ -851,8 +857,14 @@
     },
     {
       "start": 3800.29,
-      "end": 6874.81,
+      "end": 3803.89,
       "text": "Judas Priest as recorded in concert"
+    },
+    {
+      "start": 3803.89,
+      "end": 6874.81,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6874.81,

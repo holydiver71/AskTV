@@ -239,8 +239,20 @@
     },
     {
       "start": 24.01,
-      "end": 790.74,
+      "end": 31.81,
       "text": "Steve Hackett and that's the title track from his 1979 album Spectral Mornings."
+    },
+    {
+      "start": 180.0,
+      "end": 535.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 540.0,
+      "end": 800.64,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 790.74,
@@ -399,8 +411,14 @@
     },
     {
       "start": 857.74,
-      "end": 1364.57,
+      "end": 860.74,
       "text": "It's a music from Canada"
+    },
+    {
+      "start": 860.74,
+      "end": 1364.57,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1364.57,
@@ -493,6 +511,12 @@
       "text": "Three tracks coming up next that date back to 1973."
     },
     {
+      "start": 1410.09,
+      "end": 1410.61,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1410.67,
       "end": 1413.39,
       "text": "You're going to hear a session version of Cindy, Incidentally,"
@@ -506,6 +530,12 @@
       "start": 1415.61,
       "end": 1416.85,
       "text": "First is our Cindy."
+    },
+    {
+      "start": 1416.85,
+      "end": 1956.42,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1956.42,
@@ -664,7 +694,7 @@
     },
     {
       "start": 2022.38,
-      "end": 2689.11,
+      "end": 2025.98,
       "text": "Music from seven years ago. Robin"
     },
     {
@@ -806,6 +836,18 @@
       "start": 2758.97,
       "end": 2761.45,
       "text": "this is what he sounds like in Starfighters' Killing Time."
+    },
+    {
+      "start": 2761.45,
+      "end": 3235.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3240.0,
+      "end": 3351.35,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3351.35,
@@ -959,7 +1001,7 @@
     },
     {
       "start": 3424.86,
-      "end": 4145.67,
+      "end": 3435.06,
       "text": "right now well if you think that you've divined the details of the friday night connection for"
     },
     {
@@ -1004,7 +1046,7 @@
     },
     {
       "start": 4188.21,
-      "end": 4645.61,
+      "end": 4197.81,
       "text": "first of all you heard a band from germany a bellaphone production bitch and first bite"
     },
     {
@@ -1054,8 +1096,14 @@
     },
     {
       "start": 4672.85,
-      "end": 5169.08,
+      "end": 4677.65,
       "text": "A good solid dose of the blues there."
+    },
+    {
+      "start": 4677.65,
+      "end": 5169.08,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5169.08,
@@ -1129,7 +1177,7 @@
     },
     {
       "start": 5199.08,
-      "end": 5897.88,
+      "end": 5211.68,
       "text": "music like that and it's a real shame that they've given it up the faces that was love in vain before"
     },
     {
@@ -1169,8 +1217,14 @@
     },
     {
       "start": 5938.16,
-      "end": 6252.7,
+      "end": 5948.36,
       "text": "stones power crazy star fighters and that's the last one in their session before that the rolling"
+    },
+    {
+      "start": 5940.0,
+      "end": 6252.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6252.7,
@@ -1254,8 +1308,20 @@
     },
     {
       "start": 6285.06,
-      "end": 6844.1,
+      "end": 6288.66,
       "text": "So here we go. Joan Armour"
+    },
+    {
+      "start": 6480.0,
+      "end": 6655.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6660.0,
+      "end": 6844.1,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6844.1,

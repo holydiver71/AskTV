@@ -174,8 +174,14 @@
     },
     {
       "start": 71.68,
-      "end": 728.08,
+      "end": 77.68,
       "text": "It's a track from an album called Bad for Good."
+    },
+    {
+      "start": 77.68,
+      "end": 728.44,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 728.44,
@@ -329,8 +335,14 @@
     },
     {
       "start": 822.51,
-      "end": 1299.72,
+      "end": 825.51,
       "text": "That, of course, was ACDC,"
+    },
+    {
+      "start": 825.51,
+      "end": 1299.92,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1299.92,
@@ -554,7 +566,7 @@
     },
     {
       "start": 1542.73,
-      "end": 1910.84,
+      "end": 1546.93,
       "text": "In 1974, that was Blood, Wind, Pig"
     },
     {
@@ -604,8 +616,14 @@
     },
     {
       "start": 1953.97,
-      "end": 2494.61,
+      "end": 1956.97,
       "text": "Now, that was Holocaust,"
+    },
+    {
+      "start": 1956.97,
+      "end": 2495.21,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2495.21,
@@ -731,16 +749,6 @@
       "start": 2572.52,
       "end": 2575.26,
       "text": "There's a new album out by Joe Walsh."
-    },
-    {
-      "start": 2953.14,
-      "end": 3001.56,
-      "text": "All time lose for a job."
-    },
-    {
-      "start": 3078.73,
-      "end": 3113.16,
-      "text": "Came out in 1971, did that?"
     },
     {
       "start": 3113.32,
@@ -899,8 +907,20 @@
     },
     {
       "start": 3204.06,
-      "end": 3678.05,
+      "end": 3207.06,
       "text": "Their music, Sniffin' the Tears,"
+    },
+    {
+      "start": 3207.06,
+      "end": 3595.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 3600.0,
+      "end": 3691.3,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3678.15,
@@ -1039,7 +1059,7 @@
     },
     {
       "start": 3758.06,
-      "end": 4634.84,
+      "end": 3764.06,
       "text": "20 minutes after 11, that's our Friday night connection tonight,"
     },
     {
@@ -1134,7 +1154,7 @@
     },
     {
       "start": 4696.14,
-      "end": 5235.78,
+      "end": 4708.74,
       "text": "w they'll be on the show next week they're rose tattoo this is black axe an album by mr nick mason"
     },
     {
@@ -1274,8 +1294,14 @@
     },
     {
       "start": 5329.94,
-      "end": 5852.23,
+      "end": 5338.94,
       "text": "Bloodwin Pig, out of the archives, as they were, on the 17th of June, 1974."
+    },
+    {
+      "start": 5338.94,
+      "end": 5852.49,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5852.49,
@@ -1314,8 +1340,9 @@
     },
     {
       "start": 5870.85,
-      "end": 5900.94,
-      "text": "Love at all was so tall"
+      "end": 5961.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5900.94,
@@ -1378,11 +1405,6 @@
       "text": "And sail on through the night"
     },
     {
-      "start": 5970.9,
-      "end": 6017.38,
-      "text": "And by the dawn"
-    },
-    {
       "start": 6017.38,
       "end": 6020.74,
       "text": "But the wise man"
@@ -1439,7 +1461,7 @@
     },
     {
       "start": 6060.88,
-      "end": 6518.4,
+      "end": 6063.88,
       "text": "From then to night"
     },
     {

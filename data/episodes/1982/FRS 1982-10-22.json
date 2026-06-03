@@ -26,13 +26,17 @@
       "artist": "Kiss",
       "track": "Creatures Of The Night",
       "details": "LP-Creatures Of The Night; Casablanca",
-      "verified_timestamp": 80.0
+      "verified_timestamp": 80.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "creatures of the night we"
     },
     {
       "artist": "MC5",
       "track": "Kick Out The Jams",
       "details": "LP-Kick Out The Jams; Elektra",
-      "verified_timestamp": 360.0
+      "verified_timestamp": 360.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "to kick out the jams"
     },
     {
       "artist": "MC5",
@@ -149,7 +153,9 @@
       "artist": "Venom",
       "track": "Welcome To Hell",
       "details": "LP-Welcome To Hell; Neat",
-      "verified_timestamp": 6300.0
+      "verified_timestamp": 6300.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "welcome to hell welcome to"
     },
     {
       "artist": "Tobruk",
@@ -191,8 +197,14 @@
     },
     {
       "start": 80.0,
-      "end": 326.7,
+      "end": 91.4,
       "text": "creatures of the night starting off as we left it last week there kiss and the title track from"
+    },
+    {
+      "start": 91.4,
+      "end": 326.7,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 326.7,
@@ -215,9 +227,21 @@
       "text": "who are going to kick out the jams."
     },
     {
+      "start": 360.0,
+      "end": 406.2,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 411.2,
-      "end": 785.59,
+      "end": 422.0,
       "text": "they come together they're the uh mc5 the motor city five there and two tracks from their debut"
+    },
+    {
+      "start": 422.0,
+      "end": 785.59,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 785.59,
@@ -241,7 +265,7 @@
     },
     {
       "start": 807.55,
-      "end": 1112.22,
+      "end": 818.35,
       "text": "you probably saw the movie last saturday well this is wild on the run our session band tobrook"
     },
     {
@@ -281,8 +305,20 @@
     },
     {
       "start": 1153.9,
-      "end": 1426.4,
+      "end": 1164.1,
       "text": "Jailbait Stephen Tyler there uh his best Donald Duck vocals on Jailbait a track from the excellent"
+    },
+    {
+      "start": 1164.1,
+      "end": 1255.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 1260.0,
+      "end": 1432.38,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1426.4,
@@ -296,8 +332,14 @@
     },
     {
       "start": 1437.38,
-      "end": 1651.45,
+      "end": 1448.78,
       "text": "this is let me rock you yes the cockney rejects they're produced by uh pete way and a very"
+    },
+    {
+      "start": 1448.78,
+      "end": 1651.45,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1651.45,
@@ -321,8 +363,14 @@
     },
     {
       "start": 1669.03,
-      "end": 1997.25,
+      "end": 1673.83,
       "text": "I hope you were beating along with your"
+    },
+    {
+      "start": 1673.83,
+      "end": 1997.25,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1997.25,
@@ -410,6 +458,12 @@
       "text": "It's called I Got Your Number."
     },
     {
+      "start": 2028.41,
+      "end": 2240.66,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 2240.66,
       "end": 2243.72,
       "text": "I guess Hugh's Thrall there and a track from their debut album."
@@ -468,6 +522,12 @@
       "start": 2267.82,
       "end": 2269.1,
       "text": "See what you think. This is Marillion."
+    },
+    {
+      "start": 2340.0,
+      "end": 2521.32,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2521.32,
@@ -546,7 +606,7 @@
     },
     {
       "start": 2768.39,
-      "end": 3145.9,
+      "end": 2776.19,
       "text": "I guess we've got our Joss sticks burning brightly in the studio here"
     },
     {
@@ -661,8 +721,14 @@
     },
     {
       "start": 3196.82,
-      "end": 3513.29,
+      "end": 3208.22,
       "text": "oh yes interesting stuff there from a guy called kevin wet uh from a 12-inch ep available in import"
+    },
+    {
+      "start": 3208.22,
+      "end": 3508.29,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3513.29,
@@ -725,9 +791,10 @@
       "text": "It begins rather like this."
     },
     {
-      "start": 3577.03,
-      "end": 3610.04,
-      "text": "Butter your mind"
+      "start": 3576.57,
+      "end": 4769.89,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3610.04,
@@ -776,7 +843,7 @@
     },
     {
       "start": 3661.16,
-      "end": 4769.79,
+      "end": 3665.96,
       "text": "Yes, an extremely devious Friday Night Connection there,"
     },
     {
@@ -851,7 +918,7 @@
     },
     {
       "start": 4821.71,
-      "end": 5055.36,
+      "end": 4833.11,
       "text": "guess kiss there and keep me coming uh the track uh from their new album creatures of the night"
     },
     {
@@ -876,7 +943,7 @@
     },
     {
       "start": 5074.72,
-      "end": 5298.53,
+      "end": 5086.12,
       "text": "it's not triumph all for your love there and believe it or not that was diana ross from an"
     },
     {
@@ -906,7 +973,7 @@
     },
     {
       "start": 5324.99,
-      "end": 5596.06,
+      "end": 5333.99,
       "text": "of angels tumbling into the background there our session band tobrook third track from them"
     },
     {
@@ -946,7 +1013,7 @@
     },
     {
       "start": 5666.6,
-      "end": 6027.12,
+      "end": 5675.6,
       "text": "final selection there from our archive band tyrannosaurus rex that was hot love and preceding"
     },
     {
@@ -961,8 +1028,14 @@
     },
     {
       "start": 6038.96,
-      "end": 6268.26,
+      "end": 6050.36,
       "text": "rose tattoo there and the title track from their new album out as i said on november the 12th"
+    },
+    {
+      "start": 6120.0,
+      "end": 6268.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6268.26,
@@ -976,8 +1049,14 @@
     },
     {
       "start": 6279.28,
-      "end": 6471.3,
+      "end": 6290.08,
       "text": "from their first album welcome to hell welcome to hell they're from venom and uh track from their"
+    },
+    {
+      "start": 6300.0,
+      "end": 6722.82,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6471.3,
@@ -986,7 +1065,7 @@
     },
     {
       "start": 6475.46,
-      "end": 6722.82,
+      "end": 6486.26,
       "text": "for the final track from our session band tobrook this is motel love final track from an excellent"
     },
     {
@@ -1011,8 +1090,14 @@
     },
     {
       "start": 6741.98,
-      "end": 6994.13,
+      "end": 6753.38,
       "text": "this is tease and boys night out boys night out okay it's jeff barton signing off now next week"
+    },
+    {
+      "start": 6753.38,
+      "end": 6994.13,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6994.13,

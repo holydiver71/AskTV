@@ -120,7 +120,7 @@
   "transcript": [
     {
       "start": 1.26,
-      "end": 738.91,
+      "end": 19.26,
       "text": "Nice bit of music recorded way back in 1978 from the double live album called Live and Dangerous by Thin Lizzy. The track was called Still in Love with You."
     },
     {
@@ -275,8 +275,14 @@
     },
     {
       "start": 829.07,
-      "end": 1267.4,
+      "end": 832.67,
       "text": "It's the new single by Magnum."
+    },
+    {
+      "start": 832.67,
+      "end": 1267.46,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1267.46,
@@ -380,7 +386,7 @@
     },
     {
       "start": 1362.98,
-      "end": 1925.43,
+      "end": 1371.98,
       "text": "like that haven't heard it for donkeys came out in 1978 on the album tomato"
     },
     {
@@ -470,7 +476,7 @@
     },
     {
       "start": 1978.13,
-      "end": 2448.92,
+      "end": 1991.33,
       "text": "all the baron rojo or red baron to you and i from the album that's going to come out on october the"
     },
     {
@@ -532,6 +538,12 @@
       "start": 2498.89,
       "end": 2501.21,
       "text": "who lives near Wrexham in Wales."
+    },
+    {
+      "start": 2520.0,
+      "end": 3223.36,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3223.36,
@@ -770,8 +782,9 @@
     },
     {
       "start": 3359.68,
-      "end": 3475.46,
-      "text": "The darkness we still see."
+      "end": 3644.39,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 3475.46,
@@ -830,7 +843,7 @@
     },
     {
       "start": 3706.32,
-      "end": 3979.22,
+      "end": 3715.32,
       "text": "simon griffiths of 47 sheffield road glossop in derbyshire clue real nostalgia this ain't all"
     },
     {
@@ -870,7 +883,7 @@
     },
     {
       "start": 4019.15,
-      "end": 4525.42,
+      "end": 4025.75,
       "text": "For my Titan, it's just come out on the Camouflage label."
     },
     {
@@ -1290,8 +1303,14 @@
     },
     {
       "start": 5510.66,
-      "end": 5985.09,
+      "end": 5522.06,
       "text": "vocals it's some great playing it last may first put out on this channel last june it was that"
+    },
+    {
+      "start": 5522.06,
+      "end": 5985.09,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5985.09,
@@ -1330,7 +1349,7 @@
     },
     {
       "start": 6011.06,
-      "end": 6953.79,
+      "end": 6016.46,
       "text": "As we're a minute away from the witching hour,"
     },
     {

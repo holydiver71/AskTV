@@ -26,7 +26,9 @@
       "artist": "Jimi Hendrix Experience",
       "track": "Stone Free",
       "details": "LP-Smash Hits; Track",
-      "verified_timestamp": 360.0
+      "verified_timestamp": 360.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i can feel my heart"
     },
     {
       "artist": "ZZ Top",
@@ -38,7 +40,9 @@
       "artist": "Edgar Winter",
       "track": "Tobacco Road",
       "details": "LP-Entrance; CBS",
-      "verified_timestamp": 900.0
+      "verified_timestamp": 900.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "left me here to die"
     },
     {
       "artist": "Hawkwind",
@@ -78,7 +82,9 @@
       "artist": "Elvis Presley",
       "track": "Hound Dog",
       "details": "2xLP-Elvis Forever - 32 Great Tracks; RCA",
-      "verified_timestamp": 5220.0
+      "verified_timestamp": 5220.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "you ain t nothin but"
     },
     {
       "artist": "Propaganda",
@@ -114,13 +120,17 @@
       "artist": "Bruce Springsteen",
       "track": "Dancing In The Dark",
       "details": "LP-Born In The U.S.A.; CBS",
-      "verified_timestamp": 6660.0
+      "verified_timestamp": 6660.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "i get up in the"
     },
     {
       "artist": "Cream",
       "track": "White Room",
       "details": "LP-Best Of Cream; Polydor",
-      "verified_timestamp": 7020.0
+      "verified_timestamp": 7020.0,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "could secure you at the"
     }
   ],
   "transcript": [
@@ -131,8 +141,14 @@
     },
     {
       "start": 19.04,
-      "end": 277.41,
+      "end": 23.84,
       "text": "Well, that was ACDC and Jailbreak, Bond's version."
+    },
+    {
+      "start": 23.84,
+      "end": 277.41,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 277.41,
@@ -286,8 +302,9 @@
     },
     {
       "start": 369.98,
-      "end": 422.13,
-      "text": "Listen to this beat"
+      "end": 558.96,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 422.13,
@@ -298,11 +315,6 @@
       "start": 440.29,
       "end": 443.55,
       "text": "I can feel my heart kind of running hot"
-    },
-    {
-      "start": 443.55,
-      "end": 558.66,
-      "text": "There you go, Curly."
     },
     {
       "start": 558.96,
@@ -341,8 +353,14 @@
     },
     {
       "start": 584.7,
-      "end": 797.12,
+      "end": 587.7,
       "text": "and that was ZZ Top"
+    },
+    {
+      "start": 720.0,
+      "end": 811.94,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 797.12,
@@ -420,11 +438,6 @@
       "text": "Tobacco"
     },
     {
-      "start": 884.32,
-      "end": 912.74,
-      "text": "Talking about the honor"
-    },
-    {
       "start": 912.74,
       "end": 916.9,
       "text": "Get a job"
@@ -475,6 +488,12 @@
       "text": "what a voice that was tobacco road from edgar winter and uh this is ian gillan on the friday"
     },
     {
+      "start": 999.99,
+      "end": 1093.11,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 1073.47,
       "end": 1077.23,
       "text": "rock show i'm doing this from stowe in vermont where deep purple are recording an album at the"
@@ -506,8 +525,14 @@
     },
     {
       "start": 1103.73,
-      "end": 1608.2,
+      "end": 1114.53,
       "text": "Motorway City that was Motorway City from Hawkwind on the live 79 album oh they've been around for"
+    },
+    {
+      "start": 1114.53,
+      "end": 1608.2,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1608.2,
@@ -566,8 +591,14 @@
     },
     {
       "start": 1640.68,
-      "end": 1893.14,
+      "end": 1651.48,
       "text": "album and it's called rock of ages and that was deaf leopard and rock of ages great production"
+    },
+    {
+      "start": 1800.0,
+      "end": 1893.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1893.14,
@@ -631,7 +662,7 @@
     },
     {
       "start": 1956.97,
-      "end": 2136.5,
+      "end": 1968.37,
       "text": "Theme 1, Van de Graaff Generator. Okay, for Mr. G Bluff and everyone else who wanted to hear it,"
     },
     {
@@ -691,7 +722,7 @@
     },
     {
       "start": 2193.8,
-      "end": 4444.55,
+      "end": 2201.6,
       "text": "we are reading 1980 the Gillen band brings back some memories reading 1980"
     },
     {
@@ -736,8 +767,14 @@
     },
     {
       "start": 4481.26,
-      "end": 4745.71,
+      "end": 4490.86,
       "text": "to choose is Tommy Bolin and Teaser. That was Teaser from Tommy Bolin, who of course"
+    },
+    {
+      "start": 4500.0,
+      "end": 4745.71,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 4745.71,
@@ -856,8 +893,14 @@
     },
     {
       "start": 4802.45,
-      "end": 5121.03,
+      "end": 4806.05,
       "text": "Space Station No. 5 from Montrose"
+    },
+    {
+      "start": 4860.0,
+      "end": 5121.03,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5121.03,
@@ -960,6 +1003,12 @@
       "text": "Okay, that was Elvis Presley and Hound Dog."
     },
     {
+      "start": 5220.0,
+      "end": 5312.74,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 5289.07,
       "end": 5293.23,
       "text": "Now, I think move a million light years forward from that"
@@ -1056,8 +1105,14 @@
     },
     {
       "start": 5349.66,
-      "end": 5603.84,
+      "end": 5360.46,
       "text": "of spirit of rock and roll into that uh digital morass this is propaganda with dual all from"
+    },
+    {
+      "start": 5400.0,
+      "end": 5603.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5603.84,
@@ -1096,8 +1151,14 @@
     },
     {
       "start": 5643.66,
-      "end": 5843.68,
+      "end": 5655.06,
       "text": "blackmore what can i say since you've been gone and since you've been gone what a good song that"
+    },
+    {
+      "start": 5760.0,
+      "end": 5850.24,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5843.68,
@@ -1186,8 +1247,20 @@
     },
     {
       "start": 5889.16,
-      "end": 6331.46,
+      "end": 5901.16,
       "text": "and as it's a request it's of course whatever you want and all your mates that was uh status quo"
+    },
+    {
+      "start": 5940.0,
+      "end": 6295.0,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
+      "start": 6300.0,
+      "end": 6348.26,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6331.46,
@@ -1211,8 +1284,14 @@
     },
     {
       "start": 6353.26,
-      "end": 6597.37,
+      "end": 6364.66,
       "text": "from it called learning to fly that was learning to fly from the new elp album that's keith emerson"
+    },
+    {
+      "start": 6364.66,
+      "end": 6597.37,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6597.37,
@@ -1365,14 +1444,15 @@
       "text": "I'm just a bastard, I'm sick of this action"
     },
     {
-      "start": 6763.33,
-      "end": 6792.29,
-      "text": "This one look, we're just dancing"
-    },
-    {
       "start": 6792.29,
       "end": 6855.25,
       "text": "Dancing in the Dark from Bruce Springsteen,"
+    },
+    {
+      "start": 6792.29,
+      "end": 7015.0,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 6855.25,
@@ -1411,8 +1491,14 @@
     },
     {
       "start": 6984.37,
-      "end": 7177.77,
+      "end": 6994.57,
       "text": "station felt my own need just beginning well my charity she was kindness well that was cream"
+    },
+    {
+      "start": 7020.0,
+      "end": 7177.77,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 7177.77,

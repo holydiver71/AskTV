@@ -112,7 +112,9 @@
       "artist": "Rolling Stones",
       "track": "Cry To Me",
       "details": "Saturday Club, September 1965 Session",
-      "verified_timestamp": 686.86
+      "verified_timestamp": 686.86,
+      "lyrics_flag": true,
+      "lyrics_match_snippet": "on and cry to me"
     },
     {
       "artist": "Rolling Stones",
@@ -189,8 +191,14 @@
     },
     {
       "start": 73.8,
-      "end": 611.33,
+      "end": 81.0,
       "text": "A track from the new album that's out on Heavy Metal Records"
+    },
+    {
+      "start": 81.0,
+      "end": 611.33,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 611.33,
@@ -293,6 +301,12 @@
       "text": "She is the husband, the husband, the wife rather, of Clive Ravald and they live in Leicester and that sorts their relationship out."
     },
     {
+      "start": 680.55,
+      "end": 681.86,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 681.98,
       "end": 683.76,
       "text": "Right, now let's go back into the archives."
@@ -309,8 +323,14 @@
     },
     {
       "start": 689.62,
-      "end": 1102.86,
+      "end": 693.22,
       "text": "...called Top Gear in March 1965,"
+    },
+    {
+      "start": 693.22,
+      "end": 1103.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1103.12,
@@ -394,7 +414,7 @@
     },
     {
       "start": 1154.12,
-      "end": 1565.05,
+      "end": 1159.52,
       "text": "That album is currently out on heavy metal worldwide."
     },
     {
@@ -494,7 +514,7 @@
     },
     {
       "start": 1621.9,
-      "end": 2194.02,
+      "end": 1626.7,
       "text": "That's a track from the new Saga album."
     },
     {
@@ -634,7 +654,7 @@
     },
     {
       "start": 2277.16,
-      "end": 2890.56,
+      "end": 2280.76,
       "text": "This is Shiva. For Sammy Hagar"
     },
     {
@@ -739,12 +759,18 @@
     },
     {
       "start": 2958.98,
-      "end": 3090.91,
+      "end": 2966.18,
       "text": "Make way now for the stars of our show, The Rolling Stones."
     },
     {
+      "start": 2966.18,
+      "end": 3262.01,
+      "text": "[Music]",
+      "type": "music"
+    },
+    {
       "start": 3090.91,
-      "end": 3261.59,
+      "end": 3095.71,
       "text": "...studios on the 20th of August in 1965,"
     },
     {
@@ -864,7 +890,7 @@
     },
     {
       "start": 3350.42,
-      "end": 3864.49,
+      "end": 3357.02,
       "text": "For me, you don't even know it, you're driving me crazy."
     },
     {
@@ -894,7 +920,7 @@
     },
     {
       "start": 3986.56,
-      "end": 4322.1,
+      "end": 3991.36,
       "text": "Connection of Graham Murray, number three, David Road,"
     },
     {
@@ -1004,7 +1030,7 @@
     },
     {
       "start": 4400.25,
-      "end": 4713.21,
+      "end": 4408.05,
       "text": "And let me tell you, that is what I said before a falsehood."
     },
     {
@@ -1014,7 +1040,7 @@
     },
     {
       "start": 4732.14,
-      "end": 4930.42,
+      "end": 4739.34,
       "text": "That was Mr. Bob Seger from his new album called The Distance."
     },
     {
@@ -1169,8 +1195,14 @@
     },
     {
       "start": 5482.15,
-      "end": 5901.14,
+      "end": 5489.35,
       "text": "It was back in the days when Brian Jones was still alive"
+    },
+    {
+      "start": 5760.0,
+      "end": 5901.14,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 5901.14,

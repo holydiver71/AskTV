@@ -119,8 +119,14 @@
     },
     {
       "start": 70.73,
-      "end": 561.84,
+      "end": 73.73,
       "text": "I've forgotten"
+    },
+    {
+      "start": 360.0,
+      "end": 561.84,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 561.84,
@@ -294,8 +300,14 @@
     },
     {
       "start": 635.72,
-      "end": 1077.12,
+      "end": 638.72,
       "text": "The band are called Whiplash."
+    },
+    {
+      "start": 638.72,
+      "end": 1077.12,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1077.12,
@@ -346,6 +358,12 @@
       "start": 1105.76,
       "end": 1109.3,
       "text": "Deaf Dealer, this is from an import album out on Mercury, this is Dead Zone."
+    },
+    {
+      "start": 1440.0,
+      "end": 1701.68,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 1701.68,
@@ -401,6 +419,12 @@
       "start": 1731.44,
       "end": 1734.5,
       "text": "To take us up to the news, something nice and quiet by Sodom."
+    },
+    {
+      "start": 1980.0,
+      "end": 2072.48,
+      "text": "[Music]",
+      "type": "music"
     },
     {
       "start": 2053.32,
@@ -484,7 +508,7 @@
     },
     {
       "start": 2088.68,
-      "end": 2631.28,
+      "end": 2092.88,
       "text": "A band who know how to rage."
     },
     {
@@ -499,7 +523,7 @@
     },
     {
       "start": 2660.02,
-      "end": 4383.08,
+      "end": 2670.22,
       "text": "this country september october don't forget by which time we'll have a brand new album out for"
     },
     {
@@ -519,7 +543,7 @@
     },
     {
       "start": 4401.87,
-      "end": 4761.6,
+      "end": 4405.47,
       "text": "About October, a tour as well."
     },
     {
