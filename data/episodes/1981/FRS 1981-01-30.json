@@ -22,9 +22,7 @@
       "artist": "UFO",
       "track": "Lonely Heart",
       "details": "LP-The Wild, The Willing And The Innocent; Chrysalis",
-      "verified_timestamp": 673.52,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "when she can a little"
+      "verified_timestamp": 673.52
     },
     {
       "artist": "Pink Floyd",
@@ -106,9 +104,7 @@
     {
       "artist": "Man",
       "track": "Many Are Called But Few Get Up",
-      "details": "Peel Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "many are called but few"
+      "details": "Peel Session"
     },
     {
       "artist": "Tygers Of Pan Tang",
@@ -120,9 +116,7 @@
       "artist": "Jefferson Airplane",
       "track": "Wooden Ships",
       "details": "LP-Volunteers; RCA",
-      "verified_timestamp": 5940.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "that is something everybody everywhere"
+      "verified_timestamp": 5940.0
     },
     {
       "artist": "Yes",
@@ -190,7 +184,7 @@
     {
       "start": 72.18,
       "end": 108.66,
-      "text": "but this evening we start with this once when she can a little bit of pain deep in the night"
+      "text": "but this evening we start with this"
     },
     {
       "start": 108.66,
@@ -895,7 +889,7 @@
     {
       "start": 4200.7,
       "end": 4204.93,
-      "text": "who lives at number 10, that's right, All Saints Road, King's Seat in Birmingham."
+      "text": "who lives at [redacted address], King's Seat in Birmingham."
     },
     {
       "start": 4206.4,
@@ -1122,7 +1116,7 @@
     {
       "start": 5014.05,
       "end": 5024.85,
-      "text": "long many are called but few get up then you single by the tigers of pantang it's called"
+      "text": "long many are called but few get up then you single by the tigers of pan tang it's called"
     },
     {
       "start": 5760.0,

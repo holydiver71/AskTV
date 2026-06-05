@@ -38,9 +38,7 @@
     {
       "artist": "Yardbirds",
       "track": "Train Kept A Rollin",
-      "details": "1965 Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "the train kept a rollin"
+      "details": "1965 Session"
     },
     {
       "artist": "Xero",
@@ -85,9 +83,7 @@
     {
       "artist": "Yardbirds",
       "track": "Scratch My Back",
-      "details": "Feb 1966 Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "me back babe just scratch"
+      "details": "Feb 1966 Session"
     },
     {
       "artist": "Yardbirds",
@@ -104,9 +100,7 @@
       "artist": "Styx",
       "track": "Too Much Time On My Hands",
       "details": "7\"; A&M",
-      "verified_timestamp": 3600.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "too much time on my"
+      "verified_timestamp": 3600.0
     },
     {
       "artist": null,
@@ -750,21 +744,6 @@
       "start": 2760.61,
       "end": 2761.47,
       "text": "from the Yardbirds."
-    },
-    {
-      "start": 2952.04,
-      "end": 3027.9,
-      "text": "can i help neither you two don't turn me back babe just scratch my back babe no i should do"
-    },
-    {
-      "start": 3027.9,
-      "end": 3039.44,
-      "text": "much a better one cause you know what you could do it you could do it if you tried"
-    },
-    {
-      "start": 3039.44,
-      "end": 3057.73,
-      "text": "come along tonight and make me feel all right baby come along tonight turn me around now"
     },
     {
       "start": 3057.73,

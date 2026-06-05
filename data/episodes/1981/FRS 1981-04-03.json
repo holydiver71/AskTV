@@ -45,9 +45,7 @@
       "artist": "Roger Taylor",
       "track": "Magic Is Loose",
       "details": "LP-Roger Taylor's Fun In Space; EMI",
-      "verified_timestamp": 1032.86,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "but the calendar s wrong"
+      "verified_timestamp": 1032.86
     },
     {
       "artist": "Roger Taylor",
@@ -154,12 +152,7 @@
     }
   ],
   "transcript": [
-    {
-      "start": 1.2,
-      "end": 9.78,
-      "text": "That's it from the Radio 1 newsroom for now. It's two minutes past ten."
-    },
-    {
+     {
       "start": 9.78,
       "end": 26.34,
       "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
@@ -432,31 +425,6 @@
       "start": 1032.86,
       "end": 1034.68,
       "text": "This is called Magic Is Loose."
-    },
-    {
-      "start": 1035.18,
-      "end": 1038.98,
-      "text": "Almost like Christmas"
-    },
-    {
-      "start": 1038.98,
-      "end": 1043.74,
-      "text": "But the calendar's wrong"
-    },
-    {
-      "start": 1043.74,
-      "end": 1048.58,
-      "text": "The sun's as deafening"
-    },
-    {
-      "start": 1048.58,
-      "end": 1053.26,
-      "text": "But the feeling's strong"
-    },
-    {
-      "start": 1053.26,
-      "end": 1055.11,
-      "text": "Magic!"
     },
     {
       "start": 1055.79,
@@ -1570,12 +1538,7 @@
     {
       "start": 7206.7,
       "end": 7223.34,
-      "text": "you tomorrow five o'clock for a rock on i'm tommy vance good night and god bless and at midnight we"
-    },
-    {
-      "start": 7223.34,
-      "end": 7229.1,
-      "text": "welcome vhf listeners who've now joined us on radio 2 this is moira stewart in the midnight newsroom"
+      "text": "you tomorrow five o'clock for a rock on i'm tommy vance good night and god bless"
     }
   ]
 }

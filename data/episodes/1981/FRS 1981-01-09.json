@@ -28,9 +28,7 @@
       "artist": "April Wine",
       "track": "Sign Of The Gypsy Queen",
       "details": "LP-The Nature Of The Beast; Capitol",
-      "verified_timestamp": 180.0,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "while the darkness can help"
+      "verified_timestamp": 180.0
     },
     {
       "artist": "Pat Travers",
@@ -147,11 +145,6 @@
   ],
   "transcript": [
     {
-      "start": 1.07,
-      "end": 6.57,
-      "text": "...opened only five days ago. That's the news on Radio 1 at 2 minutes past 10."
-    },
-    {
       "start": 6.57,
       "end": 18.42,
       "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
@@ -190,11 +183,6 @@
       "start": 77.66,
       "end": 79.54,
       "text": "But this evening, we start with this."
-    },
-    {
-      "start": 105.81,
-      "end": 109.6,
-      "text": "While the darkness can help you hide"
     },
     {
       "start": 109.6,
@@ -306,7 +294,7 @@
     {
       "start": 613.84,
       "end": 619.2,
-      "text": "who lives in number 81, the Assores, Heath Charnock, Chorley in Lanx."
+      "text": "who lives in [redacted address], Heath Charnock, Chorley in Lanx."
     },
     {
       "start": 619.98,
@@ -316,7 +304,7 @@
     {
       "start": 621.18,
       "end": 622.94,
-      "text": "The Crocus track that I played the other day,"
+      "text": "The Krokus track that I played the other day,"
     },
     {
       "start": 623.0,
@@ -1392,26 +1380,6 @@
       "start": 7079.57,
       "end": 7082.07,
       "text": "Till then, goodnight and God bless"
-    },
-    {
-      "start": 7082.07,
-      "end": 7095.0,
-      "text": "It's midnight and we welcome VHF listeners"
-    },
-    {
-      "start": 7095.0,
-      "end": 7096.64,
-      "text": "who've now joined us on Radio 2"
-    },
-    {
-      "start": 7096.64,
-      "end": 7098.78,
-      "text": "This is Patrick Lunt in the Midnight Newsroom"
-    },
-    {
-      "start": 7098.78,
-      "end": 7099.98,
-      "text": "The headline"
     }
   ]
 }

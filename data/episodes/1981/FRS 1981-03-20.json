@@ -93,9 +93,7 @@
       "artist": "Ken Hensley",
       "track": "No More",
       "details": "LP-Free Spirit; Bronze",
-      "verified_timestamp": 4010.48,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "giving me the run around"
+      "verified_timestamp": 4010.48
     },
     {
       "artist": "Uriah Heep",
@@ -129,9 +127,7 @@
     {
       "artist": "Nazareth",
       "track": "Too Bad Too Sad",
-      "details": "1973 Harris Session",
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "we had a lot of"
+      "details": "1973 Harris Session"
     },
     {
       "artist": "Last Flight",
@@ -152,11 +148,6 @@
     }
   ],
   "transcript": [
-    {
-      "start": 1.04,
-      "end": 5.64,
-      "text": "...are being held hostage. That's news on Radio 1 at two and a half minutes past ten."
-    },
     {
       "start": 5.64,
       "end": 16.62,
@@ -1655,7 +1646,7 @@
     {
       "start": 6604.83,
       "end": 6605.57,
-      "text": "Pemberton Road"
+      "text": "[redacted address]"
     },
     {
       "start": 6605.57,

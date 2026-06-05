@@ -111,9 +111,7 @@
       "artist": "Grace Slick",
       "track": "Wrecking Ball",
       "details": "LP-Welcome To The Wrecking Ball!; RCA",
-      "verified_timestamp": 5133.65,
-      "lyrics_flag": true,
-      "lyrics_match_snippet": "welcome to the wrecking ball"
+      "verified_timestamp": 5133.65
     },
     {
       "artist": "Snafu",
@@ -966,7 +964,7 @@
     {
       "start": 5713.09,
       "end": 5715.49,
-      "text": "Sloan, a 35E Hayfield, Edinburgh."
+      "text": "Sloan, [redacted address], Edinburgh."
     },
     {
       "start": 5715.71,
