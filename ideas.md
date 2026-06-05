@@ -14,6 +14,13 @@
 1.10 FRS 1979-11-02 - Beatles interview?
 1.11 FRS 1979-11-16 - search for Steve Wilson ,just the one line
 1.12 FRS 1979-12-07 - t-rex session intro
+1.13 FRS 1980-03-28 - Gillan interview
+1.14 FRS 1980-04-11 - Brian Matthew introduces archive session, Alexis Corner sound bit DJ?
+1.15 FRS 1980-05-16 - Brian Matthew talking to Free? "start": 815.88,-> "start": 832.04,
+1.15 FRS 1980-05-16 - Alexis Corner (search for)
+1.15 FRS 1980-06-27 - Roger Daughtry (search for)
+1.15 FRS 1980-07-11 - TV on holiday
+1.15 FRS 1980-07-18 - TV on holiday - Ian Gillan presenting, also Roy Wood clip
+1.15 FRS 1980-07-25 - TV on holiday - Ian Gillan presenting, also Roy Wood clip
 
-# Text-to-speech
-1. have an audio button that reads out the chat bot repsonse in a TOmmy simulated voice.
+# have an audio button that reads out the chat bot repsonse in a TOmmy simulated voice.
