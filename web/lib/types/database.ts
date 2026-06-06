@@ -34,6 +34,7 @@ export type TranscriptSegment = {
   chunk_start: number;
   chunk_end: number;
   text: string;
+  source?: "TV" | "other" | null;
   // embedding: number[] — excluded; not selected in normal queries
 };
 

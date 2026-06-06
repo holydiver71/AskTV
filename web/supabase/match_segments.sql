@@ -4,7 +4,8 @@
 CREATE OR REPLACE FUNCTION match_transcript_segments(
   query_embedding  vector(512),
   match_count      int     DEFAULT 8,
-  match_threshold  float8  DEFAULT 0.45
+  match_threshold  float8  DEFAULT 0.45,
+  source_filter    text    DEFAULT NULL
 )
 RETURNS TABLE (
   id           uuid,
@@ -28,6 +29,7 @@ AS $$
   FROM transcript_segments ts
   JOIN episodes e ON e.id = ts.episode_id
   WHERE 1 - (ts.embedding <=> query_embedding) > match_threshold
+    AND (source_filter IS NULL OR ts.source = source_filter)
   ORDER BY ts.embedding <=> query_embedding
   LIMIT match_count;
 $$;

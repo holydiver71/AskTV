@@ -13,7 +13,8 @@ checks = [
     ("SUPABASE_URL", "Supabase project URL (e.g. https://<project>.supabase.co)"),
     ("SUPABASE_SERVICE_KEY", "Supabase service_role key (secret)"),
     ("SUPABASE_ANON_KEY", "Supabase anon/public key (for frontend)"),
-    ("OPENAI_API_KEY", "OpenAI API key (server-side only)")
+    ("OPENAI_API_KEY", "OpenAI API key (server-side only)"),
+    ("HUGGINGFACE_TOKEN", "HuggingFace read token for pyannote.audio models"),
 ]
 
 placeholders = set(["your-project-ref.supabase.co", "your-anon-public-key", "your-service-role-key", "sk-..."])

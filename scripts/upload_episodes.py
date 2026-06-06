@@ -68,12 +68,28 @@ def build_chunks(transcript: list[dict]) -> list[dict]:
     """
     Merge consecutive Whisper segments into ~60-second windows.
     Skips segments whose text (stripped) is in SKIP_TEXTS.
-    Returns list of {chunk_start, chunk_end, text}.
+    Returns list of {chunk_start, chunk_end, text, source}.
     """
     chunks: list[dict] = []
     window_start: float | None = None
     window_end: float | None = None
     window_texts: list[str] = []
+    window_sources: list[tuple[str, float]] = []
+
+    def resolve_source(source_spans: list[tuple[str, float]]) -> str | None:
+        totals: dict[str, float] = {}
+        for source, seconds in source_spans:
+            totals[source] = totals.get(source, 0.0) + seconds
+        if not totals:
+            return None
+        ordered = sorted(totals.items(), key=lambda item: item[1], reverse=True)
+        if len(ordered) == 1:
+            return ordered[0][0]
+        top_source, top_seconds = ordered[0]
+        second_seconds = ordered[1][1]
+        if top_seconds > second_seconds:
+            return top_source
+        return None
 
     def flush():
         if window_texts:
@@ -81,6 +97,7 @@ def build_chunks(transcript: list[dict]) -> list[dict]:
                 "chunk_start": window_start,
                 "chunk_end":   window_end,
                 "text":        " ".join(window_texts).strip(),
+                "source":      resolve_source(window_sources),
             })
 
     for seg in transcript:
@@ -99,9 +116,13 @@ def build_chunks(transcript: list[dict]) -> list[dict]:
             flush()
             window_start = seg_start
             window_texts = []
+            window_sources = []
 
         window_end = seg_end
         window_texts.append(raw_text)
+        source = seg.get("source")
+        if source in {"TV", "other"}:
+            window_sources.append((source, seg_end - seg_start))
 
     flush()
     return chunks
@@ -208,6 +229,7 @@ def replace_children(sb: Client, episode_id: str, ep_data: dict) -> dict:
             "chunk_start": c["chunk_start"],
             "chunk_end":   c["chunk_end"],
             "text":        c["text"],
+            "source":      c.get("source"),
             # embedding left NULL — vectorise_transcripts.py fills this later
         }
         for c in chunks

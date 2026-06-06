@@ -11,3 +11,5 @@ FRSAudio
 .vercel
 .env*.local
 scripts/check_moo_links.py
+data/tommy_vance_embedding.npy
+data/references/
