@@ -21,31 +21,39 @@ from resemblyzer import VoiceEncoder, preprocess_wav
 # These are segments we are CERTAIN are Tommy Vance speaking.
 # They come from well-known show intros and sign-offs in the 1981 transcripts.
 REFERENCE_SEGMENTS = [
-    # 1978
-    ("data/episodes/1978/FRS 1978-12-08.json", 2033.00, 2053.00),   # "I've got a nice card here..." — clean studio
-    ("data/episodes/1978/FRS 1978-12-01.json", 4816.60, 4841.60),   # "Beautiful track by Joan Armatrading..." — post-track link
-    # 1979
-    ("data/episodes/1979/FRS 1979-03-23.json", 4590.17, 4602.93),   # Friday Night Connection announcement
-    ("data/episodes/1979/FRS 1979-07-20.json", 2570.17, 2575.93),   # King Crimson BBC sessions mention
-    ("data/episodes/1979/FRS 1979-07-06.json", 1662.88, 1687.88),   # "Now, come on, Paul..." — show intro
-    ("data/episodes/1979/FRS 1979-11-02.json", 1655.11, 1680.11),   # "another oldie the voice of paul mccartney..." — commentary
     # 1980
+    ("data/episodes/1980/FRS 1980-07-18.json", 1819.06, 1844.06),   # "And here we go one more time..." — show link
     ("data/episodes/1980/FRS 1980-08-08.json", 23.05, 28.00),       # "This is Thomas the Clown here..." — show opening
     ("data/episodes/1980/FRS 1980-09-19.json", 4435.38, 4460.38),   # "That's the Friday Night Connection..." — dry link
     ("data/episodes/1980/FRS 1980-12-05.json", 1390.15, 1415.15),   # "10.26, and now from 1970, Elton John" — dry link
     # 1981
-    ("data/episodes/1981/FRS 1981-02-06.json", 1917.17, 1942.17),   # "Recorded in the BBC studios on the 17th..." — post-track
+    ("data/episodes/1981/FRS 1981-02-06.json", 1917.17, 1942.17),   # "Recorded in the BBC studios on the 17th..." — post-track link
     # 1982
+    ("data/episodes/1982/FRS 1982-05-07.json", 4815.59, 4840.59),   # "good luck and here's more gillan..." — show link
     ("data/episodes/1982/FRS 1982-05-14.json", 1705.00, 1716.00),   # "I hope you've enjoyed the Status Quo concert..." — dry link
+    ("data/episodes/1982/FRS 1982-07-30.json", 6511.44, 6536.44),   # "Here's where things get good and groovy" — show link
     ("data/episodes/1982/FRS 1982-08-27.json", 3796.14, 3821.14),   # "The caucus clowns of the fabulous Fandango Hotel..." — band intro
+    # 1983
+    ("data/episodes/1983/FRS 1983-08-05.json", 2712.51, 2737.51),   # "That's the artist that man has always, always been" — post-track
+    # 1984
+    ("data/episodes/1984/FRS 1984-04-27.json", 138.99, 163.99),     # "This is Tommy Vance on Radio 1." — show opening
+    ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1924.44),   # "And that is exactly how it was on BBC television..." — archive link
+    # 1985
+    ("data/episodes/1985/FRS 1985-09-06.json", 4254.84, 4279.84),   # "Almost see Roger Chapman there..." — post-track link
+    ("data/episodes/1985/FRS 1985-06-21.json", 3687.72, 3712.72),   # "this geezer just went down to the campsite..." — anecdote
+    # 1986
+    ("data/episodes/1986/FRS 1986-06-27.json", 5111.30, 5136.30),   # "Well, that was Eddie Cochran..." — post-track link
+    ("data/episodes/1986/FRS 1986-07-18.json", 5273.67, 5298.67),   # "That's just a bit of Rock the Nations" — post-track link
 ]
 
 AUDIO_DIRS = [
-    Path("FRSAudio/128kbps/1978"),
-    Path("FRSAudio/128kbps/1979"),
     Path("FRSAudio/128kbps/1980"),
     Path("FRSAudio/128kbps/1981"),
     Path("FRSAudio/128kbps/1982"),
+    Path("FRSAudio/128kbps/1983"),
+    Path("FRSAudio/128kbps/1984"),
+    Path("FRSAudio/128kbps/1985"),
+    Path("FRSAudio/128kbps/1986"),
 ]
 
 OUTPUT_PATH = Path("data/tommy_vance_embedding.npy")
