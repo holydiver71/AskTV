@@ -33,7 +33,7 @@ load_dotenv()
 
 TV_EMBEDDING_PATH = Path("data/tommy_vance_embedding.npy")
 LOG_FILE = Path("logs/diarisation_errors.log")
-TV_SIMILARITY_THRESHOLD = 0.65
+TV_SIMILARITY_THRESHOLD = 0.79
 MIN_SEGMENT_SECS = 1.0  # minimum segment duration for a reliable voice embedding
 
 STOP_REQUESTED = False
