@@ -98,6 +98,7 @@ def tag_segments(
     encoder: VoiceEncoder,
     tv_embedding: np.ndarray,
     similarity_threshold: float = TV_SIMILARITY_THRESHOLD,
+    verbose: bool = False,
 ) -> int:
     """Score each non-music segment directly against the TV voice embedding.
 
@@ -116,7 +117,7 @@ def tag_segments(
             continue
 
         tagged += 1
-        if tagged == 1 or tagged == total or tagged % 25 == 0:
+        if not verbose and (tagged == 1 or tagged == total or tagged % 25 == 0):
             print(f"  Scoring segment {tagged}/{total}...")
 
         start_s = float(seg["start"])
@@ -124,6 +125,8 @@ def tag_segments(
         duration = end_s - start_s
 
         if duration < MIN_SEGMENT_SECS:
+            if verbose:
+                print(f"  [{start_s:.2f}-{end_s:.2f}] too short → uncertain")
             seg["source"] = "uncertain"
             continue
 
@@ -144,6 +147,8 @@ def tag_segments(
 
         similarity = cosine_similarity(embedding, tv_embedding)
         seg["source"] = "TV" if similarity >= similarity_threshold else "uncertain"
+        if verbose:
+            print(f"  [{start_s:.2f}-{end_s:.2f}] similarity={similarity:.4f} → {seg['source']}")
         if seg["source"] == "TV":
             tv_count += 1
 
@@ -157,6 +162,7 @@ def process_episode(
     json_path: Path,
     retag: bool = False,
     similarity_threshold: float = TV_SIMILARITY_THRESHOLD,
+    verbose: bool = False,
 ) -> str:
     """Process one episode: score each segment against TV embedding, write back."""
     print(f"Processing {mp3_path.name}")
@@ -188,7 +194,7 @@ def process_episode(
     try:
         print("  Step 1/2: scoring segments against TV embedding...")
         tv_count = tag_segments(
-            mp3_path, transcript, encoder, tv_embedding, similarity_threshold
+            mp3_path, transcript, encoder, tv_embedding, similarity_threshold, verbose
         )
     except Exception as exc:
         log_error(f"{mp3_path.name}: Scoring failed: {exc}")
@@ -261,6 +267,11 @@ def main() -> int:
         default="auto",
         help="Runtime device for resemblyzer embeddings (default: auto)",
     )
+    parser.add_argument(
+        "--verbose",
+        action="store_true",
+        help="Print similarity score and tag for every segment",
+    )
     args = parser.parse_args()
 
     try:
@@ -305,6 +316,7 @@ def main() -> int:
             json_path,
             args.retag,
             similarity_threshold=args.threshold,
+            verbose=args.verbose,
         )
         print(f"\nResult: {status}")
         return 0
@@ -347,6 +359,7 @@ def main() -> int:
                 json_path,
                 args.retag,
                 similarity_threshold=args.threshold,
+                verbose=args.verbose,
             )
             if status == "tagged":
                 grand_tagged += 1
