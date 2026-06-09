@@ -47,6 +47,9 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1986/FRS 1986-10-10.json", 7.10, 29.71),        # "Oh hello there, this is TV on the Radio, Thomas Vance..." — show opening
 ]
 
+CHUNK_SECONDS = 10.0   # clips longer than this are split into chunks of this length
+CHUNK_MIN_SECONDS = 4.0  # discard tail chunks shorter than this
+
 AUDIO_DIRS = [
     Path("FRSAudio/128kbps/1980"),
     Path("FRSAudio/128kbps/1981"),
@@ -70,24 +73,52 @@ def find_mp3(date: str) -> Path | None:
     return None
 
 
-def extract_clip(mp3_path: Path, start_s: float, end_s: float, ref_name: str | None = None) -> np.ndarray:
-    """Load an audio clip and return it as a float32 numpy array at 16 kHz."""
+def _wav_from_segment(segment: AudioSegment) -> np.ndarray:
+    """Export a pydub AudioSegment to a temp WAV and return preprocessed array."""
+    with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
+        tmp_path = Path(tmp.name)
+    try:
+        segment.export(tmp_path, format="wav")
+        return preprocess_wav(tmp_path)
+    finally:
+        tmp_path.unlink(missing_ok=True)
+
+
+def extract_chunks(
+    mp3_path: Path,
+    start_s: float,
+    end_s: float,
+    ref_name: str | None = None,
+) -> list[np.ndarray]:
+    """Extract audio and return one preprocessed array per chunk.
+
+    Clips shorter than CHUNK_SECONDS are returned as a single chunk.
+    Longer clips are split into CHUNK_SECONDS-length pieces; any tail
+    shorter than CHUNK_MIN_SECONDS is discarded.
+    """
     audio = AudioSegment.from_mp3(str(mp3_path))
     clip = audio[int(start_s * 1000): int(end_s * 1000)]
     clip = clip.set_frame_rate(16000).set_channels(1)
+
+    duration_s = len(clip) / 1000.0
 
     if ref_name is not None:
         REFS_DIR.mkdir(parents=True, exist_ok=True)
         clip.export(str(REFS_DIR / ref_name), format="wav")
 
-    with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
-        tmp_path = Path(tmp.name)
+    if duration_s <= CHUNK_SECONDS:
+        return [_wav_from_segment(clip)]
 
-    try:
-        clip.export(tmp_path, format="wav")
-        return preprocess_wav(tmp_path)
-    finally:
-        tmp_path.unlink(missing_ok=True)
+    chunks = []
+    chunk_ms = int(CHUNK_SECONDS * 1000)
+    offset_ms = 0
+    while offset_ms < len(clip):
+        piece = clip[offset_ms: offset_ms + chunk_ms]
+        if len(piece) / 1000.0 >= CHUNK_MIN_SECONDS:
+            chunks.append(_wav_from_segment(piece))
+        offset_ms += chunk_ms
+
+    return chunks
 
 
 def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
@@ -113,10 +144,11 @@ def main() -> None:
         duration = end_s - start_s
         print(f"  Extracting {date} @ {start_s:.1f}s–{end_s:.1f}s ({duration:.1f}s)...")
         clip_name = f"{date}_{start_s:.2f}_{end_s:.2f}.wav"
-        wav = extract_clip(mp3, start_s, end_s, ref_name=clip_name)
-        embedding = np.asarray(encoder.embed_utterance(wav), dtype=np.float32)
-        embeddings.append(embedding)
-        print(f"    → embedding shape: {embedding.shape}, norm: {np.linalg.norm(embedding):.3f}")
+        chunks = extract_chunks(mp3, start_s, end_s, ref_name=clip_name)
+        for chunk_idx, wav in enumerate(chunks):
+            embedding = np.asarray(encoder.embed_utterance(wav), dtype=np.float32)
+            embeddings.append(embedding)
+        print(f"    → {len(chunks)} chunk(s), {len(embeddings)} embeddings so far")
 
     if not embeddings:
         print("ERROR: No reference clips extracted. Check your AUDIO_DIRS paths.")
@@ -125,11 +157,11 @@ def main() -> None:
     mean_embedding = np.mean(embeddings, axis=0)
     np.save(OUTPUT_PATH, mean_embedding)
     print(f"\nSaved Tommy Vance embedding to {OUTPUT_PATH}")
-    print(f"Built from {len(embeddings)} reference clips.")
-    print("\nSpot-check — cosine similarities between each clip and the mean:")
+    print(f"Built from {len(embeddings)} embeddings across {len(REFERENCE_SEGMENTS)} reference segments.")
+    print("\nSpot-check — cosine similarities between each embedding and the mean:")
     for index, embedding in enumerate(embeddings):
         similarity = cosine_similarity(embedding, mean_embedding)
-        print(f"  Clip {index + 1}: {similarity:.4f}  (should be ≥ 0.80)")
+        print(f"  Embedding {index + 1:>2}: {similarity:.4f}  (should be ≥ 0.80)")
 
 
 if __name__ == "__main__":
