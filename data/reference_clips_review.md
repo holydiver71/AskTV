@@ -78,23 +78,14 @@ Mark each clip as `TV` (keep), `LYRICS` (remove), or `UNCERTAIN` (needs audio ch
 
 ---
 
-## Clip 07 — FRS 1982-05-14 [1705.0s – 1716.0s]
+## Clip 07 — FRS 1982-06-18 [12.11s – 28.45s]
 **Status:** 
 
 ```
-[  1675.80 – 1682.69 ] lots of love from heidi and mr woogok off whatever that is and phil that is p or
-[  1682.69 – 1688.65 ] lives near exeter in devon says happy birthday to fiona whose birthday is tomorr
-[  1688.65 – 1691.45 ] It's the Edge Hill College in Biddeford in North Devon.
-[  1692.07 – 1701.89 ] You're listening to the Friday Rock Show from BBC Radio 1.
-[  1702.01 – 1704.43 ] I hope you've enjoyed the coverage of the Status Quo concert
-[  1704.43 – 1707.09 ] live from the NEC tonight on BBC 1.
-[  1707.17 – 1709.75 ] How I'm here and on television at the same time, ◀ CLIP
-[  1709.79 – 1710.83 ] well, it's all done with mirrors. ◀ CLIP
-[  1711.37 – 1714.37 ] I'm not actually here, I'm actually in the NEC in Birmingham. ◀ CLIP
-[  1714.75 – 1716.63 ] Mr Wilson is not actually here either. ◀ CLIP
-[  1716.89 – 1719.97 ] He is actually in the recording truck behind the NEC in Birmingham
-[  1719.97 – 1724.35 ] because next Friday we're going to put out the whole of the Status Quo concert,
-[  1724.35 – 1726.49 ] part of which you've just seen on BBC One.
+[     6.35 – 12.11   ] On 275 and 285. Also in stereo on VHF. This is National Radio 1.
+[    12.11 – 28.45   ] Hello there, this is TV on the Radio here, Thomas the Vance, and welcome once ag ◀ CLIP
+[    28.45 – 36.51   ] Okay, on this not-so-barmy summer's evening, we have out of the archives, record ◀ CLIP
+[    36.51 – 42.51   ] Featuring David Greenslade, plus the repeat of our recent set by the group calle
 ```
 
 ---
@@ -120,21 +111,23 @@ Mark each clip as `TV` (keep), `LYRICS` (remove), or `UNCERTAIN` (needs audio ch
 
 ---
 
-## Clip 10 — FRS 1984-04-27 [138.99s – 163.99s]
-**Status:** 
-
-```
-[   138.99 – 211.72  ] This is Tommy Vance on Radio 1. ◀ CLIP
-```
-
----
-
-## Clip 11 — FRS 1984-05-18 [1899.44s – 1924.44s]
+## Clip 10 — FRS 1984-05-18 [1899.44s – 1924.44s]
 **Status:** 
 
 ```
 [  1890.90 – 1894.44 ] We'd like to dedicate it to Eric Clapton, Ginger Baker and Jack Bruce.
 [  1899.44 – 1974.84 ] And that is exactly how it was on BBC television on the 25th of September 1967. ◀ CLIP
+```
+
+---
+
+## Clip 11 — FRS 1984-10-19 [9.02s – 33.02s]
+**Status:** 
+
+```
+[     1.71 – 9.02    ] On Medium Wave and FM Stereo, this is Radio 1.
+[     9.02 – 33.02   ] This is TV on the Radio, here's Thomas Vance, and welcome once again to The Frid ◀ CLIP
+[    33.02 – 45.58   ] We have two sessions for you tonight, a repeat of Dirty Strangers. They're a sev ◀ CLIP
 ```
 
 ---

@@ -31,13 +31,13 @@ REFERENCE_SEGMENTS = [
     # 1982
     ("data/episodes/1982/FRS 1982-01-22.json", 1.17, 19.48),        # "This is TV on the radio here, Thomas the Vance..." — show opening
     ("data/episodes/1982/FRS 1982-05-07.json", 4815.59, 4840.59),   # "good luck and here's more gillan..." — show link
-    ("data/episodes/1982/FRS 1982-05-14.json", 1705.00, 1716.00),   # "I hope you've enjoyed the Status Quo concert..." — dry link
+    ("data/episodes/1982/FRS 1982-06-18.json", 12.11, 28.45),       # "Hello there, this is TV on the Radio here, Thomas the Vance..." — show opening
     # 1983
     ("data/episodes/1983/FRS 1983-03-04.json", 12.62, 35.18),       # "This is TV on the Radio here, Thomas Vance, and welcome..." — show opening
     ("data/episodes/1983/FRS 1983-08-05.json", 2712.51, 2737.51),   # "That's the artist that man has always, always been" — post-track
     # 1984
-    ("data/episodes/1984/FRS 1984-04-27.json", 138.99, 163.99),     # "This is Tommy Vance on Radio 1." — show opening
     ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1924.44),   # "And that is exactly how it was on BBC television..." — archive link
+    ("data/episodes/1984/FRS 1984-10-19.json", 9.02, 33.02),        # "This is TV on the Radio, here's Thomas Vance, and welcome..." — show opening
     # 1985
     ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 34.36),        # "This is TV on the radio, Thomas the Vance here, the music vendor..." — show opening
     ("data/episodes/1985/FRS 1985-11-22.json", 9.16, 33.45),        # "This is TV on the Radio, Thomas Vance here, the music vendor..." — show opening
