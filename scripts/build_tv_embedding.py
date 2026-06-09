@@ -40,19 +40,19 @@ REFERENCE_WAVS = [
 REFERENCE_SEGMENTS = [
     # 1980
     ("data/episodes/1980/FRS 1980-08-08.json", 23.05, 28.00),       # "This is Thomas the Clown here..." — show opening
-    ("data/episodes/1980/FRS 1980-12-05.json", 1390.15, 1415.15),   # "10.26, and now from 1970, Elton John" — dry link
+    ("data/episodes/1980/FRS 1980-12-05.json", 1390.15, 1396.0),    # "10.26, and now from 1970, Elton John" — trimmed: song starts at ~1396s
     # 1981
     ("data/episodes/1981/FRS 1981-04-10.json", 4.18, 20.52),        # "This is TV on the Radio here, Thomas the Vance..." — show opening
     ("data/episodes/1981/FRS 1981-07-10.json", 1.07, 20.25),        # "This is National Radio 1. Well, hello there..." — show opening
     # 1982
     ("data/episodes/1982/FRS 1982-01-22.json", 1.17, 19.48),        # "This is TV on the radio here, Thomas the Vance..." — show opening
-    ("data/episodes/1982/FRS 1982-05-07.json", 4815.59, 4840.59),   # "good luck and here's more gillan..." — show link
+    ("data/episodes/1982/FRS 1982-05-07.json", 4815.59, 4825.0),    # "good luck and here's more gillan..." — trimmed to first chunk before music fades in
     ("data/episodes/1982/FRS 1982-06-18.json", 12.11, 28.45),       # "Hello there, this is TV on the Radio here, Thomas the Vance..." — show opening
     # 1983
     ("data/episodes/1983/FRS 1983-01-21.json", 4685.0, 4693.0),     # "Friday Night Connection, Friday Rock Show, BBC Radio 1..." — address link
-    ("data/episodes/1983/FRS 1983-03-04.json", 12.62, 35.18),       # "This is TV on the Radio here, Thomas Vance, and welcome..." — show opening
+    ("data/episodes/1983/FRS 1983-03-04.json", 12.62, 23.0),         # "This is TV on the Radio here, Thomas Vance, and welcome..." — trimmed to one clean chunk
     ("data/episodes/1983/FRS 1983-03-25.json", 7005.0, 7019.0),     # "Next week on the Friday Rock Show, you can hear part two..." — sign-off link
-    ("data/episodes/1983/FRS 1983-08-05.json", 2712.51, 2737.51),   # "That's the artist that man has always, always been" — post-track
+    ("data/episodes/1983/FRS 1983-08-05.json", 2718.0, 2737.51),    # "That's the artist that man has always, always been" — start advanced 5s to skip music fade-out
     # 1984
     ("data/episodes/1984/FRS 1984-04-13.json", 24.0, 44.0),         # "I hope you're all right... during the next couple of hours..." — show opening
     ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1924.44),   # "And that is exactly how it was on BBC television..." — archive link
@@ -61,7 +61,7 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 34.36),        # "This is TV on the radio, Thomas the Vance here..." — show opening
     ("data/episodes/1985/FRS 1985-06-14.json", 530.0, 578.0),       # "A repeat session by them tonight. Before that, you heard..." — dry link
     ("data/episodes/1985/FRS 1985-06-14.json", 1132.0, 1143.0),     # "I'm going to listen to it again tonight..." — anecdote
-    ("data/episodes/1985/FRS 1985-11-08.json", 4840.0, 4920.0),     # "here on the Friday Rock Show from BBC Radio 1..." — mid-show link
+    ("data/episodes/1985/FRS 1985-11-08.json", 4840.0, 4870.0),     # "here on the Friday Rock Show from BBC Radio 1..." — trimmed to 3 chunks, 4th+ had music bed
     ("data/episodes/1985/FRS 1985-11-22.json", 9.16, 33.45),        # "This is TV on the Radio, Thomas Vance here..." — show opening
     # 1986
     ("data/episodes/1986/FRS 1986-01-24.json", 14.74, 36.36),       # "This is TV on the Radio, Thomas Vance here..." — show opening
@@ -72,7 +72,7 @@ REFERENCE_SEGMENTS = [
 ]
 
 CHUNK_SECONDS = 10.0        # clips longer than this are split into this-length chunks
-CHUNK_MIN_SECONDS = 4.0     # discard tail chunks shorter than this
+CHUNK_MIN_SECONDS = 6.0     # discard tail chunks shorter than this (raised from 4s to drop unreliable short tails)
 MAX_CHUNKS_PER_SEGMENT = 5  # cap embeddings per segment so no single clip dominates the mean
 
 AUDIO_DIRS = [
@@ -158,6 +158,7 @@ def main() -> None:
 
     encoder = VoiceEncoder()
     embeddings: list[np.ndarray] = []
+    labels: list[str] = []
 
     # --- WAV sources ---
     print("Loading pre-validated WAV references...")
@@ -166,8 +167,9 @@ def main() -> None:
             print(f"  WARNING: {wav_path} not found — skipping")
             continue
         chunks = extract_chunks_from_wav(wav_path)
-        for wav in chunks:
+        for chunk_idx, wav in enumerate(chunks):
             embeddings.append(np.asarray(encoder.embed_utterance(wav), dtype=np.float32))
+            labels.append(f"{wav_path.stem} chunk {chunk_idx + 1}/{len(chunks)}")
         print(f"  {wav_path.name}  → {len(chunks)} chunk(s)")
 
     # --- MP3-based segments ---
@@ -184,8 +186,10 @@ def main() -> None:
         print(f"  {date} @ {start_s:.1f}–{end_s:.1f}s ({duration:.0f}s)...")
         clip_name = f"{date}_{start_s:.2f}_{end_s:.2f}.wav"
         chunks = extract_chunks_from_mp3(mp3, start_s, end_s, ref_name=clip_name)
-        for wav in chunks:
+        for chunk_idx, wav in enumerate(chunks):
             embeddings.append(np.asarray(encoder.embed_utterance(wav), dtype=np.float32))
+            offset = start_s + chunk_idx * CHUNK_SECONDS
+            labels.append(f"{date} {offset:.0f}–{min(offset + CHUNK_SECONDS, end_s):.0f}s")
         print(f"    → {len(chunks)} chunk(s), {len(embeddings)} embeddings total")
 
     if not embeddings:
@@ -197,9 +201,10 @@ def main() -> None:
     print(f"\nSaved Tommy Vance embedding to {OUTPUT_PATH}")
     print(f"Built from {len(embeddings)} embeddings ({len(REFERENCE_WAVS)} WAV sources + {len(REFERENCE_SEGMENTS)} MP3 segments).")
     print("\nSpot-check — cosine similarities between each embedding and the mean:")
-    for index, embedding in enumerate(embeddings):
+    for index, (embedding, label) in enumerate(zip(embeddings, labels)):
         similarity = cosine_similarity(embedding, mean_embedding)
-        print(f"  Embedding {index + 1:>2}: {similarity:.4f}  (should be ≥ 0.80)")
+        flag = "  *** BELOW 0.80 ***" if similarity < 0.80 else ""
+        print(f"  {index + 1:>2}: {similarity:.4f}  {label}{flag}")
 
 
 if __name__ == "__main__":
