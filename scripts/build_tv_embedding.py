@@ -19,31 +19,32 @@ from resemblyzer import VoiceEncoder, preprocess_wav
 
 # Each entry is (json_path, start_seconds, end_seconds)
 # These are segments we are CERTAIN are Tommy Vance speaking.
-# They come from well-known show intros and sign-offs in the 1981 transcripts.
+# All new entries use show openings: "This is TV on the Radio, Thomas Vance..."
+# which are unambiguously Tommy with no other voices or music.
 REFERENCE_SEGMENTS = [
     # 1980
-    ("data/episodes/1980/FRS 1980-07-18.json", 1819.06, 1844.06),   # "And here we go one more time..." — show link
     ("data/episodes/1980/FRS 1980-08-08.json", 23.05, 28.00),       # "This is Thomas the Clown here..." — show opening
-    ("data/episodes/1980/FRS 1980-09-19.json", 4435.38, 4460.38),   # "That's the Friday Night Connection..." — dry link
     ("data/episodes/1980/FRS 1980-12-05.json", 1390.15, 1415.15),   # "10.26, and now from 1970, Elton John" — dry link
     # 1981
-    ("data/episodes/1981/FRS 1981-02-06.json", 1917.17, 1942.17),   # "Recorded in the BBC studios on the 17th..." — post-track link
+    ("data/episodes/1981/FRS 1981-04-10.json", 4.18, 20.52),        # "This is TV on the Radio here, Thomas the Vance..." — show opening
+    ("data/episodes/1981/FRS 1981-07-10.json", 1.07, 20.25),        # "This is National Radio 1. Well, hello there. This is TV on the Radio..." — show opening
     # 1982
+    ("data/episodes/1982/FRS 1982-01-22.json", 1.17, 19.48),        # "This is TV on the radio here, Thomas the Vance..." — show opening
     ("data/episodes/1982/FRS 1982-05-07.json", 4815.59, 4840.59),   # "good luck and here's more gillan..." — show link
     ("data/episodes/1982/FRS 1982-05-14.json", 1705.00, 1716.00),   # "I hope you've enjoyed the Status Quo concert..." — dry link
-    ("data/episodes/1982/FRS 1982-07-30.json", 6511.44, 6536.44),   # "Here's where things get good and groovy" — show link
-    ("data/episodes/1982/FRS 1982-08-27.json", 3796.14, 3821.14),   # "The caucus clowns of the fabulous Fandango Hotel..." — band intro
     # 1983
+    ("data/episodes/1983/FRS 1983-03-04.json", 12.62, 35.18),       # "This is TV on the Radio here, Thomas Vance, and welcome..." — show opening
     ("data/episodes/1983/FRS 1983-08-05.json", 2712.51, 2737.51),   # "That's the artist that man has always, always been" — post-track
     # 1984
     ("data/episodes/1984/FRS 1984-04-27.json", 138.99, 163.99),     # "This is Tommy Vance on Radio 1." — show opening
     ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1924.44),   # "And that is exactly how it was on BBC television..." — archive link
     # 1985
-    ("data/episodes/1985/FRS 1985-09-06.json", 4254.84, 4279.84),   # "Almost see Roger Chapman there..." — post-track link
-    ("data/episodes/1985/FRS 1985-06-21.json", 3687.72, 3712.72),   # "this geezer just went down to the campsite..." — anecdote
+    ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 34.36),        # "This is TV on the radio, Thomas the Vance here, the music vendor..." — show opening
+    ("data/episodes/1985/FRS 1985-11-22.json", 9.16, 33.45),        # "This is TV on the Radio, Thomas Vance here, the music vendor..." — show opening
     # 1986
-    ("data/episodes/1986/FRS 1986-06-27.json", 5111.30, 5136.30),   # "Well, that was Eddie Cochran..." — post-track link
-    ("data/episodes/1986/FRS 1986-07-18.json", 5273.67, 5298.67),   # "That's just a bit of Rock the Nations" — post-track link
+    ("data/episodes/1986/FRS 1986-01-24.json", 14.74, 36.36),       # "This is TV on the Radio, Thomas Vance here, the music vendor..." — show opening
+    ("data/episodes/1986/FRS 1986-09-12.json", 9.52, 39.18),        # "Hello there, this is TV on the Radio, Thomas Vance..." — show opening
+    ("data/episodes/1986/FRS 1986-10-10.json", 7.10, 29.71),        # "Oh hello there, this is TV on the Radio, Thomas Vance..." — show opening
 ]
 
 AUDIO_DIRS = [
