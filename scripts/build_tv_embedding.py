@@ -54,7 +54,6 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1983/FRS 1983-03-25.json", 7005.0, 7019.0),     # "Next week on the Friday Rock Show, you can hear part two..." — sign-off link
     # 1984
     ("data/episodes/1984/FRS 1984-04-13.json", 24.0, 44.0),         # "I hope you're all right... during the next couple of hours..." — show opening
-    ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1909.0),     # "And that is exactly how it was on BBC television..." — trimmed to first chunk, music fades in after
     ("data/episodes/1984/FRS 1984-10-19.json", 9.02, 33.02),        # "This is TV on the Radio, here's Thomas Vance, and welcome..." — show opening
     # 1985
     ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 12.0),          # "This is TV on the radio, Thomas the Vance here..." — trimmed to first clean chunk
@@ -63,7 +62,7 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1985/FRS 1985-11-08.json", 4840.0, 4870.0),     # "here on the Friday Rock Show from BBC Radio 1..." — trimmed to 3 chunks, 4th+ had music bed
     # 1986
 
-    ("data/episodes/1986/FRS 1986-04-04.json", 730.0, 1200.0),      # "Now, Judas Priest, of course, come from Wolverhampton..." — extended link (capped)
+    ("data/episodes/1986/FRS 1986-04-04.json", 760.0, 1200.0),      # "Now, Judas Priest, of course, come from Wolverhampton..." — start advanced to 760s to skip bad chunk at 750-760s
     ("data/episodes/1986/FRS 1986-04-04.json", 5407.0, 5463.0),     # "Before that you heard The Alliance..." — post-track link
     ("data/episodes/1986/FRS 1986-09-12.json", 9.52, 39.18),        # "Hello there, this is TV on the Radio, Thomas Vance..." — show opening
     ("data/episodes/1986/FRS 1986-10-10.json", 7.10, 29.71),        # "Oh hello there, this is TV on the Radio, Thomas Vance..." — show opening
