@@ -42,7 +42,7 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1980/FRS 1980-08-08.json", 23.05, 28.00),       # "This is Thomas the Clown here..." — show opening
     ("data/episodes/1980/FRS 1980-12-05.json", 1390.15, 1396.0),    # "10.26, and now from 1970, Elton John" — trimmed: song starts at ~1396s
     # 1981
-    ("data/episodes/1981/FRS 1981-04-10.json", 4.18, 20.52),        # "This is TV on the Radio here, Thomas the Vance..." — show opening
+    ("data/episodes/1981/FRS 1981-04-10.json", 10.0, 20.52),         # "This is TV on the Radio here, Thomas the Vance..." — start advanced to 10s to skip announcer bleed
     ("data/episodes/1981/FRS 1981-07-10.json", 1.07, 20.25),        # "This is National Radio 1. Well, hello there..." — show opening
     # 1982
     ("data/episodes/1982/FRS 1982-01-22.json", 1.17, 19.48),        # "This is TV on the radio here, Thomas the Vance..." — show opening
@@ -54,7 +54,7 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1983/FRS 1983-03-25.json", 7005.0, 7019.0),     # "Next week on the Friday Rock Show, you can hear part two..." — sign-off link
     # 1984
     ("data/episodes/1984/FRS 1984-04-13.json", 24.0, 44.0),         # "I hope you're all right... during the next couple of hours..." — show opening
-    ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1924.44),   # "And that is exactly how it was on BBC television..." — archive link
+    ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1909.0),     # "And that is exactly how it was on BBC television..." — trimmed to first chunk, music fades in after
     ("data/episodes/1984/FRS 1984-10-19.json", 9.02, 33.02),        # "This is TV on the Radio, here's Thomas Vance, and welcome..." — show opening
     # 1985
     ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 12.0),          # "This is TV on the radio, Thomas the Vance here..." — trimmed to first clean chunk
@@ -62,7 +62,7 @@ REFERENCE_SEGMENTS = [
     ("data/episodes/1985/FRS 1985-06-14.json", 1132.0, 1143.0),     # "I'm going to listen to it again tonight..." — anecdote
     ("data/episodes/1985/FRS 1985-11-08.json", 4840.0, 4870.0),     # "here on the Friday Rock Show from BBC Radio 1..." — trimmed to 3 chunks, 4th+ had music bed
     # 1986
-    ("data/episodes/1986/FRS 1986-01-24.json", 14.74, 25.0),         # "This is TV on the Radio, Thomas Vance here..." — trimmed to first clean chunk
+
     ("data/episodes/1986/FRS 1986-04-04.json", 730.0, 1200.0),      # "Now, Judas Priest, of course, come from Wolverhampton..." — extended link (capped)
     ("data/episodes/1986/FRS 1986-04-04.json", 5407.0, 5463.0),     # "Before that you heard The Alliance..." — post-track link
     ("data/episodes/1986/FRS 1986-09-12.json", 9.52, 39.18),        # "Hello there, this is TV on the Radio, Thomas Vance..." — show opening
