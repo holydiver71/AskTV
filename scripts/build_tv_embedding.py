@@ -198,6 +198,12 @@ def main() -> None:
     np.save(OUTPUT_PATH, mean_embedding)
     print(f"\nSaved Tommy Vance embedding to {OUTPUT_PATH}")
     print(f"Built from {len(embeddings)} embeddings ({len(REFERENCE_WAVS)} WAV sources + {len(REFERENCE_SEGMENTS)} MP3 segments).")
+    # Remove MP3-derived WAVs — keep only the manually curated REFERENCE_WAVS
+    curated = {p.name for p in REFERENCE_WAVS}
+    for wav in REFS_DIR.glob("*.wav"):
+        if wav.name not in curated:
+            wav.unlink()
+
     print("\nSpot-check — cosine similarities between each embedding and the mean:")
     for index, (embedding, label) in enumerate(zip(embeddings, labels)):
         similarity = cosine_similarity(embedding, mean_embedding)
