@@ -14,3 +14,9 @@ data/references wav files. Extract embedding from the filenames:
 1979-03-23_4590.17_4602.93.wav
 1980-08-08_6757.05_6767.00.wav
 1982-05-14_1705.00_1716.00.wav
+
+clips with cosine below 0.8
+23: 0.7821  1983-08-05 2728–2738s  *** BELOW 0.80 ***
+31: 0.7694  1985-01-18 12–22s  *** BELOW 0.80 ***
+41: 0.7796  1985-11-22 9–19s  *** BELOW 0.80 ***
+43: 0.7979  1986-01-24 15–25s  *** BELOW 0.80 ***
