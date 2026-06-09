@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
 """Build a Tommy Vance voice embedding from known-good speech segments.
 
-Reads JSON transcript files to find segments that are definitely Tommy talking,
-extracts those moments from the matching MP3s, and produces an average voice
-fingerprint saved to data/tommy_vance_embedding.npy.
+Two source types are merged:
+  REFERENCE_WAVS     — pre-validated WAV files in data/references/, loaded directly.
+  REFERENCE_SEGMENTS — (json_path, start_s, end_s) tuples, extracted from MP3s at runtime.
+
+Clips longer than CHUNK_SECONDS are split into non-overlapping chunks so that
+each 10-second window contributes its own d-vector to the mean. Chunks per
+segment are capped at MAX_CHUNKS_PER_SEGMENT to prevent any single long clip
+from dominating the mean embedding.
 
 Run once before diarise_transcripts.py:
     python scripts/build_tv_embedding.py
@@ -17,38 +22,58 @@ import numpy as np
 from pydub import AudioSegment
 from resemblyzer import VoiceEncoder, preprocess_wav
 
-# Each entry is (json_path, start_seconds, end_seconds)
-# These are segments we are CERTAIN are Tommy Vance speaking.
-# All new entries use show openings: "This is TV on the Radio, Thomas Vance..."
-# which are unambiguously Tommy with no other voices or music.
+# ---------------------------------------------------------------------------
+# Pre-validated WAV clips — loaded directly, no MP3 required.
+# Filenames encode source: YYYY-MM-DD_start_end.wav
+# ---------------------------------------------------------------------------
+REFERENCE_WAVS = [
+    Path("data/references/1978-12-08_2033.00_2053.00.wav"),
+    Path("data/references/1978-12-08_3543.52_3567.81.wav"),
+    Path("data/references/1979-03-23_4590.17_4602.93.wav"),
+    Path("data/references/1980-08-08_6757.05_6767.00.wav"),
+    Path("data/references/1982-05-14_1705.00_1716.00.wav"),
+]
+
+# ---------------------------------------------------------------------------
+# MP3-based segments — (json_path, start_seconds, end_seconds)
+# ---------------------------------------------------------------------------
 REFERENCE_SEGMENTS = [
     # 1980
     ("data/episodes/1980/FRS 1980-08-08.json", 23.05, 28.00),       # "This is Thomas the Clown here..." — show opening
     ("data/episodes/1980/FRS 1980-12-05.json", 1390.15, 1415.15),   # "10.26, and now from 1970, Elton John" — dry link
     # 1981
     ("data/episodes/1981/FRS 1981-04-10.json", 4.18, 20.52),        # "This is TV on the Radio here, Thomas the Vance..." — show opening
-    ("data/episodes/1981/FRS 1981-07-10.json", 1.07, 20.25),        # "This is National Radio 1. Well, hello there. This is TV on the Radio..." — show opening
+    ("data/episodes/1981/FRS 1981-07-10.json", 1.07, 20.25),        # "This is National Radio 1. Well, hello there..." — show opening
     # 1982
     ("data/episodes/1982/FRS 1982-01-22.json", 1.17, 19.48),        # "This is TV on the radio here, Thomas the Vance..." — show opening
     ("data/episodes/1982/FRS 1982-05-07.json", 4815.59, 4840.59),   # "good luck and here's more gillan..." — show link
     ("data/episodes/1982/FRS 1982-06-18.json", 12.11, 28.45),       # "Hello there, this is TV on the Radio here, Thomas the Vance..." — show opening
     # 1983
+    ("data/episodes/1983/FRS 1983-01-21.json", 4685.0, 4693.0),     # "Friday Night Connection, Friday Rock Show, BBC Radio 1..." — address link
     ("data/episodes/1983/FRS 1983-03-04.json", 12.62, 35.18),       # "This is TV on the Radio here, Thomas Vance, and welcome..." — show opening
+    ("data/episodes/1983/FRS 1983-03-25.json", 7005.0, 7019.0),     # "Next week on the Friday Rock Show, you can hear part two..." — sign-off link
     ("data/episodes/1983/FRS 1983-08-05.json", 2712.51, 2737.51),   # "That's the artist that man has always, always been" — post-track
     # 1984
+    ("data/episodes/1984/FRS 1984-04-13.json", 24.0, 44.0),         # "I hope you're all right... during the next couple of hours..." — show opening
     ("data/episodes/1984/FRS 1984-05-18.json", 1899.44, 1924.44),   # "And that is exactly how it was on BBC television..." — archive link
     ("data/episodes/1984/FRS 1984-10-19.json", 9.02, 33.02),        # "This is TV on the Radio, here's Thomas Vance, and welcome..." — show opening
     # 1985
-    ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 34.36),        # "This is TV on the radio, Thomas the Vance here, the music vendor..." — show opening
-    ("data/episodes/1985/FRS 1985-11-22.json", 9.16, 33.45),        # "This is TV on the Radio, Thomas Vance here, the music vendor..." — show opening
+    ("data/episodes/1985/FRS 1985-01-18.json", 1.71, 34.36),        # "This is TV on the radio, Thomas the Vance here..." — show opening
+    ("data/episodes/1985/FRS 1985-06-14.json", 530.0, 578.0),       # "A repeat session by them tonight. Before that, you heard..." — dry link
+    ("data/episodes/1985/FRS 1985-06-14.json", 1132.0, 1143.0),     # "I'm going to listen to it again tonight..." — anecdote
+    ("data/episodes/1985/FRS 1985-11-08.json", 4840.0, 4920.0),     # "here on the Friday Rock Show from BBC Radio 1..." — mid-show link
+    ("data/episodes/1985/FRS 1985-11-22.json", 9.16, 33.45),        # "This is TV on the Radio, Thomas Vance here..." — show opening
     # 1986
-    ("data/episodes/1986/FRS 1986-01-24.json", 14.74, 36.36),       # "This is TV on the Radio, Thomas Vance here, the music vendor..." — show opening
+    ("data/episodes/1986/FRS 1986-01-24.json", 14.74, 36.36),       # "This is TV on the Radio, Thomas Vance here..." — show opening
+    ("data/episodes/1986/FRS 1986-04-04.json", 730.0, 1200.0),      # "Now, Judas Priest, of course, come from Wolverhampton..." — extended link (capped)
+    ("data/episodes/1986/FRS 1986-04-04.json", 5407.0, 5463.0),     # "Before that you heard The Alliance..." — post-track link
     ("data/episodes/1986/FRS 1986-09-12.json", 9.52, 39.18),        # "Hello there, this is TV on the Radio, Thomas Vance..." — show opening
     ("data/episodes/1986/FRS 1986-10-10.json", 7.10, 29.71),        # "Oh hello there, this is TV on the Radio, Thomas Vance..." — show opening
 ]
 
-CHUNK_SECONDS = 10.0   # clips longer than this are split into chunks of this length
-CHUNK_MIN_SECONDS = 4.0  # discard tail chunks shorter than this
+CHUNK_SECONDS = 10.0        # clips longer than this are split into this-length chunks
+CHUNK_MIN_SECONDS = 4.0     # discard tail chunks shorter than this
+MAX_CHUNKS_PER_SEGMENT = 5  # cap embeddings per segment so no single clip dominates the mean
 
 AUDIO_DIRS = [
     Path("FRSAudio/128kbps/1980"),
@@ -63,9 +88,10 @@ AUDIO_DIRS = [
 OUTPUT_PATH = Path("data/tommy_vance_embedding.npy")
 REFS_DIR = Path("data/references")
 
+WAV_SAMPLE_RATE = 16000  # resemblyzer operates at 16 kHz
+
 
 def find_mp3(date: str) -> Path | None:
-    """Find the MP3 for a given date string (YYYY-MM-DD)."""
     for audio_dir in AUDIO_DIRS:
         for mp3 in audio_dir.glob("*.mp3"):
             if date in mp3.name:
@@ -74,7 +100,6 @@ def find_mp3(date: str) -> Path | None:
 
 
 def _wav_from_segment(segment: AudioSegment) -> np.ndarray:
-    """Export a pydub AudioSegment to a temp WAV and return preprocessed array."""
     with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
         tmp_path = Path(tmp.name)
     try:
@@ -84,45 +109,46 @@ def _wav_from_segment(segment: AudioSegment) -> np.ndarray:
         tmp_path.unlink(missing_ok=True)
 
 
-def extract_chunks(
+def _chunk_array(wav: np.ndarray) -> list[np.ndarray]:
+    """Split a preprocessed wav array into CHUNK_SECONDS-length pieces."""
+    samples_per_chunk = int(CHUNK_SECONDS * WAV_SAMPLE_RATE)
+    min_samples = int(CHUNK_MIN_SECONDS * WAV_SAMPLE_RATE)
+    if len(wav) <= samples_per_chunk:
+        return [wav]
+    chunks = []
+    for offset in range(0, len(wav), samples_per_chunk):
+        piece = wav[offset: offset + samples_per_chunk]
+        if len(piece) >= min_samples:
+            chunks.append(piece)
+    return chunks[:MAX_CHUNKS_PER_SEGMENT]
+
+
+def extract_chunks_from_mp3(
     mp3_path: Path,
     start_s: float,
     end_s: float,
     ref_name: str | None = None,
 ) -> list[np.ndarray]:
-    """Extract audio and return one preprocessed array per chunk.
-
-    Clips shorter than CHUNK_SECONDS are returned as a single chunk.
-    Longer clips are split into CHUNK_SECONDS-length pieces; any tail
-    shorter than CHUNK_MIN_SECONDS is discarded.
-    """
+    """Extract a window from an MP3 and return chunked preprocessed arrays."""
     audio = AudioSegment.from_mp3(str(mp3_path))
     clip = audio[int(start_s * 1000): int(end_s * 1000)]
-    clip = clip.set_frame_rate(16000).set_channels(1)
-
-    duration_s = len(clip) / 1000.0
+    clip = clip.set_frame_rate(WAV_SAMPLE_RATE).set_channels(1)
 
     if ref_name is not None:
         REFS_DIR.mkdir(parents=True, exist_ok=True)
         clip.export(str(REFS_DIR / ref_name), format="wav")
 
-    if duration_s <= CHUNK_SECONDS:
-        return [_wav_from_segment(clip)]
+    wav = _wav_from_segment(clip)
+    return _chunk_array(wav)
 
-    chunks = []
-    chunk_ms = int(CHUNK_SECONDS * 1000)
-    offset_ms = 0
-    while offset_ms < len(clip):
-        piece = clip[offset_ms: offset_ms + chunk_ms]
-        if len(piece) / 1000.0 >= CHUNK_MIN_SECONDS:
-            chunks.append(_wav_from_segment(piece))
-        offset_ms += chunk_ms
 
-    return chunks
+def extract_chunks_from_wav(wav_path: Path) -> list[np.ndarray]:
+    """Load a pre-extracted WAV file and return chunked preprocessed arrays."""
+    wav = preprocess_wav(wav_path)
+    return _chunk_array(wav)
 
 
 def cosine_similarity(a: np.ndarray, b: np.ndarray) -> float:
-    """Return cosine similarity between two 1-D numpy arrays."""
     return float(np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b)))
 
 
@@ -133,31 +159,43 @@ def main() -> None:
     encoder = VoiceEncoder()
     embeddings: list[np.ndarray] = []
 
+    # --- WAV sources ---
+    print("Loading pre-validated WAV references...")
+    for wav_path in REFERENCE_WAVS:
+        if not wav_path.exists():
+            print(f"  WARNING: {wav_path} not found — skipping")
+            continue
+        chunks = extract_chunks_from_wav(wav_path)
+        for wav in chunks:
+            embeddings.append(np.asarray(encoder.embed_utterance(wav), dtype=np.float32))
+        print(f"  {wav_path.name}  → {len(chunks)} chunk(s)")
+
+    # --- MP3-based segments ---
+    print("\nExtracting MP3-based segments...")
     for json_path_str, start_s, end_s in REFERENCE_SEGMENTS:
         json_path = Path(json_path_str)
         date = json_path.stem.replace("FRS ", "")
         mp3 = find_mp3(date)
         if mp3 is None:
-            print(f"  WARNING: No MP3 found for {date} — skipping this reference")
+            print(f"  WARNING: No MP3 found for {date} — skipping")
             continue
 
         duration = end_s - start_s
-        print(f"  Extracting {date} @ {start_s:.1f}s–{end_s:.1f}s ({duration:.1f}s)...")
+        print(f"  {date} @ {start_s:.1f}–{end_s:.1f}s ({duration:.0f}s)...")
         clip_name = f"{date}_{start_s:.2f}_{end_s:.2f}.wav"
-        chunks = extract_chunks(mp3, start_s, end_s, ref_name=clip_name)
-        for chunk_idx, wav in enumerate(chunks):
-            embedding = np.asarray(encoder.embed_utterance(wav), dtype=np.float32)
-            embeddings.append(embedding)
-        print(f"    → {len(chunks)} chunk(s), {len(embeddings)} embeddings so far")
+        chunks = extract_chunks_from_mp3(mp3, start_s, end_s, ref_name=clip_name)
+        for wav in chunks:
+            embeddings.append(np.asarray(encoder.embed_utterance(wav), dtype=np.float32))
+        print(f"    → {len(chunks)} chunk(s), {len(embeddings)} embeddings total")
 
     if not embeddings:
-        print("ERROR: No reference clips extracted. Check your AUDIO_DIRS paths.")
+        print("ERROR: No embeddings produced. Check AUDIO_DIRS paths and REFERENCE_WAVS.")
         return
 
     mean_embedding = np.mean(embeddings, axis=0)
     np.save(OUTPUT_PATH, mean_embedding)
     print(f"\nSaved Tommy Vance embedding to {OUTPUT_PATH}")
-    print(f"Built from {len(embeddings)} embeddings across {len(REFERENCE_SEGMENTS)} reference segments.")
+    print(f"Built from {len(embeddings)} embeddings ({len(REFERENCE_WAVS)} WAV sources + {len(REFERENCE_SEGMENTS)} MP3 segments).")
     print("\nSpot-check — cosine similarities between each embedding and the mean:")
     for index, embedding in enumerate(embeddings):
         similarity = cosine_similarity(embedding, mean_embedding)
