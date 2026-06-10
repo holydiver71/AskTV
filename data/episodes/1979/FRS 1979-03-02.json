@@ -92,7 +92,7 @@
       "track": "‘Power And the Glory’",
       "details": "7\" single",
       "verified_timestamp": 3400.88
-     },
+    },
     {
       "artist": "Streetwalkers",
       "track": "‘Systematic Stealth",
@@ -159,47 +159,56 @@
     {
       "start": 5.97,
       "end": 29.54,
-      "text": "On 275 and 285, also on Stereo VHF, this is National Radio 1."
+      "text": "On 275 and 285, also on Stereo VHF, this is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 29.54,
       "end": 32.54,
-      "text": "Hi there, this is Tommy Vance. Welcome to the Friday Rock Show."
+      "text": "Hi there, this is Tommy Vance. Welcome to the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 32.54,
       "end": 35.54,
-      "text": "Now tonight we've got two great classic sessions."
+      "text": "Now tonight we've got two great classic sessions.",
+      "source": "TV"
     },
     {
       "start": 35.54,
       "end": 41.54,
-      "text": "From 1976, Thin Lizzy, and from 1974, Chapman Whitney Streetwalkers."
+      "text": "From 1976, Thin Lizzy, and from 1974, Chapman Whitney Streetwalkers.",
+      "source": "TV"
     },
     {
       "start": 41.54,
       "end": 46.89,
-      "text": "We've got classic cuts from the Moody Blues, the Boomtown Rats and others."
+      "text": "We've got classic cuts from the Moody Blues, the Boomtown Rats and others.",
+      "source": "TV"
     },
     {
       "start": 46.89,
       "end": 49.89,
-      "text": "New cuts by Bad Company, Bram Tchaikovsky, the Tom Robinson Band,"
+      "text": "New cuts by Bad Company, Bram Tchaikovsky, the Tom Robinson Band,",
+      "source": "TV"
     },
     {
       "start": 49.89,
       "end": 61.68,
-      "text": "band motorhead frank zappa roxy music and the buzzcocks the friday night connection three cuts"
+      "text": "band motorhead frank zappa roxy music and the buzzcocks the friday night connection three cuts",
+      "source": "TV"
     },
     {
       "start": 61.68,
       "end": 73.62,
-      "text": "with a theme and the answer and winner of last week's fnc but tonight we start with something"
+      "text": "with a theme and the answer and winner of last week's fnc but tonight we start with something",
+      "source": "TV"
     },
     {
       "start": 73.62,
       "end": 84.42,
-      "text": "by bad company best offering i think that they've come out with so far that's bram tchaikovsky and"
+      "text": "by bad company best offering i think that they've come out with so far that's bram tchaikovsky and",
+      "source": "TV"
     },
     {
       "start": 84.42,
@@ -222,87 +231,104 @@
     {
       "start": 608.55,
       "end": 614.2,
-      "text": "a track from a double single which is just out on radar and i see you're looking at the marvelous"
+      "text": "a track from a double single which is just out on radar and i see you're looking at the marvelous",
+      "source": "TV"
     },
     {
       "start": 614.2,
       "end": 616.36,
-      "text": "sleeve package that Mike Oldfield plays"
+      "text": "sleeve package that Mike Oldfield plays",
+      "source": "TV"
     },
     {
       "start": 616.36,
       "end": 618.06,
-      "text": "percussion for Bram Tchaikovsky,"
+      "text": "percussion for Bram Tchaikovsky,",
+      "source": "TV"
     },
     {
       "start": 618.22,
       "end": 620.16,
-      "text": "Hex of the Motors. The track he heard was"
+      "text": "Hex of the Motors. The track he heard was",
+      "source": "TV"
     },
     {
       "start": 620.16,
       "end": 623.2,
-      "text": "Girl of My Dreams. And before that"
+      "text": "Girl of My Dreams. And before that",
+      "source": "TV"
     },
     {
       "start": 623.2,
       "end": 624.7,
-      "text": "something from an LP that came out in"
+      "text": "something from an LP that came out in",
+      "source": "TV"
     },
     {
       "start": 624.7,
       "end": 627.06,
-      "text": "1974 some time ago. Now"
+      "text": "1974 some time ago. Now",
+      "source": "TV"
     },
     {
       "start": 627.06,
       "end": 628.96,
-      "text": "straight shooter the LP was, the band were"
+      "text": "straight shooter the LP was, the band were",
+      "source": "TV"
     },
     {
       "start": 628.96,
       "end": 630.92,
-      "text": "Bad Company and they made a deal"
+      "text": "Bad Company and they made a deal",
+      "source": "TV"
     },
     {
       "start": 630.92,
       "end": 633.1,
-      "text": "with the preacher. Quick reminder to those"
+      "text": "with the preacher. Quick reminder to those",
+      "source": "TV"
     },
     {
       "start": 633.1,
       "end": 634.26,
-      "text": "people in and around London,"
+      "text": "people in and around London,",
+      "source": "TV"
     },
     {
       "start": 634.92,
       "end": 636.7,
-      "text": "Bad Company will be at Wembley"
+      "text": "Bad Company will be at Wembley",
+      "source": "TV"
     },
     {
       "start": 636.7,
       "end": 638.92,
-      "text": "on the 9th and 10th of March, that's next"
+      "text": "on the 9th and 10th of March, that's next",
+      "source": "TV"
     },
     {
       "start": 638.92,
       "end": 639.8,
-      "text": "Friday and Saturday."
+      "text": "Friday and Saturday.",
+      "source": "TV"
     },
     {
       "start": 645.78,
       "end": 647.92,
-      "text": "Still back in 1974, let's have something"
+      "text": "Still back in 1974, let's have something",
+      "source": "TV"
     },
     {
       "start": 647.92,
       "end": 649.84,
-      "text": "from the session by Chapman, Whitney"
+      "text": "from the session by Chapman, Whitney",
+      "source": "TV"
     },
     {
       "start": 649.84,
       "end": 661.84,
-      "text": "streetwalkers get out of my life woman i'd like to have been in the studio in 1976 to hear that"
+      "text": "streetwalkers get out of my life woman i'd like to have been in the studio in 1976 to hear that",
+      "source": "TV"
     },
     {
       "start": 661.84,
@@ -313,52 +339,62 @@
     {
       "start": 1371.18,
       "end": 1376.78,
-      "text": "recorded nice to hear it again thin lizzy the first track from our session by them from 1976"
+      "text": "recorded nice to hear it again thin lizzy the first track from our session by them from 1976",
+      "source": "TV"
     },
     {
       "start": 1376.78,
       "end": 1385.3,
-      "text": "and it was called the warrior and you will find it on the album called jailbreak and before that"
+      "text": "and it was called the warrior and you will find it on the album called jailbreak and before that",
+      "source": "TV"
     },
     {
       "start": 1385.3,
       "end": 1390.46,
-      "text": "the new single by the tom robinson band which is just out on emi tom robinson seems to spend more"
+      "text": "the new single by the tom robinson band which is just out on emi tom robinson seems to spend more",
+      "source": "TV"
     },
     {
       "start": 1390.46,
       "end": 1397.87,
-      "text": "time these days on television than angela ripon it's called bully for you prior to that a song"
+      "text": "time these days on television than angela ripon it's called bully for you prior to that a song",
+      "source": "TV"
     },
     {
       "start": 1397.87,
       "end": 1400.19,
-      "text": "that was written by Lee Dorsey years and years ago"
+      "text": "that was written by Lee Dorsey years and years ago",
+      "source": "TV"
     },
     {
       "start": 1400.19,
       "end": 1402.27,
-      "text": "and recorded something like five years ago"
+      "text": "and recorded something like five years ago",
+      "source": "TV"
     },
     {
       "start": 1402.27,
       "end": 1404.21,
-      "text": "by Chapman Whitney's Streetwalkers."
+      "text": "by Chapman Whitney's Streetwalkers.",
+      "source": "TV"
     },
     {
       "start": 1404.81,
       "end": 1405.87,
-      "text": "Get out of my life, woman."
+      "text": "Get out of my life, woman.",
+      "source": "TV"
     },
     {
       "start": 1406.43,
       "end": 1411.7,
-      "text": "One of the real classic albums of 1968"
+      "text": "One of the real classic albums of 1968",
+      "source": "TV"
     },
     {
       "start": 1411.7,
       "end": 1413.5,
-      "text": "was this thing by the Moody Blues."
+      "text": "was this thing by the Moody Blues.",
+      "source": "TV"
     },
     {
       "start": 1413.5,
@@ -369,72 +405,86 @@
     {
       "start": 1558.18,
       "end": 1568.98,
-      "text": "you'll probably have to scurry around looking for that one because it's out on the raw edge label"
+      "text": "you'll probably have to scurry around looking for that one because it's out on the raw edge label",
+      "source": "TV"
     },
     {
       "start": 2106.07,
       "end": 2110.87,
-      "text": "and i don't know too much about the label at all the band are called the outsiders and the album"
+      "text": "and i don't know too much about the label at all the band are called the outsiders and the album",
+      "source": "TV"
     },
     {
       "start": 2110.87,
       "end": 2117.89,
-      "text": "is called close up the track he just heard was keep the pain inside and before that a real classic"
+      "text": "is called close up the track he just heard was keep the pain inside and before that a real classic",
+      "source": "TV"
     },
     {
       "start": 2117.89,
       "end": 2123.47,
-      "text": "from 1968 from the album in search of the lost chord the moody blues and legend of a mind"
+      "text": "from 1968 from the album in search of the lost chord the moody blues and legend of a mind",
+      "source": "TV"
     },
     {
       "start": 2124.47,
       "end": 2127.67,
-      "text": "Especially for Mr. Gordon Smith of [redacted address],"
+      "text": "Especially for Mr. Gordon Smith of [redacted address],",
+      "source": "TV"
     },
     {
       "start": 2127.87,
       "end": 2131.81,
-      "text": "Raynham in Kent, who says it's nostalgia at its richest."
+      "text": "Raynham in Kent, who says it's nostalgia at its richest.",
+      "source": "TV"
     },
     {
       "start": 2133.43,
       "end": 2134.65,
-      "text": "Actually, talking about that album,"
+      "text": "Actually, talking about that album,",
+      "source": "TV"
     },
     {
       "start": 2134.73,
       "end": 2136.51,
-      "text": "I vividly remember when it first came out,"
+      "text": "I vividly remember when it first came out,",
+      "source": "TV"
     },
     {
       "start": 2136.63,
       "end": 2140.17,
-      "text": "spending hours in stereo ecstasy listening to it."
+      "text": "spending hours in stereo ecstasy listening to it.",
+      "source": "TV"
     },
     {
       "start": 2141.37,
       "end": 2144.73,
-      "text": "In fact, I remember, too, a friend of mine coming in to my living room"
+      "text": "In fact, I remember, too, a friend of mine coming in to my living room",
+      "source": "TV"
     },
     {
       "start": 2144.73,
       "end": 2148.67,
-      "text": "and I'd arranged the speakers sort of facing each other"
+      "text": "and I'd arranged the speakers sort of facing each other",
+      "source": "TV"
     },
     {
       "start": 2148.67,
       "end": 2151.17,
-      "text": "and I was laying down on the floor listening to that track"
+      "text": "and I was laying down on the floor listening to that track",
+      "source": "TV"
     },
     {
       "start": 2151.17,
       "end": 2153.17,
-      "text": "time after time after time."
+      "text": "time after time after time.",
+      "source": "TV"
     },
     {
       "start": 2153.17,
       "end": 2154.93,
-      "text": "Good old 1968."
+      "text": "Good old 1968.",
+      "source": "TV"
     },
     {
       "start": 2154.93,
@@ -445,7 +495,8 @@
     {
       "start": 2159.79,
       "end": 2161.55,
-      "text": "There's a new single out by Motorhead."
+      "text": "There's a new single out by Motorhead.",
+      "source": "TV"
     },
     {
       "start": 2160.0,
@@ -456,107 +507,128 @@
     {
       "start": 2515.74,
       "end": 2518.14,
-      "text": "Recorded on the 27th of June, 1974."
+      "text": "Recorded on the 27th of June, 1974.",
+      "source": "TV"
     },
     {
       "start": 2518.36,
       "end": 2521.62,
-      "text": "The Chapman, Whitney, Streetwalkers and Roxy Anna."
+      "text": "The Chapman, Whitney, Streetwalkers and Roxy Anna.",
+      "source": "TV"
     },
     {
       "start": 2521.92,
       "end": 2524.78,
-      "text": "And before that, the new single by Motorhead, which is called Overkill."
+      "text": "And before that, the new single by Motorhead, which is called Overkill.",
+      "source": "TV"
     },
     {
       "start": 2524.9,
       "end": 2525.76,
-      "text": "It's out on bronze."
+      "text": "It's out on bronze.",
+      "source": "TV"
     },
     {
       "start": 2526.42,
       "end": 2528.26,
-      "text": "And I really love their wall of sound."
+      "text": "And I really love their wall of sound.",
+      "source": "TV"
     },
     {
       "start": 2528.36,
       "end": 2530.84,
-      "text": "Incidentally, that's produced by Jimmy Miller, the legendary producer."
+      "text": "Incidentally, that's produced by Jimmy Miller, the legendary producer.",
+      "source": "TV"
     },
     {
       "start": 2531.08,
       "end": 2533.88,
-      "text": "I was having a drink with Lemmy from Motorhead the other day."
+      "text": "I was having a drink with Lemmy from Motorhead the other day.",
+      "source": "TV"
     },
     {
       "start": 2534.4,
       "end": 2537.18,
-      "text": "Nowadays, he's wearing so many silver rings on his hands,"
+      "text": "Nowadays, he's wearing so many silver rings on his hands,",
+      "source": "TV"
     },
     {
       "start": 2537.18,
       "end": 2540.38,
-      "text": "he has to get his hands revalued at the beginning of each financial year."
+      "text": "he has to get his hands revalued at the beginning of each financial year.",
+      "source": "TV"
     },
     {
       "start": 2540.68,
       "end": 2561.08,
-      "text": "What we really need in the studio at the moment is a glass of pot sheen, a soda fowl, and a copy of the Irish Times, and we really could be having a hoot."
+      "text": "What we really need in the studio at the moment is a glass of pot sheen, a soda fowl, and a copy of the Irish Times, and we really could be having a hoot.",
+      "source": "TV"
     },
     {
       "start": 3138.27,
       "end": 3142.17,
-      "text": "That was Thin Lizzy from our session from 1976 and Jailbreak."
+      "text": "That was Thin Lizzy from our session from 1976 and Jailbreak.",
+      "source": "TV"
     },
     {
       "start": 3144.09,
       "end": 3149.45,
-      "text": "And before that, the Boomtown Rats from the Emerald Isle, a track from their first album, called the Boomtown Rats."
+      "text": "And before that, the Boomtown Rats from the Emerald Isle, a track from their first album, called the Boomtown Rats.",
+      "source": "TV"
     },
     {
       "start": 3149.55,
       "end": 3155.93,
-      "text": "The track was Joey, and I played it because a gentleman by the name of David Trowbridge of Shaftesbury House, Bournemouth, wrote thus."
+      "text": "The track was Joey, and I played it because a gentleman by the name of David Trowbridge of Shaftesbury House, Bournemouth, wrote thus.",
+      "source": "TV"
     },
     {
       "start": 3156.33,
       "end": 3159.25,
-      "text": "Dear Tommy, I would like to hear Joey by the Boomtown Rats."
+      "text": "Dear Tommy, I would like to hear Joey by the Boomtown Rats.",
+      "source": "TV"
     },
     {
       "start": 3159.55,
       "end": 3160.79,
-      "text": "Dear David, I hope you do."
+      "text": "Dear David, I hope you do.",
+      "source": "TV"
     },
     {
       "start": 3161.59,
       "end": 3169.74,
-      "text": "If you fancy a classic track to be played on the Friday Rock Show, just write to me."
+      "text": "If you fancy a classic track to be played on the Friday Rock Show, just write to me.",
+      "source": "TV"
     },
     {
       "start": 3169.8,
       "end": 3170.7,
-      "text": "My name is Tommy Vance."
+      "text": "My name is Tommy Vance.",
+      "source": "TV"
     },
     {
       "start": 3170.82,
       "end": 3175.34,
-      "text": "The Friday Rock Show, BBC Radio 1, London, W1A 4WW."
+      "text": "The Friday Rock Show, BBC Radio 1, London, W1A 4WW.",
+      "source": "TV"
     },
     {
       "start": 3177.17,
       "end": 3179.05,
-      "text": "That's a new album out by Frank Zappa."
+      "text": "That's a new album out by Frank Zappa.",
+      "source": "TV"
     },
     {
       "start": 3179.05,
       "end": 3196.5,
-      "text": "I've got this song."
+      "text": "I've got this song.",
+      "source": "TV"
     },
     {
       "start": 3400.88,
       "end": 3412.88,
-      "text": "before that the new single by eddie and the hot rods the power and the glory that's out on island"
+      "text": "before that the new single by eddie and the hot rods the power and the glory that's out on island",
+      "source": "TV"
     },
     {
       "start": 3412.88,
@@ -567,272 +639,326 @@
     {
       "start": 3765.0,
       "end": 3770.86,
-      "text": "and prior to that a man that i can never figure out but i always love to hear what he's doing"
+      "text": "and prior to that a man that i can never figure out but i always love to hear what he's doing",
+      "source": "TV"
     },
     {
       "start": 3770.86,
       "end": 3775.64,
-      "text": "frank zappa and the track called dancing fool from the new album out on cbs"
+      "text": "frank zappa and the track called dancing fool from the new album out on cbs",
+      "source": "TV"
     },
     {
       "start": 3775.64,
       "end": 3777.54,
-      "text": "called Shake Your Booty."
+      "text": "called Shake Your Booty.",
+      "source": "TV"
     },
     {
       "start": 3778.36,
       "end": 3791.37,
-      "text": "Time now for the Friday Night Connection."
+      "text": "Time now for the Friday Night Connection.",
+      "source": "TV"
     },
     {
       "start": 3791.63,
       "end": 3793.21,
-      "text": "And the card that came out of the hat"
+      "text": "And the card that came out of the hat",
+      "source": "TV"
     },
     {
       "start": 3793.21,
       "end": 3794.87,
-      "text": "with the correct answer on it"
+      "text": "with the correct answer on it",
+      "source": "TV"
     },
     {
       "start": 3794.87,
       "end": 3796.01,
-      "text": "for last week's,"
+      "text": "for last week's,",
+      "source": "TV"
     },
     {
       "start": 3796.07,
       "end": 3797.71,
-      "text": "the one that wins the £10 record token,"
+      "text": "the one that wins the £10 record token,",
+      "source": "TV"
     },
     {
       "start": 3798.17,
       "end": 3799.43,
-      "text": "is from Graham Thomas"
+      "text": "is from Graham Thomas",
+      "source": "TV"
     },
     {
       "start": 3799.43,
       "end": 3800.89,
-      "text": "of [redacted address],"
+      "text": "of [redacted address],",
+      "source": "TV"
     },
     {
       "start": 3801.27,
       "end": 3802.61,
-      "text": "Queen's Park in Bournemouth,"
+      "text": "Queen's Park in Bournemouth,",
+      "source": "TV"
     },
     {
       "start": 3802.85,
       "end": 3804.73,
-      "text": "who wrote the tracks"
+      "text": "who wrote the tracks",
+      "source": "TV"
     },
     {
       "start": 3804.73,
       "end": 3805.95,
-      "text": "for The Connection Were"
+      "text": "for The Connection Were",
+      "source": "TV"
     },
     {
       "start": 3805.95,
       "end": 3808.29,
-      "text": "Roland by Steve Gibbons Band,"
+      "text": "Roland by Steve Gibbons Band,",
+      "source": "TV"
     },
     {
       "start": 3808.83,
       "end": 3810.21,
-      "text": "Kingdom of Madness by Magnum,"
+      "text": "Kingdom of Madness by Magnum,",
+      "source": "TV"
     },
     {
       "start": 3810.21,
       "end": 3812.39,
-      "text": "and Sinner by Judas Priest."
+      "text": "and Sinner by Judas Priest.",
+      "source": "TV"
     },
     {
       "start": 3813.27,
       "end": 3813.89,
-      "text": "And The Connection,"
+      "text": "And The Connection,",
+      "source": "TV"
     },
     {
       "start": 3814.27,
       "end": 3816.35,
-      "text": "all the groups originated in Birmingham,"
+      "text": "all the groups originated in Birmingham,",
+      "source": "TV"
     },
     {
       "start": 3816.35,
       "end": 3826.39,
-      "text": "metal city mr thomas you're absolutely right so we'll send you the 10 pound record token and may"
+      "text": "metal city mr thomas you're absolutely right so we'll send you the 10 pound record token and may",
+      "source": "TV"
     },
     {
       "start": 3826.39,
       "end": 3831.17,
-      "text": "i say that this week quite a number of people didn't get it right quite a number of people did"
+      "text": "i say that this week quite a number of people didn't get it right quite a number of people did",
+      "source": "TV"
     },
     {
       "start": 3831.17,
       "end": 3840.71,
-      "text": "but quite a number of people didn't as you know part of the deal is to put together three tracks"
+      "text": "but quite a number of people didn't as you know part of the deal is to put together three tracks",
+      "source": "TV"
     },
     {
       "start": 3840.71,
       "end": 3847.25,
-      "text": "that make a friday night connection three pieces of music that have a connection and these three do"
+      "text": "that make a friday night connection three pieces of music that have a connection and these three do",
+      "source": "TV"
     },
     {
       "start": 3847.25,
       "end": 3857.45,
-      "text": "and it's a rather tasty one too our friday night connection for this particular edition of the"
+      "text": "and it's a rather tasty one too our friday night connection for this particular edition of the",
+      "source": "TV"
     },
     {
       "start": 4591.72,
       "end": 4601.04,
-      "text": "program though those three pieces of music have a very definite connection you think you know what"
+      "text": "program though those three pieces of music have a very definite connection you think you know what",
+      "source": "TV"
     },
     {
       "start": 4601.04,
       "end": 4608.12,
-      "text": "it is if you do put it down a postcard in a letter on anything you like and send it along to me my"
+      "text": "it is if you do put it down a postcard in a letter on anything you like and send it along to me my",
+      "source": "TV"
     },
     {
       "start": 4608.12,
       "end": 4616.06,
-      "text": "name is tommy vance friday night connection bbc radio one london w1a4 ww but don't forget"
+      "text": "name is tommy vance friday night connection bbc radio one london w1a4 ww but don't forget",
+      "source": "TV"
     },
     {
       "start": 4616.06,
       "end": 4620.48,
-      "text": "you've got to put together your own friday night connection as well that's part of the deal that"
+      "text": "you've got to put together your own friday night connection as well that's part of the deal that",
+      "source": "TV"
     },
     {
       "start": 4620.48,
       "end": 4622.82,
-      "text": "might enable you to win a £10 record token,"
+      "text": "might enable you to win a £10 record token,",
+      "source": "TV"
     },
     {
       "start": 4623.38,
       "end": 4625.34,
-      "text": "as indeed has happened to Graham Thomas"
+      "text": "as indeed has happened to Graham Thomas",
+      "source": "TV"
     },
     {
       "start": 4625.34,
       "end": 4627.72,
-      "text": "of [redacted address], Queen's Park in Bournemouth."
+      "text": "of [redacted address], Queen's Park in Bournemouth.",
+      "source": "TV"
     },
     {
       "start": 4627.92,
       "end": 4628.76,
-      "text": "Congratulations, Graham."
+      "text": "Congratulations, Graham.",
+      "source": "TV"
     },
     {
       "start": 4629.82,
       "end": 4632.28,
-      "text": "Just in case people have fallen out of the pub,"
+      "text": "Just in case people have fallen out of the pub,",
+      "source": "TV"
     },
     {
       "start": 4632.34,
       "end": 4635.2,
-      "text": "I'll tell you what the tracks were from last week's FNC."
+      "text": "I'll tell you what the tracks were from last week's FNC.",
+      "source": "TV"
     },
     {
       "start": 4635.4,
       "end": 4636.88,
-      "text": "Rolling by the Steve Gibbons Band,"
+      "text": "Rolling by the Steve Gibbons Band,",
+      "source": "TV"
     },
     {
       "start": 4637.48,
       "end": 4638.54,
-      "text": "Sinner by Judas Priest,"
+      "text": "Sinner by Judas Priest,",
+      "source": "TV"
     },
     {
       "start": 4638.72,
       "end": 4640.42,
-      "text": "and Kingdom of Madness by Magnum."
+      "text": "and Kingdom of Madness by Magnum.",
+      "source": "TV"
     },
     {
       "start": 4640.94,
       "end": 4650.58,
-      "text": "A couple of tracks now from the new album by Roxy Music."
+      "text": "A couple of tracks now from the new album by Roxy Music.",
+      "source": "TV"
     },
     {
       "start": 4650.92,
       "end": 4655.72,
-      "text": "Oh, I do like the sound of that."
+      "text": "Oh, I do like the sound of that.",
+      "source": "TV"
     },
     {
       "start": 5351.51,
       "end": 5353.91,
-      "text": "A couple of tracks there from the new Roxy Music album,"
+      "text": "A couple of tracks there from the new Roxy Music album,",
+      "source": "TV"
     },
     {
       "start": 5354.01,
       "end": 5355.63,
-      "text": "which is coming out on March the 9th."
+      "text": "which is coming out on March the 9th.",
+      "source": "TV"
     },
     {
       "start": 5355.63,
       "end": 5357.63,
-      "text": "The album is called Manifesto."
+      "text": "The album is called Manifesto.",
+      "source": "TV"
     },
     {
       "start": 5358.27,
       "end": 5360.45,
-      "text": "Two tracks he heard, one was called Ain't That So,"
+      "text": "Two tracks he heard, one was called Ain't That So,",
+      "source": "TV"
     },
     {
       "start": 5360.93,
       "end": 5362.79,
-      "text": "and the other was Stronger Through the Years."
+      "text": "and the other was Stronger Through the Years.",
+      "source": "TV"
     },
     {
       "start": 5362.97,
       "end": 5365.11,
-      "text": "Roxy, at the moment, reformed on tour in Europe"
+      "text": "Roxy, at the moment, reformed on tour in Europe",
+      "source": "TV"
     },
     {
       "start": 5365.11,
       "end": 5368.59,
-      "text": "and coming to the United Kingdom soon with a new member,"
+      "text": "and coming to the United Kingdom soon with a new member,",
+      "source": "TV"
     },
     {
       "start": 5368.73,
       "end": 5371.27,
-      "text": "at least for six months anyway, Dave Skinner, who's playing keyboards."
+      "text": "at least for six months anyway, Dave Skinner, who's playing keyboards.",
+      "source": "TV"
     },
     {
       "start": 5372.05,
       "end": 5374.67,
-      "text": "The copy of the album that I've got is a picture disc."
+      "text": "The copy of the album that I've got is a picture disc.",
+      "source": "TV"
     },
     {
       "start": 5374.77,
       "end": 5377.19,
-      "text": "I don't know if they're all going to be that way, but it's a nice one"
+      "text": "I don't know if they're all going to be that way, but it's a nice one",
+      "source": "TV"
     },
     {
       "start": 5377.19,
       "end": 5379.01,
-      "text": "with not a lot of surface noise either."
+      "text": "with not a lot of surface noise either.",
+      "source": "TV"
     },
     {
       "start": 5387.48,
       "end": 5390.98,
-      "text": "One thing about these picture discs is I know in certain parts of the UK"
+      "text": "One thing about these picture discs is I know in certain parts of the UK",
+      "source": "TV"
     },
     {
       "start": 5391.36,
       "end": 5392.82,
-      "text": "it's not that easy to find them."
+      "text": "it's not that easy to find them.",
+      "source": "TV"
     },
     {
       "start": 5392.82,
       "end": 5395.82,
-      "text": "they only seem to send them sometimes to the major centres."
+      "text": "they only seem to send them sometimes to the major centres.",
+      "source": "TV"
     },
     {
       "start": 5401.29,
       "end": 5404.17,
-      "text": "And now, courtesy of Pippin, the friendly Ranger Music Company Limited,"
+      "text": "And now, courtesy of Pippin, the friendly Ranger Music Company Limited,",
+      "source": "TV"
     },
     {
       "start": 5404.47,
       "end": 5404.97,
-      "text": "Thin Lizzy."
+      "text": "Thin Lizzy.",
+      "source": "TV"
     },
     {
       "start": 5404.97,
@@ -843,117 +969,140 @@
     {
       "start": 5436.42,
       "end": 5441.22,
-      "text": "Tokyo Rose and Hangman from Chapman Whitney's Streetwalkers,"
+      "text": "Tokyo Rose and Hangman from Chapman Whitney's Streetwalkers,",
+      "source": "TV"
     },
     {
       "start": 6082.49,
       "end": 6084.75,
-      "text": "our session from the 27th of June, 1974,"
+      "text": "our session from the 27th of June, 1974,",
+      "source": "TV"
     },
     {
       "start": 6085.49,
       "end": 6086.81,
-      "text": "when the band were Roger and Charlie,"
+      "text": "when the band were Roger and Charlie,",
+      "source": "TV"
     },
     {
       "start": 6087.27,
       "end": 6089.35,
-      "text": "Mel Collins, or rather Collins, beg your pardon,"
+      "text": "Mel Collins, or rather Collins, beg your pardon,",
+      "source": "TV"
     },
     {
       "start": 6089.73,
       "end": 6092.47,
-      "text": "Ian Wallace, Tim Hinckley, Bob Tench, and Philip Chen,"
+      "text": "Ian Wallace, Tim Hinckley, Bob Tench, and Philip Chen,",
+      "source": "TV"
     },
     {
       "start": 6092.47,
       "end": 6095.75,
-      "text": "the young fellow who plays the bass behind Mr. Rodney Stewart"
+      "text": "the young fellow who plays the bass behind Mr. Rodney Stewart",
+      "source": "TV"
     },
     {
       "start": 6095.75,
       "end": 6097.25,
-      "text": "these days in that baseball camp."
+      "text": "these days in that baseball camp.",
+      "source": "TV"
     },
     {
       "start": 6097.67,
       "end": 6099.43,
-      "text": "And now, here are the Buzzcocks."
+      "text": "And now, here are the Buzzcocks.",
+      "source": "TV"
     },
     {
       "start": 6099.77,
       "end": 6104.57,
-      "text": "Lou Reed as recorded way back in 1969"
+      "text": "Lou Reed as recorded way back in 1969",
+      "source": "TV"
     },
     {
       "start": 6625.64,
       "end": 6628.61,
-      "text": "from a double album"
+      "text": "from a double album",
+      "source": "TV"
     },
     {
       "start": 6628.61,
       "end": 6630.21,
-      "text": "which has just been released in this country"
+      "text": "which has just been released in this country",
+      "source": "TV"
     },
     {
       "start": 6630.21,
       "end": 6632.55,
-      "text": "called 1969 Velvet Underground Live"
+      "text": "called 1969 Velvet Underground Live",
+      "source": "TV"
     },
     {
       "start": 6632.55,
       "end": 6633.19,
-      "text": "with Lou Reed"
+      "text": "with Lou Reed",
+      "source": "TV"
     },
     {
       "start": 6633.19,
       "end": 6637.0,
-      "text": "available on import for quite"
+      "text": "available on import for quite",
+      "source": "TV"
     },
     {
       "start": 6637.0,
       "end": 6638.98,
-      "text": "some time in this country but now released"
+      "text": "some time in this country but now released",
+      "source": "TV"
     },
     {
       "start": 6638.98,
       "end": 6640.76,
-      "text": "locally by Mercury and the track was"
+      "text": "locally by Mercury and the track was",
+      "source": "TV"
     },
     {
       "start": 6640.76,
       "end": 6642.0,
-      "text": "beginning to see the light"
+      "text": "beginning to see the light",
+      "source": "TV"
     },
     {
       "start": 6642.0,
       "end": 6645.24,
-      "text": "and before that the new single by the Buzzcocks"
+      "text": "and before that the new single by the Buzzcocks",
+      "source": "TV"
     },
     {
       "start": 6645.24,
       "end": 6647.48,
-      "text": "called Everybody's Happy Nowadays"
+      "text": "called Everybody's Happy Nowadays",
+      "source": "TV"
     },
     {
       "start": 6647.48,
       "end": 6651.73,
-      "text": "looking forward to tomorrow"
+      "text": "looking forward to tomorrow",
+      "source": "TV"
     },
     {
       "start": 6651.73,
       "end": 6653.69,
-      "text": "6.30 tomorrow evening"
+      "text": "6.30 tomorrow evening",
+      "source": "TV"
     },
     {
       "start": 6653.69,
       "end": 6662.88,
-      "text": "on radio one in concert you can hear sham 69 and the members and now here's our finale from thin"
+      "text": "on radio one in concert you can hear sham 69 and the members and now here's our finale from thin",
+      "source": "TV"
     },
     {
       "start": 6662.88,
       "end": 6672.48,
-      "text": "lizzie just the cowboy starry night beautiful session indeed there you go thin lizzie and the"
+      "text": "lizzie just the cowboy starry night beautiful session indeed there you go thin lizzie and the",
+      "source": "TV"
     },
     {
       "start": 6672.48,
@@ -964,147 +1113,170 @@
     {
       "start": 6983.32,
       "end": 6988.14,
-      "text": "cowboy song their final offering this evening or should i say tonight two people asked for that"
+      "text": "cowboy song their final offering this evening or should i say tonight two people asked for that",
+      "source": "TV"
     },
     {
       "start": 6988.14,
       "end": 6993.86,
-      "text": "well more than two but just the two i'll mention here paul frewin of 147 hastings road basingstoke"
+      "text": "well more than two but just the two i'll mention here paul frewin of 147 hastings road basingstoke",
+      "source": "TV"
     },
     {
       "start": 6993.86,
       "end": 6995.82,
-      "text": "in Hants, and Anthony Leake"
+      "text": "in Hants, and Anthony Leake",
+      "source": "TV"
     },
     {
       "start": 6995.82,
       "end": 6997.86,
-      "text": "of [redacted address]"
+      "text": "of [redacted address]",
+      "source": "TV"
     },
     {
       "start": 6997.86,
       "end": 6999.36,
-      "text": "Grange Park in"
+      "text": "Grange Park in",
+      "source": "TV"
     },
     {
       "start": 6999.36,
       "end": 7000.9,
-      "text": "Chard. Hope you liked it."
+      "text": "Chard. Hope you liked it.",
+      "source": "TV"
     },
     {
       "start": 7001.52,
       "end": 7006.32,
-      "text": "And that was Cheap Trick, really getting down"
+      "text": "And that was Cheap Trick, really getting down",
+      "source": "TV"
     },
     {
       "start": 7232.02,
       "end": 7234.16,
-      "text": "from their album Live at the Budokan"
+      "text": "from their album Live at the Budokan",
+      "source": "TV"
     },
     {
       "start": 7234.16,
       "end": 7235.88,
-      "text": "and the thing called Clock Strikes"
+      "text": "and the thing called Clock Strikes",
+      "source": "TV"
     },
     {
       "start": 7235.88,
       "end": 7236.22,
-      "text": "10."
+      "text": "10.",
+      "source": "TV"
     },
     {
       "start": 7237.4,
       "end": 7238.68,
-      "text": "It's nearly 12 o'clock."
+      "text": "It's nearly 12 o'clock.",
+      "source": "TV"
     },
     {
       "start": 7240.09,
       "end": 7242.51,
-      "text": "And that was the Friday Rock Show for this week. I hope you enjoyed our"
+      "text": "And that was the Friday Rock Show for this week. I hope you enjoyed our",
+      "source": "TV"
     },
     {
       "start": 7242.51,
       "end": 7244.53,
-      "text": "two archive sessions, the Chapman-Whitney"
+      "text": "two archive sessions, the Chapman-Whitney",
+      "source": "TV"
     },
     {
       "start": 7244.53,
       "end": 7246.11,
-      "text": "Streetwalkers from 1974"
+      "text": "Streetwalkers from 1974",
+      "source": "TV"
     },
     {
       "start": 7246.11,
       "end": 7248.57,
-      "text": "and Thin Lizzy from 1976, both"
+      "text": "and Thin Lizzy from 1976, both",
+      "source": "TV"
     },
     {
       "start": 7248.57,
       "end": 7249.57,
-      "text": "Tony Wilson productions."
+      "text": "Tony Wilson productions.",
+      "source": "TV"
     },
     {
       "start": 7249.57,
       "end": 7251.65,
-      "text": "as indeed is the whole"
+      "text": "as indeed is the whole",
+      "source": "TV"
     },
     {
       "start": 7251.65,
       "end": 7252.87,
-      "text": "of the Friday Rock Show"
+      "text": "of the Friday Rock Show",
+      "source": "TV"
     },
     {
       "start": 7252.87,
       "end": 7255.91,
-      "text": "I'd like to thank indeed our engineers tonight"
+      "text": "I'd like to thank indeed our engineers tonight",
+      "source": "TV"
     },
     {
       "start": 7255.91,
       "end": 7257.91,
-      "text": "John who was the man who twiddled the knobs"
+      "text": "John who was the man who twiddled the knobs",
+      "source": "TV"
     },
     {
       "start": 7257.91,
       "end": 7259.25,
-      "text": "and Paul operated the tapes"
+      "text": "and Paul operated the tapes",
+      "source": "TV"
     },
     {
       "start": 7259.25,
       "end": 7262.2,
-      "text": "next week I can promise you a helping"
+      "text": "next week I can promise you a helping",
+      "source": "TV"
     },
     {
       "start": 7262.2,
       "end": 7262.88,
-      "text": "of bowing"
+      "text": "of bowing",
+      "source": "TV"
     },
     {
       "start": 7262.88,
       "end": 7268.27,
-      "text": "7 o'clock on Sunday, Ian Dury for two hours"
+      "text": "7 o'clock on Sunday, Ian Dury for two hours",
+      "source": "TV"
     },
     {
       "start": 7268.27,
       "end": 7270.55,
-      "text": "in Star Special on Radio 1 and VHF"
+      "text": "in Star Special on Radio 1 and VHF",
+      "source": "TV"
     },
     {
       "start": 7270.55,
       "end": 7272.49,
-      "text": "that should be good, wherever you are"
+      "text": "that should be good, wherever you are",
+      "source": "TV"
     },
     {
       "start": 7272.49,
       "end": 7274.35,
-      "text": "round about now and for the rest of the weekend"
+      "text": "round about now and for the rest of the weekend",
+      "source": "TV"
     },
     {
       "start": 7274.35,
       "end": 7276.35,
-      "text": "have a great time and keep it on"
-    },
-    {
-      "start": 7276.35,
-      "end": 7276.95,
-      "text": "Radio 1"
+      "text": "have a great time and keep it on",
+      "source": "TV"
     }
   ]
 }
