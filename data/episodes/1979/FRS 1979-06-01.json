@@ -74,7 +74,7 @@
       "start": 1506.19,
       "end": 1508.39,
       "text": "The circus of heaven came to town.",
-      "source": "uncertain"
+      "source": "check"
     },
     {
       "start": 1508.39,
@@ -152,7 +152,7 @@
       "start": 7331.92,
       "end": 7333.54,
       "text": "See you tomorrow at 4 for Rock On.",
-      "source": "uncertain"
+      "source": "TV"
     },
     {
       "start": 7333.66,
@@ -164,7 +164,7 @@
       "start": 7335.28,
       "end": 7337.22,
       "text": "and have a great night.",
-      "source": "uncertain"
+      "source": "TV"
     }
   ]
 }
