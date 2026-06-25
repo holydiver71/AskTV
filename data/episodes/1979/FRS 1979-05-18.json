@@ -843,42 +843,6 @@
       "source": "TV"
     },
     {
-      "start": 3807.44,
-      "end": 3811.7,
-      "text": "Can you tell me where my country lies?",
-      "source": "checkl"
-    },
-    {
-      "start": 3812.2,
-      "end": 3817.38,
-      "text": "Said the unicorn to his true love's eyes.",
-      "source": "check"
-    },
-    {
-      "start": 3818.12,
-      "end": 3821.92,
-      "text": "It lies with me, cried the queen of maybe.",
-      "source": "check"
-    },
-    {
-      "start": 3822.76,
-      "end": 3828.9,
-      "text": "For her merchandise, he traded in his prize.",
-      "source": "check"
-    },
-    {
-      "start": 3828.9,
-      "end": 3879.75,
-      "text": "of hope and glory it's the time of your life easy now take you down chewing through your wimpy dreams",
-      "source": "check"
-    },
-    {
-      "start": 3879.75,
-      "end": 3912.61,
-      "text": "they eat without sound young man says you are what you eat well and says you are what you wear well",
-      "source": "check"
-    },
-    {
       "start": 3912.61,
       "end": 3921.61,
       "text": "Sorry about the surface noise that you heard on the beginning of that particular cut.",
@@ -1044,19 +1008,19 @@
       "start": 4975.84,
       "end": 4980.04,
       "text": "Coming up on Radio 1 this weekend",
-      "source": "TV"
+      "source": "uncertain"
     },
     {
       "start": 5611.06,
       "end": 5613.7,
       "text": "will be someone who calls himself Young David Bowie.",
-      "source": "TV"
+      "source": "uncertain"
     },
     {
       "start": 5613.98,
       "end": 5614.28,
       "text": "David.",
-      "source": "TV"
+      "source": "uncertain"
     },
     {
       "start": 5614.58,
@@ -1098,7 +1062,7 @@
       "start": 5635.18,
       "end": 5642.82,
       "text": "David Bowie joins the growing ranks of Radio 1 DJs this Sunday at 7pm, star special on national Radio 1.",
-      "source": "check"
+      "source": "uncertain"
     },
     {
       "start": 5646.04,
