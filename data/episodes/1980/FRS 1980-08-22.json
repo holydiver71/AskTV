@@ -135,47 +135,56 @@
     {
       "start": 7.38,
       "end": 23.46,
-      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 23.46,
       "end": 30.46,
-      "text": "Well, hello there. Thomas the Vance here. TV on the radio. And welcome once again to the Friday Rock Show."
+      "text": "Well, hello there. Thomas the Vance here. TV on the radio. And welcome once again to the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 30.46,
       "end": 35.46,
-      "text": "Tonight, a repeat of two recently recorded Friday Rock Show sessions by comparatively new bands."
+      "text": "Tonight, a repeat of two recently recorded Friday Rock Show sessions by comparatively new bands.",
+      "source": "TV"
     },
     {
       "start": 35.46,
       "end": 42.46,
-      "text": "We have the Swiss bass band Krokus and also the strangely named group who call themselves Toad the Wet Sprocket."
+      "text": "We have the Swiss bass band Krokus and also the strangely named group who call themselves Toad the Wet Sprocket.",
+      "source": "TV"
     },
     {
       "start": 42.46,
       "end": 60.94,
-      "text": "Got classic cuts by Free and Judas Priest, Crown Hogs, Led Zeppelin and Barclay James Harvest, among others."
+      "text": "Got classic cuts by Free and Judas Priest, Crown Hogs, Led Zeppelin and Barclay James Harvest, among others.",
+      "source": "TV"
     },
     {
       "start": 61.22,
       "end": 66.18,
-      "text": "And new releases by Foghat, Rory Gallagher, Gillan, Michael Schenker and the Rossington Collins Band."
+      "text": "And new releases by Foghat, Rory Gallagher, Gillan, Michael Schenker and the Rossington Collins Band.",
+      "source": "TV"
     },
     {
       "start": 66.84,
       "end": 71.0,
-      "text": "Not forgetting our Friday night connection, that time of the week when titillation approaches."
+      "text": "Not forgetting our Friday night connection, that time of the week when titillation approaches.",
+      "source": "TV"
     },
     {
       "start": 71.58,
       "end": 74.04,
-      "text": "But this evening, we start with a band called Rush."
+      "text": "But this evening, we start with a band called Rush.",
+      "source": "TV"
     },
     {
       "start": 75.0,
       "end": 84.6,
-      "text": "That was Krokus from our repeat session by them, a track called Backseat Rock and Roll."
+      "text": "That was Krokus from our repeat session by them, a track called Backseat Rock and Roll.",
+      "source": "TV"
     },
     {
       "start": 84.6,
@@ -200,116 +209,132 @@
       "end": 830.18,
       "text": "[Music]",
       "type": "music"
-    },
-    {
-      "start": 830.18,
-      "end": 831.26,
-      "text": "I think we're going to boo you tonight."
     },
     {
       "start": 831.26,
       "end": 836.34,
-      "text": "That was also preceded by Rush, an album called A Farewell to Kings."
+      "text": "That was also preceded by Rush, an album called A Farewell to Kings.",
+      "source": "TV"
     },
     {
       "start": 836.34,
       "end": 837.6,
-      "text": "The track was Xanadu."
+      "text": "The track was Xanadu.",
+      "source": "TV"
     },
     {
       "start": 838.06,
       "end": 841.58,
-      "text": "For loads of people, for Adrian Goulding, who lives in Fullwood in Sheffield."
+      "text": "For loads of people, for Adrian Goulding, who lives in Fullwood in Sheffield.",
+      "source": "TV"
     },
     {
       "start": 842.02,
       "end": 844.6,
-      "text": "Also for the 5th and 6th forms at Sutton High in Plymouth."
+      "text": "Also for the 5th and 6th forms at Sutton High in Plymouth.",
+      "source": "TV"
     },
     {
       "start": 845.16,
       "end": 850.1,
-      "text": "And for Ali Azjar, I think it is, who lives in [redacted address], Weir in Lancashire."
+      "text": "And for Ali Azjar, I think it is, who lives in [redacted address], Weir in Lancashire.",
+      "source": "TV"
     },
     {
       "start": 850.58,
       "end": 854.24,
-      "text": "And for Martin Durnan, who lives in Raynham, Gillingham in Essex."
+      "text": "And for Martin Durnan, who lives in Raynham, Gillingham in Essex.",
+      "source": "TV"
     },
     {
       "start": 854.58,
       "end": 856.85,
-      "text": "And for Mark DeMuth, who lives in Brougham."
+      "text": "And for Mark DeMuth, who lives in Brougham.",
+      "source": "TV"
     },
     {
       "start": 857.43,
       "end": 862.91,
-      "text": "Also for the Rush Headbangers, a number 3 shuffle close in Pontlandthraith in Gwent."
+      "text": "Also for the Rush Headbangers, a number 3 shuffle close in Pontlandthraith in Gwent.",
+      "source": "TV"
     },
     {
       "start": 863.51,
       "end": 866.84,
-      "text": "And also for Phil Wright, who's a Wimbledon Shore heavy."
+      "text": "And also for Phil Wright, who's a Wimbledon Shore heavy.",
+      "source": "TV"
     },
     {
       "start": 867.36,
       "end": 870.8,
-      "text": "And for John Greery, who lives in Glanton in Northumberlandshire."
+      "text": "And for John Greery, who lives in Glanton in Northumberlandshire.",
+      "source": "TV"
     },
     {
       "start": 871.3,
       "end": 873.08,
-      "text": "Brian Hart, who lives in Hove in Essex."
+      "text": "Brian Hart, who lives in Hove in Essex.",
+      "source": "TV"
     },
     {
       "start": 873.5,
       "end": 877.36,
-      "text": "And also for Alan Freebird-Clark, who lives in Saltcoats, Ayrshire in Scotland."
+      "text": "And also for Alan Freebird-Clark, who lives in Saltcoats, Ayrshire in Scotland.",
+      "source": "TV"
     },
     {
       "start": 877.98,
       "end": 880.86,
-      "text": "And Jane Hill, who's in Stourbridge in the West Midlands."
+      "text": "And Jane Hill, who's in Stourbridge in the West Midlands.",
+      "source": "TV"
     },
     {
       "start": 882.72,
       "end": 885.7,
-      "text": "And for all the other Rush people around the country."
+      "text": "And for all the other Rush people around the country.",
+      "source": "TV"
     },
     {
       "start": 885.96,
       "end": 887.1,
-      "text": "And now here's Foghat."
+      "text": "And now here's Foghat.",
+      "source": "TV"
     },
     {
       "start": 887.7,
       "end": 893.1,
-      "text": "Really have never meant too much in this country."
+      "text": "Really have never meant too much in this country.",
+      "source": "TV"
     },
     {
       "start": 1152.04,
       "end": 1157.58,
-      "text": "I did a television show with them for the United States of America way back in about 1976, and I thought they were great."
+      "text": "I did a television show with them for the United States of America way back in about 1976, and I thought they were great.",
+      "source": "TV"
     },
     {
       "start": 1157.76,
       "end": 1160.16,
-      "text": "They've got a very good new album out, and that's a track from it."
+      "text": "They've got a very good new album out, and that's a track from it.",
+      "source": "TV"
     },
     {
       "start": 1160.6,
       "end": 1163.8,
-      "text": "It's out on the Bearsville label, and the album is called Tight Shoes."
+      "text": "It's out on the Bearsville label, and the album is called Tight Shoes.",
+      "source": "TV"
     },
     {
       "start": 1163.88,
       "end": 1167.34,
-      "text": "The name of the band is Foghat, and the track you heard there was Full Time Lover."
+      "text": "The name of the band is Foghat, and the track you heard there was Full Time Lover.",
+      "source": "TV"
     },
     {
       "start": 1167.9,
       "end": 1170.6,
-      "text": "It's 10.19, and here's Toad the Wet Sprocket."
+      "text": "It's 10.19, and here's Toad the Wet Sprocket.",
+      "source": "TV"
     },
     {
       "start": 1170.6,
@@ -338,257 +363,308 @@
     {
       "start": 1591.45,
       "end": 1593.69,
-      "text": "And that's a real classic that came out in 1972."
+      "text": "And that's a real classic that came out in 1972.",
+      "source": "TV"
     },
     {
       "start": 1594.01,
       "end": 1595.13,
-      "text": "Was it really that long ago?"
+      "text": "Was it really that long ago?",
+      "source": "TV"
     },
     {
       "start": 1595.29,
       "end": 1597.73,
-      "text": "Free from the album Heartbreaker and Wishing Well."
+      "text": "Free from the album Heartbreaker and Wishing Well.",
+      "source": "TV"
     },
     {
       "start": 1599.36,
       "end": 1603.64,
-      "text": "And that was for a load of people, including Love, Lust, Passion and Desire."
+      "text": "And that was for a load of people, including Love, Lust, Passion and Desire.",
+      "source": "TV"
     },
     {
       "start": 1603.98,
       "end": 1605.46,
-      "text": "This says here on this bit of paper."
+      "text": "This says here on this bit of paper.",
+      "source": "TV"
     },
     {
       "start": 1605.96,
       "end": 1608.74,
-      "text": "Nicky Hyde, and also the good friends of Said Person."
+      "text": "Nicky Hyde, and also the good friends of Said Person.",
+      "source": "TV"
     },
     {
       "start": 1608.74,
       "end": 1611.62,
-      "text": "all the heavy metal headbangers in Burgess Hill"
+      "text": "all the heavy metal headbangers in Burgess Hill",
+      "source": "TV"
     },
     {
       "start": 1611.62,
       "end": 1613.5,
-      "text": "especially Chris and Bob and Glenn and Robin"
+      "text": "especially Chris and Bob and Glenn and Robin",
+      "source": "TV"
     },
     {
       "start": 1613.5,
       "end": 1615.54,
-      "text": "and Richard and Helen and Beans and Angus and David"
+      "text": "and Richard and Helen and Beans and Angus and David",
+      "source": "TV"
     },
     {
       "start": 1615.54,
       "end": 1617.66,
-      "text": "and Mark N and Mark D and Cheeky Chop"
+      "text": "and Mark N and Mark D and Cheeky Chop",
+      "source": "TV"
     },
     {
       "start": 1617.66,
       "end": 1618.24,
-      "text": "Cecil"
+      "text": "Cecil",
+      "source": "TV"
     },
     {
       "start": 1618.24,
       "end": 1621.76,
-      "text": "and also for Sam and Stu and Chaz and Dave"
+      "text": "and also for Sam and Stu and Chaz and Dave",
+      "source": "TV"
     },
     {
       "start": 1621.76,
       "end": 1624.12,
-      "text": "Rock on Tommy, Jane it says here"
+      "text": "Rock on Tommy, Jane it says here",
+      "source": "TV"
     },
     {
       "start": 1624.12,
       "end": 1626.0,
-      "text": "and Jane lives in Sutton Coalfield"
+      "text": "and Jane lives in Sutton Coalfield",
+      "source": "TV"
     },
     {
       "start": 1626.0,
       "end": 1628.46,
-      "text": "a nice postcard of which I've got in front of me"
+      "text": "a nice postcard of which I've got in front of me",
+      "source": "TV"
     },
     {
       "start": 1628.46,
       "end": 1630.18,
-      "text": "gotta play something"
+      "text": "gotta play something",
+      "source": "TV"
     },
     {
       "start": 1630.18,
       "end": 1632.48,
-      "text": "for everybody who goes to the Ralph Thorsby"
+      "text": "for everybody who goes to the Ralph Thorsby",
+      "source": "TV"
     },
     {
       "start": 1632.48,
       "end": 1634.58,
-      "text": "sixth form, Cookridge in Leeds"
+      "text": "sixth form, Cookridge in Leeds",
+      "source": "TV"
     },
     {
       "start": 1634.58,
       "end": 1636.44,
-      "text": "namely Pete and John and Doc and Phil and Wig and"
+      "text": "namely Pete and John and Doc and Phil and Wig and",
+      "source": "TV"
     },
     {
       "start": 1636.44,
       "end": 1638.4,
-      "text": "Carl and everybody else, with very best"
+      "text": "Carl and everybody else, with very best",
+      "source": "TV"
     },
     {
       "start": 1638.4,
       "end": 1643.38,
-      "text": "wishes from everybody who goes to the sixth form at that particular place in leeds ralph thorsby"
+      "text": "wishes from everybody who goes to the sixth form at that particular place in leeds ralph thorsby",
+      "source": "TV"
     },
     {
       "start": 1643.38,
       "end": 1649.67,
-      "text": "school mention as well for david and ken and neil and richard and steve and myself myself being john"
+      "text": "school mention as well for david and ken and neil and richard and steve and myself myself being john",
+      "source": "TV"
     },
     {
       "start": 1649.67,
       "end": 1656.19,
-      "text": "brinkworth who lives at number one hardy road in wareham in dorset i hope all the exam results were"
+      "text": "brinkworth who lives at number one hardy road in wareham in dorset i hope all the exam results were",
+      "source": "TV"
     },
     {
       "start": 1656.19,
       "end": 1662.61,
-      "text": "positive and before free you heard toad the wet sprocket and rock and roll runner and now here's"
+      "text": "positive and before free you heard toad the wet sprocket and rock and roll runner and now here's",
+      "source": "TV"
     },
     {
       "start": 1662.61,
       "end": 1672.21,
-      "text": "rory gallagher dispreased as if he didn't know from the three-track ep that was given away"
+      "text": "rory gallagher dispreased as if he didn't know from the three-track ep that was given away",
+      "source": "TV"
     },
     {
       "start": 2346.68,
       "end": 2348.06,
-      "text": "free gratis and from nothing"
+      "text": "free gratis and from nothing",
+      "source": "TV"
     },
     {
       "start": 2348.06,
       "end": 2350.32,
-      "text": "with the album Unleashed in the East"
+      "text": "with the album Unleashed in the East",
+      "source": "TV"
     },
     {
       "start": 2350.32,
       "end": 2352.92,
-      "text": "and a live version of Beyond the Realms of Death."
+      "text": "and a live version of Beyond the Realms of Death.",
+      "source": "TV"
     },
     {
       "start": 2353.58,
       "end": 2355.1,
-      "text": "And that was, of course, for loads of people."
+      "text": "And that was, of course, for loads of people.",
+      "source": "TV"
     },
     {
       "start": 2355.3,
       "end": 2356.54,
-      "text": "Paul and Andy and Rick and Kev"
+      "text": "Paul and Andy and Rick and Kev",
+      "source": "TV"
     },
     {
       "start": 2356.54,
       "end": 2358.2,
-      "text": "and the rest of the Folkestone Heavy Metal crew."
+      "text": "and the rest of the Folkestone Heavy Metal crew.",
+      "source": "TV"
     },
     {
       "start": 2358.64,
       "end": 2359.8,
-      "text": "That includes Stu and Jackie."
+      "text": "That includes Stu and Jackie.",
+      "source": "TV"
     },
     {
       "start": 2360.04,
       "end": 2362.76,
-      "text": "And also, fond love to Liz,"
+      "text": "And also, fond love to Liz,",
+      "source": "TV"
     },
     {
       "start": 2362.9,
       "end": 2364.78,
-      "text": "the girl I love, says Chris Harris,"
+      "text": "the girl I love, says Chris Harris,",
+      "source": "TV"
     },
     {
       "start": 2364.92,
       "end": 2367.32,
-      "text": "who lives in Liminge in Kent."
+      "text": "who lives in Liminge in Kent.",
+      "source": "TV"
     },
     {
       "start": 2368.44,
       "end": 2370.96,
-      "text": "Kathy Sumner wants me to make a couple of people happy,"
+      "text": "Kathy Sumner wants me to make a couple of people happy,",
+      "source": "TV"
     },
     {
       "start": 2371.04,
       "end": 2372.78,
-      "text": "and I hope I just did with that Judas Priest track."
+      "text": "and I hope I just did with that Judas Priest track.",
+      "source": "TV"
     },
     {
       "start": 2373.1,
       "end": 2375.0,
-      "text": "Track, rather, they are Jebo and Ian."
+      "text": "Track, rather, they are Jebo and Ian.",
+      "source": "TV"
     },
     {
       "start": 2375.54,
       "end": 2377.64,
-      "text": "And Kathy lives in Southport in Merseyside."
+      "text": "And Kathy lives in Southport in Merseyside.",
+      "source": "TV"
     },
     {
       "start": 2378.04,
       "end": 2380.4,
-      "text": "Kathy, thank you very much for the perfume on the letter."
+      "text": "Kathy, thank you very much for the perfume on the letter.",
+      "source": "TV"
     },
     {
       "start": 2380.6,
       "end": 2381.5,
-      "text": "It's brightened up the studio."
+      "text": "It's brightened up the studio.",
+      "source": "TV"
     },
     {
       "start": 2382.58,
       "end": 2386.36,
-      "text": "Also have to say hello to everybody who is connected with Graham Niblock,"
+      "text": "Also have to say hello to everybody who is connected with Graham Niblock,",
+      "source": "TV"
     },
     {
       "start": 2386.46,
       "end": 2388.74,
-      "text": "who lives in Whitehead in County Antrim in Northern Ireland."
+      "text": "who lives in Whitehead in County Antrim in Northern Ireland.",
+      "source": "TV"
     },
     {
       "start": 2389.36,
       "end": 2392.58,
-      "text": "And hello also to Andy Hibbert, who's in Chertsey in Surrey."
+      "text": "And hello also to Andy Hibbert, who's in Chertsey in Surrey.",
+      "source": "TV"
     },
     {
       "start": 2393.4,
       "end": 2395.2,
-      "text": "And the track you heard before that is the new single,"
+      "text": "And the track you heard before that is the new single,",
+      "source": "TV"
     },
     {
       "start": 2395.48,
       "end": 2398.12,
-      "text": "the one that's just been released on Chrysalis, by Rory Gallagher."
+      "text": "the one that's just been released on Chrysalis, by Rory Gallagher.",
+      "source": "TV"
     },
     {
       "start": 2398.22,
       "end": 2401.56,
-      "text": "A track from the album called Stage Struck."
+      "text": "A track from the album called Stage Struck.",
+      "source": "TV"
     },
     {
       "start": 2401.84,
       "end": 2403.32,
-      "text": "Very hard to say that. Stage Struck."
+      "text": "Very hard to say that. Stage Struck.",
+      "source": "TV"
     },
     {
       "start": 2403.32,
       "end": 2412.42,
-      "text": "The track was, of course, Wayward Child, and I would think at this moment of time, it being 20 minutes now exactly to 11, that Mr. Gallagher is on stage at Reading, and wouldn't it be nice to be there listening to him?"
+      "text": "The track was, of course, Wayward Child, and I would think at this moment of time, it being 20 minutes now exactly to 11, that Mr. Gallagher is on stage at Reading, and wouldn't it be nice to be there listening to him?",
+      "source": "TV"
     },
     {
       "start": 2419.1,
       "end": 2429.58,
-      "text": "You and I are not there, but we can actually hear what he's been doing on stage tonight via Mr. Tony Wilson and his production crew who are currently recording it, and that's going to be going out shortly on the Friday Rock Show."
+      "text": "You and I are not there, but we can actually hear what he's been doing on stage tonight via Mr. Tony Wilson and his production crew who are currently recording it, and that's going to be going out shortly on the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 2429.58,
       "end": 2440.98,
-      "text": "back now to our session by Krokus and time and again and they should at this moment of time"
+      "text": "back now to our session by Krokus and time and again and they should at this moment of time",
+      "source": "TV"
     },
     {
       "start": 2440.98,
@@ -605,97 +681,116 @@
     {
       "start": 2904.52,
       "end": 2908.42,
-      "text": "they being mr gillan and the whole of his band be winging their way to the continent of europe"
+      "text": "they being mr gillan and the whole of his band be winging their way to the continent of europe",
+      "source": "TV"
     },
     {
       "start": 2908.42,
       "end": 2912.5,
-      "text": "having finished their performance tonight at running because they're doing two further festivals"
+      "text": "having finished their performance tonight at running because they're doing two further festivals",
+      "source": "TV"
     },
     {
       "start": 2912.5,
       "end": 2917.82,
-      "text": "one tomorrow night and one on sunday and i played gillan for loads of people like i play most of"
+      "text": "one tomorrow night and one on sunday and i played gillan for loads of people like i play most of",
+      "source": "TV"
     },
     {
       "start": 2917.82,
       "end": 2921.14,
-      "text": "the things on this program for loads of people haven't got time to mention all the names but"
+      "text": "the things on this program for loads of people haven't got time to mention all the names but",
+      "source": "TV"
     },
     {
       "start": 2921.14,
       "end": 2928.46,
-      "text": "we'll try con middleton of d side in cluid in north wales and also for ian coombs who lives"
+      "text": "we'll try con middleton of d side in cluid in north wales and also for ian coombs who lives",
+      "source": "TV"
     },
     {
       "start": 2928.46,
       "end": 2930.54,
-      "text": "in Ebervale in Gwent, and for"
+      "text": "in Ebervale in Gwent, and for",
+      "source": "TV"
     },
     {
       "start": 2930.54,
       "end": 2932.44,
-      "text": "Ian Walker and all his friends there in"
+      "text": "Ian Walker and all his friends there in",
+      "source": "TV"
     },
     {
       "start": 2932.44,
       "end": 2934.3,
-      "text": "Crawley in Sussex, and also for"
+      "text": "Crawley in Sussex, and also for",
+      "source": "TV"
     },
     {
       "start": 2934.3,
       "end": 2936.24,
-      "text": "Stephen Pickles of [redacted address]]"
+      "text": "Stephen Pickles of [redacted address]]",
+      "source": "TV"
     },
     {
       "start": 2936.24,
       "end": 2938.42,
-      "text": "Chepstow in"
+      "text": "Chepstow in",
+      "source": "TV"
     },
     {
       "start": 2938.42,
       "end": 2940.78,
-      "text": "Gwent. And before that, you heard"
+      "text": "Gwent. And before that, you heard",
+      "source": "TV"
     },
     {
       "start": 2940.78,
       "end": 2942.72,
-      "text": "something from that Swiss-based band with a"
+      "text": "something from that Swiss-based band with a",
+      "source": "TV"
     },
     {
       "start": 2942.72,
       "end": 2944.66,
-      "text": "Maltese lead singer, the band by the name of"
+      "text": "Maltese lead singer, the band by the name of",
+      "source": "TV"
     },
     {
       "start": 2944.66,
       "end": 2946.88,
-      "text": "Mark Staracci, the band called Krokus"
+      "text": "Mark Staracci, the band called Krokus",
+      "source": "TV"
     },
     {
       "start": 2946.88,
       "end": 2948.34,
-      "text": "and Lady Double Dealer."
+      "text": "and Lady Double Dealer.",
+      "source": "TV"
     },
     {
       "start": 2951.25,
       "end": 2952.81,
-      "text": "This is the Friday Rock Show."
+      "text": "This is the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 2952.95,
       "end": 2955.15,
-      "text": "It's 11 minutes to 11, and here's"
+      "text": "It's 11 minutes to 11, and here's",
+      "source": "TV"
     },
     {
       "start": 2955.15,
       "end": 2956.33,
-      "text": "Toad the Wet Sprocket."
+      "text": "Toad the Wet Sprocket.",
+      "source": "TV"
     },
     {
       "start": 2956.71,
       "end": 2961.51,
-      "text": "A clip that came out in 1971, which"
+      "text": "A clip that came out in 1971, which",
+      "source": "TV"
     },
     {
       "start": 3420.0,
@@ -712,282 +807,338 @@
     {
       "start": 3617.64,
       "end": 3619.66,
-      "text": "incidentally has just been re-released"
+      "text": "incidentally has just been re-released",
+      "source": "TV"
     },
     {
       "start": 3619.66,
       "end": 3622.04,
-      "text": "in this country under the Rock Files series."
+      "text": "in this country under the Rock Files series.",
+      "source": "TV"
     },
     {
       "start": 3623.62,
       "end": 3626.12,
-      "text": "Playback for Steve Webster, who lives in Hyde in Southampton,"
+      "text": "Playback for Steve Webster, who lives in Hyde in Southampton,",
+      "source": "TV"
     },
     {
       "start": 3626.34,
       "end": 3628.6,
-      "text": "and also for all the good friends of Mark Brockway."
+      "text": "and also for all the good friends of Mark Brockway.",
+      "source": "TV"
     },
     {
       "start": 3629.0,
       "end": 3632.32,
-      "text": "That's everybody who attends the Hostel House King's School in Worcester."
+      "text": "That's everybody who attends the Hostel House King's School in Worcester.",
+      "source": "TV"
     },
     {
       "start": 3633.23,
       "end": 3635.99,
-      "text": "And for all the good mates of Graham Pomeroy,"
+      "text": "And for all the good mates of Graham Pomeroy,",
+      "source": "TV"
     },
     {
       "start": 3636.11,
       "end": 3638.59,
-      "text": "who include Brother Steve and Phil and Claire and Jan,"
+      "text": "who include Brother Steve and Phil and Claire and Jan,",
+      "source": "TV"
     },
     {
       "start": 3638.67,
       "end": 3641.47,
-      "text": "and everybody who was at Kingston Polytechnic during 1973,"
+      "text": "and everybody who was at Kingston Polytechnic during 1973,",
+      "source": "TV"
     },
     {
       "start": 3642.17,
       "end": 3645.43,
-      "text": "and everybody who was a rather frequent The Royal Charter"
+      "text": "and everybody who was a rather frequent The Royal Charter",
+      "source": "TV"
     },
     {
       "start": 3645.43,
       "end": 3646.83,
-      "text": "or The Three Fishes in Kingston,"
+      "text": "or The Three Fishes in Kingston,",
+      "source": "TV"
     },
     {
       "start": 3646.83,
       "end": 3649.91,
-      "text": "and also everybody who was at the Croydon Greyhound gigs"
+      "text": "and also everybody who was at the Croydon Greyhound gigs",
+      "source": "TV"
     },
     {
       "start": 3649.91,
       "end": 3651.33,
-      "text": "back in 70 to 73"
+      "text": "back in 70 to 73",
+      "source": "TV"
     },
     {
       "start": 3651.33,
       "end": 3654.53,
-      "text": "when Stray and Budgie and Status Quo were regulars."
+      "text": "when Stray and Budgie and Status Quo were regulars.",
+      "source": "TV"
     },
     {
       "start": 3654.91,
       "end": 3657.27,
-      "text": "Let me tell you that Tony Wilson was a regular in those days"
+      "text": "Let me tell you that Tony Wilson was a regular in those days",
+      "source": "TV"
     },
     {
       "start": 3657.27,
       "end": 3658.41,
-      "text": "and so indeed was I."
+      "text": "and so indeed was I.",
+      "source": "TV"
     },
     {
       "start": 3662.49,
       "end": 3664.17,
-      "text": "And before that you heard something from our session"
+      "text": "And before that you heard something from our session",
+      "source": "TV"
     },
     {
       "start": 3664.17,
       "end": 3665.23,
-      "text": "by Toad the Wet Sprocket."
+      "text": "by Toad the Wet Sprocket.",
+      "source": "TV"
     },
     {
       "start": 3665.37,
       "end": 3667.21,
-      "text": "The track was One Glass of Whiskey."
+      "text": "The track was One Glass of Whiskey.",
+      "source": "TV"
     },
     {
       "start": 3669.17,
       "end": 3670.89,
-      "text": "And now it's time for the Friday Night Connection"
+      "text": "And now it's time for the Friday Night Connection",
+      "source": "TV"
     },
     {
       "start": 3670.89,
       "end": 3673.01,
-      "text": "at one minute past eleven on the Friday Rock Show."
+      "text": "at one minute past eleven on the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 3673.25,
       "end": 3674.99,
-      "text": "And the tracks I played you last week were these."
+      "text": "And the tracks I played you last week were these.",
+      "source": "TV"
     },
     {
       "start": 3675.11,
       "end": 3676.77,
-      "text": "Bells of Berlin by Lone Star"
+      "text": "Bells of Berlin by Lone Star",
+      "source": "TV"
     },
     {
       "start": 3676.77,
       "end": 3678.73,
-      "text": "from the LP Firing on All Six."
+      "text": "from the LP Firing on All Six.",
+      "source": "TV"
     },
     {
       "start": 3679.5,
       "end": 3681.16,
-      "text": "And Extract or Excerpt"
+      "text": "And Extract or Excerpt",
+      "source": "TV"
     },
     {
       "start": 3681.16,
       "end": 3683.12,
-      "text": "from Tubular Bells by Mike Oldfield."
+      "text": "from Tubular Bells by Mike Oldfield.",
+      "source": "TV"
     },
     {
       "start": 3683.12,
       "end": 3685.48,
-      "text": "and Whiskey in the Jar by Thin Lizzy."
+      "text": "and Whiskey in the Jar by Thin Lizzy.",
+      "source": "TV"
     },
     {
       "start": 3685.56,
       "end": 3688.34,
-      "text": "Now, nearly everybody got a sort of right answer."
+      "text": "Now, nearly everybody got a sort of right answer.",
+      "source": "TV"
     },
     {
       "start": 3688.82,
       "end": 3691.0,
-      "text": "Quite a number of people thought the clue was"
+      "text": "Quite a number of people thought the clue was",
+      "source": "TV"
     },
     {
       "start": 3691.0,
       "end": 3695.24,
-      "text": "Whiskey in the Jar equals a famous name of whiskey made, of course, in Scotland,"
+      "text": "Whiskey in the Jar equals a famous name of whiskey made, of course, in Scotland,",
+      "source": "TV"
     },
     {
       "start": 3695.48,
       "end": 3697.4,
-      "text": "but that was not the accurate answer."
+      "text": "but that was not the accurate answer.",
+      "source": "TV"
     },
     {
       "start": 3698.08,
       "end": 3700.58,
-      "text": "The answer was obviously Bell, right?"
+      "text": "The answer was obviously Bell, right?",
+      "source": "TV"
     },
     {
       "start": 3701.95,
       "end": 3704.57,
-      "text": "But it really relied on you remembering"
+      "text": "But it really relied on you remembering",
+      "source": "TV"
     },
     {
       "start": 3704.57,
       "end": 3707.39,
-      "text": "that when Whiskey in the Jar was recorded by Thin Lizzy,"
+      "text": "that when Whiskey in the Jar was recorded by Thin Lizzy,",
+      "source": "TV"
     },
     {
       "start": 3707.91,
       "end": 3710.19,
-      "text": "Eric Bell was a member of that band."
+      "text": "Eric Bell was a member of that band.",
+      "source": "TV"
     },
     {
       "start": 3710.57,
       "end": 3713.35,
-      "text": "It was not the good old whiskey."
+      "text": "It was not the good old whiskey.",
+      "source": "TV"
     },
     {
       "start": 3713.63,
       "end": 3718.6,
-      "text": "And the person who got the correct answer was Andy Elliott."
+      "text": "And the person who got the correct answer was Andy Elliott.",
+      "source": "TV"
     },
     {
       "start": 3719.12,
       "end": 3723.38,
-      "text": "And Andy lives at [redacted address], Sittingbourne in Kent, and gets himself a ten-pound record token."
+      "text": "And Andy lives at [redacted address], Sittingbourne in Kent, and gets himself a ten-pound record token.",
+      "source": "TV"
     },
     {
       "start": 3723.52,
       "end": 3724.06,
-      "text": "Well done, sir."
+      "text": "Well done, sir.",
+      "source": "TV"
     },
     {
       "start": 3728.82,
       "end": 3734.82,
-      "text": "And also has set up a very pleasant, very clever..."
+      "text": "And also has set up a very pleasant, very clever...",
+      "source": "TV"
     },
     {
       "start": 4553.05,
       "end": 4556.03,
-      "text": "...that was put together by Andy Elliott, who lives in Sittingbourne in Kent."
+      "text": "...that was put together by Andy Elliott, who lives in Sittingbourne in Kent.",
+      "source": "TV"
     },
     {
       "start": 4559.36,
       "end": 4563.48,
-      "text": "Three bits of music, and somewhere in there is the answer."
+      "text": "Three bits of music, and somewhere in there is the answer.",
+      "source": "TV"
     },
     {
       "start": 4565.61,
       "end": 4568.01,
-      "text": "But that's down to you to find out, or to think about."
+      "text": "But that's down to you to find out, or to think about.",
+      "source": "TV"
     },
     {
       "start": 4568.31,
       "end": 4575.4,
-      "text": "And if you can, well, why don't you put it on a postcard, or any form of communication you like, for that matter."
+      "text": "And if you can, well, why don't you put it on a postcard, or any form of communication you like, for that matter.",
+      "source": "TV"
     },
     {
       "start": 4575.5,
       "end": 4576.51,
-      "text": "And send it to me."
+      "text": "And send it to me.",
+      "source": "TV"
     },
     {
       "start": 4576.69,
       "end": 4577.61,
-      "text": "My name is Tommy Vance."
+      "text": "My name is Tommy Vance.",
+      "source": "TV"
     },
     {
       "start": 4577.77,
       "end": 4579.69,
-      "text": "The program is called The Friday Rock Show."
+      "text": "The program is called The Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 4580.13,
       "end": 4582.07,
-      "text": "But just before that, put the Friday Night Connection."
+      "text": "But just before that, put the Friday Night Connection.",
+      "source": "TV"
     },
     {
       "start": 4582.49,
       "end": 4583.71,
-      "text": "And our address goes like this."
+      "text": "And our address goes like this.",
+      "source": "TV"
     },
     {
       "start": 4583.83,
       "end": 4590.05,
-      "text": "BBC Radio 1, Broadcasting House, London, W1A4WW."
+      "text": "BBC Radio 1, Broadcasting House, London, W1A4WW.",
+      "source": "TV"
     },
     {
       "start": 4590.83,
       "end": 4595.03,
-      "text": "Don't forget, your side of the deal is to put together the same thing."
+      "text": "Don't forget, your side of the deal is to put together the same thing.",
+      "source": "TV"
     },
     {
       "start": 4595.31,
       "end": 4596.73,
-      "text": "Three bits of music with a connection."
+      "text": "Three bits of music with a connection.",
+      "source": "TV"
     },
     {
       "start": 4596.93,
       "end": 4599.81,
-      "text": "And if you're the card or letter that we pull out of the bag,"
+      "text": "And if you're the card or letter that we pull out of the bag,",
+      "source": "TV"
     },
     {
       "start": 4599.81,
       "end": 4605.63,
-      "text": "or choose as being the most representative of the music that we feel our audience would like,"
+      "text": "or choose as being the most representative of the music that we feel our audience would like,",
+      "source": "TV"
     },
     {
       "start": 4606.03,
       "end": 4607.65,
-      "text": "you get yourself a £10 record token."
+      "text": "you get yourself a £10 record token.",
+      "source": "TV"
     },
     {
       "start": 4616.14,
       "end": 4616.82,
-      "text": "And croakness."
+      "text": "And croakness.",
+      "source": "TV"
     },
     {
       "start": 4617.26,
       "end": 4623.26,
-      "text": "Two albums I'm currently playing at home all the time."
+      "text": "Two albums I'm currently playing at home all the time.",
+      "source": "TV"
     },
     {
       "start": 4860.0,
@@ -1004,92 +1155,110 @@
     {
       "start": 5267.48,
       "end": 5270.52,
-      "text": "One of them is by Diamondhead and the other one is by That Man."
+      "text": "One of them is by Diamondhead and the other one is by That Man.",
+      "source": "TV"
     },
     {
       "start": 5272.08,
       "end": 5274.08,
-      "text": "And That Man is the Michael Schenker group,"
+      "text": "And That Man is the Michael Schenker group,",
+      "source": "TV"
     },
     {
       "start": 5274.36,
       "end": 5278.26,
-      "text": "which is a great album, a superlative album, not a duff track on it."
+      "text": "which is a great album, a superlative album, not a duff track on it.",
+      "source": "TV"
     },
     {
       "start": 5279.16,
       "end": 5280.76,
-      "text": "The album is called The Michael Schenker Group,"
+      "text": "The album is called The Michael Schenker Group,",
+      "source": "TV"
     },
     {
       "start": 5280.76,
       "end": 5283.8,
-      "text": "the track you just heard was Lost Horizons and it's out right now on Christmas."
+      "text": "the track you just heard was Lost Horizons and it's out right now on Christmas.",
+      "source": "TV"
     },
     {
       "start": 5284.32,
       "end": 5290.1,
-      "text": "And I play that for somebody whose name I really just cannot read,"
+      "text": "And I play that for somebody whose name I really just cannot read,",
+      "source": "TV"
     },
     {
       "start": 5290.2,
       "end": 5291.98,
-      "text": "but I do know they come from Worcester."
+      "text": "but I do know they come from Worcester.",
+      "source": "TV"
     },
     {
       "start": 5292.66,
       "end": 5296.26,
-      "text": "They wanted me to say hello and goodbye to all the Worcester heavy metal fans"
+      "text": "They wanted me to say hello and goodbye to all the Worcester heavy metal fans",
+      "source": "TV"
     },
     {
       "start": 5296.26,
       "end": 5300.02,
-      "text": "because that particular indecipherable person or undecipherable person"
+      "text": "because that particular indecipherable person or undecipherable person",
+      "source": "TV"
     },
     {
       "start": 5300.02,
       "end": 5304.12,
-      "text": "is emigrating to the United States of America on the 27th of this month"
+      "text": "is emigrating to the United States of America on the 27th of this month",
+      "source": "TV"
     },
     {
       "start": 5304.12,
       "end": 5308.5,
-      "text": "and wants me to say good luck to all the people that that particular person"
+      "text": "and wants me to say good luck to all the people that that particular person",
+      "source": "TV"
     },
     {
       "start": 5308.5,
       "end": 5310.04,
-      "text": "has been associated with for some time."
+      "text": "has been associated with for some time.",
+      "source": "TV"
     },
     {
       "start": 5310.14,
       "end": 5311.92,
-      "text": "I hope you have a good time in the USA. It's a good country."
+      "text": "I hope you have a good time in the USA. It's a good country.",
+      "source": "TV"
     },
     {
       "start": 5311.92,
       "end": 5320.74,
-      "text": "also got to say hello to everybody who's involved in a british bike rally at corf castle in dorset"
+      "text": "also got to say hello to everybody who's involved in a british bike rally at corf castle in dorset",
+      "source": "TV"
     },
     {
       "start": 5320.74,
       "end": 5327.44,
-      "text": "at the moment and also has an indecipherable name or undecipherable and is having a 21st"
+      "text": "at the moment and also has an indecipherable name or undecipherable and is having a 21st",
+      "source": "TV"
     },
     {
       "start": 5327.44,
       "end": 5337.11,
-      "text": "birthday today so to everybody in the t-o-m-c-c good evening and also hi to jeff stell who lives"
+      "text": "birthday today so to everybody in the t-o-m-c-c good evening and also hi to jeff stell who lives",
+      "source": "TV"
     },
     {
       "start": 5337.11,
       "end": 5342.25,
-      "text": "in winterton in scunthorpe and before the michael shenker group you heard Krokus and something from"
+      "text": "in winterton in scunthorpe and before the michael shenker group you heard Krokus and something from",
+      "source": "TV"
     },
     {
       "start": 5342.25,
       "end": 5353.65,
-      "text": "our repeat session by then it was called mad racket 11 29 toad the wet sprocket a classic or"
+      "text": "our repeat session by then it was called mad racket 11 29 toad the wet sprocket a classic or",
+      "source": "TV"
     },
     {
       "start": 5760.0,
@@ -1106,77 +1275,92 @@
     {
       "start": 6033.77,
       "end": 6039.29,
-      "text": "is that a classic recorded in 1970 led zeppelin 3 was the album the band led zeppelin and since"
+      "text": "is that a classic recorded in 1970 led zeppelin 3 was the album the band led zeppelin and since",
+      "source": "TV"
     },
     {
       "start": 6039.29,
       "end": 6044.47,
-      "text": "i've been loving you for all the led zeppelin people around the country particularly for paul"
+      "text": "i've been loving you for all the led zeppelin people around the country particularly for paul",
+      "source": "TV"
     },
     {
       "start": 6044.47,
       "end": 6052.25,
-      "text": "barnard of fairwater in cardiff who sent me a postcard from partizan or whatever it's called"
+      "text": "barnard of fairwater in cardiff who sent me a postcard from partizan or whatever it's called",
+      "source": "TV"
     },
     {
       "start": 6052.25,
       "end": 6056.59,
-      "text": "or pronounced in the tyrol wanted me to say hello to stodge and dom and dave and woody and"
+      "text": "or pronounced in the tyrol wanted me to say hello to stodge and dom and dave and woody and",
+      "source": "TV"
     },
     {
       "start": 6056.59,
       "end": 6060.97,
-      "text": "topper and lock and martin and before that you heard something by toad the wet sprocket it was"
+      "text": "topper and lock and martin and before that you heard something by toad the wet sprocket it was",
+      "source": "TV"
     },
     {
       "start": 6060.97,
       "end": 6066.69,
-      "text": "called just another game like to say congratulations to thunder child who are up there in air they have"
+      "text": "called just another game like to say congratulations to thunder child who are up there in air they have",
+      "source": "TV"
     },
     {
       "start": 6066.69,
       "end": 6071.73,
-      "text": "actually got themselves through to the final of a sort of contest a talent contest up there good"
+      "text": "actually got themselves through to the final of a sort of contest a talent contest up there good",
+      "source": "TV"
     },
     {
       "start": 6071.73,
       "end": 6075.91,
-      "text": "luck in the final to peter and to billy and to the rest of the band lots of luck from allison"
+      "text": "luck in the final to peter and to billy and to the rest of the band lots of luck from allison",
+      "source": "TV"
     },
     {
       "start": 6075.91,
       "end": 6086.71,
-      "text": "and linda and also from jackie and from yvonne and now here's our final one from Krokus that's"
+      "text": "and linda and also from jackie and from yvonne and now here's our final one from Krokus that's",
+      "source": "TV"
     },
     {
       "start": 6467.99,
       "end": 6472.33,
-      "text": "the band that's risen out of the ashes of Leonard Skinner, the unfortunate ashes thereof. I think"
+      "text": "the band that's risen out of the ashes of Leonard Skinner, the unfortunate ashes thereof. I think",
+      "source": "TV"
     },
     {
       "start": 6472.33,
       "end": 6475.43,
-      "text": "they're a good band. They don't seem to have attracted too much attention in this country."
+      "text": "they're a good band. They don't seem to have attracted too much attention in this country.",
+      "source": "TV"
     },
     {
       "start": 6475.59,
       "end": 6479.97,
-      "text": "I really think they lay it down nicely. Dale Kranz is the lead vocalist there. She's an attractive"
+      "text": "I really think they lay it down nicely. Dale Kranz is the lead vocalist there. She's an attractive",
+      "source": "TV"
     },
     {
       "start": 6479.97,
       "end": 6484.59,
-      "text": "lady. He used to back 38 Special. The album that they've got is called Anytime, Anyplace and"
+      "text": "lady. He used to back 38 Special. The album that they've got is called Anytime, Anyplace and",
+      "source": "TV"
     },
     {
       "start": 6484.59,
       "end": 6488.43,
-      "text": "Anywhere. The name of the band is the Rossington Collins Band and the track you heard there was"
+      "text": "Anywhere. The name of the band is the Rossington Collins Band and the track you heard there was",
+      "source": "TV"
     },
     {
       "start": 6488.43,
       "end": 6499.83,
-      "text": "Prime Time. And now here's a big deal from Toad, the sprocket, wet. By loads of people and happily"
+      "text": "Prime Time. And now here's a big deal from Toad, the sprocket, wet. By loads of people and happily",
+      "source": "TV"
     },
     {
       "start": 6499.83,
@@ -1205,92 +1389,110 @@
     {
       "start": 7162.98,
       "end": 7167.36,
-      "text": "played by myself for loads of people from the album gone to earth buckley james harvest and"
+      "text": "played by myself for loads of people from the album gone to earth buckley james harvest and",
+      "source": "TV"
     },
     {
       "start": 7167.36,
       "end": 7172.52,
-      "text": "poor man's moody blues and prior to that toad the wet sprocket from our ace session by them"
+      "text": "poor man's moody blues and prior to that toad the wet sprocket from our ace session by them",
+      "source": "TV"
     },
     {
       "start": 7172.52,
       "end": 7177.91,
-      "text": "the repeat thereof the track was big deal thanks to our engineers tonight dave and tim thank you"
+      "text": "the repeat thereof the track was big deal thanks to our engineers tonight dave and tim thank you",
+      "source": "TV"
     },
     {
       "start": 7177.91,
       "end": 7183.9,
-      "text": "dave and tim no words of wisdom from wilson tonight tw that is who's the producer of this"
+      "text": "dave and tim no words of wisdom from wilson tonight tw that is who's the producer of this",
+      "source": "TV"
     },
     {
       "start": 7183.9,
       "end": 7188.98,
-      "text": "program because he's on the site at reading recording loads of acts for broadcast here"
+      "text": "program because he's on the site at reading recording loads of acts for broadcast here",
+      "source": "TV"
     },
     {
       "start": 7188.98,
       "end": 7190.08,
-      "text": "on the Friday Rock Show."
+      "text": "on the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 7193.41,
       "end": 7194.41,
-      "text": "Walk on Saturday tomorrow."
+      "text": "Walk on Saturday tomorrow.",
+      "source": "TV"
     },
     {
       "start": 7194.59,
       "end": 7195.25,
-      "text": "Hold out a good start"
+      "text": "Hold out a good start",
+      "source": "TV"
     },
     {
       "start": 7195.25,
       "end": 7197.23,
-      "text": "between 4 and 7.30."
+      "text": "between 4 and 7.30.",
+      "source": "TV"
     },
     {
       "start": 7197.67,
       "end": 7198.91,
-      "text": "Including UFO in concert."
+      "text": "Including UFO in concert.",
+      "source": "TV"
     },
     {
       "start": 7199.03,
       "end": 7199.57,
-      "text": "If you're going to get"
+      "text": "If you're going to get",
+      "source": "TV"
     },
     {
       "start": 7199.57,
       "end": 7200.35,
-      "text": "your head down now"
+      "text": "your head down now",
+      "source": "TV"
     },
     {
       "start": 7200.35,
       "end": 7201.51,
-      "text": "at Reading for another day's"
+      "text": "at Reading for another day's",
+      "source": "TV"
     },
     {
       "start": 7201.51,
       "end": 7202.49,
-      "text": "fine entertainment tomorrow,"
+      "text": "fine entertainment tomorrow,",
+      "source": "TV"
     },
     {
       "start": 7202.57,
       "end": 7203.11,
-      "text": "have a good night."
+      "text": "have a good night.",
+      "source": "TV"
     },
     {
       "start": 7203.45,
       "end": 7204.23,
-      "text": "Wherever you are,"
+      "text": "Wherever you are,",
+      "source": "TV"
     },
     {
       "start": 7204.35,
       "end": 7205.29,
-      "text": "I'm Tommy Vance in London."
+      "text": "I'm Tommy Vance in London.",
+      "source": "TV"
     },
     {
       "start": 7205.59,
       "end": 7206.79,
-      "text": "God bless and good night."
+      "text": "God bless and good night.",
+      "source": "TV"
     }
   ]
 }

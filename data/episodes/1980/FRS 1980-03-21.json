@@ -192,52 +192,62 @@
     {
       "start": 6.19,
       "end": 13.19,
-      "text": "On 275 and 285. Also broadcasting in stereo on VHF. This is National Radio 1."
+      "text": "On 275 and 285. Also broadcasting in stereo on VHF. This is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 13.19,
       "end": 29.0,
-      "text": "Well, hello there. Good evening to you. This is TV on the Radio, Thomas Vance. Welcome once again to the Friday Rock Show."
+      "text": "Well, hello there. Good evening to you. This is TV on the Radio, Thomas Vance. Welcome once again to the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 29.0,
       "end": 35.13,
-      "text": "And tonight, the second in our flashback series. The whole of this program is going to be devoted to 1968."
+      "text": "And tonight, the second in our flashback series. The whole of this program is going to be devoted to 1968.",
+      "source": "TV"
     },
     {
       "start": 35.13,
       "end": 42.13,
-      "text": "You'll hear some rare sessions by Family, Jethro Tull and Status Quo, and a really rare one by Fleetwood Mac."
+      "text": "You'll hear some rare sessions by Family, Jethro Tull and Status Quo, and a really rare one by Fleetwood Mac.",
+      "source": "TV"
     },
     {
       "start": 55.75,
       "end": 61.33,
-      "text": "Also, we'll be playing tracks by the Rolling Stones, Captain Beefheart, Chicken Shack, Hendrix, Floyd, Dylan, and Jeff Beck."
+      "text": "Also, we'll be playing tracks by the Rolling Stones, Captain Beefheart, Chicken Shack, Hendrix, Floyd, Dylan, and Jeff Beck.",
+      "source": "TV"
     },
     {
       "start": 62.53,
       "end": 66.41,
-      "text": "Now, 1968 was not a head-banging year, so don't expect any heavy metal,"
+      "text": "Now, 1968 was not a head-banging year, so don't expect any heavy metal,",
+      "source": "TV"
     },
     {
       "start": 66.57,
       "end": 70.67,
-      "text": "but you will hear the first-ever single by Deep Purple and loads and loads of classics."
+      "text": "but you will hear the first-ever single by Deep Purple and loads and loads of classics.",
+      "source": "TV"
     },
     {
       "start": 71.21,
       "end": 72.97,
-      "text": "So if you're interested, stay tuned."
+      "text": "So if you're interested, stay tuned.",
+      "source": "TV"
     },
     {
       "start": 73.37,
       "end": 74.51,
-      "text": "We start with this."
+      "text": "We start with this.",
+      "source": "TV"
     },
     {
       "start": 75.71,
       "end": 80.05,
-      "text": "I'm the God of Hellfire, and I bring you fire."
+      "text": "I'm the God of Hellfire, and I bring you fire.",
+      "source": "TV"
     },
     {
       "start": 180.0,
@@ -254,102 +264,122 @@
     {
       "start": 465.64,
       "end": 468.88,
-      "text": "Flashback 68, that was Judy Driscoll, Brian Auger, and the Trinity,"
+      "text": "Flashback 68, that was Judy Driscoll, Brian Auger, and the Trinity,",
+      "source": "TV"
     },
     {
       "start": 468.88,
       "end": 473.74,
-      "text": "and a song that got to number five in April 1968 is a single written by Bob Dylan,"
+      "text": "and a song that got to number five in April 1968 is a single written by Bob Dylan,",
+      "source": "TV"
     },
     {
       "start": 474.22,
       "end": 476.86,
-      "text": "and it was called This Wheel Is On Fire."
+      "text": "and it was called This Wheel Is On Fire.",
+      "source": "TV"
     },
     {
       "start": 478.35,
       "end": 482.05,
-      "text": "Played especially for Tim Collins and all the CES students at the launch,"
+      "text": "Played especially for Tim Collins and all the CES students at the launch,",
+      "source": "TV"
     },
     {
       "start": 482.17,
       "end": 484.73,
-      "text": "or the launch, I think it's called, up there in Coventry."
+      "text": "or the launch, I think it's called, up there in Coventry.",
+      "source": "TV"
     },
     {
       "start": 485.43,
       "end": 488.47,
-      "text": "And before that, you heard something that got to number one in June 1968"
+      "text": "And before that, you heard something that got to number one in June 1968",
+      "source": "TV"
     },
     {
       "start": 488.47,
       "end": 490.39,
-      "text": "by The Crazy World of Arthur Brown."
+      "text": "by The Crazy World of Arthur Brown.",
+      "source": "TV"
     },
     {
       "start": 490.49,
       "end": 493.77,
-      "text": "It was called Fire, co-written by Vincent Crane,"
+      "text": "It was called Fire, co-written by Vincent Crane,",
+      "source": "TV"
     },
     {
       "start": 493.85,
       "end": 496.35,
-      "text": "who went on to form Atomic Rooster after that."
+      "text": "who went on to form Atomic Rooster after that.",
+      "source": "TV"
     },
     {
       "start": 496.35,
       "end": 499.05,
-      "text": "And also, did you know that Karl Palmer was in the band as well?"
+      "text": "And also, did you know that Karl Palmer was in the band as well?",
+      "source": "TV"
     },
     {
       "start": 499.45,
       "end": 501.99,
-      "text": "And he, of course, has got a new band at the moment called P.M."
+      "text": "And he, of course, has got a new band at the moment called P.M.",
+      "source": "TV"
     },
     {
       "start": 502.03,
       "end": 504.25,
-      "text": "Their album is out. It's called 1 P.M."
+      "text": "Their album is out. It's called 1 P.M.",
+      "source": "TV"
     },
     {
       "start": 504.93,
       "end": 507.39,
-      "text": "And that was for Marek Mazlipinski of Leicester,"
+      "text": "And that was for Marek Mazlipinski of Leicester,",
+      "source": "TV"
     },
     {
       "start": 507.59,
       "end": 509.79,
-      "text": "who wanted me to say hello to his love, Teresa."
+      "text": "who wanted me to say hello to his love, Teresa.",
+      "source": "TV"
     },
     {
       "start": 510.53,
       "end": 515.13,
-      "text": "And also for Keith O'Hagan, possibly 68 Dean's Croft, Peterborough and Cambridgeshire."
+      "text": "And also for Keith O'Hagan, possibly 68 Dean's Croft, Peterborough and Cambridgeshire.",
+      "source": "TV"
     },
     {
       "start": 515.71,
       "end": 520.41,
-      "text": "And for all the mates at the Ulster Polytechnic of a gentleman by the name of,"
+      "text": "And for all the mates at the Ulster Polytechnic of a gentleman by the name of,",
+      "source": "TV"
     },
     {
       "start": 520.41,
       "end": 525.01,
-      "text": "I think it's Ranjan Anand, who lives in Port Rush in County Antrim in Northern Ireland."
+      "text": "I think it's Ranjan Anand, who lives in Port Rush in County Antrim in Northern Ireland.",
+      "source": "TV"
     },
     {
       "start": 525.43,
       "end": 527.75,
-      "text": "Also for Andrew Cotton of Holmes Chapel in Cheshire."
+      "text": "Also for Andrew Cotton of Holmes Chapel in Cheshire.",
+      "source": "TV"
     },
     {
       "start": 527.75,
       "end": 532.59,
-      "text": "And for Archie Anderson and his friends Cy, Mary, Ewan and George."
+      "text": "And for Archie Anderson and his friends Cy, Mary, Ewan and George.",
+      "source": "TV"
     },
     {
       "start": 532.69,
       "end": 533.59,
-      "text": "And they live in Fife."
+      "text": "And they live in Fife.",
+      "source": "TV"
     },
     {
       "start": 533.59,
@@ -378,132 +408,158 @@
     {
       "start": 1031.79,
       "end": 1034.53,
-      "text": "Still I think some of the strangest music that's ever been made."
+      "text": "Still I think some of the strangest music that's ever been made.",
+      "source": "TV"
     },
     {
       "start": 1034.69,
       "end": 1036.43,
-      "text": "That was recorded in 1968."
+      "text": "That was recorded in 1968.",
+      "source": "TV"
     },
     {
       "start": 1036.77,
       "end": 1040.09,
-      "text": "It was on the second LP put out by Captain Beefheart and his magic band."
+      "text": "It was on the second LP put out by Captain Beefheart and his magic band.",
+      "source": "TV"
     },
     {
       "start": 1040.27,
       "end": 1041.77,
-      "text": "The album was called Strictly Personal."
+      "text": "The album was called Strictly Personal.",
+      "source": "TV"
     },
     {
       "start": 1042.35,
       "end": 1045.49,
-      "text": "And the track was Son of Mirror Man, Mere Man."
+      "text": "And the track was Son of Mirror Man, Mere Man.",
+      "source": "TV"
     },
     {
       "start": 1046.68,
       "end": 1052.3,
-      "text": "And before that something from the 1968 album that came out in round about November or December of that year by the Rolling Stones."
+      "text": "And before that something from the 1968 album that came out in round about November or December of that year by the Rolling Stones.",
+      "source": "TV"
     },
     {
       "start": 1052.48,
       "end": 1053.8,
-      "text": "The album was called Beggar's Banquet."
+      "text": "The album was called Beggar's Banquet.",
+      "source": "TV"
     },
     {
       "start": 1053.8,
       "end": 1056.02,
-      "text": "The track you heard was Street Fighting Man."
+      "text": "The track you heard was Street Fighting Man.",
+      "source": "TV"
     },
     {
       "start": 1056.06,
       "end": 1058.9,
-      "text": "And I played that at the request of Dave Hutchinson"
+      "text": "And I played that at the request of Dave Hutchinson",
+      "source": "TV"
     },
     {
       "start": 1058.9,
       "end": 1062.1,
-      "text": "at [redacted address], Felgate, Jarrow and Tyne and Weir."
+      "text": "at [redacted address], Felgate, Jarrow and Tyne and Weir.",
+      "source": "TV"
     },
     {
       "start": 1062.52,
       "end": 1065.32,
-      "text": "And it was recorded when Brian Jones was still with the band"
+      "text": "And it was recorded when Brian Jones was still with the band",
+      "source": "TV"
     },
     {
       "start": 1065.32,
       "end": 1068.92,
-      "text": "that the actual album, well, it's debatable."
+      "text": "that the actual album, well, it's debatable.",
+      "source": "TV"
     },
     {
       "start": 1069.1,
       "end": 1071.1,
-      "text": "Some people say that he did very little on the album"
+      "text": "Some people say that he did very little on the album",
+      "source": "TV"
     },
     {
       "start": 1071.1,
       "end": 1075.28,
-      "text": "and that Dave Mason and Eric Clapton were actually in most of the sessions,"
+      "text": "and that Dave Mason and Eric Clapton were actually in most of the sessions,",
+      "source": "TV"
     },
     {
       "start": 1075.48,
       "end": 1076.86,
-      "text": "but nobody's ever owned up to that."
+      "text": "but nobody's ever owned up to that.",
+      "source": "TV"
     },
     {
       "start": 1076.96,
       "end": 1078.46,
-      "text": "That's still, I think, rumour."
+      "text": "That's still, I think, rumour.",
+      "source": "TV"
     },
     {
       "start": 1079.43,
       "end": 1081.03,
-      "text": "And those of us old enough to remember"
+      "text": "And those of us old enough to remember",
+      "source": "TV"
     },
     {
       "start": 1081.03,
       "end": 1083.33,
-      "text": "will remember that it was delayed for five months"
+      "text": "will remember that it was delayed for five months",
+      "source": "TV"
     },
     {
       "start": 1083.33,
       "end": 1086.37,
-      "text": "because Decca Records said they didn't like the artwork,"
+      "text": "because Decca Records said they didn't like the artwork,",
+      "source": "TV"
     },
     {
       "start": 1086.67,
       "end": 1088.45,
-      "text": "but ultimately they put it out."
+      "text": "but ultimately they put it out.",
+      "source": "TV"
     },
     {
       "start": 1089.81,
       "end": 1093.33,
-      "text": "And now let's go to our first archive session from 1968, Family."
+      "text": "And now let's go to our first archive session from 1968, Family.",
+      "source": "TV"
     },
     {
       "start": 1093.87,
       "end": 1113.46,
-      "text": "This is out of sight, I tell you, baby."
+      "text": "This is out of sight, I tell you, baby.",
+      "source": "brian matthew"
     },
     {
       "start": 1113.66,
       "end": 1116.5,
-      "text": "We're taking up now with some super interstellar sounds"
+      "text": "We're taking up now with some super interstellar sounds",
+      "source": "brian matthew"
     },
     {
       "start": 1116.5,
       "end": 1119.38,
-      "text": "from a sensational group making their Top of the Pops debut."
+      "text": "from a sensational group making their Top of the Pops debut.",
+      "source": "brian matthew"
     },
     {
       "start": 1119.96,
       "end": 1121.98,
-      "text": "Way out of the vanguard of the current scene,"
+      "text": "Way out of the vanguard of the current scene,",
+      "source": "brian matthew"
     },
     {
       "start": 1121.98,
       "end": 1125.2,
-      "text": "heard here with see-through windows, The Family."
+      "text": "heard here with see-through windows, The Family.",
+      "source": "brian matthew"
     },
     {
       "start": 1125.2,
@@ -532,47 +588,56 @@
     {
       "start": 1612.63,
       "end": 1643.6,
-      "text": "That was Family, as they were in the studios of the BBC on the 3rd of the 9th, way back in 1968."
+      "text": "That was Family, as they were in the studios of the BBC on the 3rd of the 9th, way back in 1968.",
+      "source": "TV"
     },
     {
       "start": 1643.86,
       "end": 1648.68,
-      "text": "The original line-up of Family, that was Chapman, Whitney and Townsend, Roger, Charlie and Rob,"
+      "text": "The original line-up of Family, that was Chapman, Whitney and Townsend, Roger, Charlie and Rob,",
+      "source": "TV"
     },
     {
       "start": 1649.06,
       "end": 1654.54,
-      "text": "and also Jim King and Rick Gretsch on the violin and vocals, and also playing the bass."
+      "text": "and also Jim King and Rick Gretsch on the violin and vocals, and also playing the bass.",
+      "source": "TV"
     },
     {
       "start": 1655.29,
       "end": 1660.09,
-      "text": "And of course, Weaver's Answer went on to become a very big single success for Family in 1971,"
+      "text": "And of course, Weaver's Answer went on to become a very big single success for Family in 1971,",
+      "source": "TV"
     },
     {
       "start": 1660.09,
       "end": 1663.19,
-      "text": "and the other track you heard was See Through Windows."
+      "text": "and the other track you heard was See Through Windows.",
+      "source": "TV"
     },
     {
       "start": 1663.19,
       "end": 1676.47,
-      "text": "And this is how on the album called"
+      "text": "And this is how on the album called",
+      "source": "TV"
     },
     {
       "start": 1676.47,
       "end": 1678.33,
-      "text": "OK Ken, Chicken Shack"
+      "text": "OK Ken, Chicken Shack",
+      "source": "TV"
     },
     {
       "start": 1678.33,
       "end": 1679.61,
-      "text": "introduced Tell Me"
+      "text": "introduced Tell Me",
+      "source": "TV"
     },
     {
       "start": 1679.61,
       "end": 1683.81,
-      "text": "That was a hit in May 1968"
+      "text": "That was a hit in May 1968",
+      "source": "TV"
     },
     {
       "start": 1683.81,
@@ -589,102 +654,122 @@
     {
       "start": 2166.45,
       "end": 2168.95,
-      "text": "and it was a hit all over again in 1972"
+      "text": "and it was a hit all over again in 1972",
+      "source": "TV"
     },
     {
       "start": 2168.95,
       "end": 2170.33,
-      "text": "Tyrannosaurus Rex"
+      "text": "Tyrannosaurus Rex",
+      "source": "TV"
     },
     {
       "start": 2170.33,
       "end": 2172.01,
-      "text": "and Deborah"
+      "text": "and Deborah",
+      "source": "TV"
     },
     {
       "start": 2172.01,
       "end": 2176.01,
-      "text": "Miss old Bowley, he was a lovely fella"
+      "text": "Miss old Bowley, he was a lovely fella",
+      "source": "TV"
     },
     {
       "start": 2177.22,
       "end": 2182.84,
-      "text": "Played that specially for Mrs. Hilda Stark, who lives in Upper Poppleton in York, who wanted me to dig it out of the library."
+      "text": "Played that specially for Mrs. Hilda Stark, who lives in Upper Poppleton in York, who wanted me to dig it out of the library.",
+      "source": "TV"
     },
     {
       "start": 2183.32,
       "end": 2188.52,
-      "text": "And also for Keith and Heather and Derek and Pete, who live in, said he, looking at the postmark Stoke-on-Frent."
+      "text": "And also for Keith and Heather and Derek and Pete, who live in, said he, looking at the postmark Stoke-on-Frent.",
+      "source": "TV"
     },
     {
       "start": 2188.98,
       "end": 2199.48,
-      "text": "And for the whole of the Wallace family, that's Ian Wallace, Mr. Donald Wallace and Mr. Peter Wallace, who's a very young 80-year-old on, what date is it?"
+      "text": "And for the whole of the Wallace family, that's Ian Wallace, Mr. Donald Wallace and Mr. Peter Wallace, who's a very young 80-year-old on, what date is it?",
+      "source": "TV"
     },
     {
       "start": 2199.54,
       "end": 2201.64,
-      "text": "I think it's, oh, in a couple of days' time."
+      "text": "I think it's, oh, in a couple of days' time.",
+      "source": "TV"
     },
     {
       "start": 2203.08,
       "end": 2206.86,
-      "text": "And lots and lots of love from everybody at [redacted address], Redcar in Cleveland."
+      "text": "And lots and lots of love from everybody at [redacted address], Redcar in Cleveland.",
+      "source": "TV"
     },
     {
       "start": 2209.19,
       "end": 2212.13,
-      "text": "And before that, you heard a track from the second LP put out by Chicken Shack,"
+      "text": "And before that, you heard a track from the second LP put out by Chicken Shack,",
+      "source": "TV"
     },
     {
       "start": 2212.25,
       "end": 2213.99,
-      "text": "and it was, of course, led by Stan Webb."
+      "text": "and it was, of course, led by Stan Webb.",
+      "source": "TV"
     },
     {
       "start": 2214.09,
       "end": 2216.43,
-      "text": "They were formed in Birmingham way back in about 1965."
+      "text": "They were formed in Birmingham way back in about 1965.",
+      "source": "TV"
     },
     {
       "start": 2216.85,
       "end": 2220.71,
-      "text": "The track you heard was Tell Me, and it was a track from the album called OK Ken,"
+      "text": "The track you heard was Tell Me, and it was a track from the album called OK Ken,",
+      "source": "TV"
     },
     {
       "start": 2220.77,
       "end": 2224.05,
-      "text": "a real bit of good blues boogie that was mighty popular in 68."
+      "text": "a real bit of good blues boogie that was mighty popular in 68.",
+      "source": "TV"
     },
     {
       "start": 2224.83,
       "end": 2227.99,
-      "text": "And, of course, included the talents of Christine Perfect,"
+      "text": "And, of course, included the talents of Christine Perfect,",
+      "source": "TV"
     },
     {
       "start": 2228.39,
       "end": 2230.61,
-      "text": "who then went on to become Christine McVie,"
+      "text": "who then went on to become Christine McVie,",
+      "source": "TV"
     },
     {
       "start": 2231.42,
       "end": 2233.18,
-      "text": "when she married John McVie of Fleetwood Mac."
+      "text": "when she married John McVie of Fleetwood Mac.",
+      "source": "TV"
     },
     {
       "start": 2233.18,
       "end": 2234.94,
-      "text": "And we have Fleetwood Mac later."
+      "text": "And we have Fleetwood Mac later.",
+      "source": "TV"
     },
     {
       "start": 2238.53,
       "end": 2240.95,
-      "text": "No introduction necessary."
+      "text": "No introduction necessary.",
+      "source": "TV"
     },
     {
       "start": 2241.11,
       "end": 2252.51,
-      "text": "and that was deep purple and a track that went top five in the united states of america and"
+      "text": "and that was deep purple and a track that went top five in the united states of america and",
+      "source": "TV"
     },
     {
       "start": 2252.51,
@@ -713,122 +798,146 @@
     {
       "start": 2817.53,
       "end": 2822.17,
-      "text": "was also on their first album called shades of deep purple the song was called hush and that"
+      "text": "was also on their first album called shades of deep purple the song was called hush and that",
+      "source": "TV"
     },
     {
       "start": 2822.17,
       "end": 2826.79,
-      "text": "was the original lineup of deep purple which then had nick simper and rod evans doing well"
+      "text": "was the original lineup of deep purple which then had nick simper and rod evans doing well",
+      "source": "TV"
     },
     {
       "start": 2826.79,
       "end": 2831.53,
-      "text": "rod evans did the vocals nick simper played the bass and he played that out of the archives for"
+      "text": "rod evans did the vocals nick simper played the bass and he played that out of the archives for",
+      "source": "TV"
     },
     {
       "start": 2831.53,
       "end": 2834.55,
-      "text": "for Pete the Purple Fan from Tingewick in Buckinghamshire,"
+      "text": "for Pete the Purple Fan from Tingewick in Buckinghamshire,",
+      "source": "TV"
     },
     {
       "start": 2834.85,
       "end": 2837.97,
-      "text": "and Steve Sefton, who lives in Northampton somewhere,"
+      "text": "and Steve Sefton, who lives in Northampton somewhere,",
+      "source": "TV"
     },
     {
       "start": 2838.37,
       "end": 2840.73,
-      "text": "and also for Fred, who lives in Straffodon, Avon,"
+      "text": "and also for Fred, who lives in Straffodon, Avon,",
+      "source": "TV"
     },
     {
       "start": 2841.15,
       "end": 2843.85,
-      "text": "who wants me to say hello to Heffer and Dave and Liz and Debbie and Iva."
+      "text": "who wants me to say hello to Heffer and Dave and Liz and Debbie and Iva.",
+      "source": "TV"
     },
     {
       "start": 2844.35,
       "end": 2847.35,
-      "text": "And prior to that, one of the great all-time classics, Voodoo Child."
+      "text": "And prior to that, one of the great all-time classics, Voodoo Child.",
+      "source": "TV"
     },
     {
       "start": 2847.53,
       "end": 2849.11,
-      "text": "That version was called Slight Return."
+      "text": "That version was called Slight Return.",
+      "source": "TV"
     },
     {
       "start": 2849.83,
       "end": 2853.89,
-      "text": "Of course, Voodoo Child became a hit after Hendrix's death,"
+      "text": "Of course, Voodoo Child became a hit after Hendrix's death,",
+      "source": "TV"
     },
     {
       "start": 2853.89,
       "end": 2855.99,
-      "text": "hard to say in the plural, in 1970."
+      "text": "hard to say in the plural, in 1970.",
+      "source": "TV"
     },
     {
       "start": 2856.49,
       "end": 2858.19,
-      "text": "It came from the album Electric Ladyland,"
+      "text": "It came from the album Electric Ladyland,",
+      "source": "TV"
     },
     {
       "start": 2858.25,
       "end": 2860.05,
-      "text": "but also incorporated the talents of Al Cooper,"
+      "text": "but also incorporated the talents of Al Cooper,",
+      "source": "TV"
     },
     {
       "start": 2860.05,
       "end": 2862.53,
-      "text": "Stevie Wynwood, Buddy Miles and Jack Cassidy"
+      "text": "Stevie Wynwood, Buddy Miles and Jack Cassidy",
+      "source": "TV"
     },
     {
       "start": 2862.53,
       "end": 2866.19,
-      "text": "And that was for Hendrix fans all over the country"
+      "text": "And that was for Hendrix fans all over the country",
+      "source": "TV"
     },
     {
       "start": 2866.19,
       "end": 2868.85,
-      "text": "Particularly Sue Joyce of Hockley and Essex"
+      "text": "Particularly Sue Joyce of Hockley and Essex",
+      "source": "TV"
     },
     {
       "start": 2868.85,
       "end": 2878.01,
-      "text": "It's now 13 minutes before 11 o'clock"
+      "text": "It's now 13 minutes before 11 o'clock",
+      "source": "TV"
     },
     {
       "start": 2878.01,
       "end": 2879.47,
-      "text": "We're losing all the nice girls"
+      "text": "We're losing all the nice girls",
+      "source": "TV"
     },
     {
       "start": 2879.47,
       "end": 2880.99,
-      "text": "Caroline has gone down under"
+      "text": "Caroline has gone down under",
+      "source": "TV"
     },
     {
       "start": 2880.99,
       "end": 2882.75,
-      "text": "And Jill's about to go to Australia"
+      "text": "And Jill's about to go to Australia",
+      "source": "TV"
     },
     {
       "start": 2882.75,
       "end": 2884.05,
-      "text": "Also down under"
+      "text": "Also down under",
+      "source": "TV"
     },
     {
       "start": 2884.05,
       "end": 2886.01,
-      "text": "Have a nice trip, girls"
+      "text": "Have a nice trip, girls",
+      "source": "TV"
     },
     {
       "start": 2886.01,
       "end": 2887.37,
-      "text": "Here's Jethro Tull"
+      "text": "Here's Jethro Tull",
+      "source": "TV"
     },
     {
       "start": 2887.37,
       "end": 2893.37,
-      "text": "Like what I say, gonna be so big very soon"
+      "text": "Like what I say, gonna be so big very soon",
+      "source": "TV"
     },
     {
       "start": 2893.37,
@@ -845,117 +954,140 @@
     {
       "start": 3060.02,
       "end": 3061.86,
-      "text": "This one's fantastically beautiful"
+      "text": "This one's fantastically beautiful",
+      "source": "TV"
     },
     {
       "start": 3061.86,
       "end": 3063.08,
-      "text": "Vegas bar"
+      "text": "Vegas bar",
+      "source": "TV"
     },
     {
       "start": 3063.08,
       "end": 3070.43,
-      "text": "The deputation's going down"
+      "text": "The deputation's going down",
+      "source": "TV"
     },
     {
       "start": 3070.43,
       "end": 3079.43,
-      "text": "Jethro Tull, as recorded in the BBC Studios on the 5th of the 11th, 1968."
+      "text": "Jethro Tull, as recorded in the BBC Studios on the 5th of the 11th, 1968.",
+      "source": "TV"
     },
     {
       "start": 3487.75,
       "end": 3491.49,
-      "text": "Jethro Tull then were made up of Ian Anderson and Glenn Cornick,"
+      "text": "Jethro Tull then were made up of Ian Anderson and Glenn Cornick,",
+      "source": "TV"
     },
     {
       "start": 3491.75,
       "end": 3493.77,
-      "text": "Mick Abrams and Clive Bunker."
+      "text": "Mick Abrams and Clive Bunker.",
+      "source": "TV"
     },
     {
       "start": 3494.65,
       "end": 3497.59,
-      "text": "A traxy herboderma for one, love story and beggar's farm."
+      "text": "A traxy herboderma for one, love story and beggar's farm.",
+      "source": "TV"
     },
     {
       "start": 3499.24,
       "end": 3503.44,
-      "text": "It's now three minutes before 11 o'clock here on the Friday Rock Show,"
+      "text": "It's now three minutes before 11 o'clock here on the Friday Rock Show,",
+      "source": "TV"
     },
     {
       "start": 3503.58,
       "end": 3505.68,
-      "text": "this special edition, Flashback 68."
+      "text": "this special edition, Flashback 68.",
+      "source": "TV"
     },
     {
       "start": 3506.5,
       "end": 3509.18,
-      "text": "Now, it's time for the Friday Night Connection,"
+      "text": "Now, it's time for the Friday Night Connection,",
+      "source": "TV"
     },
     {
       "start": 3509.18,
       "end": 3514.04,
-      "text": "And the only right or correct answer that we had to last week's competition"
+      "text": "And the only right or correct answer that we had to last week's competition",
+      "source": "TV"
     },
     {
       "start": 3514.04,
       "end": 3518.02,
-      "text": "that has reached us so far is this one that I have in my sticky little hand."
+      "text": "that has reached us so far is this one that I have in my sticky little hand.",
+      "source": "TV"
     },
     {
       "start": 3518.54,
       "end": 3521.7,
-      "text": "It's from Ken Malofny, I think that's how to say it,"
+      "text": "It's from Ken Malofny, I think that's how to say it,",
+      "source": "TV"
     },
     {
       "start": 3522.04,
       "end": 3526.68,
-      "text": "who lives at [redacted address], Magpie Farm, Winslow, in Buckinghamshire."
+      "text": "who lives at [redacted address], Magpie Farm, Winslow, in Buckinghamshire.",
+      "source": "TV"
     },
     {
       "start": 3527.22,
       "end": 3530.04,
-      "text": "And honestly, it's the only correct one we've had to date."
+      "text": "And honestly, it's the only correct one we've had to date.",
+      "source": "TV"
     },
     {
       "start": 3530.04,
       "end": 3533.76,
-      "text": "There might be some lost in the post, but this is the right one."
+      "text": "There might be some lost in the post, but this is the right one.",
+      "source": "TV"
     },
     {
       "start": 3533.9,
       "end": 3537.6,
-      "text": "The track that we played worked, Edith and the Kingpin by Joni Mitchell."
+      "text": "The track that we played worked, Edith and the Kingpin by Joni Mitchell.",
+      "source": "TV"
     },
     {
       "start": 3537.6,
       "end": 3545.44,
-      "text": "then we played something else by sid vicious and then free and easy by uriah heap edith and the"
+      "text": "then we played something else by sid vicious and then free and easy by uriah heap edith and the",
+      "source": "TV"
     },
     {
       "start": 3545.44,
       "end": 3551.58,
-      "text": "kingpin by jody mitchell comes from the album the hissing of summer lawns something else by"
+      "text": "kingpin by jody mitchell comes from the album the hissing of summer lawns something else by",
+      "source": "TV"
     },
     {
       "start": 3551.58,
       "end": 3557.18,
-      "text": "sid vicious is from the album sid sings and free and easy by uriah heap is from the album"
+      "text": "sid vicious is from the album sid sings and free and easy by uriah heap is from the album",
+      "source": "TV"
     },
     {
       "start": 3557.18,
       "end": 3567.1,
-      "text": "innocent victim hence the answer is hissing sid is innocent can you win your 10 pound record token"
+      "text": "innocent victim hence the answer is hissing sid is innocent can you win your 10 pound record token",
+      "source": "TV"
     },
     {
       "start": 3567.1,
       "end": 3572.1,
-      "text": "well-deserved congratulations and you put together a friday night connection and here it is three"
+      "text": "well-deserved congratulations and you put together a friday night connection and here it is three",
+      "source": "TV"
     },
     {
       "start": 3572.1,
       "end": 3583.5,
-      "text": "bits of music that have a 1968 theme in my connection of ken malofny and i hope i'm saying"
+      "text": "bits of music that have a 1968 theme in my connection of ken malofny and i hope i'm saying",
+      "source": "TV"
     },
     {
       "start": 3583.5,
@@ -972,57 +1104,68 @@
     {
       "start": 4201.97,
       "end": 4208.63,
-      "text": "that right who lives in winslow in buckinghamshire three bits of music that have a definite 1968"
+      "text": "that right who lives in winslow in buckinghamshire three bits of music that have a definite 1968",
+      "source": "TV"
     },
     {
       "start": 4208.63,
       "end": 4212.63,
-      "text": "connection if you think you know what it is jot your answer on the postcard anything you like"
+      "text": "connection if you think you know what it is jot your answer on the postcard anything you like",
+      "source": "TV"
     },
     {
       "start": 4212.63,
       "end": 4218.71,
-      "text": "and send it along to the friday night connection the friday rock show bbc radio one london w"
+      "text": "and send it along to the friday night connection the friday rock show bbc radio one london w",
+      "source": "TV"
     },
     {
       "start": 4218.71,
       "end": 4221.07,
-      "text": "1A4WW. Don't forget"
+      "text": "1A4WW. Don't forget",
+      "source": "TV"
     },
     {
       "start": 4221.07,
       "end": 4223.07,
-      "text": "to put together your own Friday Night Connection as well"
+      "text": "to put together your own Friday Night Connection as well",
+      "source": "TV"
     },
     {
       "start": 4223.07,
       "end": 4225.07,
-      "text": "and if your card or"
+      "text": "and if your card or",
+      "source": "TV"
     },
     {
       "start": 4225.07,
       "end": 4227.07,
-      "text": "communication comes out of the bag, you get a £10"
+      "text": "communication comes out of the bag, you get a £10",
+      "source": "TV"
     },
     {
       "start": 4227.07,
       "end": 4227.93,
-      "text": "record token."
+      "text": "record token.",
+      "source": "TV"
     },
     {
       "start": 4238.46,
       "end": 4240.98,
-      "text": "9 minutes after 11, this is Flashback"
+      "text": "9 minutes after 11, this is Flashback",
+      "source": "TV"
     },
     {
       "start": 4240.98,
       "end": 4242.6,
-      "text": "68 with the Pink Floyd."
+      "text": "68 with the Pink Floyd.",
+      "source": "TV"
     },
     {
       "start": 4248.82,
       "end": 4252.42,
-      "text": "Say the joker to the thief"
+      "text": "Say the joker to the thief",
+      "source": "TV"
     },
     {
       "start": 4320.0,
@@ -1035,121 +1178,96 @@
       "end": 4592.62,
       "text": "[Music]",
       "type": "music"
-    },
-    {
-      "start": 4592.62,
-      "end": 4595.35,
-      "text": "There's too much"
-    },
-    {
-      "start": 4595.35,
-      "end": 4596.41,
-      "text": "confusion"
-    },
-    {
-      "start": 4596.41,
-      "end": 4600.29,
-      "text": "I can't get no relief"
-    },
-    {
-      "start": 4600.29,
-      "end": 4638.74,
-      "text": "business money drink my wine dig my earth know what any of it is worth thief he kindly spoke"
-    },
-    {
-      "start": 4638.74,
-      "end": 4654.4,
-      "text": "among us feel that life is but a joke but you and i we've been through life and this is not our fate"
-    },
-    {
-      "start": 4654.4,
-      "end": 4692.31,
-      "text": "so let us not talk falsely now the hour is getting late barefoot servants too"
-    },
-    {
-      "start": 4692.31,
-      "end": 4700.51,
-      "text": "Outside in the distance, a cat did growl"
     },
     {
       "start": 4700.51,
       "end": 4725.84,
-      "text": "Bobby Dylan and All Along the Watchtower"
+      "text": "Bobby Dylan and All Along the Watchtower",
+      "source": "TV"
     },
     {
       "start": 4725.84,
       "end": 4728.76,
-      "text": "from the album John Wesley Harding, his eighth LP."
+      "text": "from the album John Wesley Harding, his eighth LP.",
+      "source": "TV"
     },
     {
       "start": 4728.96,
       "end": 4730.22,
-      "text": "It came out in 1968."
+      "text": "It came out in 1968.",
+      "source": "TV"
     },
     {
       "start": 4731.51,
       "end": 4734.31,
-      "text": "And it was the album that was issued after his disappearance"
+      "text": "And it was the album that was issued after his disappearance",
+      "source": "TV"
     },
     {
       "start": 4734.31,
       "end": 4737.97,
-      "text": "when he had that motorcycle accident or whatever happened"
+      "text": "when he had that motorcycle accident or whatever happened",
+      "source": "TV"
     },
     {
       "start": 4737.97,
       "end": 4739.93,
-      "text": "because I don't think the myth has ever been resolved."
+      "text": "because I don't think the myth has ever been resolved.",
+      "source": "TV"
     },
     {
       "start": 4740.55,
       "end": 4744.37,
-      "text": "And the album that changed his style yet again."
+      "text": "And the album that changed his style yet again.",
+      "source": "TV"
     },
     {
       "start": 4745.15,
       "end": 4748.11,
-      "text": "And before that you heard something from the second LP by Pink Floyd"
+      "text": "And before that you heard something from the second LP by Pink Floyd",
+      "source": "TV"
     },
     {
       "start": 4748.11,
       "end": 4752.25,
-      "text": "It was called A Saucer Full of Secrets, and the track was Let There Be Light."
+      "text": "It was called A Saucer Full of Secrets, and the track was Let There Be Light.",
+      "source": "TV"
     },
     {
       "start": 4752.83,
       "end": 4758.19,
-      "text": "And I played it specially for a lady by the name of Deb, with all the love in the world from Steve, who lives in Rochford and Essex,"
+      "text": "And I played it specially for a lady by the name of Deb, with all the love in the world from Steve, who lives in Rochford and Essex,",
+      "source": "TV"
     },
     {
       "start": 4758.57,
       "end": 4763.59,
-      "text": "and also for Michael O'Keefe, who lives at [redacted address], Morpeth in Northumberland."
+      "text": "and also for Michael O'Keefe, who lives at [redacted address], Morpeth in Northumberland.",
+      "source": "TV"
     },
     {
       "start": 4763.87,
       "end": 4769.35,
-      "text": "About the Floyd, I've no idea when the gigs are. I'm still waiting for the powers that be in EMI to tell me."
+      "text": "About the Floyd, I've no idea when the gigs are. I'm still waiting for the powers that be in EMI to tell me.",
+      "source": "TV"
     },
     {
       "start": 4769.69,
       "end": 4776.54,
-      "text": "And as soon as they tell me, I'll tell you."
+      "text": "And as soon as they tell me, I'll tell you.",
+      "source": "TV"
     },
     {
       "start": 4776.76,
       "end": 4778.6,
-      "text": "Here's Status Quo from March 68."
-    },
-    {
-      "start": 4778.6,
-      "end": 4780.44,
-      "text": "Well, I'm a blowdown, baby."
+      "text": "Here's Status Quo from March 68.",
+      "source": "TV"
     },
     {
       "start": 4780.44,
       "end": 4794.24,
-      "text": "The BBC Studios in March 1968, status quo in an archive session, and the last track you heard was Ice in the Sun."
+      "text": "The BBC Studios in March 1968, status quo in an archive session, and the last track you heard was Ice in the Sun.",
+      "source": "TV"
     },
     {
       "start": 4794.24,
@@ -1166,32 +1284,38 @@
     {
       "start": 5240.29,
       "end": 5241.79,
-      "text": "It was their second single success."
+      "text": "It was their second single success.",
+      "source": "TV"
     },
     {
       "start": 5242.25,
       "end": 5246.69,
-      "text": "Before that, Black Rails of Melancholy, and the lead track in that set was Bloodhound."
+      "text": "Before that, Black Rails of Melancholy, and the lead track in that set was Bloodhound.",
+      "source": "TV"
     },
     {
       "start": 5247.11,
       "end": 5250.11,
-      "text": "And incidentally, that was recorded when they were a five-piece band."
+      "text": "And incidentally, that was recorded when they were a five-piece band.",
+      "source": "TV"
     },
     {
       "start": 5250.53,
       "end": 5253.27,
-      "text": "They had a gentleman by the name of Ron Lyons on keyboards."
+      "text": "They had a gentleman by the name of Ron Lyons on keyboards.",
+      "source": "TV"
     },
     {
       "start": 5256.75,
       "end": 5257.85,
-      "text": "Here's a good cut."
+      "text": "Here's a good cut.",
+      "source": "TV"
     },
     {
       "start": 5258.15,
       "end": 5261.75,
-      "text": "Again, haven't heard it for years."
+      "text": "Again, haven't heard it for years.",
+      "source": "TV"
     },
     {
       "start": 5400.0,
@@ -1208,57 +1332,68 @@
     {
       "start": 5712.55,
       "end": 5716.29,
-      "text": "From the first ever Fairport Convention album that was called Fairport Convention,"
+      "text": "From the first ever Fairport Convention album that was called Fairport Convention,",
+      "source": "TV"
     },
     {
       "start": 5716.29,
       "end": 5719.77,
-      "text": "and that was the track entitled It's All Right Mar, It's Only Witchcraft."
+      "text": "and that was the track entitled It's All Right Mar, It's Only Witchcraft.",
+      "source": "TV"
     },
     {
       "start": 5720.43,
       "end": 5723.25,
-      "text": "And we played that for Chris Coffin, who sent in a nice little Snoopy card."
+      "text": "And we played that for Chris Coffin, who sent in a nice little Snoopy card.",
+      "source": "TV"
     },
     {
       "start": 5723.67,
       "end": 5726.97,
-      "text": "And before that, you heard Rock My Plimsoll from the album Truth,"
+      "text": "And before that, you heard Rock My Plimsoll from the album Truth,",
+      "source": "TV"
     },
     {
       "start": 5727.05,
       "end": 5729.37,
-      "text": "that came out in 68 by the Jeff Beck Group,"
+      "text": "that came out in 68 by the Jeff Beck Group,",
+      "source": "TV"
     },
     {
       "start": 5729.81,
       "end": 5734.81,
-      "text": "who at that time were made up of Jeff Beck, Rod Stewart, Ron Wood, and Mick Waller."
+      "text": "who at that time were made up of Jeff Beck, Rod Stewart, Ron Wood, and Mick Waller.",
+      "source": "TV"
     },
     {
       "start": 5735.98,
       "end": 5738.46,
-      "text": "And we played that for Richard Mackay, I think it is,"
+      "text": "And we played that for Richard Mackay, I think it is,",
+      "source": "TV"
     },
     {
       "start": 5738.48,
       "end": 5742.46,
-      "text": "who lives in Osneytown in Oxford, and also for Paul Lidston, who lives in Solihull."
+      "text": "who lives in Osneytown in Oxford, and also for Paul Lidston, who lives in Solihull.",
+      "source": "TV"
     },
     {
       "start": 5742.46,
       "end": 5747.28,
-      "text": "And now we're going to replay something on the radio that has never ever been replayed."
+      "text": "And now we're going to replay something on the radio that has never ever been replayed.",
+      "source": "TV"
     },
     {
       "start": 5747.38,
       "end": 5753.9,
-      "text": "It was luckily preserved for posterity, or posterity if you like, in somebody's attic on a piece of tape."
+      "text": "It was luckily preserved for posterity, or posterity if you like, in somebody's attic on a piece of tape.",
+      "source": "TV"
     },
     {
       "start": 5754.52,
       "end": 5763.66,
-      "text": "It's what's known as an air check of a live broadcast that went out in 1968, actually on the 26th of the 8th, 68, featuring Fleetwood Mac."
+      "text": "It's what's known as an air check of a live broadcast that went out in 1968, actually on the 26th of the 8th, 68, featuring Fleetwood Mac.",
+      "source": "TV"
     },
     {
       "start": 5763.66,
@@ -1272,7 +1407,7 @@
       "text": "[Music]",
       "type": "music"
     },
-   {
+    {
       "start": 5985.05,
       "end": 6475.0,
       "text": "[Music]",
@@ -1299,67 +1434,80 @@
     {
       "start": 6650.0,
       "end": 6655.0,
-      "text": "Buffalo springfield from the album buffalo springfield again it cam out in 1968"
+      "text": "Buffalo springfield from the album buffalo springfield again it cam out in 1968",
+      "source": "TV"
     },
-     {
+    {
       "start": 6655.54,
       "end": 6660.0,
-      "text": "Steven Stills and Neil Young and the rest of the mob and a thing called Rock and Roll Woman and before that"
+      "text": "Steven Stills and Neil Young and the rest of the mob and a thing called Rock and Roll Woman and before that",
+      "source": "TV"
     },
     {
       "start": 6660.0,
       "end": 6664.76,
-      "text": "jefferson airplane from their fourth album crown of creation and the track was called greasy heart"
+      "text": "jefferson airplane from their fourth album crown of creation and the track was called greasy heart",
+      "source": "TV"
     },
     {
       "start": 6664.76,
       "end": 6669.72,
-      "text": "next week on the friday rock show we're going to repeat the gillan at redding session and i'd like"
+      "text": "next week on the friday rock show we're going to repeat the gillan at redding session and i'd like",
+      "source": "TV"
     },
     {
       "start": 6669.72,
       "end": 6671.84,
-      "text": "to thank Jonathan and Andy, who've been our engineers"
+      "text": "to thank Jonathan and Andy, who've been our engineers",
+      "source": "TV"
     },
     {
       "start": 6671.84,
       "end": 6673.82,
-      "text": "tonight. Tony Wilson is our producer."
+      "text": "tonight. Tony Wilson is our producer.",
+      "source": "TV"
     },
     {
       "start": 6673.98,
       "end": 6675.66,
-      "text": "He's off to France tomorrow. Say something in French."
+      "text": "He's off to France tomorrow. Say something in French.",
+      "source": "TV"
     },
     {
       "start": 6675.88,
       "end": 6677.72,
-      "text": "Ah, bonne nuit. Ah, bonne nuit,"
+      "text": "Ah, bonne nuit. Ah, bonne nuit,",
+      "source": "Tony Wilson"
     },
     {
       "start": 6677.8,
       "end": 6679.78,
-      "text": "c'est joli. Oh, he's so"
+      "text": "c'est joli. Oh, he's so",
+      "source": "TV"
     },
     {
       "start": 6679.78,
       "end": 6680.68,
-      "text": "cosmopolitan."
+      "text": "cosmopolitan.",
+      "source": "TV"
     },
     {
       "start": 6681.46,
       "end": 6682.98,
-      "text": "This has been Flashback 68,"
+      "text": "This has been Flashback 68,",
+      "source": "TV"
     },
     {
       "start": 6683.5,
       "end": 6685.62,
-      "text": "and we're going to close with this classic"
+      "text": "and we're going to close with this classic",
+      "source": "TV"
     },
     {
       "start": 6685.62,
       "end": 6686.54,
-      "text": "from the doors."
+      "text": "from the doors.",
+      "source": "TV"
     },
     {
       "start": 6689.54,
@@ -1388,22 +1536,26 @@
     {
       "start": 7171.02,
       "end": 7175.22,
-      "text": "From 1968 and the Ace track called"
+      "text": "From 1968 and the Ace track called",
+      "source": "TV"
     },
     {
       "start": 7357.98,
       "end": 7359.24,
-      "text": "When the music is over"
+      "text": "When the music is over",
+      "source": "TV"
     },
     {
       "start": 7359.24,
       "end": 7360.68,
-      "text": "I'll see you tomorrow for The Rock Show"
+      "text": "I'll see you tomorrow for The Rock Show",
+      "source": "TV"
     },
     {
       "start": 7360.68,
       "end": 7361.9,
-      "text": "From me, Tommy Vance, goodnight"
+      "text": "From me, Tommy Vance, goodnight",
+      "source": "TV"
     }
   ]
 }
