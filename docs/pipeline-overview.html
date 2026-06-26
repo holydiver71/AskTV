@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Data Preparation Pipeline — AskTV / Friday Rock Show</title>
+<style>
+:root {
+  --bg:             #0B0A09;
+  --surface:        #161310;
+  --surface-raised: #1F1C18;
+  --border:         #2C2822;
+  --border-dim:     #201E1A;
+
+  --amber:     #E8A730;
+  --amber-dim: #9A7520;
+  --amber-bg:  #1E1600;
+  --rust:      #C4602A;
+  --green:     #4D9960;
+  --green-bg:  #0D2418;
+
+  --text:        #EDE8DE;
+  --text-mid:    #A09880;
+  --text-muted:  #6A6458;
+  --text-faint:  #35322E;
+
+  --mono: 'SF Mono', 'Fira Code', 'Consolas', 'Courier New', monospace;
+  --serif: Georgia, 'Times New Roman', serif;
+  --sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+
+  --r: 3px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap { max-width: 880px; margin: 0 auto; padding: 0 24px; }
+
+/* ─── Header ─────────────────────────────────────────── */
+.page-header {
+  padding: 52px 0 44px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 52px;
+}
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber-dim);
+  margin-bottom: 18px;
+}
+
+.page-header h1 {
+  font-family: var(--serif);
+  font-size: clamp(26px, 4.5vw, 42px);
+  font-weight: normal;
+  line-height: 1.15;
+  text-wrap: balance;
+  margin-bottom: 14px;
+}
+
+.page-header h1 em {
+  font-style: italic;
+  color: var(--amber);
+}
+
+.page-header p {
+  color: var(--text-mid);
+  max-width: 540px;
+  line-height: 1.75;
+  margin-bottom: 28px;
+}
+
+.chips { display: flex; flex-wrap: wrap; gap: 7px; }
+
+.chip {
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  padding: 4px 11px;
+  border-radius: var(--r);
+}
+
+/* ─── Section label ──────────────────────────────────── */
+.sec-label {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 18px;
+}
+
+/* ─── Schema evolution ───────────────────────────────── */
+.schema-wrap {
+  overflow-x: auto;
+  margin-bottom: 56px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.schema-track {
+  display: flex;
+  min-width: 540px;
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  overflow: hidden;
+}
+
+.schema-col {
+  flex: 1;
+  padding: 14px 16px 16px;
+  background: var(--surface);
+  border-right: 1px solid var(--border);
+  min-width: 110px;
+}
+.schema-col:last-child { border-right: none; }
+.schema-col.highlight  { border-right-color: var(--amber-dim); }
+
+.schema-col-name {
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin-bottom: 10px;
+}
+
+.schema-col.highlight .schema-col-name { color: var(--amber); }
+
+.field-list { list-style: none; }
+
+.field-list li {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: var(--text-muted);
+  line-height: 1.9;
+}
+
+.field-list .carry { color: var(--text-faint); }
+.field-list .new   { color: var(--amber); }
+.field-list .star  { color: var(--amber); font-weight: bold; }
+
+/* ─── Pipeline ───────────────────────────────────────── */
+.pipeline-wrap { margin-bottom: 60px; }
+
+.pipeline {
+  position: relative;
+  padding-left: 52px;
+}
+
+.pipeline::before {
+  content: '';
+  position: absolute;
+  left: 19px;
+  top: 10px;
+  bottom: 10px;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--border) 0%, var(--amber-dim) 58%, var(--border) 100%);
+}
+
+/* ─── Stage card ─────────────────────────────────────── */
+.stage { position: relative; margin-bottom: 4px; }
+
+.stage-dot {
+  position: absolute;
+  left: -52px;
+  top: 18px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--surface-raised);
+  border: 2px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--text-muted);
+  z-index: 1;
+}
+
+.stage.active .stage-dot {
+  border-color: var(--amber);
+  color: var(--amber);
+  background: var(--amber-bg);
+}
+
+.stage-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  overflow: hidden;
+}
+
+.stage.active .stage-card { border-color: var(--amber-dim); }
+
+.stage-head {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding: 16px 20px 13px;
+  border-bottom: 1px solid var(--border-dim);
+}
+
+.stage-title {
+  font-family: var(--serif);
+  font-size: 18px;
+  font-weight: normal;
+  color: var(--text);
+}
+
+.stage-script {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: var(--amber-dim);
+  background: var(--surface-raised);
+  padding: 2px 9px;
+  border-radius: var(--r);
+}
+
+.stage-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.io-block { padding: 14px 20px 16px; }
+.io-block + .io-block { border-left: 1px solid var(--border-dim); }
+
+.io-head {
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.13em;
+  margin-bottom: 9px;
+}
+
+.io-head.in  { color: var(--text-muted); }
+.io-head.out { color: var(--green); }
+
+.io-items { list-style: none; }
+
+.io-items li {
+  font-size: 13px;
+  color: var(--text-mid);
+  line-height: 1.55;
+  padding: 2px 0;
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.io-items li::before {
+  content: '·';
+  color: var(--text-faint);
+  flex-shrink: 0;
+}
+
+.tag {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 2px;
+  white-space: nowrap;
+  background: var(--surface-raised);
+  color: var(--text-mid);
+}
+
+.tag.new { background: var(--amber-bg); color: var(--amber); }
+
+.stage-foot {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  padding: 10px 20px 13px;
+  border-top: 1px solid var(--border-dim);
+}
+
+.badge {
+  font-family: var(--mono);
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: var(--r);
+  line-height: 1;
+}
+
+.badge.model     { background: var(--amber-bg); color: var(--amber-dim); }
+.badge.ok        { background: var(--green-bg); color: var(--green); }
+.badge.note      { background: var(--surface-raised); color: var(--text-muted); }
+.badge.threshold { background: #1A1200; color: #A08030; }
+
+/* ─── Connector ──────────────────────────────────────── */
+.connector {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 3px 0 3px 0;
+  color: var(--border);
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* ─── DB tables ──────────────────────────────────────── */
+.db-section { margin-bottom: 56px; }
+
+.db-section h2 {
+  font-family: var(--serif);
+  font-size: 21px;
+  font-weight: normal;
+  color: var(--text);
+  margin-bottom: 20px;
+}
+
+.tables {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(195px, 1fr));
+  gap: 10px;
+}
+
+.tbl {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  padding: 14px 16px;
+}
+
+.tbl.hl { border-color: var(--amber-dim); }
+
+.tbl-name {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--amber-dim);
+  margin-bottom: 10px;
+}
+
+.tbl-cols { list-style: none; }
+
+.tbl-cols li {
+  font-family: var(--mono);
+  font-size: 11px;
+  line-height: 1.85;
+}
+
+.tbl-cols .pk   { color: var(--rust); }
+.tbl-cols .fk   { color: var(--amber-dim); }
+.tbl-cols .reg  { color: var(--text-muted); }
+.tbl-cols .src  { color: var(--amber); }
+.tbl-cols .emb  { color: var(--green); }
+
+/* ─── Source spotlight ───────────────────────────────── */
+.spotlight {
+  background: var(--surface);
+  border: 1px solid var(--amber-dim);
+  border-left: 3px solid var(--amber);
+  border-radius: var(--r);
+  padding: 28px 28px 30px;
+  margin-bottom: 72px;
+}
+
+.spotlight-eye {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--amber);
+  margin-bottom: 13px;
+}
+
+.spotlight h3 {
+  font-family: var(--serif);
+  font-size: 20px;
+  font-weight: normal;
+  color: var(--text);
+  margin-bottom: 11px;
+}
+
+.spotlight > p {
+  color: var(--text-mid);
+  line-height: 1.75;
+  max-width: 620px;
+  margin-bottom: 22px;
+}
+
+.src-rows { display: flex; flex-direction: column; gap: 12px; }
+
+.src-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.src-pill {
+  font-family: var(--mono);
+  font-size: 12px;
+  padding: 4px 12px;
+  border-radius: var(--r);
+  white-space: nowrap;
+  min-width: 96px;
+  text-align: center;
+  flex-shrink: 0;
+  margin-top: 1px;
+}
+
+.src-pill.tv          { background: var(--green-bg); color: var(--green); }
+.src-pill.uncertain   { background: var(--amber-bg); color: var(--amber); }
+.src-pill.null-pill   { background: var(--surface-raised); color: var(--text-muted); }
+
+.src-desc {
+  font-size: 13px;
+  color: var(--text-mid);
+  line-height: 1.65;
+}
+
+/* ─── Runtime strip ──────────────────────────────────── */
+.runtime-section { margin-bottom: 56px; }
+
+.runtime-section h2 {
+  font-family: var(--serif);
+  font-size: 21px;
+  font-weight: normal;
+  color: var(--text);
+  margin-bottom: 18px;
+}
+
+.runtime-flow {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.runtime-steps {
+  display: flex;
+  align-items: stretch;
+  min-width: 560px;
+  border: 1px solid var(--border);
+  border-radius: var(--r);
+  overflow: hidden;
+}
+
+.rt-step {
+  flex: 1;
+  background: var(--surface);
+  padding: 13px 16px;
+  border-right: 1px solid var(--border);
+  position: relative;
+}
+
+.rt-step:last-child { border-right: none; }
+
+.rt-step-name {
+  font-family: var(--mono);
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.rt-step-detail {
+  font-size: 12px;
+  color: var(--text-mid);
+  line-height: 1.5;
+}
+
+.rt-arrow {
+  position: absolute;
+  right: -10px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  font-size: 14px;
+  color: var(--border);
+  text-align: center;
+  z-index: 1;
+  background: var(--surface);
+}
+
+/* ─── Responsive ─────────────────────────────────────── */
+@media (max-width: 580px) {
+  .stage-body {
+    grid-template-columns: 1fr;
+  }
+  .io-block + .io-block {
+    border-left: none;
+    border-top: 1px solid var(--border-dim);
+  }
+}
+
+@media (max-width: 480px) {
+  .pipeline { padding-left: 0; }
+  .pipeline::before { display: none; }
+  .stage-dot {
+    position: static;
+    width: 32px;
+    height: 32px;
+    font-size: 11px;
+    margin-bottom: 10px;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════ HEADER -->
+<header class="page-header">
+  <div class="wrap">
+    <div class="eyebrow">AskTV · The Friday Rock Show Registry</div>
+    <h1>Data Preparation <em>Pipeline</em></h1>
+    <p>Seven sequential stages transform raw broadcast recordings and Fandom wiki metadata into a searchable, AI-powered archive grounded in verified episode transcripts.</p>
+    <div class="chips">
+      <span class="chip">7 stages</span>
+      <span class="chip">1978 – 1980 complete</span>
+      <span class="chip">~100 episodes</span>
+      <span class="chip">Whisper large-v3 · int8</span>
+      <span class="chip">text-embedding-3-small · 512-dim</span>
+      <span class="chip">pgvector HNSW</span>
+    </div>
+  </div>
+</header>
+
+<main>
+<div class="wrap">
+
+  <!-- ═══════════════════════════════════════ SCHEMA EVOLUTION -->
+  <section class="schema-wrap">
+    <div class="sec-label">JSON episode file — how each stage enriches it</div>
+    <div class="schema-track">
+
+      <div class="schema-col">
+        <div class="schema-col-name">01 Extract</div>
+        <ul class="field-list">
+          <li class="new">title</li>
+          <li class="new">url</li>
+          <li class="new">show.date</li>
+          <li class="new">sessions[]</li>
+          <li class="new">track_listing[]</li>
+        </ul>
+      </div>
+
+      <div class="schema-col">
+        <div class="schema-col-name">02 Transcribe</div>
+        <ul class="field-list">
+          <li class="carry">title …</li>
+          <li class="new">transcript[].start</li>
+          <li class="new">transcript[].end</li>
+          <li class="new">transcript[].text</li>
+        </ul>
+      </div>
+
+      <div class="schema-col">
+        <div class="schema-col-name">03 Fingerprint</div>
+        <ul class="field-list">
+          <li class="carry">transcript[] …</li>
+          <li class="new">track.verified_timestamp</li>
+        </ul>
+      </div>
+
+      <div class="schema-col">
+        <div class="schema-col-name">04 Clean</div>
+        <ul class="field-list">
+          <li class="carry">transcript[] …</li>
+          <li class="new">segment.type</li>
+          <li class="new">[Music] segments</li>
+        </ul>
+      </div>
+
+      <div class="schema-col highlight">
+        <div class="schema-col-name">05 Diarise ★</div>
+        <ul class="field-list">
+          <li class="carry">transcript[] …</li>
+          <li class="star">segment.source</li>
+          <li class="star">"TV" | "uncertain"</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════ PIPELINE STAGES -->
+  <div class="pipeline-wrap">
+    <div class="sec-label">Stage-by-stage breakdown</div>
+    <div class="pipeline">
+
+      <!-- ── Stage 1: Extract ── -->
+      <div class="stage">
+        <div class="stage-dot">01</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Extract</span>
+            <code class="stage-script">scripts/extractor.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>Fandom Wiki episode pages (HTTP)</li>
+                <li><span class="tag">cookies.txt</span> for authenticated scraping</li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Creates</div>
+              <ul class="io-items">
+                <li><span class="tag new">FRS YYYY-MM-DD.json</span></li>
+                <li>title, url, show.date, comments</li>
+                <li>sessions[] and track_listing[]</li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge note">curl_cffi scraper</span>
+            <span class="badge note">parse_sections() + parse_track_line()</span>
+            <span class="badge note">date-keyed filenames</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="connector">↓</div>
+
+      <!-- ── Stage 2: Transcribe ── -->
+      <div class="stage">
+        <div class="stage-dot">02</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Transcribe</span>
+            <code class="stage-script">scripts/transcribe_1980.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>MP3 files from <span class="tag">FRSAudio/128kbps/{year}/</span></li>
+                <li>Existing JSON episode files (date-matched)</li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Appends to JSON</div>
+              <ul class="io-items">
+                <li><span class="tag new">transcript[].start</span> (float, seconds)</li>
+                <li><span class="tag new">transcript[].end</span></li>
+                <li><span class="tag new">transcript[].text</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge model">Whisper large-v3</span>
+            <span class="badge model">int8 quantisation (CPU)</span>
+            <span class="badge threshold">VAD 0.35 · min silence 600ms</span>
+            <span class="badge ok">idempotent — skips existing</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="connector">↓</div>
+
+      <!-- ── Stage 3: Fingerprint ── -->
+      <div class="stage">
+        <div class="stage-dot">03</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Fingerprint</span>
+            <code class="stage-script">scripts/shazam_1980.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>MP3 — 15s probes sampled every 180s</li>
+                <li>Transcript text for fallback matching</li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Adds to track_listing</div>
+              <ul class="io-items">
+                <li><span class="tag new">track.verified_timestamp</span> (seconds)</li>
+                <li>Fuzzy match: token sort ratio ≥ 80</li>
+                <li>Transcript fallback: partial ratio ≥ 75</li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge model">ShazamIO audio fingerprinting</span>
+            <span class="badge threshold">match threshold ≥ 80</span>
+            <span class="badge ok">idempotent — skips if stamped</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="connector">↓</div>
+
+      <!-- ── Stage 4: Clean ── -->
+      <div class="stage">
+        <div class="stage-dot">04</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Clean</span>
+            <code class="stage-script">scripts/clean_transcripts.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>Raw Whisper transcript segments</li>
+                <li>Verified timestamps (for music windows)</li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Modifies transcript</div>
+              <ul class="io-items">
+                <li>Removes hallucination segments</li>
+                <li>Inserts <span class="tag new">[Music]</span> placeholder segments</li>
+                <li>Sets <span class="tag new">type: "music"</span> on those rows</li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge note">run-repeat: 3+ consecutive identical → drop</span>
+            <span class="badge note">long-seg: ≥25s + ≤6 words → drop</span>
+            <span class="badge note">extreme: ≥120s → trim duration</span>
+            <span class="badge note">music gaps from timestamp spacing</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="connector">↓</div>
+
+      <!-- ── Stage 5: Diarise (highlighted) ── -->
+      <div class="stage active">
+        <div class="stage-dot">05</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Diarise</span>
+            <code class="stage-script">scripts/diarise_transcripts.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>Audio clip extracted per segment</li>
+                <li><span class="tag">data/tommy_vance_embedding.npy</span></li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Adds to each segment</div>
+              <ul class="io-items">
+                <li><span class="tag new">source: "TV"</span> — cosine sim ≥ 0.79</li>
+                <li><span class="tag new">source: "uncertain"</span> — below threshold</li>
+                <li>Segments &lt; 1.0s → "uncertain" without scoring</li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge model">resemblyzer voice embeddings</span>
+            <span class="badge threshold">cosine threshold 0.79 (configurable)</span>
+            <span class="badge ok">idempotent — --retag to override</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="connector">↓</div>
+
+      <!-- ── Stage 6: Upload ── -->
+      <div class="stage">
+        <div class="stage-dot">06</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Upload</span>
+            <code class="stage-script">scripts/upload_episodes.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>Completed JSON episode files</li>
+                <li>All pipeline fields present</li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Writes to Supabase</div>
+              <ul class="io-items">
+                <li><span class="tag">episodes</span> — upsert on date</li>
+                <li><span class="tag">sessions</span> + <span class="tag">tracks</span></li>
+                <li><span class="tag">transcript_segments</span> — ~60s windows, source majority-voted</li>
+                <li><span class="tag">metadata_chunks</span> — tracks + sessions as text docs</li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge note">60s chunking windows</span>
+            <span class="badge note">majority-vote source per window</span>
+            <span class="badge note">skips [Music] + [redacted address]</span>
+            <span class="badge ok">embeddings NULL — filled by Stage 7</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="connector">↓</div>
+
+      <!-- ── Stage 7: Vectorise ── -->
+      <div class="stage">
+        <div class="stage-dot">07</div>
+        <div class="stage-card">
+          <div class="stage-head">
+            <span class="stage-title">Vectorise</span>
+            <code class="stage-script">scripts/vectorise_transcripts.py &amp; vectorise_metadata.py</code>
+          </div>
+          <div class="stage-body">
+            <div class="io-block">
+              <div class="io-head in">Input</div>
+              <ul class="io-items">
+                <li>DB rows where <span class="tag">embedding IS NULL</span></li>
+                <li>Transcript prefix: "Friday Rock Show {date}: …"</li>
+              </ul>
+            </div>
+            <div class="io-block">
+              <div class="io-head out">Writes embeddings</div>
+              <ul class="io-items">
+                <li><span class="tag new">embedding vector(512)</span></li>
+                <li>on transcript_segments + metadata_chunks</li>
+                <li>Batch 100 rows per API request</li>
+              </ul>
+            </div>
+          </div>
+          <div class="stage-foot">
+            <span class="badge model">OpenAI text-embedding-3-small</span>
+            <span class="badge model">512 dimensions</span>
+            <span class="badge ok">safe to interrupt and re-run</span>
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /pipeline -->
+  </div>
+
+  <!-- ═══════════════════════════════════════ RUNTIME RAG FLOW -->
+  <section class="runtime-section">
+    <h2>Runtime — how a chat query resolves</h2>
+    <div class="runtime-flow">
+      <div class="runtime-steps">
+        <div class="rt-step">
+          <div class="rt-step-name">User query</div>
+          <div class="rt-step-detail">Chat UI sends message + history</div>
+          <div class="rt-arrow">›</div>
+        </div>
+        <div class="rt-step">
+          <div class="rt-step-name">Embed</div>
+          <div class="rt-step-detail">text-embedding-3-small 512-dim vector</div>
+          <div class="rt-arrow">›</div>
+        </div>
+        <div class="rt-step">
+          <div class="rt-step-name">Retrieve</div>
+          <div class="rt-step-detail">pgvector cosine + FTS hybrid RPC</div>
+          <div class="rt-arrow">›</div>
+        </div>
+        <div class="rt-step">
+          <div class="rt-step-name">Shape context</div>
+          <div class="rt-step-detail">Segments → ContextBlock[] with speaker source</div>
+          <div class="rt-arrow">›</div>
+        </div>
+        <div class="rt-step">
+          <div class="rt-step-name">Generate</div>
+          <div class="rt-step-detail">GPT-4o-mini + Tommy Vance system prompt</div>
+          <div class="rt-arrow">›</div>
+        </div>
+        <div class="rt-step">
+          <div class="rt-step-name">Respond</div>
+          <div class="rt-step-detail">Grounded answer + inline citations</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════ DATABASE TABLES -->
+  <section class="db-section">
+    <h2>Database tables</h2>
+    <div class="tables">
+
+      <div class="tbl">
+        <div class="tbl-name">episodes</div>
+        <ul class="tbl-cols">
+          <li class="pk">id (uuid PK)</li>
+          <li class="reg">date (UNIQUE)</li>
+          <li class="reg">title, url</li>
+          <li class="reg">comments[]</li>
+        </ul>
+      </div>
+
+      <div class="tbl">
+        <div class="tbl-name">sessions</div>
+        <ul class="tbl-cols">
+          <li class="pk">id (uuid PK)</li>
+          <li class="fk">episode_id (FK)</li>
+          <li class="reg">artist, details</li>
+          <li class="reg">position</li>
+        </ul>
+      </div>
+
+      <div class="tbl">
+        <div class="tbl-name">tracks</div>
+        <ul class="tbl-cols">
+          <li class="pk">id (uuid PK)</li>
+          <li class="fk">episode_id (FK)</li>
+          <li class="reg">artist, track, details</li>
+          <li class="reg">verified_timestamp</li>
+          <li class="reg">position</li>
+        </ul>
+      </div>
+
+      <div class="tbl hl">
+        <div class="tbl-name">transcript_segments</div>
+        <ul class="tbl-cols">
+          <li class="pk">id (uuid PK)</li>
+          <li class="fk">episode_id (FK)</li>
+          <li class="reg">chunk_start, chunk_end</li>
+          <li class="reg">text</li>
+          <li class="src">source ← TV | uncertain | null</li>
+          <li class="emb">embedding vector(512)</li>
+        </ul>
+      </div>
+
+      <div class="tbl">
+        <div class="tbl-name">metadata_chunks</div>
+        <ul class="tbl-cols">
+          <li class="pk">id (uuid PK)</li>
+          <li class="fk">episode_id (FK)</li>
+          <li class="reg">source_type (track|session)</li>
+          <li class="reg">date, chunk_start</li>
+          <li class="reg">text</li>
+          <li class="emb">embedding vector(512)</li>
+        </ul>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════ SOURCE SPOTLIGHT -->
+  <section class="spotlight">
+    <div class="spotlight-eye">★ Current work — source field</div>
+    <h3>Speaker attribution in transcript segments</h3>
+    <p>Stage 5 (diarise) tags each segment with a <code style="font-family:var(--mono);font-size:12px;color:var(--amber);">source</code> field derived from resemblyzer voice embeddings compared against Tommy's reference embedding. This value flows through the upload stage (majority-voted per 60s window) into the database, and ultimately tells the RAG system who is speaking — so Tommy can say "I" for his own words, and attribute others appropriately.</p>
+    <div class="src-rows">
+      <div class="src-row">
+        <span class="src-pill tv">"TV"</span>
+        <span class="src-desc">Tommy Vance is speaking — cosine similarity ≥ 0.79 against reference embedding. In chat responses: first person ("I played...", "I opened with..."). Covers the bulk of every broadcast.</span>
+      </div>
+      <div class="src-row">
+        <span class="src-pill uncertain">"uncertain"</span>
+        <span class="src-desc">Voice does not match Tommy — likely a guest, interviewee, or another DJ doing a soundbite. In chat responses: attributed as "someone said" or "source unknown". Content is still valid archive evidence and should be surfaced when relevant to the user's question.</span>
+      </div>
+      <div class="src-row">
+        <span class="src-pill null-pill">null</span>
+        <span class="src-desc">Diarisation has not yet been run on this episode (1981+ pending). Treat as potentially Tommy but do not definitively attribute. Use "on the show" or "from the broadcast" phrasing. Not an error — the archive is being processed in phases.</span>
+      </div>
+    </div>
+  </section>
+
+</div><!-- /wrap -->
+</main>
+
+</body>
+</html>

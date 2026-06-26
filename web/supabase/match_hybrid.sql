@@ -17,8 +17,9 @@
 -- Re-running is safe (DROP + CREATE replaces the old 3-param version).
 -- ============================================================
 
--- Drop the previous 3-parameter signature so OR REPLACE can upgrade cleanly.
+-- Drop both the old 3-parameter and current 4-parameter signatures before recreating.
 DROP FUNCTION IF EXISTS match_hybrid(vector(512), int, float8);
+DROP FUNCTION IF EXISTS match_hybrid(vector(512), text, int, float8);
 
 CREATE OR REPLACE FUNCTION match_hybrid(
     query_embedding  vector(512),
@@ -34,6 +35,7 @@ RETURNS TABLE (
     chunk_end    float8,
     text         text,
     date         date,
+    source       text,
     similarity   float8
 )
 LANGUAGE sql STABLE
@@ -49,6 +51,7 @@ WITH combined AS (
         ts.chunk_end,
         ts.text,
         e.date,
+        ts.source,
         1 - (ts.embedding <=> query_embedding)      AS similarity
     FROM  transcript_segments ts
     JOIN  episodes e ON e.id = ts.episode_id
@@ -66,6 +69,7 @@ WITH combined AS (
         mc.chunk_end,
         mc.text,
         mc.date,
+        NULL::text                                  AS source,
         1 - (mc.embedding <=> query_embedding)      AS similarity
     FROM  metadata_chunks mc
     WHERE mc.embedding IS NOT NULL
@@ -85,6 +89,7 @@ WITH combined AS (
         ts.chunk_end,
         ts.text,
         e.date,
+        ts.source,
         (match_threshold + 0.01)                    AS similarity
     FROM  transcript_segments ts
     JOIN  episodes e ON e.id = ts.episode_id
@@ -97,12 +102,12 @@ WITH combined AS (
 -- Collapse duplicates: keep the highest similarity score per chunk id.
 deduped AS (
     SELECT DISTINCT ON (id)
-        id, episode_id, source_type, chunk_start, chunk_end, text, date, similarity
+        id, episode_id, source_type, chunk_start, chunk_end, text, date, source, similarity
     FROM  combined
     ORDER BY id, similarity DESC
 )
 
-SELECT id, episode_id, source_type, chunk_start, chunk_end, text, date, similarity
+SELECT id, episode_id, source_type, chunk_start, chunk_end, text, date, source, similarity
 FROM   deduped
 ORDER  BY similarity DESC
 LIMIT  match_count;

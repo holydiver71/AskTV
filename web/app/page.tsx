@@ -42,7 +42,7 @@ export default function Home() {
       </div>
 
       <p className="text-xs text-[#003087] font-semibold">
-        Temporary note: only 1980 episodes are currently available to research.
+        Temporary note: only episodes from 1978 to 1980 are currently available to research.
       </p>
     </div>
   );

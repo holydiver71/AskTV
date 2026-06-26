@@ -4,6 +4,7 @@ export type ContextBlock = {
   chunkEnd: number | null;
   text: string;
   sourceType?: "transcript" | "track" | "session";
+  speakerSource?: "TV" | "uncertain" | null;
 };
 
 export type Citation = {

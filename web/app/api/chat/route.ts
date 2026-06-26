@@ -157,11 +157,48 @@ function isMissingRetrievalFunctionError(err: unknown): boolean {
  *
  * e.g. "who won the record token on 29/08/1980?" → "record token"
  */
+const MONTH_NAMES: Record<string, string> = {
+  january: "01", jan: "01",
+  february: "02", feb: "02",
+  march: "03", mar: "03",
+  april: "04", apr: "04",
+  may: "05",
+  june: "06", jun: "06",
+  july: "07", jul: "07",
+  august: "08", aug: "08",
+  september: "09", sep: "09", sept: "09",
+  october: "10", oct: "10",
+  november: "11", nov: "11",
+  december: "12", dec: "12",
+};
+
+const MONTH_PATTERN =
+  "january|february|march|april|may|june|july|august|september|october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|sept|oct|nov|dec";
+
 /**
  * Parse a specific date mentioned in the user's message and return it
- * as YYYY-MM-DD.  Handles DD/MM/YYYY, D/M/YYYY, and ISO YYYY-MM-DD.
+ * as YYYY-MM-DD. Handles natural language ("4 January 1980", "January 4th 1980"),
+ * DD/MM/YYYY, D/M/YYYY, and ISO YYYY-MM-DD.
  */
 function extractMentionedDate(message: string): string | null {
+  // Natural language day-first: "4 January 1980", "4th Jan 1980"
+  const nlDmyMatch = message.match(
+    new RegExp(`\\b(\\d{1,2})(?:st|nd|rd|th)?\\s+(${MONTH_PATTERN})\\s+(\\d{4})\\b`, "i")
+  );
+  if (nlDmyMatch) {
+    const [, d, monthStr, y] = nlDmyMatch;
+    const m = MONTH_NAMES[monthStr.toLowerCase()];
+    if (m) return `${y}-${m}-${d.padStart(2, "0")}`;
+  }
+  // Natural language month-first: "January 4, 1980", "January 4th 1980"
+  const nlMdyMatch = message.match(
+    new RegExp(`\\b(${MONTH_PATTERN})\\s+(\\d{1,2})(?:st|nd|rd|th)?,?\\s+(\\d{4})\\b`, "i")
+  );
+  if (nlMdyMatch) {
+    const [, monthStr, d, y] = nlMdyMatch;
+    const m = MONTH_NAMES[monthStr.toLowerCase()];
+    if (m) return `${y}-${m}-${d.padStart(2, "0")}`;
+  }
   // DD/MM/YYYY or D/M/YYYY (including . and - separators)
   const dmyMatch = message.match(
     /\b(\d{1,2})[\/.\-](\d{1,2})[\/.\-](\d{4})\b/
@@ -187,6 +224,8 @@ function extractFtsKeywords(message: string): string {
     .replace(/\b\d{1,2}[\/.\-]\d{1,2}[\/.\-]\d{2,4}\b/g, "")
     .replace(/\b\d{4}[\/.\-]\d{1,2}[\/.\-]\d{1,2}\b/g, "")
     .replace(/\b(19|20)\d{2}\b/g, "")
+    // Remove month names (already captured by extractMentionedDate)
+    .replace(new RegExp(`\\b(${MONTH_PATTERN})\\b`, "gi"), "")
     // Remove common question / auxiliary words
     .replace(
       /\b(who|what|when|where|why|how|did|does|was|were|is|are|has|have|had|been|be|the|a|an|on|in|at|for|of|to|from|by|with|get|got|win|won|play|played|broadcast|show|episode|date|about|can|could|would|should|do|i|me|my|you|your)\b/gi,

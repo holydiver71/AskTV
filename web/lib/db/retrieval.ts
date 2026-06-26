@@ -185,22 +185,7 @@ export async function searchEpisodeByFts(
 
   if (!episode) return [];
 
-  let query = supabase
-    .from("transcript_segments")
-    .select("id, episode_id, chunk_start, chunk_end, text")
-    .eq("episode_id", episode.id)
-    .textSearch("text", keywords, { type: "websearch", config: "english" })
-    .limit(limit);
-
-  if (sourceFilter) {
-    query = query.eq("source", sourceFilter);
-  }
-
-  const { data, error } = await query;
-
-  if (error || !data) return [];
-
-  return data.map((row) => ({
+  const toUnified = (row: { id: string; episode_id: string; chunk_start: number; chunk_end: number; text: string }): UnifiedMatch => ({
     id: row.id,
     episode_id: row.episode_id,
     source_type: "transcript" as const,
@@ -211,7 +196,42 @@ export async function searchEpisodeByFts(
     // Score above typical metadata vector noise (~0.43) so these chunks
     // rank near the top of the merged context.
     similarity: 0.5,
-  }));
+  });
+
+  // Try keyword FTS first.
+  let ftsQuery = supabase
+    .from("transcript_segments")
+    .select("id, episode_id, chunk_start, chunk_end, text")
+    .eq("episode_id", episode.id)
+    .textSearch("text", keywords, { type: "websearch", config: "english" })
+    .limit(limit);
+
+  if (sourceFilter) ftsQuery = ftsQuery.eq("source", sourceFilter);
+
+  const { data: ftsData, error: ftsError } = await ftsQuery;
+
+  if (!ftsError && ftsData && ftsData.length > 0) {
+    return ftsData.map(toUnified);
+  }
+
+  // FTS found nothing (keywords don't appear literally in this episode's
+  // transcript). Fall back to the chronologically earliest segments so
+  // questions like "what did Tommy say to open the show" still surface
+  // real content from the right episode.
+  let fallbackQuery = supabase
+    .from("transcript_segments")
+    .select("id, episode_id, chunk_start, chunk_end, text")
+    .eq("episode_id", episode.id)
+    .order("chunk_start", { ascending: true })
+    .limit(limit);
+
+  if (sourceFilter) fallbackQuery = fallbackQuery.eq("source", sourceFilter);
+
+  const { data: fallbackData, error: fallbackError } = await fallbackQuery;
+
+  if (fallbackError || !fallbackData) return [];
+
+  return fallbackData.map(toUnified);
 }
 
 type LegacySegmentMatch = {

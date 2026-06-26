@@ -121,7 +121,7 @@ def build_chunks(transcript: list[dict]) -> list[dict]:
         window_end = seg_end
         window_texts.append(raw_text)
         source = seg.get("source")
-        if source in {"TV", "other"}:
+        if source in {"TV", "uncertain"}:
             window_sources.append((source, seg_end - seg_start))
 
     flush()
@@ -189,15 +189,18 @@ def replace_children(sb: Client, episode_id: str, ep_data: dict) -> dict:
     """
     # -- sessions ----------------------------------------------------------
     sb.table("sessions").delete().eq("episode_id", episode_id).execute()
-    session_rows = [
-        {
+    session_rows = []
+    for i, s in enumerate(ep_data.get("sessions") or []):
+        artist  = s.get("artist") or s.get("details")
+        details = s.get("details") if s.get("artist") else None
+        if not artist:
+            continue
+        session_rows.append({
             "episode_id": episode_id,
-            "artist":     s["artist"],
-            "details":    s.get("details"),
+            "artist":     artist,
+            "details":    details,
             "position":   i,
-        }
-        for i, s in enumerate(ep_data.get("sessions") or [])
-    ]
+        })
     if session_rows:
         sb.table("sessions").insert(session_rows).execute()
 
@@ -285,7 +288,7 @@ def replace_children(sb: Client, episode_id: str, ep_data: dict) -> dict:
 # Main
 # ---------------------------------------------------------------------------
 
-def main(episodes_dir: Path) -> None:
+def main(episodes_dirs: list[Path]) -> None:
     load_dotenv()
 
     url = os.environ.get("SUPABASE_URL")
@@ -297,46 +300,49 @@ def main(episodes_dir: Path) -> None:
     sb: Client = create_client(url, key)
     log.info("Connected to Supabase: %s", url)
 
-    json_files = sorted(episodes_dir.glob("FRS *.json"))
-    if not json_files:
-        log.error("No FRS *.json files found in %s", episodes_dir)
-        sys.exit(1)
-
     total = {"episodes": 0, "sessions": 0, "tracks": 0, "segments": 0, "metadata_chunks": 0}
     errors: list[str] = []
 
-    for path in json_files:
-        ep_date = episode_date_from_path(path)
-        if not ep_date:
-            log.warning("Cannot parse date from %s — skipping", path.name)
+    for episodes_dir in episodes_dirs:
+        json_files = sorted(episodes_dir.glob("FRS *.json"))
+        if not json_files:
+            log.warning("No FRS *.json files found in %s — skipping", episodes_dir)
             continue
 
-        try:
-            with open(path, encoding="utf-8") as f:
-                ep_data = json.load(f)
+        log.info("Processing %d files in %s", len(json_files), episodes_dir)
 
-            episode_id = upsert_episode(sb, ep_data)
-            counts = replace_children(sb, episode_id, ep_data)
+        for path in json_files:
+            ep_date = episode_date_from_path(path)
+            if not ep_date:
+                log.warning("Cannot parse date from %s — skipping", path.name)
+                continue
 
-            log.info(
-                "%s  →  ep:%s  sessions:%d  tracks:%d  segments:%d  meta:%d",
-                ep_date,
-                episode_id[:8],
-                counts["sessions"],
-                counts["tracks"],
-                counts["segments"],
-                counts["metadata_chunks"],
-            )
+            try:
+                with open(path, encoding="utf-8") as f:
+                    ep_data = json.load(f)
 
-            total["episodes"] += 1
-            total["sessions"] += counts["sessions"]
-            total["tracks"]   += counts["tracks"]
-            total["segments"] += counts["segments"]
-            total["metadata_chunks"] += counts["metadata_chunks"]
+                episode_id = upsert_episode(sb, ep_data)
+                counts = replace_children(sb, episode_id, ep_data)
 
-        except Exception as exc:
-            log.error("FAILED %s: %s", path.name, exc)
-            errors.append(f"{path.name}: {exc}")
+                log.info(
+                    "%s  →  ep:%s  sessions:%d  tracks:%d  segments:%d  meta:%d",
+                    ep_date,
+                    episode_id[:8],
+                    counts["sessions"],
+                    counts["tracks"],
+                    counts["segments"],
+                    counts["metadata_chunks"],
+                )
+
+                total["episodes"] += 1
+                total["sessions"] += counts["sessions"]
+                total["tracks"]   += counts["tracks"]
+                total["segments"] += counts["segments"]
+                total["metadata_chunks"] += counts["metadata_chunks"]
+
+            except Exception as exc:
+                log.error("FAILED %s: %s", path.name, exc)
+                errors.append(f"{path.name}: {exc}")
 
     log.info(
         "Done. episodes=%d  sessions=%d  tracks=%d  segments=%d  meta=%d",
@@ -352,8 +358,22 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Upload FRS episodes to Supabase")
     parser.add_argument(
         "--dir",
-        default="data/episodes/1980",
-        help="Directory containing FRS *.json files (default: data/episodes/1980)",
+        help="Explicit directory of FRS *.json files (overrides --year)",
+    )
+    parser.add_argument(
+        "--year",
+        nargs="+",
+        type=int,
+        metavar="YEAR",
+        help="One or more years to upload from data/episodes/{year}/ (default: 1980)",
     )
     args = parser.parse_args()
-    main(Path(args.dir))
+
+    if args.dir:
+        dirs = [Path(args.dir)]
+    elif args.year:
+        dirs = [Path(f"data/episodes/{y}") for y in sorted(args.year)]
+    else:
+        dirs = [Path("data/episodes/1980")]
+
+    main(dirs)

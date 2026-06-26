@@ -12,12 +12,14 @@ export function shapeContextBlocks(
   return matches.map((m) => {
     // UnifiedMatch has source_type; SegmentMatch does not
     const sourceType = "source_type" in m ? m.source_type : "transcript";
+    const speakerSource = (m.source ?? null) as "TV" | "uncertain" | null;
     return {
       date: m.date,
       chunkStart: m.chunk_start,
       chunkEnd: m.chunk_end,
       text: m.text,
       sourceType,
+      speakerSource,
     };
   });
 }

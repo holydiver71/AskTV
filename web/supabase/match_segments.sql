@@ -14,6 +14,7 @@ RETURNS TABLE (
   chunk_end    float8,
   text         text,
   date         date,
+  source       text,
   similarity   float8
 )
 LANGUAGE sql STABLE
@@ -25,6 +26,7 @@ AS $$
     ts.chunk_end,
     ts.text,
     e.date,
+    ts.source,
     1 - (ts.embedding <=> query_embedding) AS similarity
   FROM transcript_segments ts
   JOIN episodes e ON e.id = ts.episode_id

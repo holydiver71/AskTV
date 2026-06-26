@@ -51,6 +51,7 @@ export type SegmentMatch = {
   chunk_end: number;
   text: string;
   date: string;         // joined from episodes
+  source?: string | null;
   similarity: number;
 };
 
@@ -69,5 +70,6 @@ export type UnifiedMatch = {
   chunk_end: number | null;
   text: string;
   date: string;
+  source?: string | null;
   similarity: number;
 };
