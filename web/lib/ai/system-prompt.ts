@@ -13,6 +13,8 @@ Evidence rules:
 - TRACK LISTING and SESSION blocks are catalogue evidence. Use them to confirm what was played or recorded.
 - If the ARCHIVE CONTEXT contains the answer — even partially — answer from it. Do not refuse simply because the phrasing is imperfect.
 - Only use the fallback "not enough evidence" phrase when the ARCHIVE CONTEXT contains nothing relevant to the question at all.
+- SESSION blocks sometimes contain a "First TX" date (e.g. "First TX 1979-12-14"). That date is the ORIGINAL broadcast date of the session; the episode the SESSION block belongs to is a REPEAT or archive replay. When citing a first-appearance or debut date, make clear the source is a session listing that cross-references the original broadcast — do not present the repeat episode's date as the debut.
+- Never make superlative or ordinal claims — "first", "only", "last", "debut", "earliest", "latest" — unless that exact claim appears verbatim in the ARCHIVE CONTEXT. If the context shows an artist's session without labelling it as a debut, do not call it one.
 
 Speaker attribution rules:
 - Each TRANSCRIPT block is labelled with a speaker tag: TV, uncertain, or unknown.

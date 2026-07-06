@@ -94,10 +94,19 @@ export async function POST(request: NextRequest) {
       throw err;
     }
 
-    // 3. Shape matches into context blocks.
+    // 3. For temporal-superlative queries ("first", "debut", "last", etc.),
+    //    re-rank metadata chunks by episode date so the chronologically
+    //    correct episode leads context — not just whichever repeat has the
+    //    richest metadata text and therefore the highest vector score.
+    const temporalIntent = detectTemporalIntent(message);
+    if (temporalIntent) {
+      matches = applyTemporalReRank(matches, temporalIntent);
+    }
+
+    // 4. Shape matches into context blocks.
     const context = shapeContextBlocks(matches);
 
-    // 4. Generate the grounded Tommy Vance answer.
+    // 5. Generate the grounded Tommy Vance answer.
     const result = await getProvider().generateAnswer(message, context, history);
 
     const enriched = ensureAnswerHasCitations(result.answer, result.citations, context);
@@ -250,6 +259,36 @@ function isProviderTimeoutError(err: unknown): boolean {
     name === "AbortError" ||
     message.toLowerCase().includes("timeout")
   );
+}
+
+/**
+ * Returns "earliest" when the query asks about a first/debut appearance,
+ * "latest" for a last/most-recent query, and null otherwise.
+ */
+function detectTemporalIntent(message: string): "earliest" | "latest" | null {
+  const lower = message.toLowerCase();
+  if (/\b(first|earliest|debut|originally)\b/.test(lower)) return "earliest";
+  if (/\b(last|latest|most recent|final|newest)\b/.test(lower)) return "latest";
+  return null;
+}
+
+/**
+ * Re-rank session and track metadata chunks by episode date so temporal
+ * queries surface the chronologically correct episode rather than whichever
+ * repeat has the highest vector similarity score. Transcript chunks stay in
+ * their original (similarity-ranked) order and follow the sorted metadata.
+ */
+function applyTemporalReRank(
+  matches: UnifiedMatch[],
+  intent: "earliest" | "latest"
+): UnifiedMatch[] {
+  const transcripts = matches.filter((m) => m.source_type === "transcript");
+  const metadata = matches.filter((m) => m.source_type !== "transcript");
+  const sorted = [...metadata].sort((a, b) => {
+    const cmp = a.date.localeCompare(b.date);
+    return intent === "earliest" ? cmp : -cmp;
+  });
+  return [...sorted, ...transcripts];
 }
 
 function ensureAnswerHasCitations(
