@@ -16,207 +16,248 @@
     {
       "start": 1.78,
       "end": 14.04,
-      "text": "On Medium Wave and FM Stereo, this is National Radio 1."
+      "text": "On Medium Wave and FM Stereo, this is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 14.04,
       "end": 24.04,
-      "text": "Hello there, this is Tommy Vance. Welcome to our 6th birthday programme. Based on your votes, the most popular rock tracks in the United Kingdom in order of popularity from 10 down to 1. This is number 10."
+      "text": "Hello there, this is Tommy Vance. Welcome to our 6th birthday programme. Based on your votes, the most popular rock tracks in the United Kingdom in order of popularity from 10 down to 1. This is number 10.",
+      "source": "TV"
     },
     {
       "start": 24.04,
       "end": 34.84,
-      "text": "Well, it was at number 16 last year, this year it's at number 9 in our birthday chart."
+      "text": "Well, it was at number 16 last year, this year it's at number 9 in our birthday chart.",
+      "source": "uncertain"
     },
     {
       "start": 1394.84,
       "end": 1400.02,
-      "text": "Before that you heard Smoke on the Water by Deep Purple, and it was at number 9, now it's at number 8."
+      "text": "Before that you heard Smoke on the Water by Deep Purple, and it was at number 9, now it's at number 8.",
+      "source": "TV"
     },
     {
       "start": 1400.14,
       "end": 1401.44,
-      "text": "This is Yes and Awaken."
+      "text": "This is Yes and Awaken.",
+      "source": "uncertain"
     },
     {
       "start": 2696.89,
       "end": 2706.49,
-      "text": "Our birthday program last year, that track was at number 8, now it's at number 7."
+      "text": "Our birthday program last year, that track was at number 8, now it's at number 7.",
+      "source": "TV"
     },
     {
       "start": 2918.7,
       "end": 2921.58,
-      "text": "From the CD Bad Outta Hell, that was Meatloaf, the title track."
+      "text": "From the CD Bad Outta Hell, that was Meatloaf, the title track.",
+      "source": "TV"
     },
     {
       "start": 2922.1,
       "end": 2927.54,
-      "text": "Before that you heard at number 8 from the album Going for the One, released in 77, Yes and Awaken."
+      "text": "Before that you heard at number 8 from the album Going for the One, released in 77, Yes and Awaken.",
+      "source": "TV"
     },
     {
       "start": 2936.17,
       "end": 2938.19,
-      "text": "It's 11 minutes now to 11."
+      "text": "It's 11 minutes now to 11.",
+      "source": "uncertain"
     },
     {
       "start": 2938.75,
       "end": 2941.23,
-      "text": "At number 6, same position as last year."
+      "text": "At number 6, same position as last year.",
+      "source": "uncertain"
     },
     {
       "start": 2941.35,
       "end": 2942.25,
-      "text": "They said last week."
+      "text": "They said last week.",
+      "source": "uncertain"
     },
     {
       "start": 2942.63,
       "end": 2944.93,
-      "text": "Last year, this is Rush."
+      "text": "Last year, this is Rush.",
+      "source": "uncertain"
     },
     {
       "start": 2945.41,
       "end": 2951.41,
-      "text": "Oh, it's at number 5 in our birthday chart here"
+      "text": "Oh, it's at number 5 in our birthday chart here",
+      "source": "TV"
     },
     {
       "start": 4706.53,
       "end": 4708.79,
-      "text": "on the Friday Rock Show from BBC Radio 1."
+      "text": "on the Friday Rock Show from BBC Radio 1.",
+      "source": "uncertain"
     },
     {
       "start": 4709.35,
       "end": 4711.09,
-      "text": "Lynyrd Skynyrd and Freebird."
+      "text": "Lynyrd Skynyrd and Freebird.",
+      "source": "uncertain"
     },
     {
       "start": 4711.29,
       "end": 4713.99,
-      "text": "Before that, you heard from the album that's at number 6,"
+      "text": "Before that, you heard from the album that's at number 6,",
+      "source": "uncertain"
     },
     {
       "start": 4714.41,
       "end": 4715.95,
-      "text": "2112 by Rush."
+      "text": "2112 by Rush.",
+      "source": "uncertain"
     },
     {
       "start": 4716.65,
       "end": 4721.65,
-      "text": "Just about 90 minutes past 11, it is."
+      "text": "Just about 90 minutes past 11, it is.",
+      "source": "TV"
     },
     {
       "start": 4721.65,
       "end": 4723.25,
-      "text": "My name is Tommy Vance."
+      "text": "My name is Tommy Vance.",
+      "source": "uncertain"
     },
     {
       "start": 4723.33,
       "end": 4725.17,
-      "text": "We're just playing all the music that you've voted for."
+      "text": "We're just playing all the music that you've voted for.",
+      "source": "uncertain"
     },
     {
       "start": 4725.17,
       "end": 4728.85,
-      "text": "we do this every year on the anniversary of this program this is our sixth anniversary"
+      "text": "we do this every year on the anniversary of this program this is our sixth anniversary",
+      "source": "TV"
     },
     {
       "start": 4729.49,
       "end": 4803.79,
-      "text": "at number two last year this year at number four genesis suppers ready we watch in reverence"
+      "text": "at number two last year this year at number four genesis suppers ready we watch in reverence",
+      "source": "TV"
     },
     {
       "start": 4803.79,
       "end": 4881.78,
-      "text": "as narcissus is turned to a flower a flower everything we've got some men we've got some"
+      "text": "as narcissus is turned to a flower a flower everything we've got some men we've got some",
+      "source": "TV"
     },
     {
       "start": 4881.78,
       "end": 4891.71,
-      "text": "out we've got some wild things everyone we're changing everyone we'll name them all we've had"
+      "text": "out we've got some wild things everyone we're changing everyone we'll name them all we've had",
+      "source": "TV"
     },
     {
       "start": 4891.71,
       "end": 4893.57,
-      "text": "From here, I'm a real star"
+      "text": "From here, I'm a real star",
+      "source": "uncertain"
     },
     {
       "start": 4893.57,
       "end": 4901.54,
-      "text": "Feel your body melt"
+      "text": "Feel your body melt",
+      "source": "TV"
     },
     {
       "start": 4901.54,
       "end": 4903.79,
-      "text": "Mum to mud to mud"
+      "text": "Mum to mud to mud",
+      "source": "uncertain"
     },
     {
       "start": 4903.79,
       "end": 4913.38,
-      "text": "Mum diddly washing, mum diddly washing"
+      "text": "Mum diddly washing, mum diddly washing",
+      "source": "uncertain"
     },
     {
       "start": 4913.38,
       "end": 4921.78,
-      "text": "This is, um, this next one is a thing, a song about a loser"
+      "text": "This is, um, this next one is a thing, a song about a loser",
+      "source": "uncertain"
     },
     {
       "start": 5537.08,
       "end": 5541.4,
-      "text": "And that's all there is, a guy who comes third in a duel"
+      "text": "And that's all there is, a guy who comes third in a duel",
+      "source": "uncertain"
     },
     {
       "start": 5541.4,
       "end": 5545.0,
-      "text": "It's all got about you here"
+      "text": "It's all got about you here",
+      "source": "uncertain"
     },
     {
       "start": 6086.91,
       "end": 6091.71,
-      "text": "This year it's at number two, Rainbow, Stargazer"
+      "text": "This year it's at number two, Rainbow, Stargazer",
+      "source": "uncertain"
     },
     {
       "start": 6691.79,
       "end": 6694.37,
-      "text": "At number three, you heard Child in Time by Deep Purple"
+      "text": "At number three, you heard Child in Time by Deep Purple",
+      "source": "uncertain"
     },
     {
       "start": 6694.37,
       "end": 6697.66,
-      "text": "At number four, Genesis and Supper's Ready"
+      "text": "At number four, Genesis and Supper's Ready",
+      "source": "uncertain"
     },
     {
       "start": 6697.66,
       "end": 6703.56,
-      "text": "Happy birthday, Martin Faulkner, from your dad"
+      "text": "Happy birthday, Martin Faulkner, from your dad",
+      "source": "TV"
     },
     {
       "start": 6703.56,
       "end": 6705.99,
-      "text": "Production was by Tony Wilson"
+      "text": "Production was by Tony Wilson",
+      "source": "TV"
     },
     {
       "start": 6705.99,
       "end": 6708.25,
-      "text": "The compilation was put together by you"
+      "text": "The compilation was put together by you",
+      "source": "uncertain"
     },
     {
       "start": 6708.25,
       "end": 6709.85,
-      "text": "My name is Tommy Vance"
+      "text": "My name is Tommy Vance",
+      "source": "uncertain"
     },
     {
       "start": 6709.85,
       "end": 6711.51,
-      "text": "Thanks once again for all your support"
+      "text": "Thanks once again for all your support",
+      "source": "uncertain"
     },
     {
       "start": 6711.51,
       "end": 6713.23,
-      "text": "We're now six years old, this program"
+      "text": "We're now six years old, this program",
+      "source": "uncertain"
     },
     {
       "start": 6713.23,
       "end": 6715.65,
-      "text": "Let's make it seven, cause the music's great"
+      "text": "Let's make it seven, cause the music's great",
+      "source": "uncertain"
     }
   ]
 }

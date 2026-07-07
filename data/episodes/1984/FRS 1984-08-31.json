@@ -98,27 +98,32 @@
     {
       "start": 1.46,
       "end": 37.1,
-      "text": "Two and a half minutes after ten, the Friday Rock Show from BBC Radio 1. Hello to listeners who've just joined us on VHF FM, listening to us in delightful stereo. How are you? I hope you're well."
+      "text": "Two and a half minutes after ten, the Friday Rock Show from BBC Radio 1. Hello to listeners who've just joined us on VHF FM, listening to us in delightful stereo. How are you? I hope you're well.",
+      "source": "TV"
     },
     {
       "start": 37.1,
       "end": 49.1,
-      "text": "The programme tonight is excellent. At about ten minutes past eleven, we have a couple of extracts from concerts that were performed by the Pink Floyd back in 1970 and 1971. That's about ten past eleven, okay?"
+      "text": "The programme tonight is excellent. At about ten minutes past eleven, we have a couple of extracts from concerts that were performed by the Pink Floyd back in 1970 and 1971. That's about ten past eleven, okay?",
+      "source": "TV"
     },
     {
       "start": 49.1,
       "end": 52.9,
-      "text": "We've also got some new releases by Hammerhead, Perennial, Kiss, Money, and Dio,"
+      "text": "We've also got some new releases by Hammerhead, Perennial, Kiss, Money, and Dio,",
+      "source": "TV"
     },
     {
       "start": 53.0,
       "end": 55.3,
-      "text": "and a couple of tracks by this band, Iron Maiden."
+      "text": "and a couple of tracks by this band, Iron Maiden.",
+      "source": "uncertain"
     },
     {
       "start": 56.32,
       "end": 65.92,
-      "text": "A couple of tracks from their latest LP just come out on the EMI record label."
+      "text": "A couple of tracks from their latest LP just come out on the EMI record label.",
+      "source": "uncertain"
     },
     {
       "start": 360.0,
@@ -129,37 +134,44 @@
     {
       "start": 670.24,
       "end": 671.66,
-      "text": "It is called Power Slave."
+      "text": "It is called Power Slave.",
+      "source": "uncertain"
     },
     {
       "start": 671.8,
       "end": 674.84,
-      "text": "The tracks you heard were called The Jewelers and Flash of the Blade."
+      "text": "The tracks you heard were called The Jewelers and Flash of the Blade.",
+      "source": "uncertain"
     },
     {
       "start": 675.74,
       "end": 677.64,
-      "text": "Excellent album. Good value as well."
+      "text": "Excellent album. Good value as well.",
+      "source": "uncertain"
     },
     {
       "start": 678.12,
       "end": 682.02,
-      "text": "Because there's something like 48 to 50 minutes of music on that album,"
+      "text": "Because there's something like 48 to 50 minutes of music on that album,",
+      "source": "uncertain"
     },
     {
       "start": 682.16,
       "end": 683.56,
-      "text": "so it's blooming good value."
+      "text": "so it's blooming good value.",
+      "source": "uncertain"
     },
     {
       "start": 684.86,
       "end": 687.1,
-      "text": "Thirteen and a half minutes past ten, Plant."
+      "text": "Thirteen and a half minutes past ten, Plant.",
+      "source": "uncertain"
     },
     {
       "start": 687.58,
       "end": 691.18,
-      "text": "Their album is called Trust Me."
+      "text": "Their album is called Trust Me.",
+      "source": "TV"
     },
     {
       "start": 691.18,
@@ -170,27 +182,32 @@
     {
       "start": 1224.16,
       "end": 1225.42,
-      "text": "It's out on Heavy Metal America."
+      "text": "It's out on Heavy Metal America.",
+      "source": "uncertain"
     },
     {
       "start": 1225.54,
       "end": 1226.72,
-      "text": "That track was Star Maker."
+      "text": "That track was Star Maker.",
+      "source": "uncertain"
     },
     {
       "start": 1228.05,
       "end": 1230.01,
-      "text": "Before that, Robert Plant from Pictures at Eleven,"
+      "text": "Before that, Robert Plant from Pictures at Eleven,",
+      "source": "uncertain"
     },
     {
       "start": 1230.17,
       "end": 1231.61,
-      "text": "the track Burning Down One Side."
+      "text": "the track Burning Down One Side.",
+      "source": "uncertain"
     },
     {
       "start": 1232.23,
       "end": 1235.23,
-      "text": "That is from an import."
+      "text": "That is from an import.",
+      "source": "uncertain"
     },
     {
       "start": 1235.23,
@@ -201,12 +218,14 @@
     {
       "start": 1443.71,
       "end": 1447.01,
-      "text": "It's by Perennial on the Perennial record label out of the States."
+      "text": "It's by Perennial on the Perennial record label out of the States.",
+      "source": "TV"
     },
     {
       "start": 1447.47,
       "end": 1450.43,
-      "text": "It was called Caught in the Ruts, Black Swampy Water."
+      "text": "It was called Caught in the Ruts, Black Swampy Water.",
+      "source": "TV"
     },
     {
       "start": 1450.43,
@@ -217,207 +236,248 @@
     {
       "start": 2222.44,
       "end": 2224.6,
-      "text": "That was Kiss and Heaven's on Fire."
+      "text": "That was Kiss and Heaven's on Fire.",
+      "source": "uncertain"
     },
     {
       "start": 2225.76,
       "end": 2228.1,
-      "text": "Before that, something from an album called Out of the Darkness."
+      "text": "Before that, something from an album called Out of the Darkness.",
+      "source": "uncertain"
     },
     {
       "start": 2228.1,
       "end": 2230.2,
-      "text": "It's out on the Music for Nations label in this country."
+      "text": "It's out on the Music for Nations label in this country.",
+      "source": "uncertain"
     },
     {
       "start": 2230.3,
       "end": 2232.76,
-      "text": "The tracks were Wild in the Streets and Scorcher."
+      "text": "The tracks were Wild in the Streets and Scorcher.",
+      "source": "uncertain"
     },
     {
       "start": 2232.76,
       "end": 2235.73,
-      "text": "now Jack Starr is the fellow that plays"
+      "text": "now Jack Starr is the fellow that plays",
+      "source": "uncertain"
     },
     {
       "start": 2235.73,
       "end": 2237.57,
-      "text": "lead guitars on that, he's from Virgin Steel"
+      "text": "lead guitars on that, he's from Virgin Steel",
+      "source": "uncertain"
     },
     {
       "start": 2237.57,
       "end": 2239.69,
-      "text": "Rhett Forrester of Riot does the lead vocals"
+      "text": "Rhett Forrester of Riot does the lead vocals",
+      "source": "uncertain"
     },
     {
       "start": 2239.69,
       "end": 2241.63,
-      "text": "Carl Kennedy of the Rods"
+      "text": "Carl Kennedy of the Rods",
+      "source": "uncertain"
     },
     {
       "start": 2241.63,
       "end": 2244.07,
-      "text": "and Gary Bordenaro of the Rods"
+      "text": "and Gary Bordenaro of the Rods",
+      "source": "uncertain"
     },
     {
       "start": 2244.07,
       "end": 2245.97,
-      "text": "drums and bass, Gary Driscoll"
+      "text": "drums and bass, Gary Driscoll",
+      "source": "uncertain"
     },
     {
       "start": 2245.97,
       "end": 2247.17,
-      "text": "X of Rainbow on the drums"
+      "text": "X of Rainbow on the drums",
+      "source": "uncertain"
     },
     {
       "start": 2247.17,
       "end": 2249.88,
-      "text": "good album, excellent album"
+      "text": "good album, excellent album",
+      "source": "uncertain"
     },
     {
       "start": 2249.88,
       "end": 2251.7,
-      "text": "in actual fact, it's now 10 minutes to 11"
+      "text": "in actual fact, it's now 10 minutes to 11",
+      "source": "uncertain"
     },
     {
       "start": 2251.7,
       "end": 2262.24,
-      "text": "it's time for the Friday Night Connection"
+      "text": "it's time for the Friday Night Connection",
+      "source": "uncertain"
     },
     {
       "start": 2262.24,
       "end": 2264.24,
-      "text": "the tracks we played you last week were these"
+      "text": "the tracks we played you last week were these",
+      "source": "uncertain"
     },
     {
       "start": 2264.24,
       "end": 2266.36,
-      "text": "A Flight of Icarus, Iron Maiden"
+      "text": "A Flight of Icarus, Iron Maiden",
+      "source": "uncertain"
     },
     {
       "start": 2266.36,
       "end": 2267.84,
-      "text": "from Peace of Mind"
+      "text": "from Peace of Mind",
+      "source": "uncertain"
     },
     {
       "start": 2267.84,
       "end": 2270.24,
-      "text": "Tales of Brave Ulysses"
+      "text": "Tales of Brave Ulysses",
+      "source": "uncertain"
     },
     {
       "start": 2270.24,
       "end": 2271.94,
-      "text": "from Backtracking by Cream."
+      "text": "from Backtracking by Cream.",
+      "source": "uncertain"
     },
     {
       "start": 2272.9,
       "end": 2274.08,
-      "text": "Achilles' Last Stand"
+      "text": "Achilles' Last Stand",
+      "source": "uncertain"
     },
     {
       "start": 2274.08,
       "end": 2275.78,
-      "text": "from Presence by Led Zepp."
+      "text": "from Presence by Led Zepp.",
+      "source": "uncertain"
     },
     {
       "start": 2278.53,
       "end": 2279.85,
-      "text": "Loads of people wrote in."
+      "text": "Loads of people wrote in.",
+      "source": "uncertain"
     },
     {
       "start": 2280.05,
       "end": 2281.51,
-      "text": "Just about everybody got it right."
+      "text": "Just about everybody got it right.",
+      "source": "uncertain"
     },
     {
       "start": 2281.65,
       "end": 2282.61,
-      "text": "Only one winner, though,"
+      "text": "Only one winner, though,",
+      "source": "uncertain"
     },
     {
       "start": 2282.67,
       "end": 2283.85,
-      "text": "because that's all we can afford."
+      "text": "because that's all we can afford.",
+      "source": "uncertain"
     },
     {
       "start": 2284.41,
       "end": 2286.49,
-      "text": "Always pleading poverty this time of night, aren't we?"
+      "text": "Always pleading poverty this time of night, aren't we?",
+      "source": "uncertain"
     },
     {
       "start": 2289.21,
       "end": 2291.25,
-      "text": "Martin Buckbead of Hazel Road,"
+      "text": "Martin Buckbead of Hazel Road,",
+      "source": "uncertain"
     },
     {
       "start": 2291.59,
       "end": 2293.19,
-      "text": "New Orlaton, Nottinghamshire."
+      "text": "New Orlaton, Nottinghamshire.",
+      "source": "uncertain"
     },
     {
       "start": 2293.39,
       "end": 2294.99,
-      "text": "You get to sell a £12 record token,"
+      "text": "You get to sell a £12 record token,",
+      "source": "uncertain"
     },
     {
       "start": 2295.13,
       "end": 2297.15,
-      "text": "any other things we can discover in our goodies drawer,"
+      "text": "any other things we can discover in our goodies drawer,",
+      "source": "uncertain"
     },
     {
       "start": 2297.61,
       "end": 2298.71,
-      "text": "and we'll ship the lot to you."
+      "text": "and we'll ship the lot to you.",
+      "source": "uncertain"
     },
     {
       "start": 2299.43,
       "end": 2299.87,
-      "text": "Congratulations."
+      "text": "Congratulations.",
+      "source": "uncertain"
     },
     {
       "start": 2299.87,
       "end": 2302.49,
-      "text": "The answer, of course, was Icarus, Flight of,"
+      "text": "The answer, of course, was Icarus, Flight of,",
+      "source": "uncertain"
     },
     {
       "start": 2302.49,
       "end": 2307.19,
-      "text": "Tales of Brave Ulysses and Achilles"
+      "text": "Tales of Brave Ulysses and Achilles",
+      "source": "uncertain"
     },
     {
       "start": 2307.19,
       "end": 2309.95,
-      "text": "All Greek mythological figures"
+      "text": "All Greek mythological figures",
+      "source": "uncertain"
     },
     {
       "start": 2309.95,
       "end": 2313.57,
-      "text": "I'd like to thank everybody that wrote in"
+      "text": "I'd like to thank everybody that wrote in",
+      "source": "uncertain"
     },
     {
       "start": 2313.57,
       "end": 2315.15,
-      "text": "Thank you very much for joining in the competition"
+      "text": "Thank you very much for joining in the competition",
+      "source": "uncertain"
     },
     {
       "start": 2315.15,
       "end": 2317.91,
-      "text": "I fear, though, of course, as always, there can only be one winner"
+      "text": "I fear, though, of course, as always, there can only be one winner",
+      "source": "uncertain"
     },
     {
       "start": 2317.91,
       "end": 2320.97,
-      "text": "Martin has put together a Friday Night Connection of his own"
+      "text": "Martin has put together a Friday Night Connection of his own",
+      "source": "uncertain"
     },
     {
       "start": 2320.97,
       "end": 2323.65,
-      "text": "It starts right here"
+      "text": "It starts right here",
+      "source": "uncertain"
     },
     {
       "start": 2323.65,
       "end": 2328.45,
-      "text": "Friday Night Connection put together by Martin Buckby"
+      "text": "Friday Night Connection put together by Martin Buckby",
+      "source": "TV"
     },
     {
       "start": 2328.45,
@@ -428,217 +488,260 @@
     {
       "start": 2986.95,
       "end": 2989.63,
-      "text": "Hazel Road, New Ollerton, a Nottingham show"
+      "text": "Hazel Road, New Ollerton, a Nottingham show",
+      "source": "uncertain"
     },
     {
       "start": 2989.63,
       "end": 2992.19,
-      "text": "Three bits of music, it's in there somewhere, that connection"
+      "text": "Three bits of music, it's in there somewhere, that connection",
+      "source": "uncertain"
     },
     {
       "start": 2992.19,
       "end": 2996.09,
-      "text": "if you think you know where it is send your answers on a postcard written communications"
+      "text": "if you think you know where it is send your answers on a postcard written communications",
+      "source": "uncertain"
     },
     {
       "start": 2996.09,
       "end": 3004.06,
-      "text": "only to the friday night connection the friday rock show bbc radio one london w1a4 ww the friday"
+      "text": "only to the friday night connection the friday rock show bbc radio one london w1a4 ww the friday",
+      "source": "uncertain"
     },
     {
       "start": 3004.06,
       "end": 3011.32,
-      "text": "night connection the friday rock show bbc radio one london w1a4 ww please do not forget to put"
+      "text": "night connection the friday rock show bbc radio one london w1a4 ww please do not forget to put",
+      "source": "TV"
     },
     {
       "start": 3011.32,
       "end": 3013.14,
-      "text": "Together, a connection of your own."
+      "text": "Together, a connection of your own.",
+      "source": "uncertain"
     },
     {
       "start": 3013.24,
       "end": 3013.82,
-      "text": "And good luck."
+      "text": "And good luck.",
+      "source": "uncertain"
     },
     {
       "start": 3013.82,
       "end": 3023.83,
-      "text": "It's all so clear"
+      "text": "It's all so clear",
+      "source": "uncertain"
     },
     {
       "start": 3023.83,
       "end": 3026.13,
-      "text": "I could never forget"
+      "text": "I could never forget",
+      "source": "uncertain"
     },
     {
       "start": 3026.13,
       "end": 3032.88,
-      "text": "Say, loving you is the one thing"
+      "text": "Say, loving you is the one thing",
+      "source": "uncertain"
     },
     {
       "start": 3032.88,
       "end": 3034.88,
-      "text": "I'll never regret"
+      "text": "I'll never regret",
+      "source": "uncertain"
     },
     {
       "start": 3034.88,
       "end": 3041.51,
-      "text": "Still hear the sounds"
+      "text": "Still hear the sounds",
+      "source": "uncertain"
     },
     {
       "start": 3041.51,
       "end": 3043.55,
-      "text": "of those Methodist bells"
+      "text": "of those Methodist bells",
+      "source": "uncertain"
     },
     {
       "start": 3043.55,
       "end": 3046.01,
-      "text": "I've taken the cure"
+      "text": "I've taken the cure",
+      "source": "uncertain"
     },
     {
       "start": 3046.01,
       "end": 3048.21,
-      "text": "and it just got me through"
+      "text": "and it just got me through",
+      "source": "uncertain"
     },
     {
       "start": 3048.21,
       "end": 3050.53,
-      "text": "Staying up for days"
+      "text": "Staying up for days",
+      "source": "uncertain"
     },
     {
       "start": 3050.53,
       "end": 3052.69,
-      "text": "in the Chelsea Hotel"
+      "text": "in the Chelsea Hotel",
+      "source": "uncertain"
     },
     {
       "start": 3052.69,
       "end": 3057.33,
-      "text": "Riding sad-eyed lady of the lowlands for you"
+      "text": "Riding sad-eyed lady of the lowlands for you",
+      "source": "uncertain"
     },
     {
       "start": 3057.33,
       "end": 3066.28,
-      "text": "Wherever we travel, we're never apart"
+      "text": "Wherever we travel, we're never apart",
+      "source": "uncertain"
     },
     {
       "start": 3066.28,
       "end": 3075.49,
-      "text": "Sweet little lady so dear to my heart"
+      "text": "Sweet little lady so dear to my heart",
+      "source": "uncertain"
     },
     {
       "start": 3075.49,
       "end": 3088.42,
-      "text": "I don't know, a messenger sent me in a tropical storm"
+      "text": "I don't know, a messenger sent me in a tropical storm",
+      "source": "uncertain"
     },
     {
       "start": 3088.42,
       "end": 3092.8,
-      "text": "You were there in the winter, moonlight on the snow"
+      "text": "You were there in the winter, moonlight on the snow",
+      "source": "uncertain"
     },
     {
       "start": 3092.8,
       "end": 3097.4,
-      "text": "And on Lily Pond Lane when the weather was warm"
+      "text": "And on Lily Pond Lane when the weather was warm",
+      "source": "uncertain"
     },
     {
       "start": 3097.4,
       "end": 3106.28,
-      "text": "Scorpio stinks in our calico dress"
+      "text": "Scorpio stinks in our calico dress",
+      "source": "uncertain"
     },
     {
       "start": 3106.28,
       "end": 3115.54,
-      "text": "You must forgive me my unworthiness"
+      "text": "You must forgive me my unworthiness",
+      "source": "uncertain"
     },
     {
       "start": 3115.54,
       "end": 3124.05,
-      "text": "Now the beach is deserted except for some kelp"
+      "text": "Now the beach is deserted except for some kelp",
+      "source": "uncertain"
     },
     {
       "start": 3124.05,
       "end": 3128.29,
-      "text": "And a piece of an old ship that lies on the shore"
+      "text": "And a piece of an old ship that lies on the shore",
+      "source": "uncertain"
     },
     {
       "start": 3128.29,
       "end": 3132.87,
-      "text": "You always responded when I needed your help"
+      "text": "You always responded when I needed your help",
+      "source": "uncertain"
     },
     {
       "start": 3132.87,
       "end": 3137.17,
-      "text": "You gave me a map and a key to your door"
+      "text": "You gave me a map and a key to your door",
+      "source": "uncertain"
     },
     {
       "start": 3137.17,
       "end": 3146.02,
-      "text": "Sit with an arrow and bow"
+      "text": "Sit with an arrow and bow",
+      "source": "uncertain"
     },
     {
       "start": 3146.02,
       "end": 3154.93,
-      "text": "Leave me and don't ever go"
+      "text": "Leave me and don't ever go",
+      "source": "uncertain"
     },
     {
       "start": 3154.93,
       "end": 3163.33,
-      "text": "One and a half minutes after eleven, it's time for the Friday Night Connection."
+      "text": "One and a half minutes after eleven, it's time for the Friday Night Connection.",
+      "source": "uncertain"
     },
     {
       "start": 3462.68,
       "end": 3464.08,
-      "text": "The tracks we played you last week were these."
+      "text": "The tracks we played you last week were these.",
+      "source": "uncertain"
     },
     {
       "start": 3464.18,
       "end": 3467.7,
-      "text": "Steely Dan from The Royal Scam, Green Earrings."
+      "text": "Steely Dan from The Royal Scam, Green Earrings.",
+      "source": "uncertain"
     },
     {
       "start": 3468.56,
       "end": 3470.84,
-      "text": "Gamma from Gamma 3, Condition Yellow."
+      "text": "Gamma from Gamma 3, Condition Yellow.",
+      "source": "TV"
     },
     {
       "start": 3471.4,
       "end": 3474.34,
-      "text": "From the album Universal Juveniles, Max Webster."
+      "text": "From the album Universal Juveniles, Max Webster.",
+      "source": "TV"
     },
     {
       "start": 3475.04,
       "end": 3477.26,
-      "text": "And Blue River Liquor Shine."
+      "text": "And Blue River Liquor Shine.",
+      "source": "uncertain"
     },
     {
       "start": 3477.26,
       "end": 3484.49,
-      "text": "green earrings conditioned yellow blue river liquor shine two people and that's all i've seen"
+      "text": "green earrings conditioned yellow blue river liquor shine two people and that's all i've seen",
+      "source": "TV"
     },
     {
       "start": 3484.49,
       "end": 3488.63,
-      "text": "so far just two totally right answers so we put them both together closed our eyes and grab one"
+      "text": "so far just two totally right answers so we put them both together closed our eyes and grab one",
+      "source": "uncertain"
     },
     {
       "start": 3488.63,
       "end": 3495.14,
-      "text": "of them and the winner is steve gestico of barking in essex mr gestico you get the 12 pound record"
+      "text": "of them and the winner is steve gestico of barking in essex mr gestico you get the 12 pound record",
+      "source": "TV"
     },
     {
       "start": 3495.14,
       "end": 3503.86,
-      "text": "token and any other goodies that we can find you congratulations now steve's put together a friday"
+      "text": "token and any other goodies that we can find you congratulations now steve's put together a friday",
+      "source": "TV"
     },
     {
       "start": 3503.86,
       "end": 3508.14,
-      "text": "night connection of his own three bits of music it's in there somewhere and now is the time to"
+      "text": "night connection of his own three bits of music it's in there somewhere and now is the time to",
+      "source": "TV"
     },
     {
       "start": 3508.14,
       "end": 3508.9,
-      "text": "concentrates."
+      "text": "concentrates.",
+      "source": "uncertain"
     }
   ]
 }

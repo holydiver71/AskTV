@@ -70,32 +70,38 @@
     {
       "start": 1.14,
       "end": 6.74,
-      "text": "5 and 2, 8, 5. Also in stereo on VHF. This is National Radio 1."
+      "text": "5 and 2, 8, 5. Also in stereo on VHF. This is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 8.74,
       "end": 22.54,
-      "text": "Well, hello there. This is TV on the Radio here, Thomas the Vance, and welcome once again to The Friday Rock Show."
+      "text": "Well, hello there. This is TV on the Radio here, Thomas the Vance, and welcome once again to The Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 48.93,
       "end": 54.33,
-      "text": "Right, on the program tonight we've got some new stuff by Bannon Roja, Barclay James Harvest, Black Rose, and Frankie Miller."
+      "text": "Right, on the program tonight we've got some new stuff by Bannon Roja, Barclay James Harvest, Black Rose, and Frankie Miller.",
+      "source": "uncertain"
     },
     {
       "start": 54.33,
       "end": 56.43,
-      "text": "Some imports by Mayday and Frank Zappa."
+      "text": "Some imports by Mayday and Frank Zappa.",
+      "source": "uncertain"
     },
     {
       "start": 56.43,
       "end": 63.43,
-      "text": "And in our second hour, Pink Floyd's Dark Side of the Moon, as recorded at Wembley on the 16th of November, 1974."
+      "text": "And in our second hour, Pink Floyd's Dark Side of the Moon, as recorded at Wembley on the 16th of November, 1974.",
+      "source": "TV"
     },
     {
       "start": 63.43,
       "end": 66.73,
-      "text": "We've got the Friday Night Connection and loads of good music."
+      "text": "We've got the Friday Night Connection and loads of good music.",
+      "source": "TV"
     },
     {
       "start": 66.73,
@@ -106,167 +112,200 @@
     {
       "start": 604.15,
       "end": 608.11,
-      "text": "That's the band from Spain who are called Baron Roya or Roja,"
+      "text": "That's the band from Spain who are called Baron Roya or Roja,",
+      "source": "uncertain"
     },
     {
       "start": 608.61,
       "end": 609.79,
-      "text": "but in English, Red Baron."
+      "text": "but in English, Red Baron.",
+      "source": "uncertain"
     },
     {
       "start": 610.31,
       "end": 612.01,
-      "text": "They're going to be at Reading this year,"
+      "text": "They're going to be at Reading this year,",
+      "source": "uncertain"
     },
     {
       "start": 612.11,
       "end": 615.23,
-      "text": "and it's from an album that's going to come out in September or October this year"
+      "text": "and it's from an album that's going to come out in September or October this year",
+      "source": "uncertain"
     },
     {
       "start": 615.23,
       "end": 618.35,
-      "text": "that will have the title Volumen Brutal."
+      "text": "that will have the title Volumen Brutal.",
+      "source": "uncertain"
     },
     {
       "start": 619.03,
       "end": 621.09,
-      "text": "The track was called Rockers Go to Hell."
+      "text": "The track was called Rockers Go to Hell.",
+      "source": "uncertain"
     },
     {
       "start": 622.0,
       "end": 623.38,
-      "text": "And before that, something from Black Sabbath,"
+      "text": "And before that, something from Black Sabbath,",
+      "source": "uncertain"
     },
     {
       "start": 623.76,
       "end": 625.38,
-      "text": "an archive track called Die Young,"
+      "text": "an archive track called Die Young,",
+      "source": "uncertain"
     },
     {
       "start": 626.16,
       "end": 629.52,
-      "text": "especially for Lorraine and Tina and also for Dawn."
+      "text": "especially for Lorraine and Tina and also for Dawn.",
+      "source": "uncertain"
     },
     {
       "start": 629.52,
       "end": 632.02,
-      "text": "That's Dawn Cossack, who lives in Nunthorpe in Middlesbrough."
+      "text": "That's Dawn Cossack, who lives in Nunthorpe in Middlesbrough.",
+      "source": "uncertain"
     },
     {
       "start": 633.16,
       "end": 635.4,
-      "text": "And for Paul Susett, or Sujit possibly,"
+      "text": "And for Paul Susett, or Sujit possibly,",
+      "source": "TV"
     },
     {
       "start": 635.54,
       "end": 638.7,
-      "text": "and Gary Lennon and Alan Rowe and Stephen Coates and Neil Atkinson"
+      "text": "and Gary Lennon and Alan Rowe and Stephen Coates and Neil Atkinson",
+      "source": "uncertain"
     },
     {
       "start": 638.7,
       "end": 640.88,
-      "text": "and all the headbangers at Nunhope Comp."
+      "text": "and all the headbangers at Nunhope Comp.",
+      "source": "TV"
     },
     {
       "start": 641.68,
       "end": 643.92,
-      "text": "And Tony in Ackland's sixth form, I think it is,"
+      "text": "And Tony in Ackland's sixth form, I think it is,",
+      "source": "uncertain"
     },
     {
       "start": 644.0,
       "end": 646.22,
-      "text": "Chris in Morden or Marston possibly,"
+      "text": "Chris in Morden or Marston possibly,",
+      "source": "uncertain"
     },
     {
       "start": 646.64,
       "end": 647.56,
-      "text": "and Ian in Thornaby."
+      "text": "and Ian in Thornaby.",
+      "source": "uncertain"
     },
     {
       "start": 648.16,
       "end": 648.64,
-      "text": "All right, Dale."
+      "text": "All right, Dale.",
+      "source": "uncertain"
     },
     {
       "start": 650.27,
       "end": 652.67,
-      "text": "And especially also for a fellow that didn't want his name mentioned,"
+      "text": "And especially also for a fellow that didn't want his name mentioned,",
+      "source": "uncertain"
     },
     {
       "start": 652.75,
       "end": 653.67,
-      "text": "but I'm going to mention it anyway,"
+      "text": "but I'm going to mention it anyway,",
+      "source": "uncertain"
     },
     {
       "start": 653.77,
       "end": 656.07,
-      "text": "he says he comes back from the pub early to hear this programme,"
+      "text": "he says he comes back from the pub early to hear this programme,",
+      "source": "uncertain"
     },
     {
       "start": 656.87,
       "end": 658.87,
-      "text": "Carrie Gage of Westbury in Wiltshire."
+      "text": "Carrie Gage of Westbury in Wiltshire.",
+      "source": "uncertain"
     },
     {
       "start": 659.73,
       "end": 662.37,
-      "text": "Also, Die Young was for Dave the Nutter Nuttall"
+      "text": "Also, Die Young was for Dave the Nutter Nuttall",
+      "source": "uncertain"
     },
     {
       "start": 662.37,
       "end": 665.59,
-      "text": "and all his mates at the Matthew Humberston Headbangers College."
+      "text": "and all his mates at the Matthew Humberston Headbangers College.",
+      "source": "TV"
     },
     {
       "start": 666.47,
       "end": 668.35,
-      "text": "Also, Mad Mallow and Trog and Durante"
+      "text": "Also, Mad Mallow and Trog and Durante",
+      "source": "uncertain"
     },
     {
       "start": 668.35,
       "end": 671.71,
-      "text": "and Andy T and Mr. Mahom and his muses"
+      "text": "and Andy T and Mr. Mahom and his muses",
+      "source": "uncertain"
     },
     {
       "start": 671.71,
       "end": 674.85,
-      "text": "and Jackie and Saggy, or possibly Soggy, sorry if it's a lady,"
+      "text": "and Jackie and Saggy, or possibly Soggy, sorry if it's a lady,",
+      "source": "uncertain"
     },
     {
       "start": 675.19,
       "end": 677.47,
-      "text": "Gentle Jill, Lusty Lynn, Cheetah, Amok,"
+      "text": "Gentle Jill, Lusty Lynn, Cheetah, Amok,",
+      "source": "uncertain"
     },
     {
       "start": 677.55,
       "end": 680.57,
-      "text": "the old boy Jono, Big J.S., and finally, Boz."
+      "text": "the old boy Jono, Big J.S., and finally, Boz.",
+      "source": "uncertain"
     },
     {
       "start": 684.91,
       "end": 686.67,
-      "text": "This is a track from a really good import."
+      "text": "This is a track from a really good import.",
+      "source": "uncertain"
     },
     {
       "start": 686.79,
       "end": 688.25,
-      "text": "It's out on A&M Records in America."
+      "text": "It's out on A&M Records in America.",
+      "source": "uncertain"
     },
     {
       "start": 688.45,
       "end": 690.37,
-      "text": "It's by a band from the States called Mayday."
+      "text": "It's by a band from the States called Mayday.",
+      "source": "uncertain"
     },
     {
       "start": 690.57,
       "end": 691.87,
-      "text": "This track is Identity."
+      "text": "This track is Identity.",
+      "source": "uncertain"
     },
     {
       "start": 692.39,
       "end": 699.59,
-      "text": "Barclay James Harvest from their new album, which is out on Polydor."
+      "text": "Barclay James Harvest from their new album, which is out on Polydor.",
+      "source": "uncertain"
     },
     {
       "start": 699.59,
@@ -277,557 +316,668 @@
     {
       "start": 1347.06,
       "end": 1349.5,
-      "text": "The album's called A Concert for the People, Berlin."
+      "text": "The album's called A Concert for the People, Berlin.",
+      "source": "uncertain"
     },
     {
       "start": 1349.84,
       "end": 1351.44,
-      "text": "A track, Nova Lepidoptera."
+      "text": "A track, Nova Lepidoptera.",
+      "source": "uncertain"
     },
     {
       "start": 1352.32,
       "end": 1356.38,
-      "text": "And if you watch BBC Television at 11.35 next Tuesday,"
+      "text": "And if you watch BBC Television at 11.35 next Tuesday,",
+      "source": "uncertain"
     },
     {
       "start": 1356.5,
       "end": 1359.98,
-      "text": "you can see extracts from that memorable concert that was held in Berlin"
+      "text": "you can see extracts from that memorable concert that was held in Berlin",
+      "source": "uncertain"
     },
     {
       "start": 1359.98,
       "end": 1362.04,
-      "text": "in the latter part of 1980."
+      "text": "in the latter part of 1980.",
+      "source": "uncertain"
     },
     {
       "start": 1362.72,
       "end": 1364.32,
-      "text": "11.35, BBC Two."
+      "text": "11.35, BBC Two.",
+      "source": "uncertain"
     },
     {
       "start": 1364.44,
       "end": 1367.8,
-      "text": "Highlights of A Concert for the People by Barclay James Harvest."
+      "text": "Highlights of A Concert for the People by Barclay James Harvest.",
+      "source": "TV"
     },
     {
       "start": 1367.98,
       "end": 1369.0,
-      "text": "It's on BBC Two."
+      "text": "It's on BBC Two.",
+      "source": "uncertain"
     },
     {
       "start": 1370.0,
       "end": 1372.08,
-      "text": "And Paula, something from a really good import album."
+      "text": "And Paula, something from a really good import album.",
+      "source": "uncertain"
     },
     {
       "start": 1372.08,
       "end": 1374.72,
-      "text": "It's out on import, it's on A&M Records USA."
+      "text": "It's out on import, it's on A&M Records USA.",
+      "source": "uncertain"
     },
     {
       "start": 1375.24,
       "end": 1376.42,
-      "text": "Name of the band, Mayday."
+      "text": "Name of the band, Mayday.",
+      "source": "uncertain"
     },
     {
       "start": 1376.54,
       "end": 1377.78,
-      "text": "The track was Identity."
+      "text": "The track was Identity.",
+      "source": "uncertain"
     },
     {
       "start": 1379.42,
       "end": 1383.42,
-      "text": "Especially for Steve, from Debbie Hallett of Edge End Enhance."
+      "text": "Especially for Steve, from Debbie Hallett of Edge End Enhance.",
+      "source": "uncertain"
     },
     {
       "start": 1386.47,
       "end": 1388.97,
-      "text": "She says, tell him he's the greatest guy in the world"
+      "text": "She says, tell him he's the greatest guy in the world",
+      "source": "uncertain"
     },
     {
       "start": 1388.97,
       "end": 1390.97,
-      "text": "and that I love him and that I'm missing him."
+      "text": "and that I love him and that I'm missing him.",
+      "source": "uncertain"
     },
     {
       "start": 1392.35,
       "end": 1395.17,
-      "text": "John the Axe Butcher Porkella wrote this."
+      "text": "John the Axe Butcher Porkella wrote this.",
+      "source": "TV"
     },
     {
       "start": 1395.65,
       "end": 1396.05,
-      "text": "Hello, Tom."
+      "text": "Hello, Tom.",
+      "source": "uncertain"
     },
     {
       "start": 1396.47,
       "end": 1398.55,
-      "text": "I'm writing to you just before noon from Zappola,"
+      "text": "I'm writing to you just before noon from Zappola,",
+      "source": "uncertain"
     },
     {
       "start": 1398.79,
       "end": 1400.77,
-      "text": "a small town of 2,500 people"
+      "text": "a small town of 2,500 people",
+      "source": "uncertain"
     },
     {
       "start": 1400.77,
       "end": 1403.53,
-      "text": "in the Frulli region of Venezia in northern Italy."
+      "text": "in the Frulli region of Venezia in northern Italy.",
+      "source": "uncertain"
     },
     {
       "start": 1404.21,
       "end": 1404.97,
-      "text": "Stack it through that."
+      "text": "Stack it through that.",
+      "source": "uncertain"
     },
     {
       "start": 1404.97,
       "end": 1409.47,
-      "text": "Before I run out of space, can you please, please play a record for Steph the Chainsaw Smith?"
+      "text": "Before I run out of space, can you please, please play a record for Steph the Chainsaw Smith?",
+      "source": "uncertain"
     },
     {
       "start": 1411.1,
       "end": 1413.0,
-      "text": "And tell him, I'm alright."
+      "text": "And tell him, I'm alright.",
+      "source": "uncertain"
     },
     {
       "start": 1414.29,
       "end": 1416.35,
-      "text": "Okay, I just did that. This is Black Rose."
+      "text": "Okay, I just did that. This is Black Rose.",
+      "source": "uncertain"
     },
     {
       "start": 1416.81,
       "end": 1423.41,
-      "text": "Without a doubt, the best album that guy has ever made."
+      "text": "Without a doubt, the best album that guy has ever made.",
+      "source": "uncertain"
     },
     {
       "start": 1916.86,
       "end": 1918.7,
-      "text": "Recorded in Muscle Shoals in Alabama."
+      "text": "Recorded in Muscle Shoals in Alabama.",
+      "source": "uncertain"
     },
     {
       "start": 1918.88,
       "end": 1922.6,
-      "text": "Some great musicians, some good songs on it, and he's in really fine voice."
+      "text": "Some great musicians, some good songs on it, and he's in really fine voice.",
+      "source": "TV"
     },
     {
       "start": 1922.7,
       "end": 1926.04,
-      "text": "That's Frankie Miller there, from his album called Standing on the Edge."
+      "text": "That's Frankie Miller there, from his album called Standing on the Edge.",
+      "source": "uncertain"
     },
     {
       "start": 1926.1,
       "end": 1927.46,
-      "text": "It's out on Capitol Records."
+      "text": "It's out on Capitol Records.",
+      "source": "uncertain"
     },
     {
       "start": 1928.62,
       "end": 1931.72,
-      "text": "And the track you just heard was called It's All Coming Down Tonight."
+      "text": "And the track you just heard was called It's All Coming Down Tonight.",
+      "source": "uncertain"
     },
     {
       "start": 1932.6,
       "end": 1936.64,
-      "text": "Before that, an independent single is out on the Tees Beat record label,"
+      "text": "Before that, an independent single is out on the Tees Beat record label,",
+      "source": "uncertain"
     },
     {
       "start": 1937.12,
       "end": 1940.62,
-      "text": "available around Teesside by a Teesside band called Black Rose."
+      "text": "available around Teesside by a Teesside band called Black Rose.",
+      "source": "uncertain"
     },
     {
       "start": 1940.9,
       "end": 1943.08,
-      "text": "The single was called No Point Running."
+      "text": "The single was called No Point Running.",
+      "source": "uncertain"
     },
     {
       "start": 1945.53,
       "end": 1947.93,
-      "text": "It's 25 minutes to 11. This is the Friday Rock Show."
+      "text": "It's 25 minutes to 11. This is the Friday Rock Show.",
+      "source": "uncertain"
     },
     {
       "start": 1948.07,
       "end": 1952.05,
-      "text": "I've got a card here from John and Debbie, who live in Skoreg in Russia."
+      "text": "I've got a card here from John and Debbie, who live in Skoreg in Russia.",
+      "source": "uncertain"
     },
     {
       "start": 1953.48,
       "end": 1955.42,
-      "text": "And they want me to say hello to Steve Heap,"
+      "text": "And they want me to say hello to Steve Heap,",
+      "source": "uncertain"
     },
     {
       "start": 1955.86,
       "end": 1959.02,
-      "text": "who is staying at the Fazlane Peace Group, or Peace Camp, rather,"
+      "text": "who is staying at the Fazlane Peace Group, or Peace Camp, rather,",
+      "source": "uncertain"
     },
     {
       "start": 1959.02,
       "end": 1962.82,
-      "text": "just outside Glasgow, having given up several months of his time to be there."
+      "text": "just outside Glasgow, having given up several months of his time to be there.",
+      "source": "TV"
     },
     {
       "start": 1963.42,
       "end": 1965.95,
-      "text": "And John and Debbie say that they seem to remember"
+      "text": "And John and Debbie say that they seem to remember",
+      "source": "uncertain"
     },
     {
       "start": 1965.95,
       "end": 1967.83,
-      "text": "that he took his radio with him, mostly, I think,"
+      "text": "that he took his radio with him, mostly, I think,",
+      "source": "uncertain"
     },
     {
       "start": 1967.91,
       "end": 1969.41,
-      "text": "so that he could listen to the Friday Rock Show."
+      "text": "so that he could listen to the Friday Rock Show.",
+      "source": "uncertain"
     },
     {
       "start": 1969.85,
       "end": 1970.83,
-      "text": "So he's sure to be listening."
+      "text": "So he's sure to be listening.",
+      "source": "uncertain"
     },
     {
       "start": 1971.25,
       "end": 1973.49,
-      "text": "If you are listening, Steve, good luck to you."
+      "text": "If you are listening, Steve, good luck to you.",
+      "source": "uncertain"
     },
     {
       "start": 1973.61,
       "end": 1975.13,
-      "text": "John and Debbie send their best wishes."
+      "text": "John and Debbie send their best wishes.",
+      "source": "uncertain"
     },
     {
       "start": 1976.63,
       "end": 1978.91,
-      "text": "C. Lee has sent me this particular card,"
+      "text": "C. Lee has sent me this particular card,",
+      "source": "uncertain"
     },
     {
       "start": 1978.97,
       "end": 1980.05,
-      "text": "and it's a bit of a sad one, really."
+      "text": "and it's a bit of a sad one, really.",
+      "source": "uncertain"
     },
     {
       "start": 1980.05,
       "end": 1982.37,
-      "text": "He says, Dear Tom, would you please play a request"
+      "text": "He says, Dear Tom, would you please play a request",
+      "source": "uncertain"
     },
     {
       "start": 1982.37,
       "end": 1985.23,
-      "text": "for Big Don of Hall Green on today's program?"
+      "text": "for Big Don of Hall Green on today's program?",
+      "source": "TV"
     },
     {
       "start": 1985.83,
       "end": 1988.41,
-      "text": "Please tell him thank you for 16 unforgettable months"
+      "text": "Please tell him thank you for 16 unforgettable months",
+      "source": "uncertain"
     },
     {
       "start": 1988.41,
       "end": 1990.01,
-      "text": "and that he has taught me an awful lot."
+      "text": "and that he has taught me an awful lot.",
+      "source": "uncertain"
     },
     {
       "start": 1990.51,
       "end": 1993.17,
-      "text": "I don't want to lose him, but time has taken its course."
+      "text": "I don't want to lose him, but time has taken its course.",
+      "source": "uncertain"
     },
     {
       "start": 1993.17,
       "end": 1994.93,
-      "text": "and now he's got to be moving on."
+      "text": "and now he's got to be moving on.",
+      "source": "uncertain"
     },
     {
       "start": 1995.41,
       "end": 1997.09,
-      "text": "Tell him that I love him and I always will"
+      "text": "Tell him that I love him and I always will",
+      "source": "uncertain"
     },
     {
       "start": 1997.09,
       "end": 2000.11,
-      "text": "and I don't know how I'm going to face the holidays without him."
+      "text": "and I don't know how I'm going to face the holidays without him.",
+      "source": "uncertain"
     },
     {
       "start": 2000.31,
       "end": 2001.03,
-      "text": "Thank you so much."
+      "text": "Thank you so much.",
+      "source": "uncertain"
     },
     {
       "start": 2001.27,
       "end": 2002.57,
-      "text": "Yours gratefully, Sealy."
+      "text": "Yours gratefully, Sealy.",
+      "source": "uncertain"
     },
     {
       "start": 2005.5,
       "end": 2007.3,
-      "text": "Pretty easy to be cynical and laugh at love"
+      "text": "Pretty easy to be cynical and laugh at love",
+      "source": "uncertain"
     },
     {
       "start": 2007.3,
       "end": 2008.88,
-      "text": "but I know what it's like to have a broken heart"
+      "text": "but I know what it's like to have a broken heart",
+      "source": "uncertain"
     },
     {
       "start": 2008.88,
       "end": 2010.36,
-      "text": "and even that sounds a bit funny, I suppose,"
+      "text": "and even that sounds a bit funny, I suppose,",
+      "source": "uncertain"
     },
     {
       "start": 2010.46,
       "end": 2012.38,
-      "text": "coming from an old fool like me, but I really do."
+      "text": "coming from an old fool like me, but I really do.",
+      "source": "uncertain"
     },
     {
       "start": 2014.02,
       "end": 2016.34,
-      "text": "But we do have good holidays, Sealy."
+      "text": "But we do have good holidays, Sealy.",
+      "source": "uncertain"
     },
     {
       "start": 2018.01,
       "end": 2022.63,
-      "text": "And Marino Tortolano lives in Muirhead in Glasgow"
+      "text": "And Marino Tortolano lives in Muirhead in Glasgow",
+      "source": "uncertain"
     },
     {
       "start": 2022.63,
       "end": 2024.79,
-      "text": "and it's his birthday tomorrow and he just wants me to say"
+      "text": "and it's his birthday tomorrow and he just wants me to say",
+      "source": "uncertain"
     },
     {
       "start": 2024.79,
       "end": 2025.89,
-      "text": "happy birthday."
+      "text": "happy birthday.",
+      "source": "uncertain"
     },
     {
       "start": 2025.89,
       "end": 2036.42,
-      "text": "now available on import and it's quite expensive is a three album set that's just come out in this"
+      "text": "now available on import and it's quite expensive is a three album set that's just come out in this",
+      "source": "TV"
     },
     {
       "start": 2036.42,
       "end": 2041.44,
-      "text": "country at least on in the import shops it has it's on cbs records and it's by the remarkable"
+      "text": "country at least on in the import shops it has it's on cbs records and it's by the remarkable",
+      "source": "TV"
     },
     {
       "start": 2041.44,
       "end": 2048.22,
-      "text": "frank zapper the three album set is called shut up and play a guitar and they're all solos it's"
+      "text": "frank zapper the three album set is called shut up and play a guitar and they're all solos it's",
+      "source": "TV"
     },
     {
       "start": 2048.22,
       "end": 2053.72,
-      "text": "just him and his guitar work which i think is absolutely impeccable and here's some of it"
+      "text": "just him and his guitar work which i think is absolutely impeccable and here's some of it",
+      "source": "TV"
     },
     {
       "start": 2053.72,
       "end": 2066.32,
-      "text": "full of that sort of playing if you get hold of the import triple set which is in a box and"
+      "text": "full of that sort of playing if you get hold of the import triple set which is in a box and",
+      "source": "TV"
     },
     {
       "start": 2699.56,
       "end": 2706.48,
-      "text": "nicely packaged course shut up and play your guitar by frank zapper on import on cbs amazing"
+      "text": "nicely packaged course shut up and play your guitar by frank zapper on import on cbs amazing",
+      "source": "TV"
     },
     {
       "start": 2706.48,
       "end": 2713.22,
-      "text": "musician right time for the friday night connection what did we play you last week"
+      "text": "musician right time for the friday night connection what did we play you last week",
+      "source": "TV"
     },
     {
       "start": 2713.22,
       "end": 2718.88,
-      "text": "right we played keep it out of sight by dr feel good for what it's worth by buffalo springfield"
+      "text": "right we played keep it out of sight by dr feel good for what it's worth by buffalo springfield",
+      "source": "TV"
     },
     {
       "start": 2718.88,
       "end": 2726.97,
-      "text": "and touch too much by ac dc the answer went like this keep it out of sight for what it's worth has"
+      "text": "and touch too much by ac dc the answer went like this keep it out of sight for what it's worth has",
+      "source": "TV"
     },
     {
       "start": 2726.97,
       "end": 2736.05,
-      "text": "got the line what's that sound in it right and then touch too much sight sound touch the senses"
+      "text": "got the line what's that sound in it right and then touch too much sight sound touch the senses",
+      "source": "TV"
     },
     {
       "start": 2736.05,
       "end": 2740.37,
-      "text": "three of them the person who gets a 10 pound record token and also the t-shirt which is in"
+      "text": "three of them the person who gets a 10 pound record token and also the t-shirt which is in",
+      "source": "TV"
     },
     {
       "start": 2740.37,
       "end": 2746.05,
-      "text": "front of me is a fellow by the name of glenn shrivna who lives in yarak 14 lower street"
+      "text": "front of me is a fellow by the name of glenn shrivna who lives in yarak 14 lower street",
+      "source": "TV"
     },
     {
       "start": 2746.05,
       "end": 2754.35,
-      "text": "sprouton in ipswich i'm sure glenn actually your your house name's come up before i'm absolutely"
+      "text": "sprouton in ipswich i'm sure glenn actually your your house name's come up before i'm absolutely",
+      "source": "TV"
     },
     {
       "start": 2754.35,
       "end": 2758.03,
-      "text": "positive over the years it's come up before but nonetheless he won so you get the 10 pound"
+      "text": "positive over the years it's come up before but nonetheless he won so you get the 10 pound",
+      "source": "uncertain"
     },
     {
       "start": 2758.03,
       "end": 2763.81,
-      "text": "the gold token and the t-shirt as well hard luck to everybody else most everybody got it right"
+      "text": "the gold token and the t-shirt as well hard luck to everybody else most everybody got it right",
+      "source": "TV"
     },
     {
       "start": 2763.81,
       "end": 2767.85,
-      "text": "incidentally congratulations to everybody now glenn has put together his own friday night"
+      "text": "incidentally congratulations to everybody now glenn has put together his own friday night",
+      "source": "uncertain"
     },
     {
       "start": 2767.85,
       "end": 2772.29,
-      "text": "connection three bits of music there is a connection contained therein start listening now"
+      "text": "connection three bits of music there is a connection contained therein start listening now",
+      "source": "TV"
     },
     {
       "start": 2772.29,
       "end": 2783.09,
-      "text": "i've always been mad i know i've been mad so you had to explain why you were mad"
+      "text": "i've always been mad i know i've been mad so you had to explain why you were mad",
+      "source": "TV"
     },
     {
       "start": 3858.65,
       "end": 3862.85,
-      "text": "is on the grass remembering daisy chains"
+      "text": "is on the grass remembering daisy chains",
+      "source": "uncertain"
     },
     {
       "start": 6673.35,
       "end": 6712.27,
-      "text": "The lunatic is in the hall. The lunatics are in my hall. The paper holds their folded faces to the floor. And every day the paper boy brings fall."
+      "text": "The lunatic is in the hall. The lunatics are in my hall. The paper holds their folded faces to the floor. And every day the paper boy brings fall.",
+      "source": "TV"
     },
     {
       "start": 6712.27,
       "end": 6720.67,
-      "text": "The Pink Floyd, as they were, at Wembley on the 16th of November, 1974,"
+      "text": "The Pink Floyd, as they were, at Wembley on the 16th of November, 1974,",
+      "source": "TV"
     },
     {
       "start": 6986.3,
       "end": 6988.36,
-      "text": "and Dark Side of the Moon."
+      "text": "and Dark Side of the Moon.",
+      "source": "TV"
     },
     {
       "start": 6989.52,
       "end": 6994.34,
-      "text": "Incidentally, we also have on tape the 23-minute version of Echoes"
+      "text": "Incidentally, we also have on tape the 23-minute version of Echoes",
+      "source": "TV"
     },
     {
       "start": 6994.34,
       "end": 6996.24,
-      "text": "that they did as their sort of encore,"
+      "text": "that they did as their sort of encore,",
+      "source": "uncertain"
     },
     {
       "start": 6996.24,
       "end": 6998.56,
-      "text": "but it's never, ever been cleared for broadcast."
+      "text": "but it's never, ever been cleared for broadcast.",
+      "source": "uncertain"
     },
     {
       "start": 6999.56,
       "end": 7000.64,
-      "text": "Maybe one day."
+      "text": "Maybe one day.",
+      "source": "uncertain"
     },
     {
       "start": 7002.54,
       "end": 7004.06,
-      "text": "Go and see The Wall."
+      "text": "Go and see The Wall.",
+      "source": "uncertain"
     },
     {
       "start": 7004.54,
       "end": 7006.32,
-      "text": "It's an astonishing film."
+      "text": "It's an astonishing film.",
+      "source": "uncertain"
     },
     {
       "start": 7009.02,
       "end": 7012.82,
-      "text": "And also, Pink Floyd have a room which is a very special room,"
+      "text": "And also, Pink Floyd have a room which is a very special room,",
+      "source": "TV"
     },
     {
       "start": 7013.06,
       "end": 7014.44,
-      "text": "which is like a vault,"
+      "text": "which is like a vault,",
+      "source": "uncertain"
     },
     {
       "start": 7014.6,
       "end": 7020.38,
-      "text": "and in it is a pictorial record of virtually every concert they've ever, ever done."
+      "text": "and in it is a pictorial record of virtually every concert they've ever, ever done.",
+      "source": "TV"
     },
     {
       "start": 7020.66,
       "end": 7024.62,
-      "text": "And each piece of film or videotape is meticulously card-indexed,"
+      "text": "And each piece of film or videotape is meticulously card-indexed,",
+      "source": "TV"
     },
     {
       "start": 7025.24,
       "end": 7027.0,
-      "text": "so there's a great record of their work."
+      "text": "so there's a great record of their work.",
+      "source": "uncertain"
     },
     {
       "start": 7027.0,
       "end": 7028.22,
-      "text": "Tony Wilson"
+      "text": "Tony Wilson",
+      "source": "uncertain"
     },
     {
       "start": 7028.22,
       "end": 7029.24,
-      "text": "produces this program"
+      "text": "produces this program",
+      "source": "uncertain"
     },
     {
       "start": 7029.24,
       "end": 7030.28,
-      "text": "he's not here tonight"
+      "text": "he's not here tonight",
+      "source": "uncertain"
     },
     {
       "start": 7030.28,
       "end": 7031.72,
-      "text": "to say good night to you"
+      "text": "to say good night to you",
+      "source": "uncertain"
     },
     {
       "start": 7031.72,
       "end": 7032.56,
-      "text": "but he wishes you well"
+      "text": "but he wishes you well",
+      "source": "uncertain"
     },
     {
       "start": 7032.56,
       "end": 7033.66,
-      "text": "Radio 1 closes down"
+      "text": "Radio 1 closes down",
+      "source": "uncertain"
     },
     {
       "start": 7033.66,
       "end": 7034.22,
-      "text": "after the pitch"
+      "text": "after the pitch",
+      "source": "uncertain"
     },
     {
       "start": 7034.22,
       "end": 7034.6,
-      "text": "for midnight"
+      "text": "for midnight",
+      "source": "uncertain"
     },
     {
       "start": 7034.6,
       "end": 7035.8,
-      "text": "I'm back with the"
+      "text": "I'm back with the",
+      "source": "uncertain"
     },
     {
       "start": 7035.8,
       "end": 7037.12,
-      "text": "Top 40 on Sunday"
+      "text": "Top 40 on Sunday",
+      "source": "uncertain"
     },
     {
       "start": 7037.12,
       "end": 7038.14,
-      "text": "take care"
+      "text": "take care",
+      "source": "uncertain"
     },
     {
       "start": 7038.14,
       "end": 7039.12,
-      "text": "I'm Tommy Vance"
+      "text": "I'm Tommy Vance",
+      "source": "uncertain"
     },
     {
       "start": 7039.12,
       "end": 7039.7,
-      "text": "God bless"
+      "text": "God bless",
+      "source": "uncertain"
     },
     {
       "start": 7039.7,
       "end": 7040.36,
-      "text": "good night"
+      "text": "good night",
+      "source": "uncertain"
     }
   ]
 }

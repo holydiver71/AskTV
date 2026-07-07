@@ -91,52 +91,62 @@
     {
       "start": 2.51,
       "end": 17.51,
-      "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren."
+      "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren.",
+      "source": "TV"
     },
     {
       "start": 323.94,
       "end": 325.78,
-      "text": "Are you loving your Sunday morning or something like that?"
+      "text": "Are you loving your Sunday morning or something like that?",
+      "source": "uncertain"
     },
     {
       "start": 325.84,
       "end": 329.34,
-      "text": "That guy has got the sexiest voice I've ever heard when he sings slowly."
+      "text": "That guy has got the sexiest voice I've ever heard when he sings slowly.",
+      "source": "uncertain"
     },
     {
       "start": 329.92,
       "end": 331.46,
-      "text": "There can't be enough ballads played by them."
+      "text": "There can't be enough ballads played by them.",
+      "source": "TV"
     },
     {
       "start": 332.58,
       "end": 335.12,
-      "text": "Well, Kirsty Stewart, I'm sure you enjoyed it."
+      "text": "Well, Kirsty Stewart, I'm sure you enjoyed it.",
+      "source": "uncertain"
     },
     {
       "start": 338.46,
       "end": 341.82,
-      "text": "Karen Smith had her 16th birthday on the 19th of July."
+      "text": "Karen Smith had her 16th birthday on the 19th of July.",
+      "source": "TV"
     },
     {
       "start": 342.79,
       "end": 347.47,
-      "text": "Her friend, Suzanne Crowe, had her birthday on June 21st, rather."
+      "text": "Her friend, Suzanne Crowe, had her birthday on June 21st, rather.",
+      "source": "TV"
     },
     {
       "start": 347.89,
       "end": 349.93,
-      "text": "She was also 16, just found the letter."
+      "text": "She was also 16, just found the letter.",
+      "source": "TV"
     },
     {
       "start": 350.25,
       "end": 351.99,
-      "text": "Girls, hope the birthday was ace."
+      "text": "Girls, hope the birthday was ace.",
+      "source": "uncertain"
     },
     {
       "start": 351.99,
       "end": 357.39,
-      "text": "This is the weather forecast here on Radio 1."
+      "text": "This is the weather forecast here on Radio 1.",
+      "source": "TV"
     },
     {
       "start": 360.0,
@@ -153,132 +163,158 @@
     {
       "start": 863.48,
       "end": 872.47,
-      "text": "That was actually Metallica from a new album out on the Music for Nations record label."
+      "text": "That was actually Metallica from a new album out on the Music for Nations record label.",
+      "source": "TV"
     },
     {
       "start": 872.69,
       "end": 874.53,
-      "text": "The album is called Ride the Lightning."
+      "text": "The album is called Ride the Lightning.",
+      "source": "uncertain"
     },
     {
       "start": 875.43,
       "end": 877.05,
-      "text": "The track was Fight Fire with Fire."
+      "text": "The track was Fight Fire with Fire.",
+      "source": "uncertain"
     },
     {
       "start": 879.55,
       "end": 882.39,
-      "text": "Before that, a new single by Alcatraz, Graham Bonnet's new band."
+      "text": "Before that, a new single by Alcatraz, Graham Bonnet's new band.",
+      "source": "TV"
     },
     {
       "start": 882.53,
       "end": 885.77,
-      "text": "It's out on the RCA record label in the United Kingdom, Island in the Sun."
+      "text": "It's out on the RCA record label in the United Kingdom, Island in the Sun.",
+      "source": "TV"
     },
     {
       "start": 886.57,
       "end": 895.04,
-      "text": "Just found a letter here that is dated 4.30 a.m. Gatwick."
+      "text": "Just found a letter here that is dated 4.30 a.m. Gatwick.",
+      "source": "TV"
     },
     {
       "start": 895.58,
       "end": 898.34,
-      "text": "Dear sir, nothing like groveling to gain attention, is that?"
+      "text": "Dear sir, nothing like groveling to gain attention, is that?",
+      "source": "TV"
     },
     {
       "start": 899.09,
       "end": 902.51,
-      "text": "I'm writing to you because I'm going on holiday to Corsica for two weeks today."
+      "text": "I'm writing to you because I'm going on holiday to Corsica for two weeks today.",
+      "source": "TV"
     },
     {
       "start": 902.51,
       "end": 907.51,
-      "text": "And I'd like a record play for my beautiful girlfriend, Vanessa Crockett of Horncastle in Lincolnshire."
+      "text": "And I'd like a record play for my beautiful girlfriend, Vanessa Crockett of Horncastle in Lincolnshire.",
+      "source": "TV"
     },
     {
       "start": 908.43,
       "end": 911.07,
-      "text": "It would mean a lot to her to hear her name read out on the radio."
+      "text": "It would mean a lot to her to hear her name read out on the radio.",
+      "source": "uncertain"
     },
     {
       "start": 911.61,
       "end": 914.13,
-      "text": "Vanessa Crockett, Horncastle, Lincolnshire."
+      "text": "Vanessa Crockett, Horncastle, Lincolnshire.",
+      "source": "TV"
     },
     {
       "start": 918.18,
       "end": 919.52,
-      "text": "Oh, best wishes. Who are they from?"
+      "text": "Oh, best wishes. Who are they from?",
+      "source": "uncertain"
     },
     {
       "start": 919.62,
       "end": 922.68,
-      "text": "Well, you know, anyway, Andrew Murdoch is now in Corsica."
+      "text": "Well, you know, anyway, Andrew Murdoch is now in Corsica.",
+      "source": "TV"
     },
     {
       "start": 925.24,
       "end": 928.84,
-      "text": "Hello to Paul Godelman, who's in Crowthorne in Berkshire."
+      "text": "Hello to Paul Godelman, who's in Crowthorne in Berkshire.",
+      "source": "TV"
     },
     {
       "start": 928.94,
       "end": 931.86,
-      "text": "Didn't win the old Friday Night Connection, but I thought I'd give you a mention."
+      "text": "Didn't win the old Friday Night Connection, but I thought I'd give you a mention.",
+      "source": "TV"
     },
     {
       "start": 932.32,
       "end": 935.86,
-      "text": "Also, hello to all your mates, the Corrie Bank Dudley Hawkwind Spacers."
+      "text": "Also, hello to all your mates, the Corrie Bank Dudley Hawkwind Spacers.",
+      "source": "TV"
     },
     {
       "start": 936.54,
       "end": 938.6,
-      "text": "Especially Julia and Alan now."
+      "text": "Especially Julia and Alan now.",
+      "source": "uncertain"
     },
     {
       "start": 938.92,
       "end": 941.04,
-      "text": "We're going to go and see Hawkwind at Lilford this year."
+      "text": "We're going to go and see Hawkwind at Lilford this year.",
+      "source": "uncertain"
     },
     {
       "start": 943.56,
       "end": 944.86,
-      "text": "Postcard of Concord here."
+      "text": "Postcard of Concord here.",
+      "source": "uncertain"
     },
     {
       "start": 945.1,
       "end": 949.72,
-      "text": "Please play something for Tony Rogers of 61 Warmer Road, Woodley,"
+      "text": "Please play something for Tony Rogers of 61 Warmer Road, Woodley,",
+      "source": "TV"
     },
     {
       "start": 950.1,
       "end": 953.12,
-      "text": "from his wife and sons who've left him, but only for a week's holiday in Jersey."
+      "text": "from his wife and sons who've left him, but only for a week's holiday in Jersey.",
+      "source": "TV"
     },
     {
       "start": 954.13,
       "end": 955.95,
-      "text": "Tony Rogers' message here from Lynn."
+      "text": "Tony Rogers' message here from Lynn.",
+      "source": "uncertain"
     },
     {
       "start": 956.51,
       "end": 960.21,
-      "text": "Tell him please not to drive too fast or too far in this new car."
+      "text": "Tell him please not to drive too fast or too far in this new car.",
+      "source": "TV"
     },
     {
       "start": 960.21,
       "end": 962.55,
-      "text": "And we will be back soon."
+      "text": "And we will be back soon.",
+      "source": "uncertain"
     },
     {
       "start": 965.61,
       "end": 966.99,
-      "text": "Nuclear Furniture."
+      "text": "Nuclear Furniture.",
+      "source": "uncertain"
     },
     {
       "start": 966.99,
       "end": 969.99,
-      "text": "from wind and"
+      "text": "from wind and",
+      "source": "TV"
     },
     {
       "start": 969.99,
@@ -289,147 +325,176 @@
     {
       "start": 1429.37,
       "end": 1429.85,
-      "text": "wuthering"
+      "text": "wuthering",
+      "source": "uncertain"
     },
     {
       "start": 1429.85,
       "end": 1431.21,
-      "text": "afterglow"
+      "text": "afterglow",
+      "source": "uncertain"
     },
     {
       "start": 1431.21,
       "end": 1431.91,
-      "text": "playing that"
+      "text": "playing that",
+      "source": "uncertain"
     },
     {
       "start": 1431.91,
       "end": 1433.25,
-      "text": "for the memory"
+      "text": "for the memory",
+      "source": "uncertain"
     },
     {
       "start": 1433.25,
       "end": 1434.33,
-      "text": "of a unfortunate"
+      "text": "of a unfortunate",
+      "source": "uncertain"
     },
     {
       "start": 1434.33,
       "end": 1434.91,
-      "text": "young man who"
+      "text": "young man who",
+      "source": "uncertain"
     },
     {
       "start": 1434.91,
       "end": 1435.43,
-      "text": "was killed in a"
+      "text": "was killed in a",
+      "source": "uncertain"
     },
     {
       "start": 1435.43,
       "end": 1436.19,
-      "text": "motorcycle accident"
+      "text": "motorcycle accident",
+      "source": "uncertain"
     },
     {
       "start": 1436.19,
       "end": 1436.91,
-      "text": "some time ago"
+      "text": "some time ago",
+      "source": "uncertain"
     },
     {
       "start": 1436.91,
       "end": 1438.11,
-      "text": "a gentleman called"
+      "text": "a gentleman called",
+      "source": "uncertain"
     },
     {
       "start": 1438.11,
       "end": 1439.01,
-      "text": "kevin weston with"
+      "text": "kevin weston with",
+      "source": "uncertain"
     },
     {
       "start": 1439.01,
       "end": 1439.63,
-      "text": "lots of love"
+      "text": "lots of love",
+      "source": "uncertain"
     },
     {
       "start": 1439.63,
       "end": 1441.39,
-      "text": "to him and his"
+      "text": "to him and his",
+      "source": "uncertain"
     },
     {
       "start": 1441.39,
       "end": 1442.09,
-      "text": "memory of course"
+      "text": "memory of course",
+      "source": "uncertain"
     },
     {
       "start": 1442.09,
       "end": 1443.03,
-      "text": "from his brother"
+      "text": "from his brother",
+      "source": "uncertain"
     },
     {
       "start": 1443.03,
       "end": 1444.01,
-      "text": "richard weston and"
+      "text": "richard weston and",
+      "source": "uncertain"
     },
     {
       "start": 1444.01,
       "end": 1445.07,
-      "text": "thanks to everybody"
+      "text": "thanks to everybody",
+      "source": "uncertain"
     },
     {
       "start": 1445.07,
       "end": 1445.91,
-      "text": "who attended the"
+      "text": "who attended the",
+      "source": "uncertain"
     },
     {
       "start": 1445.91,
       "end": 1446.77,
-      "text": "funeral as well"
+      "text": "funeral as well",
+      "source": "uncertain"
     },
     {
       "start": 1446.77,
       "end": 1454.39,
-      "text": "before genesis you"
+      "text": "before genesis you",
+      "source": "TV"
     },
     {
       "start": 1454.39,
       "end": 1459.15,
-      "text": "heard jefferson starship from their new album it's just come out on grunter records it's called"
+      "text": "heard jefferson starship from their new album it's just come out on grunter records it's called",
+      "source": "TV"
     },
     {
       "start": 1459.15,
       "end": 1466.13,
-      "text": "nuclear furniture the track was champion it's 18 minutes to 11 which means i'm a bit late in"
+      "text": "nuclear furniture the track was champion it's 18 minutes to 11 which means i'm a bit late in",
+      "source": "TV"
     },
     {
       "start": 1466.13,
       "end": 1472.31,
-      "text": "reading out this letter alistair of the roman way glastonbury summer is that wanted it read out at"
+      "text": "reading out this letter alistair of the roman way glastonbury summer is that wanted it read out at",
+      "source": "TV"
     },
     {
       "start": 1472.31,
       "end": 1477.15,
-      "text": "10 30 well 12 minutes late not a lot alistair now to be celebrating because he says in his letter"
+      "text": "10 30 well 12 minutes late not a lot alistair now to be celebrating because he says in his letter",
+      "source": "TV"
     },
     {
       "start": 1477.15,
       "end": 1483.67,
-      "text": "p.s i've just got my o-level results five a's and three b's you little genius you congratulations"
+      "text": "p.s i've just got my o-level results five a's and three b's you little genius you congratulations",
+      "source": "TV"
     },
     {
       "start": 1484.53,
       "end": 1490.51,
-      "text": "Also to say hello to many friends of his, Caroline, Tonya, Fiona, Richard, and Amanda, or TT."
+      "text": "Also to say hello to many friends of his, Caroline, Tonya, Fiona, Richard, and Amanda, or TT.",
+      "source": "TV"
     },
     {
       "start": 1491.61,
       "end": 1494.07,
-      "text": "And a mention to a chap by the name of Angus as well."
+      "text": "And a mention to a chap by the name of Angus as well.",
+      "source": "TV"
     },
     {
       "start": 1494.19,
       "end": 1496.09,
-      "text": "He's just got a cadetship for the Royal Navy."
+      "text": "He's just got a cadetship for the Royal Navy.",
+      "source": "uncertain"
     },
     {
       "start": 1496.75,
       "end": 1498.47,
-      "text": "Good on you, Angus, so we don't get seasick."
+      "text": "Good on you, Angus, so we don't get seasick.",
+      "source": "uncertain"
     },
     {
       "start": 1498.47,
@@ -440,12 +505,14 @@
     {
       "start": 1502.73,
       "end": 1504.05,
-      "text": "Warfare have a new single out."
+      "text": "Warfare have a new single out.",
+      "source": "uncertain"
     },
     {
       "start": 1504.21,
       "end": 1506.03,
-      "text": "They want to burn the King's Road."
+      "text": "They want to burn the King's Road.",
+      "source": "uncertain"
     },
     {
       "start": 1506.03,
@@ -456,142 +523,170 @@
     {
       "start": 1831.3,
       "end": 1832.9,
-      "text": "Disguised by the name of the Black Angels."
+      "text": "Disguised by the name of the Black Angels.",
+      "source": "uncertain"
     },
     {
       "start": 1833.18,
       "end": 1835.52,
-      "text": "It's a new album that's out on the Gull record label."
+      "text": "It's a new album that's out on the Gull record label.",
+      "source": "TV"
     },
     {
       "start": 1835.7,
       "end": 1836.6,
-      "text": "It's called Kick Down."
+      "text": "It's called Kick Down.",
+      "source": "uncertain"
     },
     {
       "start": 1836.7,
       "end": 1837.84,
-      "text": "That track was Heartbeat."
+      "text": "That track was Heartbeat.",
+      "source": "uncertain"
     },
     {
       "start": 1837.84,
       "end": 1841.42,
-      "text": "Before that, Warfare, their new single, Burn the King's Road."
+      "text": "Before that, Warfare, their new single, Burn the King's Road.",
+      "source": "TV"
     },
     {
       "start": 1843.81,
       "end": 1847.99,
-      "text": "Lengthy record here that is signed unfaithfully and blasphemously yours,"
+      "text": "Lengthy record here that is signed unfaithfully and blasphemously yours,",
+      "source": "TV"
     },
     {
       "start": 1848.19,
       "end": 1852.39,
-      "text": "Siphanus the Damned, from the realms of hell via the seven gates."
+      "text": "Siphanus the Damned, from the realms of hell via the seven gates.",
+      "source": "TV"
     },
     {
       "start": 1852.99,
       "end": 1854.13,
-      "text": "Hail to the one known as TV."
+      "text": "Hail to the one known as TV.",
+      "source": "uncertain"
     },
     {
       "start": 1854.77,
       "end": 1859.15,
-      "text": "Read out the following demonic verse on your show or suffer the curse of Apollyon."
+      "text": "Read out the following demonic verse on your show or suffer the curse of Apollyon.",
+      "source": "TV"
     },
     {
       "start": 1860.22,
       "end": 1862.04,
-      "text": "Thought that was some sort of mineral water."
+      "text": "Thought that was some sort of mineral water.",
+      "source": "uncertain"
     },
     {
       "start": 1863.06,
       "end": 1867.2,
-      "text": "Greetings to all of Venom's legends who inhabit hell's most fiery regions."
+      "text": "Greetings to all of Venom's legends who inhabit hell's most fiery regions.",
+      "source": "TV"
     },
     {
       "start": 1867.2,
       "end": 1868.98,
-      "text": "come on TV, let's hear"
+      "text": "come on TV, let's hear",
+      "source": "uncertain"
     },
     {
       "start": 1868.98,
       "end": 1870.64,
-      "text": "Power once more"
+      "text": "Power once more",
+      "source": "uncertain"
     },
     {
       "start": 1870.64,
       "end": 1878.64,
-      "text": "like some week"
+      "text": "like some week",
+      "source": "uncertain"
     },
     {
       "start": 1878.64,
       "end": 1881.6,
-      "text": "somebody asking here about the Van de Graaff generator session"
+      "text": "somebody asking here about the Van de Graaff generator session",
+      "source": "TV"
     },
     {
       "start": 1881.6,
       "end": 1883.58,
-      "text": "well we probably will dig it out"
+      "text": "well we probably will dig it out",
+      "source": "uncertain"
     },
     {
       "start": 1883.58,
       "end": 1884.72,
-      "text": "of the archives again one day"
+      "text": "of the archives again one day",
+      "source": "uncertain"
     },
     {
       "start": 1884.72,
       "end": 1887.4,
-      "text": "we've played it I think a couple of times in the last six years"
+      "text": "we've played it I think a couple of times in the last six years",
+      "source": "uncertain"
     },
     {
       "start": 1887.4,
       "end": 1889.3,
-      "text": "so stick around for"
+      "text": "so stick around for",
+      "source": "uncertain"
     },
     {
       "start": 1889.3,
       "end": 1890.3,
-      "text": "Van de Graaff generator"
+      "text": "Van de Graaff generator",
+      "source": "uncertain"
     },
     {
       "start": 1890.3,
       "end": 1893.22,
-      "text": "and hello to Boss Ward, Neil"
+      "text": "and hello to Boss Ward, Neil",
+      "source": "uncertain"
     },
     {
       "start": 1893.22,
       "end": 1894.92,
-      "text": "Roger Waters-White, Robert Fripp"
+      "text": "Roger Waters-White, Robert Fripp",
+      "source": "uncertain"
     },
     {
       "start": 1894.92,
       "end": 1897.22,
-      "text": "Peter Gabriel and of course the best vocalist ever"
+      "text": "Peter Gabriel and of course the best vocalist ever",
+      "source": "uncertain"
     },
     {
       "start": 1897.22,
       "end": 1898.22,
-      "text": "Peter Hamill"
+      "text": "Peter Hamill",
+      "source": "uncertain"
     },
     {
       "start": 1898.22,
       "end": 1900.14,
-      "text": "and it's signed Peter Hamill"
+      "text": "and it's signed Peter Hamill",
+      "source": "uncertain"
     },
     {
       "start": 1900.14,
       "end": 1902.46,
-      "text": "of the Heart of Sunrise somewhere in"
+      "text": "of the Heart of Sunrise somewhere in",
+      "source": "uncertain"
     },
     {
       "start": 1902.46,
       "end": 1910.48,
-      "text": "West Yorkshire. Quick hello to, uh, Mick Johnson. Make your writings disgusting. Nonetheless,"
+      "text": "West Yorkshire. Quick hello to, uh, Mick Johnson. Make your writings disgusting. Nonetheless,",
+      "source": "TV"
     },
     {
       "start": 1910.68,
       "end": 1920.88,
-      "text": "hello to you. He's in Bradford. Red Vet. The understatement of the year, that is, we rock."
+      "text": "hello to you. He's in Bradford. Red Vet. The understatement of the year, that is, we rock.",
+      "source": "TV"
     },
     {
       "start": 1920.88,
@@ -608,592 +703,710 @@
     {
       "start": 2434.59,
       "end": 2439.95,
-      "text": "It is the new single by Dio, just out. On the other side, or rather, on the other side"
+      "text": "It is the new single by Dio, just out. On the other side, or rather, on the other side",
+      "source": "TV"
     },
     {
       "start": 2439.95,
       "end": 2444.25,
-      "text": "of that, I should have said you heard Red Vet, V-E-T-T-E, from an album of the same"
+      "text": "of that, I should have said you heard Red Vet, V-E-T-T-E, from an album of the same",
+      "source": "TV"
     },
     {
       "start": 2444.25,
       "end": 2449.45,
-      "text": "name. It is on Red Vet Records. It's an import from California. Their track was called Earth"
+      "text": "name. It is on Red Vet Records. It's an import from California. Their track was called Earth",
+      "source": "TV"
     },
     {
       "start": 2449.45,
       "end": 2454.56,
-      "text": "Mover. It's a minute to"
+      "text": "Mover. It's a minute to",
+      "source": "TV"
     },
     {
       "start": 2454.56,
       "end": 2456.28,
-      "text": "11. It's time for the Friday Night Connection."
+      "text": "11. It's time for the Friday Night Connection.",
+      "source": "uncertain"
     },
     {
       "start": 2456.44,
       "end": 2458.82,
-      "text": "Last week, the tracks we played you were these."
+      "text": "Last week, the tracks we played you were these.",
+      "source": "uncertain"
     },
     {
       "start": 2459.28,
       "end": 2460.74,
-      "text": "The Flame from the album"
+      "text": "The Flame from the album",
+      "source": "uncertain"
     },
     {
       "start": 2460.74,
       "end": 2462.72,
-      "text": "of the same name by Annabelle Lamb."
+      "text": "of the same name by Annabelle Lamb.",
+      "source": "uncertain"
     },
     {
       "start": 2463.3,
       "end": 2464.08,
-      "text": "Los Angeles"
+      "text": "Los Angeles",
+      "source": "uncertain"
     },
     {
       "start": 2464.08,
       "end": 2466.54,
-      "text": "from the album Between Us by Murray"
+      "text": "from the album Between Us by Murray",
+      "source": "TV"
     },
     {
       "start": 2466.54,
       "end": 2468.56,
-      "text": "Head. Games People Play"
+      "text": "Head. Games People Play",
+      "source": "uncertain"
     },
     {
       "start": 2468.56,
       "end": 2470.42,
-      "text": "from the turn of a friendly card"
+      "text": "from the turn of a friendly card",
+      "source": "uncertain"
     },
     {
       "start": 2470.42,
       "end": 2472.24,
-      "text": "by the Alan Parsons Project."
+      "text": "by the Alan Parsons Project.",
+      "source": "uncertain"
     },
     {
       "start": 2474.57,
       "end": 2476.03,
-      "text": "Just about everybody got it right."
+      "text": "Just about everybody got it right.",
+      "source": "uncertain"
     },
     {
       "start": 2476.17,
       "end": 2478.13,
-      "text": "Current indeed it was. The Flame"
+      "text": "Current indeed it was. The Flame",
+      "source": "uncertain"
     },
     {
       "start": 2478.13,
       "end": 2479.93,
-      "text": "Los Angeles Games People"
+      "text": "Los Angeles Games People",
+      "source": "uncertain"
     },
     {
       "start": 2479.93,
       "end": 2481.87,
-      "text": "Play. The Olympics."
+      "text": "Play. The Olympics.",
+      "source": "uncertain"
     },
     {
       "start": 2484.08,
       "end": 2485.3,
-      "text": "How do you win? One winner or"
+      "text": "How do you win? One winner or",
+      "source": "uncertain"
     },
     {
       "start": 2485.3,
       "end": 2488.9,
-      "text": "because we've only got £12 a week for a record token."
+      "text": "because we've only got £12 a week for a record token.",
+      "source": "TV"
     },
     {
       "start": 2489.3,
       "end": 2491.12,
-      "text": "And it's going to go to Phil Sokolski,"
+      "text": "And it's going to go to Phil Sokolski,",
+      "source": "uncertain"
     },
     {
       "start": 2491.24,
       "end": 2494.1,
-      "text": "who I honestly feel has sometime won before."
+      "text": "who I honestly feel has sometime won before.",
+      "source": "uncertain"
     },
     {
       "start": 2494.76,
       "end": 2496.0,
-      "text": "A couple of years ago, Phil, maybe."
+      "text": "A couple of years ago, Phil, maybe.",
+      "source": "uncertain"
     },
     {
       "start": 2496.66,
       "end": 2497.84,
-      "text": "Congratulations, you've won again."
+      "text": "Congratulations, you've won again.",
+      "source": "uncertain"
     },
     {
       "start": 2498.14,
       "end": 2498.54,
-      "text": "Congratulations."
+      "text": "Congratulations.",
+      "source": "uncertain"
     },
     {
       "start": 2498.74,
       "end": 2501.82,
-      "text": "As I said, he lives in West Llamorgan in Wales,"
+      "text": "As I said, he lives in West Llamorgan in Wales,",
+      "source": "TV"
     },
     {
       "start": 2502.4,
       "end": 2503.52,
-      "text": "and he's a happy man now."
+      "text": "and he's a happy man now.",
+      "source": "uncertain"
     },
     {
       "start": 2504.43,
       "end": 2506.83,
-      "text": "Right, Phil, £12 record token coming your way."
+      "text": "Right, Phil, £12 record token coming your way.",
+      "source": "uncertain"
     },
     {
       "start": 2507.09,
       "end": 2510.62,
-      "text": "And also, whatever we can find out of our goody draw, too."
+      "text": "And also, whatever we can find out of our goody draw, too.",
+      "source": "TV"
     },
     {
       "start": 2511.02,
       "end": 2513.52,
-      "text": "Now, Phil has put together a Friday night connection of his own,"
+      "text": "Now, Phil has put together a Friday night connection of his own,",
+      "source": "TV"
     },
     {
       "start": 2513.52,
       "end": 2515.2,
-      "text": "three bits of music"
+      "text": "three bits of music",
+      "source": "uncertain"
     },
     {
       "start": 2515.2,
       "end": 2518.2,
-      "text": "you've got to try and find out what that connection is"
+      "text": "you've got to try and find out what that connection is",
+      "source": "uncertain"
     },
     {
       "start": 2518.2,
       "end": 2523.0,
-      "text": "wonderful stuff, that was the Friday Night Connection"
+      "text": "wonderful stuff, that was the Friday Night Connection",
+      "source": "uncertain"
     },
     {
       "start": 3609.1,
       "end": 3610.88,
-      "text": "put together by Phil Sokolski"
+      "text": "put together by Phil Sokolski",
+      "source": "TV"
     },
     {
       "start": 3610.88,
       "end": 3613.14,
-      "text": "of Neath in West Glamorgan"
+      "text": "of Neath in West Glamorgan",
+      "source": "TV"
     },
     {
       "start": 3613.14,
       "end": 3618.51,
-      "text": "within those three bits of music"
+      "text": "within those three bits of music",
+      "source": "uncertain"
     },
     {
       "start": 3618.51,
       "end": 3619.95,
-      "text": "there is a Friday Night Connection"
+      "text": "there is a Friday Night Connection",
+      "source": "uncertain"
     },
     {
       "start": 3619.95,
       "end": 3622.27,
-      "text": "it's down to you to work out"
+      "text": "it's down to you to work out",
+      "source": "uncertain"
     },
     {
       "start": 3622.27,
       "end": 3623.57,
-      "text": "exactly what it is"
+      "text": "exactly what it is",
+      "source": "uncertain"
     },
     {
       "start": 3623.57,
       "end": 3627.32,
-      "text": "do not be numerically fooled"
+      "text": "do not be numerically fooled",
+      "source": "uncertain"
     },
     {
       "start": 3627.32,
       "end": 3630.71,
-      "text": "one of our engineers has been"
+      "text": "one of our engineers has been",
+      "source": "TV"
     },
     {
       "start": 3630.71,
       "end": 3632.07,
-      "text": "well that was just playing"
+      "text": "well that was just playing",
+      "source": "uncertain"
     },
     {
       "start": 3632.07,
       "end": 3634.75,
-      "text": "if you think you know the answer send it to me"
+      "text": "if you think you know the answer send it to me",
+      "source": "uncertain"
     },
     {
       "start": 3634.75,
       "end": 3636.95,
-      "text": "or just send it actually to the Friday Night Connection"
+      "text": "or just send it actually to the Friday Night Connection",
+      "source": "TV"
     },
     {
       "start": 3636.95,
       "end": 3639.73,
-      "text": "the Friday Rock Show BBC Radio 1"
+      "text": "the Friday Rock Show BBC Radio 1",
+      "source": "TV"
     },
     {
       "start": 3639.73,
       "end": 3641.51,
-      "text": "Broadcasting House"
+      "text": "Broadcasting House",
+      "source": "uncertain"
     },
     {
       "start": 3641.51,
       "end": 3643.67,
-      "text": "London W1A4WW"
+      "text": "London W1A4WW",
+      "source": "uncertain"
     },
     {
       "start": 3643.67,
       "end": 3645.21,
-      "text": "the Friday Night Connection"
+      "text": "the Friday Night Connection",
+      "source": "TV"
     },
     {
       "start": 3645.21,
       "end": 3646.77,
-      "text": "the Friday Rock Show"
+      "text": "the Friday Rock Show",
+      "source": "TV"
     },
     {
       "start": 3646.77,
       "end": 3649.47,
-      "text": "BBC Radio 1 Broadcasting House"
+      "text": "BBC Radio 1 Broadcasting House",
+      "source": "TV"
     },
     {
       "start": 3649.47,
       "end": 3651.87,
-      "text": "London W1A4WW"
+      "text": "London W1A4WW",
+      "source": "uncertain"
     },
     {
       "start": 3651.87,
       "end": 3654.3,
-      "text": "oh and don't forget"
+      "text": "oh and don't forget",
+      "source": "uncertain"
     },
     {
       "start": 3654.3,
       "end": 3656.2,
-      "text": "that I've got two Donington tickets"
+      "text": "that I've got two Donington tickets",
+      "source": "TV"
     },
     {
       "start": 3656.2,
       "end": 3658.14,
-      "text": "and two backstage passes."
+      "text": "and two backstage passes.",
+      "source": "uncertain"
     },
     {
       "start": 3658.36,
       "end": 3659.16,
-      "text": "They all go together"
+      "text": "They all go together",
+      "source": "uncertain"
     },
     {
       "start": 3659.16,
       "end": 3660.98,
-      "text": "for two people to have a great day"
+      "text": "for two people to have a great day",
+      "source": "uncertain"
     },
     {
       "start": 3660.98,
       "end": 3662.12,
-      "text": "out at Donington this year."
+      "text": "out at Donington this year.",
+      "source": "uncertain"
     },
     {
       "start": 3664.82,
       "end": 3666.1,
-      "text": "Free Groddison for nothing."
+      "text": "Free Groddison for nothing.",
+      "source": "uncertain"
     },
     {
       "start": 3666.28,
       "end": 3667.34,
-      "text": "What I'd like you to do"
+      "text": "What I'd like you to do",
+      "source": "uncertain"
     },
     {
       "start": 3667.34,
       "end": 3670.14,
-      "text": "is to tell me which band has headlined"
+      "text": "is to tell me which band has headlined",
+      "source": "TV"
     },
     {
       "start": 3670.14,
       "end": 3672.12,
-      "text": "at each Monsters of Rock Festival"
+      "text": "at each Monsters of Rock Festival",
+      "source": "TV"
     },
     {
       "start": 3672.12,
       "end": 3673.2,
-      "text": "over the years."
+      "text": "over the years.",
+      "source": "uncertain"
     },
     {
       "start": 3674.66,
       "end": 3675.36,
-      "text": "Fancy a crack at it?"
+      "text": "Fancy a crack at it?",
+      "source": "uncertain"
     },
     {
       "start": 3675.48,
       "end": 3676.14,
-      "text": "Free competition."
+      "text": "Free competition.",
+      "source": "uncertain"
     },
     {
       "start": 3676.78,
       "end": 3677.88,
-      "text": "Be my guest when you get there"
+      "text": "Be my guest when you get there",
+      "source": "uncertain"
     },
     {
       "start": 3677.88,
       "end": 3679.08,
-      "text": "to Donington this year."
+      "text": "to Donington this year.",
+      "source": "uncertain"
     },
     {
       "start": 3679.58,
       "end": 3680.48,
-      "text": "Good time guaranteed."
+      "text": "Good time guaranteed.",
+      "source": "uncertain"
     },
     {
       "start": 3683.11,
       "end": 3685.27,
-      "text": "Answers on a separate postcard, please, too."
+      "text": "Answers on a separate postcard, please, too.",
+      "source": "TV"
     },
     {
       "start": 3685.85,
       "end": 3686.33,
-      "text": "Donington,"
+      "text": "Donington,",
+      "source": "uncertain"
     },
     {
       "start": 3687.27,
       "end": 3688.47,
-      "text": "The Friday Rock Show,"
+      "text": "The Friday Rock Show,",
+      "source": "uncertain"
     },
     {
       "start": 3688.97,
       "end": 3690.05,
-      "text": "BBC Radio 1,"
+      "text": "BBC Radio 1,",
+      "source": "uncertain"
     },
     {
       "start": 3690.05,
       "end": 3696.97,
-      "text": "broadcasting house london w1a4 ww okay the friday rock show but put donnington on the card bbc radio"
+      "text": "broadcasting house london w1a4 ww okay the friday rock show but put donnington on the card bbc radio",
+      "source": "TV"
     },
     {
       "start": 3696.97,
       "end": 3704.07,
-      "text": "one broadcasting house london w1a4 ww all the cards go into a hat or a mail sack or whatever"
+      "text": "one broadcasting house london w1a4 ww all the cards go into a hat or a mail sack or whatever",
+      "source": "TV"
     },
     {
       "start": 3704.07,
       "end": 3711.47,
-      "text": "then we scrabble around amongst them find one and send you two tickets and two backstage passes"
+      "text": "then we scrabble around amongst them find one and send you two tickets and two backstage passes",
+      "source": "TV"
     },
     {
       "start": 3711.47,
       "end": 3731.32,
-      "text": "it's 11 20 the friday rock show from bbc radio one now recently there was an event in in europe"
+      "text": "it's 11 20 the friday rock show from bbc radio one now recently there was an event in in europe",
+      "source": "TV"
     },
     {
       "start": 3731.32,
       "end": 3736.22,
-      "text": "actually in germany it was called the euro rock festival and we listened to the tapes that were"
+      "text": "actually in germany it was called the euro rock festival and we listened to the tapes that were",
+      "source": "TV"
     },
     {
       "start": 3736.22,
       "end": 3740.5,
-      "text": "recorded there and we came up with the idea that you might actually like to hear some of them we've"
+      "text": "recorded there and we came up with the idea that you might actually like to hear some of them we've",
+      "source": "TV"
     },
     {
       "start": 3740.5,
       "end": 3745.96,
-      "text": "actually got this session it's by a band who are from austria and they're called opus there are six"
+      "text": "actually got this session it's by a band who are from austria and they're called opus there are six",
+      "source": "TV"
     },
     {
       "start": 3745.96,
       "end": 3749.5,
-      "text": "numbers in this set and it's it's okay have a listen opus"
+      "text": "numbers in this set and it's it's okay have a listen opus",
+      "source": "TV"
     },
     {
       "start": 5021.58,
       "end": 5024.58,
-      "text": "The band were Opus."
+      "text": "The band were Opus.",
+      "source": "uncertain"
     },
     {
       "start": 5546.9,
       "end": 5549.94,
-      "text": "They were recorded at the recent Euro Rock Festival in Germany."
+      "text": "They were recorded at the recent Euro Rock Festival in Germany.",
+      "source": "TV"
     },
     {
       "start": 5550.24,
       "end": 5551.28,
-      "text": "They are from Austria."
+      "text": "They are from Austria.",
+      "source": "uncertain"
     },
     {
       "start": 5551.56,
       "end": 5552.5,
-      "text": "You heard six numbers."
+      "text": "You heard six numbers.",
+      "source": "uncertain"
     },
     {
       "start": 5552.62,
       "end": 5556.6,
-      "text": "Keep your mind 11 up and down, waiting for a call again and again."
+      "text": "Keep your mind 11 up and down, waiting for a call again and again.",
+      "source": "TV"
     },
     {
       "start": 5556.6,
       "end": 5557.8,
-      "text": "And opposition."
+      "text": "And opposition.",
+      "source": "uncertain"
     },
     {
       "start": 5563.9,
       "end": 5564.64,
-      "text": "10 minutes to midnight."
+      "text": "10 minutes to midnight.",
+      "source": "uncertain"
     },
     {
       "start": 5564.86,
       "end": 5568.86,
-      "text": "Quick reminder about the address if you want to get in on the Donington competition."
+      "text": "Quick reminder about the address if you want to get in on the Donington competition.",
+      "source": "TV"
     },
     {
       "start": 5569.9,
       "end": 5572.8,
-      "text": "Two free tickets to Donington along with two backstage passes."
+      "text": "Two free tickets to Donington along with two backstage passes.",
+      "source": "TV"
     },
     {
       "start": 5573.74,
       "end": 5578.08,
-      "text": "Tell me who has headlined at each Monsters of Rock festival over the years."
+      "text": "Tell me who has headlined at each Monsters of Rock festival over the years.",
+      "source": "TV"
     },
     {
       "start": 5578.98,
       "end": 5581.88,
-      "text": "Send your answers on a postcard, please, to..."
+      "text": "Send your answers on a postcard, please, to...",
+      "source": "TV"
     },
     {
       "start": 5581.88,
       "end": 5582.38,
-      "text": "Donington."
+      "text": "Donington.",
+      "source": "uncertain"
     },
     {
       "start": 5583.26,
       "end": 5584.3,
-      "text": "The Friday Rock Show."
+      "text": "The Friday Rock Show.",
+      "source": "uncertain"
     },
     {
       "start": 5584.56,
       "end": 5585.54,
-      "text": "BBC Radio 1."
+      "text": "BBC Radio 1.",
+      "source": "uncertain"
     },
     {
       "start": 5585.72,
       "end": 5586.08,
-      "text": "London."
+      "text": "London.",
+      "source": "uncertain"
     },
     {
       "start": 5586.68,
       "end": 5587.2,
-      "text": "W1A4."
+      "text": "W1A4.",
+      "source": "uncertain"
     },
     {
       "start": 5587.3,
       "end": 5587.74,
-      "text": "WW."
+      "text": "WW.",
+      "source": "uncertain"
     },
     {
       "start": 5588.48,
       "end": 5588.76,
-      "text": "Okay?"
+      "text": "Okay?",
+      "source": "uncertain"
     },
     {
       "start": 5589.26,
       "end": 5591.54,
-      "text": "All the cards with the correct answers go in a bag."
+      "text": "All the cards with the correct answers go in a bag.",
+      "source": "TV"
     },
     {
       "start": 5591.86,
       "end": 5593.24,
-      "text": "One card gets pulled out."
+      "text": "One card gets pulled out.",
+      "source": "TV"
     },
     {
       "start": 5593.72,
       "end": 5597.48,
-      "text": "The person who's got the address on that card gets what I've just said."
+      "text": "The person who's got the address on that card gets what I've just said.",
+      "source": "TV"
     },
     {
       "start": 5597.86,
       "end": 5603.26,
-      "text": "The latest single by them is called I'll Wait."
+      "text": "The latest single by them is called I'll Wait.",
+      "source": "uncertain"
     },
     {
       "start": 6106.51,
       "end": 6108.06,
-      "text": "Out of that, Motley Crue."
+      "text": "Out of that, Motley Crue.",
+      "source": "uncertain"
     },
     {
       "start": 6108.06,
       "end": 6109.92,
-      "text": "Their latest single, Looks That Kill."
+      "text": "Their latest single, Looks That Kill.",
+      "source": "uncertain"
     },
     {
       "start": 6115.2,
       "end": 6117.0,
-      "text": "And that's it for this edition of The Friday Rock Show,"
+      "text": "And that's it for this edition of The Friday Rock Show,",
+      "source": "uncertain"
     },
     {
       "start": 6117.1,
       "end": 6119.36,
-      "text": "which I trust wherever you happen to be, you have enjoyed."
+      "text": "which I trust wherever you happen to be, you have enjoyed.",
+      "source": "TV"
     },
     {
       "start": 6119.62,
       "end": 6121.98,
-      "text": "The Friday Rock Show is a Tony Wilson production."
+      "text": "The Friday Rock Show is a Tony Wilson production.",
+      "source": "uncertain"
     },
     {
       "start": 6122.66,
       "end": 6133.07,
-      "text": "Following the Midnight Pips on Radio 1."
+      "text": "Following the Midnight Pips on Radio 1.",
+      "source": "TV"
     },
     {
       "start": 6133.21,
       "end": 6134.91,
-      "text": "I knew I'd muck it up."
+      "text": "I knew I'd muck it up.",
+      "source": "uncertain"
     },
     {
       "start": 6135.37,
       "end": 6137.07,
-      "text": "Get to the end of the show and really muck it up."
+      "text": "Get to the end of the show and really muck it up.",
+      "source": "uncertain"
     },
     {
       "start": 6137.13,
       "end": 6137.67,
-      "text": "That's my game."
+      "text": "That's my game.",
+      "source": "uncertain"
     },
     {
       "start": 6138.51,
       "end": 6141.95,
-      "text": "Following the news on VHF FM, which is what we call it now,"
+      "text": "Following the news on VHF FM, which is what we call it now,",
+      "source": "TV"
     },
     {
       "start": 6142.05,
       "end": 6143.31,
-      "text": "you will hear..."
+      "text": "you will hear...",
+      "source": "uncertain"
     },
     {
       "start": 6143.31,
       "end": 6144.21,
-      "text": "No, following the Pips..."
+      "text": "No, following the Pips...",
+      "source": "uncertain"
     },
     {
       "start": 6144.21,
       "end": 6144.93,
-      "text": "Who cares?"
+      "text": "Who cares?",
+      "source": "uncertain"
     },
     {
       "start": 6145.95,
       "end": 6147.85,
-      "text": "I mean, let's face it, who cares?"
+      "text": "I mean, let's face it, who cares?",
+      "source": "uncertain"
     },
     {
       "start": 6147.93,
       "end": 6148.87,
-      "text": "Because it's going to happen anyway."
+      "text": "Because it's going to happen anyway.",
+      "source": "uncertain"
     },
     {
       "start": 6148.87,
       "end": 6152.21,
-      "text": "I'm Tommy Vance on behalf of everybody on the music side of Radio 1"
+      "text": "I'm Tommy Vance on behalf of everybody on the music side of Radio 1",
+      "source": "TV"
     },
     {
       "start": 6152.21,
       "end": 6153.37,
-      "text": "you take care"
+      "text": "you take care",
+      "source": "uncertain"
     },
     {
       "start": 6153.37,
       "end": 6155.05,
-      "text": "God bless and good night"
+      "text": "God bless and good night",
+      "source": "uncertain"
     }
   ]
 }

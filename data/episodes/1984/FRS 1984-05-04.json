@@ -25,7 +25,8 @@
     {
       "start": 1.17,
       "end": 3.17,
-      "text": "Thin Lizzy."
+      "text": "Thin Lizzy.",
+      "source": "uncertain"
     },
     {
       "start": 3.17,
@@ -36,57 +37,68 @@
     {
       "start": 2981.28,
       "end": 2984.8,
-      "text": "Thin Lizzy, as they were on the 28th of August 1983"
+      "text": "Thin Lizzy, as they were on the 28th of August 1983",
+      "source": "uncertain"
     },
     {
       "start": 2984.8,
       "end": 2987.5,
-      "text": "at Reading Rock Festival."
+      "text": "at Reading Rock Festival.",
+      "source": "uncertain"
     },
     {
       "start": 2991.02,
       "end": 2993.7,
-      "text": "Good luck to all of them and everything they get up to in the future."
+      "text": "Good luck to all of them and everything they get up to in the future.",
+      "source": "uncertain"
     },
     {
       "start": 2993.96,
       "end": 2995.8,
-      "text": "And thanks for the music over the years."
+      "text": "And thanks for the music over the years.",
+      "source": "uncertain"
     },
     {
       "start": 2997.76,
       "end": 2999.62,
-      "text": "And that is it for this edition of the Friday Rock Show,"
+      "text": "And that is it for this edition of the Friday Rock Show,",
+      "source": "uncertain"
     },
     {
       "start": 2999.7,
       "end": 3001.78,
-      "text": "which I trust you've enjoyed wherever you are."
+      "text": "which I trust you've enjoyed wherever you are.",
+      "source": "TV"
     },
     {
       "start": 3002.85,
       "end": 3006.57,
-      "text": "It is, and indeed was, as always, a Tony Wilson production."
+      "text": "It is, and indeed was, as always, a Tony Wilson production.",
+      "source": "TV"
     },
     {
       "start": 3010.14,
       "end": 3013.02,
-      "text": "Following the Midnight Pips, you will hear on Medium Wave the News"
+      "text": "Following the Midnight Pips, you will hear on Medium Wave the News",
+      "source": "TV"
     },
     {
       "start": 3013.02,
       "end": 3014.62,
-      "text": "on VHF Radio 2."
+      "text": "on VHF Radio 2.",
+      "source": "uncertain"
     },
     {
       "start": 3015.84,
       "end": 3017.6,
-      "text": "Have yourself a really good long weekend."
+      "text": "Have yourself a really good long weekend.",
+      "source": "uncertain"
     },
     {
       "start": 3017.6,
       "end": 3021.04,
-      "text": "And restful and pack as much fun in as you possibly can."
+      "text": "And restful and pack as much fun in as you possibly can.",
+      "source": "TV"
     }
   ]
 }

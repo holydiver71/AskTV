@@ -133,42 +133,50 @@
     {
       "start": 3.76,
       "end": 16.73,
-      "text": "Well, hello there. This is TV on the Radio here, Thomas the Vance, and welcome once again to The Friday Rock Show."
+      "text": "Well, hello there. This is TV on the Radio here, Thomas the Vance, and welcome once again to The Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 16.73,
       "end": 20.73,
-      "text": "We have a session tonight. It's a repeated one that we actually broadcast back in June of this year."
+      "text": "We have a session tonight. It's a repeated one that we actually broadcast back in June of this year.",
+      "source": "TV"
     },
     {
       "start": 20.73,
       "end": 26.73,
-      "text": "Five people in the band. They are extremely good. They are called Badlands."
+      "text": "Five people in the band. They are extremely good. They are called Badlands.",
+      "source": "TV"
     },
     {
       "start": 26.73,
       "end": 48.48,
-      "text": "We've got a few classics scattered about the program. Bernie Torme, Black Sabbath, Rose Tattoo, Boston, Edgar Winter, and stuff like that."
+      "text": "We've got a few classics scattered about the program. Bernie Torme, Black Sabbath, Rose Tattoo, Boston, Edgar Winter, and stuff like that.",
+      "source": "TV"
     },
     {
       "start": 48.48,
       "end": 53.22,
-      "text": "New releases by Dokken, Scorched Earth, Seducer, Zebra, Kiss, and Wasted."
+      "text": "New releases by Dokken, Scorched Earth, Seducer, Zebra, Kiss, and Wasted.",
+      "source": "TV"
     },
     {
       "start": 53.82,
       "end": 56.48,
-      "text": "A Friday night connection and the answer to the last one we gave you."
+      "text": "A Friday night connection and the answer to the last one we gave you.",
+      "source": "uncertain"
     },
     {
       "start": 56.68,
       "end": 59.06,
-      "text": "All good stuff, mainly loud and heavy."
+      "text": "All good stuff, mainly loud and heavy.",
+      "source": "TV"
     },
     {
       "start": 60.3,
       "end": 63.3,
-      "text": "That is their single."
+      "text": "That is their single.",
+      "source": "TV"
     },
     {
       "start": 63.3,
@@ -185,22 +193,26 @@
     {
       "start": 668.34,
       "end": 671.22,
-      "text": "It's just been issued on EMI America called Take Hold of the Flame."
+      "text": "It's just been issued on EMI America called Take Hold of the Flame.",
+      "source": "uncertain"
     },
     {
       "start": 672.15,
       "end": 674.03,
-      "text": "And it's also on their album called The Warning."
+      "text": "And it's also on their album called The Warning.",
+      "source": "uncertain"
     },
     {
       "start": 674.35,
       "end": 678.49,
-      "text": "And before that, you heard ACDC from the album Back in Black, Shoot to Thrill."
+      "text": "And before that, you heard ACDC from the album Back in Black, Shoot to Thrill.",
+      "source": "uncertain"
     },
     {
       "start": 679.15,
       "end": 682.15,
-      "text": "That was Badlands."
+      "text": "That was Badlands.",
+      "source": "uncertain"
     },
     {
       "start": 682.15,
@@ -211,37 +223,44 @@
     {
       "start": 1144.79,
       "end": 1148.31,
-      "text": "From our repeat session by then, the track was called Badlands 53rd State."
+      "text": "From our repeat session by then, the track was called Badlands 53rd State.",
+      "source": "TV"
     },
     {
       "start": 1149.7,
       "end": 1151.98,
-      "text": "And before that, you heard Dokken from a brand new album"
+      "text": "And before that, you heard Dokken from a brand new album",
+      "source": "uncertain"
     },
     {
       "start": 1151.98,
       "end": 1153.72,
-      "text": "just come out on the Elektra record label."
+      "text": "just come out on the Elektra record label.",
+      "source": "uncertain"
     },
     {
       "start": 1154.52,
       "end": 1156.16,
-      "text": "The album is called Tooth & Nail."
+      "text": "The album is called Tooth & Nail.",
+      "source": "uncertain"
     },
     {
       "start": 1157.23,
       "end": 1159.11,
-      "text": "And the track you heard was called Don't Close Your Eyes."
+      "text": "And the track you heard was called Don't Close Your Eyes.",
+      "source": "uncertain"
     },
     {
       "start": 1159.21,
       "end": 1160.63,
-      "text": "They're a band, of course, from Los Angeles."
+      "text": "They're a band, of course, from Los Angeles.",
+      "source": "uncertain"
     },
     {
       "start": 1161.11,
       "end": 1164.71,
-      "text": "Essex from back in 1976, Boston."
+      "text": "Essex from back in 1976, Boston.",
+      "source": "uncertain"
     },
     {
       "start": 1164.71,
@@ -252,17 +271,20 @@
     {
       "start": 1733.94,
       "end": 1735.06,
-      "text": "And More Than A Feeling."
+      "text": "And More Than A Feeling.",
+      "source": "uncertain"
     },
     {
       "start": 1735.54,
       "end": 1738.06,
-      "text": "And that was specially for BJ and Lolo."
+      "text": "And that was specially for BJ and Lolo.",
+      "source": "uncertain"
     },
     {
       "start": 1739.1,
       "end": 1745.1,
-      "text": "It's 27 and a half minutes or thereabouts before midnight."
+      "text": "It's 27 and a half minutes or thereabouts before midnight.",
+      "source": "uncertain"
     },
     {
       "start": 1745.1,
@@ -273,22 +295,26 @@
     {
       "start": 1958.24,
       "end": 1961.1,
-      "text": "A word in your shell-like, as they say."
+      "text": "A word in your shell-like, as they say.",
+      "source": "TV"
     },
     {
       "start": 1961.8,
       "end": 1964.26,
-      "text": "I heard the Deep Purple album the other day, the new one."
+      "text": "I heard the Deep Purple album the other day, the new one.",
+      "source": "uncertain"
     },
     {
       "start": 1964.26,
       "end": 1965.94,
-      "text": "you will not be disappointed."
+      "text": "you will not be disappointed.",
+      "source": "uncertain"
     },
     {
       "start": 1966.48,
       "end": 1972.48,
-      "text": "I think he's well in with a chance with that."
+      "text": "I think he's well in with a chance with that.",
+      "source": "TV"
     },
     {
       "start": 1980.0,
@@ -305,42 +331,50 @@
     {
       "start": 2424.17,
       "end": 2425.61,
-      "text": "One of the greatest rockers in this country."
+      "text": "One of the greatest rockers in this country.",
+      "source": "uncertain"
     },
     {
       "start": 2427.85,
       "end": 2429.01,
-      "text": "That is Mr. Dave Edmonds."
+      "text": "That is Mr. Dave Edmonds.",
+      "source": "uncertain"
     },
     {
       "start": 2429.15,
       "end": 2429.73,
-      "text": "Well done, David."
+      "text": "Well done, David.",
+      "source": "uncertain"
     },
     {
       "start": 2429.93,
       "end": 2430.41,
-      "text": "Superb."
+      "text": "Superb.",
+      "source": "uncertain"
     },
     {
       "start": 2430.79,
       "end": 2431.73,
-      "text": "Superior record."
+      "text": "Superior record.",
+      "source": "uncertain"
     },
     {
       "start": 2431.93,
       "end": 2433.09,
-      "text": "Steel Claw."
+      "text": "Steel Claw.",
+      "source": "uncertain"
     },
     {
       "start": 2433.87,
       "end": 2436.53,
-      "text": "This here, Edgar Winter and Tobacco Road."
+      "text": "This here, Edgar Winter and Tobacco Road.",
+      "source": "uncertain"
     },
     {
       "start": 2437.03,
       "end": 2440.63,
-      "text": "They were such a good band."
+      "text": "They were such a good band.",
+      "source": "uncertain"
     },
     {
       "start": 2440.63,
@@ -351,47 +385,56 @@
     {
       "start": 3029.16,
       "end": 3029.94,
-      "text": "Whatever happened to them?"
+      "text": "Whatever happened to them?",
+      "source": "uncertain"
     },
     {
       "start": 3030.4,
       "end": 3031.0,
-      "text": "Broke up, I think."
+      "text": "Broke up, I think.",
+      "source": "uncertain"
     },
     {
       "start": 3031.48,
       "end": 3034.08,
-      "text": "Angry Anderson and Rose Tattoo from Australia"
+      "text": "Angry Anderson and Rose Tattoo from Australia",
+      "source": "uncertain"
     },
     {
       "start": 3034.08,
       "end": 3036.4,
-      "text": "from the album called Scarred for Life."
+      "text": "from the album called Scarred for Life.",
+      "source": "uncertain"
     },
     {
       "start": 3037.24,
       "end": 3039.22,
-      "text": "The track you heard was entitled Branded."
+      "text": "The track you heard was entitled Branded.",
+      "source": "uncertain"
     },
     {
       "start": 3039.8,
       "end": 3045.94,
-      "text": "And prior to that, you heard Edgar Winter"
+      "text": "And prior to that, you heard Edgar Winter",
+      "source": "TV"
     },
     {
       "start": 3045.94,
       "end": 3051.24,
-      "text": "from Yonks ago from the album entrance the old classic by john d loudermilk he's the guy that"
+      "text": "from Yonks ago from the album entrance the old classic by john d loudermilk he's the guy that",
+      "source": "TV"
     },
     {
       "start": 3051.24,
       "end": 3057.02,
-      "text": "wrote it it was called tobacco road from our session by badlands what do you do with your life"
+      "text": "wrote it it was called tobacco road from our session by badlands what do you do with your life",
+      "source": "uncertain"
     },
     {
       "start": 3057.02,
       "end": 3065.42,
-      "text": "very talented bunch of musicians they are they are called badlands that's our final"
+      "text": "very talented bunch of musicians they are they are called badlands that's our final",
+      "source": "TV"
     },
     {
       "start": 3065.42,
@@ -402,127 +445,152 @@
     {
       "start": 3394.69,
       "end": 3398.97,
-      "text": "piece from them from our session by them i wish them luck i really do the track was called what"
+      "text": "piece from them from our session by them i wish them luck i really do the track was called what",
+      "source": "uncertain"
     },
     {
       "start": 3398.97,
       "end": 3402.73,
-      "text": "do you do with your life well whatever you do do with your life it seems to be the general"
+      "text": "do you do with your life well whatever you do do with your life it seems to be the general",
+      "source": "uncertain"
     },
     {
       "start": 3402.73,
       "end": 3409.77,
-      "text": "consensus of opinion that you only have one take care of it and that's it for this edition"
+      "text": "consensus of opinion that you only have one take care of it and that's it for this edition",
+      "source": "TV"
     },
     {
       "start": 3409.77,
       "end": 3410.51,
-      "text": "of the Friday Rock Show,"
+      "text": "of the Friday Rock Show,",
+      "source": "uncertain"
     },
     {
       "start": 3410.59,
       "end": 3412.11,
-      "text": "which I trust you thoroughly enjoyed."
+      "text": "which I trust you thoroughly enjoyed.",
+      "source": "uncertain"
     },
     {
       "start": 3415.62,
       "end": 3416.46,
-      "text": "The Friday Rock Show"
+      "text": "The Friday Rock Show",
+      "source": "uncertain"
     },
     {
       "start": 3416.46,
       "end": 3417.98,
-      "text": "is a Tony Wilson production."
+      "text": "is a Tony Wilson production.",
+      "source": "uncertain"
     },
     {
       "start": 3419.2,
       "end": 3421.08,
-      "text": "And Mr. Wilson is up there at Kayster"
+      "text": "And Mr. Wilson is up there at Kayster",
+      "source": "uncertain"
     },
     {
       "start": 3421.08,
       "end": 3422.96,
-      "text": "with a BBC recording truck"
+      "text": "with a BBC recording truck",
+      "source": "uncertain"
     },
     {
       "start": 3422.96,
       "end": 3425.42,
-      "text": "getting all the acts on tape"
+      "text": "getting all the acts on tape",
+      "source": "uncertain"
     },
     {
       "start": 3425.42,
       "end": 3426.5,
-      "text": "so that we can broadcast them"
+      "text": "so that we can broadcast them",
+      "source": "uncertain"
     },
     {
       "start": 3426.5,
       "end": 3427.04,
-      "text": "in the near future."
+      "text": "in the near future.",
+      "source": "uncertain"
     },
     {
       "start": 3427.14,
       "end": 3428.5,
-      "text": "I'll be up there over the weekend as well."
+      "text": "I'll be up there over the weekend as well.",
+      "source": "uncertain"
     },
     {
       "start": 3428.84,
       "end": 3429.6,
-      "text": "Hope to see you there."
+      "text": "Hope to see you there.",
+      "source": "uncertain"
     },
     {
       "start": 3430.81,
       "end": 3431.79,
-      "text": "Following the Midnight Pips,"
+      "text": "Following the Midnight Pips,",
+      "source": "uncertain"
     },
     {
       "start": 3431.81,
       "end": 3433.91,
-      "text": "you will hear on Medium Wave the News"
+      "text": "you will hear on Medium Wave the News",
+      "source": "uncertain"
     },
     {
       "start": 3433.91,
       "end": 3436.89,
-      "text": "on VHF FM Stereo Radio 2."
+      "text": "on VHF FM Stereo Radio 2.",
+      "source": "TV"
     },
     {
       "start": 3438.15,
       "end": 3439.17,
-      "text": "My name is Tommy Vance."
+      "text": "My name is Tommy Vance.",
+      "source": "uncertain"
     },
     {
       "start": 3439.25,
       "end": 3440.71,
-      "text": "I wish you well wherever you happen to be."
+      "text": "I wish you well wherever you happen to be.",
+      "source": "uncertain"
     },
     {
       "start": 3440.95,
       "end": 3441.89,
-      "text": "Take care of yourself."
+      "text": "Take care of yourself.",
+      "source": "uncertain"
     },
     {
       "start": 3441.97,
       "end": 3442.65,
-      "text": "Have a good weekend."
+      "text": "Have a good weekend.",
+      "source": "uncertain"
     },
     {
       "start": 3442.65,
       "end": 3444.11,
-      "text": "and see you for Into the Music on Thursday."
+      "text": "and see you for Into the Music on Thursday.",
+      "source": "uncertain"
     },
     {
       "start": 3444.53,
       "end": 3446.17,
-      "text": "More of us on the music side of Radio 1."
+      "text": "More of us on the music side of Radio 1.",
+      "source": "uncertain"
     },
     {
       "start": 3446.31,
       "end": 3446.85,
-      "text": "God bless you."
+      "text": "God bless you.",
+      "source": "uncertain"
     },
     {
       "start": 3447.09,
       "end": 3447.43,
-      "text": "Good night."
+      "text": "Good night.",
+      "source": "uncertain"
     }
   ]
 }

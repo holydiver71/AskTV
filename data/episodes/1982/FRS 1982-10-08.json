@@ -38,47 +38,56 @@
     {
       "start": 1.42,
       "end": 9.68,
-      "text": "...from New York, Twisted Sister!"
+      "text": "...from New York, Twisted Sister!",
+      "source": "TV"
     },
     {
       "start": 9.68,
       "end": 25.21,
-      "text": "Good evening and welcome to our show!"
+      "text": "Good evening and welcome to our show!",
+      "source": "TV"
     },
     {
       "start": 25.21,
       "end": 35.41,
-      "text": "...the United States of America. They had the band called Twisted Sister, actually out of New York."
+      "text": "...the United States of America. They had the band called Twisted Sister, actually out of New York.",
+      "source": "TV"
     },
     {
       "start": 1553.92,
       "end": 1560.92,
-      "text": "The band are A.J. Pierrot on the drums, Mark Mendes on the bass, Eddie Ojeda on guitar, J.J. French on guitar, Dee Snider on the vocals."
+      "text": "The band are A.J. Pierrot on the drums, Mark Mendes on the bass, Eddie Ojeda on guitar, J.J. French on guitar, Dee Snider on the vocals.",
+      "source": "TV"
     },
     {
       "start": 1560.92,
       "end": 1569.92,
-      "text": "The tracks you heard were Under the Blade, Tear It Loose, Shoot Em Down, Destroyer, Bad Boys and What You Don't Know."
+      "text": "The tracks you heard were Under the Blade, Tear It Loose, Shoot Em Down, Destroyer, Bad Boys and What You Don't Know.",
+      "source": "TV"
     },
     {
       "start": 1570.36,
       "end": 1572.96,
-      "text": "You're listening to the Friday Rock Show from BBC Radio 1."
+      "text": "You're listening to the Friday Rock Show from BBC Radio 1.",
+      "source": "uncertain"
     },
     {
       "start": 1573.06,
       "end": 1576.04,
-      "text": "This is our final programme called Reading Rock 82."
+      "text": "This is our final programme called Reading Rock 82.",
+      "source": "TV"
     },
     {
       "start": 1576.66,
       "end": 1579.74,
-      "text": "It's 10.30 and now we turn to Bernie Marsden."
+      "text": "It's 10.30 and now we turn to Bernie Marsden.",
+      "source": "uncertain"
     },
     {
       "start": 1579.88,
       "end": 1580.6,
-      "text": "Good afternoon."
+      "text": "Good afternoon.",
+      "source": "uncertain"
     },
     {
       "start": 1580.6,
@@ -89,292 +98,350 @@
     {
       "start": 2361.39,
       "end": 2363.35,
-      "text": "Banger is to this one. It's called SOS."
+      "text": "Banger is to this one. It's called SOS.",
+      "source": "uncertain"
     },
     {
       "start": 2645.72,
       "end": 2647.42,
-      "text": "But it's still on an up-tempo type thing."
+      "text": "But it's still on an up-tempo type thing.",
+      "source": "uncertain"
     },
     {
       "start": 2649.15,
       "end": 2653.02,
-      "text": "This is a new song called So Wrong,"
+      "text": "This is a new song called So Wrong,",
+      "source": "uncertain"
     },
     {
       "start": 2654.56,
       "end": 2655.68,
-      "text": "which is going to be coming out in a while."
+      "text": "which is going to be coming out in a while.",
+      "source": "uncertain"
     },
     {
       "start": 2655.68,
       "end": 2657.48,
-      "text": "Most of these songs are going to be coming out on an album"
+      "text": "Most of these songs are going to be coming out on an album",
+      "source": "uncertain"
     },
     {
       "start": 2657.48,
       "end": 2660.62,
-      "text": "apart from the one that you already know,"
+      "text": "apart from the one that you already know,",
+      "source": "uncertain"
     },
     {
       "start": 2660.96,
       "end": 2661.76,
-      "text": "Shadow of the Blues."
+      "text": "Shadow of the Blues.",
+      "source": "uncertain"
     },
     {
       "start": 2662.62,
       "end": 2663.1,
-      "text": "So Wrong."
+      "text": "So Wrong.",
+      "source": "uncertain"
     },
     {
       "start": 2663.1,
       "end": 2667.9,
-      "text": "I'd like to bring out somebody you know"
+      "text": "I'd like to bring out somebody you know",
+      "source": "uncertain"
     },
     {
       "start": 2983.05,
       "end": 2984.79,
-      "text": "A very good friend of mine"
+      "text": "A very good friend of mine",
+      "source": "uncertain"
     },
     {
       "start": 2984.79,
       "end": 2986.71,
-      "text": "Would you give a nice welcome to Mickey Moody"
+      "text": "Would you give a nice welcome to Mickey Moody",
+      "source": "uncertain"
     },
     {
       "start": 2986.71,
       "end": 2989.71,
-      "text": "The Marsden Band"
+      "text": "The Marsden Band",
+      "source": "uncertain"
     },
     {
       "start": 3226.15,
       "end": 3228.64,
-      "text": "With a guest appearance there"
+      "text": "With a guest appearance there",
+      "source": "uncertain"
     },
     {
       "start": 3228.64,
       "end": 3230.12,
-      "text": "By Mickey Moody"
+      "text": "By Mickey Moody",
+      "source": "uncertain"
     },
     {
       "start": 3230.12,
       "end": 3232.46,
-      "text": "Also in the band Richard Bailey on keyboards"
+      "text": "Also in the band Richard Bailey on keyboards",
+      "source": "uncertain"
     },
     {
       "start": 3232.46,
       "end": 3233.66,
-      "text": "Steve Cherry on the bass"
+      "text": "Steve Cherry on the bass",
+      "source": "uncertain"
     },
     {
       "start": 3233.66,
       "end": 3235.2,
-      "text": "Clive Edwards on the drums"
+      "text": "Clive Edwards on the drums",
+      "source": "uncertain"
     },
     {
       "start": 3235.2,
       "end": 3236.6,
-      "text": "Bob Hawthorne on the vocals"
+      "text": "Bob Hawthorne on the vocals",
+      "source": "uncertain"
     },
     {
       "start": 3236.6,
       "end": 3239.7,
-      "text": "And of course Mr. Marsden himself on guitars"
+      "text": "And of course Mr. Marsden himself on guitars",
+      "source": "uncertain"
     },
     {
       "start": 3239.7,
       "end": 3241.52,
-      "text": "And also vocals"
+      "text": "And also vocals",
+      "source": "TV"
     },
     {
       "start": 3241.52,
       "end": 3242.92,
-      "text": "Excellent stuff as recorded"
+      "text": "Excellent stuff as recorded",
+      "source": "uncertain"
     },
     {
       "start": 3242.92,
       "end": 3245.28,
-      "text": "Over there, well not that long ago"
+      "text": "Over there, well not that long ago",
+      "source": "uncertain"
     },
     {
       "start": 3245.28,
       "end": 3247.18,
-      "text": "At Reading, the tracks you heard were come on"
+      "text": "At Reading, the tracks you heard were come on",
+      "source": "TV"
     },
     {
       "start": 3247.18,
       "end": 3251.66,
-      "text": "So Wrong, S.O.S., Shadow of the Blues, Give It to Me, and Liar."
+      "text": "So Wrong, S.O.S., Shadow of the Blues, Give It to Me, and Liar.",
+      "source": "TV"
     },
     {
       "start": 3266.4,
       "end": 3268.24,
-      "text": "It's two and a half minutes now to eleven."
+      "text": "It's two and a half minutes now to eleven.",
+      "source": "uncertain"
     },
     {
       "start": 3279.95,
       "end": 3284.85,
-      "text": "You're listening to the BBC, and this is Reading Rock 82."
+      "text": "You're listening to the BBC, and this is Reading Rock 82.",
+      "source": "TV"
     },
     {
       "start": 3285.13,
       "end": 3290.31,
-      "text": "Now we turn to the American band called Y&T, as they were on the stage at Reading."
+      "text": "Now we turn to the American band called Y&T, as they were on the stage at Reading.",
+      "source": "TV"
     },
     {
       "start": 3290.77,
       "end": 3294.97,
-      "text": "We're Tampa, boy, I believe in you."
+      "text": "We're Tampa, boy, I believe in you.",
+      "source": "uncertain"
     },
     {
       "start": 3803.81,
       "end": 3811.61,
-      "text": "Record coming out the 4th of September, that's real soon, called Black Tiger."
+      "text": "Record coming out the 4th of September, that's real soon, called Black Tiger.",
+      "source": "uncertain"
     },
     {
       "start": 4332.1,
       "end": 4335.61,
-      "text": "And this is a new one up, it's called Open Fire."
+      "text": "And this is a new one up, it's called Open Fire.",
+      "source": "uncertain"
     },
     {
       "start": 4336.51,
       "end": 4341.91,
-      "text": "The band from San Francisco who are called Y&T"
+      "text": "The band from San Francisco who are called Y&T",
+      "source": "uncertain"
     },
     {
       "start": 4917.31,
       "end": 4919.47,
-      "text": "and they're currently touring the country with ACDC."
+      "text": "and they're currently touring the country with ACDC.",
+      "source": "uncertain"
     },
     {
       "start": 4919.97,
       "end": 4921.73,
-      "text": "The band are Joey Alves on guitar,"
+      "text": "The band are Joey Alves on guitar,",
+      "source": "uncertain"
     },
     {
       "start": 4921.95,
       "end": 4923.55,
-      "text": "Dave Menichetti on guitar and vocals,"
+      "text": "Dave Menichetti on guitar and vocals,",
+      "source": "uncertain"
     },
     {
       "start": 4923.85,
       "end": 4924.85,
-      "text": "Leonard Hayes on the drums,"
+      "text": "Leonard Hayes on the drums,",
+      "source": "uncertain"
     },
     {
       "start": 4924.99,
       "end": 4926.51,
-      "text": "Phil Kennemore also on vocals."
+      "text": "Phil Kennemore also on vocals.",
+      "source": "uncertain"
     },
     {
       "start": 4927.19,
       "end": 4928.79,
-      "text": "And the tracks you heard were Forever,"
+      "text": "And the tracks you heard were Forever,",
+      "source": "uncertain"
     },
     {
       "start": 4929.33,
       "end": 4931.31,
-      "text": "Open Fire, I Believe in You,"
+      "text": "Open Fire, I Believe in You,",
+      "source": "uncertain"
     },
     {
       "start": 4931.89,
       "end": 4934.41,
-      "text": "Black Tiger and Hungry for Rock."
+      "text": "Black Tiger and Hungry for Rock.",
+      "source": "uncertain"
     },
     {
       "start": 4934.87,
       "end": 4936.43,
-      "text": "This is BBC Radio 1."
+      "text": "This is BBC Radio 1.",
+      "source": "uncertain"
     },
     {
       "start": 4936.43,
       "end": 4939.89,
-      "text": "It's 11.25, you're listening to Reading Rock Part 3"
+      "text": "It's 11.25, you're listening to Reading Rock Part 3",
+      "source": "TV"
     },
     {
       "start": 4939.89,
       "end": 4941.11,
-      "text": "here on the Friday Rock Show."
+      "text": "here on the Friday Rock Show.",
+      "source": "uncertain"
     },
     {
       "start": 4941.71,
       "end": 4943.41,
-      "text": "And now we're going to turn to a band"
+      "text": "And now we're going to turn to a band",
+      "source": "uncertain"
     },
     {
       "start": 4943.41,
       "end": 4947.77,
-      "text": "who had quite a surprise vocalist, really, on the stage at Reading this year."
+      "text": "who had quite a surprise vocalist, really, on the stage at Reading this year.",
+      "source": "TV"
     },
     {
       "start": 4947.93,
       "end": 4949.65,
-      "text": "After the ruck that they had in Sheffield,"
+      "text": "After the ruck that they had in Sheffield,",
+      "source": "uncertain"
     },
     {
       "start": 4949.79,
       "end": 4953.07,
-      "text": "well, the previous vocalist had decided to fly to Los Angeles."
+      "text": "well, the previous vocalist had decided to fly to Los Angeles.",
+      "source": "uncertain"
     },
     {
       "start": 4953.71,
       "end": 4955.61,
-      "text": "And Gary Barden stepped in at the last moment."
+      "text": "And Gary Barden stepped in at the last moment.",
+      "source": "TV"
     },
     {
       "start": 4956.09,
       "end": 4959.49,
-      "text": "I'm talking, of course, about the band called MSG."
+      "text": "I'm talking, of course, about the band called MSG.",
+      "source": "TV"
     },
     {
       "start": 4960.17,
       "end": 4965.57,
-      "text": "The old set, um, number that's, like, really moody,"
+      "text": "The old set, um, number that's, like, really moody,",
+      "source": "uncertain"
     },
     {
       "start": 5828.48,
       "end": 5830.72,
-      "text": "lots of lights, lasers, you couldn't afford them,"
+      "text": "lots of lights, lasers, you couldn't afford them,",
+      "source": "uncertain"
     },
     {
       "start": 5830.78,
       "end": 5833.0,
-      "text": "so we've got a few candles on the stage now."
+      "text": "so we've got a few candles on the stage now.",
+      "source": "uncertain"
     },
     {
       "start": 5833.0,
       "end": 5837.39,
-      "text": "Another called Lost Horizons."
+      "text": "Another called Lost Horizons.",
+      "source": "uncertain"
     },
     {
       "start": 6987.32,
       "end": 6992.6,
-      "text": "my technical operator tonight thanks to everybody at bangor poly for a great not bangor poly at all"
+      "text": "my technical operator tonight thanks to everybody at bangor poly for a great not bangor poly at all",
+      "source": "TV"
     },
     {
       "start": 6992.6,
       "end": 6996.76,
-      "text": "bangor university for a great night there what was it wednesday had a really good time up in north"
+      "text": "bangor university for a great night there what was it wednesday had a really good time up in north",
+      "source": "uncertain"
     },
     {
       "start": 6996.76,
       "end": 7002.28,
-      "text": "wales i'm off on holiday for a couple of weeks jeff barton is going to be your host so join him"
+      "text": "wales i'm off on holiday for a couple of weeks jeff barton is going to be your host so join him",
+      "source": "TV"
     },
     {
       "start": 7002.28,
       "end": 7007.63,
-      "text": "for the friday rock show next week so till we meet again possibly on sunday for the top 40 or"
+      "text": "for the friday rock show next week so till we meet again possibly on sunday for the top 40 or",
+      "source": "TV"
     },
     {
       "start": 7007.63,
       "end": 7012.63,
-      "text": "well in a couple of weeks time till then take care of yourselves i'm tommy vance good night and god"
+      "text": "well in a couple of weeks time till then take care of yourselves i'm tommy vance good night and god",
+      "source": "uncertain"
     },
     {
       "start": 7012.63,
       "end": 7012.89,
-      "text": "bless"
+      "text": "bless",
+      "source": "uncertain"
     }
   ]
 }

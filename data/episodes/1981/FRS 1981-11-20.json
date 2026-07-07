@@ -70,67 +70,80 @@
     {
       "start": 3.41,
       "end": 9.01,
-      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1."
+      "text": "On 275 and 285. Also in stereo on VHF. This is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 9.01,
       "end": 23.47,
-      "text": "Well, hello there. This is TV on the Radio here. Thomas the Vance. This is our third birthday program and as we did last year and the year before that, we're now going to play your top ten rock tracks as voted for by your good selves."
+      "text": "Well, hello there. This is TV on the Radio here. Thomas the Vance. This is our third birthday program and as we did last year and the year before that, we're now going to play your top ten rock tracks as voted for by your good selves.",
+      "source": "TV"
     },
     {
       "start": 23.47,
       "end": 28.47,
-      "text": "The first one is by the Pink Floyd, but this is a slightly different mix."
+      "text": "The first one is by the Pink Floyd, but this is a slightly different mix.",
+      "source": "TV"
     },
     {
       "start": 28.47,
       "end": 38.07,
-      "text": "New Crazy Diamond. That, of course, is by the Pink Floyd, as if you didn't know."
+      "text": "New Crazy Diamond. That, of course, is by the Pink Floyd, as if you didn't know.",
+      "source": "uncertain"
     },
     {
       "start": 561.97,
       "end": 567.97,
-      "text": "But that particular mix, incidentally, was done down to stereo from a copy of the Quadraphonic Master"
+      "text": "But that particular mix, incidentally, was done down to stereo from a copy of the Quadraphonic Master",
+      "source": "TV"
     },
     {
       "start": 567.97,
       "end": 570.31,
-      "text": "and has been broadcast, I think, just once before."
+      "text": "and has been broadcast, I think, just once before.",
+      "source": "uncertain"
     },
     {
       "start": 570.83,
       "end": 575.47,
-      "text": "It is the 10th most popular rock track in the UK. This is the 9th."
+      "text": "It is the 10th most popular rock track in the UK. This is the 9th.",
+      "source": "TV"
     },
     {
       "start": 905.59,
       "end": 910.71,
-      "text": "Recorded between the 6th and the 21st of December 1971, as it says, of course, on the album sleeve."
+      "text": "Recorded between the 6th and the 21st of December 1971, as it says, of course, on the album sleeve.",
+      "source": "TV"
     },
     {
       "start": 910.99,
       "end": 914.73,
-      "text": "That is Deep Purple and Smoke on the Water."
+      "text": "That is Deep Purple and Smoke on the Water.",
+      "source": "uncertain"
     },
     {
       "start": 914.73,
       "end": 920.81,
-      "text": "number nine in our countdown of the all-time well this year's all-time top 10 rock tracks"
+      "text": "number nine in our countdown of the all-time well this year's all-time top 10 rock tracks",
+      "source": "TV"
     },
     {
       "start": 920.81,
       "end": 925.69,
-      "text": "i'm wrecked this is rock here's something that's come in this year at number eight it's a long"
+      "text": "i'm wrecked this is rock here's something that's come in this year at number eight it's a long",
+      "source": "TV"
     },
     {
       "start": 925.69,
       "end": 931.47,
-      "text": "track and it's really the i think the definitive just about the definitive original type lineup"
+      "text": "track and it's really the i think the definitive just about the definitive original type lineup",
+      "source": "TV"
     },
     {
       "start": 931.47,
       "end": 944.07,
-      "text": "yes track subtitled the story of a loser it could be you it was released in 1970 on the album called"
+      "text": "yes track subtitled the story of a loser it could be you it was released in 1970 on the album called",
+      "source": "TV"
     },
     {
       "start": 944.07,
@@ -141,562 +154,674 @@
     {
       "start": 2480.98,
       "end": 2486.0,
-      "text": "deep purple in rock the track of course was child in time that is the seventh most popular rock track"
+      "text": "deep purple in rock the track of course was child in time that is the seventh most popular rock track",
+      "source": "TV"
     },
     {
       "start": 2486.0,
       "end": 2487.84,
-      "text": "in the United Kingdom, according to your votes."
+      "text": "in the United Kingdom, according to your votes.",
+      "source": "uncertain"
     },
     {
       "start": 2488.38,
       "end": 2490.5,
-      "text": "At number eight, the track you heard before that,"
+      "text": "At number eight, the track you heard before that,",
+      "source": "uncertain"
     },
     {
       "start": 2490.92,
       "end": 2492.46,
-      "text": "well, that was Awaken, back in the days"
+      "text": "well, that was Awaken, back in the days",
+      "source": "uncertain"
     },
     {
       "start": 2492.46,
       "end": 2494.18,
-      "text": "when Rick Wakeman was a member of Yes"
+      "text": "when Rick Wakeman was a member of Yes",
+      "source": "uncertain"
     },
     {
       "start": 2494.18,
       "end": 2496.8,
-      "text": "from the album Going For The One, recorded in 1977."
+      "text": "from the album Going For The One, recorded in 1977.",
+      "source": "uncertain"
     },
     {
       "start": 2497.62,
       "end": 2500.7,
-      "text": "And to me, other than the line-up they had with drama,"
+      "text": "And to me, other than the line-up they had with drama,",
+      "source": "uncertain"
     },
     {
       "start": 2500.9,
       "end": 2503.12,
-      "text": "I think the best line-up that Yes ever had,"
+      "text": "I think the best line-up that Yes ever had,",
+      "source": "uncertain"
     },
     {
       "start": 2503.18,
       "end": 2505.12,
-      "text": "because I did actually like drama very much."
+      "text": "because I did actually like drama very much.",
+      "source": "uncertain"
     },
     {
       "start": 2505.74,
       "end": 2506.7,
-      "text": "A lot of people are going to go,"
+      "text": "A lot of people are going to go,",
+      "source": "uncertain"
     },
     {
       "start": 2506.8,
       "end": 2508.26,
-      "text": "but I really did."
+      "text": "but I really did.",
+      "source": "uncertain"
     },
     {
       "start": 2508.64,
       "end": 2512.06,
-      "text": "Tomorrow on Rock On, I talk to Chris Squire and Alan White,"
+      "text": "Tomorrow on Rock On, I talk to Chris Squire and Alan White,",
+      "source": "TV"
     },
     {
       "start": 2512.06,
       "end": 2513.58,
-      "text": "who are currently doing their own thing."
+      "text": "who are currently doing their own thing.",
+      "source": "uncertain"
     },
     {
       "start": 2513.58,
       "end": 2516.62,
-      "text": "They, of course, were in Yes during 1977."
+      "text": "They, of course, were in Yes during 1977.",
+      "source": "uncertain"
     },
     {
       "start": 2517.12,
       "end": 2519.18,
-      "text": "Chris Squire was always in Yes, for that matter."
+      "text": "Chris Squire was always in Yes, for that matter.",
+      "source": "uncertain"
     },
     {
       "start": 2519.68,
       "end": 2520.9,
-      "text": "You're listening to the Friday Rock Show."
+      "text": "You're listening to the Friday Rock Show.",
+      "source": "uncertain"
     },
     {
       "start": 2521.44,
       "end": 2526.02,
-      "text": "My name's Tommy Vance, and these tracks are all lifted out of your minds"
+      "text": "My name's Tommy Vance, and these tracks are all lifted out of your minds",
+      "source": "TV"
     },
     {
       "start": 2526.02,
       "end": 2529.02,
-      "text": "and out of our record library to form the top ten."
+      "text": "and out of our record library to form the top ten.",
+      "source": "TV"
     },
     {
       "start": 2529.24,
       "end": 2531.56,
-      "text": "This one is at number six."
+      "text": "This one is at number six.",
+      "source": "uncertain"
     },
     {
       "start": 4076.2,
       "end": 4077.52,
-      "text": "It's exactly ten past eleven."
+      "text": "It's exactly ten past eleven.",
+      "source": "uncertain"
     },
     {
       "start": 4077.66,
       "end": 4078.28,
-      "text": "That's Xanadu."
+      "text": "That's Xanadu.",
+      "source": "uncertain"
     },
     {
       "start": 4078.38,
       "end": 4080.58,
-      "text": "It's the number five top rock track in this country."
+      "text": "It's the number five top rock track in this country.",
+      "source": "TV"
     },
     {
       "start": 4081.06,
       "end": 4083.88,
-      "text": "Before that, you heard 2112, excluding the Overture."
+      "text": "Before that, you heard 2112, excluding the Overture.",
+      "source": "TV"
     },
     {
       "start": 4084.18,
       "end": 4086.1,
-      "text": "That, of course, is from the album by the same name."
+      "text": "That, of course, is from the album by the same name.",
+      "source": "uncertain"
     },
     {
       "start": 4086.1,
       "end": 4087.92,
-      "text": "And that, this year, is at number six."
+      "text": "And that, this year, is at number six.",
+      "source": "uncertain"
     },
     {
       "start": 4088.28,
       "end": 4090.94,
-      "text": "And both of those tracks are, of course, by Rush."
+      "text": "And both of those tracks are, of course, by Rush.",
+      "source": "TV"
     },
     {
       "start": 4091.34,
       "end": 4092.46,
-      "text": "This is at number four."
+      "text": "This is at number four.",
+      "source": "uncertain"
     },
     {
       "start": 4572.75,
       "end": 4575.17,
-      "text": "Stargazer, the third track so far that we play tonight"
+      "text": "Stargazer, the third track so far that we play tonight",
+      "source": "TV"
     },
     {
       "start": 4575.17,
       "end": 4577.73,
-      "text": "that features Ritchie Blackmore playing lead guitar."
+      "text": "that features Ritchie Blackmore playing lead guitar.",
+      "source": "uncertain"
     },
     {
       "start": 4578.37,
       "end": 4581.07,
-      "text": "I thought you might like to know some of the other tracks that got voted for,"
+      "text": "I thought you might like to know some of the other tracks that got voted for,",
+      "source": "TV"
     },
     {
       "start": 4581.15,
       "end": 4584.37,
-      "text": "starting at joint number 24, 747 Strangers in the Night by Saxon,"
+      "text": "starting at joint number 24, 747 Strangers in the Night by Saxon,",
+      "source": "TV"
     },
     {
       "start": 4584.83,
       "end": 4588.75,
-      "text": "who really are the only new band, totally new band, it's a sort of show."
+      "text": "who really are the only new band, totally new band, it's a sort of show.",
+      "source": "TV"
     },
     {
       "start": 4589.19,
       "end": 4591.21,
-      "text": "Also, 24, Ain't No Love by Whitesnake."
+      "text": "Also, 24, Ain't No Love by Whitesnake.",
+      "source": "uncertain"
     },
     {
       "start": 4591.21,
       "end": 4595.03,
-      "text": "2 at 22, Gates of Delirium by Yes and Spirit of Radio by Rush."
+      "text": "2 at 22, Gates of Delirium by Yes and Spirit of Radio by Rush.",
+      "source": "uncertain"
     },
     {
       "start": 4595.49,
       "end": 4597.45,
-      "text": "Four at 18, Heaven and Hell, Black Sabbath,"
+      "text": "Four at 18, Heaven and Hell, Black Sabbath,",
+      "source": "TV"
     },
     {
       "start": 4597.57,
       "end": 4599.15,
-      "text": "Highway Star, Deep Purple, Whole Lotta Love,"
+      "text": "Highway Star, Deep Purple, Whole Lotta Love,",
+      "source": "uncertain"
     },
     {
       "start": 4599.23,
       "end": 4600.73,
-      "text": "Led Zeppelin, Close to the Edge, yes."
+      "text": "Led Zeppelin, Close to the Edge, yes.",
+      "source": "uncertain"
     },
     {
       "start": 4601.15,
       "end": 4603.59,
-      "text": "At [redacted address] by Queen."
+      "text": "At [redacted address] by Queen.",
+      "source": "uncertain"
     },
     {
       "start": 4604.09,
       "end": 4606.61,
-      "text": "16, Comfortably Numb by Pink Floyd."
+      "text": "16, Comfortably Numb by Pink Floyd.",
+      "source": "TV"
     },
     {
       "start": 4607.07,
       "end": 4608.77,
-      "text": "At 15, Paranoid by Black Sabbath."
+      "text": "At 15, Paranoid by Black Sabbath.",
+      "source": "uncertain"
     },
     {
       "start": 4608.93,
       "end": 4610.69,
-      "text": "14, Layla by Derek and the Dominoes."
+      "text": "14, Layla by Derek and the Dominoes.",
+      "source": "uncertain"
     },
     {
       "start": 4610.73,
       "end": 4612.19,
-      "text": "13, Bad Outta Hell by Meatloaf."
+      "text": "13, Bad Outta Hell by Meatloaf.",
+      "source": "uncertain"
     },
     {
       "start": 4612.47,
       "end": 4614.45,
-      "text": "12, Kashmir by Led Zeppelin."
+      "text": "12, Kashmir by Led Zeppelin.",
+      "source": "uncertain"
     },
     {
       "start": 4614.55,
       "end": 4617.09,
-      "text": "At 11, Whole Lotta Rosie by ACDC."
+      "text": "At 11, Whole Lotta Rosie by ACDC.",
+      "source": "TV"
     },
     {
       "start": 4617.09,
       "end": 4619.79,
-      "text": "Just to recap, 10 was Shine On, You Crazy Diamond,"
+      "text": "Just to recap, 10 was Shine On, You Crazy Diamond,",
+      "source": "TV"
     },
     {
       "start": 4619.93,
       "end": 4621.45,
-      "text": "9, Smoke on the Water, 8, Awaken,"
+      "text": "9, Smoke on the Water, 8, Awaken,",
+      "source": "uncertain"
     },
     {
       "start": 4621.79,
       "end": 4624.27,
-      "text": "7, Child in Time, 6, 2112,"
+      "text": "7, Child in Time, 6, 2112,",
+      "source": "uncertain"
     },
     {
       "start": 4624.27,
       "end": 4625.59,
-      "text": "Five, Awaken"
+      "text": "Five, Awaken",
+      "source": "uncertain"
     },
     {
       "start": 4625.59,
       "end": 4627.01,
-      "text": "And four, Stargazer"
+      "text": "And four, Stargazer",
+      "source": "uncertain"
     },
     {
       "start": 4627.01,
       "end": 4643.08,
-      "text": "And you voted this number three"
+      "text": "And you voted this number three",
+      "source": "TV"
     },
     {
       "start": 4643.08,
       "end": 4647.28,
-      "text": "Version from the album pronounced Leonard Skinnett"
+      "text": "Version from the album pronounced Leonard Skinnett",
+      "source": "uncertain"
     },
     {
       "start": 5176.9,
       "end": 5179.22,
-      "text": "Leonard Skinnett, number three this year"
+      "text": "Leonard Skinnett, number three this year",
+      "source": "TV"
     },
     {
       "start": 5179.22,
       "end": 5182.54,
-      "text": "In our all-time yearly rock ten tracks"
+      "text": "In our all-time yearly rock ten tracks",
+      "source": "TV"
     },
     {
       "start": 5182.54,
       "end": 5184.18,
-      "text": "There's something magical about that track"
+      "text": "There's something magical about that track",
+      "source": "uncertain"
     },
     {
       "start": 5184.18,
       "end": 5188.38,
-      "text": "It just never ceases to sound absolutely superb"
+      "text": "It just never ceases to sound absolutely superb",
+      "source": "TV"
     },
     {
       "start": 5188.38,
       "end": 5191.06,
-      "text": "Full of verve, enthusiasm and talent"
+      "text": "Full of verve, enthusiasm and talent",
+      "source": "uncertain"
     },
     {
       "start": 5191.06,
       "end": 5192.76,
-      "text": "Freebird, that was"
+      "text": "Freebird, that was",
+      "source": "uncertain"
     },
     {
       "start": 5192.76,
       "end": 5195.1,
-      "text": "This year, this is number two"
+      "text": "This year, this is number two",
+      "source": "uncertain"
     },
     {
       "start": 5195.1,
       "end": 5197.74,
-      "text": "Walking across the city"
+      "text": "Walking across the city",
+      "source": "uncertain"
     },
     {
       "start": 5197.74,
       "end": 5202.54,
-      "text": "I turned the television off"
+      "text": "I turned the television off",
+      "source": "TV"
     },
     {
       "start": 5202.54,
       "end": 5205.5,
-      "text": "Sitting beside you"
+      "text": "Sitting beside you",
+      "source": "uncertain"
     },
     {
       "start": 5205.5,
       "end": 5209.5,
-      "text": "I looked into your eyes"
+      "text": "I looked into your eyes",
+      "source": "uncertain"
     },
     {
       "start": 5209.5,
       "end": 5213.02,
-      "text": "As the sound of motor cars"
+      "text": "As the sound of motor cars",
+      "source": "uncertain"
     },
     {
       "start": 5213.02,
       "end": 5216.58,
-      "text": "Fades in the night time"
+      "text": "Fades in the night time",
+      "source": "uncertain"
     },
     {
       "start": 5216.58,
       "end": 5219.9,
-      "text": "I swear I saw your face change"
+      "text": "I swear I saw your face change",
+      "source": "uncertain"
     },
     {
       "start": 5219.9,
       "end": 5223.14,
-      "text": "It didn't seem quite right"
+      "text": "It didn't seem quite right",
+      "source": "uncertain"
     },
     {
       "start": 5223.14,
       "end": 5229.44,
-      "text": "And it's with your guardian ass"
+      "text": "And it's with your guardian ass",
+      "source": "uncertain"
     },
     {
       "start": 5229.44,
       "end": 5250.5,
-      "text": "So blue, baby, love is true with our eyes."
+      "text": "So blue, baby, love is true with our eyes.",
+      "source": "TV"
     },
     {
       "start": 5250.8,
       "end": 5254.36,
-      "text": "A distance falls around our bodies."
+      "text": "A distance falls around our bodies.",
+      "source": "uncertain"
     },
     {
       "start": 5255.49,
       "end": 5260.53,
-      "text": "Out in the garden, the moon seems very bright."
+      "text": "Out in the garden, the moon seems very bright.",
+      "source": "uncertain"
     },
     {
       "start": 5261.69,
       "end": 5268.33,
-      "text": "Six saintly shrouded men move across the lawn slowly."
+      "text": "Six saintly shrouded men move across the lawn slowly.",
+      "source": "TV"
     },
     {
       "start": 5268.33,
       "end": 5274.63,
-      "text": "The seventh walks in front with the cross held high in hand."
+      "text": "The seventh walks in front with the cross held high in hand.",
+      "source": "TV"
     },
     {
       "start": 5274.63,
       "end": 5281.57,
-      "text": "And it's your summer's waiting for you"
+      "text": "And it's your summer's waiting for you",
+      "source": "TV"
     },
     {
       "start": 5281.57,
       "end": 5292.9,
-      "text": "Don't you know our love is true"
+      "text": "Don't you know our love is true",
+      "source": "TV"
     },
     {
       "start": 5292.9,
       "end": 5297.52,
-      "text": "So far from here, far from your world"
+      "text": "So far from here, far from your world",
+      "source": "uncertain"
     },
     {
       "start": 5297.52,
       "end": 5300.52,
-      "text": "And time to outflow"
+      "text": "And time to outflow",
+      "source": "TV"
     },
     {
       "start": 5853.02,
       "end": 5857.38,
-      "text": "A flower?"
+      "text": "A flower?",
+      "source": "uncertain"
     },
     {
       "start": 5923.92,
       "end": 5926.7,
-      "text": "We've got some in, we've got some out"
+      "text": "We've got some in, we've got some out",
+      "source": "uncertain"
     },
     {
       "start": 5926.7,
       "end": 5929.82,
-      "text": "We've got some wild things floating about"
+      "text": "We've got some wild things floating about",
+      "source": "uncertain"
     },
     {
       "start": 5929.82,
       "end": 5934.1,
-      "text": "Everyone, we're changing everyone"
+      "text": "Everyone, we're changing everyone",
+      "source": "TV"
     },
     {
       "start": 5934.1,
       "end": 5936.88,
-      "text": "We'll name them all, we've had them here"
+      "text": "We'll name them all, we've had them here",
+      "source": "uncertain"
     },
     {
       "start": 5936.88,
       "end": 5939.74,
-      "text": "And the real stars are still to appear"
+      "text": "And the real stars are still to appear",
+      "source": "uncertain"
     },
     {
       "start": 5939.74,
       "end": 5946.08,
-      "text": "Feel your body melt"
+      "text": "Feel your body melt",
+      "source": "TV"
     },
     {
       "start": 5946.08,
       "end": 5948.1,
-      "text": "Mum to my, to my"
+      "text": "Mum to my, to my",
+      "source": "uncertain"
     },
     {
       "start": 5948.1,
       "end": 5951.37,
-      "text": "Dad to the office, dad to the office"
+      "text": "Dad to the office, dad to the office",
+      "source": "uncertain"
     },
     {
       "start": 5951.37,
       "end": 5954.47,
-      "text": "I'll pull the ball, dad to down"
+      "text": "I'll pull the ball, dad to down",
+      "source": "uncertain"
     },
     {
       "start": 5954.47,
       "end": 5963.45,
-      "text": "Be the last, we're living this up to the eye"
+      "text": "Be the last, we're living this up to the eye",
+      "source": "uncertain"
     },
     {
       "start": 5963.45,
       "end": 5972.45,
-      "text": "It's just about 23 minutes in duration and there you heard the whole of it."
+      "text": "It's just about 23 minutes in duration and there you heard the whole of it.",
+      "source": "uncertain"
     },
     {
       "start": 6563.57,
       "end": 6564.49,
-      "text": "It's called Supper's Ready."
+      "text": "It's called Supper's Ready.",
+      "source": "uncertain"
     },
     {
       "start": 6564.49,
       "end": 6567.17,
-      "text": "It came out on the album Foxtrot by the band called Genesis"
+      "text": "It came out on the album Foxtrot by the band called Genesis",
+      "source": "uncertain"
     },
     {
       "start": 6567.17,
       "end": 6569.49,
-      "text": "who are currently touring in the United States of America"
+      "text": "who are currently touring in the United States of America",
+      "source": "uncertain"
     },
     {
       "start": 6569.49,
       "end": 6572.25,
-      "text": "and will be back in this country pretty soon"
+      "text": "and will be back in this country pretty soon",
+      "source": "uncertain"
     },
     {
       "start": 6572.25,
       "end": 6573.51,
-      "text": "and we'll all be able to go and see him."
+      "text": "and we'll all be able to go and see him.",
+      "source": "uncertain"
     },
     {
       "start": 6573.55,
       "end": 6575.59,
-      "text": "It's the number two rock track in this country,"
+      "text": "It's the number two rock track in this country,",
+      "source": "uncertain"
     },
     {
       "start": 6576.01,
       "end": 6576.99,
-      "text": "as far as you're concerned."
+      "text": "as far as you're concerned.",
+      "source": "uncertain"
     },
     {
       "start": 6577.53,
       "end": 6578.89,
-      "text": "Well, Mr Wilson, what do you think?"
+      "text": "Well, Mr Wilson, what do you think?",
+      "source": "uncertain"
     },
     {
       "start": 6580.04,
       "end": 6581.86,
-      "text": "Oh, I don't know, I'm tired."
+      "text": "Oh, I don't know, I'm tired.",
+      "source": "uncertain"
     },
     {
       "start": 6582.52,
       "end": 6584.26,
-      "text": "I'm exhausted with all this music."
+      "text": "I'm exhausted with all this music.",
+      "source": "uncertain"
     },
     {
       "start": 6584.74,
       "end": 6585.14,
-      "text": "Good, though, isn't it?"
+      "text": "Good, though, isn't it?",
+      "source": "uncertain"
     },
     {
       "start": 6585.14,
       "end": 6587.0,
-      "text": "But it's been a great three years, and then there were three."
+      "text": "But it's been a great three years, and then there were three.",
+      "source": "uncertain"
     },
     {
       "start": 6587.28,
       "end": 6587.62,
-      "text": "That's right."
+      "text": "That's right.",
+      "source": "uncertain"
     },
     {
       "start": 6587.64,
       "end": 6588.52,
-      "text": "And more to come."
+      "text": "And more to come.",
+      "source": "uncertain"
     },
     {
       "start": 6588.78,
       "end": 6590.18,
-      "text": "Indeed, there will be, we hope."
+      "text": "Indeed, there will be, we hope.",
+      "source": "uncertain"
     },
     {
       "start": 6590.66,
       "end": 6591.84,
-      "text": "The programme was produced by him."
+      "text": "The programme was produced by him.",
+      "source": "uncertain"
     },
     {
       "start": 6592.2,
       "end": 6593.92,
-      "text": "I put it together in terms of voice,"
+      "text": "I put it together in terms of voice,",
+      "source": "uncertain"
     },
     {
       "start": 6594.04,
       "end": 6595.42,
-      "text": "and you chose this as number one."
+      "text": "and you chose this as number one.",
+      "source": "uncertain"
     },
     {
       "start": 6654.02,
       "end": 6655.42,
-      "text": "Glitters as gold"
+      "text": "Glitters as gold",
+      "source": "uncertain"
     },
     {
       "start": 6655.42,
       "end": 6669.3,
-      "text": "And she's powers are all close"
+      "text": "And she's powers are all close",
+      "source": "TV"
     },
     {
       "start": 6669.3,
       "end": 6673.84,
-      "text": "With a word she can get what she needs."
+      "text": "With a word she can get what she needs.",
+      "source": "TV"
     },
     {
       "start": 6674.34,
       "end": 6692.39,
-      "text": "She's buying us every sign on the wall."
+      "text": "She's buying us every sign on the wall.",
+      "source": "uncertain"
     },
     {
       "start": 6692.39,
       "end": 6695.45,
-      "text": "But she wants to be sure."
+      "text": "But she wants to be sure.",
+      "source": "uncertain"
     },
     {
       "start": 6696.15,
       "end": 6712.71,
-      "text": "Cause you know sometimes words have times all of our thoughts."
+      "text": "Cause you know sometimes words have times all of our thoughts.",
+      "source": "TV"
     }
   ]
 }

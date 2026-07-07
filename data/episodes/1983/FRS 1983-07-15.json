@@ -141,42 +141,50 @@
     {
       "start": 0.98,
       "end": 24.34,
-      "text": "Hello again, welcome to the Friday Rock Show with me, Andy Batten-Foster, and have we got some music for you tonight."
+      "text": "Hello again, welcome to the Friday Rock Show with me, Andy Batten-Foster, and have we got some music for you tonight.",
+      "source": "TV"
     },
     {
       "start": 30.58,
       "end": 37.58,
-      "text": "During the next two hours you can look forward to new tracks from some of the very best, like Thin Lizzy, Gary Moore and Robin Trower."
+      "text": "During the next two hours you can look forward to new tracks from some of the very best, like Thin Lizzy, Gary Moore and Robin Trower.",
+      "source": "uncertain"
     },
     {
       "start": 39.58,
       "end": 59.03,
-      "text": "We've got some great new bands too, like Rat and Ground Zero, with sessions from Battleaxe and Lone Star."
+      "text": "We've got some great new bands too, like Rat and Ground Zero, with sessions from Battleaxe and Lone Star.",
+      "source": "TV"
     },
     {
       "start": 63.1,
       "end": 68.78,
-      "text": "So, settle back and enjoy. Your ears are going to love you for it, and it's too hot for anything else, am I right?"
+      "text": "So, settle back and enjoy. Your ears are going to love you for it, and it's too hot for anything else, am I right?",
+      "source": "uncertain"
     },
     {
       "start": 70.2,
       "end": 81.0,
-      "text": "Robert Plant, in the mood for a melody from the Principle of Moments LP that's just been released,"
+      "text": "Robert Plant, in the mood for a melody from the Principle of Moments LP that's just been released,",
+      "source": "uncertain"
     },
     {
       "start": 662.55,
       "end": 668.23,
-      "text": "and he says about that track that he was trying to record a piece of music with the very minimum of lyrics involved,"
+      "text": "and he says about that track that he was trying to record a piece of music with the very minimum of lyrics involved,",
+      "source": "uncertain"
     },
     {
       "start": 668.35,
       "end": 673.17,
-      "text": "perhaps as an exercise in songwriting, I don't know, but I thought that worked pretty well, that one, anyway."
+      "text": "perhaps as an exercise in songwriting, I don't know, but I thought that worked pretty well, that one, anyway.",
+      "source": "uncertain"
     },
     {
       "start": 673.17,
       "end": 691.73,
-      "text": "And before I die young from Heaven and Hell by Black Sabbath, which was called into being tonight for Adam Lawrence from Norfolk, who wrote and asked for that particular track, for his schoolmates Jackie, Goz, Hatton, Steve L, Ali and his girlfriend Val, and also for Peter Stanway from Mike Swinbourne of Liverpool."
+      "text": "And before I die young from Heaven and Hell by Black Sabbath, which was called into being tonight for Adam Lawrence from Norfolk, who wrote and asked for that particular track, for his schoolmates Jackie, Goz, Hatton, Steve L, Ali and his girlfriend Val, and also for Peter Stanway from Mike Swinbourne of Liverpool.",
+      "source": "TV"
     },
     {
       "start": 691.73,
@@ -187,27 +195,32 @@
     {
       "start": 692.21,
       "end": 694.65,
-      "text": "I mentioned two for his wife and son there, Jill and Peter."
+      "text": "I mentioned two for his wife and son there, Jill and Peter.",
+      "source": "uncertain"
     },
     {
       "start": 695.31,
       "end": 696.93,
-      "text": "On to the session then for this week."
+      "text": "On to the session then for this week.",
+      "source": "uncertain"
     },
     {
       "start": 697.07,
       "end": 699.31,
-      "text": "Lone Star we have for you a little later on."
+      "text": "Lone Star we have for you a little later on.",
+      "source": "uncertain"
     },
     {
       "start": 699.31,
       "end": 704.45,
-      "text": "But first, something you heard earlier this year from Battleaxe, well worth a second listen, I reckon."
+      "text": "But first, something you heard earlier this year from Battleaxe, well worth a second listen, I reckon.",
+      "source": "TV"
     },
     {
       "start": 704.91,
       "end": 708.59,
-      "text": "Ready to deliver, this one's called, and just between you and me, I think they mean it."
+      "text": "Ready to deliver, this one's called, and just between you and me, I think they mean it.",
+      "source": "uncertain"
     },
     {
       "start": 708.59,
@@ -218,72 +231,86 @@
     {
       "start": 1187.75,
       "end": 1192.27,
-      "text": "Taking a chance from a new band, Wildlife, and a new LP that goes by the same name."
+      "text": "Taking a chance from a new band, Wildlife, and a new LP that goes by the same name.",
+      "source": "uncertain"
     },
     {
       "start": 1192.85,
       "end": 1196.73,
-      "text": "And if you saw in the papers this week that it looks just about all over for Bad Company,"
+      "text": "And if you saw in the papers this week that it looks just about all over for Bad Company,",
+      "source": "uncertain"
     },
     {
       "start": 1196.85,
       "end": 1201.51,
-      "text": "and wondered what happens next, well, that LP answers a few questions, really,"
+      "text": "and wondered what happens next, well, that LP answers a few questions, really,",
+      "source": "uncertain"
     },
     {
       "start": 1201.53,
       "end": 1206.63,
-      "text": "because drummer Simon Kirk is there in Wildlife with guitarist Mick Ralphs producing the band."
+      "text": "because drummer Simon Kirk is there in Wildlife with guitarist Mick Ralphs producing the band.",
+      "source": "uncertain"
     },
     {
       "start": 1206.63,
       "end": 1212.21,
-      "text": "he's due to bring out a solo record in the near future but so too a bad company according to the"
+      "text": "he's due to bring out a solo record in the near future but so too a bad company according to the",
+      "source": "uncertain"
     },
     {
       "start": 1212.21,
       "end": 1216.99,
-      "text": "record company anyway all very confusing and while we're talking about simon i see he's in a london"
+      "text": "record company anyway all very confusing and while we're talking about simon i see he's in a london",
+      "source": "uncertain"
     },
     {
       "start": 1216.99,
       "end": 1223.31,
-      "text": "paper tonight talking about rebop the old traffic percussionist about an initiation ceremony"
+      "text": "paper tonight talking about rebop the old traffic percussionist about an initiation ceremony",
+      "source": "uncertain"
     },
     {
       "start": 1223.31,
       "end": 1227.95,
-      "text": "apparently to become a ghanian master drummer rebop told him that he and his partner had to"
+      "text": "apparently to become a ghanian master drummer rebop told him that he and his partner had to",
+      "source": "uncertain"
     },
     {
       "start": 1227.95,
       "end": 1234.23,
-      "text": "sit in a village square and the teacher broke two eggs over their eyes right two eggs and they had"
+      "text": "sit in a village square and the teacher broke two eggs over their eyes right two eggs and they had",
+      "source": "uncertain"
     },
     {
       "start": 1234.23,
       "end": 1239.17,
-      "text": "to talk using the drums alone you know the talking drums for a day and a night until the next sunrise"
+      "text": "to talk using the drums alone you know the talking drums for a day and a night until the next sunrise",
+      "source": "uncertain"
     },
     {
       "start": 1239.17,
       "end": 1243.79,
-      "text": "by which time you can imagine they were pretty tired then the eggs were peeled off they were"
+      "text": "by which time you can imagine they were pretty tired then the eggs were peeled off they were",
+      "source": "uncertain"
     },
     {
       "start": 1243.79,
       "end": 1248.39,
-      "text": "both pronounced master drummers i suppose it's worth it somewhere anyway before that anyway"
+      "text": "both pronounced master drummers i suppose it's worth it somewhere anyway before that anyway",
+      "source": "uncertain"
     },
     {
       "start": 1248.39,
       "end": 1253.09,
-      "text": "battle axe from our session denied and uh if we're talking about sessions what about this next one"
+      "text": "battle axe from our session denied and uh if we're talking about sessions what about this next one",
+      "source": "uncertain"
     },
     {
       "start": 1253.09,
       "end": 1265.09,
-      "text": "recorded for the john peel show on thursday april the 15th of 1976 from lone star from lone star and"
+      "text": "recorded for the john peel show on thursday april the 15th of 1976 from lone star from lone star and",
+      "source": "TV"
     },
     {
       "start": 1265.09,
@@ -294,37 +321,44 @@
     {
       "start": 1677.48,
       "end": 1681.72,
-      "text": "seven years ago that one we have another track from that session later on as well as more from"
+      "text": "seven years ago that one we have another track from that session later on as well as more from",
+      "source": "uncertain"
     },
     {
       "start": 1681.72,
       "end": 1688.08,
-      "text": "battle axe coming up to coming up to about 10 30 29 minutes in fact past 10 on the friday rock show"
+      "text": "battle axe coming up to coming up to about 10 30 29 minutes in fact past 10 on the friday rock show",
+      "source": "uncertain"
     },
     {
       "start": 1688.08,
       "end": 1693.96,
-      "text": "and now two new lps both from young bands with a lot to offer the discerning listener i think"
+      "text": "and now two new lps both from young bands with a lot to offer the discerning listener i think",
+      "source": "uncertain"
     },
     {
       "start": 1693.96,
       "end": 1698.56,
-      "text": "you'll agree we start with tank which will play for julie jarvis and raymond harwood i think who"
+      "text": "you'll agree we start with tank which will play for julie jarvis and raymond harwood i think who",
+      "source": "uncertain"
     },
     {
       "start": 1698.56,
       "end": 1704.64,
-      "text": "are getting engaged next saturday in essex uh love from everyone is the message and this next song i"
+      "text": "are getting engaged next saturday in essex uh love from everyone is the message and this next song i",
+      "source": "uncertain"
     },
     {
       "start": 1704.64,
       "end": 1710.02,
-      "text": "promise you really and truly means absolutely nothing to your uh future life together this"
+      "text": "promise you really and truly means absolutely nothing to your uh future life together this",
+      "source": "TV"
     },
     {
       "start": 1710.02,
       "end": 1721.42,
-      "text": "means war stampede and the title track from their new album hurricane town and you know i used to"
+      "text": "means war stampede and the title track from their new album hurricane town and you know i used to",
+      "source": "TV"
     },
     {
       "start": 1721.42,
@@ -335,102 +369,122 @@
     {
       "start": 2434.8,
       "end": 2439.58,
-      "text": "know that band uh not by that name but in fact when they were called latrec and the father and"
+      "text": "know that band uh not by that name but in fact when they were called latrec and the father and",
+      "source": "uncertain"
     },
     {
       "start": 2439.58,
       "end": 2444.1,
-      "text": "stepson team of reuben and laurence aren't you they were playing around my home turf home turf"
+      "text": "stepson team of reuben and laurence aren't you they were playing around my home turf home turf",
+      "source": "uncertain"
     },
     {
       "start": 2444.1,
       "end": 2448.62,
-      "text": "that's the bristol area uh funnily enough i've not heard of them really since we featured them"
+      "text": "that's the bristol area uh funnily enough i've not heard of them really since we featured them",
+      "source": "TV"
     },
     {
       "start": 2448.62,
       "end": 2453.68,
-      "text": "on the rpm tv show i do down there but uh on that showing they're still very much at it anyway"
+      "text": "on the rpm tv show i do down there but uh on that showing they're still very much at it anyway",
+      "source": "uncertain"
     },
     {
       "start": 2453.68,
       "end": 2458.76,
-      "text": "and they could become a force to be reckoned with i reckon as well before that uh the title"
+      "text": "and they could become a force to be reckoned with i reckon as well before that uh the title",
+      "source": "uncertain"
     },
     {
       "start": 2458.76,
       "end": 2464.42,
-      "text": "track from a new album this means war by tank and that's the follow-up to the fifth filth hounds of"
+      "text": "track from a new album this means war by tank and that's the follow-up to the fifth filth hounds of",
+      "source": "uncertain"
     },
     {
       "start": 2464.42,
       "end": 2468.96,
-      "text": "hades lp which is going to be a great name for a rock and roll album boys great name"
+      "text": "hades lp which is going to be a great name for a rock and roll album boys great name",
+      "source": "uncertain"
     },
     {
       "start": 2468.96,
       "end": 2480.51,
-      "text": "this point i'm going to give you a few details of the reading festival to be held this year"
+      "text": "this point i'm going to give you a few details of the reading festival to be held this year",
+      "source": "TV"
     },
     {
       "start": 2480.51,
       "end": 2483.67,
-      "text": "on the weekend of the 26th and the 28th of August."
+      "text": "on the weekend of the 26th and the 28th of August.",
+      "source": "uncertain"
     },
     {
       "start": 2484.05,
       "end": 2486.59,
-      "text": "The running order's finally been published this week."
+      "text": "The running order's finally been published this week.",
+      "source": "uncertain"
     },
     {
       "start": 2487.09,
       "end": 2489.77,
-      "text": "On Friday, the Stranglers are playing Steel Pulse,"
+      "text": "On Friday, the Stranglers are playing Steel Pulse,",
+      "source": "uncertain"
     },
     {
       "start": 2489.97,
       "end": 2491.95,
-      "text": "Palas and Hanoi Rocks."
+      "text": "Palas and Hanoi Rocks.",
+      "source": "uncertain"
     },
     {
       "start": 2492.29,
       "end": 2495.07,
-      "text": "Headlining on Saturday, there's Black Sabbath"
+      "text": "Headlining on Saturday, there's Black Sabbath",
+      "source": "uncertain"
     },
     {
       "start": 2495.07,
       "end": 2498.77,
-      "text": "with Marillion, Suzy Quatro, Survivor and Magnum"
+      "text": "with Marillion, Suzy Quatro, Survivor and Magnum",
+      "source": "uncertain"
     },
     {
       "start": 2498.77,
       "end": 2501.09,
-      "text": "amongst many others, I'm sure you can imagine."
+      "text": "amongst many others, I'm sure you can imagine.",
+      "source": "uncertain"
     },
     {
       "start": 2501.43,
       "end": 2504.27,
-      "text": "Whilst on Sunday, Steve Harley, Sad Cafe,"
+      "text": "Whilst on Sunday, Steve Harley, Sad Cafe,",
+      "source": "uncertain"
     },
     {
       "start": 2504.27,
       "end": 2507.19,
-      "text": "the Enid Climax Blues Band and others"
+      "text": "the Enid Climax Blues Band and others",
+      "source": "uncertain"
     },
     {
       "start": 2507.19,
       "end": 2510.07,
-      "text": "lead up to this, our next band on the show"
+      "text": "lead up to this, our next band on the show",
+      "source": "uncertain"
     },
     {
       "start": 2510.07,
       "end": 2515.01,
-      "text": "from the thunder and lightning lp the new single to be released at the end of this month the sun"
+      "text": "from the thunder and lightning lp the new single to be released at the end of this month the sun",
+      "source": "uncertain"
     },
     {
       "start": 2515.01,
       "end": 2525.81,
-      "text": "goes down from thin lizzy wax from our session tonight and shout it out and before that thin"
+      "text": "goes down from thin lizzy wax from our session tonight and shout it out and before that thin",
+      "source": "TV"
     },
     {
       "start": 2525.81,
@@ -441,87 +495,104 @@
     {
       "start": 3038.84,
       "end": 3043.92,
-      "text": "lizzy and the next single from them the sun goes down now you're listening to the friday rock show"
+      "text": "lizzy and the next single from them the sun goes down now you're listening to the friday rock show",
+      "source": "uncertain"
     },
     {
       "start": 3043.92,
       "end": 3063.42,
-      "text": "coming up to 10 minutes to 11 with me andy batten foster and so to the friday night connection last"
+      "text": "coming up to 10 minutes to 11 with me andy batten foster and so to the friday night connection last",
+      "source": "TV"
     },
     {
       "start": 3063.42,
       "end": 3069.7,
-      "text": "week you might remember we played your kings by steely dan jack of diamonds by fairport convention"
+      "text": "week you might remember we played your kings by steely dan jack of diamonds by fairport convention",
+      "source": "uncertain"
     },
     {
       "start": 3069.7,
       "end": 3073.02,
-      "text": "And finally, The Joker by Steve Miller."
+      "text": "And finally, The Joker by Steve Miller.",
+      "source": "uncertain"
     },
     {
       "start": 3073.92,
       "end": 3077.2,
-      "text": "And I reckon even if you weren't Lynn Exon, who suggested those,"
+      "text": "And I reckon even if you weren't Lynn Exon, who suggested those,",
+      "source": "uncertain"
     },
     {
       "start": 3077.36,
       "end": 3082.78,
-      "text": "you'll have worked out by now that the connection was in the titles all being playing cards."
+      "text": "you'll have worked out by now that the connection was in the titles all being playing cards.",
+      "source": "uncertain"
     },
     {
       "start": 3082.92,
       "end": 3085.76,
-      "text": "Kings, Jack of Diamonds and The Joker."
+      "text": "Kings, Jack of Diamonds and The Joker.",
+      "source": "uncertain"
     },
     {
       "start": 3088.05,
       "end": 3091.47,
-      "text": "And not too surprisingly, I suppose, we had quite a few right answers,"
+      "text": "And not too surprisingly, I suppose, we had quite a few right answers,",
+      "source": "uncertain"
     },
     {
       "start": 3091.69,
       "end": 3096.45,
-      "text": "which made a very pleasant surprise, very pleasant change come to that from last week,"
+      "text": "which made a very pleasant surprise, very pleasant change come to that from last week,",
+      "source": "uncertain"
     },
     {
       "start": 3096.47,
       "end": 3098.23,
-      "text": "when we had absolutely none at all, if you remember."
+      "text": "when we had absolutely none at all, if you remember.",
+      "source": "uncertain"
     },
     {
       "start": 3098.23,
       "end": 3104.69,
-      "text": "the winner though is george collins from glasgow who wins that 12 pound record token and a few"
+      "text": "the winner though is george collins from glasgow who wins that 12 pound record token and a few",
+      "source": "uncertain"
     },
     {
       "start": 3104.69,
       "end": 3108.93,
-      "text": "other goodies from around the office as well george you can tell i can just by the way i'm"
+      "text": "other goodies from around the office as well george you can tell i can just by the way i'm",
+      "source": "uncertain"
     },
     {
       "start": 3108.93,
       "end": 3112.41,
-      "text": "speaking i don't know actually what we're going to send you yet but we'll find something nice"
+      "text": "speaking i don't know actually what we're going to send you yet but we'll find something nice",
+      "source": "uncertain"
     },
     {
       "start": 3112.41,
       "end": 3117.63,
-      "text": "don't worry about that and he's come up with tonight's friday night connection too perhaps"
+      "text": "don't worry about that and he's come up with tonight's friday night connection too perhaps",
+      "source": "uncertain"
     },
     {
       "start": 3117.63,
       "end": 3122.73,
-      "text": "um i don't know a little more challenging than last time around but i reckon we'll get a few"
+      "text": "um i don't know a little more challenging than last time around but i reckon we'll get a few",
+      "source": "TV"
     },
     {
       "start": 3122.73,
       "end": 3127.23,
-      "text": "right answers as well here they come then heads down concentrate on these"
+      "text": "right answers as well here they come then heads down concentrate on these",
+      "source": "uncertain"
     },
     {
       "start": 3127.23,
       "end": 3137.43,
-      "text": "so that's the friday night connection for this week our three mystery tracks that you heard there"
+      "text": "so that's the friday night connection for this week our three mystery tracks that you heard there",
+      "source": "TV"
     },
     {
       "start": 3137.43,
@@ -532,202 +603,242 @@
     {
       "start": 3758.93,
       "end": 3764.53,
-      "text": "you had to find the connection between and uh a bit of an advantage there i think we gave you a"
+      "text": "you had to find the connection between and uh a bit of an advantage there i think we gave you a",
+      "source": "uncertain"
     },
     {
       "start": 3764.53,
       "end": 3769.35,
-      "text": "bit of a clue we told you uh which group the what which group was the first one anyway didn't we so"
+      "text": "bit of a clue we told you uh which group the what which group was the first one anyway didn't we so",
+      "source": "uncertain"
     },
     {
       "start": 3769.35,
       "end": 3773.05,
-      "text": "you can't get much more help than that there's a link in there somewhere anyway and a prize for"
+      "text": "you can't get much more help than that there's a link in there somewhere anyway and a prize for",
+      "source": "uncertain"
     },
     {
       "start": 3773.05,
       "end": 3779.17,
-      "text": "someone who gets it right if you drop me a line to me andy batten foster the friday night connection"
+      "text": "someone who gets it right if you drop me a line to me andy batten foster the friday night connection",
+      "source": "uncertain"
     },
     {
       "start": 3779.17,
       "end": 3787.73,
-      "text": "the friday rock show radio one london w1a for ww just the titles and the connection will do"
+      "text": "the friday rock show radio one london w1a for ww just the titles and the connection will do",
+      "source": "TV"
     },
     {
       "start": 3787.73,
       "end": 3793.67,
-      "text": "i got told off last week by uh hang on a second who is it here that's right yeah janet bagley"
+      "text": "i got told off last week by uh hang on a second who is it here that's right yeah janet bagley",
+      "source": "TV"
     },
     {
       "start": 3793.67,
       "end": 3799.49,
-      "text": "of gospel thanks a lot janet my first week you know as well bit of a cheek you remember also"
+      "text": "of gospel thanks a lot janet my first week you know as well bit of a cheek you remember also",
+      "source": "TV"
     },
     {
       "start": 3799.49,
       "end": 3804.27,
-      "text": "last week i played a record called off the hook do you remember that i asked you to tell me who"
+      "text": "last week i played a record called off the hook do you remember that i asked you to tell me who",
+      "source": "uncertain"
     },
     {
       "start": 3804.27,
       "end": 3810.13,
-      "text": "was singing it and i thought i honestly thought you might have problems not so i should have known"
+      "text": "was singing it and i thought i honestly thought you might have problems not so i should have known",
+      "source": "TV"
     },
     {
       "start": 3810.13,
       "end": 3816.21,
-      "text": "better listen to this dear andy very cruel very cruel of you indeed the singer of off the hook"
+      "text": "better listen to this dear andy very cruel very cruel of you indeed the singer of off the hook",
+      "source": "uncertain"
     },
     {
       "start": 3816.21,
       "end": 3821.59,
-      "text": "was of course the one and only tommy vance would you please give a mention to my fiancee kathy"
+      "text": "was of course the one and only tommy vance would you please give a mention to my fiancee kathy",
+      "source": "uncertain"
     },
     {
       "start": 3821.59,
       "end": 3827.27,
-      "text": "i love her very much and mention if you would darren and kelvin the uh the mad granary head"
+      "text": "i love her very much and mention if you would darren and kelvin the uh the mad granary head",
+      "source": "uncertain"
     },
     {
       "start": 3827.27,
       "end": 3834.09,
-      "text": "bangers merv the home survivor kit mex the mustache tony hillage bartlett jeff the mind over"
+      "text": "bangers merv the home survivor kit mex the mustache tony hillage bartlett jeff the mind over",
+      "source": "uncertain"
     },
     {
       "start": 3834.09,
       "end": 3840.95,
-      "text": "alvin the australian and of course myself ian the mad metal masochist which is really just another"
+      "text": "alvin the australian and of course myself ian the mad metal masochist which is really just another",
+      "source": "TV"
     },
     {
       "start": 3840.95,
       "end": 3847.27,
-      "text": "name for ian bartlett from uh st paul's in bristol well done ian anyway a prize to you but uh"
+      "text": "name for ian bartlett from uh st paul's in bristol well done ian anyway a prize to you but uh",
+      "source": "uncertain"
     },
     {
       "start": 3847.27,
       "end": 3854.93,
-      "text": "Honourable mentions too, I think, to Graham Clark, Hilda Stark, Clive Amesbury, Ginge Evans, Jane Jones."
+      "text": "Honourable mentions too, I think, to Graham Clark, Hilda Stark, Clive Amesbury, Ginge Evans, Jane Jones.",
+      "source": "TV"
     },
     {
       "start": 3855.47,
       "end": 3858.03,
-      "text": "Just a few, really, of the others who guessed it right."
+      "text": "Just a few, really, of the others who guessed it right.",
+      "source": "uncertain"
     },
     {
       "start": 3858.33,
       "end": 3861.43,
-      "text": "It was Tommy, and he's not going to do the same to me next week."
+      "text": "It was Tommy, and he's not going to do the same to me next week.",
+      "source": "uncertain"
     },
     {
       "start": 3861.55,
       "end": 3864.99,
-      "text": "I can guarantee that when he's back, because I've never sang anything."
+      "text": "I can guarantee that when he's back, because I've never sang anything.",
+      "source": "uncertain"
     },
     {
       "start": 3865.51,
       "end": 3868.07,
-      "text": "And believe you me, that's for very obvious reasons."
+      "text": "And believe you me, that's for very obvious reasons.",
+      "source": "uncertain"
     },
     {
       "start": 3877.44,
       "end": 3882.1,
-      "text": "And now some live concert from America, this one."
+      "text": "And now some live concert from America, this one.",
+      "source": "TV"
     },
     {
       "start": 3882.1,
       "end": 3885.2,
-      "text": "The album Allies by Crosby, Stills and Nash."
+      "text": "The album Allies by Crosby, Stills and Nash.",
+      "source": "uncertain"
     },
     {
       "start": 3887.6,
       "end": 3899.18,
-      "text": "There's a ballad I wrote about the, what is obvious to me, futility of dropping nuclear waste into barrels at the bottom of the oceans."
+      "text": "There's a ballad I wrote about the, what is obvious to me, futility of dropping nuclear waste into barrels at the bottom of the oceans.",
+      "source": "TV"
     },
     {
       "start": 3899.72,
       "end": 3911.72,
-      "text": "Three tracks on the Friday Rock Show, all in concert, beginning with Crosby, Stills and Nash from the Allies LP."
+      "text": "Three tracks on the Friday Rock Show, all in concert, beginning with Crosby, Stills and Nash from the Allies LP.",
+      "source": "uncertain"
     },
     {
       "start": 4710.49,
       "end": 4715.71,
-      "text": "The one we play being Barrel of Pain, recorded at Universal City in California last year."
+      "text": "The one we play being Barrel of Pain, recorded at Universal City in California last year.",
+      "source": "uncertain"
     },
     {
       "start": 4716.19,
       "end": 4721.37,
-      "text": "And Graham Nash, incidentally, is going to be joining Richard Skinner and me on Saturday Live tomorrow afternoon at four."
+      "text": "And Graham Nash, incidentally, is going to be joining Richard Skinner and me on Saturday Live tomorrow afternoon at four.",
+      "source": "TV"
     },
     {
       "start": 4721.49,
       "end": 4727.01,
-      "text": "We're going to talk about CSN and the Hollies, of course, that he's now returned to sing with again."
+      "text": "We're going to talk about CSN and the Hollies, of course, that he's now returned to sing with again.",
+      "source": "uncertain"
     },
     {
       "start": 4727.11,
       "end": 4728.93,
-      "text": "That should be good. I'm looking forward to meeting him, actually."
+      "text": "That should be good. I'm looking forward to meeting him, actually.",
+      "source": "uncertain"
     },
     {
       "start": 4729.45,
       "end": 4730.55,
-      "text": "But then, back to the music."
+      "text": "But then, back to the music.",
+      "source": "uncertain"
     },
     {
       "start": 4730.63,
       "end": 4732.33,
-      "text": "We shot across the other side of the world, then,"
+      "text": "We shot across the other side of the world, then,",
+      "source": "uncertain"
     },
     {
       "start": 4732.37,
       "end": 4736.75,
-      "text": "for a sample of Gary Moores playing at somewhere totally unpronounceable in Tokyo."
+      "text": "for a sample of Gary Moores playing at somewhere totally unpronounceable in Tokyo.",
+      "source": "uncertain"
     },
     {
       "start": 4736.87,
       "end": 4739.05,
-      "text": "I'll tell you what, I'll actually have a go at it for you."
+      "text": "I'll tell you what, I'll actually have a go at it for you.",
+      "source": "uncertain"
     },
     {
       "start": 4739.43,
       "end": 4743.23,
-      "text": "It's the Tokyo Kosai Kenkin Kaikan."
+      "text": "It's the Tokyo Kosai Kenkin Kaikan.",
+      "source": "uncertain"
     },
     {
       "start": 4744.15,
       "end": 4746.11,
-      "text": "I did tell you it was unpronounceable, you know."
+      "text": "I did tell you it was unpronounceable, you know.",
+      "source": "uncertain"
     },
     {
       "start": 4746.15,
       "end": 4747.31,
-      "text": "I thought it was worth a go, anyway."
+      "text": "I thought it was worth a go, anyway.",
+      "source": "uncertain"
     },
     {
       "start": 4747.67,
       "end": 4750.83,
-      "text": "Wide Knuckles was the instrumental, and isn't he good?"
+      "text": "Wide Knuckles was the instrumental, and isn't he good?",
+      "source": "uncertain"
     },
     {
       "start": 4750.83,
       "end": 4752.59,
-      "text": "I mean, is he good, or is he good?"
+      "text": "I mean, is he good, or is he good?",
+      "source": "uncertain"
     },
     {
       "start": 4753.15,
       "end": 4756.63,
-      "text": "And followed by Rocking and Rolling, January of this year."
+      "text": "And followed by Rocking and Rolling, January of this year.",
+      "source": "uncertain"
     },
     {
       "start": 4756.63,
       "end": 4760.97,
-      "text": "that was all going on in japan still to come tonight then another from the lone star session"
+      "text": "that was all going on in japan still to come tonight then another from the lone star session",
+      "source": "uncertain"
     },
     {
       "start": 4760.97,
       "end": 4773.57,
-      "text": "of 1976 but our other feature group this week are battle axe bobin treuer from the new back it up lp"
+      "text": "of 1976 but our other feature group this week are battle axe bobin treuer from the new back it up lp",
+      "source": "TV"
     },
     {
       "start": 4773.57,
@@ -738,107 +849,128 @@
     {
       "start": 5277.5,
       "end": 5282.78,
-      "text": "the track was river and before that battle axe who are let me tell you a little about the group"
+      "text": "the track was river and before that battle axe who are let me tell you a little about the group",
+      "source": "uncertain"
     },
     {
       "start": 5282.78,
       "end": 5289.66,
-      "text": "anyway uh drummer ian mccormack get brian smith on bass guitarist steve hardy with dave king"
+      "text": "anyway uh drummer ian mccormack get brian smith on bass guitarist steve hardy with dave king",
+      "source": "TV"
     },
     {
       "start": 5289.66,
       "end": 5293.68,
-      "text": "providing the voice on that particular track that was mean machine we played you there"
+      "text": "providing the voice on that particular track that was mean machine we played you there",
+      "source": "uncertain"
     },
     {
       "start": 5294.18,
       "end": 5297.16,
-      "text": "And we'll play that, I think, for Steve Rickards of Hollyhead."
+      "text": "And we'll play that, I think, for Steve Rickards of Hollyhead.",
+      "source": "uncertain"
     },
     {
       "start": 5297.62,
       "end": 5299.96,
-      "text": "He wants to say he's thinking of Julie on Merseyside"
+      "text": "He wants to say he's thinking of Julie on Merseyside",
+      "source": "uncertain"
     },
     {
       "start": 5299.96,
       "end": 5303.82,
-      "text": "and to say hello to Simon, Chris, and wish all the best to Gordon."
+      "text": "and to say hello to Simon, Chris, and wish all the best to Gordon.",
+      "source": "uncertain"
     },
     {
       "start": 5303.98,
       "end": 5305.06,
-      "text": "Thanks for that letter, Steve."
+      "text": "Thanks for that letter, Steve.",
+      "source": "uncertain"
     },
     {
       "start": 5305.64,
       "end": 5309.36,
-      "text": "I'm going to play you now Lone Star from that 1976 session,"
+      "text": "I'm going to play you now Lone Star from that 1976 session,",
+      "source": "uncertain"
     },
     {
       "start": 5309.72,
       "end": 5310.64,
-      "text": "the last one from them."
+      "text": "the last one from them.",
+      "source": "uncertain"
     },
     {
       "start": 5311.12,
       "end": 5312.64,
-      "text": "This one's called Spaceships."
+      "text": "This one's called Spaceships.",
+      "source": "uncertain"
     },
     {
       "start": 5313.1,
       "end": 5314.56,
-      "text": "I think you're going to enjoy this."
+      "text": "I think you're going to enjoy this.",
+      "source": "uncertain"
     },
     {
       "start": 5314.72,
       "end": 5316.0,
-      "text": "Settle down and enjoy this."
+      "text": "Settle down and enjoy this.",
+      "source": "uncertain"
     },
     {
       "start": 5316.0,
       "end": 5320.44,
-      "text": "Coming up to 27 minutes past 11 o'clock on the Friday Rock Show."
+      "text": "Coming up to 27 minutes past 11 o'clock on the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 5320.44,
       "end": 5330.64,
-      "text": "The very last second of that one, Spaceships from Lone Star, recorded for the BBC in 1976,"
+      "text": "The very last second of that one, Spaceships from Lone Star, recorded for the BBC in 1976,",
+      "source": "uncertain"
     },
     {
       "start": 5827.96,
       "end": 5832.24,
-      "text": "when the group was made up of Paul Chapman on guitar, Tony Smith on guitar too,"
+      "text": "when the group was made up of Paul Chapman on guitar, Tony Smith on guitar too,",
+      "source": "uncertain"
     },
     {
       "start": 5832.76,
       "end": 5839.72,
-      "text": "Dixie Lee on drums, Rick Worsnop on keyboards, Pete Hurley on bass, and Ken Driscoll on vocals."
+      "text": "Dixie Lee on drums, Rick Worsnop on keyboards, Pete Hurley on bass, and Ken Driscoll on vocals.",
+      "source": "uncertain"
     },
     {
       "start": 5839.84,
       "end": 5844.6,
-      "text": "Now, Lone Star are no more, it must be said, but they put an awful lot of music out while they were together,"
+      "text": "Now, Lone Star are no more, it must be said, but they put an awful lot of music out while they were together,",
+      "source": "uncertain"
     },
     {
       "start": 5844.6,
       "end": 5849.5,
-      "text": "and I remember once ending up with them in a restaurant, and if you think that sounds fun,"
+      "text": "and I remember once ending up with them in a restaurant, and if you think that sounds fun,",
+      "source": "uncertain"
     },
     {
       "start": 5849.5,
       "end": 5852.24,
-      "text": "You weren't the waitress that night, I can guarantee that."
+      "text": "You weren't the waitress that night, I can guarantee that.",
+      "source": "uncertain"
     },
     {
       "start": 5852.68,
       "end": 5853.34,
-      "text": "Just for..."
+      "text": "Just for...",
+      "source": "uncertain"
     },
     {
       "start": 5853.34,
       "end": 5860.54,
-      "text": "...was the Electric Palace from a Norwich-based group, Ground Zero, a six-piece,"
+      "text": "...was the Electric Palace from a Norwich-based group, Ground Zero, a six-piece,",
+      "source": "TV"
     },
     {
       "start": 5860.54,
@@ -849,87 +981,104 @@
     {
       "start": 6562.11,
       "end": 6565.21,
-      "text": "described as space rock, sci-fi rock, if you like."
+      "text": "described as space rock, sci-fi rock, if you like.",
+      "source": "uncertain"
     },
     {
       "start": 6565.69,
       "end": 6570.67,
-      "text": "That track was from a four-track cassette LP, which perhaps explains the sound a bit."
+      "text": "That track was from a four-track cassette LP, which perhaps explains the sound a bit.",
+      "source": "uncertain"
     },
     {
       "start": 6571.07,
       "end": 6573.17,
-      "text": "Generally available, though, so well worth the play."
+      "text": "Generally available, though, so well worth the play.",
+      "source": "uncertain"
     },
     {
       "start": 6573.23,
       "end": 6574.91,
-      "text": "I'm sure you'll agree with me there."
+      "text": "I'm sure you'll agree with me there.",
+      "source": "uncertain"
     },
     {
       "start": 6575.15,
       "end": 6576.67,
-      "text": "And quite a band to see live, apparently."
+      "text": "And quite a band to see live, apparently.",
+      "source": "uncertain"
     },
     {
       "start": 6576.75,
       "end": 6581.27,
-      "text": "They use film shows, they use poetry, lasers, video graphics as well."
+      "text": "They use film shows, they use poetry, lasers, video graphics as well.",
+      "source": "uncertain"
     },
     {
       "start": 6581.27,
       "end": 6586.07,
-      "text": "and it looks as though you'll get a chance to see them live over august bank holiday they're"
+      "text": "and it looks as though you'll get a chance to see them live over august bank holiday they're",
+      "source": "uncertain"
     },
     {
       "start": 6586.07,
       "end": 6591.83,
-      "text": "playing the summer dream fair at in norfolk somewhere at lindy in fact at ling i beg your"
+      "text": "playing the summer dream fair at in norfolk somewhere at lindy in fact at ling i beg your",
+      "source": "uncertain"
     },
     {
       "start": 6591.83,
       "end": 6598.39,
-      "text": "pardon l-y-n-g ling in norfolk they're on with donovan at that so uh well worth a trip up there"
+      "text": "pardon l-y-n-g ling in norfolk they're on with donovan at that so uh well worth a trip up there",
+      "source": "uncertain"
     },
     {
       "start": 6598.39,
       "end": 6604.55,
-      "text": "i reckon next jock whose real name's ian he tells me he wants um young girl blues for sammy hager"
+      "text": "i reckon next jock whose real name's ian he tells me he wants um young girl blues for sammy hager",
+      "source": "uncertain"
     },
     {
       "start": 6604.55,
       "end": 6609.39,
-      "text": "for the headbanger girls of doncaster linda and especially lane now the song's important to them"
+      "text": "for the headbanger girls of doncaster linda and especially lane now the song's important to them",
+      "source": "uncertain"
     },
     {
       "start": 6609.39,
       "end": 6611.73,
-      "text": "both, so Jock Swish"
+      "text": "both, so Jock Swish",
+      "source": "uncertain"
     },
     {
       "start": 6611.73,
       "end": 6613.61,
-      "text": "is definitely our command."
+      "text": "is definitely our command.",
+      "source": "uncertain"
     },
     {
       "start": 6613.71,
       "end": 6615.51,
-      "text": "Don't worry about that. First, though, the last from"
+      "text": "Don't worry about that. First, though, the last from",
+      "source": "uncertain"
     },
     {
       "start": 6615.51,
       "end": 6617.47,
-      "text": "Battleaxe. Running out of time, this one's called"
+      "text": "Battleaxe. Running out of time, this one's called",
+      "source": "uncertain"
     },
     {
       "start": 6617.47,
       "end": 6619.73,
-      "text": "You and Me Both, eh, at 12 minutes"
+      "text": "You and Me Both, eh, at 12 minutes",
+      "source": "uncertain"
     },
     {
       "start": 6619.73,
       "end": 6620.15,
-      "text": "to 12."
+      "text": "to 12.",
+      "source": "uncertain"
     },
     {
       "start": 6620.15,
@@ -940,62 +1089,74 @@
     {
       "start": 6756.67,
       "end": 6762.32,
-      "text": "...and I'm running out of time, just moving mine at the end of a line."
+      "text": "...and I'm running out of time, just moving mine at the end of a line.",
+      "source": "TV"
     },
     {
       "start": 6762.82,
       "end": 6774.22,
-      "text": "...and Girl Blues, written by Donovan, but sung by Sammy Hager from the Nine on the Ten Scale LP."
+      "text": "...and Girl Blues, written by Donovan, but sung by Sammy Hager from the Nine on the Ten Scale LP.",
+      "source": "uncertain"
     },
     {
       "start": 7327.89,
       "end": 7331.15,
-      "text": "And that's really about it, you know, for the Friday Rock Show this week."
+      "text": "And that's really about it, you know, for the Friday Rock Show this week.",
+      "source": "uncertain"
     },
     {
       "start": 7331.25,
       "end": 7336.07,
-      "text": "Tommy will be back next week, bronze from his vacation, I'm certain of that."
+      "text": "Tommy will be back next week, bronze from his vacation, I'm certain of that.",
+      "source": "TV"
     },
     {
       "start": 7336.55,
       "end": 7338.47,
-      "text": "I've had a good time, though, you know, over this fortnight."
+      "text": "I've had a good time, though, you know, over this fortnight.",
+      "source": "uncertain"
     },
     {
       "start": 7338.53,
       "end": 7341.31,
-      "text": "We really must do this together again sometime."
+      "text": "We really must do this together again sometime.",
+      "source": "uncertain"
     },
     {
       "start": 7341.31,
       "end": 7344.17,
-      "text": "I'll be back though at 4 tomorrow"
+      "text": "I'll be back though at 4 tomorrow",
+      "source": "uncertain"
     },
     {
       "start": 7344.17,
       "end": 7345.93,
-      "text": "on Saturday Live with Richard Skinner"
+      "text": "on Saturday Live with Richard Skinner",
+      "source": "uncertain"
     },
     {
       "start": 7345.93,
       "end": 7348.29,
-      "text": "the Friday Rock Show for this week though"
+      "text": "the Friday Rock Show for this week though",
+      "source": "uncertain"
     },
     {
       "start": 7348.29,
       "end": 7350.11,
-      "text": "was produced by Tony Wilson and"
+      "text": "was produced by Tony Wilson and",
+      "source": "uncertain"
     },
     {
       "start": 7350.11,
       "end": 7350.99,
-      "text": "Harry Parker"
+      "text": "Harry Parker",
+      "source": "uncertain"
     },
     {
       "start": 7350.99,
       "end": 7353.89,
-      "text": "until the next time then, ta-ra"
+      "text": "until the next time then, ta-ra",
+      "source": "uncertain"
     }
   ]
 }

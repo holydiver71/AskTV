@@ -152,27 +152,32 @@
     {
       "start": 4.05,
       "end": 10.09,
-      "text": "Well, hello there. This is TV on the radio here, Thomas the Vance, and welcome once again to the Friday Rock Show."
+      "text": "Well, hello there. This is TV on the radio here, Thomas the Vance, and welcome once again to the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 11.43,
       "end": 17.15,
-      "text": "Right, tonight we revisit the scene of the crime with the first of two programs that features the groups that we recorded and"
+      "text": "Right, tonight we revisit the scene of the crime with the first of two programs that features the groups that we recorded and",
+      "source": "TV"
     },
     {
       "start": 17.49,
       "end": 23.27,
-      "text": "broadcast last summer at the Reading Festival. Now the consequence of that is that the Friday night connection is shelved."
+      "text": "broadcast last summer at the Reading Festival. Now the consequence of that is that the Friday night connection is shelved.",
+      "source": "TV"
     },
     {
       "start": 24.15,
       "end": 44.44,
-      "text": "But don't be disappointed about that because this week you can relive the ace activities of the Pat Travis band, Magnum, Samson and Gillen."
+      "text": "But don't be disappointed about that because this week you can relive the ace activities of the Pat Travis band, Magnum, Samson and Gillen.",
+      "source": "TV"
     },
     {
       "start": 44.44,
       "end": 58.35,
-      "text": "But we start our reading revisited doubleheader with five numbers from Iron Maiden and here they are"
+      "text": "But we start our reading revisited doubleheader with five numbers from Iron Maiden and here they are",
+      "source": "TV"
     },
     {
       "start": 58.35,
@@ -183,132 +188,158 @@
     {
       "start": 1189.54,
       "end": 1190.82,
-      "text": "Mr. Stevie Harris."
+      "text": "Mr. Stevie Harris.",
+      "source": "uncertain"
     },
     {
       "start": 1191.22,
       "end": 1197.64,
-      "text": "The lead guitar, the glom bomber, Mr. Dave Murray."
+      "text": "The lead guitar, the glom bomber, Mr. Dave Murray.",
+      "source": "TV"
     },
     {
       "start": 1200.88,
       "end": 1205.02,
-      "text": "This is a song we'd like to dedicate from us to you."
+      "text": "This is a song we'd like to dedicate from us to you.",
+      "source": "uncertain"
     },
     {
       "start": 1205.34,
       "end": 1207.06,
-      "text": "This is a song called Iron."
+      "text": "This is a song called Iron.",
+      "source": "uncertain"
     },
     {
       "start": 1207.56,
       "end": 1212.96,
-      "text": "Iron Maiden, those bunch of loony West Ham supporters"
+      "text": "Iron Maiden, those bunch of loony West Ham supporters",
+      "source": "uncertain"
     },
     {
       "start": 1465.23,
       "end": 1467.49,
-      "text": "as they were at the Reading Festival last year."
+      "text": "as they were at the Reading Festival last year.",
+      "source": "TV"
     },
     {
       "start": 1467.63,
       "end": 1470.59,
-      "text": "At the Traxy Herb were Iron Maiden, Transylvania, Running Free,"
+      "text": "At the Traxy Herb were Iron Maiden, Transylvania, Running Free,",
+      "source": "TV"
     },
     {
       "start": 1470.79,
       "end": 1472.33,
-      "text": "Remember Tomorrow and Prowler."
+      "text": "Remember Tomorrow and Prowler.",
+      "source": "TV"
     },
     {
       "start": 1474.74,
       "end": 1477.04,
-      "text": "I think it's time to mention a few people who are into Iron Maiden."
+      "text": "I think it's time to mention a few people who are into Iron Maiden.",
+      "source": "TV"
     },
     {
       "start": 1477.12,
       "end": 1480.34,
-      "text": "I've got a nice letter here from Ian Ireland at [redacted address],"
+      "text": "I've got a nice letter here from Ian Ireland at [redacted address],",
+      "source": "TV"
     },
     {
       "start": 1480.34,
       "end": 1482.46,
-      "text": "north over close Westbury, down there in Bristol,"
+      "text": "north over close Westbury, down there in Bristol,",
+      "source": "TV"
     },
     {
       "start": 1482.96,
       "end": 1485.2,
-      "text": "demands that I mention Dave Guest and Dave Potter,"
+      "text": "demands that I mention Dave Guest and Dave Potter,",
+      "source": "TV"
     },
     {
       "start": 1485.66,
       "end": 1488.34,
-      "text": "John Gratlin, Tony Fisk, Rob White, Steve Trevis,"
+      "text": "John Gratlin, Tony Fisk, Rob White, Steve Trevis,",
+      "source": "uncertain"
     },
     {
       "start": 1488.68,
       "end": 1491.16,
-      "text": "and all the rest of the people that he knows at Bristol Grammar School."
+      "text": "and all the rest of the people that he knows at Bristol Grammar School.",
+      "source": "uncertain"
     },
     {
       "start": 1491.56,
       "end": 1494.82,
-      "text": "A little letter that's from a gentleman who signs himself A2"
+      "text": "A little letter that's from a gentleman who signs himself A2",
+      "source": "TV"
     },
     {
       "start": 1494.82,
       "end": 1497.86,
-      "text": "of [redacted address]. Cliftonville in Margate,"
+      "text": "of [redacted address]. Cliftonville in Margate,",
+      "source": "TV"
     },
     {
       "start": 1498.18,
       "end": 1499.52,
-      "text": "definitely into Iron Maiden."
+      "text": "definitely into Iron Maiden.",
+      "source": "uncertain"
     },
     {
       "start": 1500.24,
       "end": 1504.98,
-      "text": "...who just two days ago emigrated to South Africa,"
+      "text": "...who just two days ago emigrated to South Africa,",
+      "source": "TV"
     },
     {
       "start": 1505.26,
       "end": 1508.24,
-      "text": "wanted me to be very kind and mention some friends of hers"
+      "text": "wanted me to be very kind and mention some friends of hers",
+      "source": "TV"
     },
     {
       "start": 1508.24,
       "end": 1509.76,
-      "text": "that she's left behind in Glasgow."
+      "text": "that she's left behind in Glasgow.",
+      "source": "uncertain"
     },
     {
       "start": 1509.76,
       "end": 1514.44,
-      "text": "That's Alison and Chris and Len and Susan and Jackie and Gus and Diane and Brian in Glasgow."
+      "text": "That's Alison and Chris and Len and Susan and Jackie and Gus and Diane and Brian in Glasgow.",
+      "source": "TV"
     },
     {
       "start": 1514.84,
       "end": 1516.28,
-      "text": "And also Bob in Birmingham."
+      "text": "And also Bob in Birmingham.",
+      "source": "uncertain"
     },
     {
       "start": 1516.76,
       "end": 1520.48,
-      "text": "I'm sure that Louise Rain is going to have a great time when she gets over there to South Africa."
+      "text": "I'm sure that Louise Rain is going to have a great time when she gets over there to South Africa.",
+      "source": "TV"
     },
     {
       "start": 1520.66,
       "end": 1521.42,
-      "text": "Probably there now."
+      "text": "Probably there now.",
+      "source": "uncertain"
     },
     {
       "start": 1521.74,
       "end": 1525.2,
-      "text": "But one thing she isn't going to hear is our second band on the program tonight."
+      "text": "But one thing she isn't going to hear is our second band on the program tonight.",
+      "source": "TV"
     },
     {
       "start": 1525.6,
       "end": 1529.14,
-      "text": "And that particular band is the amazing Driving Gillen."
+      "text": "And that particular band is the amazing Driving Gillen.",
+      "source": "TV"
     },
     {
       "start": 1529.14,
@@ -319,127 +350,152 @@
     {
       "start": 1841.43,
       "end": 1847.43,
-      "text": "In one of rock's greatest all-time classics, I'm Barry Manilow."
+      "text": "In one of rock's greatest all-time classics, I'm Barry Manilow.",
+      "source": "uncertain"
     },
     {
       "start": 3062.98,
       "end": 3066.02,
-      "text": "That, of course, was Gillen, as recorded at Reading last year."
+      "text": "That, of course, was Gillen, as recorded at Reading last year.",
+      "source": "TV"
     },
     {
       "start": 3066.02,
       "end": 3069.68,
-      "text": "Smoke on the Water, Vengeance, Mr. Universe, and Unchain Your Brain."
+      "text": "Smoke on the Water, Vengeance, Mr. Universe, and Unchain Your Brain.",
+      "source": "TV"
     },
     {
       "start": 3070.28,
       "end": 3073.16,
-      "text": "And just a few of the people who wanted to hear that particular set by Gillan,"
+      "text": "And just a few of the people who wanted to hear that particular set by Gillan,",
+      "source": "TV"
     },
     {
       "start": 3073.28,
       "end": 3074.12,
-      "text": "let me just mention them."
+      "text": "let me just mention them.",
+      "source": "uncertain"
     },
     {
       "start": 3074.66,
       "end": 3078.0,
-      "text": "Jean, who lives at Shortlands in Bromley, wants me to say hello to Sarah,"
+      "text": "Jean, who lives at Shortlands in Bromley, wants me to say hello to Sarah,",
+      "source": "TV"
     },
     {
       "start": 3078.12,
       "end": 3080.44,
-      "text": "who actually happens to be a Barry Manilow fan."
+      "text": "who actually happens to be a Barry Manilow fan.",
+      "source": "TV"
     },
     {
       "start": 3080.98,
       "end": 3085.44,
-      "text": "Helen Blair wants me to wish a very happy 13th birthday to Matthew Blair."
+      "text": "Helen Blair wants me to wish a very happy 13th birthday to Matthew Blair.",
+      "source": "TV"
     },
     {
       "start": 3085.88,
       "end": 3088.0,
-      "text": "The birthday's coming up on the 26th of February."
+      "text": "The birthday's coming up on the 26th of February.",
+      "source": "uncertain"
     },
     {
       "start": 3088.6,
       "end": 3092.02,
-      "text": "Ian Bishop, who lives in Oakdale, a block wood in Gwent,"
+      "text": "Ian Bishop, who lives in Oakdale, a block wood in Gwent,",
+      "source": "TV"
     },
     {
       "start": 3092.44,
       "end": 3095.72,
-      "text": "demands that I say hello to Martin and Deb and Phil and Fat Bartlett."
+      "text": "demands that I say hello to Martin and Deb and Phil and Fat Bartlett.",
+      "source": "TV"
     },
     {
       "start": 3095.72,
       "end": 3099.52,
-      "text": "and Ted and Wendy and Catherine and Andrew and Dottie"
+      "text": "and Ted and Wendy and Catherine and Andrew and Dottie",
+      "source": "TV"
     },
     {
       "start": 3099.52,
       "end": 3102.78,
-      "text": "and Horace and Haddon and Cheery and Danish."
+      "text": "and Horace and Haddon and Cheery and Danish.",
+      "source": "TV"
     },
     {
       "start": 3103.76,
       "end": 3105.56,
-      "text": "Got a little letter here from a gentleman"
+      "text": "Got a little letter here from a gentleman",
+      "source": "uncertain"
     },
     {
       "start": 3105.56,
       "end": 3107.74,
-      "text": "who normally is serving upon the British Respect,"
+      "text": "who normally is serving upon the British Respect,",
+      "source": "uncertain"
     },
     {
       "start": 3107.94,
       "end": 3109.0,
-      "text": "which is a BP tanker."
+      "text": "which is a BP tanker.",
+      "source": "uncertain"
     },
     {
       "start": 3109.42,
       "end": 3112.12,
-      "text": "He wanted me to say hello to lots of his mates over there in Belfast,"
+      "text": "He wanted me to say hello to lots of his mates over there in Belfast,",
+      "source": "uncertain"
     },
     {
       "start": 3112.18,
       "end": 3113.76,
-      "text": "all the people that go to the Pound Club,"
+      "text": "all the people that go to the Pound Club,",
+      "source": "uncertain"
     },
     {
       "start": 3114.14,
       "end": 3116.18,
-      "text": "most especially Steve Foreman and his bird, Pat,"
+      "text": "most especially Steve Foreman and his bird, Pat,",
+      "source": "uncertain"
     },
     {
       "start": 3116.24,
       "end": 3119.34,
-      "text": "and Ricky and George, and David and Billy and Bert,"
+      "text": "and Ricky and George, and David and Billy and Bert,",
+      "source": "TV"
     },
     {
       "start": 3119.44,
       "end": 3121.28,
-      "text": "not forgetting Shubbert and Betty."
+      "text": "not forgetting Shubbert and Betty.",
+      "source": "uncertain"
     },
     {
       "start": 3122.59,
       "end": 3124.91,
-      "text": "Finally, a letter here signed Richie Blackmore,"
+      "text": "Finally, a letter here signed Richie Blackmore,",
+      "source": "uncertain"
     },
     {
       "start": 3124.91,
       "end": 3129.15,
-      "text": "balamina northern ireland don't believe a word of it wanted me to say hello to glenn and ethnic"
+      "text": "balamina northern ireland don't believe a word of it wanted me to say hello to glenn and ethnic",
+      "source": "TV"
     },
     {
       "start": 3129.15,
       "end": 3136.79,
-      "text": "vortex roderick and also his dog you're listening to the friday rock show reading repeats part one"
+      "text": "vortex roderick and also his dog you're listening to the friday rock show reading repeats part one",
+      "source": "TV"
     },
     {
       "start": 3136.79,
       "end": 3145.79,
-      "text": "and now here's four good numbers by the band called samson thunderstake chris aylmer bruce"
+      "text": "and now here's four good numbers by the band called samson thunderstake chris aylmer bruce",
+      "source": "TV"
     },
     {
       "start": 3145.79,
@@ -450,47 +506,56 @@
     {
       "start": 4343.02,
       "end": 4347.12,
-      "text": "bruce and paul samson the band called samson four tracks there as recorded at reading last"
+      "text": "bruce and paul samson the band called samson four tracks there as recorded at reading last",
+      "source": "TV"
     },
     {
       "start": 4347.12,
       "end": 4352.48,
-      "text": "year hammerhead walking out on you vice versa and hard times talking about hard times just"
+      "text": "year hammerhead walking out on you vice versa and hard times talking about hard times just",
+      "source": "TV"
     },
     {
       "start": 4352.48,
       "end": 4356.26,
-      "text": "time for one letter here. This comes from a lady by the name of Maureen Lyons, who lives"
+      "text": "time for one letter here. This comes from a lady by the name of Maureen Lyons, who lives",
+      "source": "TV"
     },
     {
       "start": 4356.26,
       "end": 4361.36,
-      "text": "in Thornhill in Southampton. She wants me to say hello to a gentleman who is lost to"
+      "text": "in Thornhill in Southampton. She wants me to say hello to a gentleman who is lost to",
+      "source": "TV"
     },
     {
       "start": 4361.36,
       "end": 4365.58,
-      "text": "her every Friday night, and that's a gentleman by the name of Steve Graham, who lives in"
+      "text": "her every Friday night, and that's a gentleman by the name of Steve Graham, who lives in",
+      "source": "TV"
     },
     {
       "start": 4365.58,
       "end": 4370.84,
-      "text": "Grendon Underwood in Buckinghamshire. He had a birthday on the 17th. Today is Maureen's"
+      "text": "Grendon Underwood in Buckinghamshire. He had a birthday on the 17th. Today is Maureen's",
+      "source": "TV"
     },
     {
       "start": 4370.84,
       "end": 4374.92,
-      "text": "birthday, and he's not with her because he's listening to the Friday Rock Show, and I hope"
+      "text": "birthday, and he's not with her because he's listening to the Friday Rock Show, and I hope",
+      "source": "TV"
     },
     {
       "start": 4374.92,
       "end": 4379.36,
-      "text": "thoroughly enjoying it. I'll tell you something, Maureen, you can have him back actually after"
+      "text": "thoroughly enjoying it. I'll tell you something, Maureen, you can have him back actually after",
+      "source": "TV"
     },
     {
       "start": 4379.36,
       "end": 4390.16,
-      "text": "midnight but now here's magnum the album is called chase the dragon this song is called sacred hour"
+      "text": "midnight but now here's magnum the album is called chase the dragon this song is called sacred hour",
+      "source": "TV"
     },
     {
       "start": 4390.16,
@@ -501,37 +566,44 @@
     {
       "start": 4607.36,
       "end": 4640.69,
-      "text": "my mind for this black sacred hour is still i've been moved for so long by this strange"
+      "text": "my mind for this black sacred hour is still i've been moved for so long by this strange",
+      "source": "TV"
     },
     {
       "start": 4640.69,
       "end": 4648.27,
-      "text": "fascination here as i stand all alone in complete concentration"
+      "text": "fascination here as i stand all alone in complete concentration",
+      "source": "TV"
     },
     {
       "start": 4648.27,
       "end": 4651.27,
-      "text": "Nice to see you."
+      "text": "Nice to see you.",
+      "source": "uncertain"
     },
     {
       "start": 4878.42,
       "end": 4879.9,
-      "text": "We're going to play one of our oldest songs."
+      "text": "We're going to play one of our oldest songs.",
+      "source": "uncertain"
     },
     {
       "start": 4880.0,
       "end": 4882.8,
-      "text": "This is a song on a live EP we had out a few months back."
+      "text": "This is a song on a live EP we had out a few months back.",
+      "source": "uncertain"
     },
     {
       "start": 4883.58,
       "end": 4885.94,
-      "text": "This is called All of My Life."
+      "text": "This is called All of My Life.",
+      "source": "uncertain"
     },
     {
       "start": 4886.42,
       "end": 4893.02,
-      "text": "Kingdom of Madness, Invasion, All of My Life and Sacred Hour."
+      "text": "Kingdom of Madness, Invasion, All of My Life and Sacred Hour.",
+      "source": "uncertain"
     },
     {
       "start": 4893.02,
@@ -542,22 +614,26 @@
     {
       "start": 5791.63,
       "end": 5796.75,
-      "text": "Plus, of course, the first time that they played Changes, Magnum from last year's Reading Festival."
+      "text": "Plus, of course, the first time that they played Changes, Magnum from last year's Reading Festival.",
+      "source": "TV"
     },
     {
       "start": 5797.43,
       "end": 5808.97,
-      "text": "And we finished tonight's programme with one of the highlights of last year's festival."
+      "text": "And we finished tonight's programme with one of the highlights of last year's festival.",
+      "source": "TV"
     },
     {
       "start": 5809.29,
       "end": 5811.25,
-      "text": "It was announced like this."
+      "text": "It was announced like this.",
+      "source": "uncertain"
     },
     {
       "start": 5811.25,
       "end": 5823.25,
-      "text": "top that if you possibly can there you have the pat travis band boom boom out go the lights born"
+      "text": "top that if you possibly can there you have the pat travis band boom boom out go the lights born",
+      "source": "uncertain"
     },
     {
       "start": 5823.25,
@@ -568,72 +644,86 @@
     {
       "start": 7118.74,
       "end": 7125.86,
-      "text": "under a bad sign hooked on music and rock and roll suzy and that was our friday rock show reading"
+      "text": "under a bad sign hooked on music and rock and roll suzy and that was our friday rock show reading",
+      "source": "TV"
     },
     {
       "start": 7125.86,
       "end": 7130.54,
-      "text": "repeats part one i hope you enjoyed our bands tonight the pat travis band magnum samson gillan"
+      "text": "repeats part one i hope you enjoyed our bands tonight the pat travis band magnum samson gillan",
+      "source": "TV"
     },
     {
       "start": 7130.54,
       "end": 7136.8,
-      "text": "and iron maiden now following the time tone for midnight the 275 285 transmitters will be closing"
+      "text": "and iron maiden now following the time tone for midnight the 275 285 transmitters will be closing",
+      "source": "TV"
     },
     {
       "start": 7136.8,
       "end": 7141.22,
-      "text": "down till tomorrow morning a quick word here about our engineers who work hard on these sessions"
+      "text": "down till tomorrow morning a quick word here about our engineers who work hard on these sessions",
+      "source": "TV"
     },
     {
       "start": 7141.22,
       "end": 7142.1,
-      "text": "when we record them,"
+      "text": "when we record them,",
+      "source": "uncertain"
     },
     {
       "start": 7142.48,
       "end": 7145.12,
-      "text": "Ted DiBono, Mike Robinson and Dave Day."
+      "text": "Ted DiBono, Mike Robinson and Dave Day.",
+      "source": "uncertain"
     },
     {
       "start": 7145.88,
       "end": 7148.51,
-      "text": "This programme is produced by Tony Wilson."
+      "text": "This programme is produced by Tony Wilson.",
+      "source": "uncertain"
     },
     {
       "start": 7149.13,
       "end": 7150.53,
-      "text": "He refuses to talk tonight."
+      "text": "He refuses to talk tonight.",
+      "source": "uncertain"
     },
     {
       "start": 7150.93,
       "end": 7152.01,
-      "text": "He's getting stroppy."
+      "text": "He's getting stroppy.",
+      "source": "uncertain"
     },
     {
       "start": 7153.11,
       "end": 7156.79,
-      "text": "Next week, we'll have Slay, Def Leppard, Budgie, Krokus and Whitesnake"
+      "text": "Next week, we'll have Slay, Def Leppard, Budgie, Krokus and Whitesnake",
+      "source": "TV"
     },
     {
       "start": 7156.79,
       "end": 7159.11,
-      "text": "in our Friday Rock Show Reading Repeats Part 2."
+      "text": "in our Friday Rock Show Reading Repeats Part 2.",
+      "source": "uncertain"
     },
     {
       "start": 7159.53,
       "end": 7161.31,
-      "text": "This is TV on the Radio, Thomas the Vance,"
+      "text": "This is TV on the Radio, Thomas the Vance,",
+      "source": "uncertain"
     },
     {
       "start": 7161.41,
       "end": 7162.69,
-      "text": "getting off it till next week."
+      "text": "getting off it till next week.",
+      "source": "uncertain"
     },
     {
       "start": 7163.03,
       "end": 7164.81,
-      "text": "God bless, take care and good night."
+      "text": "God bless, take care and good night.",
+      "source": "uncertain"
     }
   ]
 }

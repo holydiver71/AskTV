@@ -90,32 +90,38 @@
     {
       "start": 1155.79,
       "end": 1159.79,
-      "text": "You've just heard them on the Friday Rock Show from BBC Radio 1."
+      "text": "You've just heard them on the Friday Rock Show from BBC Radio 1.",
+      "source": "uncertain"
     },
     {
       "start": 1159.79,
       "end": 1163.24,
-      "text": "I'll see you at Donington tomorrow. Make it a great day."
+      "text": "I'll see you at Donington tomorrow. Make it a great day.",
+      "source": "uncertain"
     },
     {
       "start": 1163.24,
       "end": 1166.24,
-      "text": "It's the greatest rock bill ever to appear in this country."
+      "text": "It's the greatest rock bill ever to appear in this country.",
+      "source": "uncertain"
     },
     {
       "start": 1166.24,
       "end": 1169.24,
-      "text": "And it's going to be a pleasure to be there."
+      "text": "And it's going to be a pleasure to be there.",
+      "source": "uncertain"
     },
     {
       "start": 1169.24,
       "end": 1171.62,
-      "text": "The Friday Rock Show is a Tony Wilson production."
+      "text": "The Friday Rock Show is a Tony Wilson production.",
+      "source": "uncertain"
     },
     {
       "start": 1171.62,
       "end": 1174.62,
-      "text": "I'm Tommy Vance on behalf of everybody on the music side of Radio 1."
+      "text": "I'm Tommy Vance on behalf of everybody on the music side of Radio 1.",
+      "source": "uncertain"
     }
   ]
 }

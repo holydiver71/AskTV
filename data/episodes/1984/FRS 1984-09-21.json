@@ -131,27 +131,32 @@
     {
       "start": 1.01,
       "end": 9.51,
-      "text": "After this, after 10, the Friday Rock Show from BBC Radio 1. Welcome to listeners who've now joined us, listening in stereo on VHF FM. How are you?"
+      "text": "After this, after 10, the Friday Rock Show from BBC Radio 1. Welcome to listeners who've now joined us, listening in stereo on VHF FM. How are you?",
+      "source": "TV"
     },
     {
       "start": 9.51,
       "end": 18.01,
-      "text": "We have music by Crocus and IQ, Blackfoot, Zebra, Voivod, also Wildlife and others from records, a few nice oldies as well."
+      "text": "We have music by Crocus and IQ, Blackfoot, Zebra, Voivod, also Wildlife and others from records, a few nice oldies as well.",
+      "source": "TV"
     },
     {
       "start": 18.01,
       "end": 24.01,
-      "text": "We repeat our session by the Scots band Garrison. We've got the Friday Night Connection, a new one, and the answer to the one we set about a fortnight ago."
+      "text": "We repeat our session by the Scots band Garrison. We've got the Friday Night Connection, a new one, and the answer to the one we set about a fortnight ago.",
+      "source": "TV"
     },
     {
       "start": 24.01,
       "end": 26.01,
-      "text": "But we start with a kiss."
+      "text": "But we start with a kiss.",
+      "source": "uncertain"
     },
     {
       "start": 26.01,
       "end": 36.21,
-      "text": "a lost in hollywood the album down to earth requested by a lady called sue reynolds of"
+      "text": "a lost in hollywood the album down to earth requested by a lady called sue reynolds of",
+      "source": "uncertain"
     },
     {
       "start": 36.21,
@@ -168,82 +173,98 @@
     {
       "start": 557.03,
       "end": 561.79,
-      "text": "skelmersdale in lancashire she says will you please tell my crab that i think he's the best"
+      "text": "skelmersdale in lancashire she says will you please tell my crab that i think he's the best",
+      "source": "TV"
     },
     {
       "start": 561.79,
       "end": 570.09,
-      "text": "the very very best and say it's from his one and only scorpion before that you heard something"
+      "text": "the very very best and say it's from his one and only scorpion before that you heard something",
+      "source": "TV"
     },
     {
       "start": 570.09,
       "end": 574.57,
-      "text": "from the new album by kiss the album is called animal eyes it's out on vertigo the track was"
+      "text": "from the new album by kiss the album is called animal eyes it's out on vertigo the track was",
+      "source": "TV"
     },
     {
       "start": 574.57,
       "end": 580.75,
-      "text": "i've had enough into the fire provided a pair of tickets for october the 15th to go deaf again"
+      "text": "i've had enough into the fire provided a pair of tickets for october the 15th to go deaf again",
+      "source": "TV"
     },
     {
       "start": 581.29,
       "end": 582.07,
-      "text": "Listening to Kiss."
+      "text": "Listening to Kiss.",
+      "source": "uncertain"
     },
     {
       "start": 584.31,
       "end": 589.21,
-      "text": "Little mention here from Kevin Balfour, or Balfour, possibly, of Oswestry in Shropshire."
+      "text": "Little mention here from Kevin Balfour, or Balfour, possibly, of Oswestry in Shropshire.",
+      "source": "TV"
     },
     {
       "start": 589.63,
       "end": 593.03,
-      "text": "Hello to all his friends in Oswestry, including his next-door neighbor, Julie Martin."
+      "text": "Hello to all his friends in Oswestry, including his next-door neighbor, Julie Martin.",
+      "source": "uncertain"
     },
     {
       "start": 595.23,
       "end": 597.83,
-      "text": "John Page of Tedburns and Mary in Devon."
+      "text": "John Page of Tedburns and Mary in Devon.",
+      "source": "TV"
     },
     {
       "start": 598.41,
       "end": 604.11,
-      "text": "Demands a mention for the computer room rockers of L&M, especially Wally and Wurzel."
+      "text": "Demands a mention for the computer room rockers of L&M, especially Wally and Wurzel.",
+      "source": "TV"
     },
     {
       "start": 604.57,
       "end": 607.03,
-      "text": "Wurzel, good name for a guitarist. Get him to join Motorhead."
+      "text": "Wurzel, good name for a guitarist. Get him to join Motorhead.",
+      "source": "uncertain"
     },
     {
       "start": 607.49,
       "end": 610.41,
-      "text": "Angus, Rat, Huge and Sherby, and everybody else as well."
+      "text": "Angus, Rat, Huge and Sherby, and everybody else as well.",
+      "source": "TV"
     },
     {
       "start": 610.41,
       "end": 615.47,
-      "text": "any of his old cronies in the computer department have a certain big mail order company he says he"
+      "text": "any of his old cronies in the computer department have a certain big mail order company he says he",
+      "source": "TV"
     },
     {
       "start": 615.47,
       "end": 621.89,
-      "text": "shall miss you hello to brothers reg and phil and norton riders everywhere hello to baldy durton"
+      "text": "shall miss you hello to brothers reg and phil and norton riders everywhere hello to baldy durton",
+      "source": "TV"
     },
     {
       "start": 621.89,
       "end": 628.93,
-      "text": "peter the dwarf dave hippie brown the snake web the kiss freak ian shaw say no more and john get"
+      "text": "peter the dwarf dave hippie brown the snake web the kiss freak ian shaw say no more and john get",
+      "source": "TV"
     },
     {
       "start": 628.93,
       "end": 641.02,
-      "text": "your haircut ghana from the qeg's heavy crew and the rest of the kiss army 10 13 meatloaf"
+      "text": "your haircut ghana from the qeg's heavy crew and the rest of the kiss army 10 13 meatloaf",
+      "source": "TV"
     },
     {
       "start": 641.02,
       "end": 650.62,
-      "text": "was crocus it was called midnight maniac it's from their latest album called the blitz which"
+      "text": "was crocus it was called midnight maniac it's from their latest album called the blitz which",
+      "source": "uncertain"
     },
     {
       "start": 900.0,
@@ -254,62 +275,74 @@
     {
       "start": 1152.42,
       "end": 1157.82,
-      "text": "is out on arista before that the new single by meatloaf it's out on the arista record label as"
+      "text": "is out on arista before that the new single by meatloaf it's out on the arista record label as",
+      "source": "TV"
     },
     {
       "start": 1157.82,
       "end": 1166.41,
-      "text": "well track is called modern girl meatloaf well back on course co-producing himself these days"
+      "text": "well track is called modern girl meatloaf well back on course co-producing himself these days",
+      "source": "TV"
     },
     {
       "start": 1166.41,
       "end": 1172.42,
-      "text": "knows exactly what he's doing a lot better than the last album that single 22 minutes past 10"
+      "text": "knows exactly what he's doing a lot better than the last album that single 22 minutes past 10",
+      "source": "TV"
     },
     {
       "start": 1172.42,
       "end": 1177.08,
-      "text": "i've got a little photograph here of what is it the children playing firecrackers during the"
+      "text": "i've got a little photograph here of what is it the children playing firecrackers during the",
+      "source": "uncertain"
     },
     {
       "start": 1177.08,
       "end": 1179.9,
-      "text": "Chinese New Year, New Territories, Hong Kong."
+      "text": "Chinese New Year, New Territories, Hong Kong.",
+      "source": "uncertain"
     },
     {
       "start": 1182.06,
       "end": 1184.11,
-      "text": "It's from Rich Chapman."
+      "text": "It's from Rich Chapman.",
+      "source": "uncertain"
     },
     {
       "start": 1184.51,
       "end": 1188.39,
-      "text": "He says, as it is my 17th birthday on Friday, September 21st,"
+      "text": "He says, as it is my 17th birthday on Friday, September 21st,",
+      "source": "uncertain"
     },
     {
       "start": 1188.43,
       "end": 1193.19,
-      "text": "would you say a big hello on the rock show to Dave and Max and John and Ali and Belis and Perto"
+      "text": "would you say a big hello on the rock show to Dave and Max and John and Ali and Belis and Perto",
+      "source": "TV"
     },
     {
       "start": 1193.19,
       "end": 1196.87,
-      "text": "and everybody else in the Lower Sixth at Lutterworth Grammar School"
+      "text": "and everybody else in the Lower Sixth at Lutterworth Grammar School",
+      "source": "TV"
     },
     {
       "start": 1196.87,
       "end": 1200.55,
-      "text": "and also everybody who was at Donington 1984."
+      "text": "and also everybody who was at Donington 1984.",
+      "source": "TV"
     },
     {
       "start": 1201.69,
       "end": 1203.67,
-      "text": "Rich Chapman, happy birthday."
+      "text": "Rich Chapman, happy birthday.",
+      "source": "uncertain"
     },
     {
       "start": 1205.07,
       "end": 1209.27,
-      "text": "It's from the album out by IQ."
+      "text": "It's from the album out by IQ.",
+      "source": "uncertain"
     },
     {
       "start": 1209.27,
@@ -326,82 +359,98 @@
     {
       "start": 2013.7,
       "end": 2015.94,
-      "text": "It's out on the major record company label."
+      "text": "It's out on the major record company label.",
+      "source": "uncertain"
     },
     {
       "start": 2016.3,
       "end": 2018.5,
-      "text": "Tales from the Lush Attic is its title."
+      "text": "Tales from the Lush Attic is its title.",
+      "source": "uncertain"
     },
     {
       "start": 2019.36,
       "end": 2026.09,
-      "text": "And it was for Mr. Billy Darby, who lives in Franklin in Birmingham,"
+      "text": "And it was for Mr. Billy Darby, who lives in Franklin in Birmingham,",
+      "source": "TV"
     },
     {
       "start": 2026.27,
       "end": 2026.97,
-      "text": "who asked the question,"
+      "text": "who asked the question,",
+      "source": "uncertain"
     },
     {
       "start": 2027.07,
       "end": 2029.83,
-      "text": "has there got anything out other than Tales of the Lush Attic?"
+      "text": "has there got anything out other than Tales of the Lush Attic?",
+      "source": "TV"
     },
     {
       "start": 2029.89,
       "end": 2031.01,
-      "text": "I don't believe so."
+      "text": "I don't believe so.",
+      "source": "uncertain"
     },
     {
       "start": 2031.15,
       "end": 2035.15,
-      "text": "Not as far as I know, other than the 12-inch version of Awaken Nervous."
+      "text": "Not as far as I know, other than the 12-inch version of Awaken Nervous.",
+      "source": "TV"
     },
     {
       "start": 2037.57,
       "end": 2041.13,
-      "text": "Oh, Billy wants me to say hello to Shergar and Wasley."
+      "text": "Oh, Billy wants me to say hello to Shergar and Wasley.",
+      "source": "TV"
     },
     {
       "start": 2041.35,
       "end": 2043.25,
-      "text": "Hello, Shergar. Hello, Wasley."
+      "text": "Hello, Shergar. Hello, Wasley.",
+      "source": "uncertain"
     },
     {
       "start": 2044.56,
       "end": 2046.8,
-      "text": "Anthrax the Green has sent me two letters here."
+      "text": "Anthrax the Green has sent me two letters here.",
+      "source": "TV"
     },
     {
       "start": 2046.8,
       "end": 2057.0,
-      "text": "One of them from the isolation ward, the asylum for incurable rockers, Tunbridge Wells in Kent, and the other one from the BBC canteen broadcasting us in London."
+      "text": "One of them from the isolation ward, the asylum for incurable rockers, Tunbridge Wells in Kent, and the other one from the BBC canteen broadcasting us in London.",
+      "source": "TV"
     },
     {
       "start": 2058.07,
       "end": 2059.63,
-      "text": "Either way, all the dedications are the same."
+      "text": "Either way, all the dedications are the same.",
+      "source": "uncertain"
     },
     {
       "start": 2059.73,
       "end": 2070.39,
-      "text": "Hello to Trev, the Bishop of Dimness, Schizoid Steve, the Cosmic Mushroom, Vlad the Impaler, and Al from Anthrax, The Green."
+      "text": "Hello to Trev, the Bishop of Dimness, Schizoid Steve, the Cosmic Mushroom, Vlad the Impaler, and Al from Anthrax, The Green.",
+      "source": "TV"
     },
     {
       "start": 2071.52,
       "end": 2074.3,
-      "text": "And before that, you heard Garrison from our repeat session by them."
+      "text": "And before that, you heard Garrison from our repeat session by them.",
+      "source": "uncertain"
     },
     {
       "start": 2074.72,
       "end": 2075.88,
-      "text": "The track was The First Time."
+      "text": "The track was The First Time.",
+      "source": "uncertain"
     },
     {
       "start": 2075.88,
       "end": 2081.8,
-      "text": "Blackfoot from their new single, ah, their new album."
+      "text": "Blackfoot from their new single, ah, their new album.",
+      "source": "TV"
     },
     {
       "start": 2081.8,
@@ -418,77 +467,92 @@
     {
       "start": 2780.49,
       "end": 2783.73,
-      "text": "You might quite rightly argue that that is not a rock record,"
+      "text": "You might quite rightly argue that that is not a rock record,",
+      "source": "uncertain"
     },
     {
       "start": 2783.85,
       "end": 2786.43,
-      "text": "but I play it because I have great admiration for that man,"
+      "text": "but I play it because I have great admiration for that man,",
+      "source": "uncertain"
     },
     {
       "start": 2786.51,
       "end": 2789.47,
-      "text": "the way he is mixing rock and dance music together."
+      "text": "the way he is mixing rock and dance music together.",
+      "source": "TV"
     },
     {
       "start": 2789.69,
       "end": 2794.69,
-      "text": "Billy Idol, that is the 12-inch version of his latest single called Fleshed for Fantasy."
+      "text": "Billy Idol, that is the 12-inch version of his latest single called Fleshed for Fantasy.",
+      "source": "TV"
     },
     {
       "start": 2794.69,
       "end": 2799.64,
-      "text": "It is very, very different to the 7-inch version,"
+      "text": "It is very, very different to the 7-inch version,",
+      "source": "TV"
     },
     {
       "start": 2799.76,
       "end": 2801.78,
-      "text": "so if you like it, get only the 12-inch version."
+      "text": "so if you like it, get only the 12-inch version.",
+      "source": "uncertain"
     },
     {
       "start": 2802.3,
       "end": 2807.13,
-      "text": "And before that, you heard something from the brand new album by Blackfoot."
+      "text": "And before that, you heard something from the brand new album by Blackfoot.",
+      "source": "TV"
     },
     {
       "start": 2807.13,
       "end": 2809.59,
-      "text": "It's out on the Atco record label in the United Kingdom."
+      "text": "It's out on the Atco record label in the United Kingdom.",
+      "source": "uncertain"
     },
     {
       "start": 2810.17,
       "end": 2812.53,
-      "text": "The album is called Vertical Smiles."
+      "text": "The album is called Vertical Smiles.",
+      "source": "uncertain"
     },
     {
       "start": 2812.83,
       "end": 2814.39,
-      "text": "The track is entitled Get It On."
+      "text": "The track is entitled Get It On.",
+      "source": "uncertain"
     },
     {
       "start": 2816.12,
       "end": 2820.86,
-      "text": "And I think I've worked out, looking at the sleeve, why it is called Vertical Smiles."
+      "text": "And I think I've worked out, looking at the sleeve, why it is called Vertical Smiles.",
+      "source": "TV"
     },
     {
       "start": 2822.1,
       "end": 2825.29,
-      "text": "If that is the case, then it's very clever."
+      "text": "If that is the case, then it's very clever.",
+      "source": "TV"
     },
     {
       "start": 2825.95,
       "end": 2826.95,
-      "text": "Very clever indeed."
+      "text": "Very clever indeed.",
+      "source": "uncertain"
     },
     {
       "start": 2827.17,
       "end": 2829.61,
-      "text": "And it's about something that I hold dear."
+      "text": "And it's about something that I hold dear.",
+      "source": "uncertain"
     },
     {
       "start": 2829.73,
       "end": 2831.87,
-      "text": "Coming soon to Radio 1."
+      "text": "Coming soon to Radio 1.",
+      "source": "TV"
     },
     {
       "start": 2831.87,
@@ -499,67 +563,80 @@
     {
       "start": 3346.62,
       "end": 3347.3,
-      "text": "Nice bit of boogie."
+      "text": "Nice bit of boogie.",
+      "source": "uncertain"
     },
     {
       "start": 3347.46,
       "end": 3348.44,
-      "text": "They are called Zebra."
+      "text": "They are called Zebra.",
+      "source": "uncertain"
     },
     {
       "start": 3348.56,
       "end": 3352.06,
-      "text": "It's a track from an album out on the Atlantic record label here in the United Kingdom."
+      "text": "It's a track from an album out on the Atlantic record label here in the United Kingdom.",
+      "source": "TV"
     },
     {
       "start": 3352.54,
       "end": 3354.36,
-      "text": "The album is called No Telling Lies."
+      "text": "The album is called No Telling Lies.",
+      "source": "uncertain"
     },
     {
       "start": 3354.46,
       "end": 3356.9,
-      "text": "The track was entitled I Don't Care, put together in America."
+      "text": "The track was entitled I Don't Care, put together in America.",
+      "source": "uncertain"
     },
     {
       "start": 3357.04,
       "end": 3359.32,
-      "text": "Before that, from the Metal Blade record label,"
+      "text": "Before that, from the Metal Blade record label,",
+      "source": "uncertain"
     },
     {
       "start": 3359.84,
       "end": 3362.6,
-      "text": "a band who are out of Canada, actually I think out of Quebec."
+      "text": "a band who are out of Canada, actually I think out of Quebec.",
+      "source": "uncertain"
     },
     {
       "start": 3363.06,
       "end": 3366.56,
-      "text": "They're called Voivod, spelled V-O-I-V-O-D."
+      "text": "They're called Voivod, spelled V-O-I-V-O-D.",
+      "source": "TV"
     },
     {
       "start": 3367.04,
       "end": 3369.52,
-      "text": "The album is entitled War and Pain,"
+      "text": "The album is entitled War and Pain,",
+      "source": "uncertain"
     },
     {
       "start": 3370.02,
       "end": 3372.18,
-      "text": "and the track was called Warriors of Ice."
+      "text": "and the track was called Warriors of Ice.",
+      "source": "uncertain"
     },
     {
       "start": 3372.18,
       "end": 3376.06,
-      "text": "Motorhead meets Venom and turns out to be Voivod."
+      "text": "Motorhead meets Venom and turns out to be Voivod.",
+      "source": "uncertain"
     },
     {
       "start": 3376.24,
       "end": 3377.58,
-      "text": "It is two minutes now to eleven."
+      "text": "It is two minutes now to eleven.",
+      "source": "uncertain"
     },
     {
       "start": 3377.82,
       "end": 3380.7,
-      "text": "This is Garrison from our session by them, On The Run."
+      "text": "This is Garrison from our session by them, On The Run.",
+      "source": "TV"
     }
   ]
 }

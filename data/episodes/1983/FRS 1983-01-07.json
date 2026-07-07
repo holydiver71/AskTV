@@ -21,237 +21,284 @@
     {
       "start": 1.42,
       "end": 8.42,
-      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1."
+      "text": "On 275 and 285, also in stereo on VHF, this is National Radio 1.",
+      "source": "TV"
     },
     {
       "start": 8.42,
       "end": 24.44,
-      "text": "This is TV on the radio here, Thomas the Vance, and welcome to the Friday Rock Show."
+      "text": "This is TV on the radio here, Thomas the Vance, and welcome to the Friday Rock Show.",
+      "source": "TV"
     },
     {
       "start": 24.44,
       "end": 29.95,
-      "text": "Tonight, in the first Friday Rock Show of 1983, we repeat a major event of last year."
+      "text": "Tonight, in the first Friday Rock Show of 1983, we repeat a major event of last year.",
+      "source": "TV"
     },
     {
       "start": 29.95,
       "end": 35.95,
-      "text": "The first ever Royal Rock Show held at the NAC in Birmingham before His Royal Highness Prince Charles."
+      "text": "The first ever Royal Rock Show held at the NAC in Birmingham before His Royal Highness Prince Charles.",
+      "source": "TV"
     },
     {
       "start": 73.74,
       "end": 78.06,
-      "text": "I don't know whether you read about it in the in the press or indeed saw it on television"
+      "text": "I don't know whether you read about it in the in the press or indeed saw it on television",
+      "source": "uncertain"
     },
     {
       "start": 78.06,
       "end": 84.9,
-      "text": "But in the NEC, that's the National Exhibition Center in Birmingham within the arena known as the Birmingham International Arena"
+      "text": "But in the NEC, that's the National Exhibition Center in Birmingham within the arena known as the Birmingham International Arena",
+      "source": "TV"
     },
     {
       "start": 84.9,
       "end": 91.32,
-      "text": "There was a magnificent event in rock. It was status quos 20th anniversary concert"
+      "text": "There was a magnificent event in rock. It was status quos 20th anniversary concert",
+      "source": "uncertain"
     },
     {
       "start": 91.46,
       "end": 93.96,
-      "text": "The whole thing was put together for charity"
+      "text": "The whole thing was put together for charity",
+      "source": "uncertain"
     },
     {
       "start": 93.96,
       "end": 98.76,
-      "text": "It was to put together for the Prince's trust, which is a trust has been developed to help"
+      "text": "It was to put together for the Prince's trust, which is a trust has been developed to help",
+      "source": "uncertain"
     },
     {
       "start": 99.44,
       "end": 102.3,
-      "text": "disadvantaged and underprivileged kids in our country"
+      "text": "disadvantaged and underprivileged kids in our country",
+      "source": "uncertain"
     },
     {
       "start": 103.02,
       "end": 105.78,
-      "text": "I'd just like to say that, in my estimation,"
+      "text": "I'd just like to say that, in my estimation,",
+      "source": "uncertain"
     },
     {
       "start": 105.92,
       "end": 108.34,
-      "text": "it was probably the greatest event I'd ever been to."
+      "text": "it was probably the greatest event I'd ever been to.",
+      "source": "uncertain"
     },
     {
       "start": 108.54,
       "end": 112.62,
-      "text": "The music was good, the atmosphere was absolutely electric."
+      "text": "The music was good, the atmosphere was absolutely electric.",
+      "source": "uncertain"
     },
     {
       "start": 113.22,
       "end": 117.2,
-      "text": "To see 11,500 members of the Crow Army"
+      "text": "To see 11,500 members of the Crow Army",
+      "source": "uncertain"
     },
     {
       "start": 117.2,
       "end": 121.34,
-      "text": "all standing on their seats to welcome Prince Charles into the arena"
+      "text": "all standing on their seats to welcome Prince Charles into the arena",
+      "source": "uncertain"
     },
     {
       "start": 121.34,
       "end": 123.58,
-      "text": "and all shouting Charlie"
+      "text": "and all shouting Charlie",
+      "source": "TV"
     },
     {
       "start": 123.58,
       "end": 128.8,
-      "text": "gave me one of the biggest buzzes I think I've ever, ever experienced."
+      "text": "gave me one of the biggest buzzes I think I've ever, ever experienced.",
+      "source": "TV"
     },
     {
       "start": 190.2,
       "end": 193.98,
-      "text": "And that was how it sounded within the Birmingham International Arena."
+      "text": "And that was how it sounded within the Birmingham International Arena.",
+      "source": "TV"
     },
     {
       "start": 194.7,
       "end": 198.62,
-      "text": "Now, Prince Charles and the Palace gave permission for the national anthem"
+      "text": "Now, Prince Charles and the Palace gave permission for the national anthem",
+      "source": "TV"
     },
     {
       "start": 198.62,
       "end": 201.84,
-      "text": "to be played by the band who were going to hit the stage."
+      "text": "to be played by the band who were going to hit the stage.",
+      "source": "TV"
     },
     {
       "start": 202.28,
       "end": 206.2,
-      "text": "This is Status Quo with our very own national anthem."
+      "text": "This is Status Quo with our very own national anthem.",
+      "source": "TV"
     },
     {
       "start": 207.91,
       "end": 210.91,
-      "text": "Just suppose an album again."
+      "text": "Just suppose an album again.",
+      "source": "uncertain"
     },
     {
       "start": 2513.5,
       "end": 2513.62,
-      "text": "Hello."
+      "text": "Hello.",
+      "source": "uncertain"
     },
     {
       "start": 2514.35,
       "end": 2522.15,
-      "text": "I know you're a bit shocked that Don't Waste My Time came early,"
+      "text": "I know you're a bit shocked that Don't Waste My Time came early,",
+      "source": "uncertain"
     },
     {
       "start": 3050.24,
       "end": 3052.39,
-      "text": "but it's more of a shock."
+      "text": "but it's more of a shock.",
+      "source": "uncertain"
     },
     {
       "start": 3052.39,
       "end": 3053.37,
-      "text": "So now it's singing time."
+      "text": "So now it's singing time.",
+      "source": "uncertain"
     },
     {
       "start": 3053.45,
       "end": 3054.53,
-      "text": "Anybody into it or what?"
+      "text": "Anybody into it or what?",
+      "source": "uncertain"
     },
     {
       "start": 3054.79,
       "end": 3060.84,
-      "text": "Everybody's going to offer a break."
+      "text": "Everybody's going to offer a break.",
+      "source": "TV"
     },
     {
       "start": 3063.29,
       "end": 3064.21,
-      "text": "So we try out then."
+      "text": "So we try out then.",
+      "source": "uncertain"
     },
     {
       "start": 3064.79,
       "end": 3067.68,
-      "text": "He said smiling sweetly at the crowd."
+      "text": "He said smiling sweetly at the crowd.",
+      "source": "uncertain"
     },
     {
       "start": 3078.73,
       "end": 3081.73,
-      "text": "There's some stragglers at the front here, so the people at the back and the sides,"
+      "text": "There's some stragglers at the front here, so the people at the back and the sides,",
+      "source": "uncertain"
     },
     {
       "start": 3082.43,
       "end": 3083.93,
-      "text": "do you see me move to a gushto now?"
+      "text": "do you see me move to a gushto now?",
+      "source": "uncertain"
     },
     {
       "start": 3085.82,
       "end": 3086.14,
-      "text": "Whoa!"
+      "text": "Whoa!",
+      "source": "uncertain"
     },
     {
       "start": 3086.88,
       "end": 3096.32,
-      "text": "We'll give him one more chance and see if we get a good..."
+      "text": "We'll give him one more chance and see if we get a good...",
+      "source": "uncertain"
     },
     {
       "start": 3130.56,
       "end": 3138.96,
-      "text": "It was also watched by countless thousands of people around the world on television."
+      "text": "It was also watched by countless thousands of people around the world on television.",
+      "source": "uncertain"
     },
     {
       "start": 6975.14,
       "end": 6976.54,
-      "text": "The numbers that you heard were"
+      "text": "The numbers that you heard were",
+      "source": "uncertain"
     },
     {
       "start": 6976.54,
       "end": 6982.24,
-      "text": "Bye Bye Johnny, Down Down, Rain, Roadhouse Blues, Big Fat Mama,"
+      "text": "Bye Bye Johnny, Down Down, Rain, Roadhouse Blues, Big Fat Mama,",
+      "source": "uncertain"
     },
     {
       "start": 6982.24,
       "end": 6998.8,
-      "text": "4,500 times, Dirty Water, Don't Waste My Time, Over the Edge, Rockin' All Over the World, Hold Your Back, Whatever You Want, Don't Drive My Car, Little Lady, Backwater, Roll Over Lay Down, and Caroline."
+      "text": "4,500 times, Dirty Water, Don't Waste My Time, Over the Edge, Rockin' All Over the World, Hold Your Back, Whatever You Want, Don't Drive My Car, Little Lady, Backwater, Roll Over Lay Down, and Caroline.",
+      "source": "TV"
     },
     {
       "start": 6999.28,
       "end": 7009.32,
-      "text": "And of course the band are Francis Rossi on vocals and guitars, Alan Lancaster on vocals and bass guitar, Rick Parfitt on lead guitar and rhythm guitar, he also does vocals too."
+      "text": "And of course the band are Francis Rossi on vocals and guitars, Alan Lancaster on vocals and bass guitar, Rick Parfitt on lead guitar and rhythm guitar, he also does vocals too.",
+      "source": "TV"
     },
     {
       "start": 7009.76,
       "end": 7012.24,
-      "text": "Andy Bowne on the keyboards, he's a vocalist as well,"
+      "text": "Andy Bowne on the keyboards, he's a vocalist as well,",
+      "source": "uncertain"
     },
     {
       "start": 7012.6,
       "end": 7015.76,
-      "text": "and the drummer was the gentleman by the name of Pete Kershaw."
+      "text": "and the drummer was the gentleman by the name of Pete Kershaw.",
+      "source": "TV"
     },
     {
       "start": 7016.08,
       "end": 7018.92,
-      "text": "An exciting event, it really, really was."
+      "text": "An exciting event, it really, really was.",
+      "source": "uncertain"
     },
     {
       "start": 7019.38,
       "end": 7024.14,
-      "text": "And I must say that it raised something in excess of £50,000"
+      "text": "And I must say that it raised something in excess of £50,000",
+      "source": "TV"
     },
     {
       "start": 7024.14,
       "end": 7028.36,
-      "text": "for the Prince's Trust, going to go to help young people here in our country."
+      "text": "for the Prince's Trust, going to go to help young people here in our country.",
+      "source": "TV"
     },
     {
       "start": 7029.42,
       "end": 7031.84,
-      "text": "And that's it for this edition of the Friday Rock Show."
+      "text": "And that's it for this edition of the Friday Rock Show.",
+      "source": "uncertain"
     },
     {
       "start": 7031.84,
       "end": 7034.9,
-      "text": "Next week, we are back to our normal pattern."
+      "text": "Next week, we are back to our normal pattern.",
+      "source": "TV"
     },
     {
       "start": 7035.9,
       "end": 7038.98,
-      "text": "We'll have the first ever session by a group from Bristol, they're called Shiva."
+      "text": "We'll have the first ever session by a group from Bristol, they're called Shiva.",
+      "source": "uncertain"
     }
   ]
 }

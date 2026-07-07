@@ -12,62 +12,74 @@
     {
       "start": 1701.81,
       "end": 1705.13,
-      "text": "This is Mrs. Redding. Fine, thank you, yes."
+      "text": "This is Mrs. Redding. Fine, thank you, yes.",
+      "source": "uncertain"
     },
     {
       "start": 1705.13,
       "end": 1715.1,
-      "text": "This next one is the cross between Mazzavani and Weather Report."
+      "text": "This next one is the cross between Mazzavani and Weather Report.",
+      "source": "uncertain"
     },
     {
       "start": 1715.1,
       "end": 1720.62,
-      "text": "This one's from Spoken Morning's album."
+      "text": "This one's from Spoken Morning's album.",
+      "source": "uncertain"
     },
     {
       "start": 1720.62,
       "end": 1723.62,
-      "text": "This is called Every Day."
+      "text": "This is called Every Day.",
+      "source": "uncertain"
     },
     {
       "start": 2149.89,
       "end": 2152.71,
-      "text": "Every Day."
+      "text": "Every Day.",
+      "source": "uncertain"
     },
     {
       "start": 2152.71,
       "end": 2156.45,
-      "text": "And now we're going to try something from an older album."
+      "text": "And now we're going to try something from an older album.",
+      "source": "uncertain"
     },
     {
       "start": 2156.45,
       "end": 2162.16,
-      "text": "This one's from Voyage of the Acolyte."
+      "text": "This one's from Voyage of the Acolyte.",
+      "source": "uncertain"
     },
     {
       "start": 2162.16,
       "end": 2169.96,
-      "text": "It was called by myself and Nick Magnus, the keyboard player up here."
+      "text": "It was called by myself and Nick Magnus, the keyboard player up here.",
+      "source": "TV"
     },
     {
       "start": 2580.5,
       "end": 2589.23,
-      "text": "This one was written in sunny downtown Dulles Hill, just a little away from Neasden."
+      "text": "This one was written in sunny downtown Dulles Hill, just a little away from Neasden.",
+      "source": "uncertain"
     },
     {
       "start": 2589.23,
       "end": 2594.52,
-      "text": "And this one, something you cured, it's called Funny Feeling."
+      "text": "And this one, something you cured, it's called Funny Feeling.",
+      "source": "uncertain"
     },
     {
       "start": 2594.52,
       "end": 2597.52,
-      "text": "Tower struck down."
+      "text": "Tower struck down.",
+      "source": "uncertain"
     },
     {
       "start": 4126.22,
       "end": 4128.22,
-      "text": "His chest crunked."
+      "text": "His chest crunked.",
+      "source": "uncertain"
     }
   ]
 }

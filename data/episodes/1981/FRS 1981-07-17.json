@@ -100,7 +100,8 @@
     {
       "start": 1.23,
       "end": 20.43,
-      "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren. This is Tommy Vance on Radio 1."
+      "text": "The Friday Rock Show with Tommy Vance. Featuring sessions and tracks from artists including AC, Motörhead, Syd Barrett, Frank Zappa, Bad Company, Pretenders, Todd Rundgren. This is Tommy Vance on Radio 1.",
+      "source": "TV"
     },
     {
       "start": 540.0,
@@ -123,87 +124,104 @@
     {
       "start": 3416.48,
       "end": 3420.4,
-      "text": "Also Tim, that's Tim Barker"
+      "text": "Also Tim, that's Tim Barker",
+      "source": "TV"
     },
     {
       "start": 3420.4,
       "end": 3422.82,
-      "text": "of [redacted address], Brompton, Gillingham and Kent"
+      "text": "of [redacted address], Brompton, Gillingham and Kent",
+      "source": "TV"
     },
     {
       "start": 3422.82,
       "end": 3425.32,
-      "text": "says, play that record for Pez"
+      "text": "says, play that record for Pez",
+      "source": "TV"
     },
     {
       "start": 3425.32,
       "end": 3427.74,
-      "text": "and Ian and Nick and Ivy and Gem and Mike"
+      "text": "and Ian and Nick and Ivy and Gem and Mike",
+      "source": "TV"
     },
     {
       "start": 3427.74,
       "end": 3429.8,
-      "text": "and everybody else who likes it"
+      "text": "and everybody else who likes it",
+      "source": "uncertain"
     },
     {
       "start": 3429.8,
       "end": 3436.07,
-      "text": "Oh, that's also for Carol of Derbyshire"
+      "text": "Oh, that's also for Carol of Derbyshire",
+      "source": "TV"
     },
     {
       "start": 3436.07,
       "end": 3439.08,
-      "text": "from Lowry of Stockport"
+      "text": "from Lowry of Stockport",
+      "source": "TV"
     },
     {
       "start": 3439.08,
       "end": 3442.1,
-      "text": "wishing her a very happy 21st birthday"
+      "text": "wishing her a very happy 21st birthday",
+      "source": "TV"
     },
     {
       "start": 3442.1,
       "end": 3443.02,
-      "text": "which is coming soon"
+      "text": "which is coming soon",
+      "source": "uncertain"
     },
     {
       "start": 3443.02,
       "end": 3448.92,
-      "text": "And for Paul, led to Boltwood"
+      "text": "And for Paul, led to Boltwood",
+      "source": "TV"
     },
     {
       "start": 3448.92,
       "end": 3452.2,
-      "text": "of Elm Park, Hornchurch and Essex"
+      "text": "of Elm Park, Hornchurch and Essex",
+      "source": "TV"
     },
     {
       "start": 3452.2,
       "end": 3460.55,
-      "text": "It's an astonishing bit of music, really, that Leonard Skinner track."
+      "text": "It's an astonishing bit of music, really, that Leonard Skinner track.",
+      "source": "TV"
     },
     {
       "start": 3460.61,
       "end": 3462.41,
-      "text": "It just never, ever seems to date."
+      "text": "It just never, ever seems to date.",
+      "source": "uncertain"
     },
     {
       "start": 3462.53,
       "end": 3464.41,
-      "text": "You can play it time after time after time,"
+      "text": "You can play it time after time after time,",
+      "source": "uncertain"
     },
     {
       "start": 3464.47,
       "end": 3466.67,
-      "text": "and it sounds just as fresh every time you hear it."
+      "text": "and it sounds just as fresh every time you hear it.",
+      "source": "TV"
     },
     {
       "start": 3467.23,
       "end": 3468.91,
-      "text": "Here's our last one by the Handsome Beasts."
+      "text": "Here's our last one by the Handsome Beasts.",
+      "source": "uncertain"
     },
     {
       "start": 3469.13,
       "end": 3470.39,
-      "text": "It's called Another Day."
+      "text": "It's called Another Day.",
+      "source": "uncertain"
     },
     {
       "start": 3470.39,
@@ -214,132 +232,158 @@
     {
       "start": 3989.13,
       "end": 3989.89,
-      "text": "Handsome Beasts."
+      "text": "Handsome Beasts.",
+      "source": "uncertain"
     },
     {
       "start": 3989.99,
       "end": 3991.89,
-      "text": "Steve Howell on the bass, Phil Aston on guitar,"
+      "text": "Steve Howell on the bass, Phil Aston on guitar,",
+      "source": "uncertain"
     },
     {
       "start": 3992.17,
       "end": 3995.67,
-      "text": "Pete Malbasa on the drums, and Gary Dalloway on vocals."
+      "text": "Pete Malbasa on the drums, and Gary Dalloway on vocals.",
+      "source": "TV"
     },
     {
       "start": 3996.31,
       "end": 3998.18,
-      "text": "That was called Another Day."
+      "text": "That was called Another Day.",
+      "source": "uncertain"
     },
     {
       "start": 4001.67,
       "end": 4002.45,
-      "text": "What about Another Day?"
+      "text": "What about Another Day?",
+      "source": "uncertain"
     },
     {
       "start": 4002.45,
       "end": 4005.29,
-      "text": "On Rock On Tomorrow, you can hear John Anderson and Van Gillis"
+      "text": "On Rock On Tomorrow, you can hear John Anderson and Van Gillis",
+      "source": "TV"
     },
     {
       "start": 4005.29,
       "end": 4006.91,
-      "text": "talking about their current album."
+      "text": "talking about their current album.",
+      "source": "uncertain"
     },
     {
       "start": 4006.91,
       "end": 4009.67,
-      "text": "The rock on is on the air between 5 and 6.30."
+      "text": "The rock on is on the air between 5 and 6.30.",
+      "source": "uncertain"
     },
     {
       "start": 4010.05,
       "end": 4012.25,
-      "text": "Thanks to Neil and his compatriot tonight,"
+      "text": "Thanks to Neil and his compatriot tonight,",
+      "source": "TV"
     },
     {
       "start": 4012.39,
       "end": 4014.63,
-      "text": "whose name I can't remember, but thank you very much, Wicca Tom."
+      "text": "whose name I can't remember, but thank you very much, Wicca Tom.",
+      "source": "uncertain"
     },
     {
       "start": 4016.15,
       "end": 4017.17,
-      "text": "Oh, Nick. Thank you, Nick."
+      "text": "Oh, Nick. Thank you, Nick.",
+      "source": "uncertain"
     },
     {
       "start": 4017.83,
       "end": 4018.99,
-      "text": "Young Nick, not old Nick."
+      "text": "Young Nick, not old Nick.",
+      "source": "uncertain"
     },
     {
       "start": 4019.82,
       "end": 4021.2,
-      "text": "Talking about old. Wilson?"
+      "text": "Talking about old. Wilson?",
+      "source": "uncertain"
     },
     {
       "start": 4021.78,
       "end": 4023.1,
-      "text": "Yeah, well, I don't know about you,"
+      "text": "Yeah, well, I don't know about you,",
+      "source": "uncertain"
     },
     {
       "start": 4023.18,
       "end": 4024.84,
-      "text": "but I'm going to go do a bit of swimming tomorrow"
+      "text": "but I'm going to go do a bit of swimming tomorrow",
+      "source": "uncertain"
     },
     {
       "start": 4024.84,
       "end": 4026.16,
-      "text": "and see if I can lose a few pounds."
+      "text": "and see if I can lose a few pounds.",
+      "source": "uncertain"
     },
     {
       "start": 4026.44,
       "end": 4027.16,
-      "text": "Down the middle."
+      "text": "Down the middle.",
+      "source": "uncertain"
     },
     {
       "start": 4029.22,
       "end": 4031.46,
-      "text": "Well, tomorrow night, I'm going to swim all the way to Malta, mate."
+      "text": "Well, tomorrow night, I'm going to swim all the way to Malta, mate.",
+      "source": "TV"
     },
     {
       "start": 4031.82,
       "end": 4032.58,
-      "text": "White snake, yeah?"
+      "text": "White snake, yeah?",
+      "source": "uncertain"
     },
     {
       "start": 4032.76,
       "end": 4033.54,
-      "text": "Yeah, white snake."
+      "text": "Yeah, white snake.",
+      "source": "uncertain"
     },
     {
       "start": 4034.08,
       "end": 4035.46,
-      "text": "Good one. Good one next week."
+      "text": "Good one. Good one next week.",
+      "source": "uncertain"
     },
     {
       "start": 4037.41,
       "end": 4037.87,
-      "text": "That's it."
+      "text": "That's it.",
+      "source": "uncertain"
     },
     {
       "start": 4037.87,
       "end": 4039.59,
-      "text": "wherever you are"
+      "text": "wherever you are",
+      "source": "uncertain"
     },
     {
       "start": 4039.59,
       "end": 4040.99,
-      "text": "try to stay out of trouble"
+      "text": "try to stay out of trouble",
+      "source": "uncertain"
     },
     {
       "start": 4040.99,
       "end": 4043.0,
-      "text": "and God bless"
+      "text": "and God bless",
+      "source": "TV"
     },
     {
       "start": 4043.0,
       "end": 4043.72,
-      "text": "goodnight"
+      "text": "goodnight",
+      "source": "uncertain"
     }
   ]
 }
