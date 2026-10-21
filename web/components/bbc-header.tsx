@@ -2,11 +2,6 @@ import Link from "next/link";
 import Image from "next/image";
 import { ChatResetLink } from "@/components/chat-reset-link";
 
-const navLinks = [
-  { href: "/registry", label: "The Music Vendor" },
-  { href: "/references", label: "References" },
-];
-
 export function BBCHeader() {
   return (
     <header className="shrink-0">

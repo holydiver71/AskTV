@@ -40,11 +40,7 @@ export class OpenAIProvider implements AIProvider {
                 const ts = c.chunkStart !== null
                   ? formatTimestamp(c.chunkStart)
                   : "??:??:??";
-                const speaker =
-                  c.speakerSource === "TV" ? "TV" :
-                  c.speakerSource === "uncertain" ? "uncertain" :
-                  "unknown";
-                return `[TRANSCRIPT ${c.date} @ ${ts} | speaker: ${speaker}]\n${c.text}`;
+                return `[TRANSCRIPT ${c.date} @ ${ts}]\n${c.text}`;
               }
               if (sourceType === "track") {
                 const label =

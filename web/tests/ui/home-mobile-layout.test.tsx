@@ -10,7 +10,7 @@ describe("Homepage mobile layout", () => {
     const root = container.firstElementChild;
 
     expect(root).toHaveClass("justify-start");
-    expect(root).toHaveClass("pt-8");
+    expect(root).toHaveClass("pt-4");
     expect(root).toHaveClass("md:justify-center");
   });
 
@@ -28,7 +28,7 @@ describe("Homepage mobile layout", () => {
       name: "The Friday Rock Show",
     });
 
-    expect(heading).toHaveClass("text-3xl");
+    expect(heading).toHaveClass("text-[clamp(1rem,4.5vw,1.5rem)]");
     expect(heading).toHaveClass("whitespace-nowrap");
   });
 });

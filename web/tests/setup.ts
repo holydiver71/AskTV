@@ -56,7 +56,7 @@ vi.mock("next/navigation", () => {
     }),
     useSearchParams: () => ({
       // return object with a `get` method used by components
-      get: (key: string) => null,
+      get: () => null,
     }),
   };
 });

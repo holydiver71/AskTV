@@ -14,7 +14,7 @@ export async function matchTranscriptSegments(
   queryEmbedding: number[],
   matchCount = 8,
   matchThreshold = 0.45,
-  sourceFilter: string | null = "TV"
+  sourceFilter: string | null = null
 ): Promise<SegmentMatch[]> {
   // Use the anon key — this is a read-only search and RLS is not a concern here.
   const supabase = createClient(
@@ -144,8 +144,7 @@ export async function matchHybrid(
     const segments = await matchTranscriptSegments(
       queryEmbedding,
       matchCount,
-      matchThreshold,
-      "TV"
+      matchThreshold
     );
     return segments.map((s) => ({
       ...s,
@@ -170,7 +169,7 @@ export async function searchEpisodeByFts(
   episodeDate: string, // YYYY-MM-DD
   keywords: string,
   limit = 4,
-  sourceFilter: string | null = "TV"
+  sourceFilter: string | null = null
 ): Promise<UnifiedMatch[]> {
   const supabase = createClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,

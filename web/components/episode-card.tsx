@@ -2,18 +2,6 @@ import Link from "next/link";
 import { Card, CardContent } from "@/components/ui/card";
 import type { Episode } from "@/lib/types/database";
 
-function formatEpisodeLength(seconds: number | null | undefined): string {
-  if (seconds == null || Number.isNaN(seconds) || seconds <= 0) {
-    return "unknown";
-  }
-
-  const total = Math.floor(seconds);
-  const h = Math.floor(total / 3600);
-  const m = Math.floor((total % 3600) / 60);
-  const s = total % 60;
-  return `${h}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`;
-}
-
 export function EpisodeCard({
   episode,
   index,

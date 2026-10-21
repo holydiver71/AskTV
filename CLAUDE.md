@@ -88,6 +88,26 @@ Tables: `episodes`, `tracks`, `sessions`, `transcript_segments`. Embeddings use 
 }
 ```
 
+## Current Status (as of 2026-10-21)
+
+**Direction change**: the per-segment speaker `source` attribute (`TV` / guest / `unknown`) is being **abandoned** — manual checking was too tedious. Ask TV should answer from transcripts regardless of who was speaking. Do not extend diarisation work; `plans/speaker-diarisation-plan.md` and `plans/plan-speakerDiarisation.prompt.md` are shelved.
+
+Where things stood:
+- Last work (Jun–Jul 2026): `scripts/diarise_transcripts.py` ran over 1978–1984; manual checking reached 1981-07-03. Most JSONs in 1978–1984 now carry a `source` field; 1985–1993 do not.
+- Commit `a5c193a` ("diarise support for the app") wired `source` into the app: `web/lib/db/retrieval.ts` (`sourceFilter`), `web/lib/ai/context.ts` (speaker tags), `web/lib/ai/system-prompt.ts` ("Speaker attribution rules"), `match_segments.sql` / `match_hybrid.sql` return `source`, and `scripts/upload_episodes.py` uploads it.
+- Commit `e576393` added temporal intent detection / re-ranking for date queries.
+- Single branch `main`, in sync with `origin/main`; no stashes, no uncommitted changes, no TODO/FIXME comments in code.
+- Open plan items: `plans/AskTV.plan.md` (HTTP 429 handling, non-AI resilience, provider swap) and `plans/phase2.md` (donations/funding).
+
+Speaker removal (2026-10-21): retrieval no longer defaults to `source = 'TV'`, and speaker tags and attribution rules were removed from the context and system prompt. The `source` column and SQL `source_filter` param remain for compatibility.
+
+Health check:
+- `npm run build` passes, all 28 tests pass, and lint is clean.
+- No Python linter (`ruff`/`flake8`) installed in `.venv`, despite the lint requirement.
+- No `.env` / `web/.env.local` found; Supabase + OpenAI keys needed (see `scripts/validate_env.py`).
+
+Likely next steps: remove speaker attribution rules from the system prompt and speaker tags from context; stop filtering by `source` in retrieval (keep the DB column, harmless); ensure all years 1978–1993 are vectorised/uploaded; then install deps and confirm lint/test/build pass.
+
 ## Python Environment
 
 - Runtime: Python 3.13

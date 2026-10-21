@@ -92,7 +92,7 @@ describe("POST /api/chat", () => {
     });
 
     expect(embedQueryMock).toHaveBeenCalledWith("When did he play Motorhead?");
-    expect(matchHybridMock).toHaveBeenCalledWith([0.1, 0.2, 0.3], 12, 0.35);
+    expect(matchHybridMock).toHaveBeenCalledWith([0.1, 0.2, 0.3], expect.any(String), 12, 0.35);
     expect(generateAnswerMock).toHaveBeenCalledWith(
       "When did he play Motorhead?",
       [

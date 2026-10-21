@@ -55,7 +55,7 @@ export default async function RegistryPage({
           <h2 className="text-2xl sm:text-3xl font-semibold tracking-tight">
             {selectedYear || "All years"}
             {artist ? (
-              <span className="text-2xl sm:text-3xl font-semibold text-muted-foreground ml-3">· filtered by "{artist}"</span>
+              <span className="text-2xl sm:text-3xl font-semibold text-muted-foreground ml-3">· filtered by &ldquo;{artist}&rdquo;</span>
             ) : null}
           </h2>
         </div>
