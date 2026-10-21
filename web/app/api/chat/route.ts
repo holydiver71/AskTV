@@ -24,6 +24,10 @@ const requestSchema = z.object({
     .default([]),
 });
 
+// Wider retrieval pool used when filtering to a single mentioned year.
+const YEAR_SEARCH_COUNT = 60;
+const MAX_FALLBACK_CITATIONS = 4;
+
 const NO_CONTEXT_REPLY =
   "I'm afraid that's not something I can find in the archive right now.";
 
@@ -60,10 +64,20 @@ export async function POST(request: NextRequest) {
     const embedding = await getProvider().embedQuery(message);
 
     // 2. Retrieve the most relevant transcript and metadata matches.
+    const mentionedYear = extractMentionedYear(message);
     let matches: UnifiedMatch[];
     try {
       const ftsKeywords = extractFtsKeywords(message);
       matches = await matchHybrid(embedding, ftsKeywords, 12, 0.35);
+
+      // When the query names a year (but no specific date), vector search
+      // alone ignores it, so other years crowd out the right one. Widen the
+      // search and keep only that year's matches, if any were found.
+      if (mentionedYear && !extractMentionedDate(message)) {
+        const wide = await matchHybrid(embedding, ftsKeywords, YEAR_SEARCH_COUNT, 0.3);
+        const inYear = wide.filter((m) => m.date.startsWith(mentionedYear));
+        if (inYear.length > 0) matches = inYear;
+      }
 
       // When the query names a specific date, guarantee that episode's
       // transcript chunks are included even if they were crowded out of
@@ -109,7 +123,12 @@ export async function POST(request: NextRequest) {
     // 5. Generate the grounded Tommy Vance answer.
     const result = await getProvider().generateAnswer(message, context, history);
 
-    const enriched = ensureAnswerHasCitations(result.answer, result.citations, context);
+    const enriched = ensureAnswerHasCitations(
+      result.answer,
+      result.citations,
+      context,
+      mentionedYear
+    );
 
     return NextResponse.json({
       answer: enriched.answer,
@@ -291,10 +310,60 @@ function applyTemporalReRank(
   return [...sorted, ...transcripts];
 }
 
+/** Returns a single FRS-era year (1978–1993) named in the message, or null. */
+function extractMentionedYear(message: string): string | null {
+  const years = new Set(message.match(/\b(197[89]|198\d|199[0-3])\b/g) ?? []);
+  return years.size === 1 ? [...years][0] : null;
+}
+
+/**
+ * True when the answer refers to the block's episode date, either as
+ * YYYY-MM-DD or as "<Month> <day>" / "<day> <Month>".
+ */
+function answerMentionsDate(answer: string, date: string): boolean {
+  if (answer.includes(date)) return true;
+  const [, m, d] = date.split("-");
+  const day = String(Number(d));
+  const months = Object.keys(MONTH_NAMES).filter((k) => MONTH_NAMES[k] === m);
+  const pattern = new RegExp(
+    `\\b(?:(?:${months.join("|")})\\.?\\s+${day}(?:st|nd|rd|th)?\\b|${day}(?:st|nd|rd|th)?\\s+(?:of\\s+)?(?:${months.join("|")})\\b)`,
+    "i"
+  );
+  return pattern.test(answer);
+}
+
+/**
+ * Choose context blocks to cite when the model omitted citations: blocks
+ * whose date the answer mentions, else blocks from the year asked about,
+ * else the top-ranked blocks. One citation per episode date.
+ */
+function pickFallbackBlocks(
+  answer: string,
+  context: ContextBlock[],
+  mentionedYear: string | null
+): ContextBlock[] {
+  const byMention = context.filter((c) => answerMentionsDate(answer, c.date));
+  const byYear = mentionedYear
+    ? context.filter((c) => c.date.startsWith(mentionedYear))
+    : [];
+  const pool = byMention.length > 0 ? byMention : byYear.length > 0 ? byYear : context;
+
+  const seenDates = new Set<string>();
+  const picked: ContextBlock[] = [];
+  for (const c of pool) {
+    if (seenDates.has(c.date)) continue;
+    seenDates.add(c.date);
+    picked.push(c);
+    if (picked.length >= MAX_FALLBACK_CITATIONS) break;
+  }
+  return picked;
+}
+
 function ensureAnswerHasCitations(
   answer: string,
   citations: Citation[],
-  context: ContextBlock[]
+  context: ContextBlock[],
+  mentionedYear: string | null = null
 ) {
   if (citations.length > 0) {
     return { answer, citations };
@@ -304,9 +373,9 @@ function ensureAnswerHasCitations(
     return { answer, citations };
   }
 
-  // Safety net: append up to two nearest context citations when the model
-  // forgot to include inline citation markers.
-  const fallbackCitations = context.slice(0, 2).map((c) => {
+  // Safety net: append citations for the episodes the answer actually
+  // refers to when the model forgot to include inline citation markers.
+  const fallbackCitations = pickFallbackBlocks(answer, context, mentionedYear).map((c) => {
     if (c.chunkStart !== null) {
       return formatCitation(c.date, c.chunkStart);
     }

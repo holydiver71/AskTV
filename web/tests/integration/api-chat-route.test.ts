@@ -207,6 +207,47 @@ describe("POST /api/chat", () => {
     });
   });
 
+  it("filters matches to a year named in the query and cites only that year", async () => {
+    const track = (id: string, date: string, track: string) => ({
+      id,
+      episode_id: `ep-${date}`,
+      source_type: "track",
+      chunk_start: null,
+      chunk_end: null,
+      text: `${date}. Artist: Iron Maiden. Track: ${track}.`,
+      date,
+      similarity: 0.7,
+    });
+    embedQueryMock.mockResolvedValue([0.5]);
+    matchHybridMock.mockResolvedValue([
+      track("m-1", "1984-05-25", "Iron Maiden"),
+      track("m-2", "1985-10-18", "Children Of The Damned"),
+      track("m-3", "1985-11-01", "Phantom Of The Opera"),
+    ]);
+    generateAnswerMock.mockResolvedValue({
+      answer: "On November 1 I played Phantom Of The Opera.",
+      citations: [],
+    });
+
+    const response = await postJson({
+      message: "which tracks were played from iron maiden in 1985?",
+      history: [],
+    });
+    expect(response.status).toBe(200);
+
+    // Second call is the widened year search.
+    expect(matchHybridMock).toHaveBeenLastCalledWith([0.5], expect.any(String), 60, 0.3);
+    const contextDates = (
+      generateAnswerMock.mock.calls[0] as unknown as [string, Array<{ date: string }>]
+    )[1].map((c) => c.date);
+    expect(contextDates).toEqual(["1985-10-18", "1985-11-01"]);
+
+    const body = await response.json();
+    expect(body.answer).toContain("[1985-11-01 — track listing]");
+    expect(body.answer).not.toContain("1984-05-25");
+    expect(body.answer).not.toContain("[1985-10-18");
+  });
+
   it("returns 504 for provider timeout errors", async () => {
     embedQueryMock.mockResolvedValue([0.9]);
     matchHybridMock.mockResolvedValue([]);
