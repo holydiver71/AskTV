@@ -20,6 +20,8 @@ const SUGGESTED_PROMPTS = [
   "What tracks did Motörhead have in 1980?",
 ];
 
+const CHAT_STORAGE_KEY = "asktv-chat";
+
 export default function ChatPage() {
   return (
     <Suspense>
@@ -40,14 +42,42 @@ function ChatPageInner() {
   const shouldRefocusInput = useRef(false);
   const hasMessages = messages.length > 0;
 
+  const restoredKey = useRef<string | null | undefined>(undefined);
+
   useEffect(() => {
-    // Reset state asynchronously to avoid synchronous setState-in-effect
+    // Restore the conversation for this session key (e.g. after Back from a
+    // citation link), or start fresh. Done asynchronously to avoid
+    // synchronous setState-in-effect.
     const t = setTimeout(() => {
-      setMessages([]);
+      let restored: ChatMessage[] = [];
+      try {
+        const raw = sessionStorage.getItem(CHAT_STORAGE_KEY);
+        const saved = raw ? JSON.parse(raw) : null;
+        if (saved && saved.key === sessionKey && Array.isArray(saved.messages)) {
+          restored = saved.messages;
+        }
+      } catch {
+        // Storage unavailable or corrupt — start fresh
+      }
+      restoredKey.current = sessionKey;
+      setMessages(restored);
       setInput("");
     }, 0);
     return () => clearTimeout(t);
   }, [sessionKey]);
+
+  useEffect(() => {
+    // Don't overwrite saved state before it has been restored
+    if (restoredKey.current !== sessionKey) return;
+    try {
+      sessionStorage.setItem(
+        CHAT_STORAGE_KEY,
+        JSON.stringify({ key: sessionKey, messages })
+      );
+    } catch {
+      // Ignore quota / privacy-mode errors
+    }
+  }, [messages, sessionKey]);
 
   useEffect(() => {
     if (hasMessages) {
