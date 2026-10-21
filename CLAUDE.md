@@ -106,6 +106,8 @@ Health check:
 - No Python linter (`ruff`/`flake8`) installed in `.venv`, despite the lint requirement.
 - No `.env` / `web/.env.local` found; Supabase + OpenAI keys needed (see `scripts/validate_env.py`).
 
+Database contents (2026-10-21): 1978–1986 are uploaded and embedded (383 episodes, ~7,200 transcript segments). 1981–1986 were added today via `upload_episodes.py --year …`, then `vectorise_transcripts.py` and `vectorise_metadata.py`. A few episodes have no local transcript (e.g. 1979-01-05, 1980-07-25, and 6 in 1985). 1987–1993 are not transcribed yet (204 episodes).
+
 Likely next steps: remove speaker attribution rules from the system prompt and speaker tags from context; stop filtering by `source` in retrieval (keep the DB column, harmless); ensure all years 1978–1993 are vectorised/uploaded; then install deps and confirm lint/test/build pass.
 
 ## Python Environment

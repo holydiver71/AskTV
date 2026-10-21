@@ -6,7 +6,7 @@ import { cn } from "@/lib/utils";
 export const metadata = {
   title: "AskTV — The Friday Rock Show Revival",
   description:
-    "A searchable digital archive of Tommy Vance's Friday Rock Show on BBC Radio 1. Browse every episode, track, and session from 1980 — or ask TV.",
+    "A searchable digital archive of Tommy Vance's Friday Rock Show on BBC Radio 1. Browse every episode, track, and session from 1978 to 1986 — or ask TV.",
 };
 
 export default function Home() {
@@ -42,7 +42,7 @@ export default function Home() {
       </div>
 
       <p className="text-xs text-[#003087] font-semibold">
-        Temporary note: only episodes from 1978 to 1980 are currently available to research.
+        Temporary note: only episodes from 1978 to 1986 are currently available to research.
       </p>
     </div>
   );

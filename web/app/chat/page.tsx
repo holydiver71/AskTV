@@ -169,7 +169,7 @@ function ChatPageInner() {
               The Friday Rock Show Archive · Ask me anything about the shows
             </p>
             <p className="text-xs text-amber-300/90">
-              Temporary note: only 1980 episodes are currently available to
+              Temporary note: only episodes from 1978 to 1986 are currently available to
               research.
             </p>
           </div>
